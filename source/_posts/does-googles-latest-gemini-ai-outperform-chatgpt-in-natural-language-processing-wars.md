@@ -1,7 +1,7 @@
 ---
 title: Does Google's Latest Gemini AI Outperform ChatGPT in Natural Language Processing Wars?
-date: 2024-07-23 12:30:58
-updated: 2024-07-26 12:46:53
+date: 2024-08-02T16:15:43.070Z
+updated: 2024-08-03T16:15:43.070Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
@@ -46,6 +49,18 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
@@ -66,10 +81,16 @@ thumbnail: https://thmb.techidaily.com/18b7f2a3affa298abd49de738912f69fd84b1ae73
 
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
@@ -78,10 +99,16 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 Here's the source screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
@@ -98,6 +125,9 @@ Here's the source screenshot.
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## Is Gemini Better than ChatGPT?
 
  Before Google launched Bard, we thought it'd be the ChatGPT competition we had been waiting for—it wasn't. Now, Gemini is here, and so far, Gemini Pro doesn't seem like the model to give ChatGPT the knockout punch.

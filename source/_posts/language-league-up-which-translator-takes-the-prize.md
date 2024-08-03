@@ -1,7 +1,7 @@
 ---
 title: "Language League-Up: Which Translator Takes the Prize?"
-date: 2024-07-25 13:27:56
-updated: 2024-07-26 10:46:27
+date: 2024-08-02T16:15:58.189Z
+updated: 2024-08-03T16:15:58.189Z
 tags:
   - chatgpt
   - open-ai
@@ -17,8 +17,14 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
  On May 10th, 2023, Google announced a major upgrade to its large language model (LLM) chatbot Bard AI at Google I/O.Google's Pathways Language Model 2 (PaLM 2) will improve Bard's performance by featuring support for different programming languages, third-party extensions, integration with other Google products, and other interesting additions. Let's explore in detail how PaLM 2 will revolutionize Bard AI.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Support for Different Programming Languages
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
@@ -37,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
 ## 3\. Better Logic and Reasoning
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
@@ -45,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
 ## 4\. Med-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
 
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
@@ -69,14 +81,23 @@ thumbnail: https://thmb.techidaily.com/aa15e346f7d15551b7e87cd1f2e88212dee28fcef
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Workspace
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
 
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PaLM 2 WIll Revolutionize Google Bard
 
  PaLM 2 LLM has provided Google with an appropriate response to Microsoft's Bing search engine and OpenAI's ever-popular ChatGPT. The new upgrades to Bard will not only give you better satisfaction but provide you with increased safety across Google products.

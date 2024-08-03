@@ -1,7 +1,7 @@
 ---
 title: "Chaos and Law: Italy’s Instant Ban on AI Language Model"
-date: 2024-07-22 16:11:37
-updated: 2024-07-25 11:37:31
+date: 2024-08-02T16:16:41.633Z
+updated: 2024-08-03T16:16:41.633Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 
 ## Battle of the Titans: Llama 3 Against GPT-nAi in an Intense Showdown
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is GPT-4?](https://www.makeuseof.com/llama-3-vs-gpt-4-which-is-better/#what-is-gpt-4)
@@ -28,8 +31,14 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 
  Llama 3 and GPT-4 are two of the most advanced large language models (LLMs) available to the public. Let’s see which LLM is better by comparing both models in terms of multimodality, context length, performance, and cost.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is GPT-4?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking GPT-4o using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/886c4fbb-dd01-42da-b2de-ff25a87fa046.jpg)
 
  GPT-4 is the latest large language model (LLM) developed by OpenAI. It builds upon the foundations of the older GPT-3 models while using different training techniques and optimizations using a much larger dataset. This significantly increased the parameter size of GPT-4, which is rumored to have a combined total of 1.7 trillion parameters from its smaller expert models. With the new training, optimizations, and larger number of parameters, GPT-4 provides improvements in reasoning, problem-solving, context understanding, and better handling of nuanced instructions.
@@ -44,6 +53,9 @@ There are currently three variations of the model:
 
 ## What Is Llama 3?
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Llama 3 using chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/28948759-e06d-4eca-9dc6-df6a41cf888a.jpg)
 
  Llama 3 is an open-source LLM developed by Meta AI (parent company of Facebook, Instagram, and WhatsApp), trained using a combination of supervised fine-tuning, rejection sampling, and policy optimization with a diverse dataset including millions of human-annotated examples. Its training focused on high-quality prompts and preference rankings, aiming to create a versatile and capable AI model.
@@ -99,12 +111,18 @@ Here’s what each criterion evaluates:
 
  The recent benchmarks highlight the performance difference between GPT-4 and Llama 3 models. Though the Llama 3 8B model seems to lag significantly behind, the 70B and 400B models provide lower but similar results to both GPT-4o and GPT-4 Turbo models in terms of academic and general knowledge, reading and comprehension, reasoning and logic, and coding. However, no Llama 3 model is yet to come close to the performance of GPT-4 in terms of pure mathematics.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cost
 
  Cost is a critical factor for many users. OpenAI's GPT-4o model is available to all ChatGPT users for free at a 16-message limit every 3 hours. If you need more, then you'll have to subscribe to ChatGPT Plus, which costs $20 USD per month to expand GPT-4o's message limit to 80 while also having access to the other GPT-4 models.
 
  On the other hand, both Llama 3 8B and 70B models are free and open-source, which can be a significant advantage for developers and researchers looking for a cost-effective solution without compromising on performance.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Accessibility
 
  GPT-4 models are widely accessible through OpenAI's ChatGPT generative AI chatbot and through its API. You can also use GPT-4 on Microsoft Copilot, which is[one way you can use GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This widespread availability ensures that users can easily leverage its capabilities across different use cases. In contrast, Llama 3 is an open-source project that provides model flexibility and encourages broader experimentation and collaboration within the AI community. This open-access approach can democratize AI technology, making it available to a much wider audience.

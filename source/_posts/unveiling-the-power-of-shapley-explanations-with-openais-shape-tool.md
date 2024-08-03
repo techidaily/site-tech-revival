@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Power of Shapley Explanations with OpenAI's ShapE Tool
-date: 2024-07-23 18:12:54
-updated: 2024-07-24 10:11:48
+date: 2024-08-02T16:16:28.961Z
+updated: 2024-08-03T16:16:28.961Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 
  For the first task, both chatbots were able to crack the problem. So, we moved on to a different kind of problem. We tasked both chatbots with answering a trick question.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Answers Trick Question-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-answers-trick-question-1.jpg)
 
  ChatGPT was able to immediately spot the trick--you can't bury survivors because they aren't dead. Claude AI, on the other hand, seemed to understand that it was a trick question but failed to spot the most common-sense issue that you don't bury survivors.
@@ -41,14 +44,23 @@ thumbnail: https://thmb.techidaily.com/f33adb8a41f790bc858c47b5fb66f5998fe40f100
 
  On this task, we give it to ChatGPT, but we can't totally rule out Claude AI's approach. For our final task on this metric, we asked both chatbots how many apples would be left on an apple tree after five and 10 days respectively if we started with 10 apples and five of them got sliced while still on the tree. ChatGPT said there'd still be 10 apples left.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT birds commonsense logic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-birds-commonsense-logic.jpg)
 
  Claude AI, on the other hand, gave a more common-sense response by recognizing that the five sliced apples are likely to rot.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Claude AI Common sense reasoning with Apple rotting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-common-sense-reasoning-with-apple-rotting.jpg)
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -67,10 +79,16 @@ ChatGPT also cracked the problem as well.
 
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude AI: Creativity
 
  One of Claude AI's biggest hype is its creative abilities. But can it match ChatGPT's creativity? Or, could it possibly surpass ChatGPT? To put both chatbots to the test, we tasked them with writing lyrics for a rap song that rhymes.
@@ -79,6 +97,10 @@ ChatGPT also cracked the problem as well.
 
  So, we asked both ChatGPT and Claude AI to "write a rhyming rap about growing cucumbers as a farmer and becoming a millionaire from it." ChatGPT went first, and as expected, it produced some exciting lyrics.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
@@ -89,6 +111,9 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -111,6 +136,9 @@ ChatGPT also cracked the problem as well.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Claude AI Is a Potent Competitor on the Block
 
  Claude AI represents a potent competition for ChatGPT--one that can compete with and potentially surpass ChatGPT someday. Given Claude is a relatively new AI model, it is enviable that it can take on ChatGPT the way it currently does. Claude AI's emergence and the quality it offers proof that the competition is heating up.

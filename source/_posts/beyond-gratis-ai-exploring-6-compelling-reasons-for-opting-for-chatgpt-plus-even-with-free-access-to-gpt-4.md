@@ -1,7 +1,7 @@
 ---
 title: "Beyond Gratis AI: Exploring 6 Compelling Reasons for Opting for ChatGPT Plus Even with Free Access to GPT-4"
-date: 2024-07-26 14:41:43
-updated: 2024-07-28 10:45:51
+date: 2024-08-02T16:15:51.345Z
+updated: 2024-08-03T16:15:51.345Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,18 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  In the example below, we asked ChatGPT to split an image into quadrants and invert the colors on the last quadrant.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
@@ -47,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
@@ -69,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
@@ -85,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -97,6 +118,9 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Write and Analyze Code
 
  If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
@@ -117,6 +141,9 @@ thumbnail: https://thmb.techidaily.com/5255f0c0ac11261d99ef752e1d8ce7d04128bb9f4
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## A Powerful Tool at Your Fingertips
 
  While it is important to recognize that the current capabilities of the Code Interpreter plugin is limited in many ways, the plugin still represents one of the most powerful features available in an AI chatbot anywhere on the internet.

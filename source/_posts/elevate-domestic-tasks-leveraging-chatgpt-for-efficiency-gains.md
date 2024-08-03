@@ -1,7 +1,7 @@
 ---
 title: "Elevate Domestic Tasks: Leveraging ChatGPT for Efficiency Gains"
-date: 2024-07-27 11:53:16
-updated: 2024-07-28 10:24:24
+date: 2024-08-02T16:15:53.260Z
+updated: 2024-08-03T16:15:53.260Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
  While some of the extensions improve the ChatGPT app, others use the AI's abilities in other webapps (such as Gmail) to improve the experience there. Do note that all but of one of these extensions require you to have a registered free account on OpenAI's ChatGPT portal.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. WebChatGPT
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -57,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
  You can make it a simple and easy command; for example, "Write a reply to this email about my interest in the job and seek information about salary."
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
@@ -73,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
@@ -99,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)

@@ -1,7 +1,7 @@
 ---
 title: 11 Powerful Conversational Prompts That Will Elevate Your Character Building Skills in Literature
-date: 2024-07-22 15:26:24
-updated: 2024-07-25 12:42:37
+date: 2024-08-02T16:15:33.948Z
+updated: 2024-08-03T16:15:33.948Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 
  You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
@@ -37,6 +43,9 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -50,10 +59,19 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close

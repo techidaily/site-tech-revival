@@ -1,7 +1,7 @@
 ---
 title: Innovative Writing Techniques Using ChatGPT for Dynamic Video Game Plotting
-date: 2024-07-25 23:19:52
-updated: 2024-07-28 11:17:45
+date: 2024-08-02T16:16:09.056Z
+updated: 2024-08-03T16:16:09.056Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Create and Edit Images
 
  You can pull off a lot of interesting image manipulation tricks with[ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/) . The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
@@ -37,10 +40,16 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  In the example below, we asked ChatGPT to split an image into quadrants and invert the colors on the last quadrant.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
 
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
@@ -85,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -97,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Write and Analyze Code
 
  If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
@@ -111,6 +126,9 @@ thumbnail: https://thmb.techidaily.com/04440a12467eb00d2e76ab58c49996f10e544f909
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.

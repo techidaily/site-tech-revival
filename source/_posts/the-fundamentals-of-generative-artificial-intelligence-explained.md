@@ -1,7 +1,7 @@
 ---
 title: The Fundamentals of Generative Artificial Intelligence Explained
-date: 2024-07-25 13:10:51
-updated: 2024-07-28 10:57:14
+date: 2024-08-02T16:15:30.292Z
+updated: 2024-08-03T16:15:30.292Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ## 1.[Prompt Engineering for ChatGPT (Coursera)](https://www.coursera.org/learn/prompt-engineering)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
 
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
@@ -41,8 +47,14 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
 
  In this LinkedIn Learning course, creative expert Dave Birss shows how Generative AI tools present a huge opportunity to advance your career. As Birss points out, humans usually use technology to automate repetitive activities. Thanks to AI, you can now use tech to automate thinking.
@@ -67,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
@@ -79,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Learn AI Prompt Engineering Today
 
  You don't need advanced tech knowledge to enroll in these online courses. You only need a creative mind, access to AI tools, and an openness to explore concepts in artificial intelligence. If you started as a skeptic, you'd come out of these videos more open-minded about the benefits of AI on your career and personal life.

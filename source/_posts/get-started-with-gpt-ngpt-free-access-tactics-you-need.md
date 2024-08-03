@@ -1,7 +1,7 @@
 ---
 title: Get Started with GPT-nGPT - FREE Access Tactics You Need
-date: 2024-07-24 17:20:28
-updated: 2024-07-25 10:51:53
+date: 2024-08-02T16:16:14.375Z
+updated: 2024-08-03T16:16:14.375Z
 tags:
   - chatgpt
   - open-ai
@@ -42,10 +42,24 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 5. Once done, speak your query into the app—whatever you say will appear on the ChatGPT interface integrated with the app.
 6. To set the mic to be automatically reactivated, toggle on**Auto Reactivate Microphone** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enable hey chat hotword](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![set up voice input in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs3.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice inputs in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs2.jpg)
 
 Close
@@ -62,8 +76,14 @@ Close
 2. Next, tap on any one of the categories and simply fill in the details of your prompt by typing it out or using your device's built-in voice typing feature.
 3. Hit**Execute Prompt** to get relevant responses from ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Game prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun1.jpg)
 
 ![Fun category prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun2.jpg)
@@ -76,6 +96,9 @@ Close
 
  VoiceGPT isn't only useful when it comes to voice commands. You can also take advantage of its other non-voice integrations, such as extracting text from images, executing code snippets, and generating images with DALL-E 2\. Let's take a look at these features below.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Execute Code Snippets With RunGPT
 
  The RunGPT integration with VoiceGPT enables you to interact with the chatbot to execute a variety of code snippets. To do this, tap the**three-line** icon in the bottom panel.
@@ -84,22 +107,39 @@ Close
 
  For instance, you can use the RunGPT integration to pull up a random password or write out a script. Once done, tap**Run** in the ChatGPT interface to generate your output.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
 ![Coding prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![RunGPT integration for code snippets in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt1.jpg)
 
 Close
 
  For those of us looking to optimize and speed up our coding process workflow or simply learn new[programming techniques with ChatGPT](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , this feature can be helpful.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Generate AI Images With DALL-E 2
 
  You can get AI-based images right from within the VoiceGPT app. To get started, hit the**hamburger** icon (the three horizontal lines) in the bottom menu to bring up a confirmation window. Tap**I Understand** , and you'll be redirected to the DALL-E 2 app.
 
  Simply describe the kind of image you want with detailed prompts.[DALL-E will then generate a few AI-based images](https://www.makeuseof.com/how-to-use-dall-e-2/) that closely match your description.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Confirmation screen for DALL-E2 in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e1.jpg)
 
 ![Dall-e2 interface in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e2.jpg)
@@ -122,6 +162,9 @@ Close
 
  Undoubtedly, this feature can be a powerful time saver for anyone who needs to extract text from various sources, such as business cards, posters, flyers, or receipts. You can also check out[these OCR apps for your smartphone](https://www.makeuseof.com/tag/best-android-ocr-apps-extracting-text-images/) .
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get More Done With ChatGPT via Voice Commands
 
  VoiceGPT is a handy app that offers voice-controlled access to the popular ChatGPT model. You can automate certain tasks and make tasks a lot simpler by simply speaking out your requests.

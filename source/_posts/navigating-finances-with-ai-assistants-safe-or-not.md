@@ -1,7 +1,7 @@
 ---
 title: "Navigating Finances with AI Assistants: Safe or Not?"
-date: 2024-07-26 16:27:11
-updated: 2024-07-29 10:26:29
+date: 2024-08-02T16:15:46.683Z
+updated: 2024-08-03T16:15:46.683Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
  In 2014, Internet journalists exploded in a frenzy of excitement when a London-based computer program named Eugene Goostman seemingly passed the Turing Test. In 2022 Google's LaMDA reportedly did the same, but what happened? Did they pass the test? What do artificial intelligence advancements mean for the Turing Test?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## What Is the Turing Test?
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
@@ -38,8 +44,14 @@ Here is the standard interpretation of the Turing Test:
 
  The conventional criteria for passing the test is subjective but, as a general understanding, requires the machine to fool at least 30% of all human interrogators. Turing predicted that any machine to do that could be "smart" enough to be labeled as a "thinking machine."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -50,6 +62,9 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
@@ -88,6 +103,9 @@ Here is the standard interpretation of the Turing Test:
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Turing Test Has Not Been Definitively Passed
 
  Artificial intelligence continues to grow, and although there have been several claims, there is still no definitive agreed industry agreement that the Turing Test has been beaten. This is largely due to the subjective nature of what constitutes "intelligence" and the limitations of the Turing Test parameters.

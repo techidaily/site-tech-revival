@@ -1,7 +1,7 @@
 ---
 title: Can AI Be a Boon or Bane for Mental Support Systems?
-date: 2024-07-25 11:27:19
-updated: 2024-07-27 12:38:58
+date: 2024-08-02T16:15:34.673Z
+updated: 2024-08-03T16:15:34.673Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
 ## To Use or Not to Use a Localized Legal Expert System? Weighing Your Options
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Less censorship: Local LLMs offer the freedom to discuss thought-provoking topics without the restrictions imposed on public chatbots, allowing for more open conversations.
@@ -25,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
  Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## The Pros of Using Local LLMs
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
@@ -37,10 +44,22 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
  Today, both[chatbots have been so tightly censored](https://www.makeuseof.com/what-is-chatbot-censorship/) that they won't even help you write a fictional crime novel with violent scenes. Some AI chatbots won't even talk about religion or politics. Although LLMs you can set up locally aren't entirely censorship-free, many of them will gladly do the thought-provoking things the public-facing chatbots won't do. So, if you don't want a robot lecturing you about morality when discussing topics of personal interest, running a local LLM might be the way to go.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 2\. Better Data Privacy
 
  One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 3\. Offline Usage
 
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
@@ -55,10 +74,16 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
 ## The Cons of Using Local LLMs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
  Before you make the switch, there are some downsides to using a local LLM you should consider.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### 1\. Resource Intensive
 
  To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
@@ -69,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 
  In short, unless you're rocking an absolute top-of-the-line setup (we're talking AMD Ryzen 5800X3D with an Nvidia RTX 4090 and enough RAM to sink a ship), the overall performance of your local LLM won't compare to the online generative AI chatbots you're used to.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Complex Setup
 
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.

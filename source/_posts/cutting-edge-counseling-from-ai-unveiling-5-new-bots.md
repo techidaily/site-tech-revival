@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Counseling From AI: Unveiling 5 New Bots"
-date: 2024-07-26 14:57:42
-updated: 2024-07-29 12:29:18
+date: 2024-08-02T16:15:47.734Z
+updated: 2024-08-03T16:15:47.734Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/0b08703f0711aa278d64397e12272d17e9628dac2
 
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
@@ -41,14 +44,23 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
@@ -57,6 +69,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
@@ -69,6 +84,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## GPT-4: A Step Up from GPT-3.5
 
  Undoubtedly, GPT-4 is a significant step up from its predecessor models. While it is still plagued with some of the limitations of GPT-3.5, significant improvements in several areas and the addition of new capabilities make the model an exciting new step in the pursuit of truly intelligent AI language models.

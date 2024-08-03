@@ -1,7 +1,7 @@
 ---
 title: Wait No More! Dive Into This Expertly Crafted Open Source Chatbot Alternative Today
-date: 2024-07-22 10:12:26
-updated: 2024-07-25 11:21:49
+date: 2024-08-02T16:16:22.487Z
+updated: 2024-08-03T16:16:22.487Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -43,12 +46,21 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Install and Configure ChatGPT Desktop Application
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -57,8 +69,14 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.

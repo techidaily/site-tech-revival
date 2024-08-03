@@ -1,7 +1,7 @@
 ---
 title: Evaluating AI Detectors' Reliability - Four Startling Cases That Challenge ZeroGPT Trustworthiness
-date: 2024-07-27 16:19:24
-updated: 2024-07-28 11:43:40
+date: 2024-08-02T16:15:50.270Z
+updated: 2024-08-03T16:15:50.270Z
 tags:
   - chatgpt
   - open-ai
@@ -21,12 +21,18 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
 
  Let’s take a closer look at AI detection tools and see whether they can tell the difference between human and AI-generated text.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Testing AI-Detection Tools
 
  They say that the proof of the pudding is in the eating. So, let’s try some tests and see just how effective these tools are. It is impossible to test every tool, so we're testing one of the most popular tools—ZeroGPT.
 
  For material, we thought it would be quite fun to give ChatGPT a crack at writing an intro for this article and then comparing it against the “human-generated” intro:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Test One: Comparing a Human and AI-Generated Article Intro
 
  The first thing we did was get ChatGPT to generate an introduction. We entered the title and gave it no further information. For the record, we used GPT-3.5 for the test.
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
 
  We then copied the text and pasted it into ZeroGPT. As you can see, the results were less than stellar.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT incorrect response to AI intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-incorrect-response-to-ai-intro.jpg)
 
  An inconspicuous start, but it does illustrate just how effective AI chatbots are. To complete the test, we let ZeroGPT analyze a human-created draft intro.
@@ -67,6 +76,10 @@ And here was the response from ZeroGPT:
 
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Test Four: News Articles
 
  There is something unsettling about AI being able to inform us of what’s happening in the world around us. This is not always necessarily “fake news,” as it can be relevant and informative, but there are[definite ethical concerns about AI](https://www.makeuseof.com/ethical-dilemmas-in-artificial-intelligence/) .
@@ -77,12 +90,18 @@ And here was the response from ZeroGPT:
 
  The tool so consistently flagged each news article as AI-generated that we decided to test it on a dummy news article that we wrote for the purpose.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT misidentifying news story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-misidentifying-news-story.jpg)
 
  It did at least identify some of the articles as human-generated, but it flagged over 70% as AI-generated. Again, we need to be fair here; this was a fairly basic re-hash of the Bing article and was hardly Pulitzer Prize quality.
 
  But the point remains valid. This was written by a human using research found on the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Why Aren't AI-Detection Tools Very Good?
 
  There is no single reason behind the flaws in tools like ZeroGPT. However, one fundamental problem is the effectiveness of generative AI chatbots. These represent an incredibly powerful and rapidly evolving technology that effectively makes them a moving target for AI detection tools.
@@ -97,6 +116,9 @@ And here was the response from ZeroGPT:
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)
@@ -107,6 +129,9 @@ And here was the response from ZeroGPT:
 
  The challenges that these tools face are mirror images of the challenges that society faces as we grapple with the dilemmas associated with a new technological age.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI or Not AI? That Is the Question
 
  Tools like ZeroGPT are flawed, there is no doubt of that. But they aren’t worthless, and they represent an important step as we try to manage and regulate AI. Their accuracy will improve, but so will the sophistication of the AI they are trained to detect. Somewhere in the middle of this arms race, we need to find a balance that society is comfortable with.

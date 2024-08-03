@@ -1,7 +1,7 @@
 ---
 title: "Llama 3 and GPT-4 Face Off: Unveiling the Leading Force of AI Innovation"
-date: 2024-07-23 15:30:59
-updated: 2024-07-26 11:14:40
+date: 2024-08-02T16:16:38.846Z
+updated: 2024-08-03T16:16:38.846Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,15 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 
  However, with the introduction of advanced AI chatbots like ChatGPT and Google Bard, it's becoming more difficult to tell if you're talking to an AI. It begs the question; is the Turing test outdated? And if it is, what are the alternatives?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is the Turing Test Outdated?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
 
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
@@ -39,14 +46,23 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 
 ## 1\. The Marcus Test
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## 2\. The Visual Turing Test
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
@@ -63,7 +79,10 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 
 ## 4\. Reverse Turing Test
 
-![person using chatgpt on their laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-matheus-bertelli-16094042.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
@@ -73,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/c68e5dfe066870e624209e946a88b5eb21db8406c
 
 ## 5\. AI Classification Framework
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.

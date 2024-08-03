@@ -1,7 +1,7 @@
 ---
 title: ChatGPT's Max Token Limit & Breaking Past It
-date: 2024-07-20 11:19:47
-updated: 2024-07-23 10:26:32
+date: 2024-08-02T16:16:37.405Z
+updated: 2024-08-03T16:16:37.405Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/06ef633964d4aeb8c1c54f31a301e011025d7ea7f
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -59,12 +62,18 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Multi-Modal Voice and Video Interactions
 
  Everyone[wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -75,6 +84,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -87,8 +99,28 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Temporary Chat
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.

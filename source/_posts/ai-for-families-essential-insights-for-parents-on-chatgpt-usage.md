@@ -1,7 +1,7 @@
 ---
 title: "AI For Families: Essential Insights for Parents on ChatGPT Usage"
-date: 2024-07-23 20:52:21
-updated: 2024-07-24 11:26:38
+date: 2024-08-02T16:16:45.731Z
+updated: 2024-08-03T16:16:45.731Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/ff27900c09b1e7c1dbf788a17f82a6622f15751a0
 
  To jumpstart your research, connect with like-minded AI experts. Here are nine communities where you can discuss everything AI-related, from newly released tools to writing effective prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[DAIR.AI](https://discord.com/invite/SKgkVT8BGJ)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Discord Channel for DAIR AI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-ai-channel-dair.jpg)
 
 [DAIR.AI](https://dair.ai/) primarily engages with the community through Discord. It provides free, comprehensive resources on various AI topics, such as prompt engineering, machine learning, and career building. You’ll also find pieces answering general knowledge questions.
@@ -31,8 +37,14 @@ thumbnail: https://thmb.techidaily.com/ff27900c09b1e7c1dbf788a17f82a6622f15751a0
 
  Head over to the Jobs channel to[start a career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/) . Dozens of members need help writing prompts for generative AI tools, chatbots, and text-to-image systems.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2.[GitHub](https://github.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompts Repositories on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt.jpg)
 
  Anyone interested in AI should sign up for GitHub. It’s a paid source code-hosting site that lets users collaborate on coding and programming projects. You and your partners can take codes straight from repositories.
@@ -43,12 +55,19 @@ thumbnail: https://thmb.techidaily.com/ff27900c09b1e7c1dbf788a17f82a6622f15751a0
 
 ## 3.[r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
 
  ChatGPT has less rigid restrictions than other chatbots. For instance, Bing Chat automatically terminates conversations that go against its guidelines, while ChatGPT still responds. You can generate different outputs by rephrasing your prompts.
 
  The below image shows ChatGPT rejecting a request to portray a manga character.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![ChatGPT Refusing to Act Like Tomie Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejecting-roleplay-request-1.jpg)
 
  After rephrasing the instructions and adding more details, it quickly obliged.
@@ -59,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/ff27900c09b1e7c1dbf788a17f82a6622f15751a0
 
 ## 4.[ChatGPT Prompt Engineers](https://www.facebook.com/groups/706382050894862/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
 
  ChatGPT Prompt Engineers is a decent community for beginners. Members just typically ask general knowledge questions about writing prompts and getting optimal outputs. You won’t have trouble keeping up with discussions.
@@ -77,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/ff27900c09b1e7c1dbf788a17f82a6622f15751a0
 
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
 
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
@@ -85,8 +110,14 @@ thumbnail: https://thmb.techidaily.com/ff27900c09b1e7c1dbf788a17f82a6622f15751a0
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 7.[r/OpenAI](https://www.reddit.com/r/OpenAI/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reddit Community for OpenAI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-reddit-community.jpg)
 
  Most users know OpenAI for ChatGPT and Dall-E, but it actually carries various AI tools. They primarily cater to developers. Professionals use them to integrate LLMs into their systems or build AI-driven applications.

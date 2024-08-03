@@ -1,7 +1,7 @@
 ---
 title: Exploring Hugging Face - Its Functions & Uses in AI
-date: 2024-07-22 15:10:58
-updated: 2024-07-25 10:55:56
+date: 2024-08-02T16:15:50.288Z
+updated: 2024-08-03T16:15:50.288Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,15 @@ thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d267576
 
  GPT-4 didn't come with some of the much-touted features it was rumored to have. However, the latest model significantly improves on GPT-3.5 and its predecessors. But how is GPT-4 different from GPT-3.5? We'll take you through some key differences between GPT-4 and GPT-3.5.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
 
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of[creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) . However, it already outperforms many large language models in terms of creativity.
@@ -39,14 +46,23 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
@@ -69,6 +85,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## GPT-4: A Step Up from GPT-3.5
 
  Undoubtedly, GPT-4 is a significant step up from its predecessor models. While it is still plagued with some of the limitations of GPT-3.5, significant improvements in several areas and the addition of new capabilities make the model an exciting new step in the pursuit of truly intelligent AI language models.

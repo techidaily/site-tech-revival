@@ -1,7 +1,7 @@
 ---
 title: Decoding Apple's Latest Artificial Intelligence Revealed During WWDC 2024
-date: 2024-07-25 17:14:34
-updated: 2024-07-27 12:55:18
+date: 2024-08-02T16:15:31.762Z
+updated: 2024-08-03T16:15:31.762Z
 tags:
   - chatgpt
   - open-ai
@@ -29,18 +29,30 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  Once this is done, you will see a prompt similar to the one below. The Bing Chat waiting list is now discontinued, but you may still see a prompt. The next step is to press the**Chat now** button, and that's it!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Screenshot of New Bing Introduction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-new-bing-introduction.jpg)
 
  The process with ChatGPT is even simpler. First, you will need to create an[OpenAI](https://chat.openai.com/auth/login) account. Once created, you can use ChatGPT from any supported browser. This multi-browser compatibility marks the first notable difference. Bing Chat does offer a form of multi-browser support but with limited functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
@@ -53,10 +65,16 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Image Processing and Accuracy
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
@@ -65,6 +83,9 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
@@ -95,6 +116,9 @@ By contrast, the ChatGPT response was to admit its limitations.
 
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
 ## Which Is Best: Bing Chat or Chat GPT?
@@ -115,6 +139,10 @@ By contrast, the ChatGPT response was to admit its limitations.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Chatbots Are Here to Stay
 
  As AI chatbots become more widespread, the differences between these early adopters will only continue to widen. However, by understanding the unique features of each platform, users can choose the chatbot that best suits their needs.

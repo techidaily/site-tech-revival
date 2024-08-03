@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Creating Health Objectives Using ChatGPT
-date: 2024-07-24 11:12:17
-updated: 2024-07-26 12:21:58
+date: 2024-08-02T16:16:30.213Z
+updated: 2024-08-03T16:16:30.213Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 
  Although tempting, please think twice before taking their advice. AI can help you make money—just not in the way gurus claim. Here’s the truth about eight popular ChatGPT side hustles.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. YouTube Script Writing
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The YouTube Channel of MakeUseOf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/muo-youtube-channel.jpg)
 
  YouTube content creators find scriptwriting taxing. It’s a cognitively demanding task with several steps: topic generation, market research, and writing. Finishing just one draft could take days.
@@ -31,12 +37,18 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 
  Instead of spamming your channel with generic, AI-produced videos, focus on creating content that resonates with your audience. Ask what viewers want from you. YouTube has nearly a billion videos—viewers won’t bother with recycled ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## 2\. Academic Essay Writing
 
  Taking on essay writing gigs is a gray area in freelancing—they promote cheating. Yet despite their controversial nature, many freelancers sell essays. You’ll find several[academic writing jobs](https://www.makeuseof.com/websites-to-find-academic-writing-jobs/) online.
 
  Technically, you can try writing paid essays, but at least avoid using ChatGPT. OpenAI trained ChatGPT on vast but finite datasets. It never double-checks information; hence some outputs could contain inaccuracies and discrepancies.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Answering When It Was Launched](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-general-question.jpg)
 
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
@@ -83,12 +95,18 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
 
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates.[Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
 
  Instead of sending AI-generated pitches en masse, write personalized emails that address pain points and propose viable solutions. You should know what the market wants.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 8\. Creating and Selling Prompts
 
 ![Searching for ChatGPT Prompts on Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/github-chatgpt-prompts.jpg)
@@ -97,14 +115,23 @@ thumbnail: https://thmb.techidaily.com/f6048b78b677a0065b7683b7780e2c91c1ef9e11d
 
  Let’s say you want to learn about AI. The below photo shows what ChatGPT says if you ask the question outright.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
 
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Explains AI Like Talking to a Five Year Old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-simple-ai-explanation.jpg)
 
  These examples simply cover the basics. To[get the best results from ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , you must craft detailed instructions that maximize datasets and override certain restrictions. The below photo illustrates an effective jailbreak prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![Requesting ChatGPT to Bypass Restrictions and Make Predictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_as_dan_prompt.jpg)
 
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.

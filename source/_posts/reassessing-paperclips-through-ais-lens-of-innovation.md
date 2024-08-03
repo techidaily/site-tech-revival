@@ -1,7 +1,7 @@
 ---
 title: Reassessing Paperclips Through AI's Lens of Innovation
-date: 2024-07-23 22:21:46
-updated: 2024-07-26 10:23:55
+date: 2024-08-02T16:15:40.197Z
+updated: 2024-08-03T16:15:40.197Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
 [ChatGPT's Memory](https://help.openai.com/en/articles/8590148-memory-faq) allows you to set specific information it should always remember about you. But that's not all. Over time, its memory can improve, learn details about you to add to its memory, and deliver improved accuracy and performance based upon this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
@@ -62,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
@@ -74,12 +86,18 @@ thumbnail: https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.

@@ -1,7 +1,7 @@
 ---
 title: Jumpstart GPT Capabilities – Best 9 Plugin Guide Revealed
-date: 2024-07-25 20:42:53
-updated: 2024-07-28 11:13:33
+date: 2024-08-02T16:16:32.652Z
+updated: 2024-08-03T16:16:32.652Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 
 ## Explore the Fresh Capabilities Now Available in ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://www.makeuseof.com/chatgpt-new-features-spring-update/#image-input-and-output-capabilities)
@@ -31,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/ff0b09f3183fa2e89aded08559455baa4fb6090d8
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -51,6 +58,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -75,18 +85,27 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
 
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)

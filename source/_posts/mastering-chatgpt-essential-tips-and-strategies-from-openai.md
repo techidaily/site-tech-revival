@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Essential Tips & Strategies From OpenAI"
-date: 2024-07-26 21:51:54
-updated: 2024-07-28 10:38:47
+date: 2024-08-02T16:15:57.690Z
+updated: 2024-08-03T16:15:57.690Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Tell ChatGPT Its Function and the Presentation Rules
 
  While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn[how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
@@ -61,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
@@ -105,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -153,6 +165,9 @@ thumbnail: https://thmb.techidaily.com/64fcfc6286de188c8366d6a329563edab62ff52b5
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -167,6 +182,9 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Features: A Comprehensive Guide to Understanding CLAUDE PRO vs ChatGPT Plus"
-date: 2024-07-27 11:59:10
-updated: 2024-07-28 12:37:12
+date: 2024-08-02T16:16:20.925Z
+updated: 2024-08-03T16:16:20.925Z
 tags:
   - chatgpt
   - open-ai
@@ -23,16 +23,30 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
 
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
@@ -51,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
  This is probably good because one other interesting feature in Bard's reply was the ability to view other drafts. Although the figures in the other drafts were similar, there was variation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
@@ -71,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 
 We did manage to get a response from Bard by rewording the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
  As both platforms are going through rapid development, the user experience will continue to improve.
@@ -85,8 +105,14 @@ We did manage to get a response from Bard by rewording the prompt.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Is Best for You: Bing Chat or Google Bard?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.

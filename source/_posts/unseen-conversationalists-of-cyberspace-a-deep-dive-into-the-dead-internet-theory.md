@@ -1,7 +1,7 @@
 ---
 title: "Unseen Conversationalists of Cyberspace: A Deep Dive Into the Dead Internet Theory"
-date: 2024-07-25 10:52:22
-updated: 2024-07-26 12:39:31
+date: 2024-08-02T16:16:19.462Z
+updated: 2024-08-03T16:16:19.462Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
 ## ChatGPT and Google Gemini Faceoff: Determining the Leading AI Conversationalist
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
@@ -34,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -46,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
  With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
@@ -66,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/9b4ef88ca5d37551ec4a533dabc3804d405a74574
 
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
@@ -86,10 +99,16 @@ Here's the source screenshot.
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
@@ -98,6 +117,9 @@ Here's the source screenshot.
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is Gemini Better than ChatGPT?
 
  Before Google launched Bard, we thought it'd be the ChatGPT competition we had been waiting for—it wasn't. Now, Gemini is here, and so far, Gemini Pro doesn't seem like the model to give ChatGPT the knockout punch.

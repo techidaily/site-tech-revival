@@ -1,7 +1,7 @@
 ---
 title: "Begin Today: Top 8 Ready-to-Use Custom Generative Pre-Trained Transformers"
-date: 2024-07-27 17:13:36
-updated: 2024-07-28 11:29:36
+date: 2024-08-02T16:16:14.208Z
+updated: 2024-08-03T16:16:14.208Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  A lot of AI story writers are not just for fiction writing.[AI can assist content writers](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) and marketers who want to write website content, blog posts, social media posts, emails, and more. However, in this article, we’ll focus on the features related to fiction and AI script generators.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Rytr
 
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
 ## 2\. ShortlyAI
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
@@ -59,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
@@ -69,8 +78,14 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 4\. NovelAI
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
@@ -83,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
  The main benefit of AI story generators is for people who feel like they’ve lost their creativity. If you feel like you keep coming back to the same ideas, these can definitely help you break out of old habits.

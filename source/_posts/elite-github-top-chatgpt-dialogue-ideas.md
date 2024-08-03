@@ -1,7 +1,7 @@
 ---
 title: Elite Github Top ChatGPT Dialogue Ideas
-date: 2024-07-27 22:44:43
-updated: 2024-07-29 11:54:51
+date: 2024-08-02T16:16:26.667Z
+updated: 2024-08-03T16:16:26.667Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  Some of your conversations with ChatGPT may be more private than others. Fortunately, OpenAI makes it easy to archive your chats and hide conversations from plain sight. Whether you use ChatGPT on the web or your smartphone, it's simple to hide those AI chats.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Hide ChatGPT Chats on the Web
 
  ChatGPT has an archiving feature that lets you remove any chat from the sidebar with just a couple of clicks. You can use it to hide chat sessions from the main screen once you load up ChatGPT on the web. Follow the instructions below:
@@ -36,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 2. Select the chat you want to hide from the sidebar and click the**ellipsis (...)** button next to it.
 3. Now, choose**Archive chat** from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
@@ -64,10 +70,20 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 3. Long-press on the chat you want to hide and choose**Archive** from the context menu.
 4. When prompted to confirm, tap**Archive** again.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
 Close
@@ -85,8 +101,14 @@ Close
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
 Close

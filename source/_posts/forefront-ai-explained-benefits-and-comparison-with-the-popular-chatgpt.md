@@ -1,7 +1,7 @@
 ---
 title: "Forefront AI Explained: Benefits and Comparison with the Popular ChatGPT"
-date: 2024-07-22 11:39:56
-updated: 2024-07-23 11:36:57
+date: 2024-08-02T16:15:31.811Z
+updated: 2024-08-03T16:15:31.811Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
 ## Four Desired Improvements for the Next Generation AI, GPT-5
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is OpenAI's GPT-5?](https://www.makeuseof.com/gpt-5-features-we-want-to-see/#what-is-openai-39-s-gpt-5)
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
 ## 1\. More Multimodality
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
@@ -49,9 +55,15 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Larger and More Efficient Context Window
 
-![Monitor on a desk with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-analyze-your-local-documents-with-langchain-and-chatgpt-featured-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -61,9 +73,15 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. GPT Agents
 
-![ChatGPT accessed on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/muo-chatgpt-mentions-fi.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 

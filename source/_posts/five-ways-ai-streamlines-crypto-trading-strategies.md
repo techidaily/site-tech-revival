@@ -1,7 +1,7 @@
 ---
 title: Five Ways AI Streamlines Crypto Trading Strategies
-date: 2024-07-27 21:32:55
-updated: 2024-07-28 10:56:35
+date: 2024-08-02T16:16:20.936Z
+updated: 2024-08-03T16:16:20.936Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/3ccfed125e4471bfeef796f7e1d53a32e1cb3d7ae
 
 ## DALL-E 3 Reveals Integrated Editing Tools - Time to Polish and Perfect Them
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
@@ -47,10 +50,16 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Removing and Erasing
 
  DALL-E 3's editing tools can erase some small features, but it definitely struggles. In the following image, I'd asked DALL-E to create "A robotic hand holding a glowing, transparent square chip with 'AI Accelerated' written on it. The background is dark blue, creating a futuristic and high-tech atmosphere."
@@ -69,6 +78,9 @@ Close
 
  I asked DALL-E to "create a 2:1 4k image of a human eye close up, be detailed," resulting in the following image:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
@@ -79,10 +91,17 @@ Close
 
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.

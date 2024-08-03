@@ -1,7 +1,7 @@
 ---
 title: "Chatbot Ethics Unveiled: Can We Trust ChatGPT's Originality in Sourcing Information?"
-date: 2024-07-25 21:18:50
-updated: 2024-07-26 10:22:56
+date: 2024-08-02T16:16:37.962Z
+updated: 2024-08-03T16:16:37.962Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  Can ChatGPT solve math problems? While it’s impossible for the AI-powered tool to solve every problem correctly one hundred percent of the time, it’s important to have an idea of just how accurate the AI is. There's no better way to test ChatGPT than directly subjecting it to a variety of math problems.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can ChatGPT Solve Arithmetic and Algebra Problems?
 
  Before attempting to have ChatGPT solve any complex problems, it’s important to determine whether it understands the fundamentals. One user went viral for finding that ChatGPT would respond with eight when asked what five plus two equals—but as time passes, it’s likely that such basic errors have been fixed.
@@ -27,12 +30,21 @@ thumbnail: https://thmb.techidaily.com/b7025f879b7f69fff163ff4565fc3f42cd715d8a0
 
  To start testing ChatGPT, it was subjected to problems involving PEMDAS, fractions, and decimals.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve 8 divided by 1 plus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-1.jpg)
 
 ![asking chatgpt to solve 5 divided by 6 minus 2 divided by 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-2.jpg)
 
 ![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve 2.98 minus 4 divided by 13](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-4-1.jpg)
 
 Close
@@ -41,16 +53,28 @@ Close
 
  Next, the test continued with ChatGPT pitted against three problems in Algebra—in this case, testing its familiarity with linear equations, arithmetic sequences, geometric sequences, and quadratic equations. As seen with arithmetic, GPT-4 managed to solve all the problems without error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![asking chatgpt to solve for the slope intercept and point slope form of y divided by 4 equals 6 plus 2 times x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![asking chatgpt to solve for the distance a ball bounces into the air on the seventh bounce given an initial height of ten feet with each successive bounce rising to 75 percent of the previous height](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![asking chatgpt to solve the bouncing ball problem as a geometric sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-3.jpg)
 
 ![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Can ChatGPT Solve Geometry and Trigonometry Problems?
 
  Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
@@ -61,6 +85,9 @@ Close
 
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
 
 Close
@@ -75,6 +102,9 @@ Close
 
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
 
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
@@ -93,10 +123,19 @@ Close
 
  ChatGPT originally offered the correct solution for the derivative g'(1) given that g(x) was the inverse function of f(x), but it quickly amended its answer to be incorrect when given a vague rejection instead of standing by its solution.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
 
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)

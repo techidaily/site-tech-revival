@@ -1,7 +1,7 @@
 ---
 title: "AI Showdown: Can Gemini Outshine ChatGPT Plus?"
-date: 2024-07-26 19:28:19
-updated: 2024-07-27 12:37:20
+date: 2024-08-02T16:15:27.380Z
+updated: 2024-08-03T16:15:27.380Z
 tags:
   - chatgpt
   - open-ai
@@ -35,36 +35,60 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
 
 For example, below is Bing Chat's effort at a simple limerick.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Image Processing and Accuracy
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Accurate Are Bing Chat and ChatGPT
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
@@ -81,6 +105,9 @@ By contrast, the ChatGPT response was to admit its limitations.
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
  There are similarities across both interfaces, which reflects their shared pedigree. For example, both have a simple search box and offer the option to regenerate a response after providing an answer.

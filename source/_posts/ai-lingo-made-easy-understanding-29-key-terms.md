@@ -1,7 +1,7 @@
 ---
 title: "AI Lingo Made Easy: Understanding 29 Key Terms"
-date: 2024-07-25 18:23:53
-updated: 2024-07-27 11:26:37
+date: 2024-08-02T16:16:30.723Z
+updated: 2024-08-03T16:16:30.723Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
  To make things easier for you, here is a step-by-step guide on how to download and install Auto-GPT.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step 1: Download Python and AutoGPT
 
  Despite what you may have read elsewhere, installing Auto-GPT is pretty straightforward.
@@ -31,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/a398f18ec0de1a37637c260e06464220af2d995e8
 
  Once downloaded, double-click on the file to install Python. Make sure to tick the box for**Add python.exe to PATH** . This will enable your PC to use Python anywhere in your PC. After that, go ahead and click**Install Now** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 
 After Installing Python, you can download Auto-GPT from GitHub.
@@ -47,10 +54,16 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
 1. After registration and login, click on**Personal** in the top right corner of the website and select**View API keys** . This will send you to the[OpenAI API keys management](https://platform.openai.com/account/api-keys) , where you can manage your API keys.
 2. To create a key, click**Create new secret key** , input a name, then click**Create secret key** . You can then copy the API key by using**CTRL + C** or clicking the copy icon on the right.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
@@ -66,6 +79,14 @@ pip install -r requirements.txt
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
 python -m autogpt  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 Congratulations! You have successfully Installed Auto-GPT.
@@ -100,22 +121,35 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
  One advantage of Auto-GPT over ChatGPT is that it is free to probe through the internet. As you can see here, our Recipe-Generator assistant downloads a file.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
 
  After every action of the AI, you can also provide your feedback to help the AI with its task.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
 After making the recipe, our AI has now completed its task.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.

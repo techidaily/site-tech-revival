@@ -1,7 +1,7 @@
 ---
 title: Should We Treat Artificial Intelligence Such as ChatGPT, Alexa, and Siri With Politeness?
-date: 2024-07-25 15:52:49
-updated: 2024-07-26 10:22:17
+date: 2024-08-02T16:16:38.304Z
+updated: 2024-08-03T16:16:38.304Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  Start with these online courses to help you use AI prompts effectively for work and other projects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Prompt Engineering for ChatGPT (Coursera)](https://www.coursera.org/learn/prompt-engineering)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
 
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
@@ -31,8 +37,15 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
 
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
@@ -53,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
@@ -79,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Learn AI Prompt Engineering Today
 
  You don't need advanced tech knowledge to enroll in these online courses. You only need a creative mind, access to AI tools, and an openness to explore concepts in artificial intelligence. If you started as a skeptic, you'd come out of these videos more open-minded about the benefits of AI on your career and personal life.

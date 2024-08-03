@@ -1,7 +1,7 @@
 ---
 title: "Exposing the Underworld of Bing ChatGPT Token Schemes: A Guide to Detect and Dodge Scams"
-date: 2024-07-24 22:37:49
-updated: 2024-07-26 12:15:52
+date: 2024-08-02T16:16:46.509Z
+updated: 2024-08-03T16:16:46.509Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  To jumpstart your research, connect with like-minded AI experts. Here are nine communities where you can discuss everything AI-related, from newly released tools to writing effective prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[DAIR.AI](https://discord.com/invite/SKgkVT8BGJ)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Discord Channel for DAIR AI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-ai-channel-dair.jpg)
 
 [DAIR.AI](https://dair.ai/) primarily engages with the community through Discord. It provides free, comprehensive resources on various AI topics, such as prompt engineering, machine learning, and career building. You’ll also find pieces answering general knowledge questions.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Let’s say you’re interested in ChatGPT. While you can’t train LLMs with other users, you can search for[effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
 
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
@@ -53,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  After rephrasing the instructions and adding more details, it quickly obliged.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
@@ -77,6 +89,10 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
 
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
@@ -85,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 7.[r/OpenAI](https://www.reddit.com/r/OpenAI/)
 
 ![Reddit Community for OpenAI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-reddit-community.jpg)
@@ -95,8 +114,15 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Most topics can get pretty technical. We suggest filtering the posts based on flair so that you can focus on one aspect of OpenAI at a time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 8.[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
@@ -105,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Meanwhile, artists who prefer other text-to-image models could use the group for comparisons. See which system provides the best outputs. You might even find Stable Diffusion users testing your preferred art styles frequently.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
@@ -117,6 +146,9 @@ thumbnail: https://thmb.techidaily.com/61c513946ca67c4ebe171c06eca13adeadd0c93b5
 
  Perhaps the only downside is the group gets plenty of spam. You might have to scroll through aggressive ads and campaigns before finding valuable content.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Connect With Fellow Professionals in the AI Industry
 
  AI is constantly evolving. No individual can keep up with every AI-driven platform, model, or method that global tech leaders release. You’d do well to join communities instead. Connect with like-minded professionals, discuss AI’s real-life applications, and gain reliable insights into new systems. You can only test so many tools yourself, after all.

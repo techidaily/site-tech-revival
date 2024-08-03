@@ -1,7 +1,7 @@
 ---
 title: "Chaos and Creativity: How GPT Assists in Building Dungeon Worlds"
-date: 2024-07-25 23:14:39
-updated: 2024-07-26 11:16:31
+date: 2024-08-02T16:16:24.892Z
+updated: 2024-08-03T16:16:24.892Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,11 @@ thumbnail: https://thmb.techidaily.com/d0e5dc7a9f4a0a0154c2f5c000e872f05d1d32463
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Shownotes
 
 This week, we chat about the following tech news that matters:

@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Using Llama 2 for Business Success
-date: 2024-07-28 10:54:45
-updated: 2024-07-29 12:28:33
+date: 2024-08-02T16:15:44.517Z
+updated: 2024-08-03T16:15:44.517Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,17 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 
  To use Planfit effectively, you'll first provide it with some basic details about yourself, such as age, sex, height, weight, which muscle you wish to focus on, and where you'll be working out. The plugin uses your data to develop a custom workout plan that meets your needs and helps you achieve your fitness goals.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Planfit at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/planfit.jpg)
 
  We asked the plugin to tailor a workout plan for gaining 10 pounds of muscle. Above is a section of the generated workout plan. The plugin offers personalized workout routines like other[health and fitness apps](https://www.makeuseof.com/best-beginner-workout-apps-fitness-newbies/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Calorie Coach
 
  If you're ever concerned about your daily calorie intake, this handy tool created by[Shimmer](https://shimmer.ooo/) can assist you in managing your food consumption. It's like a personal virtual nutritionist that you ask about the contents of your meals. If you plan to shed off some excess weight or just need to be more aware of your dietary choices, this tool will serve you.
@@ -53,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9
 
  We asked it to list the nutritional composition of 2 servings of noodles and three sausages, and it gave us the answer above.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Workout Generator
 
  Workout Generator is a product of[Lyfta](https://www.lyfta.app/) , a workout planner and tracker app that helps people, from amateurs to powerlifters, work towards achieving their fitness goals. The plugin takes advantage of the extensive data, including videos, curated by Lyfta to create a custom workout plan based on your body details.
@@ -79,26 +89,50 @@ Above is a screenshot of a workout routine provided by the plugin.
 
  Simply ask it for your zodiac sign if you are unaware. You can then instruct it to provide a daily, weekly, or monthly horoscope. An example of a prompt would be; I was born on 10th Jan. Can I get my daily horoscope? The plugin will provide a personalized horoscope to start your day well.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Horoscopes at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/horoscopes.jpg)
 
  As illustrated above, we prompted the plugin to give us a daily horoscope. If interested, you can include the plugin with your[astrology apps](https://www.makeuseof.com/best-astrology-apps/) collection to keep up with your horoscopes.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Testosterone Meals
 
  Testosterone level regulation is important, especially for men, and this tool can help. The Testosterone Meals plugin is designed to help elevate testosterone levels through a diet tailored to your specific needs. It recommends the exact meals for people seeking to optimize their hormonal health.
 
  To use it, choose the type of meal you want, breakfast, lunch, or supper. Then specify the number of calories and any particular ingredients you have in mind. The plugin will curate a selection of meals that match your personal preference. It might not have all ingredients, but it can give recommendations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Testosterone Meals at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/testosterone-meals.jpg)
 
  As shown above, we created a testosterone-boosting diet plan using the plugin.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 7\. Water Tracker
 
  Staying healthy partly depends on the amount of water you take every day. Water Tracker can help you keep track of that. It's a product by[Fitbox](https://www.fitbox.chat/) , an online water-tracking platform. This tool can be handy if you suspect you're not drinking enough water or want to stay hydrated.
 
  To use the plugin effectively, just provide details of any drinks, beverages, or pure water you have during your day. The plugin will ask you to connect your Google account to the online dashboard to track your water intake. Your daily intake goal is 2000ml by default, but you can change that. If interested, here's another way to[track your water intake using your iPhone](https://www.makeuseof.com/how-to-log-water-intake-on-iphone/) .
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Water Tracker working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/water-tracker.jpg)
 
  As shown above, we gave the plugin sample data and asked it to recommend the amount of water we need to reach the daily goal.
@@ -109,6 +143,9 @@ Above is a screenshot of a workout routine provided by the plugin.
 
  It works similar to Instacart. You first identify what you're looking for. Is it vegan or sugar-free meals? Then you can instruct the tool to identify the foods on the main website. The tool will crawl through its database, create a list of foods that meet your preference, and provide links, so you can instantly shop.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Bubble Goods working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bubble-goods.jpg)
 
  As shown above, We asked the tool to give us some tasty vegan snack recommendations.

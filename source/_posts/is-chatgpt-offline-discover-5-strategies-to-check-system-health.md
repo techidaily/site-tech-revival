@@ -1,7 +1,7 @@
 ---
 title: Is ChatGPT Offline? Discover 5 Strategies To Check System Health
-date: 2024-07-21 17:18:15
-updated: 2024-07-24 11:19:24
+date: 2024-08-02T16:15:51.651Z
+updated: 2024-08-03T16:15:51.651Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ## 2.[GitHub](https://github.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompts Repositories on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt.jpg)
 
  Anyone interested in AI should sign up for GitHub. It’s a paid source code-hosting site that lets users collaborate on coding and programming projects. You and your partners can take codes straight from repositories.
@@ -41,8 +44,14 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Let’s say you’re interested in ChatGPT. While you can’t train LLMs with other users, you can search for[effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3.[r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
 
  ChatGPT has less rigid restrictions than other chatbots. For instance, Bing Chat automatically terminates conversations that go against its guidelines, while ChatGPT still responds. You can generate different outputs by rephrasing your prompts.
@@ -53,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  After rephrasing the instructions and adding more details, it quickly obliged.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
@@ -65,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  We also like that the moderators proactively weed out spam marketers and shady ads. Many[crooks abuse ChatGPT to execute cyberattacks](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) nowadays. Even tech-savvy individuals could fall victim to them if they’re not careful. So minimize your exposure to scams altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 5.[Midjourney Prompt Tricks](https://www.facebook.com/groups/1192421464638601)
 
 ![A Facebook Group for Sharing Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/midjourney-prompts-facebook-group.jpg)
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
 
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
@@ -85,8 +103,14 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7.[r/OpenAI](https://www.reddit.com/r/OpenAI/)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reddit Community for OpenAI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-reddit-community.jpg)
 
  Most users know OpenAI for ChatGPT and Dall-E, but it actually carries various AI tools. They primarily cater to developers. Professionals use them to integrate LLMs into their systems or build AI-driven applications.
@@ -107,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
 
  It’s currently the largest AI community on LinkedIn. The group has around a million members worldwide, many of whom post regularly. It gets status updates every few minutes.
@@ -117,6 +144,9 @@ thumbnail: https://thmb.techidaily.com/fc56be1104b47b174a9a13d9255575e8e01dfcc34
 
  Perhaps the only downside is the group gets plenty of spam. You might have to scroll through aggressive ads and campaigns before finding valuable content.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Connect With Fellow Professionals in the AI Industry
 
  AI is constantly evolving. No individual can keep up with every AI-driven platform, model, or method that global tech leaders release. You’d do well to join communities instead. Connect with like-minded professionals, discuss AI’s real-life applications, and gain reliable insights into new systems. You can only test so many tools yourself, after all.

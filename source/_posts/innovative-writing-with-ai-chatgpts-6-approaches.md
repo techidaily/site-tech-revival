@@ -1,7 +1,7 @@
 ---
 title: "Innovative Writing with AI: ChatGPT's 6 Approaches"
-date: 2024-07-24 18:23:25
-updated: 2024-07-27 11:11:45
+date: 2024-08-02T16:16:35.241Z
+updated: 2024-08-03T16:16:35.241Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -45,12 +48,20 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -59,6 +70,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
@@ -75,12 +90,18 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
 
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.

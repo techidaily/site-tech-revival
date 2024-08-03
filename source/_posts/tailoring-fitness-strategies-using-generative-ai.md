@@ -1,7 +1,7 @@
 ---
 title: Tailoring Fitness Strategies Using Generative AI
-date: 2024-07-24 15:27:20
-updated: 2024-07-26 10:41:12
+date: 2024-08-02T16:16:09.228Z
+updated: 2024-08-03T16:16:09.228Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Tell ChatGPT Its Function and the Presentation Rules
 
  While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn[how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
@@ -61,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -123,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 >
 > 5\. Completing a quest adds to the player's XP.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
@@ -153,6 +162,9 @@ thumbnail: https://thmb.techidaily.com/8bc720ee0adbf09ae88a648a38e027832e102c5d3
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -167,6 +179,9 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
@@ -273,6 +288,9 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.

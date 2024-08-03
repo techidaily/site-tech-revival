@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Chatbot Potential: Step-by-Step Tips for Utilizing Microsoft's ChatGPT"
-date: 2024-07-24 12:30:22
-updated: 2024-07-27 10:12:18
+date: 2024-08-02T16:15:39.804Z
+updated: 2024-08-03T16:15:39.804Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
  Regardless of which tool you use more often, you’d do well to know its unique features. Here are nine notable differences between ChatGPT and Bing's version of the bot.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Purpose
 
  Although both ChatGPT and Bing AI use generative pre-trained transformer (GPT) language models, they’re different platforms. ChatGPT is a multipurpose chatbot. It scans the vast yet limited resources from which it was trained. This includes academic journals, business websites, publications, and Wikipedia.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
  Take the below conversation from ChatGPT as an example. While its language model, the GPT-3.5, generates grammatically correct and factual statements, it sounds stiff and awkward.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Having a Casual, Normal Conversation With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-normal-conversation.jpg)
 
  On the other hand,[Bing AI uses GPT-4](https://blogs.bing.com/search/march%5F2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) , an iteration of ChatGPT’s language model. Its output sounds casual and genuine.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/a4224fc73a6465f58bae54c290236f5e5e4311745
 
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Data Accuracy
 
  ChatGPT has explicit disclaimers about data inaccuracy. The platform occasionally produces incorrect information since it carries limited knowledge of events after 2021\. It doesn’t even know its own release date.
@@ -69,6 +78,9 @@ Bing AI answers the same physics question correctly.
 
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Security Measures
 
  Cybercriminals started misusing ChatGPT almost immediately. Consequently, some saw[ChatGPT as a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) that lets crooks write spam emails, develop malware, and build phishing links.
@@ -79,8 +91,14 @@ Bing AI answers the same physics question correctly.
 
  Bing's AI bot faces similar cybersecurity risks. It combats them by enforcing stricter limitations, reducing the platform’s susceptibility to jailbreaking. Conversations get terminated if you mention anything unusual.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 6\. Accessibility
 
  One of the first complaints about ChatGPT was its lack of accessibility—it initially only had a web app. OpenAI only released the[official iOS and mobile versions of ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) in mid-2023.
@@ -89,16 +107,25 @@ Bing AI answers the same physics question correctly.
 
  Perhaps the only limitation of Bing AI is that it doesn’t run on third-party browsers, like Mozilla Firefox, Safari, and Google Chrome. You’ll have to download Microsoft Edge. Although seemingly trivial, you might find it inconvenient if Edge isn’t your default browser.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Sign-Up Process
 
 [Signing up for ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is really quite simple. Just create an OpenAI account, register for ChatGPT, and wait for the confirmation. Most people get instant access.
 
  On the contrary,[signing up for the new Bing AI](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) initially took longer. The first users spent weeks on the waitlist before getting approved, especially those outside the U.S.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Functionality
 
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
@@ -115,6 +142,9 @@ Bing AI answers the same physics question correctly.
 
 ## 9\. Fees
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus Pricing at $20 Per Month](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-pricing.jpg)
 
  ChatGPT is a free, robust multipurpose chatbot. Users can execute plenty of tasks with the GPT-3.5 language model. But if you need a more sophisticated AI assistant, OpenAI offers[ChatGPT Plus](https://openai.com/blog/chatgpt-plus) for $20 a month.

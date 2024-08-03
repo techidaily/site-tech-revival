@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: 6 Essential Applications for the AI Code Interpreter"
-date: 2024-07-21 18:53:16
-updated: 2024-07-24 12:57:47
+date: 2024-08-02T16:15:42.029Z
+updated: 2024-08-03T16:15:42.029Z
 tags:
   - chatgpt
   - open-ai
@@ -61,6 +61,18 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -73,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
@@ -105,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -123,10 +141,16 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 >
 > 5\. Completing a quest adds to the player's XP.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Add Combat and Magic Rules
 
  As with any adventure[RPG](https://www.makeuseof.com/what-are-rpgs-role-playing-games/) , combat and magic are big parts of the experience. If you don’t add rules to guide this part of your game, you’ll end up with a game you can easily cheese through. It doesn’t help that ChatGPT likes to favor the user in its narratives, and it will generally make things go your way. Here’s what our rules look like:
@@ -153,6 +177,9 @@ thumbnail: https://thmb.techidaily.com/141f2083ce8f9807f7858bc78fabb4787ff1855b3
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.

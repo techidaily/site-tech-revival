@@ -1,7 +1,7 @@
 ---
 title: Introducing GPT-4 by OpenAI – An Advanced Breakthrough in Artificial Intelligence
-date: 2024-07-23 16:14:57
-updated: 2024-07-25 11:55:30
+date: 2024-08-02T16:15:34.922Z
+updated: 2024-08-03T16:15:34.922Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
 ## ChatGPT or Gemini? Assessing the Strengths of Google's Newest Artificial Intelligence
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
@@ -22,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
@@ -34,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -66,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e438
 
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
@@ -82,10 +94,16 @@ Here's the source screenshot.
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
@@ -94,6 +112,9 @@ Here's the source screenshot.
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.

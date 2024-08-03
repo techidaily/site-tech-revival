@@ -1,7 +1,7 @@
 ---
 title: "Decoding TruthGPG: A Comprehensive Look Into This Cryptocurrency"
-date: 2024-07-25 23:37:44
-updated: 2024-07-26 10:59:27
+date: 2024-08-02T16:15:45.404Z
+updated: 2024-08-03T16:15:45.404Z
 tags:
   - chatgpt
   - open-ai
@@ -38,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
  The first category of AI tech Apple displayed were language-based, adding what amounts to a language model that can process words and help improve your experience, integrated into iOS and macOS.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Writing Tools
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Text summary in Notes on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-notes-summarize-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -48,8 +54,15 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
  While scrolling through your inbox in the Mail app, for example, Writing Tools can summarize emails and place them in snippets, so you can easily get the gist without opening the email.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Priority Messages and Notifications
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Priority notifications on an iPhone through AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/priority-notifications-on-an-iphone-through-ai.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -58,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
 ### Smart Reply
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Smart Reply in Mail on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/smart-reply-in-mail-on-an-iphone.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -70,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
 ### Image Playground and Image Wand
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Image Playground on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-image-playground-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -80,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
 ### Genmoji
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Genmoji creation on an iPhone of a woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/genmoji-creation-on-an-iphone-of-a-woman.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -100,10 +122,16 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
  Now that AI can separate objects and elements in a photo or video, you can be very specific about what you wish to find in the Photos app. You could type "Mom in a floral-patterned gown," and all the content you have related to that will appear in the results.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Memory Movie
 
  You can also take these specific searches to Memories in Photos, and your device will create a memory with the theme you've described. Apple says it will suggest music that matches this theme and make a movie with a narrative arc.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Enhanced AI-Powered Siri
 
 ![AI-enhanced Siri suggesting requests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/ai-enhanced-siri-suggesting-requests.jpg)
@@ -118,6 +146,9 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
 ## Apple's ChatGPT Integration
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prompt to use ChatGPT on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/prompt-to-use-chatgpt-on-an-iphone.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -126,6 +157,9 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
 ### Compose
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![ChatGPT Compose on macOS Sequoia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-chatgpt-writing-tools-compose-suggestions-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -134,6 +168,9 @@ thumbnail: https://thmb.techidaily.com/f34f1e15652c4e288fb8fde812b08aadacd96fb09
 
  DALL-E is a paid ChatGPT feature—you will likely be unable to use Compose without linking to a subscribed account. That's one extra[reason to keep a ChatGPT Plus sub](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/) if you were thinking of ditching it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Private Cloud Compute and Apple's AI Privacy
 
  To help ensure that all your AI requests are private, Apple has designed the AI to run locally. However, since AI needs a lot of processing power, iApple Intelligence is restricted to Apple silicon Macs and iPads, the iPhone 15 Pro/Max, and later.

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Overview: Apple's Revolutionary AI Announcements at the Latest WWDC"
-date: 2024-07-22 18:47:57
-updated: 2024-07-24 10:28:38
+date: 2024-08-02T16:16:38.021Z
+updated: 2024-08-03T16:16:38.021Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/80456f09fe4efb7c4b8a390fbf6961e252df6f4af
 
  If you're an iPhone user, you're probably curious about the features OpenAI has baked into its app. Below, we'll discuss everything you can get in the ChatGPT iOS app that puts it a notch above its website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Voice Input
 
  Voice input has probably been the most anticipated feature ever since the launch of ChatGPT, and it's finally available in the iOS app through OpenAI's open-source speech recognition system called Whisper. While you can already[use Whisper in Windows to turn voice into speech](https://www.makeuseof.com/dictate-documents-openai-whisper/) , it's a first for iOS devices.
@@ -45,10 +48,16 @@ Close
 
  Due to its simplistic design, people from all age groups can easily begin using the app without much need for intensive learning and practice.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT opening page on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-opening-page-on-ios-app.jpg)
 
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![chatgpt messages on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-messages-on-ios-app.jpg)
 
 Close
@@ -75,6 +84,9 @@ Close
 
  You can now use ChatGPT in your native language or learn a new one with the app. It can also help you overcome language barriers in a foreign place, promoting overall accessibility and cultural diversity while reaching a larger target audience. A win-win for everyone, isn't it?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Haptic Feedback
 
  Haptic feedback is a feature that uses touch to interact with its users. An app or a device uses different vibration patterns and pulses to provide touch-based feedback to the user. This technology has various applications—for example,[haptic feedback makes games more immersive](https://www.makeuseof.com/force-haptic-feedback-games/) .
@@ -85,6 +97,9 @@ Close
 
  The real importance of this accessibility feature is for people with visual and audio impairments that can only rely on sensory input through touch as their source of communication. Haptic feedback will aid them in interacting with the app by giving them tactile prompts. The feature may not be too extensive yet, but it has the potential to improve with time.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Access Chat History Even When Offline
 
  While you can access chat history on OpenAI's website and the app, it is only possible to view it without a Wi-Fi or cellular connection on the app.
@@ -95,22 +110,37 @@ Close
 
  The ChatGPT app also syncs your chat history across other compatible Apple devices, like your iPad, allowing you to access it from anywhere.[Deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) is possible on both the website and the app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![viewing chatGPT history while offline in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/viewing-chatgpt-history-while-offline-in-ios-app.jpg)
 
 ![chatGPT old conversation while offline](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-old-conversation-while-offline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![search chatGPT history offline in app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/search-chatgpt-history-offline-in-app.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## 6\. Faster Responses
 
  It's a well-renowned fact that apps generally deliver optimum response time compared to their website counterparts, and ChatGPT's iOS app is no exception. However, note that response speed on both the app and the website depends entirely on your device and internet connection at a particular time.
 
  OpenAI states on its website that users with a[ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) get exclusive access to faster response times on the iOS app, so you can always upgrade if that's something you're looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![haptic feedback toggled off and ChatGPT plus option in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggled-off-and-chatgpt-plus-option-in-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatGPT Plus in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-plus-in-ios-app.jpg)
 
 Close

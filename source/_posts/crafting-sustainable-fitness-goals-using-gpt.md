@@ -1,7 +1,7 @@
 ---
 title: Crafting Sustainable Fitness Goals Using GPT
-date: 2024-07-22 15:45:37
-updated: 2024-07-25 11:13:52
+date: 2024-08-02T16:16:31.955Z
+updated: 2024-08-03T16:16:31.955Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,25 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  Technically, you can try writing paid essays, but at least avoid using ChatGPT. OpenAI trained ChatGPT on vast but finite datasets. It never double-checks information; hence some outputs could contain inaccuracies and discrepancies.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Answering When It Was Launched](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-general-question.jpg)
 
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Copywriting and Blogging
 
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
@@ -53,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
 **Tip:** You don’t have to ditch ChatGPT altogether.[Writers can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) for topic research, idea generation, and simple coding.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Caption Writing
 
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
@@ -71,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  You can share your personal preferences. But don’t sell e-books of workout regimens, diets, and supplement recommendations unless you have the necessary certifications.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Coding Websites
 
  ChatGPT writes code. Just mention the purpose of your website, and it will suggest an appropriate code snippet. You could even input your preferred programming language.
@@ -79,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  If you need to launch a website but don’t have any experience, use[no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/) . They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Email Marketing
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
@@ -89,8 +113,14 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  Instead of sending AI-generated pitches en masse, write personalized emails that address pain points and propose viable solutions. You should know what the market wants.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Creating and Selling Prompts
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Searching for ChatGPT Prompts on Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/github-chatgpt-prompts.jpg)
 
  The way you phrase your prompts affects ChatGPT’s responses. Straightforward questions trigger basic answers, but clever phrasing and precise instructions maximize language models.
@@ -109,10 +139,16 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on[GitHub](https://github.com/) repositories, Reddit threads, and social media sites.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Explore Responsible Ways to Make Money With AI
 
  AI chatbots only serve as tools. Stay away from any self-proclaimed guru who claims otherwise. You can use ChatGPT for work, but carelessly offloading entire projects is irresponsible and unethical.

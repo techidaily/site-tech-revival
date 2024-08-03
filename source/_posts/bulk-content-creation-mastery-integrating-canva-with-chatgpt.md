@@ -1,7 +1,7 @@
 ---
 title: "Bulk Content Creation Mastery: Integrating Canva with ChatGPT"
-date: 2024-07-24 16:11:11
-updated: 2024-07-25 10:51:10
+date: 2024-08-02T16:16:44.603Z
+updated: 2024-08-03T16:16:44.603Z
 tags:
   - chatgpt
   - open-ai
@@ -19,14 +19,23 @@ thumbnail: https://thmb.techidaily.com/8e8fd391ef433874750ab325d9bce417e7f1e76ed
 
  You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
 
  To access ChatGPT's voice input feature on your phone, you'll need to download and install the official ChatGPT app for mobile devices. Once you sign in with your OpenAI account, you're all set to take advantage of the Whisper feature.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
@@ -50,10 +59,19 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close

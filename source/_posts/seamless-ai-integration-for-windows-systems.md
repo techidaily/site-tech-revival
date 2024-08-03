@@ -1,7 +1,7 @@
 ---
 title: Seamless AI Integration for Windows Systems
-date: 2024-07-27 22:19:54
-updated: 2024-07-28 12:14:17
+date: 2024-08-02T16:16:24.638Z
+updated: 2024-08-03T16:16:24.638Z
 tags:
   - chatgpt
   - open-ai
@@ -29,12 +29,18 @@ thumbnail: https://thmb.techidaily.com/884f30fb76d736a31d012b1260ea6a8f9da2a38ed
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
 
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 ## 3\. InstaCart
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/884f30fb76d736a31d012b1260ea6a8f9da2a38ed
 
  In the illustration below, we prompted ChatGPT with some ingredients we had. Then, we asked it what meal we could cook with them. After suggesting we cook Jollof rice, ChatGPT listed the additional ingredients we'll need and asked whether to generate an InstaCart shopping list.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
@@ -53,8 +62,14 @@ thumbnail: https://thmb.techidaily.com/884f30fb76d736a31d012b1260ea6a8f9da2a38ed
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4\. Wolfram
 
  Although a lot of the ChatGPT plugins offer minimal improvements to[ChatGPT's capabilities](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , Wolfram is a standout option. The Wolfram plugin substantially augments ChatGPT's abilities. It makes ChatGPT significantly smarter by giving it access to real-time data, improved mathematical abilities, and a large dataset of carefully curated, and largely verified data.
@@ -63,10 +78,16 @@ thumbnail: https://thmb.techidaily.com/884f30fb76d736a31d012b1260ea6a8f9da2a38ed
 
  In this illustration, we asked ChatGPT to generate data about the planet Pluto. (This contains both factual and incorrect information)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![facts about Pluto generated by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/facts-about-pluto-generated-by-chatgpt.jpg)
 
  We then invoked the Wolfram plugin to fact-check the information using its fact-based knowledge base. And here's the result.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
  Wolfram was able to run the generated information against its database to check for accuracy.
@@ -93,16 +114,25 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
  We tried the tool on a first-impression video of[Apple's Vision Pro VR headset](https://www.makeuseof.com/apple-vision-pro-headset-explained/) on YouTube, and here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
 Yes, it was a spot-on description of the video if you're wondering.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. SceneXplain
 
  SceneXplain is a hidden gem we found tucked away in the ChatGPT plugin store. What does it do? It takes an image URL as input and returns a detailed description of the image. It is quite impressive in describing complex scenes with multiple people and objects. When we tried it, its descriptions of 12 of the 14 images we tried were spot on, although it can be a bit overly artistic or dramatic in its choice of words. On its own, SceneXplain might not have a lot of use cases. But when combined with other tools, it comes quite handy.
 
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
 
 To use the plugin, use a prompt like:

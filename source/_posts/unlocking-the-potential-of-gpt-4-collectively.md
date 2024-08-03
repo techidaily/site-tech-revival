@@ -1,7 +1,7 @@
 ---
 title: Unlocking the Potential of GPT-4 Collectively
-date: 2024-07-23 19:11:14
-updated: 2024-07-25 10:51:56
+date: 2024-08-02T16:15:28.513Z
+updated: 2024-08-03T16:15:28.513Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
  The more context you provide your AI tool, the better of a response you'll receive.
@@ -51,14 +54,25 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -67,9 +81,12 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Don't Make Your AI Multitask
 
-![chatgpt logo and message on smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-logo-and-message-on-smartphone-feature.jpg)
+![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -89,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -97,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/477c1794ef618005849cb90b5c598de4a419e5c1f
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .

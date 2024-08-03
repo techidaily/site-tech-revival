@@ -1,7 +1,7 @@
 ---
 title: Is AI Interaction Design a Sustainable Profession?
-date: 2024-07-25 10:15:12
-updated: 2024-07-28 11:17:30
+date: 2024-08-02T16:16:34.542Z
+updated: 2024-08-03T16:16:34.542Z
 tags:
   - chatgpt
   - open-ai
@@ -17,8 +17,14 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
  ChatGPT has already wowed the world with how it takes information from the internet and condenses it into succinct answers for your queries. Not many people know that you can also[ask ChatGPT to read your PDFs](https://www.makeuseof.com/chatgpt-read-pdf-ways/) and chat about their contents. But if that's your objective, then these apps offer better options, from increased database sizes to creating chatbots from multiple documents.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Unriddle](https://www.unriddle.ai/) (Web, Chrome): Most Powerful Way to Chat With Your Documents
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Unriddle is the best app to analyze your documents and then talk with them using ChatGPT, but the free tier is severely limited](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-unriddle.jpg)
 
 * **File Formats Supported:** PDF, DOC, URL
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
 **Download:** Unriddle Summarize for[Chrome](https://chrome.google.com/webstore/detail/unriddle-ai-generated-sum/iinmigjlcpeckfihbbfajpkiilfmakff) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.[Chatterdocs](https://chatterdocs.ai/tools/chat-with-pdf) (Web): Create Chatbots Sourcing From Multiple Documents
 
 ![Chatterdocs can analyze multiple documents at the same time while you chat with a bot and ask questions like ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatterdocs.jpg)
@@ -67,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
  Currently, you cannot create an account on Klavier to store analyzed files. In fact, you can only work with one source material at a time and will lose any progress if you add a new source for Klavier to analyze.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 4.[LXI.ai](https://lxi.ai/) (Web): Chat With Your Documents and Pay Per Usage
 
 ![LXI.ai has an innovative system to chat with your documents and pay only per your usage, not lumpsum tiers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-lxi-ai.jpg)
@@ -99,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
 ### 6.[ChatPDF](https://www.chatpdf.com/) (Web): Use ChatGPT 3.5 to Query PDF Files
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![ChatPDF is a simple way to run ChatGPT on your PDF documents and chat with a bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatpdf.jpg)
 
 * **File Formats Supported:** PDF
@@ -109,6 +124,9 @@ thumbnail: https://thmb.techidaily.com/5e5b9ce0dc07e3f4c01f086c082ef2c0bbdb4ea2b
 
  ChatPDF is one of the[coolest new apps to work with PDF files](https://www.makeuseof.com/free-pdf-editing-web-apps-to-fix-common-problems-with-pdfs/) , and performs shockingly well for all text. It had trouble reading images and data from tables in our tests, where we uploaded files from our drive as well as direct URLs. The developers say that while they currently use ChatGPT 3.5, they are looking into how to incorporate the newer ChatGPT 4.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## Learn Prompts to Make Chat Memory Easier
 
  You'll find that in all these apps, ChatGPT doesn't remember what you talked about after a session is finished. In fact, in some apps, it'll treat each question separately without using the previous query's context. To get around this problem, try and learn how to use prompts for ChatGPT in the app you're using. With a little trial and error, you will be able to figure out how to frame a question so that answers use the context of what you've chatted about before.

@@ -1,7 +1,7 @@
 ---
 title: "From Head to Ground: How for ChatGPT Post-Altman?"
-date: 2024-07-25 20:25:28
-updated: 2024-07-27 10:49:20
+date: 2024-08-02T16:16:27.505Z
+updated: 2024-08-03T16:16:27.505Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
 ## How to Surpass the Standard ChatGPT? Discover 10 Custom GPTs
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Diagrams: Show Me](https://www.makeuseof.com/custom-gpts-that-make-chat-gpt-better/#diagrams-show-me)
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 * [Gym, Fitness, & Training Assistant by Rogan Keel](https://www.makeuseof.com/custom-gpts-that-make-chat-gpt-better/#gym-fitness-amp-training-assistant-by-rogan-keel)
 * [Resume by jobbright.ai](https://www.makeuseof.com/custom-gpts-that-make-chat-gpt-better/#resume-by-jobbright-ai)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT offers custom GPTs to help you perform several actions.
@@ -38,10 +44,16 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
  So, here are the best custom GPTs that actually make ChatGPT a better tool for any situation.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 [Diagrams: Show Me](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
 
  The Diagrams: Show Me GPT plugin quickly visualizes all kinds of information in diagrams. You can use this add-on to view promotion paths at companies you want to work for, and it’s also handy if you need general flow charts (for example, we asked Diagrams: Show Me to outline the process from freelancing to running an agency).
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The Diagrams: Show Me Custom GPT in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-49-15.png)
 
  Once you’ve created an initial prototype, you can make adjustments by giving the GPT new instructions. Alternatively, you can edit the image with code instead if you know how to. You can use Diagrams: Show Me to[optimize productivity with workflow diagrams](https://www.makeuseof.com/optimize-productivity-with-workflow-diagram/) for your personal and work projects.
@@ -78,12 +90,18 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
  Although Math Solver is good for understanding how to solve mathematical problems, you shouldn’t use it to cheat on your homework or exams. In fact, there are many[ways that you should not use ChatGPT as a student](https://www.makeuseof.com/chatgpt-not-use-student/) —such as relying on the program to write essays for you.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 [Travel Guide](https://chat.openai.com/g/g-E7eSRUHy6-travel-guide)
 
  Do you have a big upcoming trip, or are you simply researching potential adventures? Consider using the Travel Guide GPT plugin to help you gather essential information and plan your itinerary.
 
  Travel Guide is pretty good at providing an itinerary outline for you to build upon later. For example, you can use the days it gives you and then do extra research elsewhere for places to eat, where to stay, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![An itinerary designed by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-13-08.png)
 
  Besides planning itineraries, Travel Guide can offer budget travel tips for specific destinations. For example, we asked the Travel Guide GPT to help us visit Switzerland on a budget of 80 Swiss Francs (c. $88 per day), excluding hotels.
@@ -92,20 +110,35 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
 ![Budget travel tips provided by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-15-08.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 6 [Scholar GPT](https://chat.openai.com/g/g-kZ0eYXlJe-scholar-gpt)
 
  Academic research is a strenuous process regardless of your experience, but AI tools can help you streamline the process and provide more context. Scholar GPT is one of those. With this GPT, you can upload research paper PDFs and links to receive analysis.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
 
  Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these[expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## 7 [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor)
 
  If you’re new to ChatGPT or other AI tools, getting your prompts right will take some time and experimentation. But thanks to custom GPTs like Prompt Professor, you can get helpful feedback to reduce the learning curve.
 
  Prompt Professor can review every prompt you’re planning to send and outline what you did well. For example, we received feedback that our prompt was direct and offered contextual information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![The Prompt Professor custom GPT offering tips and feedback](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-30-32.png)
 
  You also get tips on how to improve your prompt, which you can then make a note of in the future.
@@ -118,6 +151,9 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
  Are you new to the world of coding? If so, consider trying the Code Tutor GPT plugin. Code Tutor helps users understand different coding concepts and jargon, and it can also help you become more effective with implementation and planning processes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The Code Tutor Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-36-50.png)
 
  Code Tutor can also help users with topics they may have for homework. The GPT often asks you to provide further context for every prompt you send, which helps it give you a more accurate answer.
@@ -134,6 +170,9 @@ thumbnail: https://thmb.techidaily.com/e6c4e66a053f4adf51b38aa148d1e7f1b0fe37b06
 
 ![Gym, Fitness, & Training Planner GPT workout plan created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-45-08.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 10 [Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume)
 
  Are you looking for a new job or to change your career? If so, you’ll find several custom GPTs to help you on your search—including jobbright.ai’s version. When you upload your resume, the GPT will first extract the information from what you send. Then, after confirming that everything is accurate, you’ll get a feedback table with scores and comments on what you did well and could improve. Moreover, you get bulleted tips for enhancing your resume.

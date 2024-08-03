@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Utilizing Anthropic's Claude Tools"
-date: 2024-07-25 16:12:51
-updated: 2024-07-28 10:43:56
+date: 2024-08-02T16:16:21.134Z
+updated: 2024-08-03T16:16:21.134Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI adds editing tools to DALL-E 3 in ChatGPT for inline adjustments.
@@ -33,12 +36,24 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
 
  DALL-E 3's integrated editing tools now aim to fix issues within the same image without creating a new prompt. You highlight an area in the image you want to adjust, prompt DALL-E to make a specific change (such as "remove this" or "add this feature"), and it goes to work.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
 However, it's a mixed bag.
@@ -47,6 +62,9 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
@@ -69,10 +87,16 @@ Close
 
  I asked DALL-E to "create a 2:1 4k image of a human eye close up, be detailed," resulting in the following image:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
  The color is slightly dull but unchanged, and some features are warped slightly.

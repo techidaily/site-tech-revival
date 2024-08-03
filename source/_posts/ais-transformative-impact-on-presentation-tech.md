@@ -1,7 +1,7 @@
 ---
 title: AI's Transformative Impact on Presentation Tech
-date: 2024-07-24 17:30:28
-updated: 2024-07-27 10:38:29
+date: 2024-08-02T16:15:40.411Z
+updated: 2024-08-03T16:15:40.411Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 ## 1\. I Am Rich
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
@@ -33,14 +36,23 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Aaron Web Browser
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
@@ -57,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
 ## 4\. AI Agents
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
@@ -83,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/533486c883f0e15f79a205d8fe00d7b629c80c76e
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
  Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.

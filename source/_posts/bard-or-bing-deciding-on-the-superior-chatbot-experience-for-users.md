@@ -1,7 +1,7 @@
 ---
 title: Bard or Bing - Deciding on the Superior Chatbot Experience for Users
-date: 2024-07-26 21:45:25
-updated: 2024-07-29 10:49:10
+date: 2024-08-02T16:16:31.320Z
+updated: 2024-08-03T16:16:31.320Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Create and Edit Images
 
  You can pull off a lot of interesting image manipulation tricks with[ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/) . The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Create and Edit Videos
 
  Just like images, ChatGPT's Code Interpreter can also perform manipulation tasks on videos. You can perform simple tasks like extracting metadata from video files or grabbing the frame from a particular timestamp. You can also:
@@ -65,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
  Here's a snapshot of some of the things you can do with a video using the ChatGPT code interpreter:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
@@ -73,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 3\. Create and Modify Audio Files
 
  ChatGPT's Code Interpreter also has a[built-in text-to-speech feature](https://www.makeuseof.com/best-chrome-text-to-speech-extensions/) . This means you can write a piece of text and have ChatGPT to convert it to an audio file. Besides that, you can also perform several interesting actions on audio files using the Code Interpreter plugin. You can:
@@ -111,12 +124,18 @@ thumbnail: https://thmb.techidaily.com/cc08879bb2c831a3bb04207b3ec86439cd9e17fc1
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Powerful Tool at Your Fingertips
 
  While it is important to recognize that the current capabilities of the Code Interpreter plugin is limited in many ways, the plugin still represents one of the most powerful features available in an AI chatbot anywhere on the internet.

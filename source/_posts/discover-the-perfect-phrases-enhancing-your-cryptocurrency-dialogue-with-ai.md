@@ -1,7 +1,7 @@
 ---
 title: "Discover the Perfect Phrases: Enhancing Your Cryptocurrency Dialogue with AI"
-date: 2024-07-24 10:40:28
-updated: 2024-07-26 11:30:30
+date: 2024-08-02T16:16:33.895Z
+updated: 2024-08-03T16:16:33.895Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 * [How to Filter and Favorite AIPRM Prompts](https://mindmanager.sjv.io/anq2nj)
 * [How to Create AIPRM Prompts](https://dreoaffiliateprogram.pxf.io/k0ezjl)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Crafting effective prompts for ChatGPT is crucial for quality responses. AIPRM offers a vast library of expert prompts.
@@ -60,14 +64,24 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 2. Click the **Add to Chrome** button in the top right corner of the page.
 3. A pop-up will appear, asking you to confirm if you want to add the extension. Click **Add extension** to install it.
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click **Confirm.**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
  You should now see the AIPRM dashboard on your ChatGPT page.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use the AIPRM for ChatGPT Chrome Extension
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the **thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
@@ -79,16 +93,25 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 5. **Hidden** to access your hidden prompt list, which can be viewed and unhidden at any time.
 6. **Add List** to create a custom prompt list. This feature is only accessible to premium subscribers.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
  You can start using AIPRM prompts by clicking the **Public** tab and scrolling through the list of available prompts. For instance, you can select the **Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Filter and Favorite AIPRM Prompts
 
  Considering the extensive selection of prompts, finding the right one for your needs may be challenging or time-consuming. To make it easier to find a specific prompt, you can filter the prompts by topic, activity, popularity, or ChatGPT version.
 
  Click the **Topic** field to select topics like Marketing, productivity, or SEO. You can filter by **Activity** to find prompts suitable to specific activities or click **Sort by** to select prompts based on usage, views, or votes. Lastly, use the **Model** filter to choose a particular ChatGPT version. You can also use the **Search** bar to find prompts using keywords.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the **Star** icon next to the prompt to add it to your **Favorites** tab. Next, go to the **Favorites** tab to view and access all your saved prompts.

@@ -1,7 +1,7 @@
 ---
 title: Leveraging ChatGPT to Streamline Corporate Operations and Strategy
-date: 2024-07-25 18:47:56
-updated: 2024-07-26 10:43:48
+date: 2024-08-02T16:15:35.376Z
+updated: 2024-08-03T16:15:35.376Z
 tags:
   - chatgpt
   - open-ai
@@ -35,8 +35,14 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. InstaCart
 
  The InstaCart ChatGPT plugin helps you express your meal planning needs in natural language and, in turn, get a "shoppable" list of the food items or ingredients that you need to prepare the meal in an instant. The plugin generates an InstaCart shopping list of all the ingredients you'll need to prepare a meal in its right quantity. With a few further clicks, you can get all the ingredients delivered to your doorstep.
@@ -45,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  In the illustration below, we prompted ChatGPT with some ingredients we had. Then, we asked it what meal we could cook with them. After suggesting we cook Jollof rice, ChatGPT listed the additional ingredients we'll need and asked whether to generate an InstaCart shopping list.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatWithPDF
 
  The ChatWithPDF plugin does exactly what the name suggests. With this handy tool, you can effortlessly[use ChatGPT to extract information from any PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) by simply providing a link to it. No additional steps are required—just share the PDF link in your prompt and begin asking your questions.
@@ -81,6 +96,9 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
  We provided a link to OpenAI's GPT-4 technical report and asked it about the model's visual input abilities. Here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
  Turns out another important use case is making sense of technical documents like this.
@@ -97,24 +115,38 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
 Yes, it was a spot-on description of the video if you're wondering.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 7\. SceneXplain
 
  SceneXplain is a hidden gem we found tucked away in the ChatGPT plugin store. What does it do? It takes an image URL as input and returns a detailed description of the image. It is quite impressive in describing complex scenes with multiple people and objects. When we tried it, its descriptions of 12 of the 14 images we tried were spot on, although it can be a bit overly artistic or dramatic in its choice of words. On its own, SceneXplain might not have a lot of use cases. But when combined with other tools, it comes quite handy.
 
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
 
 To use the plugin, use a prompt like:
 
 Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg> or list all the objects you see in this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg>
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. There's An AI For That
 
  "There's An AI For That" isn't the most glamorous of plugins on the ChatGPT plugins store, but we found it quite useful. The tool provides you with a curated list of AI tools that can do any tasks you describe. Sure, you have the option of going into a long, endless round of Google searches that might not get you what you want. But you can simply let the specialized tool do the job of highlighting AI tools for whichever tasks you wish to complete. In an era where AI is at the forefront of most things in the tech space, "There's An AI For That" can come in quite handy.
 
  In the example below, we prompted ChatGPT to suggest some AI tools we can use to manipulate pictures into a music video. Some of it turned out to be a revelation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
 ## 9\. What to Watch

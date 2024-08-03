@@ -1,7 +1,7 @@
 ---
 title: "Seamless AI Chatting on Ubuntu: How to Connect with ChatGPT via Shell Command Line Interface"
-date: 2024-07-26 11:21:13
-updated: 2024-07-28 11:12:48
+date: 2024-08-02T16:16:24.625Z
+updated: 2024-08-03T16:16:24.625Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Drafting Ideas
 
  You’ll find many[online AI tools for content creation](https://www.makeuseof.com/best-online-ai-tools-content-creation/) , so how do Notion AI and ChatGPT compare in this respect? Notion AI has several tools to help you draft ideas for articles, videos, podcasts, and more.
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 
  When using ChatGPT, you can also generate ideas for your projects. After signing in to your account, you can ask the bot to come up with a list of different things that you can then research further.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 3\. Creating Summaries of Existing Pages
 
 ![Blog Topics ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/blog-topics-chatgpt.jpg)
@@ -51,14 +57,27 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 
  Notion AI quickly summarizes what your existing pages are about in a short paragraph; all you have to do is select the**Summarize** tool. It’s worth noting that this feature still felt a little rough around the edges when using it, so you may need to be more descriptive to ensure that you have a better summary.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Notion AI Page Summary Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-page-summary.jpg)
 
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 4\. Finding Answers to Questions
 
  If you have broader questions that require answering, ChatGPT is a better option than Notion AI. You can ask ChatGPT for answers to numerous questions, such as why people enjoy or dislike visiting a certain place. In another example below, we’ve used ChatGPT to ask where in the world people speak the German language.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Question Asked in ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/question-asked-in-chatgpt.jpeg)
 
  You can also use ChatGPT to find out which movements are most frequently used in certain exercise regimens, along with things to do on your travels and more. However, you should double-check the accuracy of everything you see; as ChatGPT mentions, the feature sometimes has inaccuracies.
@@ -83,16 +102,34 @@ thumbnail: https://thmb.techidaily.com/8b80e339dbd0915bb63a5c4ef4dc3b35128d5a8fe
 
  One thing you should keep in mind is that ChatGPT can often experience periods of full capacity. While you can upgrade to ChatGPT Plus to avoid this problem, you may not have round-the-clock access with a free plan.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Generating To-Do Lists
 
  Creating to-do lists isn’t the most exciting task, but having one is a good idea if you want to stay on track during your day. Notion lets you create to-do lists from scratch, but you may also be able to make action items if you’ve already got items on your page.
 
 [Notion AI](https://www.makeuseof.com/what-is-notion-ai-improve-productivity/) has a feature called**Find action items** ; once you select this, the tool will generate a list of things that it perceives as necessary to-dos. After seeing the initial list of options, you can ask Notion AI to expand it if needed.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Notion Create To-Do List AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-create-to-do-list-ai.jpg)
 
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Notion AI and ChatGPT: Two Different Forms of Generative AI
 
  Notion AI and ChatGPT offer various generative AI features, but they differ in terms of strengths and weaknesses. If you want to create summaries of things you’ve already listed or make to-do lists to organize your day better, Notion AI is a better choice.

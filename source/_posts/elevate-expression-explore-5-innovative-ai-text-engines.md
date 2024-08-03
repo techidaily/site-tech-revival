@@ -1,7 +1,7 @@
 ---
 title: "Elevate Expression: Explore 5 Innovative AI Text Engines"
-date: 2024-07-27 12:44:12
-updated: 2024-07-29 12:52:16
+date: 2024-08-02T16:16:36.331Z
+updated: 2024-08-03T16:16:36.331Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 1\. Create and Edit Images
 
  You can pull off a lot of interesting image manipulation tricks with[ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/) . The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
  In the example below, we asked ChatGPT to split an image into quadrants and invert the colors on the last quadrant.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
@@ -65,10 +71,16 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
  Here's a snapshot of some of the things you can do with a video using the ChatGPT code interpreter:
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
@@ -85,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -97,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/70f241d066e5ba09e0220593e00f2a957d64d581f
 
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Write and Analyze Code
 
  If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.

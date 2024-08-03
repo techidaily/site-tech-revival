@@ -1,7 +1,7 @@
 ---
 title: "Storytelling Evolution: ChatGPT’s Sixfold Approach"
-date: 2024-07-24 13:41:49
-updated: 2024-07-25 10:48:12
+date: 2024-08-02T16:16:39.516Z
+updated: 2024-08-03T16:16:39.516Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 ## Is the Turing Test Outdated?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
 
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
@@ -33,12 +36,23 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can[spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The 5 Best Turing Test Alternatives
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
 
 ## 1\. The Marcus Test
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
@@ -47,14 +61,23 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 ## 2\. The Visual Turing Test
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 3\. The Lovelace 2.0 Test
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
@@ -63,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
 ## 4\. Reverse Turing Test
 
-![person using chatgpt on their laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-matheus-bertelli-16094042.jpg)
+![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
@@ -79,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/3b9684531fbf23c2641f6279330c8cba0c78b446e
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Turing Test Is Not Conclusive
 
  The Turing test was meant to be more of a thought experiment than a conclusive test to differentiate between humans and AI. When it was initially proposed, it was the pivotal benchmark for measuring machine intelligence.

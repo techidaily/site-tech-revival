@@ -1,7 +1,7 @@
 ---
 title: Bosses, Educators - Assessing GPT with 4 Digital Lenses
-date: 2024-07-21 20:19:34
-updated: 2024-07-24 11:37:55
+date: 2024-08-02T16:15:57.403Z
+updated: 2024-08-03T16:15:57.403Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
  While some of the extensions improve the ChatGPT app, others use the AI's abilities in other webapps (such as Gmail) to improve the experience there. Do note that all but of one of these extensions require you to have a registered free account on OpenAI's ChatGPT portal.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 1\. WebChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
 
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -101,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 ## 7\. Perplexity AI
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -111,6 +126,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.

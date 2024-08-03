@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Intelligence in Question – OpenAI Confirms Stability and Improvement
-date: 2024-07-24 16:41:19
-updated: 2024-07-26 10:22:45
+date: 2024-08-02T16:15:37.622Z
+updated: 2024-08-03T16:15:37.622Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/9b6869e231e2667ce5b62099e4b236daaa6b93b4b
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Shownotes
 
 This week, we chat about the following tech news that matters:

@@ -1,7 +1,7 @@
 ---
 title: "Decoding Conversational Agents: The Mechanics Behind Chatbot Communication with Humans"
-date: 2024-07-22 17:54:49
-updated: 2024-07-25 10:10:11
+date: 2024-08-02T16:16:34.458Z
+updated: 2024-08-03T16:16:34.458Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/b55c24263d5a9a2d0075e95ed2cba33cc134d0a45
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
@@ -37,6 +40,9 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -48,18 +54,31 @@ Close
 3. When you're done, hit**Tap to stop recording** and wait for ChatGPT to transcribe the recording.
 4. Tap the**Send** button next to the text field to send your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Talk to ChatGPT and Save Time
 
  By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.

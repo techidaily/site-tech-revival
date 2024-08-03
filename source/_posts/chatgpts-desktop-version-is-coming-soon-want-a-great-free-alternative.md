@@ -1,7 +1,7 @@
 ---
 title: ChatGPT's Desktop Version Is Coming Soon, Want a Great Free Alternative?
-date: 2024-07-26 22:45:56
-updated: 2024-07-28 10:26:58
+date: 2024-08-02T16:16:23.821Z
+updated: 2024-08-03T16:16:23.821Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,23 @@ thumbnail: https://thmb.techidaily.com/cff36c5116cca7d9115bbe8663d924812ff9d18b2
 
 ## ChatGPT Desktop Not Out Yet? Here's an Incredible Free Alternative to Try Now
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -33,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/cff36c5116cca7d9115bbe8663d924812ff9d18b2
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -49,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/cff36c5116cca7d9115bbe8663d924812ff9d18b2
 
 ## How to Install and Configure ChatGPT Desktop Application
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -57,8 +74,17 @@ thumbnail: https://thmb.techidaily.com/cff36c5116cca7d9115bbe8663d924812ff9d18b2
 
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.

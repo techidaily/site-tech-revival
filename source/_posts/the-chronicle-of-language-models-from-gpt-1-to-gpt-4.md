@@ -1,7 +1,7 @@
 ---
 title: The Chronicle of Language Models From GPT-1 to GPT-4
-date: 2024-07-25 15:45:16
-updated: 2024-07-28 11:29:14
+date: 2024-08-02T16:15:43.825Z
+updated: 2024-08-03T16:15:43.825Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use[AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/) , cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest[Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , outperforms ChatGPT in a wide range of creative writing tasks.
@@ -41,14 +44,26 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
  Putting our theory to the test, it was just as predicted. ChatGPT (GPT-3.5 and GPT-4) used cliché intros in five out of five trials. Here are the first three samples:
 
 1. Sample 1  
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
@@ -67,6 +82,9 @@ And here's Claude's take:
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 2 Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)

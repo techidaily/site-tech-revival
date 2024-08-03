@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Basics: Discover These 5 Underutilized ChatGPT Tools"
-date: 2024-07-22 16:59:58
-updated: 2024-07-24 11:51:47
+date: 2024-08-02T16:15:31.638Z
+updated: 2024-08-03T16:15:31.638Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -62,10 +68,22 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
@@ -80,10 +98,16 @@ thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c6
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.

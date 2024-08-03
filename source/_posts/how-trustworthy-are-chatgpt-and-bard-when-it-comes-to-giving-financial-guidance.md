@@ -1,7 +1,7 @@
 ---
 title: How Trustworthy Are ChatGPT and Bard When It Comes to Giving Financial Guidance?
-date: 2024-07-22 11:13:49
-updated: 2024-07-25 10:40:48
+date: 2024-08-02T16:15:35.886Z
+updated: 2024-08-03T16:15:35.886Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
  GPT-4 didn't come with some of the much-touted features it was rumored to have. However, the latest model significantly improves on GPT-3.5 and its predecessors. But how is GPT-4 different from GPT-3.5? We'll take you through some key differences between GPT-4 and GPT-3.5.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
 
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of[creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) . However, it already outperforms many large language models in terms of creativity.
@@ -39,6 +45,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
@@ -47,8 +57,15 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
@@ -57,6 +74,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)

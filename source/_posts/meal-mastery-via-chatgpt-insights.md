@@ -1,7 +1,7 @@
 ---
 title: Meal Mastery via ChatGPT Insights
-date: 2024-07-25 18:51:29
-updated: 2024-07-26 12:30:28
+date: 2024-08-02T16:15:32.534Z
+updated: 2024-08-03T16:15:32.534Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
  In 2014, Internet journalists exploded in a frenzy of excitement when a London-based computer program named Eugene Goostman seemingly passed the Turing Test. In 2022 Google's LaMDA reportedly did the same, but what happened? Did they pass the test? What do artificial intelligence advancements mean for the Turing Test?
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
@@ -50,12 +53,22 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -74,6 +87,9 @@ Here is the standard interpretation of the Turing Test:
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
@@ -82,6 +98,9 @@ Here is the standard interpretation of the Turing Test:
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.

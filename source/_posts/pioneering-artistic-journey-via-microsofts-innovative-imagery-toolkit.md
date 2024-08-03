@@ -1,7 +1,7 @@
 ---
 title: Pioneering Artistic Journey via Microsoft’s Innovative Imagery Toolkit
-date: 2024-07-26 20:50:55
-updated: 2024-07-29 11:59:32
+date: 2024-08-02T16:16:25.767Z
+updated: 2024-08-03T16:16:25.767Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/06411bb0a4ac0185fbc154f8c0ddc984322d7b8bf
 
 ## Evaluating the Battle Between Google Gemini and Microsoft's ChatGPT in AI Innovation
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
@@ -22,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/06411bb0a4ac0185fbc154f8c0ddc984322d7b8bf
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Google's AI model Gemini has three variants, Ultra, Pro, and Nano, focused on different tasks and complexity levels.
@@ -46,18 +52,27 @@ thumbnail: https://thmb.techidaily.com/06411bb0a4ac0185fbc154f8c0ddc984322d7b8bf
 
  With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -66,6 +81,14 @@ thumbnail: https://thmb.techidaily.com/06411bb0a4ac0185fbc154f8c0ddc984322d7b8bf
 
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
@@ -86,6 +109,9 @@ Here's the source screenshot.
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:

@@ -1,7 +1,7 @@
 ---
 title: "Synthesizing Intelligence: The Leading 5 Hardware Advances in AI Sphere"
-date: 2024-07-24 13:10:34
-updated: 2024-07-25 11:18:15
+date: 2024-08-02T16:16:39.525Z
+updated: 2024-08-03T16:16:39.525Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
 ## 1\. Support for Different Programming Languages
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 3\. Better Logic and Reasoning
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
@@ -43,8 +49,14 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Med-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
 
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
@@ -61,8 +73,14 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
 
  PaLM 2 will bring third-party extensions to Bard, connecting Google with third-party brands like Adobe, Spotify, Khan Academy, and Uber Eats. For example, with Adobe integration, Bard can access Firefly, Adobe's image-generating tool. This will help you export images you generate into Adobe Express.
@@ -71,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
 ## 7\. Workspace
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
 
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.

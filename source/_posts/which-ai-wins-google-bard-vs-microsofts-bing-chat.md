@@ -1,7 +1,7 @@
 ---
 title: Which AI Wins? Google Bard Vs. Microsoft's Bing Chat
-date: 2024-07-25 22:16:43
-updated: 2024-07-28 10:40:37
+date: 2024-08-02T16:16:46.261Z
+updated: 2024-08-03T16:16:46.261Z
 tags:
   - chatgpt
   - open-ai
@@ -29,12 +29,21 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 
  Once this is done, you will see a prompt similar to the one below. The Bing Chat waiting list is now discontinued, but you may still see a prompt. The next step is to press the**Chat now** button, and that's it!
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of New Bing Introduction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-new-bing-introduction.jpg)
 
  The process with ChatGPT is even simpler. First, you will need to create an[OpenAI](https://chat.openai.com/auth/login) account. Once created, you can use ChatGPT from any supported browser. This multi-browser compatibility marks the first notable difference. Bing Chat does offer a form of multi-browser support but with limited functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
@@ -51,8 +60,14 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
@@ -71,16 +86,25 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
 By contrast, the ChatGPT response was to admit its limitations.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
  There are similarities across both interfaces, which reflects their shared pedigree. For example, both have a simple search box and offer the option to regenerate a response after providing an answer.
@@ -97,6 +121,9 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Which Is Best: Bing Chat or Chat GPT?
 
  There is no straightforward answer, as both tools are incredibly impressive.

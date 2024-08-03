@@ -1,7 +1,7 @@
 ---
 title: Bridging the Gap Between ChatGPT & Excel Skills
-date: 2024-07-21 22:33:51
-updated: 2024-07-23 12:12:55
+date: 2024-08-02T16:16:31.359Z
+updated: 2024-08-03T16:16:31.359Z
 tags:
   - chatgpt
   - open-ai
@@ -31,18 +31,27 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  This type of research can drag out the process, which could leave you feeling overwhelmed or demotivated by the time you get to the writing part. This is where ChatGPT comes in.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT What Tropes to Avoid in a Crime Thriller Novel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-what-tropes-to-avoid-crime-thriller-novel.jpg)
 
  Simply ask "what is the best narrative structure for a crime thriller". Or, if there's something in your book that necessitates specialized knowledge, like how an ice skating tournament works, ask exactly that and ChatGPT will generate the relevant information in a summary.
 
  Keep in mind that the chatbot might generate inaccurate answers, which is just one of the[big problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , so it's essential to verify the results. You also need to ensure that whatever information you derive from ChatGPT is compatible with your theme; don't just settle for the first answer it spits out.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Has Anyone Else Used the Same Idea Already?
 
  Now that you have your idea and research notes ready to go, it's time to get to work. But before investing potentially months into bringing your idea to life, it's essential to check if anyone else has already used it.
 
  We are all influenced and inspired by the art and media around us, so it is possible that your concept is based on another book you've read or film you've watched. These ideas can take root in our minds, disguising themselves as our own. Just ask ChatGPT if your idea already exists.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Check the Originality of Novel Concept](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-checking-the-originality-of-story-idea.jpg)
 
  Your story will most likely draw upon a widely recognized framework of narratives in literature and film, such as an alien invasion or a money heist. So you need to be very specific with your prompt to ensure that ChatGPT has every element of your story to check its originality.
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  Editing the outline is critical; add any details ChatGPT missed, remove things that you don't like, or ask the chatbot to generate a new outline altogether. Now you've got something to work with, and it didn't take all day to put together!
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 4\. Flesh Out the Characters and World
 
  If you don't have a clear vision of your characters or the world they're in, then you won't be able to paint a picture for your readers.
@@ -67,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  You can add the results to your outline or in separate notes, but note it down somehow. Always refer back to these notes as you are writing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Develop Your Plot
 
  Our foremost suggestion is to focus on character arc. Most readers tend to stay engaged when they genuinely care about the characters and their journey, even if the plot isn't phenomenal. But that doesn't mean that you should skimp on plot development.
@@ -79,12 +94,18 @@ thumbnail: https://thmb.techidaily.com/fa51da89f91ea3306806b0c92d6d119cfa0eae393
 
  After revising your written work, you'll no doubt want to change some, if not most, of it. Put grammar aside for now and look at how you can improve the storytelling.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Paraphrase My Own Written Work for Novel Draft](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-paraphrasing-options-of-novel-scene.jpg)
 
  Ask ChatGPT to paraphrase what you wrote. Don't copy-paste the results as it won't be able to capture the undertone of your story, but you might stumble upon better words to convey it.
 
  It might be worth including "show, don't tell" at the beginning of your prompt so you can get into the habit of creating an immersive story for your readers.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Check Your Grammar
 
  Ideally, you shouldn't edit while you write, at least the mechanical aspect of the text such as grammar. If you do this, you'll never complete your novel.

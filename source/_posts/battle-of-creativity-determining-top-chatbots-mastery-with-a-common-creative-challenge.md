@@ -1,7 +1,7 @@
 ---
 title: "Battle of Creativity: Determining Top Chatbot's Mastery with a Common Creative Challenge"
-date: 2024-07-23 19:57:14
-updated: 2024-07-25 12:53:22
+date: 2024-08-02T16:16:23.770Z
+updated: 2024-08-03T16:16:23.770Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 ## Explore the Power of Artificial Creativity with Microsoft's Bing and DALL-E 3 for Free
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Easily access and use DALL-E 3 for free with Microsoft Bing Chat or Bing Image Creator. No subscription fees or sign-up required.
@@ -23,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Access DALL-E 3 With Microsoft Bing
 
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
@@ -36,8 +42,19 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Makes DALL-E 3 Special?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
 
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
@@ -52,10 +69,16 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
  This is how it would pan out if we were[using the previous version of DALL-E](https://www.makeuseof.com/how-to-use-dall-e-2/) . We gave DALL-E 2 the following prompt: "What would New York City look like in 2100 if plants had taken over?"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
 
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
@@ -74,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/d777118ee07b1ed845aaf5d08e4c5e0d9e2577a0d
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.

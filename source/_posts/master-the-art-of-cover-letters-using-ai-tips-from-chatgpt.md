@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Cover Letters Using AI - Tips From ChatGPT
-date: 2024-07-21 15:49:55
-updated: 2024-07-24 12:56:22
+date: 2024-08-02T16:15:46.138Z
+updated: 2024-08-03T16:15:46.138Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/162b2aac03e354d0551440e420920822fdecda676
 
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -43,6 +46,9 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
@@ -51,6 +57,9 @@ The maximum reward you can earn is $20,000.
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 Here, you must fill in the following information:
@@ -65,10 +74,17 @@ Here, you must fill in the following information:
 
  After filling in these details, agree to Bugcrowd's terms and conditions and click "Report Vulnerability."
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -77,6 +93,9 @@ Here, you must fill in the following information:
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Earn Money While Improving OpenAI's Systems
 
  OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.

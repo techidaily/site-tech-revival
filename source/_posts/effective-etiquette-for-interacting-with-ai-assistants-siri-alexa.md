@@ -1,7 +1,7 @@
 ---
 title: Effective Etiquette for Interacting With AI Assistants (Siri, Alexa)
-date: 2024-07-23 21:29:24
-updated: 2024-07-26 10:41:49
+date: 2024-08-02T16:16:24.968Z
+updated: 2024-08-03T16:16:24.968Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,16 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 
  With AI chatbots becoming mainstream, companies are locking their most powerful features behind subscription paywalls. However, some companies allow free users to do more things than others. As such, if you'd like to give GPT-4 Turbo a try, using Microsoft's Copilot tool is the best way to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is GPT-4 Turbo?
 
-![gpt-4 logo on smartphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-4-logo-on-smartphone-screen.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
 
  Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -29,18 +36,35 @@ thumbnail: https://thmb.techidaily.com/3a0ddaab1602f9aac9589130fbb24dc40e59a2711
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)

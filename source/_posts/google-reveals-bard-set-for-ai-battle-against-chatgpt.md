@@ -1,7 +1,7 @@
 ---
 title: Google Reveals 'Bard', Set for AI Battle Against ChatGPT
-date: 2024-07-25 16:51:39
-updated: 2024-07-27 12:46:33
+date: 2024-08-02T16:16:04.270Z
+updated: 2024-08-03T16:16:04.270Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,9 @@ Let's look at both models in action and analyze their performance.
 
  Both chatbots are quick to point out that the accuracy of their responses should not be taken at face value. A point proved by asking Google Bard a simple question that it shouldn't have any problems with: "What large language model is Google Bard using?"
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard answering LLM question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-answering-llm-question.jpg)
 
  As you can see, this is a dated response that justifies the statement that response accuracy should always be double-checked. But a couple of other recent updates are apparent in the response too.
@@ -66,12 +69,20 @@ These are both welcome updates to the tool.
 
 ChatGPT was unable to provide up-to-date information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
 
  Next, we tried to test on non-topical data. We asked both chatbots to answer this question: "How long would it take to drive to the sun?"
 
 Google Bard first; it answered with some comprehensive details.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard answering how long to drive to the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-how-long-to-drive-to-the-sun.jpg)
 
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
@@ -80,6 +91,9 @@ Google Bard first; it answered with some comprehensive details.
 
  To give ChatGPT a second chance, we reworded the question and asked: "How long would it take me to travel to the sun at 65mph?"
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to reworded question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-reworded-question.jpg)
 
  This time it did produce some meaningful figures, but it had rounded the figure up to 1.5 million hours, causing a disparity of eight years between the responses. However, this disparity could be due to the distance between the Earth and the Sun.
@@ -100,6 +114,9 @@ Google Bard first; it answered with some comprehensive details.
 
  When comparing Google Bard vs. ChatGPT for accuracy, the Bard was the better performer compared to the free version of ChatGPT. If you are using the premium version of ChatGPT, there isn't much separating them. However, as with any chatbot, a pinch of salt is required when determining the accuracy of results.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comparing Google Bard's and ChatGPT's Creativity
 
  Testing these tools for the quality of their creative output is trickier. There is no sliding scale for creativity that allows direct comparisons to be drawn. So, we will set an identical creative task and make a personal judgment on how the answers compare.
@@ -108,16 +125,25 @@ Google Bard first; it answered with some comprehensive details.
 
 The original version of Google Bard gave us this:
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard Poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-poetry.jpg)
 
  When compared to the ChatGPT-3.5 answer below, this is flat and uninspiring.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Poetry answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-poetry-answer.jpg)
 
  Although this is not an extensive test, this example shows what we found to be the case overall—ChatGPT is better at creative tasks than Google Bard.
 
  At least, this is the case for the early version of Bard, which was what we used for the original test. The new Google Bard is trained on a larger text dataset, which Google says will give it more creativity. To put this to the test, we asked it to create the same poem:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of latest Google Bard poetry attempt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-latest-google-bard-poetry-attempt.jpg)
 
  As previously noted, measuring creativity is a judgment call, but for us, the new poem still comes up short compared to the ChatGPT effort. ChatGPT still appears to have the edge in the creativity stakes. But what about ChatGPT-4? Let's give it a bash at the same poem and see how the premium version compares.
@@ -132,6 +158,9 @@ That ChatGPT is the place to be,
 
 When it comes to creativity!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Google Bard: Which Is the Best AI Chatbot?
 
  The different LLMs that power the tools are fundamental to how the tools perform. They are the key reason for the differences in the test responses, each having its own strengths and weaknesses. Choosing between them will be determined more by user intent than user preference.
@@ -143,6 +172,9 @@ Some of the deciding factors include:
 * **Security and Safety** : There have been concerns about the online safety of ChatGPT, which uses a reactive approach to security. In other words, safety concerns are dealt with as they arise. Google Bard does have a more proactive approach but still uses feedback to improve processes. If you have safety concerns, there are[plenty of ways your kids can use ChatGPT safely](https://www.makeuseof.com/ways-kids-can-use-chatgpt-safely/) .
 * **Ease of Use** : Both tools are easy to use, and how you interact with them is similar. The inclusion of follow-on suggestions and links to cited sources are definite improvements to Google Bard. These make checking the integrity of results easier with Bard and make ongoing research easier.
 * **Integrations** : One of the key benefits of Google Bard is its integration with tools like Gmail and Google Workspace. This means that you can export chats directly into platforms like Gmail and Google Docs.  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Google Bart export options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bart-export-options.jpg)
 
  Summing up, if you are looking for accuracy and simplified integration with other Google services, then Google Bard is the better option. It also outperforms ChatGPT in terms of interface, with the addition of a**Google it** button and source-citing, making it the better all-round package.

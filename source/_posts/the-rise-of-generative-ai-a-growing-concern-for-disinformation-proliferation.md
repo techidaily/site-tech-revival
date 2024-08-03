@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Generative AI: A Growing Concern for Disinformation Proliferation?"
-date: 2024-07-21 20:58:59
-updated: 2024-07-24 12:11:13
+date: 2024-08-02T16:16:14.604Z
+updated: 2024-08-03T16:16:14.604Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,21 @@ thumbnail: https://thmb.techidaily.com/30bec39c6c2bfea6784f7fb3989760ee0c9a0b9f3
 
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Data Accuracy
 
  ChatGPT has explicit disclaimers about data inaccuracy. The platform occasionally produces incorrect information since it carries limited knowledge of events after 2021\. It doesn’t even know its own release date.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT About Its Launch Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-making-precise-answers.jpg)
 
  Whereas Bing AI’s advanced language model and integrated search engine produce more reliable, precise data. Unlike ChatGPT, Microsoft didn’t train Bing on limited datasets. Instead, it uses its search engine to pull timely, relevant information about world events and general knowledge questions.
@@ -63,12 +74,22 @@ thumbnail: https://thmb.techidaily.com/30bec39c6c2bfea6784f7fb3989760ee0c9a0b9f3
 
  Now, however, discrepancies only arise when you explore the more intricate branches of math, such as advanced statistics, physics, and probability. For example, ChatGPT can already intermediate-level physics questions like this correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
 Bing AI answers the same physics question correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## 5\. Security Measures
 
  Cybercriminals started misusing ChatGPT almost immediately. Consequently, some saw[ChatGPT as a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) that lets crooks write spam emails, develop malware, and build phishing links.
@@ -89,18 +110,34 @@ Bing AI answers the same physics question correctly.
 
  Perhaps the only limitation of Bing AI is that it doesn’t run on third-party browsers, like Mozilla Firefox, Safari, and Google Chrome. You’ll have to download Microsoft Edge. Although seemingly trivial, you might find it inconvenient if Edge isn’t your default browser.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Sign-Up Process
 
 [Signing up for ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is really quite simple. Just create an OpenAI account, register for ChatGPT, and wait for the confirmation. Most people get instant access.
 
  On the contrary,[signing up for the new Bing AI](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) initially took longer. The first users spent weeks on the waitlist before getting approved, especially those outside the U.S.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 8\. Functionality
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
@@ -131,6 +168,9 @@ Bing AI answers the same physics question correctly.
 
  These restrictions vary per platform.[ChatGPT has a high upper limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) that can process around 3,000 words per turn, assuming they’re all relevant and related. Meanwhile, Bing AI has a much smaller limit. It caps users to 30 turns, after which you must start a new conversation or restate your custom instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Should You Use Bing's AI or ChatGPT?
 
  Use the above points to make informed assessments, but note that they could change at the drop of a hat. AI technologies are constantly evolving. ChatGPT and Bing AI offer dynamic features that will change as their NLP technologies mature. Expect sudden developments in the tech.

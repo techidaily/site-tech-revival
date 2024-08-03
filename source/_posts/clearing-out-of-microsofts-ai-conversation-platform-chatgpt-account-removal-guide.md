@@ -1,7 +1,7 @@
 ---
 title: "Clearing Out Of Microsoft’s AI Conversation Platform: ChatGPT Account Removal Guide"
-date: 2024-07-22 13:57:52
-updated: 2024-07-25 11:55:54
+date: 2024-08-02T16:15:50.736Z
+updated: 2024-08-03T16:15:50.736Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
  Google Bard was released shortly after Microsoft's Bing Chat, and both tools are hoping to grab a healthy share of the burgeoning generative AI and integrated AI search market. But what are the differences between them? And which chatbot is right for you?
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are the Differences between Google Bard and Bing Chat?
 
  Outwardly, both tools look similar. They both offer a simple interface with a text box to allow you to "chat" with them. However, dig a little deeper, and significant differences become apparent. To test the tools for yourself, you will need a Google and Microsoft account, although you might have to join a[waitlist for Google Bard](https://www.makeuseof.com/how-to-join-google-bard-ai-waitlist/) .
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
@@ -55,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -63,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
  Perhaps more telling was another issue we found when testing the tools. We found ourselves puzzled by Bard's response to a simple request to "write some bullet points for a blog on global warming." This should be a request that any chatbot should handle. But, as you can see, Bard seemed confused by the request.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/acf1543a08c93a8277bd32ca8ca0045c1e81ebd50
 
 We did manage to get a response from Bard by rewording the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
  As both platforms are going through rapid development, the user experience will continue to improve.
@@ -85,6 +100,9 @@ We did manage to get a response from Bard by rewording the prompt.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
@@ -101,6 +119,9 @@ We did manage to get a response from Bard by rewording the prompt.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## The Era of the Chatbot Is Upon Us
 
  Regardless of the flaws we found and our quibbles with the chatbots, these are amazing technological feats that will play an ever-increasing part in our lives. The rapid development of technology will continue to push the boundaries of what these tools can achieve and how we use them.

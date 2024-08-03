@@ -1,7 +1,7 @@
 ---
 title: "Navigating the European Union's Legal Framework for Artificial Intelligence: Effects on AI Platforms Like ChatGPT"
-date: 2024-07-24 18:20:28
-updated: 2024-07-27 11:31:25
+date: 2024-08-02T16:16:06.172Z
+updated: 2024-08-03T16:16:06.172Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Decktopus AI](https://www.decktopus.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![A Screenshot of Decktopus AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/decktopus-ai-presentation-generator-screenshot.jpg)
 
  Decktopus is an AI-powered presentation generator that aims to simplify the process of making presentations for any situation, and getting started with it couldn't be easier. All you have to do is type out a description of what you want your presentation to be about. If you’re not sure, Decktopus can often provide some useful suggestions.
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
@@ -57,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
@@ -83,8 +95,14 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7.[MagicSlides](https://www.magicslides.app)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.
@@ -93,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480c
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Make a Presentation Like Never Before
 
  There are plenty of AI tools out there that can create presentations for you entirely from scratch. Whether you’re looking for a presentation you can bring up at your next meeting, a way to engage your colleagues, or just a faster way of making that next slideshow, there’s an AI presentation generator out there for you.

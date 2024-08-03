@@ -1,7 +1,7 @@
 ---
 title: In-Depth Look at Google's AI Project Gemini and Its Objectives
-date: 2024-07-25 13:23:44
-updated: 2024-07-27 12:29:23
+date: 2024-08-02T16:16:44.782Z
+updated: 2024-08-03T16:16:44.782Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
 
  And while it is almost impossible not to be fascinated by ChatGPT, there are some glaring issues that need to be addressed; privacy concerns, for example. Is ChatGPT really a privacy risk?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -31,8 +34,14 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns,[Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT's Privacy Policy: What You Need to Know
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
 
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's[privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
@@ -45,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the[FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
@@ -53,6 +65,23 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like[ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### 2\. Limit What You Share
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
@@ -61,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/c07f3ef9154ad0c617bd9bd6a2a32146d7b51b27c
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the[California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/) . So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Is It Time to Regulate ChatGPT?
 
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per[Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/) .

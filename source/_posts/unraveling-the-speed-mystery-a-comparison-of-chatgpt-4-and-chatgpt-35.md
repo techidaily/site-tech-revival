@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Speed Mystery: A Comparison of ChatGPT-4 and ChatGPT-3.5"
-date: 2024-07-24 12:47:37
-updated: 2024-07-25 10:15:19
+date: 2024-08-02T16:16:21.250Z
+updated: 2024-08-03T16:16:21.250Z
 tags:
   - chatgpt
   - open-ai
@@ -35,14 +35,24 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 
  Take the below conversation from ChatGPT as an example. While its language model, the GPT-3.5, generates grammatically correct and factual statements, it sounds stiff and awkward.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Having a Casual, Normal Conversation With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-normal-conversation.jpg)
 
  On the other hand,[Bing AI uses GPT-4](https://blogs.bing.com/search/march%5F2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) , an iteration of ChatGPT’s language model. Its output sounds casual and genuine.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Generating Creative Responses from Microsoft Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/microsoft-bing-creative-responses.jpg)
 
  Currently, you can only[access GPT-4 on ChatGPT](https://www.makeuseof.com/how-to-use-gpt4/) by upgrading to ChatGPT Plus for $20 a month.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 3\. Data Accuracy
 
  ChatGPT has explicit disclaimers about data inaccuracy. The platform occasionally produces incorrect information since it carries limited knowledge of events after 2021\. It doesn’t even know its own release date.
@@ -51,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 
  Whereas Bing AI’s advanced language model and integrated search engine produce more reliable, precise data. Unlike ChatGPT, Microsoft didn’t train Bing on limited datasets. Instead, it uses its search engine to pull timely, relevant information about world events and general knowledge questions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Asking Bing AI About ChatGPT Launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-giving-precise-dates.jpg)
 
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Mathematical Precision
 
  ChatGPT and Bing AI understand math. The bots can analyze equations, perform computations based on their datasets, and generate output through their language models.
@@ -63,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/552a28ee1a685205797034d4580809b4cdf3bec41
 
  Now, however, discrepancies only arise when you explore the more intricate branches of math, such as advanced statistics, physics, and probability. For example, ChatGPT can already intermediate-level physics questions like this correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
 Bing AI answers the same physics question correctly.
@@ -75,10 +94,16 @@ Bing AI answers the same physics question correctly.
 
  OpenAI acknowledges these issues. The company discloses that ChatGPT might produce biased or harmful content, although developers continuously work on security.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Overriding ChatGPT Limits Through Character Portrayal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tomie-portrayal.jpg)
 
  Bing's AI bot faces similar cybersecurity risks. It combats them by enforcing stricter limitations, reducing the platform’s susceptibility to jailbreaking. Conversations get terminated if you mention anything unusual.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
 
 ## 6\. Accessibility
@@ -89,6 +114,9 @@ Bing AI answers the same physics question correctly.
 
  Perhaps the only limitation of Bing AI is that it doesn’t run on third-party browsers, like Mozilla Firefox, Safari, and Google Chrome. You’ll have to download Microsoft Edge. Although seemingly trivial, you might find it inconvenient if Edge isn’t your default browser.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Sign-Up Process
 
 [Signing up for ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is really quite simple. Just create an OpenAI account, register for ChatGPT, and wait for the confirmation. Most people get instant access.
@@ -101,6 +129,9 @@ Bing AI answers the same physics question correctly.
 
 ## 8\. Functionality
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.

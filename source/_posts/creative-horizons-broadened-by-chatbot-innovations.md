@@ -1,7 +1,7 @@
 ---
 title: Creative Horizons Broadened by Chatbot Innovations
-date: 2024-07-24 21:40:21
-updated: 2024-07-26 12:33:30
+date: 2024-08-02T16:16:21.406Z
+updated: 2024-08-03T16:16:21.406Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -45,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/1d09a35d2889f182293f6c4568acc826b5a70f4b0
 
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
@@ -59,12 +69,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Multi-Modal Voice and Video Interactions
 
  Everyone[wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -75,6 +92,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -89,6 +109,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ## Temporary Chat
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.

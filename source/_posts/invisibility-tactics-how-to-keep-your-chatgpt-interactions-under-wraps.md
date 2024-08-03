@@ -1,7 +1,7 @@
 ---
 title: "Invisibility Tactics: How to Keep Your ChatGPT Interactions Under Wraps"
-date: 2024-07-22 16:20:10
-updated: 2024-07-23 12:26:23
+date: 2024-08-02T16:16:25.086Z
+updated: 2024-08-03T16:16:25.086Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
 ## 1\. WebChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
 
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
@@ -65,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
@@ -99,8 +108,14 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Perplexity AI
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -111,6 +126,9 @@ thumbnail: https://thmb.techidaily.com/082fc262728d55c32a74b3f303edb941befed7588
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.

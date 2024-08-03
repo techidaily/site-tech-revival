@@ -1,7 +1,7 @@
 ---
 title: ChatGPT and the World of Spirits - How Well Can It Concoct Cocktails?
-date: 2024-07-22 12:16:35
-updated: 2024-07-24 12:48:14
+date: 2024-08-02T16:16:41.004Z
+updated: 2024-08-03T16:16:41.004Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
  You must set Microsoft Edge as your primary browser to use Bing Chat efficiently. It’s not accessible elsewhere. If you try hitting the Chat button on Bing, you’ll get a prompt asking you to install Edge.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Bing Asking User to Download Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-prompt-to-download-microsoft-edge.jpg)
 
  Unfortunately, Microsoft Edge is not as popular as some other web browsers. Like millions of other working adults, you probably prefer using Google Chrome. It’s the most widely used browser.[Statista](https://www.statista.com/statistics/544400/market-share-of-internet-browsers-desktop/) even reports that Google Chrome has a whopping 66.14 percent market share.
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
  Likewise, ChatGPT’s model has limited knowledge of real-world events after 2021\. It can’t access publications and media outlets. The platform even malfunctions when you ask for simple weather updates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Can't Provide Weather Update Because It's Not Connected to the Internet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-can-t-answer-weather-update.jpg)
 
  Meanwhile, Bing Chat has access to real-time sources. The below image shows its capacity to produce comprehensive weather updates based on your location.
@@ -61,8 +67,14 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ## 5\. You Can Use Bing Chat on Different Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using Bing Chat on Bing App for Smartphones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-mobile-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Using the Bing Chatbot on Skype](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-on-skype.jpg)
 
 Close
@@ -79,14 +91,23 @@ Close
 
  Take the below prompt as an example. ChatGPT rejected our role-play request because Tomie is an evil fictional character.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![ChatGPT Refuses to Roleplay as Tomie the Character ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejects-roleplay-request-as-tomie.jpg)
 
 But it obliged after we rephrased our prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Roleplaying as Tomie from the Manga Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepting-roleplay-request.jpg)
 
  Meanwhile, Bing Chat ignored our requests outright, regardless of our phrasing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Bing Chat Rejecting Roleplay Request Due to Security Restrictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-rejecting-request.jpg)
 
  Make a list of jailbreak instructions. Learning how GPT models analyze and absorb inputs will help you[write more effective AI prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . You could even create template formulas.
@@ -106,12 +127,22 @@ But it obliged after we rephrased our prompt.
 
  The below image shows a sample cover letter by ChatGPT. It’s grammatically correct, but it also sounds stiff and awkward.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Writing a Cover Letter for a Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-cover-letter-1.jpg)
 
 Meanwhile, Bing Chat’s phrases flow smoothly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Bing Chat Writing Cover Letter for Content Writer Application](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-writing-cover-letter.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. OpenAI Offers Several AI Tools
 
  Freelancers who already use OpenAI tools should stick with ChatGPT. Not only do they integrate well with each other, but they also record progress on the same in-platform API keys. They make project organization easier.

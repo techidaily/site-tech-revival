@@ -1,7 +1,7 @@
 ---
 title: Personalizing Websites with AI-Powered Searches
-date: 2024-07-22 14:31:10
-updated: 2024-07-24 12:56:59
+date: 2024-08-02T16:16:44.839Z
+updated: 2024-08-03T16:16:44.839Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 * [How to Find the Best Custom GPTs in the GPT Store](https://ancheer.sjv.io/y96bgp)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -35,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store [requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/). Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to [create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/).
@@ -45,18 +52,30 @@ thumbnail: https://thmb.techidaily.com/9b9d2e5e3221cfe29f11fdae3e34a8712951d1bbc
 
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
 
 1. Once you can access the GPT Store, click **Explore GPTs** on the left sidebar of the ChatGPT interface to open the store.
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.

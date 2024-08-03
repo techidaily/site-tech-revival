@@ -1,7 +1,7 @@
 ---
 title: AI-Driven Content Creation Assistants
-date: 2024-07-27 15:52:42
-updated: 2024-07-28 10:49:53
+date: 2024-08-02T16:16:15.327Z
+updated: 2024-08-03T16:16:15.327Z
 tags:
   - chatgpt
   - open-ai
@@ -49,37 +49,59 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
  Once the chat is ready to export, you can access Export ChatGPT from the extensions drop-down from your browser (usually located to the right of the address bar). This brings up the dialog box shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Export ChatGPT dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-export-chatgpt-dialog-box.jpg)
 
  You will need to link your Notion account to the app, but this was easy. We found that the process was automatic if you had your Notion account open on the same browser.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT conversation imported into Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-imported-into-notion.jpg)
 
  Overall, if you are a Notion user, this delivers on all its promises. If you aren't a Notion user, there are probably better options. However, again it was simple to install on Microsoft Edge and Google Chrome.
 
 **Download** :[Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Export and Share
 
  This extension works with Chrome, Edge, and Firefox. However, the installation isn't available through the proprietary extension sources for the browsers in question. That said, it is a nice tool once installed and worth a little effort.
 
 [Installing an extension manually on Chrome](https://www.makeuseof.com/tag/how-to-install-chrome-extensions-manually/) or another browser isn't that difficult. The steps to do this are detailed below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Installing ChatGPT Export and Share for Chrome and Edge
 
 1. Download the appropriate version from the[ChatGPT Export and Share download page](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) .
 2. Extract the zipped files to a folder on your computer. For example, here's[how you extract files on Windows 10](https://www.makeuseof.com/unzip-files-windows-10/) .
 3. Open the browser you want to add the extension to and navigate to the extensions page. This can be done by clicking the**Extensions** icon and selecting**Manage Extensions** or typing the following into the address bar—**chrome://extensions** or**edge://extensions** .
 4. Enable developer mode by switching the appropriate toggle switch. The picture below shows this in Microsoft Edge; Chrome users will find it at the top right of the page.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Screenshot of Edge Extensions Page ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-edge-extensions-page.jpg)
 5. Install the extension by clicking the**Load unpacked** button and selecting the folder where you extracted the files. ChatGPT Export and Share should now be activated.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Installing ChatGPT Export and Share on Firefox
 
  The first two steps are identical for Firefox, with the obvious exception that you select the Firefox version. After ChatGPT Export and Share is downloaded and extracted, the following steps will install it in Firefox.
 
 1. Type**about:debugging** into the Firefox address bar.
 2. Click**This Firefox** and then click**Load Temporary Add-on** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Export and Share Firefox Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-export-and-share-firefox-installation.jpg)
 3. Select the**content\_script.js** from the extracted installer.
 4. You should now have access to the extension on the ChatGPT website.
@@ -92,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/cec2c63029344d0bb5e1e4c9de0d18ad2dcde0daf
 
 **Download** :[ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Prompt Genius
 
  If you are looking for an extension that does much more than just allow you to export your chats, then ChatGPT Prompt Genius might be right up your street. Among the nifty features that this extension includes is added functionality to the prompting process. There are plenty of[extensions that can add useful functionality to ChatGPT](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) .

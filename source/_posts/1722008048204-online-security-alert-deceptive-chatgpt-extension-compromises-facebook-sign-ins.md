@@ -1,7 +1,7 @@
 ---
 title: "Online Security Alert: Deceptive ChatGPT Extension Compromises Facebook Sign-Ins"
-date: 2024-07-25 23:52:56
-updated: 2024-07-26 11:49:26
+date: 2024-08-02T16:16:36.057Z
+updated: 2024-08-03T16:16:36.057Z
 tags:
   - chatgpt
   - open-ai
@@ -19,16 +19,25 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  Let's look at some of the best apps and extensions to help you get the most from ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. ShareGPT
 
  ShareGPT is a browser extension that can be added to the most popular web browsers, including Microsoft Edge and Google Chrome. The premise of the extension is to allow easy sharing of ChatGPT chats with a single click.
 
  It does this by creating a custom URL for each chat you wish to share. You create the URL by selecting the**Share** button that is added to the ChatGPT interface:
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Screenshot of ShareGPT Share Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-sharegpt-share-screen.jpg)
 
  Clicking this button opens up a new tab with a custom URL containing a complete export chat record. This can then be shared with whoever you need.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ShareGPT URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-sharegpt-url.jpg)
 
  Overall, we found this to be simple but effective. If you want a no-frills and easy-to-use way of sharing your ChatGPT conversations, this ticks all the boxes.
@@ -45,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  We tested its ability to directly export chats into Notion using the conversation below.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT conversation for Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-for-notion.jpg)
 
  Once the chat is ready to export, you can access Export ChatGPT from the extensions drop-down from your browser (usually located to the right of the address bar). This brings up the dialog box shown below.
@@ -59,12 +71,18 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
 **Download** :[Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Export and Share
 
  This extension works with Chrome, Edge, and Firefox. However, the installation isn't available through the proprietary extension sources for the browsers in question. That said, it is a nice tool once installed and worth a little effort.
 
 [Installing an extension manually on Chrome](https://www.makeuseof.com/tag/how-to-install-chrome-extensions-manually/) or another browser isn't that difficult. The steps to do this are detailed below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Installing ChatGPT Export and Share for Chrome and Edge
 
 1. Download the appropriate version from the[ChatGPT Export and Share download page](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) .
@@ -92,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
 **Download** :[ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Prompt Genius
 
  If you are looking for an extension that does much more than just allow you to export your chats, then ChatGPT Prompt Genius might be right up your street. Among the nifty features that this extension includes is added functionality to the prompting process. There are plenty of[extensions that can add useful functionality to ChatGPT](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) .
@@ -107,6 +128,9 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  The image below shows how these options can be selected when exporting your chat.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Screenshot ChatGPT Prompt Genius](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-prompt-genius.jpg)
 
  We liked the inclusion of Markdown language with this tool, which is very convenient if you are using text for web content. We tested each option, and they all worked perfectly with the link option, creating a unique, easily shared URL.

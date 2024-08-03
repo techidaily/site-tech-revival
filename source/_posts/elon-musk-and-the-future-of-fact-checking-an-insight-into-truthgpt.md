@@ -1,7 +1,7 @@
 ---
 title: "Elon Musk and the Future of Fact-Checking: An Insight Into TruthGPT"
-date: 2024-07-26 15:32:26
-updated: 2024-07-28 11:55:16
+date: 2024-08-02T16:16:03.651Z
+updated: 2024-08-03T16:16:03.651Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,15 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  GPT-4 didn't come with some of the much-touted features it was rumored to have. However, the latest model significantly improves on GPT-3.5 and its predecessors. But how is GPT-4 different from GPT-3.5? We'll take you through some key differences between GPT-4 and GPT-3.5.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
 
  One of the most pronounced advantages of the GPT-4 model over GPT-3.5 is its ability to provide more creative replies to prompts. Don't get me wrong; GPT-3.5 is very creative. There's a long list of[creative things you can do with ChatGPT that uses the model](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) . However, it already outperforms many large language models in terms of creativity.
@@ -29,8 +36,14 @@ thumbnail: https://thmb.techidaily.com/c6429f73427910ad10427b45e11889d34e56d443e
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
@@ -41,6 +54,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
@@ -69,6 +85,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## GPT-4: A Step Up from GPT-3.5
 
  Undoubtedly, GPT-4 is a significant step up from its predecessor models. While it is still plagued with some of the limitations of GPT-3.5, significant improvements in several areas and the addition of new capabilities make the model an exciting new step in the pursuit of truly intelligent AI language models.

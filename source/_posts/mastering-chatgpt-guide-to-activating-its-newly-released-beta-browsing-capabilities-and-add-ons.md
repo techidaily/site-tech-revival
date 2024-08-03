@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Guide to Activating Its Newly Released Beta Browsing Capabilities and Add-Ons"
-date: 2024-07-24 10:28:35
-updated: 2024-07-26 10:24:30
+date: 2024-08-02T16:16:32.174Z
+updated: 2024-08-03T16:16:32.174Z
 tags:
   - chatgpt
   - open-ai
@@ -25,8 +25,23 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  Despite a few limitations—the chatbot has limited information about the world after about 2021—it's useful for summarizing books, writing a resume, debugging code, and much more. But does it have enough information to design a workout plan for you? Here's how ChatGPT responded to common requests for three different types of workout plans.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Basic Workout Plans From ChatGPT
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
 
  For the first prompt, I asked ChatGPT to create a workout plan for beginners. The basic workout plan it generated allotted time for cardio, resistance training, warm-ups, and cool-downs.
@@ -35,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  In this instance, ChatGPT responded to the prompt with a standard list of exercises that would work well for many people. If you're interested in a simple, straightforward fitness routine, then its suggestions are legitimate.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
@@ -51,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  As someone who has recovered from a fair share of sports injuries, this is the same kind of advice I received from physicians and physical therapists when returning to activities. Again, nothing can replace personalized advice from a healthcare provider, but the chatbot gets the broad strokes correct and advises caution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## How ChatGPT Creates Running Plans
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
@@ -65,12 +86,18 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  Even with a few attempts at follow-up questions, the chatbot did not respond with any specific pacing information. Compared to similar[training plans from Runner’s World](https://www.runnersworld.com/training/a30911910/download-your-runners-world-training-plan/) , the ChatGPT responses are not quite as detailed; however, they do offer basic plans that can help you get ready for specific distances.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)

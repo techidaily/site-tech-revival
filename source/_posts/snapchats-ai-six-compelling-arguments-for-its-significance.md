@@ -1,7 +1,7 @@
 ---
 title: "Snapchat's AI: Six Compelling Arguments for Its Significance"
-date: 2024-07-25 17:28:27
-updated: 2024-07-28 12:16:45
+date: 2024-08-02T16:16:18.731Z
+updated: 2024-08-03T16:16:18.731Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 
  With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
@@ -66,10 +69,17 @@ thumbnail: https://thmb.techidaily.com/3b7b4456dc7ad41f160b3b08d3d5d91e6d91d4dab
 
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
@@ -78,14 +88,32 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 Here's the source screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
@@ -94,6 +122,9 @@ Here's the source screenshot.
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.

@@ -1,7 +1,7 @@
 ---
 title: "Speculating on the Future: GPT-5's Expected Release?"
-date: 2024-07-25 18:19:23
-updated: 2024-07-26 10:21:26
+date: 2024-08-02T16:15:49.171Z
+updated: 2024-08-03T16:15:49.171Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 1 Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -46,12 +49,19 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
 
 [ChatGPT's Memory](https://help.openai.com/en/articles/8590148-memory-faq) allows you to set specific information it should always remember about you. But that's not all. Over time, its memory can improve, learn details about you to add to its memory, and deliver improved accuracy and performance based upon this.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
@@ -62,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
@@ -74,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/f7591f1fe19066863a4d6b73ad7ef224adc41cd29
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.

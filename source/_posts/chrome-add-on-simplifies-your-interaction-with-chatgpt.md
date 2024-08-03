@@ -1,7 +1,7 @@
 ---
 title: Chrome Add-On Simplifies Your Interaction with ChatGPT
-date: 2024-07-27 11:24:24
-updated: 2024-07-29 12:16:18
+date: 2024-08-02T16:15:57.444Z
+updated: 2024-08-03T16:15:57.444Z
 tags:
   - chatgpt
   - open-ai
@@ -25,8 +25,14 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
  To access ChatGPT's voice input feature on your phone, you'll need to download and install the official ChatGPT app for mobile devices. Once you sign in with your OpenAI account, you're all set to take advantage of the Whisper feature.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
@@ -48,10 +54,19 @@ Close
 3. When you're done, hit**Tap to stop recording** and wait for ChatGPT to transcribe the recording.
 4. Tap the**Send** button next to the text field to send your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
@@ -60,6 +75,9 @@ Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Talk to ChatGPT and Save Time
 
  By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tutorial on Setting Up ChatGPT Extensions
-date: 2024-07-26 14:39:42
-updated: 2024-07-29 11:16:31
+date: 2024-08-02T16:16:33.878Z
+updated: 2024-08-03T16:16:33.878Z
 tags:
   - chatgpt
   - open-ai
@@ -45,26 +45,41 @@ thumbnail: https://thmb.techidaily.com/573c174bbe1814c2ebf6560108430a00295460b25
 
  We tested its ability to directly export chats into Notion using the conversation below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT conversation for Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-for-notion.jpg)
 
  Once the chat is ready to export, you can access Export ChatGPT from the extensions drop-down from your browser (usually located to the right of the address bar). This brings up the dialog box shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Export ChatGPT dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-export-chatgpt-dialog-box.jpg)
 
  You will need to link your Notion account to the app, but this was easy. We found that the process was automatic if you had your Notion account open on the same browser.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT conversation imported into Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-imported-into-notion.jpg)
 
  Overall, if you are a Notion user, this delivers on all its promises. If you aren't a Notion user, there are probably better options. However, again it was simple to install on Microsoft Edge and Google Chrome.
 
 **Download** :[Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Export and Share
 
  This extension works with Chrome, Edge, and Firefox. However, the installation isn't available through the proprietary extension sources for the browsers in question. That said, it is a nice tool once installed and worth a little effort.
 
 [Installing an extension manually on Chrome](https://www.makeuseof.com/tag/how-to-install-chrome-extensions-manually/) or another browser isn't that difficult. The steps to do this are detailed below.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Installing ChatGPT Export and Share for Chrome and Edge
 
 1. Download the appropriate version from the[ChatGPT Export and Share download page](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) .
@@ -92,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/573c174bbe1814c2ebf6560108430a00295460b25
 
 **Download** :[ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Prompt Genius
 
  If you are looking for an extension that does much more than just allow you to export your chats, then ChatGPT Prompt Genius might be right up your street. Among the nifty features that this extension includes is added functionality to the prompting process. There are plenty of[extensions that can add useful functionality to ChatGPT](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) .
@@ -107,10 +125,16 @@ thumbnail: https://thmb.techidaily.com/573c174bbe1814c2ebf6560108430a00295460b25
 
  The image below shows how these options can be selected when exporting your chat.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Screenshot ChatGPT Prompt Genius](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-prompt-genius.jpg)
 
  We liked the inclusion of Markdown language with this tool, which is very convenient if you are using text for web content. We tested each option, and they all worked perfectly with the link option, creating a unique, easily shared URL.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Screenshot of Prompt Genius URL for sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-prompt-genius-url-for-sharing.jpg)
 
  Overall, this tool was easy to install and worked exactly as intended. If you want to easily share your work and[improve your prompting techniques](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) at the same time, ChatGPT Prompt Genius might be the tool for you.

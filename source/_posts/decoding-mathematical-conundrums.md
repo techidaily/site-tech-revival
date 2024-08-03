@@ -1,7 +1,7 @@
 ---
 title: Decoding Mathematical Conundrums
-date: 2024-07-27 23:21:31
-updated: 2024-07-28 11:25:46
+date: 2024-08-02T16:15:34.077Z
+updated: 2024-08-03T16:15:34.077Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
 ## Biking Directions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -45,6 +51,11 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -55,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -69,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
 ## 4 Don't Make Your AI Multitask
 
-![chatgpt logo and message on smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-logo-and-message-on-smartphone-feature.jpg)
+![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -89,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -103,6 +123,9 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.

@@ -1,7 +1,7 @@
 ---
 title: Unleash the Fun! Discover These Best ChatGPT Games Today
-date: 2024-07-25 12:56:56
-updated: 2024-07-26 10:15:46
+date: 2024-08-02T16:16:12.336Z
+updated: 2024-08-03T16:16:12.336Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 ## 1.[DAIR.AI](https://discord.com/invite/SKgkVT8BGJ)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Discord Channel for DAIR AI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/discord-ai-channel-dair.jpg)
 
 [DAIR.AI](https://dair.ai/) primarily engages with the community through Discord. It provides free, comprehensive resources on various AI topics, such as prompt engineering, machine learning, and career building. You’ll also find pieces answering general knowledge questions.
@@ -33,6 +36,11 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 ## 2.[GitHub](https://github.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompts Repositories on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt.jpg)
 
  Anyone interested in AI should sign up for GitHub. It’s a paid source code-hosting site that lets users collaborate on coding and programming projects. You and your partners can take codes straight from repositories.
@@ -49,10 +57,17 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  The below image shows ChatGPT rejecting a request to portray a manga character.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Refusing to Act Like Tomie Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejecting-roleplay-request-1.jpg)
 
  After rephrasing the instructions and adding more details, it quickly obliged.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
@@ -77,16 +92,29 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
 
  r/PromptDesign is a good place to master prompt engineering. Instead of sharing model-specific prompts, the group discusses ways users communicate with AI tools. Its members test various platforms regularly.
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7.[r/OpenAI](https://www.reddit.com/r/OpenAI/)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reddit Community for OpenAI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-reddit-community.jpg)
 
  Most users know OpenAI for ChatGPT and Dall-E, but it actually carries various AI tools. They primarily cater to developers. Professionals use them to integrate LLMs into their systems or build AI-driven applications.
@@ -95,6 +123,9 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
  Most topics can get pretty technical. We suggest filtering the posts based on flair so that you can focus on one aspect of OpenAI at a time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8.[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
 
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
@@ -107,6 +138,10 @@ thumbnail: https://thmb.techidaily.com/aa9290eddc8ec2cc97b63ee765b598d95b8b81e9c
 
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
 
  It’s currently the largest AI community on LinkedIn. The group has around a million members worldwide, many of whom post regularly. It gets status updates every few minutes.

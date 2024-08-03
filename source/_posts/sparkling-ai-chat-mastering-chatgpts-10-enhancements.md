@@ -1,7 +1,7 @@
 ---
 title: "Sparkling AI Chat: Mastering ChatGPT's 10 Enhancements"
-date: 2024-07-22 14:35:27
-updated: 2024-07-25 11:44:39
+date: 2024-08-02T16:15:27.756Z
+updated: 2024-08-03T16:15:27.756Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 ## Discover GPT's Latest Marvels: Focus on Crucial Enhancements
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://parisrhonecom.sjv.io/zqobqr)
@@ -35,12 +38,18 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
 
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/c29b91a7962f39ddd096ce546c9dfc1fb01c0ff8d
 
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
@@ -85,6 +97,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
@@ -93,6 +108,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ## Temporary Chat
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.

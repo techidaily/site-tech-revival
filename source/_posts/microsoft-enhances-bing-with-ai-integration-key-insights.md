@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Enhances Bing with AI Integration: Key Insights"
-date: 2024-07-24 20:38:33
-updated: 2024-07-26 11:35:45
+date: 2024-08-02T16:15:33.050Z
+updated: 2024-08-03T16:15:33.050Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 
  With OpenAI's release of the highly anticipated GPT-4 large language model, ChatGPT has become significantly more powerful. But how can you get your hands on GPT-4? How can you use GPT-4 on ChatGPT right now?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is GPT-4?
 
  GPT-4, short for[Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -39,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### How to Upgrade to ChatGPT Plus
 
 To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
@@ -51,14 +58,23 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### 1\. Performance Improvement
 
  GPT-4 significantly improves over GPT-3.5 in areas like commonsense reasoning, mathematics, creativity, and generating code. For instance, GPT-4 performs remarkably well on simulated bar exams, scoring in the top 10% of test takers, a dramatic improvement over GPT-3.5, which scored in the bottom 10%.
@@ -67,6 +83,9 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Usage Cap
 
  Despite the improvements that come with GPT-4, access to the model comes with an inconvenient limitation—a usage cap. Unlike GPT-3.5, with which you can prompt all day long, GPT-4 users are restricted to anywhere from 25 to 200 messages every three hours. We are not sure how OpenAI decides who gets a higher cap, but it seems, at least for now, to be arbitrarily or by the luck of the draw. Once again, a limited supply of GPUs and the need to adequately balance server loads might be behind the mandatory usage cap.

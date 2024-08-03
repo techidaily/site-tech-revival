@@ -1,7 +1,7 @@
 ---
 title: "The Next Level for Google Bard: Advancements Brought by PaLM 2 Innovations"
-date: 2024-07-21 14:18:19
-updated: 2024-07-24 10:50:39
+date: 2024-08-02T16:15:51.073Z
+updated: 2024-08-03T16:15:51.073Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  PaLM 2 also offers Codey, a specialized AI model for coding and debugging. Codey will be a part of PaLM 2's generation and code completion service, among other functions. Already there are several ways Bard AI is overtaking ChatGPT in the AI chatbots league, like being free to use, connected to the internet, and accessible in over 180 countries.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 2\. Multilingual Capabilities
 
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
@@ -37,6 +40,14 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
 ## 3\. Better Logic and Reasoning
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
@@ -51,8 +62,14 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## 5\. Sec-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
 
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
@@ -61,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
@@ -69,8 +93,14 @@ thumbnail: https://thmb.techidaily.com/f3f7c2648aae473eb47faf6b1572e2de9e0b4b9ce
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Workspace
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
 
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.

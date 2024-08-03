@@ -1,7 +1,7 @@
 ---
 title: Opt for Basic Textual ChatGPT or Enhanced Web-Integrated Version
-date: 2024-07-23 13:58:54
-updated: 2024-07-24 12:11:43
+date: 2024-08-02T16:15:36.984Z
+updated: 2024-08-03T16:15:36.984Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tell ChatGPT Its Function and the Presentation Rules
 
  While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn[how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
@@ -61,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -123,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 >
 > 5\. Completing a quest adds to the player's XP.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
@@ -169,12 +178,18 @@ And finally, don’t forget to actually start the game:
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Complete ChatGPT RPG Prompt
 
  We've combined everything and put it here for you to copy, so you can start your own game immediately.
@@ -273,6 +288,9 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.

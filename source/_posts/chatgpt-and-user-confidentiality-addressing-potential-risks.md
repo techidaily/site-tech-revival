@@ -1,7 +1,7 @@
 ---
 title: ChatGPT and User Confidentiality – Addressing Potential Risks
-date: 2024-07-25 17:55:58
-updated: 2024-07-28 11:41:41
+date: 2024-08-02T16:16:17.780Z
+updated: 2024-08-03T16:16:17.780Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
  However, using ChatGPT this way is deceitful—it doesn’t have enough context to assess your employees accurately. You’ll definitely get fired for submitting erroneous ratings. Workers might even file lawsuits against you depending on the gravity of the situation.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
 ![Person Highlighting Parts of a Contract in Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/highilighting-parts-of-contract.jpg)
@@ -53,12 +56,18 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
 ## 5\. Making ChatGPT Reply to Messages
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 6\. Composing Emails on ChatGPT
 
  Employees find it harder to write emails than chat messages because of their formal nature. To hasten the writing process, they[compose difficult emails on ChatGPT](https://www.makeuseof.com/use-chatgpt-write-work-emails/) .
@@ -81,16 +90,28 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
  Explore[ethical ways of using ChatGPT in programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . Most employers are okay with their dev team researching algorithms, generating placeholders, and refracting snippets on AI tools, but you must write and edit codes manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Editing Articles and Papers With ChatGPT
 
  ChatGPT can help you edit drafts. Its sophisticated language model detects awkward sentences, grammatical errors, and even incoherent statements. Take the below conversation as an example. We asked for constructive criticism based on our preferred style guide and tonality.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Editing Paragraph Based on AP Styleguide](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-acting-as-an-editor.jpg)
 
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 10\. Analyzing Financial Charts on ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
 
  One of[OpenAI’s worst issues with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it gets confused with word and number problems. You can only ask intermediate-level questions. Making ChatGPT analyze complex financial reports would likely produce errors and inaccuracies.
@@ -99,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
  You can still offload some tasks to ChatGPT, like drawing charts or writing summaries. Just note that it lacks contextual understanding and takes input at face value—you must perform fact-checking yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Use ChatGPT Ethically and Responsibly
 
  The mere act of using ChatGPT doesn’t justify termination. Most employers fire workers who exploit chatbots and pass off AI-generated output as original work. Just be transparent about your workflow. Don’t use ChatGPT if you have to hide it from your coworkers and supervisors.

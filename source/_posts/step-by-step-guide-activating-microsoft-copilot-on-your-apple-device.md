@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Microsoft Copilot on Your Apple Device"
-date: 2024-07-21 14:36:57
-updated: 2024-07-24 11:57:35
+date: 2024-08-02T16:15:33.810Z
+updated: 2024-08-03T16:15:33.810Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  With OpenAI's release of the highly anticipated GPT-4 large language model, ChatGPT has become significantly more powerful. But how can you get your hands on GPT-4? How can you use GPT-4 on ChatGPT right now?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is GPT-4?
 
  GPT-4, short for[Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -27,8 +30,14 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Access GPT-4 on ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
 
  Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
@@ -39,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/59bb6881bb451ab6f15e5a33afa6f776cb1ec0282
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Upgrade to ChatGPT Plus
 
 To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
@@ -59,6 +71,9 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Performance Improvement
 
  GPT-4 significantly improves over GPT-3.5 in areas like commonsense reasoning, mathematics, creativity, and generating code. For instance, GPT-4 performs remarkably well on simulated bar exams, scoring in the top 10% of test takers, a dramatic improvement over GPT-3.5, which scored in the bottom 10%.
@@ -81,6 +96,9 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## GPT-4: Is It Worth the Hype?
 
  GPT-4 didn't come with all the features that a part of the AI community had hoped it would come with. There were speculations that the GPT-4 model would be significantly larger than GPT-3, supercharging its performance. As it turns out, OpenAI has not released any information in that regard, and some commentators believe that the model isn't much larger than the GPT-3.5 series.

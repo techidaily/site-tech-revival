@@ -1,7 +1,7 @@
 ---
 title: "Unveiling 7 Benefits: AI-Driven Health Consults"
-date: 2024-07-24 18:35:13
-updated: 2024-07-26 11:48:33
+date: 2024-08-02T16:15:48.154Z
+updated: 2024-08-03T16:15:48.154Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,14 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
@@ -39,14 +45,23 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
@@ -57,6 +72,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)

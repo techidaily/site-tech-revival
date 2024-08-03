@@ -1,7 +1,7 @@
 ---
 title: Programming Bots to Interact Like Humans
-date: 2024-07-26 15:29:44
-updated: 2024-07-27 12:51:56
+date: 2024-08-02T16:16:43.153Z
+updated: 2024-08-03T16:16:43.153Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/d20b5a089b92c49210adfab63b8105bb804b83619
 
 ## What Is the Turing Test?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
@@ -40,6 +43,15 @@ Here is the standard interpretation of the Turing Test:
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -50,12 +62,18 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -74,6 +92,9 @@ Here is the standard interpretation of the Turing Test:
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
@@ -82,6 +103,10 @@ Here is the standard interpretation of the Turing Test:
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.

@@ -1,7 +1,7 @@
 ---
 title: "Avoiding Pitfalls: Spotting Top 5 Manipulative Practices in Automated Conversations"
-date: 2024-07-21 18:24:44
-updated: 2024-07-23 12:41:11
+date: 2024-08-02T16:15:58.592Z
+updated: 2024-08-03T16:15:58.592Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
  A lot of AI story writers are not just for fiction writing.[AI can assist content writers](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) and marketers who want to write website content, blog posts, social media posts, emails, and more. However, in this article, we’ll focus on the features related to fiction and AI script generators.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Rytr
 
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
@@ -45,6 +48,18 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. ShortlyAI
 
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
@@ -59,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
@@ -69,8 +87,14 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. NovelAI
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
@@ -83,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/72178c55a17f02b5af426d7fce9f5984667c0f559
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
  The main benefit of AI story generators is for people who feel like they’ve lost their creativity. If you feel like you keep coming back to the same ideas, these can definitely help you break out of old habits.

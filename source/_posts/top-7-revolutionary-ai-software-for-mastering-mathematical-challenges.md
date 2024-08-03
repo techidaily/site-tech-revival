@@ -1,7 +1,7 @@
 ---
 title: Top 7 Revolutionary AI Software for Mastering Mathematical Challenges
-date: 2024-07-23 10:25:12
-updated: 2024-07-26 10:22:16
+date: 2024-08-02T16:16:44.443Z
+updated: 2024-08-03T16:16:44.443Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 * [How to Use Microsoft Copilot Image Generator](https://www.makeuseof.com/how-use-bing-image-creator-free/#how-to-use-microsoft-copilot-image-generator)
 * [Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?](https://www.makeuseof.com/how-use-bing-image-creator-free/#should-you-use-microsoft-copilot-image-creator-or-chatgpt-plus-with-dall-e-3)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Microsoft Copilot Image Creator is a competitor to OpenAI's DALL-E 3, but it also uses DALL-E 3 tech.
@@ -41,12 +44,18 @@ thumbnail: https://thmb.techidaily.com/a44de758792af2fb67431bc0cd10b70e0176e5a8a
 
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the[Copilot Image Creator](https://copilot.microsoft.com/) . I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Microsoft Copilot Image Generator
 
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only[reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -67,18 +76,27 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Any Browser
 
  If you don't use Edge, you can use Copilot Image Creator in any browser with its dedicated site. The Copilot Image Creator site is mostly the same but with a couple of differences.
 
  First up, the website version doesn't feature on-page AI editing like the Edge Copilot Image Creator. You can open any image you create in Microsoft Designer, but at the time of writing, this photo editor doesn't feature AI editing tools to change ratios, apply unique styles, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.
 
  What I found interesting was that Image Creator images generated in Copilot on Edge will appear in your Image Creator recent images. Edits you make to the Copilot on Edge images will update across the two tools as you make them, but it's a one-way process.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Should You Use Microsoft Copilot Image Creator or ChatGPT Plus With DALL-E 3?
 
  It's frustrating that Copilot Image Creator won't create a 2:1 image out of the box, but Microsoft's editing tool takes care of this with some extra clicks, so it's not too much of an issue.

@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Job Application with AI: Creating a Stellar Resume Using ChatGPT"
-date: 2024-07-24 20:53:38
-updated: 2024-07-27 12:48:56
+date: 2024-08-02T16:16:15.194Z
+updated: 2024-08-03T16:16:15.194Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
 ## Transform Your AI Interactions with These 7 Ingenious Prompt Techniques That Work
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
@@ -51,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
  This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
@@ -67,9 +76,15 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Don't Make Your AI Multitask
 
-![chatgpt logo and message on smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-logo-and-message-on-smartphone-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -85,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
@@ -97,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b3
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .

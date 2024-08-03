@@ -1,7 +1,7 @@
 ---
 title: Building Compelling D&D Figures Using GPT and Generative AI
-date: 2024-07-24 10:10:30
-updated: 2024-07-25 12:47:24
+date: 2024-08-02T16:15:41.700Z
+updated: 2024-08-03T16:15:41.700Z
 tags:
   - chatgpt
   - open-ai
@@ -27,16 +27,25 @@ thumbnail: https://thmb.techidaily.com/8df3a9bbe5d32c1e5c4eef1f9c5ff4d8504e6e331
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Drafting Ideas
 
  You’ll find many[online AI tools for content creation](https://www.makeuseof.com/best-online-ai-tools-content-creation/) , so how do Notion AI and ChatGPT compare in this respect? Notion AI has several tools to help you draft ideas for articles, videos, podcasts, and more.
 
  If you go to the Draft With AI section, for example, you’ll find an option called**Brainstorm ideas...** . When typing the subject you want to come up with topics for, you’ll receive a list of potential options.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
 
  Notion AI also lets you draft social media posts, press releases, blog posts, and more.
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/8df3a9bbe5d32c1e5c4eef1f9c5ff4d8504e6e331
 
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 4\. Finding Answers to Questions
 
  If you have broader questions that require answering, ChatGPT is a better option than Notion AI. You can ask ChatGPT for answers to numerous questions, such as why people enjoy or dislike visiting a certain place. In another example below, we’ve used ChatGPT to ask where in the world people speak the German language.
@@ -69,12 +81,18 @@ thumbnail: https://thmb.techidaily.com/8df3a9bbe5d32c1e5c4eef1f9c5ff4d8504e6e331
 
  You can[use Notion to help with your language learning](https://www.makeuseof.com/use-notion-learn-language/) in various ways. For example, you can list your long-term goals and keep track of the resources you primarily use for your lessons. With Notion AI, you can also translate your pages into a selection of different languages—including Dutch, Korean, and Italian.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
 
  With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
 
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Stability
 
  When choosing any AI tool, you want to ensure that you can rely on it whenever you need the service. And when it comes to stability, Notion AI and ChatGPT slightly differ.
@@ -83,12 +101,18 @@ thumbnail: https://thmb.techidaily.com/8df3a9bbe5d32c1e5c4eef1f9c5ff4d8504e6e331
 
  One thing you should keep in mind is that ChatGPT can often experience periods of full capacity. While you can upgrade to ChatGPT Plus to avoid this problem, you may not have round-the-clock access with a free plan.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Generating To-Do Lists
 
  Creating to-do lists isn’t the most exciting task, but having one is a good idea if you want to stay on track during your day. Notion lets you create to-do lists from scratch, but you may also be able to make action items if you’ve already got items on your page.
 
 [Notion AI](https://www.makeuseof.com/what-is-notion-ai-improve-productivity/) has a feature called**Find action items** ; once you select this, the tool will generate a list of things that it perceives as necessary to-dos. After seeing the initial list of options, you can ask Notion AI to expand it if needed.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![Notion Create To-Do List AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-create-to-do-list-ai.jpg)
 
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.

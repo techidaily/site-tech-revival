@@ -1,7 +1,7 @@
 ---
 title: "Comparing Language Models: Bard, ChatGPT & Offline Alpaca - The Ultimate Showdown"
-date: 2024-07-26 12:19:37
-updated: 2024-07-27 11:24:15
+date: 2024-08-02T16:15:32.301Z
+updated: 2024-08-03T16:15:32.301Z
 tags:
   - chatgpt
   - open-ai
@@ -55,8 +55,14 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Which LLM Has the Best General Knowledge?
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -71,8 +77,15 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -87,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -97,6 +113,9 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 ## Which LLM Tells the Best Jokes?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
@@ -111,6 +130,9 @@ thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd
 
 You read it here first, folks.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.

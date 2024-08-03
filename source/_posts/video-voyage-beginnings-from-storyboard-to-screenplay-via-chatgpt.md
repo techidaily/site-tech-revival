@@ -1,7 +1,7 @@
 ---
 title: Video Voyage Beginnings - From Storyboard to Screenplay via ChatGPT
-date: 2024-07-25 19:45:21
-updated: 2024-07-26 12:30:16
+date: 2024-08-02T16:16:14.705Z
+updated: 2024-08-03T16:16:14.705Z
 tags:
   - chatgpt
   - open-ai
@@ -17,8 +17,14 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  On May 10th, 2023, Google announced a major upgrade to its large language model (LLM) chatbot Bard AI at Google I/O.Google's Pathways Language Model 2 (PaLM 2) will improve Bard's performance by featuring support for different programming languages, third-party extensions, integration with other Google products, and other interesting additions. Let's explore in detail how PaLM 2 will revolutionize Bard AI.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Support for Different Programming Languages
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
@@ -27,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  PaLM 2 also offers Codey, a specialized AI model for coding and debugging. Codey will be a part of PaLM 2's generation and code completion service, among other functions. Already there are several ways Bard AI is overtaking ChatGPT in the AI chatbots league, like being free to use, connected to the internet, and accessible in over 180 countries.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Multilingual Capabilities
 
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
@@ -35,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Better Logic and Reasoning
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
@@ -43,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 4\. Med-PaLM 2
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
@@ -63,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
 ## 6\. Third-Party Extension Support
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
 
  PaLM 2 will bring third-party extensions to Bard, connecting Google with third-party brands like Adobe, Spotify, Khan Academy, and Uber Eats. For example, with Adobe integration, Bard can access Firefly, Adobe's image-generating tool. This will help you export images you generate into Adobe Express.
@@ -77,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d1
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## PaLM 2 WIll Revolutionize Google Bard
 
  PaLM 2 LLM has provided Google with an appropriate response to Microsoft's Bing search engine and OpenAI's ever-popular ChatGPT. The new upgrades to Bard will not only give you better satisfaction but provide you with increased safety across Google products.

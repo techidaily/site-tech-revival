@@ -1,7 +1,7 @@
 ---
 title: "From Words to Pictures: How ChatGPT Enables Image Creation in AI"
-date: 2024-07-25 10:14:15
-updated: 2024-07-26 11:50:25
+date: 2024-08-02T16:15:45.497Z
+updated: 2024-08-03T16:15:45.497Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -31,12 +34,18 @@ thumbnail: https://thmb.techidaily.com/2e7cadf9e7c8396ddc846863b7d8b8551ba6b8c7a
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
 
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -75,12 +84,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
 
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
@@ -89,6 +105,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ## Temporary Chat
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.

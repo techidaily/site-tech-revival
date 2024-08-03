@@ -1,7 +1,7 @@
 ---
 title: Top 7 Blunders You Shouldn't Make with Generative AI Applications
-date: 2024-07-22 21:35:17
-updated: 2024-07-24 10:38:51
+date: 2024-08-02T16:16:08.728Z
+updated: 2024-08-03T16:16:08.728Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
  Unfortunately, it can be frustrating to type out everything you need ChatGPT to do over and over again. So, to save you the stress of typing out long ChatGPT prompts, we've put together five ways you can control ChatGPT with your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Using the ChatGPT Mobile App
 
  Perhaps the easiest and most hassle-free way of controlling ChatGPT with your voice is by[using the official ChatGPT mobile app](https://www.makeuseof.com/how-to-use-chatgpt-on-android-and-ios/) . It is available for both Android and iOS and is quite easy to use. To control ChatGPT using your voice from the mobile app:
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 
 ![Controlling ChatGPT with your voice using the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_2023-09-26-06-33-26-153_com-openai-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Controlling ChatGPT with your voice using the mobile app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/screenshot_2023-09-26-06-32-55-011_com-openai-chatgpt.jpg)
 
 Close
@@ -48,6 +54,9 @@ Close
 
  It's worth noting that[OpenAI is giving ChatGPT a voice to respond to your prompts](https://www.makeuseof.com/openai-chatgpt-new-voice-response-function-launched/) . This will allow for natural, voice-based conversations with the chatbot. You can speak commands and questions out loud and hear voiced responses. This provides a more natural interaction, like talking to a real person. However, voiced replies are still rolling out and may currently be limited to ChatGPT Plus users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Using VoiceGPT App
 
  If you want to enjoy this kind of two-way voice conversation even before ChatGPT rolls out the feature to everyone, VoiceGPT is a great option. The app uses speech-to-text and text-to-speech technology to allow two-way voiced interaction with ChatGPT, providing a natural and personalized conversational experience. Here's how to set it up:
@@ -72,6 +81,9 @@ Close
 
 **Download:** [VoiceGPT](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024483/https://play.google.com/store/apps/details?id=gpt.voice.chatgpt) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 3\. Using Your Mobile Keyboard
 
 ![Voice typing toggle option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/screenshot_20230120-120316-copy.jpg)
@@ -99,6 +111,9 @@ Like Gboard, Microsoft SwiftKey is also available on iOS.
 
 **Download** : Microsoft SwiftKey for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024483/https://play.google.com/store/apps/details?id=com.touchtype.swiftkey) |[iOS](https://apps.apple.com/us/app/microsoft-swiftkey-keyboard/id911813648) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Using Inbuilt Voice Typing on PC or Mac
 
 ![voice typing on windows using edge browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/voice-typing-on-windows-using-edge-browser.jpg)
@@ -113,18 +128,31 @@ Like Gboard, Microsoft SwiftKey is also available on iOS.
 
 ### [Voice In](https://chrome.google.com/webstore/detail/voice-in-speech-to-text-d/pjnefijmagpdjfhhkpljicbbpicelgko)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Voice In Chrome Extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/voice-in-chrome-extension.jpg)
 
  The Voice In speech-to-text Chrome extension works on almost any website you can type text. Whether dictating an email on the Gmail website or speaking out prompts on the ChatGPT website, Voice In can come in handy. There are dozens of languages on offer, and it transcribes text with impressive speed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### [VoiceWave - ChatGPT Voice Control](https://chrome.google.com/webstore/detail/voicewave-chatgpt-voice-c/baahncfnjojaofhdmdfkpeadigoemkif)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![voice wave chrome extension for chatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/voice-wave-chrome-extension-for-chatgpt.jpg)
 
  VoiceWave is purpose-built for ChatGPT and comes with many customization features you'll find handy. For example, you can issue voice commands in dozens of languages, and VoiceWave will automatically transcribe them to text right inside the ChatGPT prompt input box.
 
  Recording with the tool is quite easy. Once you've installed and activated the Chrome extension, a small microphone icon sits next to your ChatGPT prompt input box every time you visit the ChatGPT website. Clicking the microphone icon activates the speech-to-text feature, activates your computer's microphone, and listens to your voice commands for transcription.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### [Talk-to-ChatGPT](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk)
 
 ![talk-to-chatgpt chrome extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/talk-to-chatgpt-chrome-extension.jpg)
@@ -133,8 +161,14 @@ Like Gboard, Microsoft SwiftKey is also available on iOS.
 
  Once installed and activated, the Talk-to-ChatGPT Chrome extension adds a small rectangular box in the top right corner of your screen. The box contains controls for toggling on and off voice typing. Apart from issuing voice commands, you can also get the tool to read out ChatGPT's responses using different AI voices.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice control for ChatGPT chrome extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/voice-control-for-chatgpt-chrome-extension.jpg)
 
  Voice Control for ChatGPT is exactly what the name says—it gives you the ability to prompt ChatGPT with voice commands while it reads back the responses if you prefer. Once installed and activated, the Chrome extension adds several buttons just below the ChatGPT prompt text box, which you can use to control your voice interaction with ChatGPT.

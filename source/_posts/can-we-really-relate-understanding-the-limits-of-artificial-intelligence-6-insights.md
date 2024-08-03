@@ -1,7 +1,7 @@
 ---
 title: Can We Really Relate? Understanding the Limits of Artificial Intelligence - 6 Insights
-date: 2024-07-22 20:46:48
-updated: 2024-07-25 12:32:19
+date: 2024-08-02T16:16:05.888Z
+updated: 2024-08-03T16:16:05.888Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
  Start with these online courses to help you use AI prompts effectively for work and other projects.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1.[Prompt Engineering for ChatGPT (Coursera)](https://www.coursera.org/learn/prompt-engineering)
 
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
@@ -41,8 +47,14 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
 
  In this LinkedIn Learning course, creative expert Dave Birss shows how Generative AI tools present a huge opportunity to advance your career. As Birss points out, humans usually use technology to automate repetitive activities. Thanks to AI, you can now use tech to automate thinking.
@@ -53,8 +65,14 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.

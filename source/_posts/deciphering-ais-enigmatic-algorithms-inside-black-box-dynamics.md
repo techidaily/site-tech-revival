@@ -1,7 +1,7 @@
 ---
 title: "Deciphering AI's Enigmatic Algorithms: Inside Black Box Dynamics"
-date: 2024-07-25 12:31:17
-updated: 2024-07-27 11:30:55
+date: 2024-08-02T16:16:35.037Z
+updated: 2024-08-03T16:16:35.037Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
  If you’re stuck on a programming project, you may go looking for a tool to help you brainstorm ideas, write clean code, or explain a tricky concept. Which AI chatbot do you choose: the swift and informative Gemini, or the comprehensive and powerful ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Language Support
 
  When it comes to language support, ChatGPT outshines Gemini in breadth and proficiency. While Gemini officially supports around 22 popular programming languages—including Python, Go, and TypeScript—ChatGPT's language capabilities are far more extensive.
@@ -31,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
  To test their language capabilities, I tried simple coding tasks in languages like PHP, JavaScript, BASIC, and C++. Both Gemini and ChatGPT performed well with popular languages, but only ChatGPT could convincingly string together programs in older languages like BASIC.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Accuracy and Code Quality
 
  You’re running late on your project deadline, and you need some boilerplate code. You ask ChatGPT and Gemini to generate code to implement that functionality, and both tools spit out dozens of lines of code. Quick win, right?
@@ -47,18 +54,27 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
  I carried out a second test, this time asking both chatbots to recreate the Twitter (X.com) feed. ChatGPT produced a vintage-style Twitter feed with a functional tweeting feature. I could type into the text box, send a tweet, and have it loaded dynamically onto the page. It wasn't the Twitter feed I hoped for, but considering most of ChatGPT's training data is flooded with legacy Twitter code, the results are understandable.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Twitter (X.com) feed clone by ChatGPT-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/twitter-x-com-feed-clone-by-chatgpt-1.png)
 
  Unfortunately, in this round, Google's Gemini wasn't able to provide functional code. It generated hundreds of lines of JavaScript code, but there were too many placeholders that needed to be filled in with missing logic. If you’re in a hurry, such placeholder-heavy code wouldn't be particularly helpful, as it would still require heavy development work. In such cases, it might be more efficient to write the code from scratch.
 
  I tried a few other basic coding tasks, and in all instances, ChatGPT's solution was clearly the better option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Debugging and Error Detection
 
  Errors and bugs are like puzzles that programmers love to hate. They'll drive you crazy, but fixing them is quite satisfying. So when you run into bugs in your code, should you call on Gemini or ChatGPT for help? It may depend on[the type of error](https://www.makeuseof.com/avoid-programming-errors/) you’re trying to avoid.
 
  To decide, I gave both AI chatbots two debugging problems to solve. First, I prompted both chatbots to solve a logical error in some simple PHP code. Logic errors are notoriously harder to spot than syntax errors because they depend on the intent of the code:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![PHP code with logical error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/php-code-with-logical-error.png)
 
  The code in this screenshot runs and even produces the right result in many cases. However, it has several logic errors that are not immediately apparent; can you spot them? I asked Gemini for help and, unfortunately, the chatbot couldn't pick out the logical error in the code:
@@ -73,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/d3b76096f4c9dcaff472cd20aa342807816191e8d
 
 Gemini also rewrote the code to fix the error:
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT rewrites code to fix logical error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-rewrites-code-to-fix-logical-error.png)
 
  After trying a few other bug-hunting and fixing tasks, ChatGPT was clearly better at the job. Gemini wasn't totally a lost cause, though. It was able to fix a lot of syntax errors I threw at it, but it struggled with complex errors, especially logical errors.
@@ -91,6 +110,9 @@ Gemini also rewrote the code to fix the error:
 
  Unfortunately, when I first tried Gemini (then called Bard) on the same project, it lost track of the project's context and failed to complete the app. Several rounds of updates later, I retested Gemini on the same project, and it seems to have deteriorated further. So, once again, in terms of context awareness, ChatGPT wins.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Problem-Solving
 
  At this point, Google's Gemini is lacking in a lot of ways. But can it finally score a win? Let's test its problem-solving abilities. Sometimes you just have a problem, but you aren't sure how to represent it programmatically, let alone how to solve it.
@@ -99,6 +121,9 @@ Gemini also rewrote the code to fix the error:
 
 Here is the result from Google's Gemini:
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Gemini fails to make an optimized Javascript function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gemini-fails-to-make-an-optimized-javascript-function.png)
 
 And here is the result from ChatGPT:
@@ -111,6 +136,9 @@ And here is the result from ChatGPT:
 
  Since Google Gemini has pretty much lost in every metric I used for comparison, I decided to give it a chance at redemption. I asked the chatbot "**Which is better at coding? ChatGPT or Gemini?** " Here is its reply:
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gemini answers a question about itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gemini-answers-a-question-about-itself.png)
 
  Seems like something I would partly agree with! I asked ChatGPT what it thought of the assessment and it agreed:
@@ -119,6 +147,9 @@ And here is the result from ChatGPT:
 
  Now, while this seems quite normal, there's an interesting twist here. Throughout most of last year, Gemini (then Bard) always confidently asserted it could produce better code, was more efficient, and made fewer mistakes. Here is a screenshot from one of my tests in November 2023:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Google Bard boast of being better than ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-boost-of-being-better-than-chatgpt.jpg)
 
 It seems that Gemini is now a little more self-aware and modest!

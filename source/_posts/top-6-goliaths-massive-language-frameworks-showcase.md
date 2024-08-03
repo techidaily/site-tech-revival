@@ -1,7 +1,7 @@
 ---
 title: "Top 6 Goliaths: Massive Language Frameworks Showcase"
-date: 2024-07-23 15:56:48
-updated: 2024-07-26 11:44:14
+date: 2024-08-02T16:16:08.076Z
+updated: 2024-08-03T16:16:08.076Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ## Unearthed Fun Fact: Dive Into These 6 Amazing Games Available on ChatGPT Today
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -52,6 +58,9 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -60,12 +69,18 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
 
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -78,6 +93,9 @@ Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?

@@ -1,7 +1,7 @@
 ---
 title: "The EU AI Act: What It Entails and Its Potential Impact on ChatGPT"
-date: 2024-07-22 11:41:23
-updated: 2024-07-25 11:50:53
+date: 2024-08-02T16:16:09.898Z
+updated: 2024-08-03T16:16:09.898Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ## 1.[Unriddle](https://www.unriddle.ai/) (Web, Chrome): Most Powerful Way to Chat With Your Documents
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![Unriddle is the best app to analyze your documents and then talk with them using ChatGPT, but the free tier is severely limited](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-unriddle.jpg)
 
 * **File Formats Supported:** PDF, DOC, URL
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  Unregistered users can also use[Chatterdocs to analyze PDF files](https://chatterdocs.ai/tools/chat-with-pdf) . It's a free tool to see how much Chatterdocs can do.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Klavier](https://klavier.ai/) (Web): Free and Limitless Tool to Chat With Your Documents
 
 ![Klavier is a completely free way to have AI scan your documents and then use ChatGPT to find information within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-klavier.jpg)
@@ -69,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ## 4.[LXI.ai](https://lxi.ai/) (Web): Chat With Your Documents and Pay Per Usage
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![LXI.ai has an innovative system to chat with your documents and pay only per your usage, not lumpsum tiers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-lxi-ai.jpg)
 
 * **File Formats Supported:** PDF, DOCX, TXT, URL
@@ -81,8 +90,14 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
  The chatbot works with all your documents at the same time, so you'll need to[learn to phrase ChatGPT prompts effectively](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) to get the answers you need. It's also context-unaware, meaning each question is treated as a separate query without considering the conversation before it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5.[Docalysis](https://docalysis.com/) (Web): Best App to Have ChatGPT Conversations With PDFs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Docalysis provides one of the most impressive ChatGPT bots for your PDF documents, and having the PDF open alongside is a bonus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-docalysis.jpg)
 
 * **File Formats Supported:** PDF
@@ -99,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/114b6bfca9f928095e8da2f7f3417492afac50bf3
 
 ### 6.[ChatPDF](https://www.chatpdf.com/) (Web): Use ChatGPT 3.5 to Query PDF Files
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatPDF is a simple way to run ChatGPT on your PDF documents and chat with a bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatpdf.jpg)
 
 * **File Formats Supported:** PDF

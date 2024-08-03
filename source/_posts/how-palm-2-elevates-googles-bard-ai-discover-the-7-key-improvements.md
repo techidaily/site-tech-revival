@@ -1,7 +1,7 @@
 ---
 title: How PaLM 2 Elevates Google's Bard AI - Discover the 7 Key Improvements
-date: 2024-07-23 12:24:37
-updated: 2024-07-24 11:21:32
+date: 2024-08-02T16:15:32.456Z
+updated: 2024-08-03T16:15:32.456Z
 tags:
   - chatgpt
   - open-ai
@@ -17,8 +17,18 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 
  On May 10th, 2023, Google announced a major upgrade to its large language model (LLM) chatbot Bard AI at Google I/O.Google's Pathways Language Model 2 (PaLM 2) will improve Bard's performance by featuring support for different programming languages, third-party extensions, integration with other Google products, and other interesting additions. Let's explore in detail how PaLM 2 will revolutionize Bard AI.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## 1\. Support for Different Programming Languages
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
@@ -29,12 +39,18 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 
 ## 2\. Multilingual Capabilities
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
 
  PaLM 2 will expand the multilingual capabilities of Bard AI, making it perform well with multilingual tasks, as it is being trained with diverse texts from over 100 languages.
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Better Logic and Reasoning
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
@@ -53,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 
 ## 5\. Sec-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
 
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
@@ -61,8 +80,14 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
 
  PaLM 2 will bring third-party extensions to Bard, connecting Google with third-party brands like Adobe, Spotify, Khan Academy, and Uber Eats. For example, with Adobe integration, Bard can access Firefly, Adobe's image-generating tool. This will help you export images you generate into Adobe Express.

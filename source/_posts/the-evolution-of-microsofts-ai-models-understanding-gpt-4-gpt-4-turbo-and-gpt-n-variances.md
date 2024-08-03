@@ -1,7 +1,7 @@
 ---
 title: The Evolution of Microsoft's AI Models – Understanding GPT-4, GPT-4 Turbo and GPT-N Variances
-date: 2024-07-26 13:24:31
-updated: 2024-07-28 11:40:43
+date: 2024-08-02T16:16:03.277Z
+updated: 2024-08-03T16:16:03.277Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
 ## Microsoft's Revolutionary Image Creator Tool – Generate One-of-a-Kind AI Images Today
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Microsoft Copilot Image Creator?](https://www.makeuseof.com/how-use-bing-image-creator-free/#what-is-microsoft-copilot-image-creator)
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
  That's right; you can use Microsoft Copilot to generate free AI images using DALL-E 3, and it's incredibly simple to do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## What Is Microsoft Copilot Image Creator?
 
  The[Official Microsoft Blog](https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/) first announced that AI image creation would be coming to Copilot on 21 March 2023\. At the time, Copilot was still called Bing AI Chat prior to its November 2023 name change.
@@ -41,12 +47,18 @@ thumbnail: https://thmb.techidaily.com/df09206e0da9780160bba0f59d10749c3990f02af
 
  There are two "versions" of Copilot Image Creator, though they both work similarly. You can access the Copilot Image Creator directly from Microsoft Copilot within the Edge browser, which is an exclusive Edge feature. However, not wanting to cut potential users out, you can also access it in any browser by heading to the[Copilot Image Creator](https://copilot.microsoft.com/) . I'll cover the differences between each option below, but both AI image creation tools follow the same premise: you input your words, and the AI tool turns them into unique images.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Microsoft Copilot Image Generator
 
  Microsoft's Copilot Image Creator uses DALL-E 3 to create AI images. DALL-E 3 is the same AI text-to-image you'll find on ChatGPT Plus, OpenAI's premium $20 subscription tier. So here's the rub: you can use the same DALL-E 3 image creation tool with Copilot without paying a penny.
 
  Copilot Image Creator is completely free, which gives it a substantial advantage over ChatGPT Plus. It's also not the only[reason to use Microsoft Copilot instead of ChatGPT](https://www.makeuseof.com/reasons-to-use-copilot-instead-of-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Edge
 
  If you use Microsoft's Edge browser, the easiest way to start using the Image Creator is in a regular Copilot chat. Ask Copilot to create an image, and it'll do its best to deliver a unique take on your input, providing four 1:1 images (it will not give you a 2:1 image or otherwise, no matter what input you try—but there is a reason for that!).
@@ -67,12 +79,18 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Microsoft Copilot Image Creator in Any Browser
 
  If you don't use Edge, you can use Copilot Image Creator in any browser with its dedicated site. The Copilot Image Creator site is mostly the same but with a couple of differences.
 
  First up, the website version doesn't feature on-page AI editing like the Edge Copilot Image Creator. You can open any image you create in Microsoft Designer, but at the time of writing, this photo editor doesn't feature AI editing tools to change ratios, apply unique styles, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![microsoft copilot image creator browser version with four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-browser-version-with-four-images.jpg)
 
  Second, the Image Creator available to all browsers uses a "boost" token system to provide speedy images. You start with 100 boosts, and each time you input a prompt, it uses a boost. Once your boosts run out, Image Creator won't prioritize your creations, and they can take a few minutes to appear. It doesn't appear to make a difference to quality, mind, just time.

@@ -1,7 +1,7 @@
 ---
 title: "The OpenAI API Demystified: A Complete User Manual"
-date: 2024-07-26 16:28:51
-updated: 2024-07-28 10:21:48
+date: 2024-08-02T16:15:54.769Z
+updated: 2024-08-03T16:15:54.769Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,9 @@ There are currently three variations of the model:
 
 ## What Is Llama 3?
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Llama 3 using chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/28948759-e06d-4eca-9dc6-df6a41cf888a.jpg)
 
  Llama 3 is an open-source LLM developed by Meta AI (parent company of Facebook, Instagram, and WhatsApp), trained using a combination of supervised fine-tuning, rejection sampling, and policy optimization with a diverse dataset including millions of human-annotated examples. Its training focused on high-quality prompts and preference rankings, aiming to create a versatile and capable AI model.
@@ -52,12 +55,23 @@ There are currently three variations of the model:
 
  You can access Llama 3 through[Meta AI](https://www.meta.ai/) , its generative AI chatbot. Alternatively, you can run the LLMs locally on your computer by downloading Llama 3 models and loading them through Ollama, Open WebUI, or LM Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## Multimodality
 
  The release of GPT-4o has finally delivered on the initial marketing of GPT-4 having multimodal capabilities. These multimodal features can now be accessed by interacting with ChatGPT using the GPT-4o model. As of June 2024, GPT-4o doesn’t have any integrated way of generating video and audio. However, it does have capabilities to generate text and images based on video and audio inputs.
 
  Llama 3 is also planning to provide a multimodal model for the upcoming Llama 3 400B. It will most likely integrate similar technologies to CLIP (Contrast Language-Imager Pre-Training) to generate images using[zero-shot learning](https://www.makeuseof.com/what-is-zero-shot-learning-can-it-improve-ai/) techniques. But since Llama 400B is still in training, the only way for the 8B and 70B models to generate images is to use extensions such as the LLaVa, Visual-LLaMA, and LLaMA-VID. As of now, Llama 3 is purely a language-based model that can take text, image, and audio as inputs for generating text.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Context Length
 
  Context length refers to the amount of text a model can process at once. It is an important factor when considering an LLM’s capability as it dictates the amount of context the model can work with when interacting with users. In general, a higher context length makes an LLM better as it provides a higher level of coherence, continuity, and can reduce repetitions of errors during interactions.
@@ -77,6 +91,9 @@ There are currently three variations of the model:
 
  In contrast, GPT-4 now supports a significantly larger context length of 32,000 tokens (around 25,600 words) for ChatGPT users and 128,000 tokens (around 102,400 words) for those using API endpoints. This gives GPT-4 models an edge in managing extensive conversations and the ability to read long documents or even through an entire book.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Performance
 
  Let’s compare performance by looking at the[Llama 3 April 18, 2024, benchmark report from Meta AI](http://ai.meta.com/blog/meta-llama-3/) and the[GPT-4 May 14, 2024, GitHub report by OpenAI](http://github.com/openai/simple-evals?tab=readme-ov-file#benchmark-results) . Here are the results:
@@ -99,12 +116,18 @@ Here’s what each criterion evaluates:
 
  The recent benchmarks highlight the performance difference between GPT-4 and Llama 3 models. Though the Llama 3 8B model seems to lag significantly behind, the 70B and 400B models provide lower but similar results to both GPT-4o and GPT-4 Turbo models in terms of academic and general knowledge, reading and comprehension, reasoning and logic, and coding. However, no Llama 3 model is yet to come close to the performance of GPT-4 in terms of pure mathematics.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cost
 
  Cost is a critical factor for many users. OpenAI's GPT-4o model is available to all ChatGPT users for free at a 16-message limit every 3 hours. If you need more, then you'll have to subscribe to ChatGPT Plus, which costs $20 USD per month to expand GPT-4o's message limit to 80 while also having access to the other GPT-4 models.
 
  On the other hand, both Llama 3 8B and 70B models are free and open-source, which can be a significant advantage for developers and researchers looking for a cost-effective solution without compromising on performance.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Accessibility
 
  GPT-4 models are widely accessible through OpenAI's ChatGPT generative AI chatbot and through its API. You can also use GPT-4 on Microsoft Copilot, which is[one way you can use GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This widespread availability ensures that users can easily leverage its capabilities across different use cases. In contrast, Llama 3 is an open-source project that provides model flexibility and encourages broader experimentation and collaboration within the AI community. This open-access approach can democratize AI technology, making it available to a much wider audience.

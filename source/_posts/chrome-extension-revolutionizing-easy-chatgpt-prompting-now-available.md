@@ -1,7 +1,7 @@
 ---
 title: Chrome Extension Revolutionizing Easy ChatGPT Prompting Now Available!
-date: 2024-07-23 13:33:50
-updated: 2024-07-26 10:41:18
+date: 2024-08-02T16:16:09.527Z
+updated: 2024-08-03T16:16:09.527Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
 ## Revolutionizing AI Communication: Explore OpenAI’s Tailored Store
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Access the GPT Store](https://godlikehost.sjv.io/vnbxzv)
@@ -45,22 +48,37 @@ thumbnail: https://thmb.techidaily.com/13a1f9ec7eefb2f2d2c19f961783b576aae349686
 
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
 
 1. Once you can access the GPT Store, click **Explore GPTs** on the left sidebar of the ChatGPT interface to open the store.
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
  Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.

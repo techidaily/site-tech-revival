@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Composing Challenging Business Correspondence with the Help of ChatGPT
-date: 2024-07-27 20:18:46
-updated: 2024-07-29 11:38:21
+date: 2024-08-02T16:15:33.477Z
+updated: 2024-08-03T16:15:33.477Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  Despite these nuances, ChatGPT and Bing execute similar functions. With the correct prompts, they could write essays, answer general knowledge queries, recap books, and scrutinize arguments, among other tasks. Just expect varied responses based on their trained datasets.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Conversational Language
 
  ChatGPT and Bing both use the GPT model. This advanced natural language processing (NLP) system responds to prompts with human-like text. It answers follow-up questions, analyzes problems, and challenges non-factual statements.
@@ -51,10 +54,17 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  Whereas Bing AI’s advanced language model and integrated search engine produce more reliable, precise data. Unlike ChatGPT, Microsoft didn’t train Bing on limited datasets. Instead, it uses its search engine to pull timely, relevant information about world events and general knowledge questions.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Bing AI About ChatGPT Launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-giving-precise-dates.jpg)
 
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 4\. Mathematical Precision
 
  ChatGPT and Bing AI understand math. The bots can analyze equations, perform computations based on their datasets, and generate output through their language models.
@@ -67,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
 Bing AI answers the same physics question correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 ## 5\. Security Measures
@@ -75,6 +88,9 @@ Bing AI answers the same physics question correctly.
 
  OpenAI acknowledges these issues. The company discloses that ChatGPT might produce biased or harmful content, although developers continuously work on security.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Overriding ChatGPT Limits Through Character Portrayal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-tomie-portrayal.jpg)
 
  Bing's AI bot faces similar cybersecurity risks. It combats them by enforcing stricter limitations, reducing the platform’s susceptibility to jailbreaking. Conversations get terminated if you mention anything unusual.
@@ -95,12 +111,18 @@ Bing AI answers the same physics question correctly.
 
  On the contrary,[signing up for the new Bing AI](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) initially took longer. The first users spent weeks on the waitlist before getting approved, especially those outside the U.S.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
 
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
 ## 8\. Functionality
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
@@ -113,8 +135,23 @@ Bing AI answers the same physics question correctly.
 
  Instead of feeding Bing's AI and ChatGPT generic prompts, curate unique ones based on their language models. The quality of their responses depends on your prompts. Aim to maximize the AI tool’s datasets without violating its guidelines.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 9\. Fees
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Plus Pricing at $20 Per Month](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-pricing.jpg)
 
  ChatGPT is a free, robust multipurpose chatbot. Users can execute plenty of tasks with the GPT-3.5 language model. But if you need a more sophisticated AI assistant, OpenAI offers[ChatGPT Plus](https://openai.com/blog/chatgpt-plus) for $20 a month.
@@ -131,6 +168,23 @@ Bing AI answers the same physics question correctly.
 
  These restrictions vary per platform.[ChatGPT has a high upper limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) that can process around 3,000 words per turn, assuming they’re all relevant and related. Meanwhile, Bing AI has a much smaller limit. It caps users to 30 turns, after which you must start a new conversation or restate your custom instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Should You Use Bing's AI or ChatGPT?
 
  Use the above points to make informed assessments, but note that they could change at the drop of a hat. AI technologies are constantly evolving. ChatGPT and Bing AI offer dynamic features that will change as their NLP technologies mature. Expect sudden developments in the tech.

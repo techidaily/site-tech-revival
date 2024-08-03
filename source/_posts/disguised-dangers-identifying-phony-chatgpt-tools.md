@@ -1,7 +1,7 @@
 ---
 title: "Disguised Dangers: Identifying Phony ChatGPT Tools"
-date: 2024-07-27 13:30:26
-updated: 2024-07-28 12:19:46
+date: 2024-08-02T16:15:48.352Z
+updated: 2024-08-03T16:15:48.352Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1 Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -46,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -62,10 +69,18 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
@@ -74,12 +89,18 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.

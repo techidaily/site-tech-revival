@@ -1,7 +1,7 @@
 ---
 title: "Unraveling Online Whodunits: Explore These 4 Smart Detective Puzzles and Games"
-date: 2024-07-26 15:15:23
-updated: 2024-07-27 11:52:46
+date: 2024-08-02T16:16:05.148Z
+updated: 2024-08-03T16:16:05.148Z
 tags:
   - chatgpt
   - open-ai
@@ -31,8 +31,15 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -43,8 +50,16 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -55,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
@@ -67,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Create Your Own ChatGPT Murder Mystery
 
  Yes, you can create a murder mystery game with ChatGPT by yourself. These murder mystery apps relieve you of the burden of giving the AI base information and data and then figuring out the best prompts to have it generate a mystery. But if you're willing to learn those skills, you can soon set up a few templates of your own and construct a custom ChatGPT mystery.

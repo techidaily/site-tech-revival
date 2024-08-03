@@ -1,7 +1,7 @@
 ---
 title: "Mastering Constraints: A Guide to GPT's Restrictions"
-date: 2024-07-24 18:57:18
-updated: 2024-07-27 12:11:53
+date: 2024-08-02T16:16:18.010Z
+updated: 2024-08-03T16:16:18.010Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
  It does this by creating a custom URL for each chat you wish to share. You create the URL by selecting the**Share** button that is added to the ChatGPT interface:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ShareGPT Share Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-sharegpt-share-screen.jpg)
 
  Clicking this button opens up a new tab with a custom URL containing a complete export chat record. This can then be shared with whoever you need.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 **Download** :[ShareGPT](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Export ChatGPT Conversation
 
  There is a[lot of hype surrounding Notion](https://www.makeuseof.com/why-everyone-using-notion/) , the productivity and note-taking app. So, it is no surprise that there is a ChatGPT extension that can export your conversations directly into Notion.
@@ -65,15 +71,26 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 [Installing an extension manually on Chrome](https://www.makeuseof.com/tag/how-to-install-chrome-extensions-manually/) or another browser isn't that difficult. The steps to do this are detailed below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Installing ChatGPT Export and Share for Chrome and Edge
 
 1. Download the appropriate version from the[ChatGPT Export and Share download page](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) .
 2. Extract the zipped files to a folder on your computer. For example, here's[how you extract files on Windows 10](https://www.makeuseof.com/unzip-files-windows-10/) .
 3. Open the browser you want to add the extension to and navigate to the extensions page. This can be done by clicking the**Extensions** icon and selecting**Manage Extensions** or typing the following into the address bar—**chrome://extensions** or**edge://extensions** .
 4. Enable developer mode by switching the appropriate toggle switch. The picture below shows this in Microsoft Edge; Chrome users will find it at the top right of the page.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Screenshot of Edge Extensions Page ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-edge-extensions-page.jpg)
 5. Install the extension by clicking the**Load unpacked** button and selecting the folder where you extracted the files. ChatGPT Export and Share should now be activated.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Installing ChatGPT Export and Share on Firefox
 
  The first two steps are identical for Firefox, with the obvious exception that you select the Firefox version. After ChatGPT Export and Share is downloaded and extracted, the following steps will install it in Firefox.
@@ -86,12 +103,18 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
  The unfortunate thing for Firefox users is that this extension will only be active as long as you keep Firefox open. If you close your browser, you must repeat the above steps each time you start Firefox. Not ideal!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![Screenshot Export and Share ChatGPT options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-export-and-share-chatgpt-options.jpg)
 
  Apart from that, this simple tool allows you to export your ChatGPT conversations as a PDF, weblink, or PNG file. Simple to use, with no bells and whistles, but there are easier-to-install tools that do the same function.
 
 **Download** :[ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Prompt Genius
 
  If you are looking for an extension that does much more than just allow you to export your chats, then ChatGPT Prompt Genius might be right up your street. Among the nifty features that this extension includes is added functionality to the prompting process. There are plenty of[extensions that can add useful functionality to ChatGPT](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) .
@@ -117,6 +140,10 @@ thumbnail: https://thmb.techidaily.com/ad4388017aad038e4020bb83bed704ce1407b9c4a
 
 **Download** :[ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo/related) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Simplifying Sharing Your ChatGPT Conversations
 
  For something that began almost as a curiosity, AI-generative chatbots have rapidly become an important and powerful tool. As their usage continues to rise exponentially, the need to easily export and share conversations will become increasingly critical.

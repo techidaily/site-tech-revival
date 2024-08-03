@@ -1,7 +1,7 @@
 ---
 title: Can You Rely on ChatGPT for Consistent Health Information?
-date: 2024-07-27 12:25:39
-updated: 2024-07-28 10:52:25
+date: 2024-08-02T16:15:53.172Z
+updated: 2024-08-03T16:15:53.172Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
 ## Can You Count on ChatGPT for Reliable Text Summarization? Think Again
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [ChatGPT Can Ignore or Misunderstand Your Prompt](https://www.makeuseof.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/#chatgpt-can-ignore-or-misunderstand-your-prompt)
@@ -59,10 +62,16 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
  When asked if it omitted details, it admitted that, yes, it left certain information out, such as specific attractions and transportation options. Conciseness was its goal.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Omitting Information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-omitting-information.jpg)
 
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Use Wrong or False Alternatives
 
  OpenAI has updated GPT-4o with data available up to October 2023, while GPT-4 Turbo's cut-off is December of the same year. However, the algorithm’s knowledge isn’t infinite or reliable with real-time facts—it doesn’t know everything about the world. Furthermore, it won’t always reveal that it lacks data on a particular subject unless you ask it directly.
@@ -71,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
  The following example involves a translation into English. ChatGPT didn’t understand the Greek name for the Toque d’Or awards, but instead of highlighting the problem, it just offered a literal and wrong translation.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Getting a Name Wrong While Translating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-getting-a-name-wrong-while-translating.jpg)
 
  Company names, books, awards, research links, and other elements can disappear or be altered in the chatbot’s summary. To avoid major mistakes, be aware of[ChatGPT’s content creation limits](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Get Facts Wrong
 
  It’s important to learn all you can about[how to avoid mistakes with generative AI tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) . As the example above demonstrates, one of the biggest problems with ChatGPT is that it lacks certain facts or has learned them wrong. This can then affect any text it produces.
@@ -83,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
  In the example below, the prompt asked ChatGPT to summarize four TikTok trends and explain what each entails.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Creating a Summary of TikTok Trends](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-creating-a-summary-of-tiktok-trends.jpg)
 
  Most of the explanations were slightly wrong or lacked specifics about what posters must do. The description of the UMG Music trend was especially misleading. The trend changed after the catalogue’s removal from TikTok, and users now post videos to criticize, not support UMG, something which ChatGPT doesn’t know.
@@ -97,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/c625d72d0946f66f9247899cc6c4c66eb70d8cf37
 
  The test below shows ChatGPT needing several prompts. It still either fell short or exceeded the word count needed.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Trying to Stick to Word Count Instructions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-trying-to-stick-to-word-count-instructions.jpg)
 
  It’s not the worst mistake to expect from ChatGPT. But it’s one more factor to consider when proofreading the summaries it creates.

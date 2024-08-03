@@ -1,7 +1,7 @@
 ---
 title: "How to Boost Your Productivity: Utilizing ChatGPT Features in Excel"
-date: 2024-07-20 10:46:14
-updated: 2024-07-23 10:26:59
+date: 2024-08-02T16:15:32.995Z
+updated: 2024-08-03T16:15:32.995Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
 
  For instance, imagine you have a packed schedule for the day and don't know where to start. Enter your tasks into ChatGPT, prompt it to sort things into an Eisenhower Matrix, and get a better sense of your priorities in an instant.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Eisenhower Matrix example prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-eisenhower-matrix-example-prompt.jpg)
 
  This approach is named for[U.S. President Dwight D. Eisenhower](https://www.presidency.ucsb.edu/documents/address-the-second-assembly-the-world-council-churches-evanston-illinois) , who once quoted a former college president's philosophy about time management in a speech.
@@ -53,16 +56,26 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
 
  Depending on your profession, ChatGPT can also offer specific advice for speeding up your workflow. In this example, we prompted the chatbot to address a common time suck: reading and responding to emails.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT email prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-email-prompt.jpg)
 
  For this prompt, the chatbot provided some general advice about using templates and unsubscribing from as much as possible. However, you can also drill down to get more specific advice for these issues as well.
 
  In this case, we prompted the chatbot to free up time wasted on unimportant emails. It provided a long list of advice, including tips for communicating in clear language and staying out of unnecessary conversations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT unnecessary email advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unnecessary-email-advice.jpg)
 
  For a more proactive take, the chatbot can also find ways to automate some of your routine tasks. For this example, we prompted ChatGPT to provide some automation ideas for a realtor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatGPT automation ideas for a realtor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-automation-ideas-for-a-realtor.jpg)
 
  ChatGPT provided several tips in regard to email marketing, virtual tours, and property listing syndication services that can help realtors excel in their line of work while saving some time. Prompt the chatbot for some advice about time management in your own career for more specific tips.
@@ -73,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
 
  In instances like these, you can even prompt ChatGPT to assume various roles. In this case, we had it present the information like a professional organizer, with a focus on getting through the process as quickly and efficiently as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT decluttering prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-decluttering-prompt.jpg)
 
  The chatbot provided a series of tips for decluttering more efficiently. Many of them focused on speeding up the process, such as the advice to make rapid decisions about whether to keep or donate a particular item.
@@ -85,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/7856c3240aa6a7dd44d61c6df6c9f2d9b2627d772
 
  In this case, we requested time-saving tips for people who struggle with procrastination. After all, the tendency to procrastinate is one of the[biggest time management mistakes](https://www.makeuseof.com/time-management-mistakes-to-avoid/) that many people face from time to time. For this prompt, we focused on procrastination around household chores in particular.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![ChatGPT procrastination prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-procrastination-prompt.jpg)
 
  The chatbot offered plenty of practical advice about eliminating unnecessary steps and visualizing the end result for motivation. Given the sheer amount of information that ChatGPT can pull from, it can likely suggest time-saving options for your situation, too. Remember to provide detailed, specific prompts to get the best advice.

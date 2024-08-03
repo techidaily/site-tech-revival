@@ -1,7 +1,7 @@
 ---
 title: Master Web Research with Leading Artifice Intelligence Based Search Platforms
-date: 2024-07-24 10:44:59
-updated: 2024-07-25 11:40:44
+date: 2024-08-02T16:16:26.876Z
+updated: 2024-08-03T16:16:26.876Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
@@ -39,12 +42,18 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Are Vector Embeddings Important?
 
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Vector Databases Help Boost AI
 
  Vector embeddings are important components in training various types of AI models. Having a specialized database that can store, index, and query vector embeddings is essential to maximize the benefits of using vector embeddings. Furthermore, vector databases boost your AI by being a fast, reliable, and scalable database that can continuously help grow and train an AI model.
@@ -58,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 
 ## How a Vector Database Works
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -66,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Popular Vector Databases
 
  With the explosion of publicly available pre-trained models, vector databases rapidly gained popularity as expanded the capabilities and rate of fine-tuning of these models. And with such high demand for vector databases, many companies have started their own vector database services; here are some of the most popular ones:
@@ -75,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/98351be0d04e2b45fd40ed227ba896a84193b786b
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Future of Vector Databases
 
  With the continuous growth of high-dimensional data types for images, videos, and text, vector databases will play a crucial role in improving and expanding the capabilities of current AI models. Through constant development with vector databases, we can expect better services in the fields of healthcare, finance, e-commerce, and cybersecurity.

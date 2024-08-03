@@ -1,7 +1,7 @@
 ---
 title: Transform Your Workout Routine with These 8 Innovative GPT Plugins for Fitness Enthusiasts
-date: 2024-07-26 23:26:30
-updated: 2024-07-27 11:49:48
+date: 2024-08-02T16:16:14.667Z
+updated: 2024-08-03T16:16:14.667Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
 ## Transform Your AI Interactions with These 7 Ingenious Prompt Techniques That Work
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
@@ -31,6 +34,23 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -45,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -55,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
@@ -67,9 +93,12 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 Don't Make Your AI Multitask
 
-![chatgpt logo and message on smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-logo-and-message-on-smartphone-feature.jpg)
+![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -79,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -89,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/d8e6bf944e6c6a44077570ad300a1fab74b99e0c0
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .

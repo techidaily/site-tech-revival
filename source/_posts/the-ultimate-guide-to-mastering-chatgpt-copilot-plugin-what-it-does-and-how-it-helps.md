@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Guide to Mastering ChatGPT Copilot Plugin: What It Does & How It Helps"
-date: 2024-07-27 15:10:41
-updated: 2024-07-28 10:48:33
+date: 2024-08-02T16:16:25.305Z
+updated: 2024-08-03T16:16:25.305Z
 tags:
   - chatgpt
   - open-ai
@@ -35,12 +35,18 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
@@ -51,8 +57,14 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
@@ -65,18 +77,34 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
  Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
 By contrast, the ChatGPT response was to admit its limitations.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
@@ -97,6 +125,18 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Is Best: Bing Chat or Chat GPT?
 
  There is no straightforward answer, as both tools are incredibly impressive.
@@ -115,6 +155,10 @@ By contrast, the ChatGPT response was to admit its limitations.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Chatbots Are Here to Stay
 
  As AI chatbots become more widespread, the differences between these early adopters will only continue to widen. However, by understanding the unique features of each platform, users can choose the chatbot that best suits their needs.

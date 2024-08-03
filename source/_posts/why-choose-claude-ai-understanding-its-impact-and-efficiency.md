@@ -1,7 +1,7 @@
 ---
 title: Why Choose Claude AI? Understanding Its Impact and Efficiency
-date: 2024-07-22 12:35:28
-updated: 2024-07-23 12:35:15
+date: 2024-08-02T16:15:26.803Z
+updated: 2024-08-03T16:15:26.803Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -39,14 +42,23 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
@@ -57,12 +69,23 @@ thumbnail: https://thmb.techidaily.com/3ad0b37de8405ddff0a5f39b812ec8d893ee35987
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.

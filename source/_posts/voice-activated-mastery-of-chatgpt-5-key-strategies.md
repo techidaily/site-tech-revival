@@ -1,7 +1,7 @@
 ---
 title: Voice Activated Mastery of ChatGPT – 5 Key Strategies
-date: 2024-07-22 18:40:28
-updated: 2024-07-23 12:28:10
+date: 2024-08-02T16:15:38.101Z
+updated: 2024-08-03T16:15:38.101Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 
 ## Revamped ChatGPT – Key Updates and Advantages That Catch Your Interest Now
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://www.makeuseof.com/chatgpt-new-features-spring-update/#image-input-and-output-capabilities)
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -51,6 +57,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -65,6 +74,11 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Multi-Modal Voice and Video Interactions
 
  Everyone[wanted to see more modality in ChatGPT](https://www.makeuseof.com/gpt-5-features-we-want-to-see/) . The new ChatGPT-4o model gives access to multi-modal voice and video interaction, allowing users to engage in continuous voice and video conversations with ChatGPT, like making a video call with a human assistant. ChatGPT-4o's conversation support, video capability, and human-like voice and emotions make this new feature different from other voice assistants.
@@ -81,6 +95,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
@@ -89,6 +106,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ## Temporary Chat
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.

@@ -1,7 +1,7 @@
 ---
 title: Auto-Writing Systems Skip Their Own Critiques
-date: 2024-07-25 12:46:44
-updated: 2024-07-26 11:55:56
+date: 2024-08-02T16:15:42.929Z
+updated: 2024-08-03T16:15:42.929Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  With OpenAI's release of the highly anticipated GPT-4 large language model, ChatGPT has become significantly more powerful. But how can you get your hands on GPT-4? How can you use GPT-4 on ChatGPT right now?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is GPT-4?
 
  GPT-4, short for[Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
@@ -39,18 +45,28 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  For the free tier users, to get started with GPT-4, you'll need a ChatGPT Plus subscription. So, how do you upgrade to ChatGPT Plus?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How to Upgrade to ChatGPT Plus
 
 To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 1. Head over to[ChatGPT](https://chat.openai.com/) .
 2. On the bottom of the left sidebar of the chat interface, locate and click on**Upgrade to Plus** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Upgrade to ChatGPT+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/upgrade-to-chatgpt.jpg)
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green**Upgrade Plan** button.  
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
@@ -73,6 +89,9 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## How to Use GPT-4 for Free
 
  While you can't currently access GPT-4 on the free version of ChatGPT, an alternative route is to use the Bing AI Chat. Yes, Bing AI is powered by OpenAI's GPT-4 model and has been for a while. So, if you've been using AI-powered Bing, you've been using GPT-4 without realizing it. If you're concerned about the difference in the quality of responses between GPT-4 on Bing Chat and GPT-4 on ChatGPT, don't panic.

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the World of ChatGPT Breaks: Understanding and Usage"
-date: 2024-07-21 19:32:31
-updated: 2024-07-23 12:35:30
+date: 2024-08-02T16:16:00.654Z
+updated: 2024-08-03T16:16:00.654Z
 tags:
   - chatgpt
   - open-ai
@@ -17,8 +17,14 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What You Need to Know About AI Chatbots
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
@@ -73,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
 ## Which LLM Is Good for Technical Instructions?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -87,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -111,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
 You read it here first, folks.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.

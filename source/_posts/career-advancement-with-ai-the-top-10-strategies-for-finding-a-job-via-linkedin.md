@@ -1,7 +1,7 @@
 ---
 title: "Career Advancement with AI: The Top 10 Strategies for Finding a Job via LinkedIn"
-date: 2024-07-26 14:20:15
-updated: 2024-07-27 10:38:27
+date: 2024-08-02T16:16:07.126Z
+updated: 2024-08-03T16:16:07.126Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ## 1\. Support for Different Programming Languages
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ## 2\. Multilingual Capabilities
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
 
  PaLM 2 will expand the multilingual capabilities of Bard AI, making it perform well with multilingual tasks, as it is being trained with diverse texts from over 100 languages.
@@ -37,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ## 3\. Better Logic and Reasoning
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
@@ -45,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ## 4\. Med-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
 
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
@@ -53,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ## 5\. Sec-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
 
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
@@ -69,8 +84,15 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 7\. Workspace
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
 
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.

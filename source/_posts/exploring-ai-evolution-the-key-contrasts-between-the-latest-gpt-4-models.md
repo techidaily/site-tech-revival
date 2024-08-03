@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI Evolution: The Key Contrasts Between the Latest GPT-4 Models"
-date: 2024-07-25 20:31:18
-updated: 2024-07-27 10:17:13
+date: 2024-08-02T16:15:57.590Z
+updated: 2024-08-03T16:15:57.590Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
 ## Is the Turing Test Outdated?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![man questions robot turing test example feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/man-questions-robot-turing-test-example-feature.jpg)
 
  Image Credit: Jesus Sanz/[Shutterstock](https://www.shutterstock.com/image-vector/robot-scientist-facing-turing-test-artificial-1651840888)
@@ -33,18 +36,30 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
  However, the current AI models like ChatGPT-4 and Google Bard haven't yet advanced to a point they can consistently pass the Turing test. In fact, if you're familiar with AI, you can[spot AI-generated text](https://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The 5 Best Turing Test Alternatives
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. The Marcus Test
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
@@ -61,9 +76,12 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Reverse Turing Test
 
-![person using chatgpt on their laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/pexels-matheus-bertelli-16094042.jpg)
+![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
@@ -71,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)

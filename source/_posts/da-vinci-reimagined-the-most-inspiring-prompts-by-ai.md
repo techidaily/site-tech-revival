@@ -1,7 +1,7 @@
 ---
 title: "Da Vinci Reimagined: The Most Inspiring Prompts by AI"
-date: 2024-07-22 12:54:55
-updated: 2024-07-25 11:54:30
+date: 2024-08-02T16:15:39.990Z
+updated: 2024-08-03T16:15:39.990Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,9 @@ Here is the standard interpretation of the Turing Test:
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -50,12 +53,19 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -64,6 +74,9 @@ Here is the standard interpretation of the Turing Test:
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -74,6 +87,9 @@ Here is the standard interpretation of the Turing Test:
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
@@ -88,6 +104,9 @@ Here is the standard interpretation of the Turing Test:
 
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## The Turing Test Has Not Been Definitively Passed
 
  Artificial intelligence continues to grow, and although there have been several claims, there is still no definitive agreed industry agreement that the Turing Test has been beaten. This is largely due to the subjective nature of what constitutes "intelligence" and the limitations of the Turing Test parameters.

@@ -1,7 +1,7 @@
 ---
 title: "Refine Your Prompt Craftsmanship: Discover 7 Must-Use Online Utilities for Better Outcomes"
-date: 2024-07-26 20:30:18
-updated: 2024-07-28 12:41:46
+date: 2024-08-02T16:16:29.342Z
+updated: 2024-08-03T16:16:29.342Z
 tags:
   - chatgpt
   - open-ai
@@ -57,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
  You can make it a simple and easy command; for example, "Write a reply to this email about my interest in the job and seek information about salary."
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
@@ -65,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
@@ -81,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 5\. Talk-to-ChatGPT
 
  ChatGPT is currently a text-only AI app where the prompts and the answers are written. But Google Chrome offers some excellent voice commands and text-to-speech features. Talk-to-ChatGPT bridges this gap to let you issue prompts by talking to your computer and having the ChatGPT answers read aloud by AI.
@@ -91,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -111,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/275ca9774c095e0be2ae30797f9894bae65deae9e
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.

@@ -1,7 +1,7 @@
 ---
 title: "Evolving Engagement: The Future of Chatbots"
-date: 2024-07-26 23:16:45
-updated: 2024-07-29 12:17:28
+date: 2024-08-02T16:16:22.742Z
+updated: 2024-08-03T16:16:22.742Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and finally completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. InstaCart
 
  The InstaCart ChatGPT plugin helps you express your meal planning needs in natural language and, in turn, get a "shoppable" list of the food items or ingredients that you need to prepare the meal in an instant. The plugin generates an InstaCart shopping list of all the ingredients you'll need to prepare a meal in its right quantity. With a few further clicks, you can get all the ingredients delivered to your doorstep.
@@ -45,14 +51,23 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  In the illustration below, we prompted ChatGPT with some ingredients we had. Then, we asked it what meal we could cook with them. After suggesting we cook Jollof rice, ChatGPT listed the additional ingredients we'll need and asked whether to generate an InstaCart shopping list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
 
 ## 4\. Wolfram
@@ -67,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/4d8389239c924325f747de29a6fa5fd56f085170d
 
  We then invoked the Wolfram plugin to fact-check the information using its fact-based knowledge base. And here's the result.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
  Wolfram was able to run the generated information against its database to check for accuracy.
@@ -81,6 +99,9 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
  We provided a link to OpenAI's GPT-4 technical report and asked it about the model's visual input abilities. Here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
  Turns out another important use case is making sense of technical documents like this.
@@ -109,12 +130,20 @@ To use the plugin, use a prompt like:
 
 Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg> or list all the objects you see in this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg>
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## 8\. There's An AI For That
 
  "There's An AI For That" isn't the most glamorous of plugins on the ChatGPT plugins store, but we found it quite useful. The tool provides you with a curated list of AI tools that can do any tasks you describe. Sure, you have the option of going into a long, endless round of Google searches that might not get you what you want. But you can simply let the specialized tool do the job of highlighting AI tools for whichever tasks you wish to complete. In an era where AI is at the forefront of most things in the tech space, "There's An AI For That" can come in quite handy.
 
  In the example below, we prompted ChatGPT to suggest some AI tools we can use to manipulate pictures into a music video. Some of it turned out to be a revelation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
 ## 9\. What to Watch
@@ -123,6 +152,9 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Embrace ChatGPT Plugins
 
  If you've had an underwhelming experience with ChatGPT plugins, you're not alone. However, you'll find a number of useful ChatGPT plugins that extend the chatbot's abilities if you look closely enough. While the plugin store is not as loaded with high-quality plugins as we'd hoped to see, take advantage of the available ones to make the best of your ChatGPT experience.

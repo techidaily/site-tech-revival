@@ -1,7 +1,7 @@
 ---
 title: ChatGPT and the Art of Crafting Your Own Poetry Anthology
-date: 2024-07-26 21:24:30
-updated: 2024-07-27 11:19:47
+date: 2024-08-02T16:15:39.382Z
+updated: 2024-08-03T16:15:39.382Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
  OpenAI's ChatGPT app now offers a widget for Android devices. You can add it to your Home screen and quickly enter prompts using images, text, voice, or conversation mode queries. We'll show you how to add and use it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Adding the ChatGPT Widget to Your Android Home Screen
 
  Before proceeding, you'll need to update the ChatGPT Android app—if you're on any version older than 1.2024.052, you can't create this handy home screen widget. Currently, there's only one variation of the ChatGPT widget: a 4x2 option.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Using the ChatGPT Widget on Android
 
  The ChatGPT widget lets you enter any query with just one tap. To enter a text query, tap the**Message** field on the ChatGPT widget and start typing your prompt.

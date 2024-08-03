@@ -1,7 +1,7 @@
 ---
 title: "Mastering Sound Design: Integrating ChatGPT Into Your Digital Audio Workstation"
-date: 2024-07-23 15:33:39
-updated: 2024-07-25 11:55:56
+date: 2024-08-02T16:16:09.129Z
+updated: 2024-08-03T16:16:09.129Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ## The Ultimate Guide to 7 Zero-Cost AI and ChatGPT Travel Assistants: Plan Your Journey in an Instant
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Layla](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#layla)
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 * [Trip Planner AI](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#trip-planner-ai)
 * [Vacay Chatbot](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#vacay-chatbot)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Layla, Wonderplan, and PLAN by ixigo are AI travel planning apps with customizable itineraries.
@@ -47,8 +53,23 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  Once you've perfected your itinerary, you can share it with your friends via a URL or add it to your bucket list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2.[Wonderplan](https://wonderplan.ai/)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wonderplan website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/wonderplan-screenshot.jpg)
 
  Wonderplan is a wonderful AI tool for planning your trip. To create your itinerary, Wonderplan first asks you to enter your destination country and city, your budget, the number of days you'll be staying, and your interests.
@@ -59,8 +80,14 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
  In addition to your itinerary, Wonderplan also shows essential information about the country you're visiting. These include the currency conversion rate, electricity plug type, languages spoken, weather, and popular conveyances.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3.[PLAN by ixigo](https://www.ixigo.com/plan)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![PLAN by ixigo website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plan-by-ixigo-screenshot.jpg)
 
  PLAN by ixigo starts by asking you about your dream destination. Then, it provides an option to describe the type of experience you want to have. This is just like a ChatGPT prompt, so you can enter anything you wish.
@@ -111,6 +138,9 @@ thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e372025
 
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)
 
  Vacay Chatbot is not a dedicated itinerary maker but an AI chatbot that acts like your travel advisor. So, you can ask it to give travel recommendations, compare different destinations, and, of course, create an itinerary. If you've previously used AI chatbots like ChatGPT, you'll find this trip planner easy to use.

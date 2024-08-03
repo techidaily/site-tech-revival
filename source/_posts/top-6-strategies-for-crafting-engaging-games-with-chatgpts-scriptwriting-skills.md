@@ -1,7 +1,7 @@
 ---
 title: Top 6 Strategies for Crafting Engaging Games with ChatGPT's Scriptwriting Skills
-date: 2024-07-27 17:37:24
-updated: 2024-07-29 10:25:37
+date: 2024-08-02T16:15:55.363Z
+updated: 2024-08-03T16:15:55.363Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
@@ -60,20 +64,37 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 3 Create Your Own Custom GPT
 
  OpenAI will allow Free users to access the GPT store and use custom GPTs as part of its free package. However, this allowance doesn't extend to the creation of custom GPTs.
 
  You must have a Plus subscription to create custom GPTs. Paying will let you [build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Generate Images With DALL-E
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
  OpenAI's demo of GPT-4o made waves on the internet because of its realistic Voice Mode. Due to how quickly GPT-4o can understand words and context, none of that characteristic delay happens while the AI is "thinking," making for fluid—humanlike—conversation. On top of that, you can essentially video call the AI while in Voice Mode, and it will understand visual cues and objects it sees (thanks to its vision capabilities).
@@ -86,6 +107,9 @@ thumbnail: https://thmb.techidaily.com/2d67e14b0eb8d4077153a676b64f0ce1665316566
 
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.

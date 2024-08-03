@@ -1,7 +1,7 @@
 ---
 title: What Is AI and What Dangers Does It Pose?
-date: 2024-07-23 19:45:31
-updated: 2024-07-25 12:19:33
+date: 2024-08-02T16:16:32.393Z
+updated: 2024-08-03T16:16:32.393Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,18 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  This release is poised to shake things up with a huge impact on the world of business. ChatGPT has been quite the talk since late 2022, then what's this buzz surrounding the ChatGPT and Whisper APIs?
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## OpenAI Grants Access to ChatGPT and Whisper APIs
 
  The ChatGPT API is powered by the**gpt-3.5-turbo** language model, which is the same model that's used in ChatGPT. This means you can now get access to all the capabilities of ChatGPT through this API.
 
  The developer community has lauded Whisper for its impressive capabilities, but it has been reported to be challenging to set up and run. However, OpenAI has made the**large-v2** model of Whisper available through its API, which offers improved speed and accessibility.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Pricing
 
  OpenAI now gives you 1,000 tokens at a rate of $0.002, which it claims is 10x cheaper than the existing GPT-3.5 models. Even though 1,000 tokens may seem like a lot, sending just one snippet of text for the API to respond to could cost several tokens. In the official ChatGPT API announcement post,[OpenAI](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) mentioned:
@@ -33,14 +39,23 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  Whisper’s large-v2 model is priced at $0.006/minute (of audio input), which is also cheaper.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Access to the API
 
  GPT models take in unstructured text and represent it as a sequence of**tokens** for the model to understand. But with ChatGPT models, the input is consumed as a sequence of messages along with metadata. Even though the input is still processed as a sequence of tokens using the ChatML (Chat Markup Language) format, it allows for a more conversational experience. To give more context, we've covered[how ChatGPT works and how it answers questions](https://www.makeuseof.com/how-does-chatgpt-work/) in detail.
 
  To interact with the[ChatGPT model](https://platform.openai.com/docs/guides/chat) via the new API, OpenAI has developed a new endpoint that accommodates this format. This adds to the list of[things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Will Businesses Use the ChatGPT and Whisper API?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Someone holding business data and analytics while a working on a Samsung tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-samsung-table-and-papers-on-table.jpg)
 
  With the integration of ChatGPT and Whisper into third-party software, businesses can now create more personalized and engaging experiences for their customers. One example is Snap's My AI feature, which uses the same technology to enable users to create their own virtual personal assistant.
@@ -51,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  This can also be a good time for new SaaS products. Having seen so many pop up in the market already (such as[Speak](https://www.speak.com/) ), the possibilities are endless.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## What Does This Mean for Users?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)

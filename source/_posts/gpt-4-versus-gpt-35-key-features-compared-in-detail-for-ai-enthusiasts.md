@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 Versus GPT-3.5: Key Features Compared in Detail for AI Enthusiasts"
-date: 2024-07-24 13:38:10
-updated: 2024-07-27 12:41:27
+date: 2024-08-02T16:15:44.923Z
+updated: 2024-08-03T16:15:44.923Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -41,10 +48,17 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -59,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -69,7 +86,10 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 ## 4 Don't Make Your AI Multitask
 
-![chatgpt logo and message on smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-logo-and-message-on-smartphone-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -85,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
@@ -97,6 +120,15 @@ thumbnail: https://thmb.techidaily.com/f7008ec86977e694421ef724a35a33c6fec32d457
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .

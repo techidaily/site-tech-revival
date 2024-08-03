@@ -1,7 +1,7 @@
 ---
 title: Discovering the Benefits of Using HugbingChat – An Effective Open Source Choice Like ChatGPT
-date: 2024-07-25 19:30:55
-updated: 2024-07-27 12:49:56
+date: 2024-08-02T16:15:43.604Z
+updated: 2024-08-03T16:15:43.604Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -51,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
  Here, you must fill in the following information:
@@ -69,10 +78,16 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  After filling in these details, agree to Bugcrowd's terms and conditions and click "Report Vulnerability."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -81,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Earn Money While Improving OpenAI's Systems
 
  OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.

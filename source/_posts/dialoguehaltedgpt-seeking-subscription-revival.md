@@ -1,7 +1,7 @@
 ---
 title: "DialogueHaltedGPT: Seeking Subscription Revival"
-date: 2024-07-23 19:17:39
-updated: 2024-07-24 12:12:13
+date: 2024-08-02T16:15:43.046Z
+updated: 2024-08-03T16:15:43.046Z
 tags:
   - chatgpt
   - open-ai
@@ -37,12 +37,21 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 
  Technically, you can try writing paid essays, but at least avoid using ChatGPT. OpenAI trained ChatGPT on vast but finite datasets. It never double-checks information; hence some outputs could contain inaccuracies and discrepancies.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Answering When It Was Launched](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-general-question.jpg)
 
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Copywriting and Blogging
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
 
  AI has come a long way from spitting incoherent text. ChatGPT runs on advanced language models that produce natural, human-like phrases free of typos and grammatical errors. It already writes better than most inexperienced writers.
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 
 ## 4\. Caption Writing
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
 
  Users often write captions as an afterthought. They obsess over uploading the perfect post so much that they overlook other crucial elements. Some just bombard their captions with hashtags.
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 
  You can share your personal preferences. But don’t sell e-books of workout regimens, diets, and supplement recommendations unless you have the necessary certifications.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Coding Websites
 
  ChatGPT writes code. Just mention the purpose of your website, and it will suggest an appropriate code snippet. You could even input your preferred programming language.
@@ -79,10 +94,17 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 
  If you need to launch a website but don’t have any experience, use[no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/) . They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Email Marketing
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
 
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates.[Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
@@ -97,6 +119,9 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 
  Let’s say you want to learn about AI. The below photo shows what ChatGPT says if you ask the question outright.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
 
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
@@ -109,6 +134,9 @@ thumbnail: https://thmb.techidaily.com/9d7c9f6d98f25a60252afdb702bb0a4fb1162bcb6
 
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on[GitHub](https://github.com/) repositories, Reddit threads, and social media sites.

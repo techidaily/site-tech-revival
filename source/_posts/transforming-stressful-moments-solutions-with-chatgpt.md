@@ -1,7 +1,7 @@
 ---
 title: "Transforming Stressful Moments: Solutions with ChatGPT"
-date: 2024-07-23 11:12:56
-updated: 2024-07-24 12:35:46
+date: 2024-08-02T16:15:51.182Z
+updated: 2024-08-03T16:15:51.182Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
 ## 1\. Resume and Cover Letter Creator
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
@@ -33,8 +36,15 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
  Here's a guide on[how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 2\. Translation Tool
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
@@ -43,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
 **Try this GPT:** [Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
@@ -61,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
 **Try this GPT** :[K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
@@ -87,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
@@ -99,6 +118,9 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
  While ChatGPT provides a strong foundation, custom GPTs can take performance to new levels in specific domains. By training GPTs on niche datasets, we can create purpose-built AI assistants that excel at specific needs. The applications are vast, and we've barely scratched the surface of what could be possible.

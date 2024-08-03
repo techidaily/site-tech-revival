@@ -1,7 +1,7 @@
 ---
 title: "Mastering Crypto Conversations: 8 Prime Plugins for Seamless Digital Interactions"
-date: 2024-07-27 18:38:59
-updated: 2024-07-28 10:36:40
+date: 2024-08-02T16:15:59.540Z
+updated: 2024-08-03T16:15:59.540Z
 tags:
   - chatgpt
   - open-ai
@@ -27,18 +27,31 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
  Let’s say you want a summary of Article One, sections one to four. Armed with the URL of the document, you can prompt ChatGPT to summarize these sections.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
@@ -53,8 +66,14 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 1. Open Word and use the**Open** command and browse to the folder where the document is stored.
 2. If the document does not appear, use the file type dropdown box and select**PDF Files** from the options.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 

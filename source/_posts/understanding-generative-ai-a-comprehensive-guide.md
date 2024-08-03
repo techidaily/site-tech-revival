@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: A Comprehensive Guide"
-date: 2024-07-25 12:19:47
-updated: 2024-07-26 10:42:46
+date: 2024-08-02T16:15:29.108Z
+updated: 2024-08-03T16:15:29.108Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
 ## Top 7 Effective Strategies for Mastering AI Prompts: Proven Techniques Inside
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Be as Specific as Possible](https://www.makeuseof.com/ai-prompting-tips-and-tricks-that-actually-work/#be-as-specific-as-possible)
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
  The more context you provide your AI tool, the better of a response you'll receive.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
  This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
@@ -67,9 +76,12 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Don't Make Your AI Multitask
 
-![chatgpt logo and message on smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-logo-and-message-on-smartphone-feature.jpg)
+![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -79,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -89,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -97,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/f9a5463fbd0c790fcad5c9ca24a63fabc5c5b34da
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .

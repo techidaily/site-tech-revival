@@ -1,7 +1,7 @@
 ---
 title: How to Export Your ChatGPT History Using Powerful Extensions
-date: 2024-07-25 22:36:19
-updated: 2024-07-26 12:38:24
+date: 2024-08-02T16:15:49.682Z
+updated: 2024-08-03T16:15:49.682Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
 ## 1.[Find Your Next Book](https://www.findyournextbook.ai/) (Web): Book Suggestions From ChatGPT Prompts
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Find Your Next Book gives you book recommendations based on your ChatGPT prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-find-your-next-book.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -27,8 +30,14 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  FYNB will take a few minutes to process your request and then give you one recommendation at a time. The recommendation page includes a summary of why the AI thinks the book's topics match what you are looking to read, as well as a non-AI-generated description of the book, like what you're likely to find on the back cover. If you aren't happy with the result, click the "Next Book" button for another recommendation with the same prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.[Sona](https://www.readthistwice.com/sona) (Web): Quickly Browse a Long List of AI-Recommended Books
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -58,8 +67,14 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  Once it analyzes your input, the results are three simple cards that include the book title, author's name, and a two-line description. If the book was recommended by someone famous or another author, Next Three Books will add that context to the card.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4.[Readow](https://readow.ai/) (Web): AI Book Recommendations Based on Your Likes
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Readow uses AI to recommend books based on what you've liked in the past](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-readow.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -76,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/74a4a1093c21fbed5ca77d48b3d1459dd3aa5036b
 
  Author Screenshot by Mihir Patkar - No attribution required
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![BooksAI can summarize a book without spoilers, or give a detailed summary broken down by chapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-2.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required

@@ -1,7 +1,7 @@
 ---
 title: Investigating TruthGPT's Tokens Validity
-date: 2024-07-23 19:49:51
-updated: 2024-07-25 12:44:43
+date: 2024-08-02T16:16:26.256Z
+updated: 2024-08-03T16:16:26.256Z
 tags:
   - chatgpt
   - open-ai
@@ -43,14 +43,24 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 3\. Internet Access
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Browse with Bing option on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-with-bing-option-on-chatgpt.jpg)
 
  The standard, free version of ChatGPT has a knowledge cutoff from September 2021\. That means it does not have access to any information on events that occurred after that date. However, you can overcome this limitation using the new**Browse with Bing** mode with the GPT-4 model. This means you can access the internet within ChatGPT.
 
  Internet access lets you summarize articles, conduct up-to-date market research, and find recent news stories and papers. ChatGPT can also access a wider dataset and deliver more accurate responses. So, with the $20/month subscription, the knowledge cutoff is no longer a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. DALL·E 3 Art Creation
 
  The deal-maker for ChatGPT Plus is DALL·E 3\. While you can access it freely from Bing Chat, bringing it under ChatGPT's interface and combining it with GPT-4, which is better optimized as a chatbot than a search engine, it is a different ball game. You can chat with ChatGPT as you typically do, and where you feel the need, you can ask it to generate images for you.
@@ -61,10 +71,16 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
  Once the story was complete, it automatically took all those DALL·E 3 prompts from above, generated images, and presented them to me.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![​​​​​​​DALL·E 3 book illustrations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-book-illustrations.jpg)
 
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 5\. Plugin Access
 
 ![chatgpt plugins option selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-plugins-option-selection.jpg)
@@ -73,22 +89,34 @@ thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb5979
 
  Each plugin serves a different purpose. For example, you can use the Kayak plugin to book a trip abroad, the Instacart plugin to plan meals and buy ingredients, or interact with apps like Google Sheets and Gmail using Zapier. Some plugins can be buggy or slow, but it'll be interesting to see how useful they are once the kinks are ironed out.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Advanced Data Analytics
 
  While the feature can be used for many different functions, the Advanced Data Analytics feature in ChatGPT Plus can help you turn spreadsheets into graphs for data visualization.
 
  To enable this feature, click the**Account Settings** button in the bottom-left corner of the screen. Then, go to**Settings & Beta > Beta Features** and toggle the**Advanced data analysis** option. Once the feature is toggled, you can upload the spreadsheet using the**plus sign** button in the left corner of the ChatGPT text field.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Advanced data analysis ChatGPT prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-data-analysis-chatgpt-prompt-1.jpg)
 
  After it's uploaded, you can ask ChatGPT what you'd like it to do with the data, and it will oblige. I uploaded a random CSV and asked it to create visuals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Data visualized by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/data-visualized-by-chatgpt.jpg)
 
  Whether you're a small business owner or just play with data in spreadsheets, this feature can help you make data-driven decisions. You can upload your account books and ask ChatGPT not only to visualize the data for you but also to give you valuable insights into what needs improvement in your business.
 
 ## 7\. Impressive Stability
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![GPTPlus vs GPT3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gptplus-vs-gpt3-5.jpg)
 
  The free[ChatGPT has its fair share of big problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , but downtime is by far the most important one. Although the situation is much better now than it was when it was first launched, the free version can still go down anytime. OpenAI's servers sometimes have trouble keeping up with the incredibly high demand.
@@ -111,6 +139,9 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
  You also get access to multiple plugins that can help with your language-learning journey. The new Speak plugin is an excellent example of this. It helps you pronounce certain phrases, gives you alternate ways to express the same sentiment, and shows you examples that replicate real-life conversations in any language.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Plus Is Worth the Upgrade
 
  Though the subscription initially didn't provide enough value, with the introduction of new features like Advanced Data Analytics, DALL·E 3, and image input, ChatGPT Plus is more than worth the upgrade. Whether you're self-employed, a freelancer, or a small business owner, ChatGPT Plus can help you in pretty much all aspects, from business policies to written content to design visuals to understanding data.

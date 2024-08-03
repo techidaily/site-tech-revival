@@ -1,7 +1,7 @@
 ---
 title: "DALL-E 3'S New Edit Features: Room for Improvement"
-date: 2024-07-26 19:57:21
-updated: 2024-07-28 12:29:23
+date: 2024-08-02T16:15:54.438Z
+updated: 2024-08-03T16:15:54.438Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  Although tempting, please think twice before taking their advice. AI can help you make money—just not in the way gurus claim. Here’s the truth about eight popular ChatGPT side hustles.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. YouTube Script Writing
 
 ![The YouTube Channel of MakeUseOf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/muo-youtube-channel.jpg)
@@ -31,16 +34,30 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  Instead of spamming your channel with generic, AI-produced videos, focus on creating content that resonates with your audience. Ask what viewers want from you. YouTube has nearly a billion videos—viewers won’t bother with recycled ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Academic Essay Writing
 
  Taking on essay writing gigs is a gray area in freelancing—they promote cheating. Yet despite their controversial nature, many freelancers sell essays. You’ll find several[academic writing jobs](https://www.makeuseof.com/websites-to-find-academic-writing-jobs/) online.
 
  Technically, you can try writing paid essays, but at least avoid using ChatGPT. OpenAI trained ChatGPT on vast but finite datasets. It never double-checks information; hence some outputs could contain inaccuracies and discrepancies.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![ChatGPT Answering When It Was Launched](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-general-question.jpg)
 
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Copywriting and Blogging
 
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
@@ -55,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
 ## 4\. Caption Writing
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
 
  Users often write captions as an afterthought. They obsess over uploading the perfect post so much that they overlook other crucial elements. Some just bombard their captions with hashtags.
@@ -79,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  If you need to launch a website but don’t have any experience, use[no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/) . They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Email Marketing
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
@@ -97,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  Let’s say you want to learn about AI. The below photo shows what ChatGPT says if you ask the question outright.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
 
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
@@ -105,10 +131,16 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 
  These examples simply cover the basics. To[get the best results from ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , you must craft detailed instructions that maximize datasets and override certain restrictions. The below photo illustrates an effective jailbreak prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Requesting ChatGPT to Bypass Restrictions and Make Predictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_as_dan_prompt.jpg)
 
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on[GitHub](https://github.com/) repositories, Reddit threads, and social media sites.

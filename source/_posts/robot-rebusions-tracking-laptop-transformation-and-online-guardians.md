@@ -1,7 +1,7 @@
 ---
 title: "Robot Rebusions: Tracking Laptop Transformation & Online Guardians"
-date: 2024-07-21 17:57:44
-updated: 2024-07-24 12:26:24
+date: 2024-08-02T16:15:49.876Z
+updated: 2024-08-03T16:15:49.876Z
 tags:
   - chatgpt
   - open-ai
@@ -23,8 +23,14 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. AI Hallucinations and Potential Biases
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
@@ -41,8 +47,14 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Fails to Give Personalized Financial Advice
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
 ## 4\. Relies Heavily on Historical Data
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/7055739b2ba9c96c4320b4adbabab9131b89b7fc1
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.

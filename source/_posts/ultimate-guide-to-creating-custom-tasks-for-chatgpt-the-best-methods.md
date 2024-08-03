@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Creating Custom Tasks for ChatGPT - The Best Methods
-date: 2024-07-24 18:10:13
-updated: 2024-07-26 10:36:19
+date: 2024-08-02T16:16:29.954Z
+updated: 2024-08-03T16:16:29.954Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/7dc1f793da1f2b9c448c995323e3532e944d03082
 
 ![Bing AI chatbot response mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-response-mobile-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Bing AI image generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-image-generation-1.jpg)
 
 Close
@@ -35,10 +39,19 @@ Close
 
 **Download:** Bing for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/bing-chat-with-ai-gpt-4/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## 2\. Nova
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Nova AI Scientist persona prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-scientist-persona-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Nova AI chatbot personas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-personas.jpg)
 
 ![Nova AI chatbot suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-suggestions.jpg)
@@ -73,6 +86,9 @@ Close
 
 ## 4\. ChatSonic
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![ChatSonic chatbot health query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-health-query.jpg)
 
 ![ChatSonic chatbot personalities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-personalities.jpg)
@@ -89,12 +105,24 @@ Close
 
 **Download:** ChatSonic for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.writesonic.chatsonic) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatOn
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatOn AI chatbot homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatOn AI chatbot riddle query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-riddle-query.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatOn Chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-chat-settings.jpg)
 
 Close
@@ -109,8 +137,14 @@ Close
 
 ## 6\. Poe
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Claude chatbot in Poe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/claude-chatbot-in-poe.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Poe AI app chatbot selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ai-app-chatbot-selection.jpg)
 
 ![Poe AI chatbot selected chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ai-chatbot-selected-chatbots.jpg)
@@ -125,8 +159,14 @@ Close
 
 **Download:** Poe for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.poe.android) |[iOS](https://apps.apple.com/us/app/poe-fast-ai-chat/id1640745955) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Genie
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Genie AI app solving a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-solving-a-math-problem.jpg)
 
 ![Genie AI app Code and Food categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-code-and-food-categories.jpg)
@@ -143,6 +183,9 @@ Close
 
 **Download:** Genie for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=co.appnation.geniechat) |[iOS](https://apps.apple.com/us/app/genie-ai-chatbot/id1658377526) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Outsmart ChatGPT With These Apps
 
  These apps offer some extra tools that are unseen in the official ChatGPT app. If you'd like to change your chatbot's tone, edit the response length, or generate images from text, you can rely on these apps for better AI interactions. Be creative and explore something new with these powerful mobile chatbot apps.

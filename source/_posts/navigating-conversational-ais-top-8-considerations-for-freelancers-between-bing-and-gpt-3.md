@@ -1,7 +1,7 @@
 ---
 title: "Navigating Conversational AIs: Top 8 Considerations for Freelancers Between Bing and GPT-3"
-date: 2024-07-26 15:56:31
-updated: 2024-07-28 12:56:35
+date: 2024-08-02T16:16:38.898Z
+updated: 2024-08-03T16:16:38.898Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -44,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/e0fa8a626f9ce04b93030cf87348bad1dbf4f9d0f
 
 So, how can you use this?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
@@ -58,10 +67,16 @@ So, how can you use this?
 
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -72,6 +87,9 @@ So, how can you use this?
 
  To demonstrate this, we asked KAYAK GPT to find us the best spots to stay in Germany, as well as upcoming flights.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.

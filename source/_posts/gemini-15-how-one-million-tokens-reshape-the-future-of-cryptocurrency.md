@@ -1,7 +1,7 @@
 ---
 title: "Gemini 1.5: How One Million Tokens Reshape the Future of Cryptocurrency"
-date: 2024-07-24 17:11:35
-updated: 2024-07-25 12:33:15
+date: 2024-08-02T16:16:40.555Z
+updated: 2024-08-03T16:16:40.555Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ## 1 More Access to GPT-4o
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
@@ -46,10 +54,16 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Retain Access to GPT-4 Turbo
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -62,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
@@ -82,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/a8faf3762ec0652876e641b0799340042cad57c24
 
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.

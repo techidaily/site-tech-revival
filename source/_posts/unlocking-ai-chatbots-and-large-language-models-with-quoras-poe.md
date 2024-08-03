@@ -1,7 +1,7 @@
 ---
 title: Unlocking AI Chatbots & Large Language Models with Quora's POE
-date: 2024-07-25 13:47:14
-updated: 2024-07-28 10:32:38
+date: 2024-08-02T16:16:25.388Z
+updated: 2024-08-03T16:16:25.388Z
 tags:
   - chatgpt
   - open-ai
@@ -17,8 +17,14 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What You Need to Know About AI Chatbots
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
@@ -35,12 +41,18 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -57,6 +69,18 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 
 ## Which LLM Has the Best General Knowledge?
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -71,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
@@ -111,6 +138,9 @@ thumbnail: https://thmb.techidaily.com/2a75585c706bda1c98b7ca78005e810cc4fa04565
 
 You read it here first, folks.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.

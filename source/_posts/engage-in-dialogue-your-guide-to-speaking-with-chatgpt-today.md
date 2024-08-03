@@ -1,7 +1,7 @@
 ---
 title: "Engage in Dialogue: Your Guide to Speaking With ChatGPT Today"
-date: 2024-07-20 16:25:12
-updated: 2024-07-23 10:54:13
+date: 2024-08-02T16:15:49.021Z
+updated: 2024-08-03T16:15:49.021Z
 tags:
   - chatgpt
   - open-ai
@@ -25,10 +25,19 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 
  To access ChatGPT's voice input feature on your phone, you'll need to download and install the official ChatGPT app for mobile devices. Once you sign in with your OpenAI account, you're all set to take advantage of the Whisper feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
@@ -48,12 +57,21 @@ Close
 3. When you're done, hit**Tap to stop recording** and wait for ChatGPT to transcribe the recording.
 4. Tap the**Send** button next to the text field to send your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close

@@ -1,7 +1,7 @@
 ---
 title: Enlightening Developers - 6 Groundbreaking Uses for ChatGPT's Language System
-date: 2024-07-24 18:30:13
-updated: 2024-07-27 12:44:27
+date: 2024-08-02T16:16:08.458Z
+updated: 2024-08-03T16:16:08.458Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,15 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 
  Despite My AI’s simple interface, it’s a fairly sophisticated tool. You can do so much with it. Here are six reasons Snapchat’s My AI feature is more than just a cool toy.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. My AI Runs on GPT-3.5
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
  Snapchat uses the same[large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
@@ -29,12 +36,19 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 2\. Conversations Retain the Last 3,000 Words
 
  Contextual memory helps AI provide more accurate responses. Instead of taking prompts at face value, chatbots will reference relevant information in active conversations. Let’s say you’re looking for side hustles. AI-driven chatbots will also consider your skills and career background, assuming you provide them.
@@ -43,18 +57,32 @@ Close
 
  Take this conversation as an example. We asked My AI to roleplay a fictional character. It maintained the instructed persona even after receiving 2,000+ words of irrelevant information. Other platforms may have dropped prior instructions by this point.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 3\. My AI Can Pull Real-Time Information
 
  My AI has some access to real-time data. Although it has trouble answering specific questions about current events, it can quickly pull general information online, such as weather forecasts, news headlines, and local events.
 
  Here’s My AI providing the weather forecast for Manila, Philippines. Google and Snapchat use different units of measurement, but they’re essentially the same after conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
@@ -63,10 +91,17 @@ Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Snapchat’s Location Services Are Wholly Utilized
 
  Snapchat offers helpful location-based services. It can tell you which establishments and landmarks are near your current location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)

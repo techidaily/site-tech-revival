@@ -1,7 +1,7 @@
 ---
 title: "Creating Rich Fictional Personalities: 11 Key Strategies Using ChatGPT"
-date: 2024-07-23 11:24:46
-updated: 2024-07-26 12:15:55
+date: 2024-08-02T16:16:46.988Z
+updated: 2024-08-03T16:16:46.988Z
 tags:
   - chatgpt
   - open-ai
@@ -17,18 +17,27 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 
  Google Bard was released shortly after Microsoft's Bing Chat, and both tools are hoping to grab a healthy share of the burgeoning generative AI and integrated AI search market. But what are the differences between them? And which chatbot is right for you?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## What Are the Differences between Google Bard and Bing Chat?
 
  Outwardly, both tools look similar. They both offer a simple interface with a text box to allow you to "chat" with them. However, dig a little deeper, and significant differences become apparent. To test the tools for yourself, you will need a Google and Microsoft account, although you might have to join a[waitlist for Google Bard](https://www.makeuseof.com/how-to-join-google-bard-ai-waitlist/) .
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
 
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -63,14 +75,24 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 
  Perhaps more telling was another issue we found when testing the tools. We found ourselves puzzled by Bard's response to a simple request to "write some bullet points for a blog on global warming." This should be a request that any chatbot should handle. But, as you can see, Bard seemed confused by the request.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
 We did manage to get a response from Bard by rewording the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
  As both platforms are going through rapid development, the user experience will continue to improve.

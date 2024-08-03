@@ -1,7 +1,7 @@
 ---
 title: Simplest Linux Guide for Bavarder ChatGPT
-date: 2024-07-26 20:59:52
-updated: 2024-07-29 11:25:14
+date: 2024-08-02T16:15:53.527Z
+updated: 2024-08-03T16:15:53.527Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,19 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 
  Google Bard was released shortly after Microsoft's Bing Chat, and both tools are hoping to grab a healthy share of the burgeoning generative AI and integrated AI search market. But what are the differences between them? And which chatbot is right for you?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are the Differences between Google Bard and Bing Chat?
 
  Outwardly, both tools look similar. They both offer a simple interface with a text box to allow you to "chat" with them. However, dig a little deeper, and significant differences become apparent. To test the tools for yourself, you will need a Google and Microsoft account, although you might have to join a[waitlist for Google Bard](https://www.makeuseof.com/how-to-join-google-bard-ai-waitlist/) .
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -33,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
@@ -63,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 
  Perhaps more telling was another issue we found when testing the tools. We found ourselves puzzled by Bard's response to a simple request to "write some bullet points for a blog on global warming." This should be a request that any chatbot should handle. But, as you can see, Bard seemed confused by the request.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
 We did manage to get a response from Bard by rewording the prompt.
@@ -75,6 +91,9 @@ We did manage to get a response from Bard by rewording the prompt.
 
  As both platforms are going through rapid development, the user experience will continue to improve.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are the Differences Between the Language Models?
 
  The last major difference regards the "engines" that power both platforms. These Large Language Models (LLMs) are the underpinning technology. We don't need to go into great detail, but LLMs are important when choosing a platform.
@@ -101,6 +120,9 @@ We did manage to get a response from Bard by rewording the prompt.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Era of the Chatbot Is Upon Us
 
  Regardless of the flaws we found and our quibbles with the chatbots, these are amazing technological feats that will play an ever-increasing part in our lives. The rapid development of technology will continue to push the boundaries of what these tools can achieve and how we use them.

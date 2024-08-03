@@ -1,7 +1,7 @@
 ---
 title: Critical Aspects to Evaluate When Applying ChatGPT in Psychological Care
-date: 2024-07-24 17:54:48
-updated: 2024-07-26 10:11:59
+date: 2024-08-02T16:16:35.012Z
+updated: 2024-08-03T16:16:35.012Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
 
  Prompt ChatGPT to “write a villanelle about springtime” or “write a sonnet about going to the movies with your best friend.” The chatbot instantly generates a response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![ChatGPT sonnet about movies](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-sonnet-about-movies.jpg)
 
  Try “write an edgy sonnet about going to the movies with your best friend” for a laugh.
@@ -35,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
 
  The language bot does appear to struggle with free verse or unrhymed poetry in general (at this time). It appears partial to end rhymes, or at least close rhymes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT unrhymed poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unrhymed-poem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Find Rhymes
 
  You can also use the app to find perfect, imperfect, and more varieties of rhymes for different words. It's a playful way to expand your rhyming options for verses.
@@ -45,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
 
  It's also a helpful tool for finding matches for words that are notoriously difficult to rhyme.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT rhyme feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-rhyme-feature.jpg)
 
 ## 3\. Check Poetic Meter
@@ -53,10 +65,17 @@ thumbnail: https://thmb.techidaily.com/33904527a6e1718a50027f53fe767c2c1eedacdbd
 
 Simply prompt ChatGPT to scan the poem, then paste in your verses.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![ChatGPT scans a Robert Frost poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-scans-a-robert-frost-poem.jpg)
 
  You can ask the bot follow-up questions about the scansion, as well as poetic form.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ChatGPT poetic scansion explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-poetic-scansion-explanation.jpg)
 
  This offers a helpful way to study poetry and check your own original verses for form.
@@ -81,6 +100,9 @@ You'll get a huge list of ideas to spark your creativity.
 
  The app keys in on each author's familiar themes and styles to construct these inspiring (and sometimes a bit bizarre) story ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Play With Audience and Tone
 
  Because you can assign roles to ChatGPT, as well as instruct it to address particular audiences, it’s easy to adjust the tone of your pieces for different readers. This is a fantastic way to learn more about tailoring stories for various audiences.
@@ -91,6 +113,9 @@ You'll get a huge list of ideas to spark your creativity.
 
  Meanwhile, a prompt to “tell a literary story about bears for a sophisticated adult audience” produces a much more rugged story.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT literary bear story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-literary-bear-story.jpg)
 
  In addition, you can insert your own work into the app and tailor it for different audiences. Use prompts like “adjust this story for an audience of primarily female readers in their 20s” or “tailor this story to fans of mystery fiction.”
@@ -101,10 +126,18 @@ You'll get a huge list of ideas to spark your creativity.
 
  Use ChatGPT to find the right word, rephrase sentences, and generally overcome some of the common hurdles associated with writer’s block. If you get stuck on one sentence, for instance, then you can prompt the chatbot to rephrase it a number of different ways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT rephrase sentence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-rephrase-sentence.jpg)
 
  Choose your favorite rendition of the sentence and get back to your piece.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![ChatGPt overcoming writer's block prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-overcoming-writer-s-block-prompt.jpg)
 
  In addition, you can ask the bot to help with whatever is keeping you from writing, whether that's getting started or taking your story to the next chapter.
@@ -115,6 +148,10 @@ You'll get a huge list of ideas to spark your creativity.
 
  In many ways, ChatGPT can help you overcome the biggest hurdle for plenty of writers: the blank page (or screen).
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## Caveats About Using ChatGPT for Creative Writing
 
  Although ChatGPT is an amazing tool with impressive storytelling abilities, it's important to use the chatbot responsibly.
@@ -127,6 +164,9 @@ You'll get a huge list of ideas to spark your creativity.
 
  Lastly, remember that your own memories and experiences can’t be generated by AI, so tap into them for your creative writing. ChatGPT is an excellent tool, but it can’t tell your stories for you.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Boost Your Creative Writing Skills With ChatGPT
 
  Whether you're writing fiction, poetry, journal entries, blog posts, or other nonfiction content, ChatGPT offers a wide array of guidance for writers. Dig deeper into poetic forms, find the word that's on the tip of your tongue, and generate endless story ideas with help from the popular AI chatbot. With a little help from ChatGPT, you may never have to stare down a blank screen again.

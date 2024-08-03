@@ -1,7 +1,7 @@
 ---
 title: "Computer Comedy: Past, Present, and Protective Web Ventures"
-date: 2024-07-25 23:58:58
-updated: 2024-07-28 12:12:27
+date: 2024-08-02T16:16:37.098Z
+updated: 2024-08-03T16:16:37.098Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  However, it can be clumsy when it comes to dealing with file formats like PDFs. This makes it tricky if you want it to work with content in this format. If you are struggling to get ChatGPT to read PDFs, here are some easy ways to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Supply ChatGPT With a URL
 
  ChatGPT can reference URLs that you supply it with. This means that if the PDF file is online, getting ChatGPT to reference it is super easy. A URL is a[web address that comprises five key components](https://www.makeuseof.com/what-are-key-url-elements/) . We don’t need to go into detail here, all you need to know is the web address of the PDF you want to reference.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
@@ -53,13 +62,23 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 1. Open Word and use the**Open** command and browse to the folder where the document is stored.
 2. If the document does not appear, use the file type dropdown box and select**PDF Files** from the options.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)

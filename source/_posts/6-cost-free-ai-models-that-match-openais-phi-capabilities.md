@@ -1,7 +1,7 @@
 ---
 title: 6 Cost-Free AI Models That Match OpenAI's Phi Capabilities
-date: 2024-07-26 11:29:10
-updated: 2024-07-28 11:52:45
+date: 2024-08-02T16:16:43.924Z
+updated: 2024-08-03T16:16:43.924Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 ## 1 [Runway's Gen-2](https://research.runwayml.com/gen2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
 
 * **Free:** 125 Credits
@@ -41,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  Judging from the quality of Sora-generated clips shared by OpenAI, Sora bests Runway Gen-2 as an AI text-to-video generator. However, given the speed of development in the AI space (and the fact that Runway launched Gen-2 about a year before the first preview of Sora was released), it's clear OpenAI's Sora and Runway Gen-2 (and its future versions) will battle for the best text-to-video AI generator title.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 2 [Pika](https://pika.art/)
 
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
@@ -64,8 +71,14 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
 
  We'll let you judge which is better, but it's clear Pika has some catching up to do compared to the quality of Sora-generated clips online. However, its other features, like lip-syncing and image animation, give it an edge over Sora—at least for now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 [Pixverse](http://pixverse.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of pixverse homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pixverse-homepage.jpg)
 
 * **Free**
@@ -101,6 +114,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
 ## 5 [Synthesia](http://www.synthesia.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of synthesia homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-synthesia-homepage.jpg)
 
 * **Free:** Test video
@@ -114,6 +130,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Synthesia is a good alternative to Sora for creating engaging and personalized videos for education, marketing, or entertainment purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)

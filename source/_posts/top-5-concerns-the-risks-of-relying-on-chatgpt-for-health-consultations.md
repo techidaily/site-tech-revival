@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Concerns: The Risks of Relying on ChatGPT for Health Consultations"
-date: 2024-07-25 10:35:42
-updated: 2024-07-27 10:11:37
+date: 2024-08-02T16:16:35.408Z
+updated: 2024-08-03T16:16:35.408Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 
  Some of your conversations with ChatGPT may be more private than others. Fortunately, OpenAI makes it easy to archive your chats and hide conversations from plain sight. Whether you use ChatGPT on the web or your smartphone, it's simple to hide those AI chats.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Hide ChatGPT Chats on the Web
 
  ChatGPT has an archiving feature that lets you remove any chat from the sidebar with just a couple of clicks. You can use it to hide chat sessions from the main screen once you load up ChatGPT on the web. Follow the instructions below:
@@ -36,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 2. Select the chat you want to hide from the sidebar and click the**ellipsis (...)** button next to it.
 3. Now, choose**Archive chat** from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 3. When the settings menu pops up, click**Manage** next to**Archived chats** .
 4. To view a hidden chat, simply click on the name of the chat. However, to unhide it, click the**Unarchive conversation** button (next to the**Trash** icon).
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
@@ -64,16 +73,27 @@ thumbnail: https://thmb.techidaily.com/923ea7bec628700a525c9380309e5e23cc2f5ab6e
 3. Long-press on the chat you want to hide and choose**Archive** from the context menu.
 4. When prompted to confirm, tap**Archive** again.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### How to View Your Hidden Chats in the ChatGPT App
 
  Like the web version of ChatGPT, you need to head to ChatGPT's settings menu to access your archived chats. Here's what you need to do:
@@ -87,6 +107,9 @@ Close
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
 Close

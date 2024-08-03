@@ -1,7 +1,7 @@
 ---
 title: Complete Tutorial on Setting Up and Utilizing ChatGPT Add-Ons
-date: 2024-07-25 10:54:42
-updated: 2024-07-28 11:18:42
+date: 2024-08-02T16:16:33.052Z
+updated: 2024-08-03T16:16:33.052Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
  GPT-4 didn't come with some of the much-touted features it was rumored to have. However, the latest model significantly improves on GPT-3.5 and its predecessors. But how is GPT-4 different from GPT-3.5? We'll take you through some key differences between GPT-4 and GPT-3.5.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. GPT-4 vs. GPT-3.5: Creativity
 
 ![gpt-4 language model with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-4-language-model-with-openai-logo.jpg)
@@ -29,8 +32,14 @@ thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d96
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
@@ -41,6 +50,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
@@ -49,6 +61,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
@@ -69,6 +84,9 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## GPT-4: A Step Up from GPT-3.5
 
  Undoubtedly, GPT-4 is a significant step up from its predecessor models. While it is still plagued with some of the limitations of GPT-3.5, significant improvements in several areas and the addition of new capabilities make the model an exciting new step in the pursuit of truly intelligent AI language models.

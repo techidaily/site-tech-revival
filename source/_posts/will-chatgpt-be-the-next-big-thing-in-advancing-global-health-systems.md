@@ -1,7 +1,7 @@
 ---
 title: Will ChatGPT Be the Next Big Thing in Advancing Global Health Systems?
-date: 2024-07-22 18:12:36
-updated: 2024-07-25 11:10:48
+date: 2024-08-02T16:15:38.124Z
+updated: 2024-08-03T16:15:38.124Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -52,12 +55,18 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -66,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a18563012870
 
  Bard went first. We repeated the question twice, all coming back with wrong answers. We did get the answer on the third attempt, but that doesn't count.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
@@ -78,10 +90,16 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 Here's the source screenshot.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
@@ -94,6 +112,10 @@ Here's the source screenshot.
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.

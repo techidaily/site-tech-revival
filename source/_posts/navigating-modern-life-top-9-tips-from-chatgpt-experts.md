@@ -1,7 +1,7 @@
 ---
 title: "Navigating Modern Life: Top 9 Tips From ChatGPT Experts"
-date: 2024-07-28 20:23:57
-updated: 2024-07-29 12:10:40
+date: 2024-08-02T16:16:24.575Z
+updated: 2024-08-03T16:16:24.575Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -72,14 +75,23 @@ You could use:
 
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
 
  Examples are especially important when generating unique content like jokes, music, or cover letters. For example, in the screenshot below, we asked ChatGPT to generate some sarcasm about musicians once we provided the musician's name. The highlight here is that we didn't provide any examples.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
@@ -88,10 +100,16 @@ You could use:
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
@@ -108,6 +126,9 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Garbage In, Garbage Out
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.

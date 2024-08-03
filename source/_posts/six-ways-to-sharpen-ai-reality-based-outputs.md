@@ -1,7 +1,7 @@
 ---
 title: Six Ways to Sharpen AI Reality-Based Outputs
-date: 2024-07-22 21:44:46
-updated: 2024-07-24 11:19:47
+date: 2024-08-02T16:16:34.201Z
+updated: 2024-08-03T16:16:34.201Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
 ## 6 Compelling Reasons to Stick with ChatGPT Plus, Even as GPT-4 Goes Free
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
@@ -34,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
@@ -50,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -62,8 +71,14 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 Generate Images With DALL-E
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
@@ -80,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)

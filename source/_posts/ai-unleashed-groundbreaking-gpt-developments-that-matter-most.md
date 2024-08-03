@@ -1,7 +1,7 @@
 ---
 title: "AI Unleashed: Groundbreaking GPT Developments That Matter Most"
-date: 2024-07-26 22:27:58
-updated: 2024-07-28 12:29:45
+date: 2024-08-02T16:16:14.758Z
+updated: 2024-08-03T16:16:14.758Z
 tags:
   - chatgpt
   - open-ai
@@ -19,16 +19,28 @@ thumbnail: https://thmb.techidaily.com/52b4eaebcfcbc6c7fedd891af89526f0d5ee168fe
 
  You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
 
  To access ChatGPT's voice input feature on your phone, you'll need to download and install the official ChatGPT app for mobile devices. Once you sign in with your OpenAI account, you're all set to take advantage of the Whisper feature.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
@@ -37,6 +49,9 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -48,6 +63,9 @@ Close
 3. When you're done, hit**Tap to stop recording** and wait for ChatGPT to transcribe the recording.
 4. Tap the**Send** button next to the text field to send your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Less Hassle, More Joy: Mastery in Making with GPT"
-date: 2024-07-22 23:41:30
-updated: 2024-07-24 10:20:56
+date: 2024-08-02T16:15:50.930Z
+updated: 2024-08-03T16:15:50.930Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,23 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
  There's hope in a few common tasks for those worried that AI may be coming for their job. Gaining extra competence in Excel’s VBA and the wide world of automated analysis tools can give you a leg up in the job market.
@@ -35,8 +52,14 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to[visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Customizable Report Creation in Excel
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -51,8 +74,14 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Easy-to-Use Forms in Excel
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
@@ -63,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/04a734a9937eba2d7e4ad06c3d50be8d29a9cd1ed
 
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
  Excel has many tasks that are still beyond the range of ChatGPT and its cohort of machine learning-driven knockoffs. With new advancements increasing at an alarming rate, it’s all too easy to worry that automation may be aiming for your job next.

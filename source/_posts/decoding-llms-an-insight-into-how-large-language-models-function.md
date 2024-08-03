@@ -1,7 +1,7 @@
 ---
 title: Decoding LLMs - An Insight Into How Large Language Models Function
-date: 2024-07-23 15:10:10
-updated: 2024-07-24 10:46:35
+date: 2024-08-02T16:15:34.776Z
+updated: 2024-08-03T16:15:34.776Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 ## 2\. Translation Tool
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
@@ -61,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 **Try this GPT** :[K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
@@ -75,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Personal Tutor
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
@@ -87,8 +99,14 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Niche Tools for Work
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
@@ -99,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
  While ChatGPT provides a strong foundation, custom GPTs can take performance to new levels in specific domains. By training GPTs on niche datasets, we can create purpose-built AI assistants that excel at specific needs. The applications are vast, and we've barely scratched the surface of what could be possible.

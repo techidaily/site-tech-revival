@@ -1,7 +1,7 @@
 ---
 title: The Anthropic Guide to Claude 3 Mastery
-date: 2024-07-27 18:36:45
-updated: 2024-07-28 12:20:37
+date: 2024-08-02T16:15:48.657Z
+updated: 2024-08-03T16:15:48.657Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383
 
 ## The Ultimate Guide to Using GPT-4 for Free: Learn the Insider Secrets
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Microsoft Copilot](https://www.makeuseof.com/ways-access-gpt-4-free/#microsoft-copilot)
@@ -31,8 +34,14 @@ But what if you don't want to part with $20 per month?
 
 Well, here are five ways you can use GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Microsoft Copilot](https://www.bing.com/chat?form=NTPCHB)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![microsoft copilot website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/microsoft-copilot-website-screenshot.png)
 
  Microsoft was one of the first companies to work directly with OpenAI, plowing billions of dollars into the company and its AI research.
@@ -45,6 +54,9 @@ Well, here are five ways you can use GPT-4 for free.
 
  If you want to use GPT-4 for free, Microsoft Copilot is absolutely one of the best options. A[ChatGPT Plus subscription is still the overall best option](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) due to its extensive array of features, but if you just have a few questions you want answered, Copilot is the next best option.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. ChatGPT
 
  Wait, ChatGPT offers GPT-4 for free?[OpenAI launched a heap of new features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) at its Spring Update event in May 2024, and one of those was a new GPT-4 version: GPT-4o.
@@ -69,6 +81,9 @@ Well, here are five ways you can use GPT-4 for free.
 
 ## 4\. Merlin
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![merlin ai extension free gpt4 access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/merlin-ai-extension-free-gpt4-access.jpg)
 
  Merlin is a handy Chrome browser extension that provides GPT-4 access for free, albeit limited to a specific number of daily queries.
@@ -83,6 +98,11 @@ Well, here are five ways you can use GPT-4 for free.
 
 ## 5.[Hugging Face](https://huggingface.co/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![using gpt-4 on hugging face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-gpt-4-on-hugging-face.jpg)
 
  Hugging Face is an open-source machine learning and AI development website where thousands of developers collaborate and build tools.
@@ -91,26 +111,42 @@ Well, here are five ways you can use GPT-4 for free.
 
  However, I've included the option here in case you find more joy than I did. The image above shows one Space that processed my request instantly (as its daily API access limit hadn't yet been hit), while another requires you to[enter your ChatGPT API key](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## Formerly Had Free GPT-4 Access: Poe by Quora, Ora, Forefront, Nat.dev
 
  Several other tools once provided free GPT-4 access but have since removed the option or pushed it into a premium or subscription tier. The reason for that is simple enough: it's expensive to integrate GPT-4 access into a site and give that access away for free, especially as many people want to access GPT-4 for free.
 
 ### [Poe](https://poe.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
 
  Poe is a generative AI tool that gives you access to several LLMs and AI chatbots in one place. Unlike most of the major generative AI tools that feature just one option, Poe, developed by Quora, helps you spread your questions around, choosing the best option for the job when required.
 
  Quora CEO[Adam D'Angelo's tweet](https://twitter.com/adamdangelo/status/1635690637990445057?) initially revealed Poe's GPT-4 integration in March 2023, with users able to send one free GPT-4 message per day. The number of free GPT-4 messages rose to three, but it has since removed its free GPT-4 messaging capacity. There is no indication if Poe will restore its free GPT-4 messaging option, but it's worth keeping tabs on, just in case.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Ora](https://ora.ai/dashboard)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ora ai tool home page with llm options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ora-ai-tool-home-page-with-llm-options.jpg)
 
  Ora is a fun and friendly AI tool that allows you to create a "one-click chatbot" for integration elsewhere. Say you wanted to integrate an AI chatbot into your website but don't know how; Ora is the tool you turn to.
 
  Ora has since moved GPT-4 access into its Hobby or Pro Plan, starting from $25 monthly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### [Forefront](https://www.forefront.ai/app/chat/new)
 
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)

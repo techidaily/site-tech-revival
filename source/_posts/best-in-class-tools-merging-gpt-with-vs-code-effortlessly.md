@@ -1,7 +1,7 @@
 ---
 title: "Best-in-Class Tools: Merging GPT with VS Code Effortlessly"
-date: 2024-07-23 12:54:21
-updated: 2024-07-25 11:20:29
+date: 2024-08-02T16:15:42.298Z
+updated: 2024-08-03T16:15:42.298Z
 tags:
   - chatgpt
   - open-ai
@@ -53,12 +53,18 @@ thumbnail: https://thmb.techidaily.com/3092233dd7a3eec690ede8061b1cb9bd708780813
 
  We asked it to list the nutritional composition of 2 servings of noodles and three sausages, and it gave us the answer above.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 3\. Workout Generator
 
  Workout Generator is a product of[Lyfta](https://www.lyfta.app/) , a workout planner and tracker app that helps people, from amateurs to powerlifters, work towards achieving their fitness goals. The plugin takes advantage of the extensive data, including videos, curated by Lyfta to create a custom workout plan based on your body details.
 
  Simply describe your body type, sex, age, and what you want to achieve from your workout. The plugin will create a routine you can start following. The workout plan is brief and comes with links to instructional videos and an image illustration of each form of workout.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot of Workout Generator working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/workout-generator.jpg)
 
 Above is a screenshot of a workout routine provided by the plugin.
@@ -73,12 +79,18 @@ Above is a screenshot of a workout routine provided by the plugin.
 
  We instructed ChatGPT to create a meal plan for a vegetarian family of four. Instacart plugin added the ingredients to the cart and shared a link for instant checkout.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 5\. Horoscopes
 
  If you believe in astrology, Horoscopes is a ChatGPT plugin that can provide guidance and advice on maintaining good physical and mental health based on your zodiac sign. Created by[Inner Self](https://innerself.ai/) , this tool will suggest various activities, dietary choices, mindfulness practices, and other tips to start your day in the right mood.
 
  Simply ask it for your zodiac sign if you are unaware. You can then instruct it to provide a daily, weekly, or monthly horoscope. An example of a prompt would be; I was born on 10th Jan. Can I get my daily horoscope? The plugin will provide a personalized horoscope to start your day well.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Screenshot of Horoscopes at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/horoscopes.jpg)
 
  As illustrated above, we prompted the plugin to give us a daily horoscope. If interested, you can include the plugin with your[astrology apps](https://www.makeuseof.com/best-astrology-apps/) collection to keep up with your horoscopes.
@@ -89,10 +101,16 @@ Above is a screenshot of a workout routine provided by the plugin.
 
  To use it, choose the type of meal you want, breakfast, lunch, or supper. Then specify the number of calories and any particular ingredients you have in mind. The plugin will curate a selection of meals that match your personal preference. It might not have all ingredients, but it can give recommendations.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Testosterone Meals at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/testosterone-meals.jpg)
 
  As shown above, we created a testosterone-boosting diet plan using the plugin.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Water Tracker
 
  Staying healthy partly depends on the amount of water you take every day. Water Tracker can help you keep track of that. It's a product by[Fitbox](https://www.fitbox.chat/) , an online water-tracking platform. This tool can be handy if you suspect you're not drinking enough water or want to stay hydrated.
@@ -103,16 +121,25 @@ Above is a screenshot of a workout routine provided by the plugin.
 
  As shown above, we gave the plugin sample data and asked it to recommend the amount of water we need to reach the daily goal.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Bubble Goods
 
 [Bubble Goods](https://bubblegoods.com/) is a platform dedicated to transforming the food industry from one that depends on mass-produced products laden with sugars and preservatives to one built upon a community of people creating genuine, whole foods. The plugin, therefore, helps you discover these highly vetted, health-focused foods.
 
  It works similar to Instacart. You first identify what you're looking for. Is it vegan or sugar-free meals? Then you can instruct the tool to identify the foods on the main website. The tool will crawl through its database, create a list of foods that meet your preference, and provide links, so you can instantly shop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bubble Goods working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bubble-goods.jpg)
 
  As shown above, We asked the tool to give us some tasty vegan snack recommendations.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Enhance Your Fitness Journey With AI
 
  Whether you plan to lose weight, stay hydrated, or maintain a healthy, mindful lifestyle, these ChatGPT plugins can be instrumental in helping you achieve your goal. You also don't have to follow generally-prescribed diets or workout routines anymore. You can have them customized to fit your preferences and needs. Whichever way you look at it, there's no reasonable excuse for avoiding healthy living with these powerful tools at your disposal.

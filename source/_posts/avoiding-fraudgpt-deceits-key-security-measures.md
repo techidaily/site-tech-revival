@@ -1,7 +1,7 @@
 ---
 title: "Avoiding FraudGPT Deceits: Key Security Measures"
-date: 2024-07-26 19:13:16
-updated: 2024-07-28 10:44:38
+date: 2024-08-02T16:16:36.690Z
+updated: 2024-08-03T16:16:36.690Z
 tags:
   - chatgpt
   - open-ai
@@ -25,12 +25,18 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. chat-gpt-pc.online
 
  Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -47,8 +53,15 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 5\. pay.chatgptftw.com
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
@@ -57,10 +70,16 @@ thumbnail: https://thmb.techidaily.com/95f65ec843e39dc81b80b6ffcbfef45d788958cee
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)

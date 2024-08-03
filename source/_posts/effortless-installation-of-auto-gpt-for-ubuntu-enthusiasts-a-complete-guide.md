@@ -1,7 +1,7 @@
 ---
 title: Effortless Installation of Auto-GPT for Ubuntu Enthusiasts - A Complete Guide
-date: 2024-07-25 14:35:18
-updated: 2024-07-28 10:59:35
+date: 2024-08-02T16:15:37.916Z
+updated: 2024-08-03T16:15:37.916Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Decktopus AI](https://www.decktopus.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of Decktopus AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/decktopus-ai-presentation-generator-screenshot.jpg)
 
  Decktopus is an AI-powered presentation generator that aims to simplify the process of making presentations for any situation, and getting started with it couldn't be easier. All you have to do is type out a description of what you want your presentation to be about. If you’re not sure, Decktopus can often provide some useful suggestions.
@@ -33,6 +39,18 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
@@ -63,8 +81,15 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
  As you might imagine, GPT\_PPT generates PowerPoint files. The results aren’t always the cleanest, and there’s no way to edit them from within the web page. Fortunately, you can always open them in PowerPoint to edit them yourself and tidy them up. If you already know some of[these advanced Microsoft PowerPoint features that everyone must know](https://www.makeuseof.com/advanced-microsoft-powerpoint-features/) , then making a stunning presentation out of them shouldn’t be hard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
@@ -75,6 +100,11 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ## 6.[ChatBA](https://www.chatba.com)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
@@ -85,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/519c0ecb3a4e958d4703170c89bc9f0f4e206bb0a
 
 ## 7.[MagicSlides](https://www.magicslides.app)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.

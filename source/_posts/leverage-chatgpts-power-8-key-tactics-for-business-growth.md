@@ -1,7 +1,7 @@
 ---
 title: "Leverage ChatGPT's Power: 8 Key Tactics for Business Growth"
-date: 2024-07-23 12:32:29
-updated: 2024-07-26 12:54:45
+date: 2024-08-02T16:15:27.669Z
+updated: 2024-08-03T16:15:27.669Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tell ChatGPT Its Function and the Presentation Rules
 
  While this guide is geared towards more experienced ChatGPT users, new users might find this useful when they learn[how to use ChatGPT](https://www.makeuseof.com/how-does-chatgpt-work/) . After you get the hang of the AI, you can begin to create your prompt.
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  Number five is purely for visual presentation reasons. If you don’t add this, your game is going to use the default ChatGPT font and presentation instead of looking like the image below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
  As you can see, this is more compact and easier to look at than the default look.
@@ -61,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -153,6 +162,9 @@ thumbnail: https://thmb.techidaily.com/1fe266fd758c5a75e45b03c65cf75f79c47b7be92
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -167,6 +179,10 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
@@ -273,6 +289,9 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.

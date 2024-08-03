@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Setting Up ChatGPT on Linux with Bavarder"
-date: 2024-07-27 10:26:23
-updated: 2024-07-28 11:29:44
+date: 2024-08-02T16:15:30.250Z
+updated: 2024-08-03T16:15:30.250Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
  With OpenAI's release of the highly anticipated GPT-4 large language model, ChatGPT has become significantly more powerful. But how can you get your hands on GPT-4? How can you use GPT-4 on ChatGPT right now?
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is GPT-4?
 
  GPT-4, short for[Generating Pre-trained Transformer 4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , is the fourth iteration of the GPT family of large language models developed by OpenAI. It is the successor of the GPT-3 model, which powers the viral AI chatbot ChatGPT. GPT-4, like its predecessor, GPT-3, is designed to generate human-like text, complete tasks such as summarization and language translation, and even generate creative writing such as poetry, lyrics for music, and fiction.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 ## How to Access GPT-4 on ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
 
  Image Credit: T. Schneider/[Shutterstock](https://www.shutterstock.com/image-photo/stuttgart-germany-12292022-mobile-phone-website-2245793859)
@@ -45,6 +51,9 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 1. Head over to[ChatGPT](https://chat.openai.com/) .
 2. On the bottom of the left sidebar of the chat interface, locate and click on**Upgrade to Plus** .  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Upgrade to ChatGPT+](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/upgrade-to-chatgpt.jpg)
 3. You'll get a pop-up comparing the free plan and the ChatGPT Plus plan. Tap on the green**Upgrade Plan** button.  
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
@@ -55,10 +64,16 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### 1\. Performance Improvement
 
  GPT-4 significantly improves over GPT-3.5 in areas like commonsense reasoning, mathematics, creativity, and generating code. For instance, GPT-4 performs remarkably well on simulated bar exams, scoring in the top 10% of test takers, a dramatic improvement over GPT-3.5, which scored in the bottom 10%.
@@ -73,6 +88,9 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use GPT-4 for Free
 
  While you can't currently access GPT-4 on the free version of ChatGPT, an alternative route is to use the Bing AI Chat. Yes, Bing AI is powered by OpenAI's GPT-4 model and has been for a while. So, if you've been using AI-powered Bing, you've been using GPT-4 without realizing it. If you're concerned about the difference in the quality of responses between GPT-4 on Bing Chat and GPT-4 on ChatGPT, don't panic.

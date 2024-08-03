@@ -1,7 +1,7 @@
 ---
 title: GPT's Role in Streamlining Writers' Workflow
-date: 2024-07-24 21:14:31
-updated: 2024-07-27 12:54:32
+date: 2024-08-02T16:16:38.775Z
+updated: 2024-08-03T16:16:38.775Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,14 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -60,6 +66,9 @@ You could use:
 
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 ## 4\. Not Providing Context When Necessary
@@ -80,18 +89,32 @@ You could use:
 
  Examples are especially important when generating unique content like jokes, music, or cover letters. For example, in the screenshot below, we asked ChatGPT to generate some sarcasm about musicians once we provided the musician's name. The highlight here is that we didn't provide any examples.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.

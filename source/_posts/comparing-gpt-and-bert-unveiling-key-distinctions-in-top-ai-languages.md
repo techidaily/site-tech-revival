@@ -1,7 +1,7 @@
 ---
 title: "Comparing GPT and BERT: Unveiling Key Distinctions in Top AI Languages"
-date: 2024-07-24 21:57:32
-updated: 2024-07-25 10:46:11
+date: 2024-08-02T16:16:17.171Z
+updated: 2024-08-03T16:16:17.171Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,9 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -55,6 +58,9 @@ As you can see, there are several differences to consider.
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -77,6 +83,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -109,6 +118,9 @@ So, how does Claude compare to ChatGPT?
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -121,6 +133,9 @@ So, how does Claude compare to ChatGPT?
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
@@ -135,12 +150,19 @@ So, how does Claude compare to ChatGPT?
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
 
  ChatGPT's response took us through the equation step-by-step instead of just providing the answer.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
 When given the same problem, Claude gave us the following response:
@@ -149,6 +171,9 @@ When given the same problem, Claude gave us the following response:
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Translation
 
  Lastly, we asked ChatGPT and Claude to translate a paragraph of Japanese into English. The original paragraph reads:

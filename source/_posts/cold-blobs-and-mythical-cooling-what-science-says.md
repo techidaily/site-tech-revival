@@ -1,7 +1,7 @@
 ---
 title: "Cold Blobs and Mythical Cooling: What Science Says"
-date: 2024-07-27 14:51:32
-updated: 2024-07-28 10:35:20
+date: 2024-08-02T16:16:07.163Z
+updated: 2024-08-03T16:16:07.163Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,28 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 2\. Building Your Vocabulary
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
@@ -41,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
@@ -51,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
@@ -61,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/acf475c1e6fd1567e7a4a77c00bb440d7e3dd85bc
 
 ## 5\. Personalized Tests
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
@@ -74,6 +103,9 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -90,6 +122,9 @@ Here's how you can create your own personalized tests:
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
  The problem with language learning apps is that you often feel like you're all on your own. This isn't something you'll run into when you use ChatGPT. Since it's all about conversation and the constant back and forth, you feel like you're discussing your issues with a partner. If you're someone who prefers an interactive experience while learning, GPT-4 is worth checking out.

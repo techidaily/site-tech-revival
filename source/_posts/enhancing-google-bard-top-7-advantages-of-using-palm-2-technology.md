@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Google Bard: Top 7 Advantages of Using PaLM 2 Technology"
-date: 2024-07-22 11:16:45
-updated: 2024-07-24 12:53:26
+date: 2024-08-02T16:15:49.605Z
+updated: 2024-08-03T16:15:49.605Z
 tags:
   - chatgpt
   - open-ai
@@ -55,8 +55,14 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Has the Best General Knowledge?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -87,16 +93,33 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Tells the Best Jokes?
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
@@ -111,6 +134,9 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
 You read it here first, folks.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.

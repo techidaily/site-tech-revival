@@ -1,7 +1,7 @@
 ---
 title: Is GPT-5 on the Horizon? Unveiling Its Expected Release Date
-date: 2024-07-23 10:21:59
-updated: 2024-07-24 11:41:37
+date: 2024-08-02T16:15:43.224Z
+updated: 2024-08-03T16:15:43.224Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 ## 1\. Support for Different Programming Languages
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
@@ -37,22 +40,48 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 ## 3\. Better Logic and Reasoning
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## 4\. Med-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
 
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
 
  According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Sec-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
 
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
@@ -61,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Explore the Latest in Literary Recommendations: 5 Smart Apps Using AI Technology"
-date: 2024-07-26 22:31:14
-updated: 2024-07-29 10:35:16
+date: 2024-08-02T16:16:42.387Z
+updated: 2024-08-03T16:16:42.387Z
 tags:
   - chatgpt
   - open-ai
@@ -35,8 +35,14 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Increased Digital Supply Chain Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
@@ -55,6 +61,9 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
@@ -67,8 +76,28 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 5\. Improved Smart Home and IoT Security
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
@@ -79,8 +108,14 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.

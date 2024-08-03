@@ -1,7 +1,7 @@
 ---
 title: "Alert: Fake GPT Programs Pose Threats to Online Safety"
-date: 2024-07-22 18:37:37
-updated: 2024-07-25 12:59:52
+date: 2024-08-02T16:15:53.739Z
+updated: 2024-08-03T16:15:53.739Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/c6591acb23ce2eaadb3a7b28c6ae2b6f75e1be519
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Can Browse the Web
 
 That's not all, though.
@@ -47,10 +53,16 @@ That's not all, though.
 
  For example, I asked ChatGPT: "Who is the current leader of the F1 World Championship?"
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
 Close
@@ -59,6 +71,9 @@ Close
 
  I then asked if ChatGPT Plus with Web Browsing could provide a list of the current F1 World Championship rankings, which it did without any extra prompting:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
@@ -69,6 +84,9 @@ Close
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen

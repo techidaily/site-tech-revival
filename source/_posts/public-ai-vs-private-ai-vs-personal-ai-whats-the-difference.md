@@ -1,7 +1,7 @@
 ---
 title: "Public AI Vs. Private AI Vs. Personal AI: What's the Difference?"
-date: 2024-07-25 21:32:49
-updated: 2024-07-28 12:46:51
+date: 2024-08-02T16:16:34.612Z
+updated: 2024-08-03T16:16:34.612Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Create and Edit Images
 
  You can pull off a lot of interesting image manipulation tricks with[ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/) . The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
@@ -47,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
  In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Create and Edit Videos
 
  Just like images, ChatGPT's Code Interpreter can also perform manipulation tasks on videos. You can perform simple tasks like extracting metadata from video files or grabbing the frame from a particular timestamp. You can also:
@@ -69,10 +78,16 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 3\. Create and Modify Audio Files
 
  ChatGPT's Code Interpreter also has a[built-in text-to-speech feature](https://www.makeuseof.com/best-chrome-text-to-speech-extensions/) . This means you can write a piece of text and have ChatGPT to convert it to an audio file. Besides that, you can also perform several interesting actions on audio files using the Code Interpreter plugin. You can:
@@ -85,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/ee3331b3501f448fb98f7a4ee3a53ac099c1c123c
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.

@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Top LLM: Bard Vs. ChatGPT Vs. Offline Alpaca"
-date: 2024-07-27 12:46:41
-updated: 2024-07-29 12:45:51
+date: 2024-08-02T16:16:02.344Z
+updated: 2024-08-03T16:16:02.344Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
 ## Which Is the Most Private Large Language Model?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -55,8 +58,14 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Has the Best General Knowledge?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -71,8 +80,15 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -87,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -95,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/571b43b53a53cad9b332dce8854b53a71ff048e66
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)

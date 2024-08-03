@@ -1,7 +1,7 @@
 ---
 title: Unleashing Your Potential with Troubleshootable ChatGPT Issues
-date: 2024-07-23 10:11:11
-updated: 2024-07-24 10:28:21
+date: 2024-08-02T16:15:53.632Z
+updated: 2024-08-03T16:15:53.632Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 * [Apple's ChatGPT Integration](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#apple-39-s-chatgpt-integration)
 * [Private Cloud Compute and Apple's AI Privacy](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#private-cloud-compute-and-apple-39-s-ai-privacy)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Apple unveiled Apple Intelligence, a suite of AI features to help you with tasks like writing emails and creating personalized emojis.
@@ -34,10 +37,22 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 
  However, that all changed at Apple WWDC 24, where it unveiled a suite of AI features called Apple Intelligence. It offers tools to write better emails, create custom emojis, and even generate images based on your descriptions. Its focus on user privacy keeps most processing on-device, with secure cloud backups for complex tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Language-Based Apple Intelligence Capabilities
 
  The first category of AI tech Apple displayed were language-based, adding what amounts to a language model that can process words and help improve your experience, integrated into iOS and macOS.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Writing Tools
 
 ![Text summary in Notes on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-notes-summarize-240610.jpg)
@@ -56,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 
  Because the model can analyze words, it can "read" your emails and notifications and figure out which ones are urgent. The important emails will float to the top of your inbox, and the priority notifications will be at the top of your notification stack. Apple has also extended this feature into Focus, where Reduce Interruptions will only allow notifications that need immediate action.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Smart Reply
 
 ![Smart Reply in Mail on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/smart-reply-in-mail-on-an-iphone.jpg)
@@ -64,12 +83,27 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 
  While replying to emails in Mail, an AI feature called Smart Reply will provide suggestions to answer questions posed in the email. This way, you can be sure you didn't miss anything vital when crafting a response.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI Image Generation Features
 
  Many folks use AI to generate unique images with tools like DALL-E or Copilot. So, as you might expect, Apple is integrating generative AI image creation into Apple Intelligence with some unique takes and tools.
 
 ### Image Playground and Image Wand
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Image Playground on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-image-playground-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -88,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 
 ## AI Comes to the Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Ai-powered Memories in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-memory-movie-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -100,12 +137,30 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 
  Now that AI can separate objects and elements in a photo or video, you can be very specific about what you wish to find in the Photos app. You could type "Mom in a floral-patterned gown," and all the content you have related to that will appear in the results.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Memory Movie
 
  You can also take these specific searches to Memories in Photos, and your device will create a memory with the theme you've described. Apple says it will suggest music that matches this theme and make a movie with a narrative arc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Enhanced AI-Powered Siri
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![AI-enhanced Siri suggesting requests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/ai-enhanced-siri-suggesting-requests.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -124,6 +179,23 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 
  Finally, Apple has partnered with OpenAI to give its users access to ChatGPT. Any request Siri or Writing Tools can't handle, it will prompt you to give it permission to ask ChatGPT for help. While you can access ChatGPT through Apple Intelligence for free (and without an account), you will still need to connect your premium ChatGPT account to enjoy access to paid features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### Compose
 
 ![ChatGPT Compose on macOS Sequoia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-chatgpt-writing-tools-compose-suggestions-240610.jpg)
@@ -134,6 +206,9 @@ thumbnail: https://thmb.techidaily.com/652a0e4e5b4ae58ef714c3a9e5876606dcd3509ed
 
  DALL-E is a paid ChatGPT feature—you will likely be unable to use Compose without linking to a subscribed account. That's one extra[reason to keep a ChatGPT Plus sub](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/) if you were thinking of ditching it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Private Cloud Compute and Apple's AI Privacy
 
  To help ensure that all your AI requests are private, Apple has designed the AI to run locally. However, since AI needs a lot of processing power, iApple Intelligence is restricted to Apple silicon Macs and iPads, the iPhone 15 Pro/Max, and later.

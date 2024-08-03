@@ -1,7 +1,7 @@
 ---
 title: "Determining Dominance in LLM Technology: A Closer Look at Google Bard, Microsoft's ChatGPT and Offline Alpaca."
-date: 2024-07-24 21:38:47
-updated: 2024-07-27 12:51:42
+date: 2024-08-02T16:15:49.517Z
+updated: 2024-08-03T16:15:49.517Z
 tags:
   - chatgpt
   - open-ai
@@ -31,10 +31,17 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  We then tried Google Bard. Bard, just like Bing AI, Bard failed to get the word count right on the first attempt.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ChatGPT vs Bard vs Bing - Breaking Bad- Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-vs-bard-vs-bing-breaking-bad-bard-ai.jpg)
 
  However, on a subsequent attempt, Google Bard got the word count right. ​​​​​
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Bard describes Breaking Bard TV show in ten words](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jpg_20230516_175308_0000.jpg)
 
  We then put ChatGPT to the test. It got very close at the first attempt but failed.
@@ -51,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  We tested all three chatbots to see which of them hallucinates the most. Starting with Google Bard, we asked the chatbot to list some possible challenges we could have if we decided to host an event in Ikeja, a city in Lagos State, Nigeria, on a certain date. To test its ability to avoid hallucinating, we specifically asked it to consider local weather, local events, and traffic data. The result was a horror show—most of the generated information was completely made up.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Incorporating live data on Bard prompts 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/incoperating-live-data-on-bard-prompts-2.jpg)
 
  We used the same prompt on Bing AI, and it tried to avoid hallucinations by being as generic as possible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing AI replies to event planning question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-replies-to-event-planning-question.jpg)
 
  We then tried ChatGPT using the GPT-4 model with web browsing turned on. ChatGPT pulled the right weather information from a web source and then explained it couldn't find any data on traffic and local events.
@@ -67,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  We also asked Google Bard to describe the image, and it couldn't have been any more hilarious.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Bard hallucinates image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-hallucinates-image-description.jpg)
 
  Luckily, when asked ChatGPT to describe the image, it explains that it cannot do so—a simple reply you'd expect any self-respecting AI chatbot to provide, rather than making things up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT refuses to describe image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-refuses-to-describe-image.jpg)
 
 **Winner:** ChatGPT wins.
@@ -81,10 +100,16 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  Bing AI provided**\-1** as the answer, which is correct.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![simple arithmetic Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bing-ai.jpg)
 
  Google's Bard surprisingly failed at basic math and provided**1** as the answer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![simple arithmetic Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bard-ai.jpg)
 
  Like Bing AI, ChatGPT responded with**\-1** and even explained the answer.
@@ -103,6 +128,9 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  ChatGPT was the only chatbot to provide a correct answer:**\-3** . It was also able to format the fractions in the result appropriately.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![rational fractions by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-fractions-by-chatgpt.jpg)
 
  Moral of the story? Maybe don't trust Google Bard and Bing AI with your math homework.
@@ -123,10 +151,18 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  Up next is ChatGPT. Using the same prompt, ChatGPT's response was both creative and complete enough to be engaging. Here's the first part:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Creativity test - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-chatgpt.jpg)
 
 And here's the second part:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Creativity test-2 - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-2-chatgpt.jpg)
 
  Bard AI's response appears to be the poorest of the three. ChatGPT outperforms Bing AI, but the creativity levels of both chatbots are impressive.
@@ -135,10 +171,16 @@ And here's the second part:
 
  We started with Bard AI. Bard isn't exactly the bastion of creativity, but it gave a fair account of itself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bard AI self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-ai-self-description.jpg)
 
  Up next, we tried Bing AI. For some reason, the chatbot bluntly refused to describe itself. It even said it might be a good time to change the topic of the conversation. Strange.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing AI self-description-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-self-description-1.jpg)
 
  We used the same prompt with ChatGPT, and ChatGPT had an interesting description to provide. However, ChatGPT's response seems to be more suitable for an artist.
@@ -169,6 +211,10 @@ And here's the second part:
 
  Although you can trick these generative AI chatbots into producing content that goes against their terms and conditions, it could see your account suspended without warning. You could also produce or create something dangerous without realizing, so please be extremely cautious when jailbreaking these tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: Which AI Chatbot Is the Best?
 
  While all three AI chatbots are powerful, ChatGPT, despite failing the safety test, seems to be the best of the trio. In addition, ChatGPT seems to be generally better in terms of accuracy and creativity. Furthermore, with the addition of web browsing and web-connected plugins, ChatGPT extends its capabilities and lead over its competitors.

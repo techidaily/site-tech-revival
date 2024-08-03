@@ -1,7 +1,7 @@
 ---
 title: "Digital Deception: 9 Concerns with AI Psychiatrists"
-date: 2024-07-23 21:31:26
-updated: 2024-07-26 11:29:11
+date: 2024-08-02T16:16:12.041Z
+updated: 2024-08-03T16:16:12.041Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/a5a6155fc00c2184034c489f78d9dfa451dfb821e
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shownotes
 
 This week, we chat about the following tech news that matters:

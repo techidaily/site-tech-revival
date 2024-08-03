@@ -1,7 +1,7 @@
 ---
 title: Protect Your Chatbots From Unauthorized Inquiry
-date: 2024-07-22 18:50:53
-updated: 2024-07-25 10:53:44
+date: 2024-08-02T16:16:01.970Z
+updated: 2024-08-03T16:16:01.970Z
 tags:
   - chatgpt
   - open-ai
@@ -19,7 +19,10 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
 ## What Is GPT-4 Turbo?
 
-![gpt-4 logo on smartphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-4-logo-on-smartphone-screen.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
 
  Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -29,20 +32,37 @@ thumbnail: https://thmb.techidaily.com/6a3b42ee0f491feaaae6060437bee4c1fe86f210f
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.

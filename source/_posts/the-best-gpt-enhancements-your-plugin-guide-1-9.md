@@ -1,7 +1,7 @@
 ---
 title: The Best GPT Enhancements – Your Plugin Guide (#1-9)
-date: 2024-07-22 13:33:54
-updated: 2024-07-24 11:37:10
+date: 2024-08-02T16:16:11.041Z
+updated: 2024-08-03T16:16:11.041Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ## Four Desired Improvements for the Next Generation AI, GPT-5
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is OpenAI's GPT-5?](https://www.makeuseof.com/gpt-5-features-we-want-to-see/#what-is-openai-39-s-gpt-5)
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ## 1\. More Multimodality
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
@@ -51,7 +57,10 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
 ## 2\. Larger and More Efficient Context Window
 
-![Monitor on a desk with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-analyze-your-local-documents-with-langchain-and-chatgpt-featured-image.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -61,9 +70,15 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. GPT Agents
 
-![ChatGPT accessed on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/muo-chatgpt-mentions-fi.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
@@ -79,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b307
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Less Hallucination
 
  Although OpenAI has come a long way in dealing with hallucinations in its AI models, the true litmus test for GPT-5 will be its ability to address the persistent issue of hallucinations, which has held back the widespread adoption of AI in high-stakes, safety-critical domains like healthcare, aviation, and cybersecurity. These are all areas that would benefit heavily from heavy AI involvement but are currently avoiding any significant adoption.

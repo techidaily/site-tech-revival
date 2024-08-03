@@ -1,7 +1,7 @@
 ---
 title: "The Battle of Brains: Evaluating the Features and Capabilities Between Claude AI and ChatGPT"
-date: 2024-07-25 15:11:30
-updated: 2024-07-26 12:23:20
+date: 2024-08-02T16:16:36.533Z
+updated: 2024-08-03T16:16:36.533Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,16 @@ thumbnail: https://thmb.techidaily.com/23dc4857279699198e48a622a7713386fd30f7f47
 
  However, Claude AI, a chatbot built by AI startup Anthropic, shows qualities of a chatbot that can dethrone ChatGPT. A considerable number of users are already saying Claude is the better option. But is this the case? Let’s take both chatbots for a spin.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude AI: Common-Sense and Logical Reasoning
 
  There's an intriguing contrast when working with AI chatbots. On one hand, they can whiz through complex tasks that humans may labor over for days to solve. On the other hand, they sometimes grapple with elementary problems that require just a bit of common-sense or logical reasoning. So, we tested both ChatGPT and Claude AI to see which AI chatbot was better at common sense and logical reasoning tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
 
  ChatGPT broke up the problem into bits and solved it on the first attempt. Claude AI also had a go at it and solved the problem as well, but with a different approach.
@@ -45,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/23dc4857279699198e48a622a7713386fd30f7f47
 
  Claude AI, on the other hand, gave a more common-sense response by recognizing that the five sliced apples are likely to rot.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Claude AI Common sense reasoning with Apple rotting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-common-sense-reasoning-with-apple-rotting.jpg)
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
@@ -63,10 +73,16 @@ ChatGPT also cracked the problem as well.
 
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
@@ -79,6 +95,9 @@ ChatGPT also cracked the problem as well.
 
  So, we asked both ChatGPT and Claude AI to "write a rhyming rap about growing cucumbers as a farmer and becoming a millionaire from it." ChatGPT went first, and as expected, it produced some exciting lyrics.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
@@ -97,12 +116,19 @@ ChatGPT also cracked the problem as well.
 
  ​​​​​​That said, we put both chatbots on two coding tasks. We asked ChatGPT and Claude AI to write functional code for a to-do list app. Starting with ChatGPT, the AI chatbot was able to deliver a functional to-do list app on the first attempt. We copy-pasted and ran it on a browser, and it worked perfectly without errors. Here's the output on a browser.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -111,6 +137,9 @@ ChatGPT also cracked the problem as well.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Claude AI Is a Potent Competitor on the Block
 
  Claude AI represents a potent competition for ChatGPT--one that can compete with and potentially surpass ChatGPT someday. Given Claude is a relatively new AI model, it is enviable that it can take on ChatGPT the way it currently does. Claude AI's emergence and the quality it offers proof that the competition is heating up.

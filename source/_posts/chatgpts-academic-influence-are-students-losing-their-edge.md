@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT’s Academic Influence: Are Students Losing Their Edge?"
-date: 2024-07-28 22:21:45
-updated: 2024-07-29 10:21:23
+date: 2024-08-02T16:15:53.776Z
+updated: 2024-08-03T16:15:53.776Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 
  PaLM 2 also offers Codey, a specialized AI model for coding and debugging. Codey will be a part of PaLM 2's generation and code completion service, among other functions. Already there are several ways Bard AI is overtaking ChatGPT in the AI chatbots league, like being free to use, connected to the internet, and accessible in over 180 countries.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Multilingual Capabilities
 
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Med-PaLM 2
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
@@ -51,8 +57,14 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 
  According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Sec-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
 
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
@@ -63,14 +75,24 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 
 ## 6\. Third-Party Extension Support
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
 
  PaLM 2 will bring third-party extensions to Bard, connecting Google with third-party brands like Adobe, Spotify, Khan Academy, and Uber Eats. For example, with Adobe integration, Bard can access Firefly, Adobe's image-generating tool. This will help you export images you generate into Adobe Express.
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 7\. Workspace
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
 
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.

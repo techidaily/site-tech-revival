@@ -1,7 +1,7 @@
 ---
 title: Access ChatGPT for Free - Discover Our 5 Key Tips
-date: 2024-07-25 12:43:53
-updated: 2024-07-27 12:13:48
+date: 2024-08-02T16:15:34.541Z
+updated: 2024-08-03T16:15:34.541Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/e1ed595629cf0acf64739097580ce2ff94b530231
 
  Once you have your account details, accessing the chatbot is simple—use Microsoft Edge to navigate to the new[Bing](https://www.bing.com/new) , and the magic of ChatGPT will be at your fingertips.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Bing Mobile App
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
@@ -43,8 +46,14 @@ Close
 
 **Download** : Bing for[iOS](https://apps.apple.com/app/bing-search/id345323231) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024637/https://play.google.com/store/apps/details?id=com.microsoft.bing&pli=1) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 3\. Merlin
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Merlin opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-opening-screen.jpg)
 
  Merlin is a browser extension that'savailable for Google Chrome and Microsoft Edge. Once installed, it integrates into the browser and acts as a virtual assistant. Among the functions it can perform are:
@@ -53,12 +62,18 @@ Close
 * **Adding AI** **replies to Google searches** : Merlin appears as an "alternative" answer to Google queries.
 * **Summarize blog posts or YouTube videos** : Merlin can be used to bullet point blog posts and videos. It can also transcribe entire YouTube videos, although there are already plenty of[YouTube extensions that perform transcribing and other tasks admirably](https://www.makeuseof.com/ai-apps-extensions-for-a-better-youtube-experience/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Merlin Google integration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-google-integration.jpg)
 
  Installing this is simple, although you will need to sign up for a Merlin account. This is slightly more restrictive than standalone chatbots, but it is a good premise and works well.
 
 **Download** : Merlin for[Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec) (Free, in-app purchases available).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Writer
 
 ![Screenshot ChatGPT Writer home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-home.jpg)
@@ -69,6 +84,9 @@ Close
 
  We tested it using Gmail, writing a fictional email requesting more details in support of a job application and asking ChatGPT Writer to respond. The results were impressive, and the tool was easily accessible from the**Gmail** **reply toolbar** .
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot ChatGPT Writer gmail response screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-gmail-response-screen.jpg)
 
  Overall, this was a smooth experience that just edged Merlin in terms of ease of use.
@@ -77,6 +95,10 @@ Close
 
 ## 5\. Forefront.AI
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)
 
 [Forefront.ai](http://chat.forefront.ai) is a multi-use generative AI tool that allows you to use ChatGPT-3.5, ChatGPT-4, Claude Instant 1.2, and Claude 2 from the same web app. You'll have to subscribe to use ChatGPT-4, Claude Instant 1.2, and Claude 2 (all with limited messaging rates), but you can sign-up and use ChatGPT-3.5 for free.
@@ -85,6 +107,9 @@ Close
 
 ![chatgpt wood chuck chuck prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-wood-chuck-chuck-prompt-response.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Using ChatGPT Without an OpenAI Account
 
  There aren't that many ways to use ChatGPT without an account. However, in the five methods we found, there should be one to suit most purposes. While the Bing chatbot was the closest to the "genuine ChatGPT experience," the browser extensions were impressive too.

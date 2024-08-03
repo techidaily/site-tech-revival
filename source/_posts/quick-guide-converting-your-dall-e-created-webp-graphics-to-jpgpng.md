@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Converting Your DALL-E √ Created WebP Graphics to JPG/PNG"
-date: 2024-07-22 13:31:14
-updated: 2024-07-23 12:21:14
+date: 2024-08-02T16:16:44.332Z
+updated: 2024-08-03T16:16:44.332Z
 tags:
   - chatgpt
   - open-ai
@@ -36,14 +36,47 @@ thumbnail: https://thmb.techidaily.com/c563864243d3f7e3fd56bac1818e569ba605d41e0
 2. Select the chat you want to hide from the sidebar and click the**ellipsis (...)** button next to it.
 3. Now, choose**Archive chat** from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
 
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
@@ -55,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/c563864243d3f7e3fd56bac1818e569ba605d41e0
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Hide ChatGPT Chats on Your iPhone
 
  ChatGPT's mobile app also lets you archive chats, but for now, the feature is limited to the iOS version of the app. However,[OpenAI confirmed on X (formerly Twitter)](https://twitter.com/OpenAI/status/1737517702766633063) that the feature will make it to Android soon. Here's how to hide your ChatGPT chats on iOS:
@@ -66,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/c563864243d3f7e3fd56bac1818e569ba605d41e0
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
@@ -83,10 +122,16 @@ Close
 3. Tap on the hidden chat and then select**View** if you want to read it, or**Unarchive** to bring the chat back to the sidebar.
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
 Close

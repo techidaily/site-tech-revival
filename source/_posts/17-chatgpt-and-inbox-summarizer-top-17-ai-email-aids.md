@@ -1,7 +1,7 @@
 ---
 title: "17 ChatGPT & Inbox Summarizer: Top 17 AI Email Aids"
-date: 2024-07-26 20:47:59
-updated: 2024-07-27 12:11:52
+date: 2024-08-02T16:15:50.000Z
+updated: 2024-08-03T16:15:50.000Z
 tags:
   - chatgpt
   - open-ai
@@ -27,14 +27,23 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
  Let’s say you want a summary of Article One, sections one to four. Armed with the URL of the document, you can prompt ChatGPT to summarize these sections.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
@@ -43,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Convert the PDF Into a Text Document
 
  ChatGPT will happily read text, after all, the beating heart of any AI chatbot is a large language model (LLM).[LLMs are huge text databases](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) that AI chatbots reference to supply human-like responses. Although PDFs contain text, they aren’t easy to edit. This makes it awkward if you want to work with this format in ChatGPT. But converting it to a more manageable format is easy.
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 2. If the document does not appear, use the file type dropdown box and select**PDF Files** from the options.  
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
@@ -70,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b568
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
  ChatGPT is a versatile tool that can handle various text-based tasks with ease. However, when it comes to working with PDFs, it can be challenging. Thankfully, there are four easy ways to work around this obstacle.

@@ -1,7 +1,7 @@
 ---
 title: Unpacking AI Limitations and Why It Can't Be a Complete Writer Replacement
-date: 2024-07-24 22:18:30
-updated: 2024-07-27 10:14:23
+date: 2024-08-02T16:16:06.331Z
+updated: 2024-08-03T16:16:06.331Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
@@ -53,20 +56,35 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.

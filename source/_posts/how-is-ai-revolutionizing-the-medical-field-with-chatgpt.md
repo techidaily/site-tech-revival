@@ -1,7 +1,7 @@
 ---
 title: How Is AI Revolutionizing the Medical Field with ChatGPT
-date: 2024-07-22 16:43:50
-updated: 2024-07-24 10:10:45
+date: 2024-08-02T16:16:25.683Z
+updated: 2024-08-03T16:16:25.683Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Access DALL-E 3 With Microsoft Bing
 
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
@@ -36,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Makes DALL-E 3 Special?
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
@@ -64,16 +70,28 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
 
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.
@@ -86,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad3
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
  Head to Bing Chat to try DALL-E 3 for free. Each week, you get free boost credits that make it quick to generate an image. On top of that, you don't need to worry about engineering a prompt any longer, as DALL-E 3 can transform even the most vague request into an interesting AI-generated image.

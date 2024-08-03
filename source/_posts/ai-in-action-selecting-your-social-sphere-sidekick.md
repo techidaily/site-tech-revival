@@ -1,7 +1,7 @@
 ---
 title: "AI in Action: Selecting Your Social Sphere Sidekick"
-date: 2024-07-25 23:39:10
-updated: 2024-07-28 11:36:24
+date: 2024-08-02T16:16:18.342Z
+updated: 2024-08-03T16:16:18.342Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,9 @@ Imagine you are a movie and TV show recommendation expert. A user wants to find 
 
  We used the prompt above and then asked ChatGPT to provide TV shows similar to "The Walking Dead" :
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Similar tv shows recommendation from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/similar-tv-shows-recommendation-from-chatgpt.jpg)
 
 ## 2\. Try a Different Genre
@@ -65,6 +68,9 @@ I would like to request a list of five TV shows that feature a female protagonis
 
 We tried the prompt above and got some very enticing suggestions.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TV shows with a certain storyline-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-shows-with-a-certain-storyline-1.jpg)
 
 ## 4\. Help Remember a Movie You've Forgotten
@@ -77,8 +83,14 @@ Below is an example of a prompt that can help you with such a request:
 
  When we tried the prompt above, we had the exact movie we had in mind, which was the 2000 movie "Romeo Must Die."
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT finds movies from description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-finds-movies-from-description.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## 5\. Use ChatGPT to Discover Lesser-Known or Underrated Movies
 
  There are a lot of hidden gems sitting around in the catalogs of streaming services. A number of them are better than similar titles with better publicity. ChatGPT can help you discover some of these lesser-known movies you may have overlooked.
@@ -87,6 +99,9 @@ Below is an example of a prompt that can help you with such a request:
 
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Research Movies Starring Your Favorite Actors
 
  You just watched an amazing TV show with an unfamiliar lead actor. You enjoyed their performance and want to see more of their movies. Or, maybe you just want to research more movies from popular actors you follow. Whichever is the case, ChatGPT can assist you with that. You can simply use prompts like:
@@ -97,8 +112,14 @@ Below is an example of a prompt that can help you with such a request:
 * Suggest some romantic comedies with Sandra Bullock as the lead actress.
 * Can you suggest some animated movies suitable for children with voice acting by Tom Hanks?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Discover Movies From Short Clips
 
  Remember that frustrating moment when you watched a short movie clip on TikTok or YouTube shorts but had no idea which movie it was? It's like solving a puzzle without all the pieces. You came across an exciting scene from a movie that caught your interest, but the clip didn't provide any hints or title. Don't worry; ChatGPT is here to help.

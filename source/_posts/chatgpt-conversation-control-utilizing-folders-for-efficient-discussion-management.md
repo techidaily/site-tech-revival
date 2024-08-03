@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Conversation Control: Utilizing Folders for Efficient Discussion Management"
-date: 2024-07-22 17:14:42
-updated: 2024-07-25 10:58:26
+date: 2024-08-02T16:15:46.417Z
+updated: 2024-08-03T16:15:46.417Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/daf5ba2a8491ccb029544c33871dfddf8c00a96e7
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -48,12 +51,18 @@ So, how can you use this?
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
  Let's say you wanted to gather some key data and then create an infographic to introduce what you've found. To find the data, you start a chat with the Consensus GPT. Once Consensus gives you the relevant information, you mention Canva in your chat, and click on the Canva GPT option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
@@ -62,6 +71,18 @@ So, how can you use this?
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -72,10 +93,20 @@ So, how can you use this?
 
  To demonstrate this, we asked KAYAK GPT to find us the best spots to stay in Germany, as well as upcoming flights.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 Now, we have hotels, flights, and trails for our trip all in one chat!

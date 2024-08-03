@@ -1,7 +1,7 @@
 ---
 title: Who Guards the Machine Learners? AI Regulation
-date: 2024-07-25 10:57:32
-updated: 2024-07-26 10:30:55
+date: 2024-08-02T16:16:27.722Z
+updated: 2024-08-03T16:16:27.722Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -49,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
 ## 5\. pay.chatgptftw.com
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
@@ -61,8 +70,14 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/58992b2f2ff28cbd7f7142aa92fbd42cf8a8200b4
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
  Malicious actors are using ChatGPT-themed mobile apps and desktop clients to spread malware on computing devices. These apps often pose as free versions of premium ChatGPT and are commonly promoted through social media and email campaigns.

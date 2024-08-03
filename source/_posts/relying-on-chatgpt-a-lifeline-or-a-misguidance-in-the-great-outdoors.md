@@ -1,7 +1,7 @@
 ---
 title: "Relying on ChatGPT: A Lifeline or a Misguidance in the Great Outdoors?"
-date: 2024-07-23 19:21:44
-updated: 2024-07-24 10:28:42
+date: 2024-08-02T16:16:23.468Z
+updated: 2024-08-03T16:16:23.468Z
 tags:
   - chatgpt
   - open-ai
@@ -17,26 +17,41 @@ thumbnail: https://thmb.techidaily.com/a8dc09aa00b57fb659621da31b365534682fa3f06
 
  Snapchat My AI and Bing Chat on Skype are more distinct than users think. Yes, they’re both chatbots on instant messaging apps. But once you explore them, you’ll see that these systems respond differently to tasks and requests.With that in mind, here are eight key differences between Snapchat My AI and Bing Chat on Skype.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Model
 
  Like the free version of ChatGPT, Snapchat My AI runs on GPT-3.5\. It’s a sophisticated language model by OpenAI that composes mostly error-free texts and mimics human-like language. Just don’t expect the same output quality. OpenAI trained ChatGPT on significantly broader datasets than Snapchat did with its AI tool.
 
  Meanwhile, Bing Chat on Skype uses the more advanced GPT-4 language model. It carries the same technology as its web version. You might encounter some limitations, but it still composes accurate outputs that flow smoothly. Expect more detailed answers as it can call upon more data points than GPT-3.5.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Functionality
 
  Bing Chat is a generally more versatile chatbot.[GPT-3.5 and GPT-4 have several differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) , plus My AI’s limited datasets and training impede output quality. As a result, it’s inconsistent and unreliable.
 
  Take essay writing as an example. Bing Chat composes error-free essays that flow naturally and mimics human-like language. It also lists its sources.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Feeding Bing Chat on Skype an Essay Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-skype-essay-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat on Skype Writing an Essay About Bees](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-skype-essay-writing.jpg)
 
 Close
 
  Meanwhile, Snapchat My AI produces varying responses. It even rejects requests it previously performed, indicating vague security restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat Writing an Essay About Bees](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-esay-about-bees.jpg)
 
 ![Asking Snapchat to Write an Essay About Bees](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-request-for-essay.jpg)
@@ -59,6 +74,9 @@ Close
 
 ![Snapchat My AI Suggesting Nearby McDonald's Locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-mcdonald-s-recommenations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat My AI Suggestion Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-gas-stations.jpg)
 
 Close
@@ -79,6 +97,9 @@ Close
 
  The below images demonstrate Bing Chat’s vast database. It understands various news, from celebrity drama to global sporting events.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Bing Chat on Skype About Will Smith Slap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-and-real-world-events.jpg)
 
 ![Bing Chat on Skype Answering Question About the Winter Olympics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-on-olympics-questions.jpg)
@@ -87,8 +108,14 @@ Close
 
  My AI has limited datasets. Since it’s based on ChatGPT, its knowledge cuts off after 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat My AI Answers Questions About Winter Olympics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-olympics-questions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat My AI Can't Answer Question About Real World Events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-and-real-world-events.jpg)
 
 Close
@@ -109,6 +136,9 @@ Close
 
  Snapchat My AI and Skype Bing Chat can both solve mathematical problems. This conversation shows My AI solving a probability question. We found it impressive since[some of the biggest problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) involve its subpar math skills.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Snapchat My AI a Statistics and Probability Question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-snapchat-my-ai-about-math.jpg)
 
 ![Trying to Confuse Snapchat My AI About Math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-and-math.jpg)
@@ -121,6 +151,9 @@ Close
 
 ![Asking Bing Chat on Skype a Question About Statistics and Probability](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-bing-chat-on-skype-about-math.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing Chat on Skype Answering Statistics Question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-answering-math-on-skype.jpg)
 
 ![Trying to Confuse Bing Chat on Skype About Math](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-and-math.jpg)
@@ -129,14 +162,23 @@ Close
 
  And you can’t mislead Bing with fake answers—it sticks to its original responses.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Contextual Memory
 
  My AI and Bing Chat both demonstrate excellent contextual memory. They consider relevant information from previous messages to improve output accuracy. Let’s say you’re a student. If you ask about utilizing AI tools, chatbots will show the applications of AI in the education sector.
 
  To further test their contextual memory, let’s run roleplay requests. My AI commits to the indicated persona. It even compromises logic and correctness so that it stays in character.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking Snapchat My AI to Roleplay as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapcchat-my-ai-roleplay-request.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat My AI Breaking From its Character as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-breaking-character.jpg)
 
 Close
@@ -145,10 +187,16 @@ Close
 
  Bing Chat also maintains its character’s persona throughout conversations.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Bing Chat on Skype to Roleplay as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-roleplay-request.jpg)
 
 ![Asking Bing Chat About AI While Roleplaying Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-bing-chat-on-roleplay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing Chat on Skype Discussing its Token Limit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-token-limit.jpg)
 
 Close
@@ -169,14 +217,23 @@ Close
 
  Bing also can’t talk about its back-end processes. Instead, it answers surface-level queries about learning methods but refuses to disclose its AI language model.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Bing Chat on Skype Can't Talk About Its GPT Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-and-gpt-models.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing AI on Skype Talking About AI Learning Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-on-skype-and-learning-models.jpg)
 
 Close
 
 Likewise, the web version of Bing Chat won’t reveal its language model.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Bing Chat on Web About Its AI Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-web-ms-edge.jpg)
 
  Alternatively, Snapchat My AI has loose guidelines and quickly drew criticisms for its lack of security and privacy.[The Washington Post](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/) even demonstrates how Snapchat’s My AI chatbot supports immoral, dangerous behavior.

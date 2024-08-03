@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Linguistic AI: How GPT and BERT Stack Up Against Each Other"
-date: 2024-07-26 19:37:17
-updated: 2024-07-28 10:59:10
+date: 2024-08-02T16:15:50.795Z
+updated: 2024-08-03T16:15:50.795Z
 tags:
   - chatgpt
   - open-ai
@@ -41,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
  Let’s say you’re interested in ChatGPT. While you can’t train LLMs with other users, you can search for[effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
 
  ChatGPT has less rigid restrictions than other chatbots. For instance, Bing Chat automatically terminates conversations that go against its guidelines, while ChatGPT still responds. You can generate different outputs by rephrasing your prompts.
@@ -53,10 +59,20 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
  After rephrasing the instructions and adding more details, it quickly obliged.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 4.[ChatGPT Prompt Engineers](https://www.facebook.com/groups/706382050894862/)
 
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
@@ -67,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 ## 5.[Midjourney Prompt Tricks](https://www.facebook.com/groups/1192421464638601)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![A Facebook Group for Sharing Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/midjourney-prompts-facebook-group.jpg)
 
  Midjourney ranks among the[most popular text-to-art generators online](https://www.makeuseof.com/ai-text-to-art-generators/) . Its sophisticated AI architecture was trained on much broader datasets, allowing it to generate more realistic elements.
@@ -77,6 +96,14 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
  Try some[AI art prompt tricks](https://www.makeuseof.com/ai-art-prompt-ideas/) to get your creative juices flowing. See how phrasing affects the way your output. You’ll notice specific phrases and keywords that trigger different image elements.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6.[r/PromptDesign](https://www.reddit.com/r/PromptDesign/)
 
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
@@ -87,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 ## 7.[r/OpenAI](https://www.reddit.com/r/OpenAI/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Reddit Community for OpenAI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-reddit-community.jpg)
 
  Most users know OpenAI for ChatGPT and Dall-E, but it actually carries various AI tools. They primarily cater to developers. Professionals use them to integrate LLMs into their systems or build AI-driven applications.
@@ -95,8 +125,14 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
  Most topics can get pretty technical. We suggest filtering the posts based on flair so that you can focus on one aspect of OpenAI at a time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 8.[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
@@ -107,6 +143,9 @@ thumbnail: https://thmb.techidaily.com/9c499903b4fab811676ace6dccfa6523d6366f829
 
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![LinkedIn Group to Share AI Tips for Salespeople and Marketers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/linkedin-ai-group.jpg)
 
  It’s currently the largest AI community on LinkedIn. The group has around a million members worldwide, many of whom post regularly. It gets status updates every few minutes.

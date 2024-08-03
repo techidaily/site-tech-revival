@@ -1,7 +1,7 @@
 ---
 title: "Future of Search: Microsoft Infuses Bing with AI Insights"
-date: 2024-07-23 13:47:59
-updated: 2024-07-24 11:53:20
+date: 2024-08-02T16:16:14.951Z
+updated: 2024-08-03T16:16:14.951Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,18 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
 ## Discover Gaming Delights with ChatGPT - See Our Selection of 6 Great Games
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -28,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/fbf47cff7f90b38c5c4bfba881d1b7d8a9950edbb
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -42,6 +57,18 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -52,6 +79,9 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -66,6 +96,10 @@ Close
 
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -78,6 +112,9 @@ Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?

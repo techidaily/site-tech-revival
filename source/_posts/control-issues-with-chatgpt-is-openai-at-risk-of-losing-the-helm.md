@@ -1,7 +1,7 @@
 ---
 title: Control Issues with ChatGPT – Is OpenAI at Risk of Losing the Helm?
-date: 2024-07-24 12:16:38
-updated: 2024-07-27 10:35:12
+date: 2024-08-02T16:15:32.329Z
+updated: 2024-08-03T16:15:32.329Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,30 @@ thumbnail: https://thmb.techidaily.com/6befd60c173a5cd8b8d9dfcf598dea7f7e1558ad2
 
  To start testing ChatGPT, it was subjected to problems involving PEMDAS, fractions, and decimals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![asking chatgpt to solve 8 divided by 1 plus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-1.jpg)
 
 ![asking chatgpt to solve 5 divided by 6 minus 2 divided by 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
 
 ![asking chatgpt to solve 2.98 minus 4 divided by 13](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-4-1.jpg)
@@ -43,8 +63,14 @@ Close
 
 ![asking chatgpt to solve for the slope intercept and point slope form of y divided by 4 equals 6 plus 2 times x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve for the distance a ball bounces into the air on the seventh bounce given an initial height of ten feet with each successive bounce rising to 75 percent of the previous height](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve the bouncing ball problem as a geometric sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-3.jpg)
 
 ![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
@@ -55,8 +81,14 @@ Close
 
  Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
 
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
@@ -75,10 +107,19 @@ Close
 
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
 
 Close
@@ -95,10 +136,19 @@ Close
 
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
 
 Close

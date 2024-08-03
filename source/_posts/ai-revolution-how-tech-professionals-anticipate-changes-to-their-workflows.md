@@ -1,7 +1,7 @@
 ---
 title: "AI Revolution: How Tech Professionals Anticipate Changes to Their Workflows"
-date: 2024-07-26 15:26:43
-updated: 2024-07-27 12:41:34
+date: 2024-08-02T16:16:20.749Z
+updated: 2024-08-03T16:16:20.749Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 2\. Copy the Text Into a Spreadsheet
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
 
  If you have a programmer’s mind, you can[use the GPT for Sheets and Docs extension](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , or you can copy and paste your content into any spreadsheet program—like Microsoft Excel or Google Sheets. Then open a blank page.
@@ -46,6 +49,10 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 3\. Tidy Up the Content
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
@@ -54,6 +61,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You can add more elements if required, but for most social media posts, you don’t want to overcrowd information.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Label Your Columns
 
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
@@ -80,10 +90,16 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  If you’ve already[made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/) , choose one of those, or if you’re designing from scratch, you could[use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
@@ -94,8 +110,14 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  If you want different designs for the same content, you can create more than one template design here. Select**Add a page** beneath your artboard to add a new design.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## 8\. Bulk Create Your Content
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
 
  Select**Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the**Bulk Create** app.
@@ -108,6 +130,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  Select your Quotes placeholder text, then right-click >**Connect Data** \>**\[QUOTES\]** . This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select**Continue** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
@@ -122,16 +147,29 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Save Your Bulk-Created Designs
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
 
  If you’re happy with how everything looks, it’s time to save your designs. Go to**Share** \>**Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Bulk Create Content With Canva and ChatGPT
 
  Whether you use ChatGPT, another AI chatbot, or manually generate the written content, Canva’s Bulk Create feature is not one to be missed. You can quickly and easily create months’ worth of designs for social media or other uses. Canva’s easy system removes any complications you might find in other software and saves time and energy for mass production.

@@ -1,7 +1,7 @@
 ---
 title: GPT’s Standards of Dependability in Healthcare
-date: 2024-07-26 10:46:53
-updated: 2024-07-27 10:13:38
+date: 2024-08-02T16:16:24.008Z
+updated: 2024-08-03T16:16:24.008Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 ## What Is Auto-GPT?
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Woman working on a laptop with a cup of coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-on-desk.jpg)
 
  Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently. In other words, Auto-GPT can develop its own prompts and answer autonomously to complete an objective.[Auto-GPT differs from ChatGPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) because it doesn't need a human agent to prompt it every step of the way.
@@ -35,33 +38,64 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  Basically, Auto-GPT is like your personal assistant that can automate most of your tasks, and there are already several[practical ways you can put Auto-GPT to use](https://www.makeuseof.com/ways-you-can-use-auto-gpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do You Access Auto-GPT on Your PC?
 
-![A grey laptop and a phone on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-grey-laptop-and-a-phone-on-a-table.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+![A grey laptop and a phone on a table](https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg)
 
  For starters, you can access Auto-GPT using Windows, MacOS, or Linux. You also need an OpenAI API account before you start.
 
 Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
 1. First, download the latest version of Python to your computer. Here is a guide on[how to install Python PIP](https://www.makeuseof.com/tag/install-pip-for-python/) on Windows, Mac, and Linux. If you're using Windows,[add Python to the Windows PATH variable](https://www.makeuseof.com/python-windows-path/) before installation.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 2. Download[Auto-GPT source code](http://github.com/Significant-Gravitas/Auto-GPT) from GitHub.
 3. Extract the ZIP archive and copy the Auto-GPT folder to your preferred location.
 4. Search for the ".env" file in the folder, right-click it, and select**Open with Notepad.**
 5. Visit your OpenAI account, and on the top right of your screen, click**Personal** and select**View** **API keys** . This should take you to the[OpenAI API keys page](https://platform.openai.com/account/api-keys) while you're signed in.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![OpenAI home page showing Personal section with View API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/openai-home-page.jpg)
 6. Copy your secret API keys from Open AI. If you don't have API keys, click on**Create new secret key** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Screenshot showing blurred out OpenAI API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/api-keys.jpg)
 7. Replace the "your-openai-api-key" text in the ".env.template" file with the API keys.  
 ![A notepad showing blurred out OpenAI key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/notepad.jpg)
 8. Create a free account on[pinecone.io](https://www.pinecone.io/) . Once you've signed in to your account, select**API Keys** and click**Create API Key** . However, it's not mandatory you use pinecone.io to install Auto-GPT—if you're put on a waiting list, you can skip to step 12.
 9. After naming and creating the new API key on Pinecone, copy the**Key Value** and paste it to replace "your-pinecone-api-key—this is on the third line under "PINECONE" on the ".env" file you've opened using Notepad.
 10. On the pinecone.io account, copy the details under**Environment** and paste it on the ".env." file next to PINECONE\_ENV—it should replace "your-pinecone-region".  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A screenshot showing blurred Pinecone API key on Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/pinecone.jpg)
 11. Save the ".env" file.
 12. Right-click the Auto-GPT folder and select**Open in Terminal** .  
 ![Open AutoGPT environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/10-open-terminal.jpg)
 13. After you've opened the Terminal, enter "pip install -r requirements.txt" to automatically download and install the necessary libraries for Auto-GPT.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/11-pip-install-requirements.jpg)
 14. Launch Auto-GPT on your computer by executing the following command: "python -m autogpt".  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/weldom.jpg)
@@ -71,6 +105,18 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
  If you want to stop an ongoing task quickly, you can utilize the**Ctrl + C** keyboard shortcut.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Auto-GPT Benchmarking Tool
 
  The Auto-GPT August 2023 update introduced a new benchmarking tool designed to track the performance of the agents deployed.[Auto-GPT Benchmarks](https://github.com/Significant-Gravitas/AutoGPT/tree/master/benchmark) is still in development, but it gives you an idea of how your automated agents are performing in areas like "code, retrieval, memory, and safety."
@@ -90,6 +136,9 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
 Once it's done, you can copy or save the information.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Auto-GPT 3.5 API vs. Auto-GPT 4 API
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
@@ -128,6 +177,9 @@ Once it's done, you can copy or save the information.
 
  Besides that, Auto-GPT's developers acknowledge that Auto-GPT is experimental and may not be ideal for real-world situations.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Auto-GPT Is a Game Changer
 
  Auto-GPT is the closest thing we have to artificial general intelligence, consideringit'ss an AI agent that can perform most tasks autonomously with just a few prompts.It'ss also easy to set up, and you can use it with GPT-3.5 or GPT-4\. However, Auto-GPT has its flaws, and it requires a human to verify the information after autonomously completing the tasks.

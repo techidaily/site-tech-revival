@@ -1,7 +1,7 @@
 ---
 title: The Easy Way To Convert DALL-E 3 Artwork From WebP Files to Compatible JPG or PNG Options
-date: 2024-07-26 21:32:16
-updated: 2024-07-27 12:12:55
+date: 2024-08-02T16:16:41.981Z
+updated: 2024-08-03T16:16:41.981Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
  If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Access DALL-E 3 With Microsoft Bing
 
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
@@ -52,14 +55,23 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
  This is how it would pan out if we were[using the previous version of DALL-E](https://www.makeuseof.com/how-to-use-dall-e-2/) . We gave DALL-E 2 the following prompt: "What would New York City look like in 2100 if plants had taken over?"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
 
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
@@ -68,12 +80,21 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
 
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.

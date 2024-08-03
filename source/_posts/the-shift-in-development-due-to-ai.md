@@ -1,7 +1,7 @@
 ---
 title: The Shift in Development Due to AI
-date: 2024-07-26 15:31:44
-updated: 2024-07-29 11:24:43
+date: 2024-08-02T16:16:06.256Z
+updated: 2024-08-03T16:16:06.256Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
 ## The Shift to Open Source Intelligence: Why ChatGPT Plus Still Outshines the Availability of No-Cost GPT- #
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
@@ -24,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
@@ -34,8 +40,14 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## 1 More Access to GPT-4o
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
@@ -56,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 3 Create Your Own Custom GPT
 
  OpenAI will allow Free users to access the GPT store and use custom GPTs as part of its free package. However, this allowance doesn't extend to the creation of custom GPTs.
@@ -64,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/4d92bee2eba99f34da43a3826fc4e46ce3e4a6c22
 
 ## 4 Generate Images With DALL-E
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.

@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Onboard AI Systems: Mechanisms & Operations Explained"
-date: 2024-07-26 13:30:38
-updated: 2024-07-28 10:50:11
+date: 2024-08-02T16:15:55.009Z
+updated: 2024-08-03T16:15:55.009Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/e7fd1d7d7ef931a3a24a13af3aded4ab35d933198
 
  After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Copyright? Does It Apply to Non-Human Creations?
 
  Before talking about copyright, we must first define it. According to the[US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
@@ -31,10 +34,17 @@ It further defines original works as:
 
  In this incident, British nature photographer David Slater set himself up between 2008 and 2011 to befriend a wild Celebes crested macaques troop. He was able to gain their trust, but they were still too nervous for him to get a close-up image.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
 
  Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
 
  Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File:Macaca%5Fnigra%5Fself-portrait%5Ffull%5Fbody.jpg)
@@ -51,6 +61,9 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -69,8 +82,14 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## The Issues With AI-Generated Work
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)

@@ -1,7 +1,7 @@
 ---
 title: 6 ChatGPT Plugins That Aren't Worth Your Time
-date: 2024-07-23 20:18:48
-updated: 2024-07-25 10:16:34
+date: 2024-08-02T16:16:01.020Z
+updated: 2024-08-03T16:16:01.020Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
@@ -55,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. AI Agents
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
@@ -67,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 
 ## 5\. A Movie Please (FilmFindr)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
@@ -77,12 +91,18 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 
 ## 6\. ABC Website Maker
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
  Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.

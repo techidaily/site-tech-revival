@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: 7 Internet Utilities for Enhancing Prompt Creation"
-date: 2024-07-25 15:45:42
-updated: 2024-07-27 10:48:31
+date: 2024-08-02T16:16:03.324Z
+updated: 2024-08-03T16:16:03.324Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,14 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -60,8 +66,14 @@ You could use:
 
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -72,6 +84,11 @@ You could use:
 
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 ## 5\. Not Using Examples
@@ -80,6 +97,9 @@ You could use:
 
  Examples are especially important when generating unique content like jokes, music, or cover letters. For example, in the screenshot below, we asked ChatGPT to generate some sarcasm about musicians once we provided the musician's name. The highlight here is that we didn't provide any examples.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
@@ -92,6 +112,9 @@ You could use:
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.

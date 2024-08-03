@@ -1,7 +1,7 @@
 ---
 title: "The Creative Catalyst or Counterfeit: Assessing ChatGPT"
-date: 2024-07-21 11:28:41
-updated: 2024-07-24 12:26:38
+date: 2024-08-02T16:16:41.966Z
+updated: 2024-08-03T16:16:41.966Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/2a273f712bdefb0197e2ef416580913d5bec78575
 
  Learn how to create better AI-generated images in DALL-E 3 with this tried-and-tested list of prompts. You can use these prompts in numerous scenarios and play around with your own ideas and variations for optimal results. Let’s walk through the examples I’ve created.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1 A Poster of Your Favorite Place
 
  There are many[websites to find unique art for your home](https://www.makeuseof.com/best-sites-find-unique-art/) , but creating one in DALL-E3 is easier and more personal. One prompt you can try is asking the platform to generate a poster of your favorite place.
@@ -38,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/2a273f712bdefb0197e2ef416580913d5bec78575
 
 And here is the final result:
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 2 Calendar Cover Artwork
 
  You can[make a printable calendar with Canva](https://www.makeuseof.com/tag/make-your-own-calendar-using-canva/) and other apps, but that doesn’t mean you can’t use DALL-E 3 to generate the front cover artwork. Whether you want to gift someone your calendar or use it yourself, try using this prompt.
@@ -52,6 +61,9 @@ I asked DALL-E 3:
 
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 A Birthday Card Cover
 
  Will a loved one be celebrating their special day soon? Consider using AI to generate the image for a birthday card cover. I entered the following prompt:
@@ -60,6 +72,9 @@ I asked DALL-E 3:
 
 This was the result:
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Prototype With Typos Etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-prototype.jpeg)
 
  As you can see, DALL-E 3 gave me a birthday card cover. However, it also added other objects that I didn’t want—such as a background and stencils. There were also spelling inaccuracies.
@@ -74,8 +89,14 @@ Okay, so that didn’t go to plan…
 
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 4 Desktop Wallpapers
 
  You can[create a desktop background using AI](https://www.makeuseof.com/how-to-create-desktop-background-using-ai/) in many ways, including with DALL-E 3\. This prompt is very simple. All I asked was the following:
@@ -84,6 +105,14 @@ Okay, so that didn’t go to plan…
 
  Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
 
 ## 5 Smartphone Wallpapers
@@ -120,6 +149,9 @@ I used the following prompt:
 
  You can customize the above prompt for any landmark or genre that interests you. Below is the result I got with just one prompt. I was happy with this, and it was a much smoother process than some of the other attempts in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
 
 ## 8 Photo Album Covers

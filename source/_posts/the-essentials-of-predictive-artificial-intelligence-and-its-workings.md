@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Predictive Artificial Intelligence & Its Workings
-date: 2024-07-27 22:51:32
-updated: 2024-07-28 11:46:35
+date: 2024-08-02T16:16:00.875Z
+updated: 2024-08-03T16:16:00.875Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
 ## 1\. What's the Best Place to Start?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
 
  Naturally, we started by asking ChatGPT about the best place to start and how it can help. ChatGPT recommends that you set clear goals, learn vocabulary in context, listen to and mimic native speakers, and take notes. All of this is solid advice.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
 ## 2\. Building Your Vocabulary
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
 ## 3\. Practice Conversational Skills
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
@@ -51,6 +60,18 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
@@ -61,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
 ## 5\. Personalized Tests
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
@@ -74,6 +98,9 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -90,6 +117,9 @@ Here's how you can create your own personalized tests:
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
  The problem with language learning apps is that you often feel like you're all on your own. This isn't something you'll run into when you use ChatGPT. Since it's all about conversation and the constant back and forth, you feel like you're discussing your issues with a partner. If you're someone who prefers an interactive experience while learning, GPT-4 is worth checking out.

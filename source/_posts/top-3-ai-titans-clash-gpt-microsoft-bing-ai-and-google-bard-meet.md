@@ -1,7 +1,7 @@
 ---
 title: "Top 3 AI Titans Clash: GPT, Microsoft Bing AI & Google Bard Meet"
-date: 2024-07-25 16:45:46
-updated: 2024-07-27 11:25:33
+date: 2024-08-02T16:15:51.141Z
+updated: 2024-08-03T16:15:51.141Z
 tags:
   - chatgpt
   - open-ai
@@ -27,12 +27,18 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 
  For every query you submit, it will scour the internet for relevant answers. But it doesn't stop there. The search engine will further summarize its findings into more straightforward and articulate responses that you can use immediately. Plus, it'll equally cite sources as references.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## How to Use Bing’s AI-Powered Search Engine
 
  At launch, you needed to join a waitlist in order to try Bing's AI-powered search engine, but it's now available for everyone. Here's how to use it:
 
 1. Head over to[Bing](https://www.bing.com/new?form=MY029I&OCID=MY029I) 's dedicated page.
 2. If you're using a non-Edge browser, you'll need to switch over to Edge.  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Open in Microsoft Edge prompt on a white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-in-microsoft-edge.jpg)
 3. Click on**Sign in** (in the top-right corner) to log in to your Microsoft Account.
 4. Once inside, click on**Chat now** .
@@ -41,20 +47,32 @@ thumbnail: https://thmb.techidaily.com/5a836c04a4d923a2e47e122afc97ffb5e93afa98d
 6. Go to the typing area and enter your question. You have a 2,000-character limit.
 7. When done, click the send arrow and wait for it to populate your answer.
 8. It will also preempt your next question or response by suggesting chat prompts.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New Bing Chat Feedback showing Chat Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-feedback.jpg)
 
  Bing also allows you to switch between just**Chat** and**Search** with chat. To experience the Bing AI-powered search:
 
 1. Go to the top of the page and click on**Search** , next to**Chat** .
 2. Clear the search box of any pre-filled query and enter yours. It'll return a search result box similar to[Google's Featured Snippets](https://www.makeuseof.com/what-are-google-featured-snippets/) .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Bing AI-powered search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-powered-search-results.jpg)
 3. It'll also show you prompts that you can click on to learn more about your subject, including how to contact them (for most people searches).
 4. You can further refine your search by typing a query into the chat box just beneath the main result (if available for your query). To your right, you'll find additional information, for some searches.
 5. If you search for celebrities or popular personalities, it can pull up their Wikipedia entries as well as a chat option to help you learn more about their work, personalities, worldview, and so on. Again, this is subject to availability. To begin, simply click on**Let's chat** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing AI-powered Search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-search-with-ai.jpg)
 
  Chat mode will only be available when you have access to the AI-powered Bing.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Expect from Bing’s AI-Powered Search Engine
 
  With Bing's AI-powered search, you can expect to enjoy a faster and richer search experience than you would get from a regular Google or Bing search. You can also expect to get citations or references as well as conversational chat results.

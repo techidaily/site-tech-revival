@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Most Frequent Challenges in Installing Auto-GPT
-date: 2024-07-25 12:34:33
-updated: 2024-07-27 10:26:38
+date: 2024-08-02T16:16:00.137Z
+updated: 2024-08-03T16:16:00.137Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Is ChatGPT Too Powerful for Its Own Good?
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
@@ -57,20 +60,38 @@ thumbnail: https://thmb.techidaily.com/d5763e8c703a90b60446f4bfe750752cf90d756e0
 
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
 It even wrote a classic Nigerian Prince email scam when asked.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
 
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## What Does the Future Hold for ChatGPT?
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
@@ -81,6 +102,18 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can OpenAI Put ChatGPT Under Control?
 
  For now, OpenAI doesn't seem to have a clear-cut solution to avoid the unethical use of its tool. Ensuring that ChatGPT is used ethically is a game of cat and mouse. While OpenAI uncovers ways people are employing to game the system, its users are also constantly tinkering and probing the system to discover creative new ways to make ChatGPT do what it isn't supposed to do.

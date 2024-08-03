@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT Integration: Seamless Functionality in Google Sheets, Docs & More"
-date: 2024-07-27 22:30:57
-updated: 2024-07-28 10:56:50
+date: 2024-08-02T16:16:31.624Z
+updated: 2024-08-03T16:16:31.624Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/bd9bfd190306deb90b91d858667c2c41b78982227
 
 ![set up voice input in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice inputs in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs2.jpg)
 
 Close
@@ -54,6 +57,9 @@ Close
 
  Interestingly, you can also use VoiceGPT as the default device assistant if you want to quickly access the app itself. To do this, tap**Home > Settings > Set default Assistant** . This automatically opens up the device assistance settings—just choose**VoiceGPT** from the list of options available.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Access a Database of Pre-Defined Prompts With VoiceGPT
 
  One of the most exciting features offered by the app is a comprehensive database of pre-defined and custom prompts to help you make the most of the AI tool.
@@ -66,12 +72,18 @@ Close
 
 ![Game prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fun category prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun2.jpg)
 
 Close
 
  These prompts range across various categories including coding, music, education, games, travel, email writing, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## How to Use Third-Party Integrations With VoiceGPT
 
  VoiceGPT isn't only useful when it comes to voice commands. You can also take advantage of its other non-voice integrations, such as extracting text from images, executing code snippets, and generating images with DALL-E 2\. Let's take a look at these features below.
@@ -84,8 +96,14 @@ Close
 
  For instance, you can use the RunGPT integration to pull up a random password or write out a script. Once done, tap**Run** in the ChatGPT interface to generate your output.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Coding prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt3.jpg)
 
 ![RunGPT integration for code snippets in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt1.jpg)
@@ -100,14 +118,26 @@ Close
 
  Simply describe the kind of image you want with detailed prompts.[DALL-E will then generate a few AI-based images](https://www.makeuseof.com/how-to-use-dall-e-2/) that closely match your description.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Confirmation screen for DALL-E2 in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Dall-e2 interface in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image prompts in Dall- E2 using VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e3.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Extract Text From Images
 
  VoiceGPT also has an OCR feature. To use it, simply go to the bottom menu and tap the**image** icon. Next, capture an image with your smartphone camera or choose one from the gallery (such as a receipt or similar) and the app's built-in photo editor will pop up. You can edit or resize the image to your liking.
@@ -116,6 +146,9 @@ Close
 
 ![Image editor in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OCR results generated in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr3.jpg)
 
 Close

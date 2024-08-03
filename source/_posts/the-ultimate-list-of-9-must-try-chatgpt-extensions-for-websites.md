@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of 9 Must-Try ChatGPT Extensions for Websites
-date: 2024-07-25 10:27:55
-updated: 2024-07-28 11:35:33
+date: 2024-08-02T16:16:11.702Z
+updated: 2024-08-03T16:16:11.702Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and finally completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -29,14 +32,23 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
 
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 3\. InstaCart
 
  The InstaCart ChatGPT plugin helps you express your meal planning needs in natural language and, in turn, get a "shoppable" list of the food items or ingredients that you need to prepare the meal in an instant. The plugin generates an InstaCart shopping list of all the ingredients you'll need to prepare a meal in its right quantity. With a few further clicks, you can get all the ingredients delivered to your doorstep.
@@ -45,16 +57,26 @@ thumbnail: https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e
 
  In the illustration below, we prompted ChatGPT with some ingredients we had. Then, we asked it what meal we could cook with them. After suggesting we cook Jollof rice, ChatGPT listed the additional ingredients we'll need and asked whether to generate an InstaCart shopping list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Wolfram
 
  Although a lot of the ChatGPT plugins offer minimal improvements to[ChatGPT's capabilities](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , Wolfram is a standout option. The Wolfram plugin substantially augments ChatGPT's abilities. It makes ChatGPT significantly smarter by giving it access to real-time data, improved mathematical abilities, and a large dataset of carefully curated, and largely verified data.
@@ -93,6 +115,9 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
  We tried the tool on a first-impression video of[Apple's Vision Pro VR headset](https://www.makeuseof.com/apple-vision-pro-headset-explained/) on YouTube, and here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
 Yes, it was a spot-on description of the video if you're wondering.
@@ -115,6 +140,9 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
  In the example below, we prompted ChatGPT to suggest some AI tools we can use to manipulate pictures into a music video. Some of it turned out to be a revelation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
 ## 9\. What to Watch
@@ -123,6 +151,10 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Embrace ChatGPT Plugins
 
  If you've had an underwhelming experience with ChatGPT plugins, you're not alone. However, you'll find a number of useful ChatGPT plugins that extend the chatbot's abilities if you look closely enough. While the plugin store is not as loaded with high-quality plugins as we'd hoped to see, take advantage of the available ones to make the best of your ChatGPT experience.

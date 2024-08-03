@@ -1,7 +1,7 @@
 ---
 title: Free GPT-4, but Platinum Plan Holds 6 Significant Perks Still Intact.
-date: 2024-07-24 16:58:16
-updated: 2024-07-27 10:24:51
+date: 2024-08-02T16:15:53.671Z
+updated: 2024-08-03T16:15:53.671Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
 ## Free GPT-4, but Platinum Plan Holds 6 Significant Perks Still Intact
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [More Access to GPT-4o](https://vapordna.pxf.io/vnbxna)
@@ -40,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
 ## 1 More Access to GPT-4o
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
@@ -50,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Retain Access to GPT-4 Turbo
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
@@ -66,14 +75,23 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
  You must have a Plus subscription to create custom GPTs. Paying will let you [build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 4 Generate Images With DALL-E
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
  OpenAI's demo of GPT-4o made waves on the internet because of its realistic Voice Mode. Due to how quickly GPT-4o can understand words and context, none of that characteristic delay happens while the AI is "thinking," making for fluid—humanlike—conversation. On top of that, you can essentially video call the AI while in Voice Mode, and it will understand visual cues and objects it sees (thanks to its vision capabilities).

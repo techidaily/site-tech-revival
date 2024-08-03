@@ -1,7 +1,7 @@
 ---
 title: Get Acquainted with the Most Impactful New Features in ChatGPT
-date: 2024-07-23 13:54:24
-updated: 2024-07-26 11:41:12
+date: 2024-08-02T16:15:50.313Z
+updated: 2024-08-03T16:15:50.313Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 
  If you're an iPhone user, you're probably curious about the features OpenAI has baked into its app. Below, we'll discuss everything you can get in the ChatGPT iOS app that puts it a notch above its website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## 1\. Voice Input
 
  Voice input has probably been the most anticipated feature ever since the launch of ChatGPT, and it's finally available in the iOS app through OpenAI's open-source speech recognition system called Whisper. While you can already[use Whisper in Windows to turn voice into speech](https://www.makeuseof.com/dictate-documents-openai-whisper/) , it's a first for iOS devices.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/bb7b22db4f29df84af9ef917f29e85118ed689c60
 
 ![converting to text prompt on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/converting-to-text-prompt-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![voice to text conversation in chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-to-text-conversation-in-chatgpt-ios-app.jpg)
 
 Close
@@ -47,12 +53,21 @@ Close
 
 ![ChatGPT opening page on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-opening-page-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt messages on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-messages-on-ios-app.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Change Your Preferred Language for Speech
 
  If introducing voice input wasn't enough to be a step ahead of everyone else in the AI race, this feature certainly seals the deal. Not only can you now use speech to interact with ChatGPT, but you can do so in more than 35 different languages, with more to come as time passes.
@@ -65,16 +80,28 @@ Close
 2. Select**Main Language** under**Speech** . It will be set to**Auto-Detect** by default.
 3. Now, choose your preferred language.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![haptic feedback toggle on and main language option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggle-on-and-main-language-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![different languages available in chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/different-languages-available-in-chatgpt.jpg)
 
 Close
 
  You can now use ChatGPT in your native language or learn a new one with the app. It can also help you overcome language barriers in a foreign place, promoting overall accessibility and cultural diversity while reaching a larger target audience. A win-win for everyone, isn't it?
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 4\. Haptic Feedback
 
  Haptic feedback is a feature that uses touch to interact with its users. An app or a device uses different vibration patterns and pulses to provide touch-based feedback to the user. This technology has various applications—for example,[haptic feedback makes games more immersive](https://www.makeuseof.com/force-haptic-feedback-games/) .
@@ -85,6 +112,18 @@ Close
 
  The real importance of this accessibility feature is for people with visual and audio impairments that can only rely on sensory input through touch as their source of communication. Haptic feedback will aid them in interacting with the app by giving them tactile prompts. The feature may not be too extensive yet, but it has the potential to improve with time.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Access Chat History Even When Offline
 
  While you can access chat history on OpenAI's website and the app, it is only possible to view it without a Wi-Fi or cellular connection on the app.

@@ -1,7 +1,7 @@
 ---
 title: How Does More Comprehensive AI Governance Impact Future Innovations? Lessons From OpenAI's Chief
-date: 2024-07-22 16:31:46
-updated: 2024-07-24 10:14:23
+date: 2024-08-02T16:15:29.508Z
+updated: 2024-08-03T16:15:29.508Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
 ## Look at the Performance Trend over Time to See if It's Improving or Declining. Also, Analyze How Different Pages Rank for This Query on Your Site
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Language-Based Apple Intelligence Capabilities](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#language-based-apple-intelligence-capabilities)
@@ -34,12 +37,18 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
  However, that all changed at Apple WWDC 24, where it unveiled a suite of AI features called Apple Intelligence. It offers tools to write better emails, create custom emojis, and even generate images based on your descriptions. Its focus on user privacy keeps most processing on-device, with secure cloud backups for complex tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Language-Based Apple Intelligence Capabilities
 
  The first category of AI tech Apple displayed were language-based, adding what amounts to a language model that can process words and help improve your experience, integrated into iOS and macOS.
 
 ### Writing Tools
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Text summary in Notes on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-notes-summarize-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -48,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
  While scrolling through your inbox in the Mail app, for example, Writing Tools can summarize emails and place them in snippets, so you can easily get the gist without opening the email.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Priority Messages and Notifications
 
 ![Priority notifications on an iPhone through AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/priority-notifications-on-an-iphone-through-ai.jpg)
@@ -56,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
  Because the model can analyze words, it can "read" your emails and notifications and figure out which ones are urgent. The important emails will float to the top of your inbox, and the priority notifications will be at the top of your notification stack. Apple has also extended this feature into Focus, where Reduce Interruptions will only allow notifications that need immediate action.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Smart Reply
 
 ![Smart Reply in Mail on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/smart-reply-in-mail-on-an-iphone.jpg)
@@ -64,12 +79,21 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
  While replying to emails in Mail, an AI feature called Smart Reply will provide suggestions to answer questions posed in the email. This way, you can be sure you didn't miss anything vital when crafting a response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## AI Image Generation Features
 
  Many folks use AI to generate unique images with tools like DALL-E or Copilot. So, as you might expect, Apple is integrating generative AI image creation into Apple Intelligence with some unique takes and tools.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Image Playground and Image Wand
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image Playground on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-image-playground-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -86,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
  Have you ever looked through your emoji library and not found the right emoji to express yourself? Well, no longer; Genmojis are unique emojis you can create and share by prompting specific descriptions. You can use them in Tapbacks on Messages, share them as stickers, or use them as regular emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI Comes to the Photos App
 
 ![Ai-powered Memories in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-memory-movie-240610.jpg)
@@ -116,8 +143,14 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
  Apple gave an example of requesting Siri to save a friend's new address after they sent it via text by saying, "Add this address to his contact card" with the chat still open.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple's ChatGPT Integration
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Prompt to use ChatGPT on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/prompt-to-use-chatgpt-on-an-iphone.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -134,6 +167,9 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
  DALL-E is a paid ChatGPT feature—you will likely be unable to use Compose without linking to a subscribed account. That's one extra[reason to keep a ChatGPT Plus sub](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/) if you were thinking of ditching it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Private Cloud Compute and Apple's AI Privacy
 
  To help ensure that all your AI requests are private, Apple has designed the AI to run locally. However, since AI needs a lot of processing power, iApple Intelligence is restricted to Apple silicon Macs and iPads, the iPhone 15 Pro/Max, and later.

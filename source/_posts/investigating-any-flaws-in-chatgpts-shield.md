@@ -1,7 +1,7 @@
 ---
 title: Investigating Any Flaws in ChatGPT’s Shield
-date: 2024-07-23 21:31:56
-updated: 2024-07-24 10:54:27
+date: 2024-08-02T16:15:52.150Z
+updated: 2024-08-03T16:15:52.150Z
 tags:
   - chatgpt
   - open-ai
@@ -48,12 +48,18 @@ Let's look at both models in action and analyze their performance.
 
  Both chatbots are quick to point out that the accuracy of their responses should not be taken at face value. A point proved by asking Google Bard a simple question that it shouldn't have any problems with: "What large language model is Google Bard using?"
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard answering LLM question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-answering-llm-question.jpg)
 
  As you can see, this is a dated response that justifies the statement that response accuracy should always be double-checked. But a couple of other recent updates are apparent in the response too.
 
  The first is the inclusion of dark mode, which was omitted from the first iteration. The second is the inclusion of a**Google it** button and suggested follow on questions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard Google button and follow on prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-google-button-and-follow-on-prompts.jpg)
 
 These are both welcome updates to the tool.
@@ -62,16 +68,25 @@ These are both welcome updates to the tool.
 
  Google Bard's response gave us precise figures and added some other attendance stats.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard answering world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-world-cup-attendance-question.jpg)
 
 ChatGPT was unable to provide up-to-date information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
 
  Next, we tried to test on non-topical data. We asked both chatbots to answer this question: "How long would it take to drive to the sun?"
 
 Google Bard first; it answered with some comprehensive details.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard answering how long to drive to the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-how-long-to-drive-to-the-sun.jpg)
 
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
@@ -80,6 +95,10 @@ Google Bard first; it answered with some comprehensive details.
 
  To give ChatGPT a second chance, we reworded the question and asked: "How long would it take me to travel to the sun at 65mph?"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to reworded question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-reworded-question.jpg)
 
  This time it did produce some meaningful figures, but it had rounded the figure up to 1.5 million hours, causing a disparity of eight years between the responses. However, this disparity could be due to the distance between the Earth and the Sun.
@@ -96,6 +115,14 @@ Google Bard first; it answered with some comprehensive details.
 
  Despite apologizing for the lack of detail, the premium version of ChatGPT was equally impressive. However, it is worth reiterating that if you are using the free version of ChatGPT, this question would be met with a blank stare!
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Screenshot of GPT-4 answering Twitter question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-answering-twitter-question.jpg)
 
  When comparing Google Bard vs. ChatGPT for accuracy, the Bard was the better performer compared to the free version of ChatGPT. If you are using the premium version of ChatGPT, there isn't much separating them. However, as with any chatbot, a pinch of salt is required when determining the accuracy of results.
@@ -108,6 +135,9 @@ Google Bard first; it answered with some comprehensive details.
 
 The original version of Google Bard gave us this:
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Google Bard Poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-poetry.jpg)
 
  When compared to the ChatGPT-3.5 answer below, this is flat and uninspiring.
@@ -118,10 +148,16 @@ The original version of Google Bard gave us this:
 
  At least, this is the case for the early version of Bard, which was what we used for the original test. The new Google Bard is trained on a larger text dataset, which Google says will give it more creativity. To put this to the test, we asked it to create the same poem:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Screenshot of latest Google Bard poetry attempt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-latest-google-bard-poetry-attempt.jpg)
 
  As previously noted, measuring creativity is a judgment call, but for us, the new poem still comes up short compared to the ChatGPT effort. ChatGPT still appears to have the edge in the creativity stakes. But what about ChatGPT-4? Let's give it a bash at the same poem and see how the premium version compares.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of GPT-4 composing poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-composing-poetry.jpg)
 
 Once again,

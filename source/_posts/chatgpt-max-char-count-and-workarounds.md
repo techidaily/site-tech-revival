@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: Max Char Count & Workarounds?"
-date: 2024-07-22 18:23:16
-updated: 2024-07-23 12:42:43
+date: 2024-08-02T16:15:42.330Z
+updated: 2024-08-03T16:15:42.330Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  There are limits to what ChatGPT knows. And its programming forces it to deliver what you ask for, even if the result is wrong. This means ChatGPT makes mistakes, and moreover, there are some common mistakes it makes, especially when it’s summarizing information and you’re not paying attention.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Ignore or Misunderstand Your Prompt
 
  If you give the chatbot lots of data to sort through, even a complex prompt, it’s likely to deviate from your instructions and follow its own interpretation of them.
@@ -39,14 +42,28 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  In the following example, ChatGPT got lots of information about the linguistic function of emojis. The intentionally simple prompt asked the chatbot to summarize everything and explain the links between emojis and cultures.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Misintepreting a Prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-misintepreting-a-prompt.jpg)
 
  The chatbot merged both answers into one paragraph. A follow-up prompt with clearer instructions asked it to dip into its knowledge pool, too.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ChatGPT Breaking Down Information as Instructed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-breaking-down-information-as-instructed.jpg)
 
  This is why you should keep your instructions precise, provide context when necessary, and keep an eye on ChatGPT’s results. If you flag up any mistake immediately, the chatbot can produce something more accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Can Omit Information You Provide
 
  ChatGPT is smart, but it’s not a good idea to bombard it with details about a particular topic without specifying what is or isn’t important.
@@ -63,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  If left to its own devices, there’s no guarantee that ChatGPT will use the details you expect. So, plan and phrase your prompts carefully to ensure the chatbot’s summary is spot on.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Use Wrong or False Alternatives
 
  OpenAI has updated GPT-4o with data available up to October 2023, while GPT-4 Turbo's cut-off is December of the same year. However, the algorithm’s knowledge isn’t infinite or reliable with real-time facts—it doesn’t know everything about the world. Furthermore, it won’t always reveal that it lacks data on a particular subject unless you ask it directly.
@@ -71,10 +91,16 @@ thumbnail: https://thmb.techidaily.com/5f1dd72a960c69600ce9688063aeb5e7a932b178d
 
  The following example involves a translation into English. ChatGPT didn’t understand the Greek name for the Toque d’Or awards, but instead of highlighting the problem, it just offered a literal and wrong translation.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![ChatGPT Getting a Name Wrong While Translating](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-getting-a-name-wrong-while-translating.jpg)
 
  Company names, books, awards, research links, and other elements can disappear or be altered in the chatbot’s summary. To avoid major mistakes, be aware of[ChatGPT’s content creation limits](https://www.makeuseof.com/mistakes-to-avoid-using-chatgpt-content-creation/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## ChatGPT Can Get Facts Wrong
 
  It’s important to learn all you can about[how to avoid mistakes with generative AI tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) . As the example above demonstrates, one of the biggest problems with ChatGPT is that it lacks certain facts or has learned them wrong. This can then affect any text it produces.

@@ -1,7 +1,7 @@
 ---
 title: "Hearing From AI: How OpenAI Gave ChatGPT the Ability to Vocalize Answers"
-date: 2024-07-25 20:17:17
-updated: 2024-07-28 12:15:41
+date: 2024-08-02T16:16:25.041Z
+updated: 2024-08-03T16:16:25.041Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -41,22 +44,38 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
 
 1. Once you can access the GPT Store, click**Explore GPTs** on the left sidebar of the ChatGPT interface to open the store.
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
  Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.

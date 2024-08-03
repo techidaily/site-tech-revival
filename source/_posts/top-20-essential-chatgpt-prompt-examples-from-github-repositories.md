@@ -1,7 +1,7 @@
 ---
 title: Top 20 Essential ChatGPT Prompt Examples From GitHub Repositories
-date: 2024-07-21 21:56:12
-updated: 2024-07-24 12:53:40
+date: 2024-08-02T16:16:39.575Z
+updated: 2024-08-03T16:16:39.575Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,14 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
  A lot of AI story writers are not just for fiction writing.[AI can assist content writers](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) and marketers who want to write website content, blog posts, social media posts, emails, and more. However, in this article, we’ll focus on the features related to fiction and AI script generators.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Rytr
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
 
  If you’re a beginner fiction writer or looking for a new story AI generator on a budget, this one is for you.[Rytr](https://rytr.me/) doesn’t come with many bells and whistles, but it gets the job done.
@@ -47,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 ## 2\. ShortlyAI
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 ## 3\. DeepStory
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
 
  The next on the list,[DeepStory](https://deepstory.ai/) , is a specialized AI script generator. Not only will it help you get unstuck if you’re experiencing writer's block, but it also generates content in precise script form. This can be extremely useful if you are starting out in this field and still struggling with the structure.
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 ## 4\. NovelAI
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
@@ -83,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/6e124469acb1b5afb7b60317614c14cd19495de1f
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
  The main benefit of AI story generators is for people who feel like they’ve lost their creativity. If you feel like you keep coming back to the same ideas, these can definitely help you break out of old habits.

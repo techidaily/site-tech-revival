@@ -1,7 +1,7 @@
 ---
 title: Exploring the Capabilities of OpenAI's Shapley Valuation Explainer (Shap-E)
-date: 2024-07-20 16:18:22
-updated: 2024-07-23 12:42:45
+date: 2024-08-02T16:16:39.907Z
+updated: 2024-08-03T16:16:39.907Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
  So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 1\. Create and Edit Images
 
  You can pull off a lot of interesting image manipulation tricks with[ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/) . The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
@@ -41,12 +45,19 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
 
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
 
  In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
@@ -73,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 3\. Create and Modify Audio Files
 
  ChatGPT's Code Interpreter also has a[built-in text-to-speech feature](https://www.makeuseof.com/best-chrome-text-to-speech-extensions/) . This means you can write a piece of text and have ChatGPT to convert it to an audio file. Besides that, you can also perform several interesting actions on audio files using the Code Interpreter plugin. You can:
@@ -111,12 +125,18 @@ thumbnail: https://thmb.techidaily.com/cc47b698f923f727c15f0c1061cbe2a60849e3112
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## A Powerful Tool at Your Fingertips
 
  While it is important to recognize that the current capabilities of the Code Interpreter plugin is limited in many ways, the plugin still represents one of the most powerful features available in an AI chatbot anywhere on the internet.

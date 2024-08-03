@@ -1,7 +1,7 @@
 ---
 title: "Cross-Language Communication: Unlocking ChatGPT's Multilingual Potential"
-date: 2024-07-24 19:10:32
-updated: 2024-07-27 10:58:17
+date: 2024-08-02T16:15:34.052Z
+updated: 2024-08-03T16:15:34.052Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 
  The app allows you to control ChatGPT via voice commands. Not only can you record your query with voice input, but you can also use it to perform a variety of tasks within the ChatGPT interface, even when you're on the go. Let's take a closer look at how you can set up and use VoiceGPT on your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## What Is VoiceGPT?
 
  VoiceGPT is a multi-functional app that helps you access and control ChatGPT through voice commands. It can perform a wide range of functions, such as text extraction, email writing, or image generation (via DALL-E integration). We'll take a closer look at some of its functionalities in the sections below.
@@ -42,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/e16b75fed413636ad54c914cb03e40ea47ab207cb
 5. Once done, speak your query into the app—whatever you say will appear on the ChatGPT interface integrated with the app.
 6. To set the mic to be automatically reactivated, toggle on**Auto Reactivate Microphone** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![enable hey chat hotword](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs1.jpg)
 
 ![set up voice input in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs3.jpg)
@@ -62,8 +68,14 @@ Close
 2. Next, tap on any one of the categories and simply fill in the details of your prompt by typing it out or using your device's built-in voice typing feature.
 3. Hit**Execute Prompt** to get relevant responses from ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Game prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun1.jpg)
 
 ![Fun category prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun2.jpg)
@@ -84,10 +96,16 @@ Close
 
  For instance, you can use the RunGPT integration to pull up a random password or write out a script. Once done, tap**Run** in the ChatGPT interface to generate your output.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
 ![Coding prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![RunGPT integration for code snippets in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt1.jpg)
 
 Close
@@ -100,10 +118,16 @@ Close
 
  Simply describe the kind of image you want with detailed prompts.[DALL-E will then generate a few AI-based images](https://www.makeuseof.com/how-to-use-dall-e-2/) that closely match your description.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Confirmation screen for DALL-E2 in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e1.jpg)
 
 ![Dall-e2 interface in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image prompts in Dall- E2 using VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e3.jpg)
 
 Close
@@ -112,16 +136,25 @@ Close
 
  VoiceGPT also has an OCR feature. To use it, simply go to the bottom menu and tap the**image** icon. Next, capture an image with your smartphone camera or choose one from the gallery (such as a receipt or similar) and the app's built-in photo editor will pop up. You can edit or resize the image to your liking.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![ocr in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr1.jpg)
 
 ![Image editor in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![OCR results generated in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr3.jpg)
 
 Close
 
  Undoubtedly, this feature can be a powerful time saver for anyone who needs to extract text from various sources, such as business cards, posters, flyers, or receipts. You can also check out[these OCR apps for your smartphone](https://www.makeuseof.com/tag/best-android-ocr-apps-extracting-text-images/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Get More Done With ChatGPT via Voice Commands
 
  VoiceGPT is a handy app that offers voice-controlled access to the popular ChatGPT model. You can automate certain tasks and make tasks a lot simpler by simply speaking out your requests.

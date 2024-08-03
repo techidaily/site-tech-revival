@@ -1,7 +1,7 @@
 ---
 title: Google Debuts Gemini AI - Is It a Worthy Rival to Microsoft's ChatGPT?
-date: 2024-07-24 16:18:22
-updated: 2024-07-27 10:39:28
+date: 2024-08-02T16:15:49.088Z
+updated: 2024-08-03T16:15:49.088Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
 ## Explore the Power of Artificial Creativity with Microsoft's Bing and DALL-E 3 for Free
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Easily access and use DALL-E 3 for free with Microsoft Bing Chat or Bing Image Creator. No subscription fees or sign-up required.
@@ -36,8 +39,14 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Makes DALL-E 3 Special?
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
 
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
@@ -52,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
  This is how it would pan out if we were[using the previous version of DALL-E](https://www.makeuseof.com/how-to-use-dall-e-2/) . We gave DALL-E 2 the following prompt: "What would New York City look like in 2100 if plants had taken over?"
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
@@ -64,16 +76,25 @@ thumbnail: https://thmb.techidaily.com/36b23ef4c54f4e12997c9a2584ed2c68d00394366
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
 
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.

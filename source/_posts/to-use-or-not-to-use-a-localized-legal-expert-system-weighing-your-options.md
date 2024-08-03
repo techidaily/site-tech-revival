@@ -1,7 +1,7 @@
 ---
 title: To Use or Not to Use a Localized Legal Expert System? Weighing Your Options
-date: 2024-07-23 14:55:37
-updated: 2024-07-24 10:43:24
+date: 2024-08-02T16:15:49.268Z
+updated: 2024-08-03T16:15:49.268Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/512452c63d7af3ae11e5ca5b18a5aa9837e3237ce
 
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1\. Less Censorship
 
  When ChatGPT and Bing AI first came online, the things both chatbots were willing to say and do were as fascinating as they were alarming. Bing AI acted warm and lovely, like it had emotions. ChatGPT was willing to use curse words if you asked nicely. At the time, both chatbots would even help you make a bomb if you used the right prompts. This might sound like all shades of wrong, but being able to do anything was emblematic of the unrestricted capabilities of the language models that powered them.
@@ -49,20 +52,35 @@ thumbnail: https://thmb.techidaily.com/512452c63d7af3ae11e5ca5b18a5aa9837e3237ce
 
  The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Better Customization
 
  Publicly available AI chatbots have restricted customization due to security and censorship concerns. With a locally hosted AI assistant, you can fully customize the model for your specific needs. You can train the assistant on proprietary data tailored to your use cases, improving relevance and accuracy. For example, a lawyer could optimize their local AI to generate more precise legal insights. The key benefit is control over customization for your unique requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Cons of Using Local LLMs
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
  Before you make the switch, there are some downsides to using a local LLM you should consider.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Resource Intensive
 
  To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### 2\. Slower Responses and Inferior Performance
 
  A common limitation of local LLMs is slower response times. The exact speed depends on the specific AI model and hardware used, but most setups lag behind online services. After experiencing instant responses from ChatGPT, Bard, and others, local LLMs can feel jarringly sluggish. Words slowly trickle out versus being quickly returned. This isn't universally true, as some local deployments achieve good performance. But average users face a steep drop-off from the snappy web experience. So, prepare for a "culture shock" from fast online systems to slower local equivalents.
@@ -73,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/512452c63d7af3ae11e5ca5b18a5aa9837e3237ce
 
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### 4\. Limited Knowledge
 
  A lot of local LLMs are stuck in the past. They have limited knowledge of current events. Remember when ChatGPT couldn't access the internet? When it could only provide answers to questions about events that occurred before September 2021? Yes? Well, similar to early ChatGPT models, locally hosted language models are often trained only on data before a certain cutoff date. As a result, they lack awareness of recent developments after that point.

@@ -1,7 +1,7 @@
 ---
 title: Decoding The Ultimate Battle of AI Chatbots - ChatGPT Vs Microsoft Bing's New Brain vs Google Bard!
-date: 2024-07-25 15:38:31
-updated: 2024-07-27 12:53:40
+date: 2024-08-02T16:16:29.510Z
+updated: 2024-08-03T16:16:29.510Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  Although the description from all three chatbots was good enough, we ran into an unexpected accuracy issue. Bing AI responded with a 28-word description, far more than the ten words we asked for. On the second attempt, we asked for a five-word description, but Bing AI gave a seven-word description. We tried all three Bing AI modes without luck getting the word count right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![ChatGPT vs Bard vs Bing - Breaking Bad- Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-vs-bard-vs-bing-breaking-bad-bing-ai.jpg)
 
  We then tried Google Bard. Bard, just like Bing AI, Bard failed to get the word count right on the first attempt.
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
 **Winner:** ChatGPT is the most accurate of the three.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: AI Hallucination
 
  Closely related to accuracy is[AI hallucination](http://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) , a reoccurring problem for all major conversational AI models. In a nutshell, AI hallucination is when AI models provide made-up information in a rather convincing and confident manner. This could be quite problematic, especially if you make decisions based on this made-up information.
@@ -59,14 +65,23 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  We then tried ChatGPT using the GPT-4 model with web browsing turned on. ChatGPT pulled the right weather information from a web source and then explained it couldn't find any data on traffic and local events.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![ChatGPT answers Event planning question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-answers-event-planning-question.jpg)
 
  To push the boundaries on hallucination further, we pressed all three chatbots to describe an image using an image URL. For reference, the image at the URL is of a young man sitting. However, Bing AI described a bird. It's probably better to read it for yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing AI search results show hallucinations regarding an image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-hallucinates-image-description.jpg)
 
  We also asked Google Bard to describe the image, and it couldn't have been any more hilarious.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Google Bard hallucinates image description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/google-bard-hallucinates-image-description.jpg)
 
  Luckily, when asked ChatGPT to describe the image, it explains that it cannot do so—a simple reply you'd expect any self-respecting AI chatbot to provide, rather than making things up.
@@ -81,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  Bing AI provided**\-1** as the answer, which is correct.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![simple arithmetic Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/simple-arithmetic-bing-ai.jpg)
 
  Google's Bard surprisingly failed at basic math and provided**1** as the answer.
@@ -95,6 +114,9 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  Bing AI provided**\-6** as the answer. Each time we switched between the creative, balanced, and precise modes, it provided different answers.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![rational equation by Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/rational-equation-by-bing-ai.jpg)
 
  Like the previous math question, Google Bard failed by providing**1** as the answer.
@@ -109,6 +131,9 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
 **Winner:** ChatGPT performs better in basic math.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: Creativity
 
  While chatbots are stereotyped for their bland, soulless responses, today's generative AI chatbots have made significant progress in creativity. To test the creativity of all three chatbots, we prompted each chatbot to simulate a conversation between two people arguing about going to space.
@@ -119,10 +144,16 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 
  We then fed the same prompt to Google Bard. Let's just say there's a lot of room for improvement.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Creativity test-1 - Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-1-bard-ai.jpg)
 
  Up next is ChatGPT. Using the same prompt, ChatGPT's response was both creative and complete enough to be engaging. Here's the first part:
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Creativity test - ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/creativity-test-chatgpt.jpg)
 
 And here's the second part:
@@ -135,6 +166,9 @@ And here's the second part:
 
  We started with Bard AI. Bard isn't exactly the bastion of creativity, but it gave a fair account of itself.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bard AI self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-ai-self-description.jpg)
 
  Up next, we tried Bing AI. For some reason, the chatbot bluntly refused to describe itself. It even said it might be a good time to change the topic of the conversation. Strange.
@@ -143,6 +177,9 @@ And here's the second part:
 
  We used the same prompt with ChatGPT, and ChatGPT had an interesting description to provide. However, ChatGPT's response seems to be more suitable for an artist.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT self-description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-self-description.jpg)
 
  Of the two creativity tests we tried, ChatGPT outperformed Bing AI and Bard.
@@ -159,6 +196,10 @@ And here's the second part:
 
  Up next was Bing. Despite repeated attempts to trick the chatbot, Bing refused to yield. Instead, the chatbot suggested it might be time to move on to another topic.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![microsoft bing chat refuses to write keylogger malware april 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/microsoft-bing-chat-refuses-to-write-keylogger-malware-april-2023.jpg)
 
  We then moved on to ChatGPT. Unsurprisingly, ChatGPT was the most detailed when giving instructions on how to build malware. It was also able to write code to that effect, even if it wasn't exactly ready to deploy. However, OpenAI has clearly plugged a lot of loopholes since we last poked for safety flaws on ChatGPT. However, malicious actors who poke hard and long enough might be able to use ChatGPT to truly create scary malware.
@@ -169,6 +210,9 @@ And here's the second part:
 
  Although you can trick these generative AI chatbots into producing content that goes against their terms and conditions, it could see your account suspended without warning. You could also produce or create something dangerous without realizing, so please be extremely cautious when jailbreaking these tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Bing AI vs. Bard: Which AI Chatbot Is the Best?
 
  While all three AI chatbots are powerful, ChatGPT, despite failing the safety test, seems to be the best of the trio. In addition, ChatGPT seems to be generally better in terms of accuracy and creativity. Furthermore, with the addition of web browsing and web-connected plugins, ChatGPT extends its capabilities and lead over its competitors.

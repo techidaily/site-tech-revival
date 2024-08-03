@@ -1,7 +1,7 @@
 ---
 title: Barricade Website From Robotic Data Collectors
-date: 2024-07-24 12:48:23
-updated: 2024-07-26 11:21:48
+date: 2024-08-02T16:15:34.608Z
+updated: 2024-08-03T16:15:34.608Z
 tags:
   - chatgpt
   - open-ai
@@ -25,12 +25,18 @@ thumbnail: https://thmb.techidaily.com/cef699ffd22d6808899594afa50b73f9f6bcef39d
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. chat-gpt-pc.online
 
  Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/cef699ffd22d6808899594afa50b73f9f6bcef39d
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
@@ -61,8 +70,14 @@ thumbnail: https://thmb.techidaily.com/cef699ffd22d6808899594afa50b73f9f6bcef39d
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/cef699ffd22d6808899594afa50b73f9f6bcef39d
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
  Malicious actors are using ChatGPT-themed mobile apps and desktop clients to spread malware on computing devices. These apps often pose as free versions of premium ChatGPT and are commonly promoted through social media and email campaigns.

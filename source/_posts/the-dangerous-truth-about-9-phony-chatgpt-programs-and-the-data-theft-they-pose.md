@@ -1,7 +1,7 @@
 ---
 title: The Dangerous Truth About 9 Phony ChatGPT Programs and the Data Theft They Pose
-date: 2024-07-21 23:24:15
-updated: 2024-07-24 12:29:31
+date: 2024-08-02T16:15:56.577Z
+updated: 2024-08-03T16:15:56.577Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 
 ## Is a Neighborhood Lawyer Right for You? Examining the Pros and Cons
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Less censorship: Local LLMs offer the freedom to discuss thought-provoking topics without the restrictions imposed on public chatbots, allowing for more open conversations.
@@ -45,14 +49,25 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Cost Savings
 
  The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 5\. Better Customization
 
  Publicly available AI chatbots have restricted customization due to security and censorship concerns. With a locally hosted AI assistant, you can fully customize the model for your specific needs. You can train the assistant on proprietary data tailored to your use cases, improving relevance and accuracy. For example, a lawyer could optimize their local AI to generate more precise legal insights. The key benefit is control over customization for your unique requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## The Cons of Using Local LLMs
 
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
@@ -63,12 +78,18 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 
  To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### 2\. Slower Responses and Inferior Performance
 
  A common limitation of local LLMs is slower response times. The exact speed depends on the specific AI model and hardware used, but most setups lag behind online services. After experiencing instant responses from ChatGPT, Bard, and others, local LLMs can feel jarringly sluggish. Words slowly trickle out versus being quickly returned. This isn't universally true, as some local deployments achieve good performance. But average users face a steep drop-off from the snappy web experience. So, prepare for a "culture shock" from fast online systems to slower local equivalents.
 
  In short, unless you're rocking an absolute top-of-the-line setup (we're talking AMD Ryzen 5800X3D with an Nvidia RTX 4090 and enough RAM to sink a ship), the overall performance of your local LLM won't compare to the online generative AI chatbots you're used to.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Complex Setup
 
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
@@ -79,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 
  Additionally, local LLMs can't access live internet data. This restricts usefulness for real-time queries like stock prices or weather. To enjoy a semblance of real-time data, local LLMs will typically require an additional layer of integration with internet-connected services. Internet access is one of the reasons you might[consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) !
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## Should You Use a Local LLM?
 
  Local large language models provide tempting benefits but also have real downsides to consider before taking the plunge. Less censorship, better privacy, offline access, cost savings, and customization make a compelling case for setting up your LLM locally. However, these benefits come at a price.

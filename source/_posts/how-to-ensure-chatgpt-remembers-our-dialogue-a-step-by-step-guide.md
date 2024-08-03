@@ -1,7 +1,7 @@
 ---
 title: "How To Ensure ChatGPT Remembers Our Dialogue: A Step-by-Step Guide"
-date: 2024-07-25 20:51:34
-updated: 2024-07-28 11:19:29
+date: 2024-08-02T16:16:14.426Z
+updated: 2024-08-03T16:16:14.426Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ## From Premium to Free: How GPT-4 Opens New Avenues & The Persistent Appeal of ChatGPT Plus
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
@@ -24,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
@@ -36,6 +42,18 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ## 1 More Access to GPT-4o
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
@@ -50,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
@@ -70,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
  OpenAI's demo of GPT-4o made waves on the internet because of its realistic Voice Mode. Due to how quickly GPT-4o can understand words and context, none of that characteristic delay happens while the AI is "thinking," making for fluid—humanlike—conversation. On top of that, you can essentially video call the AI while in Voice Mode, and it will understand visual cues and objects it sees (thanks to its vision capabilities).
@@ -80,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)

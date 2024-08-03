@@ -1,7 +1,7 @@
 ---
 title: "AI Showdown: Evaluating ChatGPT Against HuggingChat for Optimal Performance"
-date: 2024-07-25 16:35:46
-updated: 2024-07-28 12:23:39
+date: 2024-08-02T16:15:55.487Z
+updated: 2024-08-03T16:15:55.487Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and finally completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -27,16 +31,28 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
  In the example below, we asked ChatGPT to "write a funny story about the history of car seatbelts." The plugin immediately kicks in and replaces the prompt with a more descriptive prompt that produces a better response.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
 
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. InstaCart
 
  The InstaCart ChatGPT plugin helps you express your meal planning needs in natural language and, in turn, get a "shoppable" list of the food items or ingredients that you need to prepare the meal in an instant. The plugin generates an InstaCart shopping list of all the ingredients you'll need to prepare a meal in its right quantity. With a few further clicks, you can get all the ingredients delivered to your doorstep.
@@ -49,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/bcbc51157c352644194c600920e499191baf99c44
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
@@ -93,10 +112,16 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
  We tried the tool on a first-impression video of[Apple's Vision Pro VR headset](https://www.makeuseof.com/apple-vision-pro-headset-explained/) on YouTube, and here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
 Yes, it was a spot-on description of the video if you're wondering.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. SceneXplain
 
  SceneXplain is a hidden gem we found tucked away in the ChatGPT plugin store. What does it do? It takes an image URL as input and returns a detailed description of the image. It is quite impressive in describing complex scenes with multiple people and objects. When we tried it, its descriptions of 12 of the 14 images we tried were spot on, although it can be a bit overly artistic or dramatic in its choice of words. On its own, SceneXplain might not have a lot of use cases. But when combined with other tools, it comes quite handy.
@@ -115,8 +140,14 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
  In the example below, we prompted ChatGPT to suggest some AI tools we can use to manipulate pictures into a music video. Some of it turned out to be a revelation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. What to Watch
 
  If you are a fan of movies and TV shows, then the "What to Watch" plugin is one worth installing. Describe the kind of movies or TV shows you want, and it will bring up plausible suggestions. Unfortunately, one major setback is that it isn't hooked up to an updated movie database. When we prompted it for new movies, it failed to turn up any movie released after 2021.

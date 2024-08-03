@@ -1,7 +1,7 @@
 ---
 title: "Top 9 ChatGPT Add-Ons: Enhance Your Website Immediately"
-date: 2024-07-24 11:40:51
-updated: 2024-07-25 10:54:58
+date: 2024-08-02T16:15:54.813Z
+updated: 2024-08-03T16:15:54.813Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 3. Select**Download the macOS** app and choose**Download** when the prompt appears
 4. Run the dmg file from Finder and install ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT website with the profile menu open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-11-01-12-am.png)
 
  Of course, after installation, you should log in with your Plus or Team account to access the desktop app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## You Get Voice Mode and the Launcher
 
  The desktop app offers a few extra features over the website, but the strongest and most obvious two are Voice Mode and the launcher.
@@ -63,20 +69,43 @@ thumbnail: https://thmb.techidaily.com/4ea85f8fd0d9ab2c6c04d80e6aa73ebac967f8aac
 
  The launcher, however, is a unique-to-macOS feature that lets you use a shortcut (**Option** +**Space** ) to open a small prompt box. Enter your queries, and you can reach ChatGPT anywhere on your Mac. I've grown quite fond of it, and that's the sole reason I now use the desktop app instead of the website.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## The ChatGPT App Can Also Access Your Apple Photo Library, Take Screenshots, and Use the Webcam
 
  After the big two features, Voice Mode and the launcher, a few useful features still earmark the Mac app from the website. OpenAI took advantage of the direct permissions an app can have on macOS and has expanded the options for uploading media.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![ChatGPT desktop app sorting through the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-5-21-58-pm.png)
 
  Apple users know the dichotomy of having photos in the Photo Library (which syncs through the Photos app on all your devices) and having an image stored in Files (iOS) or Finder (macOS). On the website, you're limited to uploading files and images from the latter, but the ChatGPT app can access your photo library directly, letting you filter through them better.
 
  You can also give the app permission to take screenshots and automatically upload them to the chat. This feature is very useful for quick analysis of text on your screen. Finally, it can also use your webcam with permission, which could be useful for quick photos of documents.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Attachment menu in the ChatGPT desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-5-17-43-pm.png)
 
  All these media features are in the attachment menu on the left side of the input box, both on the launcher and in the app. Just click the**paperclip icon,** and all media options appear in the small menu. Of course, you'll need to give ChatGPT permissions the first time you use them.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is It Worth Using the ChatGPT Desktop Version?
 
  Apart from the launcher, the desktop version of ChatGPT is similar to the ones on Android and iOS. Taking photos and handling media (on a small scale) is also much easier on a phone than on a computer. However, some of these features were unavailable on desktop, and this app has remedied that.

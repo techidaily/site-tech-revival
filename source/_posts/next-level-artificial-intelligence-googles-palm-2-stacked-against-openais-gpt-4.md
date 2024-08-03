@@ -1,7 +1,7 @@
 ---
 title: "Next Level Artificial Intelligence: Google's PaLM 2 Stacked Against OpenAI's GPT-4"
-date: 2024-07-23 11:41:33
-updated: 2024-07-26 10:28:37
+date: 2024-08-02T16:15:34.956Z
+updated: 2024-08-03T16:15:34.956Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
 ## 1.[Solve the Murders](https://solvethemurders.com/) (Web): Chat With AI Suspects to Solve a Murder Mystery
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -31,8 +34,14 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -43,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
@@ -67,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Create Your Own ChatGPT Murder Mystery
 
  Yes, you can create a murder mystery game with ChatGPT by yourself. These murder mystery apps relieve you of the burden of giving the AI base information and data and then figuring out the best prompts to have it generate a mystery. But if you're willing to learn those skills, you can soon set up a few templates of your own and construct a custom ChatGPT mystery.

@@ -1,7 +1,7 @@
 ---
 title: "Competing Titans: ChatGPT Versus Claude's Capabilities"
-date: 2024-07-23 15:21:47
-updated: 2024-07-26 10:39:31
+date: 2024-08-02T16:16:07.714Z
+updated: 2024-08-03T16:16:07.714Z
 tags:
   - chatgpt
   - open-ai
@@ -59,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Executing Basic Commands
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
 
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
@@ -71,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
 ### Answering Your Questions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
 
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
@@ -81,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## How to Use Both Siri and ChatGPT for the Best Results
 
  While they're both great in their own ways, there's a way you can get the best of both worlds! Here's a[detailed guide of how you can use ChatGPT with Siri](https://www.makeuseof.com/how-to-use-chatgpt-with-siri-on-iphone/) , but we'll do a quick overview for you here:
@@ -95,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/be8413a30f19599698e9b5b7f7e17b9eb5081fbfd
 
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
 Close
@@ -106,16 +122,33 @@ Now:
 3. Paste your copied API key in the**Text** box and tap**Next** twice.
 4. Now, tap**Add Shortcut** at the end, and it will appear on the Shortcuts page of your app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
  Siri and ChatGPT differ in their functions, their purpose, the way they work, and how they respond. Siri is a holy grail for all Apple users as it executes all your commands and performs essential tasks.

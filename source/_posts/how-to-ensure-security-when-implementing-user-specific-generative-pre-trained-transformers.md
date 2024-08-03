@@ -1,7 +1,7 @@
 ---
 title: How to Ensure Security When Implementing User-Specific Generative Pre-Trained Transformers
-date: 2024-07-24 15:42:59
-updated: 2024-07-26 10:40:42
+date: 2024-08-02T16:16:39.395Z
+updated: 2024-08-03T16:16:39.395Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,18 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 * [Apple's ChatGPT Integration](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#apple-39-s-chatgpt-integration)
 * [Private Cloud Compute and Apple's AI Privacy](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#private-cloud-compute-and-apple-39-s-ai-privacy)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Apple unveiled Apple Intelligence, a suite of AI features to help you with tasks like writing emails and creating personalized emojis.
@@ -40,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 ### Writing Tools
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Text summary in Notes on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-notes-summarize-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -48,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
  While scrolling through your inbox in the Mail app, for example, Writing Tools can summarize emails and place them in snippets, so you can easily get the gist without opening the email.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### Priority Messages and Notifications
 
 ![Priority notifications on an iPhone through AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/priority-notifications-on-an-iphone-through-ai.jpg)
@@ -58,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 ### Smart Reply
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Smart Reply in Mail on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/smart-reply-in-mail-on-an-iphone.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -70,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 ### Image Playground and Image Wand
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Image Playground on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-image-playground-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -88,6 +112,23 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 ## AI Comes to the Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Ai-powered Memories in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-memory-movie-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -96,16 +137,25 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
  The AI integrations don't stop there: Apple is also bringing AI integrations to your image library in the Photos app.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Specific Photo Searches
 
  Now that AI can separate objects and elements in a photo or video, you can be very specific about what you wish to find in the Photos app. You could type "Mom in a floral-patterned gown," and all the content you have related to that will appear in the results.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Memory Movie
 
  You can also take these specific searches to Memories in Photos, and your device will create a memory with the theme you've described. Apple says it will suggest music that matches this theme and make a movie with a narrative arc.
 
 ## Enhanced AI-Powered Siri
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![AI-enhanced Siri suggesting requests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/ai-enhanced-siri-suggesting-requests.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -116,8 +166,14 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
  Apple gave an example of requesting Siri to save a friend's new address after they sent it via text by saying, "Add this address to his contact card" with the chat still open.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apple's ChatGPT Integration
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prompt to use ChatGPT on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/prompt-to-use-chatgpt-on-an-iphone.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -126,6 +182,9 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 
 ### Compose
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Compose on macOS Sequoia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-chatgpt-writing-tools-compose-suggestions-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)

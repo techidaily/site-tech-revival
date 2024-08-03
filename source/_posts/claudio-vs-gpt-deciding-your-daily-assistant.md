@@ -1,7 +1,7 @@
 ---
 title: "Claudio Vs. GPT: Deciding Your Daily Assistant"
-date: 2024-07-25 17:21:13
-updated: 2024-07-26 10:50:14
+date: 2024-08-02T16:16:08.373Z
+updated: 2024-08-03T16:16:08.373Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,17 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ## Protect Your Chat Privacy: Save and Hide GPT Talks Easily
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
 * [How to Hide ChatGPT Chats on Your iPhone](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-your-iphone)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI's ChatGPT allows users to hide their chats easily from the sidebar.
@@ -36,6 +42,11 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 2. Select the chat you want to hide from the sidebar and click the**ellipsis (...)** button next to it.
 3. Now, choose**Archive chat** from the context menu.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
@@ -44,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
 
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
@@ -51,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 3. When the settings menu pops up, click**Manage** next to**Archived chats** .
 4. To view a hidden chat, simply click on the name of the chat. However, to unhide it, click the**Unarchive conversation** button (next to the**Trash** icon).
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
@@ -66,8 +83,14 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
 Close

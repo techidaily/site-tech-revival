@@ -1,7 +1,7 @@
 ---
 title: Transform Mundane HR Duties Into Breezy Processes with These 5 ChatGPT Tricks
-date: 2024-07-27 22:23:14
-updated: 2024-07-28 11:22:52
+date: 2024-08-02T16:16:37.822Z
+updated: 2024-08-03T16:16:37.822Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 ## 1\. Bing Chat
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bing Chat Home Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-home-page.jpg)
 
  Bing Chat is probably the easiest way for most people to use ChatGPT without an OpenAI account. The Microsoft chatbot is based on the GPT-4 version of the platform. Additionally, it can also incorporate "live results" from current data sources into its results.
@@ -31,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/6889b29c9a1ca37c06d96850359e16ed975462ec1
 
 ## 2\. Bing Mobile App
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
 Close
@@ -43,6 +52,9 @@ Close
 
 **Download** : Bing for[iOS](https://apps.apple.com/app/bing-search/id345323231) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2024637/https://play.google.com/store/apps/details?id=com.microsoft.bing&pli=1) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Merlin
 
 ![Screenshot of Merlin opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-opening-screen.jpg)
@@ -53,14 +65,23 @@ Close
 * **Adding AI** **replies to Google searches** : Merlin appears as an "alternative" answer to Google queries.
 * **Summarize blog posts or YouTube videos** : Merlin can be used to bullet point blog posts and videos. It can also transcribe entire YouTube videos, although there are already plenty of[YouTube extensions that perform transcribing and other tasks admirably](https://www.makeuseof.com/ai-apps-extensions-for-a-better-youtube-experience/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Merlin Google integration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-merlin-google-integration.jpg)
 
  Installing this is simple, although you will need to sign up for a Merlin account. This is slightly more restrictive than standalone chatbots, but it is a good premise and works well.
 
 **Download** : Merlin for[Google Chrome/Microsoft Edge](https://chrome.google.com/webstore/detail/merlin-chatgpt-assistant/camppjleccjaphfdbohjdohecfnoikec) (Free, in-app purchases available).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Writer
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot ChatGPT Writer home](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-home.jpg)
 
  This is very similar to the Merlin Chat extension. It works by embedding itself within your chosen browser (Chrome or Edge) and from here it can be called up to perform a variety of tasks.
@@ -69,6 +90,9 @@ Close
 
  We tested it using Gmail, writing a fictional email requesting more details in support of a job application and asking ChatGPT Writer to respond. The results were impressive, and the tool was easily accessible from the**Gmail** **reply toolbar** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot ChatGPT Writer gmail response screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-chatgpt-writer-gmail-response-screen.jpg)
 
  Overall, this was a smooth experience that just edged Merlin in terms of ease of use.

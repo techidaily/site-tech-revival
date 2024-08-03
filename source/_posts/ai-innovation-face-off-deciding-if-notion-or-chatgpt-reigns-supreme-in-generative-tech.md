@@ -1,7 +1,7 @@
 ---
 title: "AI Innovation Face-Off: Deciding if Notion or ChatGPT Reigns Supreme in Generative Tech"
-date: 2024-07-25 10:50:27
-updated: 2024-07-28 10:11:56
+date: 2024-08-02T16:16:46.911Z
+updated: 2024-08-03T16:16:46.911Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,18 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
 
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -43,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -53,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/42db527a5e8afa7e682e92b7b056d02f1f5ec85f1
 
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.

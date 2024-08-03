@@ -1,7 +1,7 @@
 ---
 title: AI Text Authenticity Check with GPTZero - How It Works and Why You Need It
-date: 2024-07-24 10:29:19
-updated: 2024-07-25 11:35:28
+date: 2024-08-02T16:16:02.218Z
+updated: 2024-08-03T16:16:02.218Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ## What Is Perplexity AI, and What Can You Do With It?
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
@@ -35,12 +38,24 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## How to Use Perplexity AI Instead of Google Search
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 Close
@@ -57,6 +72,9 @@ Close
 
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.

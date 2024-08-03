@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right Assistant: Snapchat's My AI Vs. ChatGPT"
-date: 2024-07-25 20:25:37
-updated: 2024-07-27 10:34:28
+date: 2024-08-02T16:15:43.013Z
+updated: 2024-08-03T16:15:43.013Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/bf6ce710c3b83bd0300511eb0a114987cd6a64427
 
 ## What Is the Turing Test?
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
 
  Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
@@ -40,6 +43,9 @@ Here is the standard interpretation of the Turing Test:
 
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -50,12 +56,23 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -82,6 +99,9 @@ Here is the standard interpretation of the Turing Test:
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.

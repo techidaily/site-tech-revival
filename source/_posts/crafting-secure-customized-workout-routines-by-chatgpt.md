@@ -1,7 +1,7 @@
 ---
 title: Crafting Secure, Customized Workout Routines by ChatGPT
-date: 2024-07-23 18:54:44
-updated: 2024-07-26 12:43:35
+date: 2024-08-02T16:15:38.961Z
+updated: 2024-08-03T16:15:38.961Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/a5e56b77e4674926b57f0f9161817ac7d31c24b7d
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -60,6 +63,9 @@ You could use:
 
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 ## 4\. Not Providing Context When Necessary
@@ -80,14 +86,23 @@ You could use:
 
  Examples are especially important when generating unique content like jokes, music, or cover letters. For example, in the screenshot below, we asked ChatGPT to generate some sarcasm about musicians once we provided the musician's name. The highlight here is that we didn't provide any examples.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
@@ -96,6 +111,9 @@ You could use:
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
@@ -108,6 +126,9 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Is Garbage In, Garbage Out
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.

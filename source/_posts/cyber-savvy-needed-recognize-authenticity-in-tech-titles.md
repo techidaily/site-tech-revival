@@ -1,7 +1,7 @@
 ---
 title: "Cyber Savvy Needed: Recognize Authenticity in Tech Titles"
-date: 2024-07-21 14:56:32
-updated: 2024-07-24 12:59:42
+date: 2024-08-02T16:15:59.313Z
+updated: 2024-08-03T16:15:59.313Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ## 1\. Increased AI-Powered Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
@@ -35,6 +38,10 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
@@ -55,6 +62,9 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
@@ -79,8 +89,14 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
@@ -89,6 +105,10 @@ It was also stated in the same report that:
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
@@ -99,6 +119,9 @@ It was also stated in the same report that:
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Each Year Brings New Cybersecurity Threats
 
  As 2023 comes to its conclusion, it's important to keep 2024's top security trends and predictions in mind. Remaining security-literate helps you fend off threats and better prepare yourself for malicious campaigns. No one knows for sure what 2024 will bring for the cybersecurity realm, but consider keeping the above in mind, as they'll very likely make an appearance.

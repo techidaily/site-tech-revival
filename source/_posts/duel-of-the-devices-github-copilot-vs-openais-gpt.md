@@ -1,7 +1,7 @@
 ---
 title: "Duel of the Devices: GitHub Copilot Vs. OpenAI's GPT"
-date: 2024-07-22 15:44:53
-updated: 2024-07-25 12:20:49
+date: 2024-08-02T16:15:34.813Z
+updated: 2024-08-03T16:15:34.813Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
 ## Unlock the Potential of ChatGPT for Optimal Health - Top Strategies Inside
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Use ChatGPT to create personalized workout plans and get advice on cardio fitness and time constraints for exercising from home.
@@ -35,6 +38,9 @@ Type prompts such as:
 * Can you design a workout plan for cardio fitness?
 * What are the best exercises when I only have 15 minutes to work out?
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great[workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/) .
@@ -45,6 +51,11 @@ Type prompts such as:
 
  However, ChatGPT could be a great source of initial advice if you're just after a general workout plan.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## 2\. Use ChatGPT to Get Advice on Meal Plans or Find New Recipes
 
  Although everyone knows the importance of eating healthily for well-being, your busy lifestyle might mean you get stuck in a rut with meal choices. You could break free of this by downloading one of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) or consulting[meal planning websites](https://www.makeuseof.com/meal-planning-sites-to-make-cooking-simple/) .
@@ -53,6 +64,9 @@ Type prompts such as:
 
  Try the following prompt: “Can you provide a 5-day meal plan for a vegan diet with a budget of $60?” This will provide both a list of sample ingredients and a series of meals designed with budgetary restraints in mind.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to meal plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meal-plan-prompt.jpeg)
 
  There are drawbacks, of course. Global variations can make a huge difference in the availability and cost of available ingredients. More importantly, you can’t guarantee the accuracy of everything the AI chatbot generates. Since your health rests on good nutritional intake, you should consult a professional if you have any concerns at all.
@@ -67,14 +81,24 @@ Type prompts such as:
 
  You could also ask ChatGPT to act as a habit change coach by prompting it to give a schedule for you to stick to. For sleep, you could ask, “Can you provide a schedule for the last 2 hours of my day to ensure I get 8 hours of sleep?” You’ll receive a list of practical steps to take to help you end your day ready for sleep.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 4\. Use ChatGPT for Mindfulness and Meditation
 
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
 
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## 5\. Use ChatGPT for Journaling Prompts
 
  Journaling is a highly effective way to practice mindfulness. There are many[effective techniques to use in your digital gratitude journaling](https://www.makeuseof.com/digital-gratitude-journaling-effective-techniques/) , and ChatGPT can help you to deploy these, providing prompts to help you get started without that “blank page terror.”
@@ -93,6 +117,9 @@ Type prompts such as:
 
  As the technology and the AI database develops continually, there are many[reasons to consider using ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) . Of course, you must verify any health advice provided in this manner, so here’s[how to fact-check health information from ChatGPT and AI sources](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 8\. Use ChatGPT to Understand and Manage Medications
 
  Although important for managing your medical condition or illness, medication can be very harmful if not managed correctly. This can often be a challenge, especially if you’re juggling multiple medications, but ChatGPT can help.
@@ -101,6 +128,9 @@ Type prompts such as:
 
  Second, you can use ChatGPT to provide further information about your drugs, including storage, side effects, and possible contraindications. If any medical jargon on your prescription or the medication’s information is confusing, you can ask ChatGPT to explain it in simpler language.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT response to medication information request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-medication-information-request.jpeg)
 
 ## 9\. Use ChatGPT for Mental Health Support

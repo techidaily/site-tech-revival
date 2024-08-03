@@ -1,7 +1,7 @@
 ---
 title: "The Threat Landscape for AIs: Comprehending the Basics and Mechanisms Behind Prompt Injection Attacks"
-date: 2024-07-23 11:22:44
-updated: 2024-07-26 11:14:21
+date: 2024-08-02T16:15:42.733Z
+updated: 2024-08-03T16:15:42.733Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 * [Apple's ChatGPT Integration](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#apple-39-s-chatgpt-integration)
 * [Private Cloud Compute and Apple's AI Privacy](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#private-cloud-compute-and-apple-39-s-ai-privacy)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Apple unveiled Apple Intelligence, a suite of AI features to help you with tasks like writing emails and creating personalized emojis.
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  While scrolling through your inbox in the Mail app, for example, Writing Tools can summarize emails and place them in snippets, so you can easily get the gist without opening the email.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Priority Messages and Notifications
 
 ![Priority notifications on an iPhone through AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/priority-notifications-on-an-iphone-through-ai.jpg)
@@ -56,20 +62,32 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  Because the model can analyze words, it can "read" your emails and notifications and figure out which ones are urgent. The important emails will float to the top of your inbox, and the priority notifications will be at the top of your notification stack. Apple has also extended this feature into Focus, where Reduce Interruptions will only allow notifications that need immediate action.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Smart Reply
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Smart Reply in Mail on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/smart-reply-in-mail-on-an-iphone.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  While replying to emails in Mail, an AI feature called Smart Reply will provide suggestions to answer questions posed in the email. This way, you can be sure you didn't miss anything vital when crafting a response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## AI Image Generation Features
 
  Many folks use AI to generate unique images with tools like DALL-E or Copilot. So, as you might expect, Apple is integrating generative AI image creation into Apple Intelligence with some unique takes and tools.
 
 ### Image Playground and Image Wand
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Image Playground on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-image-playground-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -78,14 +96,23 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  While Image Playground has a standalone app, it's also built into some supported apps, like Messages and Notes—and third-party apps with the API. On Notes, you can use it through an Apple Pencil feature called Image Wand that can transform sketches into full illustrations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Genmoji
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Genmoji creation on an iPhone of a woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/genmoji-creation-on-an-iphone-of-a-woman.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  Have you ever looked through your emoji library and not found the right emoji to express yourself? Well, no longer; Genmojis are unique emojis you can create and share by prompting specific descriptions. You can use them in Tapbacks on Messages, share them as stickers, or use them as regular emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI Comes to the Photos App
 
 ![Ai-powered Memories in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-memory-movie-240610.jpg)
@@ -96,10 +123,16 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  The AI integrations don't stop there: Apple is also bringing AI integrations to your image library in the Photos app.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Specific Photo Searches
 
  Now that AI can separate objects and elements in a photo or video, you can be very specific about what you wish to find in the Photos app. You could type "Mom in a floral-patterned gown," and all the content you have related to that will appear in the results.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Memory Movie
 
  You can also take these specific searches to Memories in Photos, and your device will create a memory with the theme you've described. Apple says it will suggest music that matches this theme and make a movie with a narrative arc.
@@ -124,6 +157,9 @@ thumbnail: https://thmb.techidaily.com/a4dc30780e032f6d710992cf5481b7eec2d5a6380
 
  Finally, Apple has partnered with OpenAI to give its users access to ChatGPT. Any request Siri or Writing Tools can't handle, it will prompt you to give it permission to ask ChatGPT for help. While you can access ChatGPT through Apple Intelligence for free (and without an account), you will still need to connect your premium ChatGPT account to enjoy access to paid features.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Compose
 
 ![ChatGPT Compose on macOS Sequoia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-chatgpt-writing-tools-compose-suggestions-240610.jpg)

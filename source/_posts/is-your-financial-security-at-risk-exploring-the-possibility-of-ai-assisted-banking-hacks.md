@@ -1,7 +1,7 @@
 ---
 title: "Is Your Financial Security at Risk: Exploring the Possibility of AI-Assisted Banking Hacks"
-date: 2024-07-23 22:23:35
-updated: 2024-07-24 11:45:44
+date: 2024-08-02T16:16:18.604Z
+updated: 2024-08-03T16:16:18.604Z
 tags:
   - chatgpt
   - open-ai
@@ -27,8 +27,14 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
  To start testing ChatGPT, it was subjected to problems involving PEMDAS, fractions, and decimals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve 8 divided by 1 plus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![asking chatgpt to solve 5 divided by 6 minus 2 divided by 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-2.jpg)
 
 ![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
@@ -43,8 +49,14 @@ Close
 
 ![asking chatgpt to solve for the slope intercept and point slope form of y divided by 4 equals 6 plus 2 times x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve for the distance a ball bounces into the air on the seventh bounce given an initial height of ten feet with each successive bounce rising to 75 percent of the previous height](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![asking chatgpt to solve the bouncing ball problem as a geometric sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-3.jpg)
 
 ![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
@@ -55,10 +67,16 @@ Close
 
  Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
 
 ![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
 
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
@@ -75,10 +93,16 @@ Close
 
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
 
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
 
 Close
@@ -93,16 +117,43 @@ Close
 
  ChatGPT originally offered the correct solution for the derivative g'(1) given that g(x) was the inverse function of f(x), but it quickly amended its answer to be incorrect when given a vague rejection instead of standing by its solution.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
 
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is ChatGPT Accurate at Solving Math Problems?
 
  Overall, ChatGPT is accurate at solving math problems. It is highly capable of answering and explaining questions from a broad assortment of topics in math. The main issue that ChatGPT faces is that it isn’t as capable of correcting false assumptions and misunderstandings—and in some cases, it can affirm mistakes without being prompted to do so.

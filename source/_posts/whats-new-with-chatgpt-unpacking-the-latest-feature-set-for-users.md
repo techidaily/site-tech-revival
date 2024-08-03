@@ -1,7 +1,7 @@
 ---
 title: What’s New with ChatGPT? Unpacking the Latest Feature Set for Users
-date: 2024-07-23 12:33:14
-updated: 2024-07-24 11:22:30
+date: 2024-08-02T16:16:45.687Z
+updated: 2024-08-03T16:16:45.687Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  Whether you're looking for help with a difficult chore, inspiration for a new hobby, advice on improving yourself, or just a good chuckle, ChatGPT can be your trusted ally for anything. Let's look at a few examples and their ChatGPT prompts that will decrease your workload.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Simplifying a Large Task
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT interaction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgptprompt_task_breakdown.jpg)
 
  A big, complex task might be overwhelming in our busy lives. What always works is to[break down big tasks into smaller chunks](http://www.makeuseof.com/task-management-software-manage-complete-your-tasks/) . To reduce your stress, outsource this to ChatGPT! It can easily simplify your daunting task. All you need to do is state your task and ask ChatGPT to simplify it.
@@ -33,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 * Request it to break down any confusing tasks further.
 * Ask for clarification if any steps are unclear.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Example Prompts
 
 * Help me outline a business plan for my startup.
@@ -41,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 ## 2\. Acting as a Therapist
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT interaction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgptprompt_therapist.jpg)
 
  Our fast-paced environment has changed how we get therapy and emotional support. Virtual tools like ChatGPT can easily act as therapists, offering support, advice, and listening ears. ChatGPT can provide a space for safe expression and self-reflection without judgment or stigma.
@@ -53,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  While ChatGPT can act as a virtual therapist, it cannot replace actual therapy. Always opt for qualified mental health experts who can provide the right care and support for serious mental health concerns and crises.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Example Prompts
 
 * How can I deal with my anxiety better in everyday life?
@@ -61,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 ## 3\. Acting as a Quick Search Engine
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT interaction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgptprompt_searchengine.jpg)
 
  ChatGPT can easily compete with, or even go on to replace, search engines like Google. It provides a conversational search experience with contextual comprehension, summary skills, and an enormous knowledge base. You can also search within your ChatGPT chats for answers to your previous queries.
@@ -78,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  Always fact-check. Currently, ChatGPT's responses may be based on inaccurate or biased training data, so refer to credible sources to confirm any information received from ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Creating a Travel Plan
 
 ![Screenshot of a ChatGPT interaction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgptprompt_travelplan.jpg)
@@ -90,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 * Customize Your Itinerary: With ChatGPT's help, change, tweak, add, and remove items from your itinerary.
 * Ask Questions: During travel planning, ask about attractions, customs, and lesser-known sites.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Example Prompts
 
 * Recommend off-the-beaten-path destinations for a backpacking trip in Europe.
@@ -98,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 ## 5\. Planning Your Life
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT interaction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgptprompt_lifeplan.jpg)
 
  A well-planned life can help us achieve our goals and manage our time and resources. ChatGPT's[natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) can aid life planning. It can help you set objectives, manage time, and overcome obstacles.
@@ -111,12 +138,18 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 * Ask for motivation and accountability.
 * Reassess your plans and goals.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Example Prompts
 
 * What are some good ways to save money and plan for the future?
 * Suggest ways to find a healthy balance between work and life.
 * How do I boost my self-confidence?
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Planning Your Day
 
 ![Screenshot of a ChatGPT interaction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgptprompt_dayplan.jpg)
@@ -140,6 +173,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
 ## 7\. Simulating Various Roles
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of a ChatGPT interaction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgptprompt_simulator.jpg)
 
  ChatGPT's role-playing capabilities as simulators give you unique opportunities to improve your skills and work. These simulators can be accessed by asking ChatGPT to behave as the chosen role.
@@ -154,6 +190,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 * LegalGPT to navigate the law
 * DesignGPT for creative design
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Example Prompts
 
 * Be my language teacher and help me practice speaking Spanish.
@@ -166,6 +205,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  Artists, writers, entrepreneurs, and problem solvers often seek inspiration and ideas. ChatGPT has now made finding ideas and inspiration easier than ever. You can unlock its creative potential to inspire your creativity with open-ended dialogues or specific queries.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Tips
 
 * ChatGPT is best used for[open-ended brainstorming](https://www.makeuseof.com/best-brainstorming-techniques-exploring-productive-ideas/) . You can request prompts to get your creative juices flowing.
@@ -174,6 +216,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 * As you talk to ChatGPT, visualize your concepts in your art, writing, or project. This helps you get into the creative zone and sparks new ideas.
 * Iterate and refine suggestions and ideas. ChatGPT helps generate ideas, but your imagination and viewpoint will determine the final result.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Example Prompts
 
 * Suggest color palettes and composition ideas for a landscape painting.
@@ -186,6 +231,9 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 
  ChatGPT can make your talks fun and productive. You may access the AI's humor by exchanging jokes, exploring funny scenarios, engaging in lively conversation, and even participating in[comedy sketches](https://www.makeuseof.com/tag/top-10-standup-comedy-videos-youtube/) .
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Ways to Use ChatGPT for Fun
 
 * Jokes are a simple way to enjoy ChatGPT. ChatGPT will tell you a joke with a clever punchline.
@@ -193,6 +241,13 @@ thumbnail: https://thmb.techidaily.com/b0350890102e8bceb542486b6a13817e51d92335c
 * ChatGPT's comedic imagination is limitless. Asking ChatGPT about funny hypotheticals or what-ifs can start entertaining conversations.
 * You can also play games with ChatGPT by asking for riddles, puzzles, games, trivia challenges, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Example Prompts
 
 * Tell me a funny joke to brighten my mood.

@@ -1,7 +1,7 @@
 ---
 title: 10 Leading Applications Eclipsing GPT's Functionality on Devices
-date: 2024-07-26 21:17:18
-updated: 2024-07-27 10:54:27
+date: 2024-08-02T16:15:47.570Z
+updated: 2024-08-03T16:15:47.570Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
  On May 10th, 2023, Google announced a major upgrade to its large language model (LLM) chatbot Bard AI at Google I/O.Google's Pathways Language Model 2 (PaLM 2) will improve Bard's performance by featuring support for different programming languages, third-party extensions, integration with other Google products, and other interesting additions. Let's explore in detail how PaLM 2 will revolutionize Bard AI.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## 1\. Support for Different Programming Languages
 
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
@@ -27,8 +30,14 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
  PaLM 2 also offers Codey, a specialized AI model for coding and debugging. Codey will be a part of PaLM 2's generation and code completion service, among other functions. Already there are several ways Bard AI is overtaking ChatGPT in the AI chatbots league, like being free to use, connected to the internet, and accessible in over 180 countries.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Multilingual Capabilities
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
 
  PaLM 2 will expand the multilingual capabilities of Bard AI, making it perform well with multilingual tasks, as it is being trained with diverse texts from over 100 languages.
@@ -37,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ## 3\. Better Logic and Reasoning
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
 
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
@@ -53,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
 ## 5\. Sec-PaLM 2
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
 
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
@@ -61,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
@@ -69,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/e9efae3ff791fb7b0dc6f1f4f1438b97e5574ba34
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 7\. Workspace
 
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)

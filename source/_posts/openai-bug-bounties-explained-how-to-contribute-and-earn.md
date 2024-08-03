@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Bug Bounties Explained: How to Contribute and Earn"
-date: 2024-07-26 15:57:42
-updated: 2024-07-28 12:30:20
+date: 2024-08-02T16:15:39.643Z
+updated: 2024-08-03T16:15:39.643Z
 tags:
   - chatgpt
   - open-ai
@@ -31,8 +31,14 @@ But what if you don't want to part with $20 per month?
 
 Well, here are five ways you can use GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Microsoft Copilot](https://www.bing.com/chat?form=NTPCHB)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![microsoft copilot website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/microsoft-copilot-website-screenshot.png)
 
  Microsoft was one of the first companies to work directly with OpenAI, plowing billions of dollars into the company and its AI research.
@@ -41,6 +47,18 @@ Well, here are five ways you can use GPT-4 for free.
 
  Copilot has other boons, too. For example, you can[use OpenAI's DALL-E 3 text-to-image tool for free](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/) , enabling you to create highly detailed original images with text input.[Copilot Image Creator works similarly to OpenAI's tool](https://www.makeuseof.com/how-use-bing-image-creator-free/) , with some slight differences between the two. Still, you can use it to create unique AI images almost instantaneously.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
  If you want to use GPT-4 for free, Microsoft Copilot is absolutely one of the best options. A[ChatGPT Plus subscription is still the overall best option](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) due to its extensive array of features, but if you just have a few questions you want answered, Copilot is the next best option.
@@ -57,6 +75,9 @@ Well, here are five ways you can use GPT-4 for free.
 
  Free GPT-4o access comes with some excellent features, though. ChatGPT free users can use GPT-4o for web browsing searches and questions, data analysis, image analysis, and extensive file support. So, it brings many of the core features of the ChatGPT Plus tier to free users. It also allows free users to access custom GPTs, though these have the same limits as GPT-4o messaging (and free users cannot make custom GPTs, only interact with them).
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Perplexity.ai](https://www.perplexity.ai/)
 
 ![perplexity ai pro search option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/perplexity-ai-pro-search-option.jpg)
@@ -67,8 +88,14 @@ Well, here are five ways you can use GPT-4 for free.
 
  Upgrading to Perplexity.ai's Pro tier will set you back $20 per month (the same as a ChatGPT Plus subscription), but does mean you can ask more than 300 Copilot-powered questions,[use Anthropic's Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , and upload as many files as you want to for AI analysis.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Merlin
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![merlin ai extension free gpt4 access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/merlin-ai-extension-free-gpt4-access.jpg)
 
  Merlin is a handy Chrome browser extension that provides GPT-4 access for free, albeit limited to a specific number of daily queries.
@@ -81,8 +108,14 @@ Well, here are five ways you can use GPT-4 for free.
 
 **Download** : Merlin for[Google Chrome](https://chrome.google.com/webstore/detail/merlin-1-click-access-to/camppjleccjaphfdbohjdohecfnoikec) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5.[Hugging Face](https://huggingface.co/)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![using gpt-4 on hugging face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-gpt-4-on-hugging-face.jpg)
 
  Hugging Face is an open-source machine learning and AI development website where thousands of developers collaborate and build tools.
@@ -97,6 +130,9 @@ Well, here are five ways you can use GPT-4 for free.
 
 ### [Poe](https://poe.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
 
  Poe is a generative AI tool that gives you access to several LLMs and AI chatbots in one place. Unlike most of the major generative AI tools that feature just one option, Poe, developed by Quora, helps you spread your questions around, choosing the best option for the job when required.
@@ -119,10 +155,16 @@ Well, here are five ways you can use GPT-4 for free.
 
 ### [Nat.dev](https://nat.dev/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![open playground nat dev credits top up request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/open-playground-nat-dev-credits-top-up-request.jpg)
 
  Nat.dev is an Open Playground tool that offered limited access to GPT-4\. However, the person behind nat.dev eventually restricted free access to GPT-4, as costs spiraled. However, you can still use nat.dev to access a wide range of free LLMs, such as Llama, Mistral, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Much Does Full GPT-4 Access Cost?
 
  If you want the full GPT-4 experience, a ChatGPT Plus subscription is what you need. Sure, it costs $20, but the range of tools, speed and quality of response, and new functionality added make it a worthwhile investment, even for casual users. However, for those who only want to ask one or two questions every now and then, one of the free GPT-4 tools above will do the job just fine.

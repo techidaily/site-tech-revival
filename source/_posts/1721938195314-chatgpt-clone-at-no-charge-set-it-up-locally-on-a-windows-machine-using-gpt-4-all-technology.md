@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Clone at No Charge: Set It Up Locally on a Windows Machine Using GPT-4 All Technology"
-date: 2024-07-23 23:15:37
-updated: 2024-07-26 12:25:45
+date: 2024-08-02T16:15:45.225Z
+updated: 2024-08-03T16:15:45.225Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ## What You Need to Know About AI Chatbots
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ## Which Is the Most Private Large Language Model?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
 ## Which LLM Is Good for Technical Instructions?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -87,16 +96,28 @@ thumbnail: https://thmb.techidaily.com/2862f9e710df6bad4ce9bc4079dc8a66e33ae9d0b
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Writing Code?
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which LLM Tells the Best Jokes?
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."

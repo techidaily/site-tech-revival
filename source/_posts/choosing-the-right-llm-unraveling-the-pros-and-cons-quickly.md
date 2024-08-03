@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Right LLM: Unraveling the Pros & Cons Quickly"
-date: 2024-07-24 23:59:41
-updated: 2024-07-26 10:51:30
+date: 2024-08-02T16:15:34.724Z
+updated: 2024-08-03T16:15:34.724Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
 ## Is a Neighborhood Lawyer Right for You? Examining the Pros and Cons
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Less censorship: Local LLMs offer the freedom to discuss thought-provoking topics without the restrictions imposed on public chatbots, allowing for more open conversations.
@@ -25,6 +28,15 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
  Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## The Pros of Using Local LLMs
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
@@ -37,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
  Today, both[chatbots have been so tightly censored](https://www.makeuseof.com/what-is-chatbot-censorship/) that they won't even help you write a fictional crime novel with violent scenes. Some AI chatbots won't even talk about religion or politics. Although LLMs you can set up locally aren't entirely censorship-free, many of them will gladly do the thought-provoking things the public-facing chatbots won't do. So, if you don't want a robot lecturing you about morality when discussing topics of personal interest, running a local LLM might be the way to go.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### 2\. Better Data Privacy
 
  One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
@@ -59,16 +75,26 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
  Before you make the switch, there are some downsides to using a local LLM you should consider.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### 1\. Resource Intensive
 
  To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 2\. Slower Responses and Inferior Performance
 
  A common limitation of local LLMs is slower response times. The exact speed depends on the specific AI model and hardware used, but most setups lag behind online services. After experiencing instant responses from ChatGPT, Bard, and others, local LLMs can feel jarringly sluggish. Words slowly trickle out versus being quickly returned. This isn't universally true, as some local deployments achieve good performance. But average users face a steep drop-off from the snappy web experience. So, prepare for a "culture shock" from fast online systems to slower local equivalents.
 
  In short, unless you're rocking an absolute top-of-the-line setup (we're talking AMD Ryzen 5800X3D with an Nvidia RTX 4090 and enough RAM to sink a ship), the overall performance of your local LLM won't compare to the online generative AI chatbots you're used to.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### 3\. Complex Setup
 
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
@@ -79,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
  Additionally, local LLMs can't access live internet data. This restricts usefulness for real-time queries like stock prices or weather. To enjoy a semblance of real-time data, local LLMs will typically require an additional layer of integration with internet-connected services. Internet access is one of the reasons you might[consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) !
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should You Use a Local LLM?
 
  Local large language models provide tempting benefits but also have real downsides to consider before taking the plunge. Less censorship, better privacy, offline access, cost savings, and customization make a compelling case for setting up your LLM locally. However, these benefits come at a price.

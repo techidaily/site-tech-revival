@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look: Every Detail of Apple's AI Breakthrough at WWDC 24 Uncovered"
-date: 2024-07-21 18:42:16
-updated: 2024-07-24 11:59:55
+date: 2024-08-02T16:16:10.258Z
+updated: 2024-08-03T16:16:10.258Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 * [Apple's ChatGPT Integration](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#apple-39-s-chatgpt-integration)
 * [Private Cloud Compute and Apple's AI Privacy](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#private-cloud-compute-and-apple-39-s-ai-privacy)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Apple unveiled Apple Intelligence, a suite of AI features to help you with tasks like writing emails and creating personalized emojis.
@@ -34,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  However, that all changed at Apple WWDC 24, where it unveiled a suite of AI features called Apple Intelligence. It offers tools to write better emails, create custom emojis, and even generate images based on your descriptions. Its focus on user privacy keeps most processing on-device, with secure cloud backups for complex tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Language-Based Apple Intelligence Capabilities
 
  The first category of AI tech Apple displayed were language-based, adding what amounts to a language model that can process words and help improve your experience, integrated into iOS and macOS.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Writing Tools
 
 ![Text summary in Notes on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-notes-summarize-240610.jpg)
@@ -50,12 +59,19 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 ### Priority Messages and Notifications
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Priority notifications on an iPhone through AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/priority-notifications-on-an-iphone-through-ai.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  Because the model can analyze words, it can "read" your emails and notifications and figure out which ones are urgent. The important emails will float to the top of your inbox, and the priority notifications will be at the top of your notification stack. Apple has also extended this feature into Focus, where Reduce Interruptions will only allow notifications that need immediate action.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### Smart Reply
 
 ![Smart Reply in Mail on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/smart-reply-in-mail-on-an-iphone.jpg)
@@ -64,10 +80,16 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  While replying to emails in Mail, an AI feature called Smart Reply will provide suggestions to answer questions posed in the email. This way, you can be sure you didn't miss anything vital when crafting a response.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## AI Image Generation Features
 
  Many folks use AI to generate unique images with tools like DALL-E or Copilot. So, as you might expect, Apple is integrating generative AI image creation into Apple Intelligence with some unique takes and tools.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Image Playground and Image Wand
 
 ![Image Playground on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-image-playground-240610.jpg)
@@ -78,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  While Image Playground has a standalone app, it's also built into some supported apps, like Messages and Notes—and third-party apps with the API. On Notes, you can use it through an Apple Pencil feature called Image Wand that can transform sketches into full illustrations.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Genmoji
 
 ![Genmoji creation on an iPhone of a woman](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/genmoji-creation-on-an-iphone-of-a-woman.jpg)
@@ -86,8 +111,14 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  Have you ever looked through your emoji library and not found the right emoji to express yourself? Well, no longer; Genmojis are unique emojis you can create and share by prompting specific descriptions. You can use them in Tapbacks on Messages, share them as stickers, or use them as regular emojis.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI Comes to the Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Ai-powered Memories in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-memory-movie-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -118,12 +149,18 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 ## Apple's ChatGPT Integration
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Prompt to use ChatGPT on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/prompt-to-use-chatgpt-on-an-iphone.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  Finally, Apple has partnered with OpenAI to give its users access to ChatGPT. Any request Siri or Writing Tools can't handle, it will prompt you to give it permission to ask ChatGPT for help. While you can access ChatGPT through Apple Intelligence for free (and without an account), you will still need to connect your premium ChatGPT account to enjoy access to paid features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Compose
 
 ![ChatGPT Compose on macOS Sequoia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-chatgpt-writing-tools-compose-suggestions-240610.jpg)

@@ -1,7 +1,7 @@
 ---
 title: The Roadmap to Becoming a Successful Prompt Engineer
-date: 2024-07-22 21:15:51
-updated: 2024-07-23 10:50:47
+date: 2024-08-02T16:16:34.756Z
+updated: 2024-08-03T16:16:34.756Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
  Start with these online courses to help you use AI prompts effectively for work and other projects.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Prompt Engineering for ChatGPT (Coursera)](https://www.coursera.org/learn/prompt-engineering)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
 
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
@@ -31,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
@@ -43,6 +52,11 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
 
  In this LinkedIn Learning course, creative expert Dave Birss shows how Generative AI tools present a huge opportunity to advance your career. As Birss points out, humans usually use technology to automate repetitive activities. Thanks to AI, you can now use tech to automate thinking.
@@ -55,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
@@ -67,6 +84,10 @@ thumbnail: https://thmb.techidaily.com/388b9b2fa822d07d170581d6fc602d4ca55180e6b
 
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.

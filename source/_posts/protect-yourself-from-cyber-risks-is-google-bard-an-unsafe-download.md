@@ -1,7 +1,7 @@
 ---
 title: "Protect Yourself From Cyber Risks: Is Google Bard an Unsafe Download?"
-date: 2024-07-25 17:56:15
-updated: 2024-07-27 10:46:44
+date: 2024-08-02T16:16:23.452Z
+updated: 2024-08-03T16:16:23.452Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  ChatGPT has become a mainstream tool around the world, offering an AI chatbot service to billions. But the popularity of this chatbot is now being capitalized upon by cybercriminals looking to swindle unsuspecting users. So, what kinds of ChatGPT scams should you be looking out for?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
@@ -29,8 +33,14 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Fake ChatGPT Browser Extensions
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
 
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
@@ -41,8 +51,14 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 3\. Fake ChatGPT Apps
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
 
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
@@ -53,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/0b50962ffa3e17ae709bef162c3f8ff4d960cae11
 
 ## 4\. Malware Created by ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
 
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.

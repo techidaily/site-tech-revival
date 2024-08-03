@@ -1,7 +1,7 @@
 ---
 title: "Sarah Silverman Joins Legal Battle Against OpenAI & Meta: The Rising Conflict over AI Rights"
-date: 2024-07-22 17:41:35
-updated: 2024-07-25 10:46:37
+date: 2024-08-02T16:15:38.663Z
+updated: 2024-08-03T16:15:38.663Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
 ## 1.[Unriddle](https://www.unriddle.ai/) (Web, Chrome): Most Powerful Way to Chat With Your Documents
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Unriddle is the best app to analyze your documents and then talk with them using ChatGPT, but the free tier is severely limited](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-unriddle.jpg)
 
 * **File Formats Supported:** PDF, DOC, URL
@@ -53,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
 ## 3.[Klavier](https://klavier.ai/) (Web): Free and Limitless Tool to Chat With Your Documents
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Klavier is a completely free way to have AI scan your documents and then use ChatGPT to find information within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-klavier.jpg)
 
 * **File Formats Supported:** PDF, DOCX, TXT, HTML
@@ -69,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
 ## 4.[LXI.ai](https://lxi.ai/) (Web): Chat With Your Documents and Pay Per Usage
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![LXI.ai has an innovative system to chat with your documents and pay only per your usage, not lumpsum tiers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-lxi-ai.jpg)
 
 * **File Formats Supported:** PDF, DOCX, TXT, URL
@@ -83,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
 ## 5.[Docalysis](https://docalysis.com/) (Web): Best App to Have ChatGPT Conversations With PDFs
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Docalysis provides one of the most impressive ChatGPT bots for your PDF documents, and having the PDF open alongside is a bonus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-docalysis.jpg)
 
 * **File Formats Supported:** PDF
@@ -97,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
  In our tests, we found Docalysis to be one of the best at analyzing documents and providing relevant answers. It understood simple chat prompts, was context-aware in a conversation, and the ability to see the file alongside was a great help.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### 6.[ChatPDF](https://www.chatpdf.com/) (Web): Use ChatGPT 3.5 to Query PDF Files
 
 ![ChatPDF is a simple way to run ChatGPT on your PDF documents and chat with a bot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatpdf.jpg)
@@ -109,6 +125,9 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
  ChatPDF is one of the[coolest new apps to work with PDF files](https://www.makeuseof.com/free-pdf-editing-web-apps-to-fix-common-problems-with-pdfs/) , and performs shockingly well for all text. It had trouble reading images and data from tables in our tests, where we uploaded files from our drive as well as direct URLs. The developers say that while they currently use ChatGPT 3.5, they are looking into how to incorporate the newer ChatGPT 4.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Learn Prompts to Make Chat Memory Easier
 
  You'll find that in all these apps, ChatGPT doesn't remember what you talked about after a session is finished. In fact, in some apps, it'll treat each question separately without using the previous query's context. To get around this problem, try and learn how to use prompts for ChatGPT in the app you're using. With a little trial and error, you will be able to figure out how to frame a question so that answers use the context of what you've chatted about before.

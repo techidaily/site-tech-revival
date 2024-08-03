@@ -1,7 +1,7 @@
 ---
 title: 27 Efficient Email Crafting with AI, ChatGPT & Summarize
-date: 2024-07-22 16:17:40
-updated: 2024-07-25 10:42:32
+date: 2024-08-02T16:15:48.193Z
+updated: 2024-08-03T16:15:48.193Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
  Let’s say you want a summary of Article One, sections one to four. Armed with the URL of the document, you can prompt ChatGPT to summarize these sections.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
@@ -35,14 +38,23 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Convert the PDF Into a Text Document
 
  ChatGPT will happily read text, after all, the beating heart of any AI chatbot is a large language model (LLM).[LLMs are huge text databases](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) that AI chatbots reference to supply human-like responses. Although PDFs contain text, they aren’t easy to edit. This makes it awkward if you want to work with this format in ChatGPT. But converting it to a more manageable format is easy.
@@ -62,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
 ## 4\. Install and Use an Extension
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
@@ -70,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/e31ea3ce93bbad92b9f67f88ba076a5c1c44f8153
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
  ChatGPT is a versatile tool that can handle various text-based tasks with ease. However, when it comes to working with PDFs, it can be challenging. Thankfully, there are four easy ways to work around this obstacle.

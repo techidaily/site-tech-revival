@@ -1,7 +1,7 @@
 ---
 title: "Transforming Your Search with Microsoft's AI-Enhanced Bing: The Future Is Here"
-date: 2024-07-22 13:35:38
-updated: 2024-07-24 11:47:46
+date: 2024-08-02T16:15:50.541Z
+updated: 2024-08-03T16:15:50.541Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 **Download:** [VoiceGPT](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2026716/https://play.google.com/store/apps/details?id=gpt.voice.chatgpt) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## How to Use Voice Input and Text-To-Speech Features With VoiceGPT
 
  With VoiceGPT, you can interact with and[control ChatGPT using your voice](https://www.makeuseof.com/ways-to-control-chatgpt-with-voice/) , making the experience more natural and intuitive than ever before. The app utilizes text-to-speech and talk-back features to enable you to hear responses coming from the ChatGPT interface, providing a seamless and personalized conversational experience. Here's how to set this up:
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/f8f467b332b89dbb4d8c51eef116fbbce4476e735
 
 ![set up voice input in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![voice inputs in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs2.jpg)
 
 Close
@@ -54,6 +60,9 @@ Close
 
  Interestingly, you can also use VoiceGPT as the default device assistant if you want to quickly access the app itself. To do this, tap**Home > Settings > Set default Assistant** . This automatically opens up the device assistance settings—just choose**VoiceGPT** from the list of options available.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Access a Database of Pre-Defined Prompts With VoiceGPT
 
  One of the most exciting features offered by the app is a comprehensive database of pre-defined and custom prompts to help you make the most of the AI tool.
@@ -62,20 +71,32 @@ Close
 2. Next, tap on any one of the categories and simply fill in the details of your prompt by typing it out or using your device's built-in voice typing feature.
 3. Hit**Execute Prompt** to get relevant responses from ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
 ![Game prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Fun category prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun2.jpg)
 
 Close
 
  These prompts range across various categories including coding, music, education, games, travel, email writing, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Third-Party Integrations With VoiceGPT
 
  VoiceGPT isn't only useful when it comes to voice commands. You can also take advantage of its other non-voice integrations, such as extracting text from images, executing code snippets, and generating images with DALL-E 2\. Let's take a look at these features below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Execute Code Snippets With RunGPT
 
  The RunGPT integration with VoiceGPT enables you to interact with the chatbot to execute a variety of code snippets. To do this, tap the**three-line** icon in the bottom panel.
@@ -86,6 +107,9 @@ Close
 
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Coding prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt3.jpg)
 
 ![RunGPT integration for code snippets in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt1.jpg)
@@ -102,8 +126,19 @@ Close
 
 ![Confirmation screen for DALL-E2 in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dall-e2 interface in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Image prompts in Dall- E2 using VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e3.jpg)
 
 Close
@@ -116,6 +151,9 @@ Close
 
 ![Image editor in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OCR results generated in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr3.jpg)
 
 Close

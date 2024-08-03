@@ -1,7 +1,7 @@
 ---
 title: Collaborative Productivity in Google Docs & Spreadsheets via GPT
-date: 2024-07-23 21:39:41
-updated: 2024-07-26 12:40:46
+date: 2024-08-02T16:15:37.148Z
+updated: 2024-08-03T16:15:37.148Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
  On May 10th, 2023, Google announced a major upgrade to its large language model (LLM) chatbot Bard AI at Google I/O.Google's Pathways Language Model 2 (PaLM 2) will improve Bard's performance by featuring support for different programming languages, third-party extensions, integration with other Google products, and other interesting additions. Let's explore in detail how PaLM 2 will revolutionize Bard AI.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## 1\. Support for Different Programming Languages
 
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Better Logic and Reasoning
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Med-PaLM 2
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
@@ -51,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
  According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 5\. Sec-PaLM 2
 
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
@@ -61,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
@@ -69,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Workspace
 
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
@@ -77,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/00f9a98dfa9706757d2d82934bc9dc5159ac52a4f
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## PaLM 2 WIll Revolutionize Google Bard
 
  PaLM 2 LLM has provided Google with an appropriate response to Microsoft's Bing search engine and OpenAI's ever-popular ChatGPT. The new upgrades to Bard will not only give you better satisfaction but provide you with increased safety across Google products.

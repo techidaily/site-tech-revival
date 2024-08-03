@@ -1,7 +1,7 @@
 ---
 title: "Beyond Bots: Separating Truth From AI Mythology"
-date: 2024-07-26 14:27:30
-updated: 2024-07-29 11:53:12
+date: 2024-08-02T16:15:33.989Z
+updated: 2024-08-03T16:15:33.989Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
 
  Most generative AI chatbots offer a subscription service that unlocks new features. However, how do you know you're choosing the right one? Here, we'll be discussing seven features that you should look out for when subscribing to one of these services.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Choosing the right AI chatbot involves considering factors like response accuracy and comprehension, which can be checked through their free versions.
@@ -33,12 +36,18 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
 
 ## 2\. Security and Data Privacy
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
 
  While many people are beginning to use AI tools, we're still in largely uncharted territory. It's hard to predict how AI will affect society and how we will deal with it. There are also concerns that chatbots like[ChatGPT represent a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) . For example, ChatGPT developer OpenAI has stated that they review your ChatGPT conversations to further its training.
 
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Contextual Understanding
 
  While comparing[ChatGPT Plus and Perplexity AI](https://www.makeuseof.com/chatgpt-plus-vs-perplexity-which-is-best/) , we found that Perplexity was faster while ChatGPT Plus had a better contextual understanding. This is why ChatGPT Plus outperforms most other chatbots regarding detailed responses. If an AI chatbot struggles with understanding context, it will start to hallucinate and give irrational responses.
@@ -47,8 +56,14 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
 
  The level of contextual understanding depends on the language model and how it's trained. Again, you should try the free version to check this for yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Knowledge Base
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021.
@@ -77,6 +92,18 @@ thumbnail: https://thmb.techidaily.com/705f65e32c2a47c9858b39842cfffb42a850218d7
 
  You'll have to consider carefully whether the paid AI chatbot versions are worth it. Usually, the features are great for the price, but it depends on how much use you will get out of them. Remember that the paid versions also tend to be faster than the free ones. Paying for faster responses should be a no-brainer if your workflow involves time-sensitive projects.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should You Care About Paid Chatbot Services?
 
  While paid AI chatbot services are great, the free versions are often good enough. In fact, they're almost too good. GPT-3 or GPT-3.5 is enough for most people, meaning upgrading to GPT-4 might not be worth it for everyone. However, it's still worth it if you need more detailed and faster responses.

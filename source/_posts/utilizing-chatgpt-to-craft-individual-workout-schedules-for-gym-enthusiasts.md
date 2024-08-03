@@ -1,7 +1,7 @@
 ---
 title: Utilizing ChatGPT to Craft Individual Workout Schedules for Gym Enthusiasts
-date: 2024-07-23 12:33:58
-updated: 2024-07-24 11:28:51
+date: 2024-08-02T16:16:38.430Z
+updated: 2024-08-03T16:16:38.430Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 
  However, dig a little deeper, and notable differences become quickly apparent.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## What Is HuggingChat?
 
  We won't go into too much detail here, as by now, most people know[what generative AI chatbots are](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . But it is worth touching on, as this will help you understand some underlying differences between the two chatbots.
@@ -33,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 
  Now that we know all about HuggingChat, let's see how it stacks up against ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare?
 
  Let's start by comparing how to access the tools. ChatGPT first, although it is possible to[use ChatGPT without an account](https://www.makeuseof.com/ways-to-use-chatgpt-without-openai-account/) , accessing the tool directly will require an[OpenAI account](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBJYnBoZTVIMkdqWVZDVmgxRjVVYXhhc2tnaDhmN1U4VaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDd3aGZkd2QxOG91WmJFV3BBdEN3TXhWVF9UdWRwOEUzo2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc) . Once you have set this up, the tool is free to use (unless you[upgrade to ChatGPT Pro](https://www.makeuseof.com/how-to-use-gpt4/) ).
@@ -47,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/192a8b490dda7b2810c72f377a9e089461747eddc
 
  Next, we will look at other metrics and capabilities and compare the responses.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Large Language Models (LLMs)
 
  The beating heart of any AI chatbot is the LLM. These are the underlying datasets used to generate human-like responses to prompts. Each tool uses a different LLM, as described below.
@@ -62,6 +72,9 @@ As you can see, HuggingChat answered this easily.
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 ## Summarizing Articles
@@ -70,6 +83,9 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
@@ -84,6 +100,10 @@ This was ChatGPT's effort:
 
 HuggingChat's summary looked like this:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
@@ -100,6 +120,18 @@ HuggingChat's summary looked like this:
 
 And this was HuggingChat's.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 Shakespeare himself would be impressed with both of these!
@@ -128,6 +160,9 @@ Shakespeare himself would be impressed with both of these!
 
  Ultimately, the choice between them will likely be driven more by user requirements than user preferences. As the tools are free and quick to access, checking both out is not a great hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Are You a Hugger or a Chatter?
 
  These tools represent the future of human and machine interaction. Both are incredibly powerful, and it wasn't so long ago that the thought of having such tools at your fingertips would have seemed inconceivable.

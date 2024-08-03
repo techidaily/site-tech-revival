@@ -1,7 +1,7 @@
 ---
 title: "Empower Your Spreadsheets with ChatGPT: A Step-by-Step Guide to Enhancing Google Sheets & Docs"
-date: 2024-07-27 14:39:41
-updated: 2024-07-29 12:33:22
+date: 2024-08-02T16:16:47.010Z
+updated: 2024-08-03T16:16:47.010Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
  Using ChatGPT as a dungeon master assistant is useful for both scripted and unscripted sessions! Keep reading for a quick look at how you can use ChatGPT to greatly improve your Dungeons & Dragons sessions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 1\. Create Random Encounters While Players Are Traveling
 
 ![A blue and yellow D20 di](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/blue-dice.jpg)
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/f07aba0aa676c9e76b44feb60efd0a45624266536
 
  There are plenty of additional commands you could add to this prompt for additional details. However, this serves as a great boilerplate. Keep in mind that the more details on the context you provide, the easier it will be for ChatGPT to tie its output to your campaign.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Create NPCs and Generate Dialogue
 
  If you're struggling to create NPCs for your campaign, ChatGPT can not only help expedite the process but also spark your creativity. Best of all, after generating NPCs, you can have ChatGPT answer in their place, making dialogue much more interesting.
@@ -57,6 +63,9 @@ Here's a pretty great prompt for generating NPCs:
 
  Of course, you can swap out multiple variables in each prompt to adjust them to your campaign and situation. For extra flair, you can[use ChatGPT and DALL-E to generate images of characters](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 3\. Filler Content in a Pinch: When Players Deviate From the Story
 
  You've probably run into a situation where your players decide to deviate from a carefully crafted campaign. While ChatGPT can't help with the frustration this can cause, it can help you with filler content in a pinch. It's a fantastic option for creating engaging content on the fly and avoiding awkward or long pauses during the session.
@@ -69,6 +78,9 @@ Here's one example of a prompt that can work:
 
  Here, ChatGPT automatically generated an easy-to-understand environment, an NPC with a name, and a quest to boot. All of this within seconds. The next time your party surprises you by taking a new direction, ChatGPT has you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Can Assist in Map Creation
 
  You can use ChatGPT to describe an area to your party better or build a room for an encounter. In fact, there are two great ways to use ChatGPT to generate maps.
@@ -87,12 +99,19 @@ Here's one example of a prompt that can work:
 
  If you're not too happy with the answers from this prompt, there are a few[ways to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) that you might consider implementing. A cheat sheet can really help you tweak prompts to better fit the context of your campaign.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 6\. Provide Guidance and Feedback for New DMs
 
  Guidance and feedback from ChatGPT can take place in or outside a session. During a session, you can use ChatGPT to quickly double-check rules and look up information regarding classes, races, abilities, items, and more. It's also a definite lifesaver in complicated battle scenarios.
 
  For new DMs, though, it's a great way to get some feedback on ideas and session summaries. For the prompt, you can write out a summary of what happened, and ask if the events that took place made sense, followed the rules, and if there's anything that could have been done better.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Improve Your D&D Experience With ChatGPT
 
  ChatGPT, with the right prompts, can greatly improve your D&D experience by functioning as an efficient dungeon master assistant, whether you're just getting started or you're a veteran dungeon master. Assisting with map and environment creation, NPC dialogue, guidance and feedback after sessions, and generating random events are just a few examples.

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Personalized AI: Crafting Your Own ChatGPT Writing Style"
-date: 2024-07-23 10:29:37
-updated: 2024-07-26 10:22:15
+date: 2024-08-02T16:16:26.905Z
+updated: 2024-08-03T16:16:26.905Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,17 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
 ## Master the Art of Hiding Your ChatConversations with GPT: No Deletions Involved
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
 * [How to Hide ChatGPT Chats on Your iPhone](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-your-iphone)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI's ChatGPT allows users to hide their chats easily from the sidebar.
@@ -40,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
@@ -51,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 3. When the settings menu pops up, click**Manage** next to**Archived chats** .
 4. To view a hidden chat, simply click on the name of the chat. However, to unhide it, click the**Unarchive conversation** button (next to the**Trash** icon).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
@@ -64,8 +76,14 @@ thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d
 3. Long-press on the chat you want to hide and choose**Archive** from the context menu.
 4. When prompted to confirm, tap**Archive** again.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
@@ -83,6 +101,9 @@ Close
 3. Tap on the hidden chat and then select**View** if you want to read it, or**Unarchive** to bring the chat back to the sidebar.
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)

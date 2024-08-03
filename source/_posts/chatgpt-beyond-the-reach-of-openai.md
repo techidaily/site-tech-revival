@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT: Beyond the Reach of OpenAI?"
-date: 2024-07-26 12:19:55
-updated: 2024-07-27 11:41:27
+date: 2024-08-02T16:16:14.275Z
+updated: 2024-08-03T16:16:14.275Z
 tags:
   - chatgpt
   - open-ai
@@ -43,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
 ## Which Is the Most Private Large Language Model?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -57,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
 ## Which LLM Has the Best General Knowledge?
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -73,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
 ## Which LLM Is Good for Technical Instructions?
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -89,14 +98,23 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
 ## Which LLM Is Good for Writing Code?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Which LLM Tells the Best Jokes?
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
@@ -111,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/0ad1f89069cff4b2779ade10913206262c7bed585
 
 You read it here first, folks.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.

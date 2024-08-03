@@ -1,7 +1,7 @@
 ---
 title: "AI in Therapy: Leveraging ChatGPT for Effective Cognitive Behavioral Strategies"
-date: 2024-07-27 12:26:33
-updated: 2024-07-28 12:22:25
+date: 2024-08-02T16:16:31.875Z
+updated: 2024-08-03T16:16:31.875Z
 tags:
   - chatgpt
   - open-ai
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ## What Does a Good Translation Look Like?
 
-![A Translate keyboard button ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-translate-keyboard-key.jpg)
+![A Translate keyboard button ](https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574b036e27c98e637af2bd24e8.jpg)
 
  The primary purpose of translation is to convey the meaning of a speech written or spoken in one language using another language. Consequently, a good translation must not just swap the meaning of words between two languages but must convey the meaning of the entire body of text as a whole.
 
@@ -45,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
  Since text translation is one of the[things ChatGPT can do impressively](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , we decided to compare how it stacks up against Google Translate. We selected some hard-to-translate text that featured common translation problems to compare the two tools.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google Translate vs. ChatGPT: Translating Colloquialisms
 
  When translating colloquialisms, the translation may not preserve the meaning and intent in a similar tone as the original language.
@@ -63,10 +66,22 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ChatGPT had a go at it:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![ChatGPT tries to translate a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino2.jpg)
 
 And so did Google:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Google translates a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino2.jpg)
 
  This clearly gave both tools a hard time, but Google Translate seemed to have an edge.
@@ -79,6 +94,9 @@ And so did Google:
 
 Google, on the other hand, did fairly well.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Translate translating malayalam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/goo.jpg)
 
  None of the tools could get it perfectly, but Google Translate was as close as you can get. This is a close contest. While Google Translate has an edge, ChatGPT can provide the meaning of idioms instead of just translations. This could be very useful when translating a larger body of text that contains an idiom. In such cases, translating an idiom literally could be a source of confusion when read together with the surrounding text.
@@ -109,6 +127,14 @@ Up next is a translation task in Filipino.
 
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google Translate vs. ChatGPT: Translating Creoles
 
  Creoles, especially those that borrow many words from other languages, are notoriously hard to translate. We tasked both ChatGPT and Google Translate to interpret a creole called "Pidgin English," spoken in West Africa.
@@ -125,6 +151,9 @@ Below is the source text:
 
  Although not flawlessly, ChatGPT's interpretation was able to clearly convey the meaning and intent of the speaker. Considering the highly contextual nature of Pidgin English, the results are very impressive.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-pidgin-translation.jpg)
 
 ## Google Translate vs. ChatGPT: Language Coverage
@@ -133,10 +162,16 @@ Below is the source text:
 
  Of course, we tested ChatGPT on several languages not supported by Google Translate. It was able to provide translations for these additional languages, which Google Translate does not offer. However, the quality of ChatGPT's translations for these unsupported languages was a bit inconsistent. While some were considerably accurate, some were quite poor and inaccurate. While ChatGPT covers more languages, the translations it provides for many of them leave much to be desired in terms of accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google Translate vs. ChatGPT: Which Translation Tool Is Better?
 
  It's hard to say with certainty. Both translation tools have their strong points. Google has been making massive investments in[Natural Language Processing (NLP)](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) . As a result, it outperforms ChatGPT in languages to which it has paid special attention. However, considering[how ChatGPT works and its training](https://www.makeuseof.com/how-does-chatgpt-work/) , it represents a unique and exciting approach to translation. Which of them should you use? Both tools are free, so feel free to experiment and settle for which one works for you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT: An Emerging Translation Tool
 
  Google Translate has made a name for itself in the machine translation space. However, ChatGPT, although relatively new, is not a pushover. One of ChatGPT's greatest advantages is its ability to adjust its translation based on the context or extra provided by the user. Google Translate can not currently do this.

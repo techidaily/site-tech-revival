@@ -1,7 +1,7 @@
 ---
 title: Maximizing Client Results with AI-Driven Planning
-date: 2024-07-24 21:44:17
-updated: 2024-07-27 11:21:11
+date: 2024-08-02T16:16:14.478Z
+updated: 2024-08-03T16:16:14.478Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/fba9d1b021c91a0b6059d158b3fda53b17a7a738b
 
 ## Create Stunning Visuals with These 8 DALL-E Aster Prompts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [A Poster of Your Favorite Place](https://www.makeuseof.com/dall-e-3-best-image-prompts/#a-poster-of-your-favorite-place)
@@ -40,6 +43,9 @@ And here is the final result:
 
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Calendar Cover Artwork
 
  You can[make a printable calendar with Canva](https://www.makeuseof.com/tag/make-your-own-calendar-using-canva/) and other apps, but that doesn’t mean you can’t use DALL-E 3 to generate the front cover artwork. Whether you want to gift someone your calendar or use it yourself, try using this prompt.
@@ -50,8 +56,14 @@ I asked DALL-E 3:
 
  When I asked DALL-E 3 the first time around, it gave me “20225” instead of “2025.” So, you might need to request grammatical corrections. And remember to use the image size format that your calendar will follow.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 3 A Birthday Card Cover
 
  Will a loved one be celebrating their special day soon? Consider using AI to generate the image for a birthday card cover. I entered the following prompt:
@@ -60,6 +72,9 @@ I asked DALL-E 3:
 
 This was the result:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Prototype With Typos Etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-prototype.jpeg)
 
  As you can see, DALL-E 3 gave me a birthday card cover. However, it also added other objects that I didn’t want—such as a background and stencils. There were also spelling inaccuracies.
@@ -86,6 +101,9 @@ Okay, so that didn’t go to plan…
 
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 5 Smartphone Wallpapers
 
  If you want a unique smartphone wallpaper, you can experiment with DALL-E 3 and see what it comes up with. I first asked DALL-E 3 to give me a smartphone wallpaper in 16:9 format, but despite asking multiple times, the AI did not remove the images of an actual smartphone (see the first and second images at the bottom of this section).
@@ -98,6 +116,9 @@ So, I tried a different prompt:
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Music Album Covers
 
  You can find several[websites to sell your own music](https://www.makeuseof.com/tag/great-sites-to-sell-your-own-music-on/) , and a visually appealing album cover is paramount to standing out and getting recognized.
@@ -120,8 +141,14 @@ I used the following prompt:
 
  You can customize the above prompt for any landmark or genre that interests you. Below is the result I got with just one prompt. I was happy with this, and it was a much smoother process than some of the other attempts in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8 Photo Album Covers
 
  Do you want to print photos you took on a recent trip? If so, why not also customize the photo album cover? You can also create physical photo album covers for other things, like images of your dogs and family.

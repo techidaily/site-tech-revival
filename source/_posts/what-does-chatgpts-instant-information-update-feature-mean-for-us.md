@@ -1,7 +1,7 @@
 ---
 title: What Does ChatGPT's Instant Information Update Feature Mean for Us?
-date: 2024-07-22 22:36:57
-updated: 2024-07-24 12:24:36
+date: 2024-08-02T16:16:01.551Z
+updated: 2024-08-03T16:16:01.551Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Generate the Presentation Text With ChatGPT
 
  The first step in creating a presentation is to generate the text with ChatGPT. To get a proper output, you must provide ChatGPT with some basic information about the presentation, such as the topic, the audience, and the main points you want to cover.
@@ -41,6 +44,18 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  So, other than the topic, your prompt should include the main points and some structural features like the number of slides. You can see a sample conversation with ChatGPT for this purpose in the image below or through this[shared chat link](https://chat.openai.com/share/0130da56-15cb-4e8e-bc86-58f79ca9cbc9) .
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
@@ -64,12 +79,18 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
 
 1. Open the**Extensions** menu.
 2. Go to SlidesAI and then click**Generate Slides** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
@@ -77,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
 6. Check**Replace Existing Slides** .
 7. Go to the**Themes** tab and select a style.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
@@ -101,10 +125,16 @@ thumbnail: https://thmb.techidaily.com/0bb4c495dd7731927ccaea9b5575b62f707a96030
 
  Once your slideshow is all set, it's time to start preparing for the presentation. If you want to present on Google Slides, there's only a little left to do other than rehearse.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Create Efficient Presentations in Minutes
 
  Creating a presentation involves a lot of invisible work. In an ideal world, you would dedicate your precious time to researching and rehearsing, and have someone else do the labor of creating the presentation.

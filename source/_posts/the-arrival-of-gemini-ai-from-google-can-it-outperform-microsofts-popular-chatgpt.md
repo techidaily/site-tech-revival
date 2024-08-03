@@ -1,7 +1,7 @@
 ---
 title: The Arrival of Gemini AI From Google - Can It Outperform Microsoft's Popular ChatGPT?
-date: 2024-07-26 13:29:20
-updated: 2024-07-27 11:44:15
+date: 2024-08-02T16:16:34.720Z
+updated: 2024-08-03T16:16:34.720Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
 ## What You Need to Know About AI Chatbots
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -71,8 +77,14 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -89,6 +101,9 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
 ## Which LLM Is Good for Writing Code?
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
@@ -97,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
 ## Which LLM Tells the Best Jokes?
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
@@ -111,6 +129,9 @@ thumbnail: https://thmb.techidaily.com/d11ab69328de06b2bbe702807d8f8d332f02dd668
 
 You read it here first, folks.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## No Chatbot Is Perfect
 
  We found that while all three large language models have their advantages and disadvantages, none of them can replace the real expertise of a human being with specialized knowledge.

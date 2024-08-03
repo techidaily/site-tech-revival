@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Difference: An In-Depth Look at Gemini Vs. ChatGPT Plus"
-date: 2024-07-28 22:12:56
-updated: 2024-07-29 11:16:18
+date: 2024-08-02T16:15:43.594Z
+updated: 2024-08-03T16:15:43.594Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec23
 
 ## What Is TruthGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
 
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
@@ -27,6 +30,9 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Why Is Elon Musk Building TruthGPT?
 
  In an interview with[Fox News](https://www.foxnews.com/media/elon-musk-develop-truthgpt-warns-civilizational-destruction-ai) , Elon Musk expressed his concerns about how big AI firms can perpetuate bias and disinformation through AI chatbots—an emerging tool people increasingly depend on for information. Elon Musk also commented on the threat AI poses to humanity, emphasizing the possibility of an AI apocalypse, a scenario where AI systems could take control of our daily lives.
@@ -35,8 +41,14 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Would TruthGPT Look Like?
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -49,6 +61,9 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 ## Why Building TruthGPT Is a Huge Challenge
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
@@ -59,6 +74,9 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is TruthGPT an Exciting Possibility?
 
  Elon Musk's plans for TruthGPT seem noble and commendable. However, building an AI model with a negligible incidence of inaccuracies is a tough task.

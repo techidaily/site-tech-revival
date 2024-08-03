@@ -1,7 +1,7 @@
 ---
 title: "The Power to Personalize: Building Custom GPT Models Through ChatGPT's New Update"
-date: 2024-07-21 10:26:17
-updated: 2024-07-24 12:36:19
+date: 2024-08-02T16:16:34.228Z
+updated: 2024-08-03T16:16:34.228Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,19 @@ thumbnail: https://thmb.techidaily.com/e36d4a2a6c674cd6677ba6814b8c312dcb4a11aef
 
 ## Get Started with OpenAI's Newest Offering: The Personalized GPT Hub - Secure Your Spot Today
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Access the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-access-the-gpt-store)
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -41,22 +48,34 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
 
 1. Once you can access the GPT Store, click**Explore GPTs** on the left sidebar of the ChatGPT interface to open the store.
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
  Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.

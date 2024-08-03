@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Limitations Exposed: 3 Excel Tasks It Simply Can't Handle"
-date: 2024-07-21 20:17:18
-updated: 2024-07-23 11:12:51
+date: 2024-08-02T16:16:34.437Z
+updated: 2024-08-03T16:16:34.437Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 2\. Aaron Web Browser
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
 ## 3\. AppyPie App Builder
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
@@ -55,8 +64,14 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. AI Agents
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
@@ -67,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/a340b32764d713af4f960a065c1dc4d886b3bb5db
 
 ## 5\. A Movie Please (FilmFindr)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.

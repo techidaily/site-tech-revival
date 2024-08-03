@@ -1,7 +1,7 @@
 ---
 title: A Step-by-Step Guide to Structuring ChatGPT Conversations
-date: 2024-07-26 17:42:57
-updated: 2024-07-27 11:53:11
+date: 2024-08-02T16:16:35.517Z
+updated: 2024-08-03T16:16:35.517Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
@@ -55,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Hide ChatGPT Chats on Your iPhone
 
  ChatGPT's mobile app also lets you archive chats, but for now, the feature is limited to the iOS version of the app. However,[OpenAI confirmed on X (formerly Twitter)](https://twitter.com/OpenAI/status/1737517702766633063) that the feature will make it to Android soon. Here's how to hide your ChatGPT chats on iOS:
@@ -64,10 +70,19 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 3. Long-press on the chat you want to hide and choose**Archive** from the context menu.
 4. When prompted to confirm, tap**Archive** again.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
 Close
@@ -83,10 +98,16 @@ Close
 3. Tap on the hidden chat and then select**View** if you want to read it, or**Unarchive** to bring the chat back to the sidebar.
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
 Close

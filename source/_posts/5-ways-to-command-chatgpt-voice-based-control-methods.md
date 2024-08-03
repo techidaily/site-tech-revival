@@ -1,7 +1,7 @@
 ---
 title: "5 Ways to Command ChatGPT: Voice-Based Control Methods"
-date: 2024-07-23 12:21:24
-updated: 2024-07-26 12:56:26
+date: 2024-08-02T16:16:30.089Z
+updated: 2024-08-03T16:16:30.089Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,23 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  So, here are five ChatGPT features you're not using but absolutely should be.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 1 Read Aloud
 
  In March 2024, OpenAI launched ChatGPT's Read Aloud feature, enabling the AI tool to read its responses to you. It can be handy if you're working on a long piece of text and want to hear how it sounds spoken, but it also means that you can now effectively converse with ChatGPT (using ChatGPT's voice input feature).
@@ -32,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -46,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -62,10 +85,16 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
@@ -74,6 +103,10 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.

@@ -1,7 +1,7 @@
 ---
 title: "Browser-Based AI Management: Mastering the Use of AgentGPT"
-date: 2024-07-22 19:47:59
-updated: 2024-07-25 10:12:55
+date: 2024-08-02T16:16:40.358Z
+updated: 2024-08-03T16:16:40.358Z
 tags:
   - chatgpt
   - open-ai
@@ -28,8 +28,14 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 
  Llama 3 and GPT-4 are two of the most advanced large language models (LLMs) available to the public. Let’s see which LLM is better by comparing both models in terms of multimodality, context length, performance, and cost.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is GPT-4?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking GPT-4o using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/886c4fbb-dd01-42da-b2de-ff25a87fa046.jpg)
 
  GPT-4 is the latest large language model (LLM) developed by OpenAI. It builds upon the foundations of the older GPT-3 models while using different training techniques and optimizations using a much larger dataset. This significantly increased the parameter size of GPT-4, which is rumored to have a combined total of 1.7 trillion parameters from its smaller expert models. With the new training, optimizations, and larger number of parameters, GPT-4 provides improvements in reasoning, problem-solving, context understanding, and better handling of nuanced instructions.
@@ -52,6 +58,9 @@ There are currently three variations of the model:
 
  You can access Llama 3 through[Meta AI](https://www.meta.ai/) , its generative AI chatbot. Alternatively, you can run the LLMs locally on your computer by downloading Llama 3 models and loading them through Ollama, Open WebUI, or LM Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Multimodality
 
  The release of GPT-4o has finally delivered on the initial marketing of GPT-4 having multimodal capabilities. These multimodal features can now be accessed by interacting with ChatGPT using the GPT-4o model. As of June 2024, GPT-4o doesn’t have any integrated way of generating video and audio. However, it does have capabilities to generate text and images based on video and audio inputs.
@@ -77,6 +86,9 @@ There are currently three variations of the model:
 
  In contrast, GPT-4 now supports a significantly larger context length of 32,000 tokens (around 25,600 words) for ChatGPT users and 128,000 tokens (around 102,400 words) for those using API endpoints. This gives GPT-4 models an edge in managing extensive conversations and the ability to read long documents or even through an entire book.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Performance
 
  Let’s compare performance by looking at the[Llama 3 April 18, 2024, benchmark report from Meta AI](http://ai.meta.com/blog/meta-llama-3/) and the[GPT-4 May 14, 2024, GitHub report by OpenAI](http://github.com/openai/simple-evals?tab=readme-ov-file#benchmark-results) . Here are the results:
@@ -99,6 +111,9 @@ Here’s what each criterion evaluates:
 
  The recent benchmarks highlight the performance difference between GPT-4 and Llama 3 models. Though the Llama 3 8B model seems to lag significantly behind, the 70B and 400B models provide lower but similar results to both GPT-4o and GPT-4 Turbo models in terms of academic and general knowledge, reading and comprehension, reasoning and logic, and coding. However, no Llama 3 model is yet to come close to the performance of GPT-4 in terms of pure mathematics.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Cost
 
  Cost is a critical factor for many users. OpenAI's GPT-4o model is available to all ChatGPT users for free at a 16-message limit every 3 hours. If you need more, then you'll have to subscribe to ChatGPT Plus, which costs $20 USD per month to expand GPT-4o's message limit to 80 while also having access to the other GPT-4 models.
@@ -111,6 +126,10 @@ Here’s what each criterion evaluates:
 
  Although both models are readily available, GPT-4 is much easier to use because it is integrated into popular productivity tools and services. On the other hand, Llama 3 is mainly integrated into research and business platforms like Amazon Bedrock, Ollama, and DataBricks (except for Meta AI chat assist), which doesn't appeal to the larger market of non-technical users.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## GPT-4 vs. Llama 3: Which Is Better?
 
  So, which LLM is better? I would have to say that GPT-4 is the better LLM. GPT-4 excels in multimodality with advanced capabilities in handling text, image, and audio inputs, while Llama 3's similar features are still in development. GPT-4 also offers a much larger context length and better performance and is widely accessible through popular tools and services, making it more user-friendly.

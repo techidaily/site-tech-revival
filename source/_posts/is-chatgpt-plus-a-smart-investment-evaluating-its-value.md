@@ -1,7 +1,7 @@
 ---
 title: Is ChatGPT Plus a Smart Investment? Evaluating Its Value
-date: 2024-07-26 21:59:10
-updated: 2024-07-27 12:18:42
+date: 2024-08-02T16:15:47.335Z
+updated: 2024-08-03T16:15:47.335Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  Although tempting, please think twice before taking their advice. AI can help you make money—just not in the way gurus claim. Here’s the truth about eight popular ChatGPT side hustles.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. YouTube Script Writing
 
 ![The YouTube Channel of MakeUseOf](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/muo-youtube-channel.jpg)
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  Instead of spamming your channel with generic, AI-produced videos, focus on creating content that resonates with your audience. Ask what viewers want from you. YouTube has nearly a billion videos—viewers won’t bother with recycled ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Academic Essay Writing
 
  Taking on essay writing gigs is a gray area in freelancing—they promote cheating. Yet despite their controversial nature, many freelancers sell essays. You’ll find several[academic writing jobs](https://www.makeuseof.com/websites-to-find-academic-writing-jobs/) online.
@@ -41,8 +47,18 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Copywriting and Blogging
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
 
  AI has come a long way from spitting incoherent text. ChatGPT runs on advanced language models that produce natural, human-like phrases free of typos and grammatical errors. It already writes better than most inexperienced writers.
@@ -53,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
 **Tip:** You don’t have to ditch ChatGPT altogether.[Writers can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) for topic research, idea generation, and simple coding.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Caption Writing
 
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
@@ -63,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  To grab the reader’s attention, write captions yourself. See what format suits your brand. Some users like writing long-form captions that tell stories, while others prefer a minimalistic approach. We suggest trying out different styles.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Selling Diet and Fitness Programs
 
 [ChatGPT carries several health-focused functions](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/) . Users can generate recipe ideas, study workout routines, and ask general wellness questions. Although helpful, shady fitness gurus also abuse this feature. They ask ChatGPT to spit out a bunch of workout routines, compile them into PDFs, and then sell them to their followers.
@@ -79,10 +101,17 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  If you need to launch a website but don’t have any experience, use[no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/) . They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 7\. Email Marketing
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
 
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates.[Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
@@ -101,6 +130,9 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Explains AI Like Talking to a Five Year Old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-simple-ai-explanation.jpg)
 
  These examples simply cover the basics. To[get the best results from ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , you must craft detailed instructions that maximize datasets and override certain restrictions. The below photo illustrates an effective jailbreak prompt.

@@ -1,7 +1,7 @@
 ---
 title: "Snapchat's AI Compared with Microsoft's Bing on Skype: Unveiling the Top 8 Distinctions"
-date: 2024-07-21 16:13:36
-updated: 2024-07-24 11:30:48
+date: 2024-08-02T16:16:46.693Z
+updated: 2024-08-03T16:16:46.693Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
 ## Will There Be a GPT-5?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT logo on dark green background ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-risk.jpg)
 
  Yes, there will almost certainly be a 5th iteration of OpenAI's GPT large language model called GPT-5\. Unfortunately, much like its predecessors, GPT-3.5 and GPT-4, OpenAI adopts a reserved stance when disclosing details about the next iteration of its GPT models. Instead, the company typically reserves such information until a release date is very close. This tight-lipped policy typically fuels conjectures about the release timeline for every upcoming GPT model.
@@ -33,8 +36,15 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 
 Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## When Is GPT-5 Coming?
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
@@ -51,8 +61,14 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Changes Could GPT-5 Bring?
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
@@ -61,6 +77,9 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## GPT-5: An Exciting Future Awaits
 
  While much of the details about GPT-5 are speculative, it is undeniably going to be another important step towards an awe-inspiring paradigm shift in artificial intelligence.

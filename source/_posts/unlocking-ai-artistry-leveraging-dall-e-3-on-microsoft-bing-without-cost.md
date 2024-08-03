@@ -1,7 +1,7 @@
 ---
 title: "Unlocking AI Artistry: Leveraging DALL-E 3 on Microsoft Bing Without Cost"
-date: 2024-07-25 18:12:31
-updated: 2024-07-28 10:17:44
+date: 2024-08-02T16:16:31.228Z
+updated: 2024-08-03T16:16:31.228Z
 tags:
   - chatgpt
   - open-ai
@@ -27,20 +27,45 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 
  For every query you submit, it will scour the internet for relevant answers. But it doesn't stop there. The search engine will further summarize its findings into more straightforward and articulate responses that you can use immediately. Plus, it'll equally cite sources as references.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## How to Use Bing’s AI-Powered Search Engine
 
  At launch, you needed to join a waitlist in order to try Bing's AI-powered search engine, but it's now available for everyone. Here's how to use it:
 
 1. Head over to[Bing](https://www.bing.com/new?form=MY029I&OCID=MY029I) 's dedicated page.
 2. If you're using a non-Edge browser, you'll need to switch over to Edge.  
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open in Microsoft Edge prompt on a white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-in-microsoft-edge.jpg)
 3. Click on**Sign in** (in the top-right corner) to log in to your Microsoft Account.
 4. Once inside, click on**Chat now** .
 5. Pick a conversation style. By default, this is set to**More Balanced** . You can choose to be**More Precise** or**More Creative** .  
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 6. Go to the typing area and enter your question. You have a 2,000-character limit.
 7. When done, click the send arrow and wait for it to populate your answer.
 8. It will also preempt your next question or response by suggesting chat prompts.  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![New Bing Chat Feedback showing Chat Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-feedback.jpg)
 
  Bing also allows you to switch between just**Chat** and**Search** with chat. To experience the Bing AI-powered search:
@@ -51,10 +76,16 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 3. It'll also show you prompts that you can click on to learn more about your subject, including how to contact them (for most people searches).
 4. You can further refine your search by typing a query into the chat box just beneath the main result (if available for your query). To your right, you'll find additional information, for some searches.
 5. If you search for celebrities or popular personalities, it can pull up their Wikipedia entries as well as a chat option to help you learn more about their work, personalities, worldview, and so on. Again, this is subject to availability. To begin, simply click on**Let's chat** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Bing AI-powered Search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-search-with-ai.jpg)
 
  Chat mode will only be available when you have access to the AI-powered Bing.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What to Expect from Bing’s AI-Powered Search Engine
 
  With Bing's AI-powered search, you can expect to enjoy a faster and richer search experience than you would get from a regular Google or Bing search. You can also expect to get citations or references as well as conversational chat results.

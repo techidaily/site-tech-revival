@@ -1,7 +1,7 @@
 ---
 title: Interfacing GPT Technology With Household Automation
-date: 2024-07-25 23:39:23
-updated: 2024-07-27 12:40:54
+date: 2024-08-02T16:16:34.068Z
+updated: 2024-08-03T16:16:34.068Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
 ## DALL-E 3 Reveals Integrated Editing Tools - Time to Polish and Perfect Them
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
@@ -33,12 +36,19 @@ thumbnail: https://thmb.techidaily.com/7491070a9335b06cf0f788f98c5ea183aa46a07a8
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
 
  DALL-E 3's integrated editing tools now aim to fix issues within the same image without creating a new prompt. You highlight an area in the image you want to adjust, prompt DALL-E to make a specific change (such as "remove this" or "add this feature"), and it goes to work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
 However, it's a mixed bag.
@@ -51,6 +61,10 @@ However, it's a mixed bag.
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Removing and Erasing
 
  DALL-E 3's editing tools can erase some small features, but it definitely struggles. In the following image, I'd asked DALL-E to create "A robotic hand holding a glowing, transparent square chip with 'AI Accelerated' written on it. The background is dark blue, creating a futuristic and high-tech atmosphere."
@@ -73,6 +87,9 @@ Close
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
  The color is slightly dull but unchanged, and some features are warped slightly.
@@ -97,6 +114,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
  I've found that DALL-E's editing tools are useful for certain tasks, but it takes some time to get the editing right. At other times, it just won't work, and you're probably better off taking your original prompt and tweaking that to create a new image.

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Crafting Dynamic Conversations with ChatGPT on GitHub
-date: 2024-07-22 17:39:29
-updated: 2024-07-24 10:56:10
+date: 2024-08-02T16:15:30.359Z
+updated: 2024-08-03T16:15:30.359Z
 tags:
   - chatgpt
   - open-ai
@@ -23,20 +23,32 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Considering the accessibility and sophistication of language models, you might consider publishing AI content. Offloading writing tasks to ChatGPT will boost your output. It only needs seconds to generate a coherent, error-free blog on any given topic.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Writing the Intro and Body of an Article About Ai](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-writing-and-article-about-ai.jpg)
 
  Although convenient, we advise against submitting AI content. ChatGPT merely scrapes and rephrases information from datasets—its output likely contains plagiarized text. Your employer can fire you for plagiarism if you carelessly use them in your articles.
 
  Explore[responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
 
  ChatGPT’s sophisticated[natural language processing](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) (NLP) system understands input and produces corresponding responses. Some employees rely on it for drafting performance reports. They make ChatGPT write customized reviews by submitting their subordinates’ key performance indicators (KPIs).
 
  However, using ChatGPT this way is deceitful—it doesn’t have enough context to assess your employees accurately. You’ll definitely get fired for submitting erroneous ratings. Workers might even file lawsuits against you depending on the gravity of the situation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Person Highlighting Parts of a Contract in Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/highilighting-parts-of-contract.jpg)
 
 [OpenAI](https://openai.com/policies/terms-of-use) states in its terms of use that ChatGPT records and reviews all user conversations. The company uses non-API content for data training. While[ChatGPT doesn’t learn from chats in real-time](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , its trainers still screen and filter input. You should never divulge company information.
@@ -53,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
 ## 5\. Making ChatGPT Reply to Messages
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
@@ -81,16 +96,25 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
 
  Explore[ethical ways of using ChatGPT in programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . Most employers are okay with their dev team researching algorithms, generating placeholders, and refracting snippets on AI tools, but you must write and edit codes manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 9\. Editing Articles and Papers With ChatGPT
 
  ChatGPT can help you edit drafts. Its sophisticated language model detects awkward sentences, grammatical errors, and even incoherent statements. Take the below conversation as an example. We asked for constructive criticism based on our preferred style guide and tonality.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![ChatGPT Editing Paragraph Based on AP Styleguide](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-acting-as-an-editor.jpg)
 
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
 
 ## 10\. Analyzing Financial Charts on ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
 
  One of[OpenAI’s worst issues with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it gets confused with word and number problems. You can only ask intermediate-level questions. Making ChatGPT analyze complex financial reports would likely produce errors and inaccuracies.

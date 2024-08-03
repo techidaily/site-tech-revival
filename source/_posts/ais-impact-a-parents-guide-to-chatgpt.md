@@ -1,7 +1,7 @@
 ---
 title: "AI's Impact: A Parent's Guide to ChatGPT"
-date: 2024-07-23 13:20:46
-updated: 2024-07-26 12:49:22
+date: 2024-08-02T16:16:18.968Z
+updated: 2024-08-03T16:16:18.968Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,15 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 1\. I Am Rich
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
@@ -35,14 +42,23 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
 
 ## 2\. Aaron Web Browser
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. AppyPie App Builder
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
@@ -67,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/a2e90f9c59ddfc76d24d52ddf99c58f1453c310ce
 
 ## 5\. A Movie Please (FilmFindr)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.

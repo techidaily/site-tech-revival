@@ -1,7 +1,7 @@
 ---
 title: "From Typist to Writer: Empower Your Workflow with Microsoft's GPT"
-date: 2024-07-24 11:42:28
-updated: 2024-07-25 12:52:18
+date: 2024-08-02T16:16:23.994Z
+updated: 2024-08-03T16:16:23.994Z
 tags:
   - chatgpt
   - open-ai
@@ -26,8 +26,14 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
  OpenAI's Sora text-to-video tool is set to give the world another ChatGPT moment, and for good reason. Sora's ability to generate high-quality video from text prompts is remarkable but not unprecedented, and it's still yet to fully launch. So, if you're looking for a Sora alternative, for whatever reason, you have options to choose from.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 [Runway's Gen-2](https://research.runwayml.com/gen2)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
 
 * **Free:** 125 Credits
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/638a2f4fa92a4f27206abae8eaf7af1c219069283
 
 ## 2 [Pika](https://pika.art/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
 
 * **Free:** 250 initial credits (free 30 credits daily after exhausting initial credits)
@@ -66,6 +75,9 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
 
 ## 3 [Pixverse](http://pixverse.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of pixverse homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pixverse-homepage.jpg)
 
 * **Free**
@@ -86,6 +98,10 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
 ## 4 [Kaiber](https://kaiber.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![screenshot of kaiber homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-kaiber-homepage.jpg)
 
 * **Free:** 100 initial credits
@@ -114,6 +130,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Synthesia is a good alternative to Sora for creating engaging and personalized videos for education, marketing, or entertainment purposes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "No Phone Needed: Register for Online Applications Efficiently"
-date: 2024-07-27 16:10:55
-updated: 2024-07-29 12:55:17
+date: 2024-08-02T16:16:08.580Z
+updated: 2024-08-03T16:16:08.580Z
 tags:
   - chatgpt
   - open-ai
@@ -33,14 +33,23 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Aaron Web Browser
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
@@ -55,8 +64,14 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## 4\. AI Agents
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/6cd087da3f927fb5541ee18a5c4f27fd477ab5294
 
 ## 6\. ABC Website Maker
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.

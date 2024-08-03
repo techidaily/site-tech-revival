@@ -1,7 +1,7 @@
 ---
 title: Detecting Fraudulent ChatGPT Clones on iTunes and the App Store
-date: 2024-07-23 23:39:12
-updated: 2024-07-26 12:50:31
+date: 2024-08-02T16:16:05.999Z
+updated: 2024-08-03T16:16:05.999Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 
  Let's look at some of the best apps and extensions to help you get the most from ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. ShareGPT
 
  ShareGPT is a browser extension that can be added to the most popular web browsers, including Microsoft Edge and Google Chrome. The premise of the extension is to allow easy sharing of ChatGPT chats with a single click.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 
  Clicking this button opens up a new tab with a custom URL containing a complete export chat record. This can then be shared with whoever you need.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ShareGPT URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-sharegpt-url.jpg)
 
  Overall, we found this to be simple but effective. If you want a no-frills and easy-to-use way of sharing your ChatGPT conversations, this ticks all the boxes.
@@ -49,22 +55,34 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 
  Once the chat is ready to export, you can access Export ChatGPT from the extensions drop-down from your browser (usually located to the right of the address bar). This brings up the dialog box shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Export ChatGPT dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-export-chatgpt-dialog-box.jpg)
 
  You will need to link your Notion account to the app, but this was easy. We found that the process was automatic if you had your Notion account open on the same browser.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT conversation imported into Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-imported-into-notion.jpg)
 
  Overall, if you are a Notion user, this delivers on all its promises. If you aren't a Notion user, there are probably better options. However, again it was simple to install on Microsoft Edge and Google Chrome.
 
 **Download** :[Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Export and Share
 
  This extension works with Chrome, Edge, and Firefox. However, the installation isn't available through the proprietary extension sources for the browsers in question. That said, it is a nice tool once installed and worth a little effort.
 
 [Installing an extension manually on Chrome](https://www.makeuseof.com/tag/how-to-install-chrome-extensions-manually/) or another browser isn't that difficult. The steps to do this are detailed below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Installing ChatGPT Export and Share for Chrome and Edge
 
 1. Download the appropriate version from the[ChatGPT Export and Share download page](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) .
@@ -80,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 
 1. Type**about:debugging** into the Firefox address bar.
 2. Click**This Firefox** and then click**Load Temporary Add-on** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT Export and Share Firefox Installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-export-and-share-firefox-installation.jpg)
 3. Select the**content\_script.js** from the extracted installer.
 4. You should now have access to the extension on the ChatGPT website.
@@ -111,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 
  We liked the inclusion of Markdown language with this tool, which is very convenient if you are using text for web content. We tested each option, and they all worked perfectly with the link option, creating a unique, easily shared URL.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Screenshot of Prompt Genius URL for sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-prompt-genius-url-for-sharing.jpg)
 
  Overall, this tool was easy to install and worked exactly as intended. If you want to easily share your work and[improve your prompting techniques](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) at the same time, ChatGPT Prompt Genius might be the tool for you.

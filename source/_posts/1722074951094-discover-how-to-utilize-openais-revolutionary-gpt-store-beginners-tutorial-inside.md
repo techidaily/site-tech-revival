@@ -1,7 +1,7 @@
 ---
 title: Discover How to Utilize OpenAI's Revolutionary GPT Store - Beginner's Tutorial Inside!
-date: 2024-07-26 20:33:38
-updated: 2024-07-27 10:37:55
+date: 2024-08-02T16:16:14.733Z
+updated: 2024-08-03T16:16:14.733Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,19 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
 ## OpenAI's Revolutionary Shop Is Here – Master Your Tailored GPT Solutions Instantly
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Access the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-access-the-gpt-store)
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -31,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Access the GPT Store
 
  Access and use of the new GPT Store[requires a ChatGPT subscription](http://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) . Only users with ChatGPT Plus, ChatGPT Teams, or ChatGPT Enterprise accounts will be able to use the store's catalog of custom GPTs. You also need a ChatGPT subscription if you want to[create your own custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) .
@@ -41,6 +51,9 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -49,6 +62,9 @@ How do you know when you've been granted access?
 2. At the top of the store page, you will see featured categories like Writing, Productivity, Programming, Research and Analysis, and DALL-E for image generation. Click on a category to view a list of the top-performing custom GPT models in that specific category.  
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 5. On the GPT page, you will see information about what that model offers.
@@ -57,6 +73,9 @@ How do you know when you've been granted access?
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
  Since you need a ChatGPT subscription to use custom GPTs, you're probably wondering whether it's worth paying the $20 subscription fee to access the feature.

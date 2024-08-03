@@ -1,7 +1,7 @@
 ---
 title: ChatGPT's Impact on Modern-Day Job Seekers
-date: 2024-07-28 23:29:16
-updated: 2024-07-29 11:47:24
+date: 2024-08-02T16:15:38.482Z
+updated: 2024-08-03T16:15:38.482Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  And while it is almost impossible not to be fascinated by ChatGPT, there are some glaring issues that need to be addressed; privacy concerns, for example. Is ChatGPT really a privacy risk?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns,[Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's Privacy Policy: What You Need to Know
 
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### 1\. Register With a Private Email
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like[ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/) .
@@ -57,16 +66,25 @@ thumbnail: https://thmb.techidaily.com/8fc306ed106f97ddfd3f444e19b4a063b64c04302
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the[California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/) . So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is It Time to Regulate ChatGPT?
 
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per[Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/) .
 
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Use ChatGPT Responsibly
 
  ChatGPT is powerful, versatile, fun to use, and has countless practical uses. However, you should keep in mind that we are still in uncharted territory; nobody really knows where AI will take us, or how it will shape our society. Until we figure out how to deal with this new technology, do what you can to protect yourself and your privacy.

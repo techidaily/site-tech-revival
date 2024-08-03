@@ -1,7 +1,7 @@
 ---
 title: Is ChatGPT Actually Becoming Less Clever? Insights From OpenAI Debunk This Myth.
-date: 2024-07-22 18:55:20
-updated: 2024-07-24 12:40:36
+date: 2024-08-02T16:15:31.220Z
+updated: 2024-08-03T16:15:31.220Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/5b7228f82dd55952004c9e54eccc979f0193c694c
 
  On April 11, 2023, OpenAI announced a bug bounty program as part of its commitment to developing reliable, secure, and advanced AI systems, and anyone with the right skill set can potentially help out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## What Is OpenAI's Bug Bounty Program?
 
 [OpenAI announced](https://openai.com/blog/bug-bounty-program) its Bug Bounty Program to incentivize those using their applications, such as ChatGPT and DALL-E, to create secure, advanced, and globally beneficial AI systems.
@@ -43,14 +46,25 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 Here, you must fill in the following information:
@@ -69,6 +83,9 @@ Here, you must fill in the following information:
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Which Vulnerabilities Are Eligible for Rewards?
 
  You will be rewarded for any security, functionality, performance, and documentation vulnerability you find in api.openai.com, third-party targets, ChatGPT, ChatGPT plugins, <https://openai.org>, \*/openai.org, OpenAI API keys, openai.com, \*/openai.com, and developer platform playground.
@@ -77,6 +94,9 @@ Here, you must fill in the following information:
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Earn Money While Improving OpenAI's Systems
 
  OpenAI's bug bounty program is a great way for you—as an ethical hacker, security researcher, or tech enthusiast—to earn while improving the firm's AI systems.

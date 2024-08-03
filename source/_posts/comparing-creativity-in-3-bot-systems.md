@@ -1,7 +1,7 @@
 ---
 title: Comparing Creativity in 3 Bot Systems
-date: 2024-07-23 17:55:48
-updated: 2024-07-26 10:14:16
+date: 2024-08-02T16:15:38.948Z
+updated: 2024-08-03T16:15:38.948Z
 tags:
   - chatgpt
   - open-ai
@@ -25,8 +25,15 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
 
  But what is Perplexity AI really about, and can you use it instead of Google?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## What Is Perplexity AI, and What Can You Do With It?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
@@ -35,12 +42,21 @@ thumbnail: https://thmb.techidaily.com/6d57556d89630e3677077d1d2a307e5e9447f310d
 
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use Perplexity AI Instead of Google Search
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 Close
@@ -51,6 +67,9 @@ Close
 
  Perplexity is free to use. However, you can upgrade to its Pro plan ($20/month) for access to additional features, such as unlimited access to its more powerful AI models like OpenAI's GPT-4, Anthropic's Claude 3 Opus and Sonnet, and Mistral's Large, plus support for images and files, and better support.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Can Perplexity AI Replace Google?
 
  While Perplexity AI offers a unique value proposition, it's not positioned to replace Google entirely. Google's vast data infrastructure and established user base give it an advantage in many areas. Perplexity excels in providing AI overviews of user queries. However, it's not effective for several other uses that Google has come to be known for, like weather forecasts and geo-sensitive queries.

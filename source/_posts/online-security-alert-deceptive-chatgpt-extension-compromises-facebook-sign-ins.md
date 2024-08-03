@@ -1,7 +1,7 @@
 ---
 title: "Online Security Alert: Deceptive ChatGPT Extension Compromises Facebook Sign-Ins!"
-date: 2024-07-24 17:37:16
-updated: 2024-07-25 12:11:34
+date: 2024-08-02T16:16:34.160Z
+updated: 2024-08-03T16:16:34.160Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,9 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
@@ -45,6 +48,9 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
@@ -55,6 +61,9 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
@@ -67,8 +76,23 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Improved Smart Home and IoT Security
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
@@ -89,8 +113,14 @@ It was also stated in the same report that:
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 7\. Continued Topical Email Scams
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.

@@ -1,7 +1,7 @@
 ---
 title: "OpenAI vs Artists: Understanding the Reasons Behind Sarah Silverman and Others' Lawsuits Against Meta & OpenAI"
-date: 2024-07-28 13:59:20
-updated: 2024-07-29 11:53:32
+date: 2024-08-02T16:15:46.203Z
+updated: 2024-08-03T16:15:46.203Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,19 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  Trading crypto is and always has been a risky game, so it makes sense to pursue avenues that may make it a little easier. In 2023, the use of ChatGPT in crypto trading became evident, as this chatbot is a hub of information. However, there are some reasons why using ChatGPT to trade cryptocurrency may be a bad idea.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 1\. Lack of Real-Time Data
 
  The cryptocurrency market is always changing. A coin can be worth $10 on Monday and then $5 on Tuesday. Because of this, real-time data is crucial in crypto trading, be it prices, trends, or predictions. Using outdated information can result in poor investments and a loss of funds, so it's important to be on top of things.
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
@@ -41,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
@@ -55,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
 ## 4\. Relies Heavily on Historical Data
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -65,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -77,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/259362f05442761cee2c53bd4a987280fdd7ced53
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.

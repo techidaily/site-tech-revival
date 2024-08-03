@@ -1,7 +1,7 @@
 ---
 title: "Unlock Productivity: The Ultimate Guide to Using ChatGPT for Telecommuting"
-date: 2024-07-24 13:17:56
-updated: 2024-07-27 11:41:37
+date: 2024-08-02T16:15:27.866Z
+updated: 2024-08-03T16:15:27.866Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ But what if you don't want to part with $20 per month?
 
 Well, here are five ways you can use GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 1.[Microsoft Copilot](https://www.bing.com/chat?form=NTPCHB)
 
 ![microsoft copilot website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/microsoft-copilot-website-screenshot.png)
@@ -41,14 +45,23 @@ Well, here are five ways you can use GPT-4 for free.
 
  Copilot has other boons, too. For example, you can[use OpenAI's DALL-E 3 text-to-image tool for free](https://www.makeuseof.com/how-use-dalle-3-free-microsoft-bing/) , enabling you to create highly detailed original images with text input.[Copilot Image Creator works similarly to OpenAI's tool](https://www.makeuseof.com/how-use-bing-image-creator-free/) , with some slight differences between the two. Still, you can use it to create unique AI images almost instantaneously.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![microsoft copilot image creator four images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/microsoft-copilot-image-creator-four-images.jpg)
 
  If you want to use GPT-4 for free, Microsoft Copilot is absolutely one of the best options. A[ChatGPT Plus subscription is still the overall best option](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) due to its extensive array of features, but if you just have a few questions you want answered, Copilot is the next best option.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. ChatGPT
 
  Wait, ChatGPT offers GPT-4 for free?[OpenAI launched a heap of new features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) at its Spring Update event in May 2024, and one of those was a new GPT-4 version: GPT-4o.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt gpt-4o option in web browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/chatgpt-gpt-4o-option-in-web-browser.jpg)
 
 [GPT-4o is completely free to all ChatGPT users](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , albeit with some considerable limitations for those without a ChatGPT Plus subscription. For starters, ChatGPT free users can only send around 16 GPT-4o messages within a three-hour period. Once you hit the message limit, ChatGPT will block access to GPT-4o.
@@ -59,6 +72,9 @@ Well, here are five ways you can use GPT-4 for free.
 
 ## 3.[Perplexity.ai](https://www.perplexity.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![perplexity ai pro search option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/perplexity-ai-pro-search-option.jpg)
 
  Perplexity.ai is a very promising AI tool with the option to use GPT-4 for free. While the free version of Perplexity doesn't specifically state that you're using GPT-4, toggling its "Copilot" mode gives you access to GPT-4, albeit limited to five questions every four hours.
@@ -69,6 +85,9 @@ Well, here are five ways you can use GPT-4 for free.
 
 ## 4\. Merlin
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![merlin ai extension free gpt4 access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/merlin-ai-extension-free-gpt4-access.jpg)
 
  Merlin is a handy Chrome browser extension that provides GPT-4 access for free, albeit limited to a specific number of daily queries.
@@ -83,6 +102,14 @@ Well, here are five ways you can use GPT-4 for free.
 
 ## 5.[Hugging Face](https://huggingface.co/)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![using gpt-4 on hugging face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-gpt-4-on-hugging-face.jpg)
 
  Hugging Face is an open-source machine learning and AI development website where thousands of developers collaborate and build tools.
@@ -95,6 +122,9 @@ Well, here are five ways you can use GPT-4 for free.
 
  Several other tools once provided free GPT-4 access but have since removed the option or pushed it into a premium or subscription tier. The reason for that is simple enough: it's expensive to integrate GPT-4 access into a site and give that access away for free, especially as many people want to access GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### [Poe](https://poe.com/)
 
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
@@ -103,8 +133,15 @@ Well, here are five ways you can use GPT-4 for free.
 
  Quora CEO[Adam D'Angelo's tweet](https://twitter.com/adamdangelo/status/1635690637990445057?) initially revealed Poe's GPT-4 integration in March 2023, with users able to send one free GPT-4 message per day. The number of free GPT-4 messages rose to three, but it has since removed its free GPT-4 messaging capacity. There is no indication if Poe will restore its free GPT-4 messaging option, but it's worth keeping tabs on, just in case.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Ora](https://ora.ai/dashboard)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![ora ai tool home page with llm options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ora-ai-tool-home-page-with-llm-options.jpg)
 
  Ora is a fun and friendly AI tool that allows you to create a "one-click chatbot" for integration elsewhere. Say you wanted to integrate an AI chatbot into your website but don't know how; Ora is the tool you turn to.
@@ -123,6 +160,9 @@ Well, here are five ways you can use GPT-4 for free.
 
  Nat.dev is an Open Playground tool that offered limited access to GPT-4\. However, the person behind nat.dev eventually restricted free access to GPT-4, as costs spiraled. However, you can still use nat.dev to access a wide range of free LLMs, such as Llama, Mistral, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How Much Does Full GPT-4 Access Cost?
 
  If you want the full GPT-4 experience, a ChatGPT Plus subscription is what you need. Sure, it costs $20, but the range of tools, speed and quality of response, and new functionality added make it a worthwhile investment, even for casual users. However, for those who only want to ask one or two questions every now and then, one of the free GPT-4 tools above will do the job just fine.

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity: Innovative Uses of ChatGPT in Excel Workflows"
-date: 2024-07-26 18:11:50
-updated: 2024-07-28 10:18:57
+date: 2024-08-02T16:16:05.313Z
+updated: 2024-08-03T16:16:05.313Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
 ## Unlocking Productivity: Install Microsoft Copilot on Your Mac Today
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Install Microsoft Copilot From the Mac App Store](https://www.makeuseof.com/how-to-get-microsoft-copilot-on-mac/#install-microsoft-copilot-from-the-mac-app-store)
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 3. Click**Get** next to the app's name to install it.
 4. You'll find the app in your Launchpad. You can drag it to the Dock to access it quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dragging Copilot app from Launchpad to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/dragging-copilot-app-from-launchpad-to-the-dock.jpg)
 
  Double-click its icon to start using Copilot right away. Jump to the**Getting Started** section below to get acquainted with the app.
@@ -51,13 +57,23 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
 1. Launch the built-in**Shortcuts** app on your Mac. You'll see it in the Launchpad inside the**Other** folder. Alternatively,[use Spotlight search on your Mac](http://www.makeuseof.com/spotlight-search-on-mac-beginners-guide/) (**Command + Space** ) to find it.
 2. Select**All Shortcuts** from the left sidebar and click the**plus (+)** button in the toolbar at the top of the window to create a new shortcut.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Adding a new shortcut in macOS](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-a-new-shortcut-in-macos.jpg)
 3. Drag the**Open App** action from the right sidebar to the empty space on the left.
 4. Click the blue**App** field and use the search bar to find and select**Copilot** .  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the**Info (i)** tab of the sidebar and click**Add Keyboard Shortcut** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other[useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/) . Then, hit the**Return** key.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
@@ -81,8 +97,14 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
 1. The first thing you should do is enable GPT-4, as that's one of the biggest advantages of using Copilot over ChatGPT. Scroll down on the main screen and toggle on**Use GPT-4** .
 2. Next, click the**ellipsis (...)** icon in the top-right corner of the window and choose**Show All Tones** to customize Copilot's responses.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Enabling GPT-4 in Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/enabling-gpt-4-in-copilot.jpg)
 3. You can choose from**Creative** ,**Balanced** , and**Precise** . By default, it's set to**Creative** , which gets you descriptive responses. I use the**Precise** setting as I prefer concise responses with only the facts that I need.  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Changing tone in the Copilot app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/changing-tone-in-the-copilot-app.jpg)
 4. Additionally, you can click**Sign in** in the top-left corner of the window and log in with your Microsoft account. This allows you to ask more questions and have longer conversations with the AI chatbot.
 
@@ -90,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/f35affd0446f81f879a70f50fd131f599003c290d
 
  You can clear your Copilot search history by heading to the app's privacy settings menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Benefits of Using Copilot Over ChatGPT
 
  The biggest advantage of using Microsoft's AI chatbot over OpenAI's ChatGPT offering is that you can[access GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This means you can include images in your queries, take advantage of DALL·E 3 art generation, install third-party plugins to expand Copilot's feature set, and more.

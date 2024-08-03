@@ -1,7 +1,7 @@
 ---
 title: Assessing the Coquetry of ChatGPT's Mixology Abilities
-date: 2024-07-22 11:29:15
-updated: 2024-07-24 10:52:44
+date: 2024-08-02T16:16:45.167Z
+updated: 2024-08-03T16:16:45.167Z
 tags:
   - chatgpt
   - open-ai
@@ -25,8 +25,14 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
  Despite a few limitations—the chatbot has limited information about the world after about 2021—it's useful for summarizing books, writing a resume, debugging code, and much more. But does it have enough information to design a workout plan for you? Here's how ChatGPT responded to common requests for three different types of workout plans.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Basic Workout Plans From ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
 
  For the first prompt, I asked ChatGPT to create a workout plan for beginners. The basic workout plan it generated allotted time for cardio, resistance training, warm-ups, and cool-downs.
@@ -35,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
  In this instance, ChatGPT responded to the prompt with a standard list of exercises that would work well for many people. If you're interested in a simple, straightforward fitness routine, then its suggestions are legitimate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
@@ -43,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
  A note reinforcing the importance of rest and recovery helps make sure you aren't overtraining as well. Again, it's a dependable plan to increase your baseline fitness.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Chat GPT injury recovery prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chat-gpt-injury-recovery-prompt.jpg)
 
  What if you are recovering from an injury? It's safest (and always recommended) to consult your doctor for any specific questions about how you can exercise with an injury or other health concern, but I wanted to see how the bot would respond.
@@ -57,6 +69,9 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
@@ -71,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/e9d9b71440a916b77a73a65e520d732ec704accfc
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)

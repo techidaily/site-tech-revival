@@ -1,7 +1,7 @@
 ---
 title: "Inside Hugging Face: Concept & Applications"
-date: 2024-07-25 12:38:35
-updated: 2024-07-26 12:34:55
+date: 2024-08-02T16:15:34.197Z
+updated: 2024-08-03T16:15:34.197Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ## Unveiling the Top 8 AI Mobile Applications: Boost Your Phone's Capabilities Today
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * AI apps are now available in various fields such as productivity, education, entertainment, and more, catering to a range of needs.
@@ -27,14 +30,23 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. ChatGPT
 
 ![ChatGPT in App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-in-app-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT demo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-demo.jpg)
 
 Close
@@ -49,6 +61,9 @@ Close
 
 ![WOMBO Dream AI art generator app text prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-text-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![WOMBO Dream AI art generator app art style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-art-generator-app-art-style-options.jpg)
 
 ![WOMBO Dream AI artwork example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/wombo-dream-ai-artwork-example.jpg)
@@ -63,12 +78,24 @@ Close
 
 **Download:** WOMBO Dream for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.womboai.wombodream) |[iOS](https://apps.apple.com/us/app/wombo-dream-ai-art-generator/id1586366816) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Youper
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Youper Therapy chatbot conversations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-conversations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Youper Therapy chatbot tracking emotional state](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-tracking-emotional-state.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Youper Therapy chatbot emotions tracking slider](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-tracking-slider.jpg)
 
 ![Youper Therapy chatbot emotions log](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/youper-therapy-chatbot-emotions-log.jpg)
@@ -99,6 +126,9 @@ Close
 
 **Download:** Replika for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=ai.replika.app) |[iOS](https://apps.apple.com/us/app/replika-virtual-ai-companion/id1158555867) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Be My Eyes
 
 ![Be My Eyes app start screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/be-my-eyes-app-start-screen.jpg)
@@ -117,12 +147,18 @@ Close
 
 **Download:** Be My Eyes for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes) |[iOS](https://apps.apple.com/us/app/be-my-eyes/id905177575) (Free)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 6\. Bing
 
 ![Home page for the Bing app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-app-home.jpg)
 
 ![Bing AI App Discussing Its GPT Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-app-on-gpt-models.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Bing app horse image generation results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/image-generation-3.jpg)
 
 Close
@@ -133,12 +169,35 @@ Close
 
 **Download:** Bing for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/app/bing-chat-with-ai-gpt-4/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. ELSA
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ELSA Speak English learning app home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-home-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![ELSA Speak English learning app training options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-training-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ELSA Speak English learning app catching errors in pronunciation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-catching-errors-in-pronunciation.jpg)
 
 ![ELSA Speak English learning app personalized course](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/elsa-speak-english-learning-app-personalized-course.jpg)
@@ -157,6 +216,9 @@ Close
 
 ![Otter AI app transcribing speech example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-transcribing-speech-example.jpg)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Otter AI app menu options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-menu-options.jpg)
 
 ![Otter AI app Settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/otter-ai-app-settings-menu.jpg)
@@ -169,6 +231,10 @@ Close
 
 **Download:** Otter for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2027009/https://play.google.com/store/apps/details?id=com.aisense.otter) |[iOS](https://apps.apple.com/us/app/otter-transcribe-voice-notes/id1276437113) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## There's an AI App for Almost Everything
 
  As amazing as these AI tools are, it's wise to remember that—all things considered—the technology is still in its infancy and is likely to deliver inaccurate, inappropriate, irrelevant, or unwanted results sometimes.

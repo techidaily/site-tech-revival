@@ -1,7 +1,7 @@
 ---
 title: Leveraging ChatGPT's Power to Upgrade Your Daily Habits and Wellbeing
-date: 2024-07-25 23:31:47
-updated: 2024-07-26 10:56:22
+date: 2024-08-02T16:16:27.515Z
+updated: 2024-08-03T16:16:27.515Z
 tags:
   - chatgpt
   - open-ai
@@ -19,12 +19,27 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
 
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
@@ -35,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -43,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -53,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.

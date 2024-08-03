@@ -1,7 +1,7 @@
 ---
 title: "Walk You Through: The Sequential Process of Getting & Setting Up Auto-GPT"
-date: 2024-07-27 22:10:31
-updated: 2024-07-29 10:10:42
+date: 2024-08-02T16:15:32.124Z
+updated: 2024-08-03T16:15:32.124Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
 ## The Longevity of Auto-GPT in the Era of GPT-4: Assessing Its Independent Worth
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently, making it like a personal assistant that can automate most of your tasks.
@@ -25,8 +28,14 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
  Well, there is a new kid on the block that makes it even easier to use GPT-4: Auto-GPT. How does it work? And can you use it without GPT-4?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is Auto-GPT?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Woman working on a laptop with a cup of coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-on-desk.jpg)
 
  Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently. In other words, Auto-GPT can develop its own prompts and answer autonomously to complete an objective.[Auto-GPT differs from ChatGPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) because it doesn't need a human agent to prompt it every step of the way.
@@ -35,20 +44,29 @@ thumbnail: https://thmb.techidaily.com/8404aae8332517e90ea13209ccbcb49d56b9cbe41
 
  Basically, Auto-GPT is like your personal assistant that can automate most of your tasks, and there are already several[practical ways you can put Auto-GPT to use](https://www.makeuseof.com/ways-you-can-use-auto-gpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How Do You Access Auto-GPT on Your PC?
 
-![A grey laptop and a phone on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-grey-laptop-and-a-phone-on-a-table.jpg)
+![A grey laptop and a phone on a table](https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg)
 
  For starters, you can access Auto-GPT using Windows, MacOS, or Linux. You also need an OpenAI API account before you start.
 
 Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
 1. First, download the latest version of Python to your computer. Here is a guide on[how to install Python PIP](https://www.makeuseof.com/tag/install-pip-for-python/) on Windows, Mac, and Linux. If you're using Windows,[add Python to the Windows PATH variable](https://www.makeuseof.com/python-windows-path/) before installation.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 2. Download[Auto-GPT source code](http://github.com/Significant-Gravitas/Auto-GPT) from GitHub.
 3. Extract the ZIP archive and copy the Auto-GPT folder to your preferred location.
 4. Search for the ".env" file in the folder, right-click it, and select**Open with Notepad.**
 5. Visit your OpenAI account, and on the top right of your screen, click**Personal** and select**View** **API keys** . This should take you to the[OpenAI API keys page](https://platform.openai.com/account/api-keys) while you're signed in.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OpenAI home page showing Personal section with View API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/openai-home-page.jpg)
 6. Copy your secret API keys from Open AI. If you don't have API keys, click on**Create new secret key** .  
 ![Screenshot showing blurred out OpenAI API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/api-keys.jpg)
@@ -64,6 +82,9 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 13. After you've opened the Terminal, enter "pip install -r requirements.txt" to automatically download and install the necessary libraries for Auto-GPT.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/11-pip-install-requirements.jpg)
 14. Launch Auto-GPT on your computer by executing the following command: "python -m autogpt".  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/weldom.jpg)
 15. Once you've launched Auto-GPT on your computer, the API will prompt you to give it a name and specific goals. For instance, you can define its role and tell it to analyze the stock market and save the report on a file.
 
@@ -75,6 +96,9 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
  The Auto-GPT August 2023 update introduced a new benchmarking tool designed to track the performance of the agents deployed.[Auto-GPT Benchmarks](https://github.com/Significant-Gravitas/AutoGPT/tree/master/benchmark) is still in development, but it gives you an idea of how your automated agents are performing in areas like "code, retrieval, memory, and safety."
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Access Auto-GPT on Your Browser?
 
 ![A screenshot of Agent GPT with name and goal defined. ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/agent-gpt.png)
@@ -110,14 +134,24 @@ Once it's done, you can copy or save the information.
 
  In retrospect, Auto-GPT with either GPT-3.5 or GPT-4 API can automate some of your tasks with simple defined goals. Of course, Auto-GPT with GPT-4 API has the edge over GPT-3.5 because it's more accurate and better at making sense of images. Here are the[key differences between GPT-4 and GPT 3.5 explained](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) .
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Is It Worth Using Auto-GPT Without GPT-4?
 
  Even though Auto-GPT with GPT-4 API performs better than Auto-GPT-3.5, you can still use Auto-GPT 3.5 to complete tasks autonomously. For example, I prompted Auto-GPT with GPT-3.5 API to search the internet for the best laptops on the market and give me a report with pros and cons.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![auto-gpt with gpt 3.5 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-3-5-output-example.jpg)
 
  Similarly, I prompted Auto-GPT with GPT-4 API with the same goals, and it gave me a report.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![auto-gpt with gpt 4 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-4-output-example.jpg)
 
  Based on the results, we can deduce that Auto-GPT is still a useful tool without GPT-4 API. In fact, Auto-GPT-3.5 tokens are way cheaper than GPT-4 tokens. Here is what you need to know about the[ChatGPT token limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) .

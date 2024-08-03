@@ -1,7 +1,7 @@
 ---
 title: Exposing the 5 Hidden Risks of Using Advanced Language Models
-date: 2024-07-26 23:47:52
-updated: 2024-07-27 10:29:47
+date: 2024-08-02T16:15:32.409Z
+updated: 2024-08-03T16:15:32.409Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use[AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/) , cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest[Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , outperforms ChatGPT in a wide range of creative writing tasks.
@@ -41,14 +44,23 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
  Putting our theory to the test, it was just as predicted. ChatGPT (GPT-3.5 and GPT-4) used cliché intros in five out of five trials. Here are the first three samples:
 
 1. Sample 1  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
@@ -59,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 Here's ChatGPT's take:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
 And here's Claude's take:
@@ -83,6 +98,9 @@ And here's Claude's take:
 
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 4 More Messages Per Hour
 
  Rate limits can be a pain. You're in the middle of an interesting prompting session, you get an alert that you've reached your limit and have to wait (sometimes hours!) to get a reset. It's a huge joy killer and can set your work back hours. However, this happens both on ChatGPT and Claude, so it's an even ground on that point.

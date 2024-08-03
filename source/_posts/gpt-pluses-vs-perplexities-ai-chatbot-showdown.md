@@ -1,7 +1,7 @@
 ---
 title: "GPT Pluses Vs. Perplexities: AI Chatbot Showdown"
-date: 2024-07-24 10:17:22
-updated: 2024-07-26 12:10:44
+date: 2024-08-02T16:16:20.320Z
+updated: 2024-08-03T16:16:20.320Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/4b7359aaf8e940a96bfa42de92bb50e50f03e20d4
 
 ## Battle of the Titans: Llama 3 Against GPT-nAi in an Intense Showdown
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is GPT-4?](https://www.makeuseof.com/llama-3-vs-gpt-4-which-is-better/#what-is-gpt-4)
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/4b7359aaf8e940a96bfa42de92bb50e50f03e20d4
 
  Llama 3 and GPT-4 are two of the most advanced large language models (LLMs) available to the public. Let’s see which LLM is better by comparing both models in terms of multimodality, context length, performance, and cost.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is GPT-4?
 
 ![Asking GPT-4o using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/886c4fbb-dd01-42da-b2de-ff25a87fa046.jpg)
@@ -42,8 +48,15 @@ There are currently three variations of the model:
 
  You can now access all three GPT-4 models by subscribing to OpenAI’s API services, interacting with ChatGPT, or through services such as Descript, Perplexity AI, and the[various copilots from Microsoft](https://www.makeuseof.com/microsoft-ai-copilot-which-you-should-use/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is Llama 3?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Asking Llama 3 using chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/28948759-e06d-4eca-9dc6-df6a41cf888a.jpg)
 
  Llama 3 is an open-source LLM developed by Meta AI (parent company of Facebook, Instagram, and WhatsApp), trained using a combination of supervised fine-tuning, rejection sampling, and policy optimization with a diverse dataset including millions of human-annotated examples. Its training focused on high-quality prompts and preference rankings, aiming to create a versatile and capable AI model.
@@ -52,6 +65,9 @@ There are currently three variations of the model:
 
  You can access Llama 3 through[Meta AI](https://www.meta.ai/) , its generative AI chatbot. Alternatively, you can run the LLMs locally on your computer by downloading Llama 3 models and loading them through Ollama, Open WebUI, or LM Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Multimodality
 
  The release of GPT-4o has finally delivered on the initial marketing of GPT-4 having multimodal capabilities. These multimodal features can now be accessed by interacting with ChatGPT using the GPT-4o model. As of June 2024, GPT-4o doesn’t have any integrated way of generating video and audio. However, it does have capabilities to generate text and images based on video and audio inputs.
@@ -77,6 +93,9 @@ There are currently three variations of the model:
 
  In contrast, GPT-4 now supports a significantly larger context length of 32,000 tokens (around 25,600 words) for ChatGPT users and 128,000 tokens (around 102,400 words) for those using API endpoints. This gives GPT-4 models an edge in managing extensive conversations and the ability to read long documents or even through an entire book.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Performance
 
  Let’s compare performance by looking at the[Llama 3 April 18, 2024, benchmark report from Meta AI](http://ai.meta.com/blog/meta-llama-3/) and the[GPT-4 May 14, 2024, GitHub report by OpenAI](http://github.com/openai/simple-evals?tab=readme-ov-file#benchmark-results) . Here are the results:

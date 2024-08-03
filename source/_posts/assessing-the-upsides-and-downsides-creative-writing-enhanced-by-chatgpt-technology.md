@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Upsides & Downsides: Creative Writing Enhanced by ChatGPT Technology"
-date: 2024-07-21 10:16:44
-updated: 2024-07-24 10:32:59
+date: 2024-08-02T16:16:02.844Z
+updated: 2024-08-03T16:16:02.844Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
  So, what exactly is a vector database? How does it work, and when should you use them to boost AI capabilities?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is a Vector Database?
 
  A vector database is a way to store information through the use of vectors. Unlike the usual form of databases that organize data as tabulated lists, vector databases organize data through high-dimensional vectors. These vectors can then be represented in mathematical space as vector embeddings.
@@ -29,16 +32,25 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Are Vector Embeddings Important?
 
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
@@ -56,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
@@ -66,6 +81,11 @@ thumbnail: https://thmb.techidaily.com/82a28386a9112ee73bc2dbed1a00fc83e61f6f261
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Popular Vector Databases
 
  With the explosion of publicly available pre-trained models, vector databases rapidly gained popularity as expanded the capabilities and rate of fine-tuning of these models. And with such high demand for vector databases, many companies have started their own vector database services; here are some of the most popular ones:

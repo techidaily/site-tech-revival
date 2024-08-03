@@ -1,7 +1,7 @@
 ---
 title: Discover 5 Smart AI Applications That Boost Your Literary Creativity
-date: 2024-07-22 15:41:30
-updated: 2024-07-23 11:25:36
+date: 2024-08-02T16:15:47.127Z
+updated: 2024-08-03T16:15:47.127Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and finally completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
  In the example below, we asked ChatGPT to "write a funny story about the history of car seatbelts." The plugin immediately kicks in and replaces the prompt with a more descriptive prompt that produces a better response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
 ## 2\. Link Reader
@@ -37,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. InstaCart
 
  The InstaCart ChatGPT plugin helps you express your meal planning needs in natural language and, in turn, get a "shoppable" list of the food items or ingredients that you need to prepare the meal in an instant. The plugin generates an InstaCart shopping list of all the ingredients you'll need to prepare a meal in its right quantity. With a few further clicks, you can get all the ingredients delivered to your doorstep.
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
@@ -67,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/785001e91f8bbdf4e7474535d4ba50bd393e27994
 
  We then invoked the Wolfram plugin to fact-check the information using its fact-based knowledge base. And here's the result.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 5\. ChatWithPDF
 
  The ChatWithPDF plugin does exactly what the name suggests. With this handy tool, you can effortlessly[use ChatGPT to extract information from any PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) by simply providing a link to it. No additional steps are required—just share the PDF link in your prompt and begin asking your questions.
@@ -81,10 +99,17 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
  We provided a link to OpenAI's GPT-4 technical report and asked it about the model's visual input abilities. Here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
  Turns out another important use case is making sense of technical documents like this.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Video Insights
 
  The Video Insights plugin is a video interfacing tool that lets you extract information from videos hosted on platforms like YouTube and Daily Motion. You can use the tool to create summaries of a video, ask specific questions on topics covered in the video, get a complete transcript of the video, or extract metadata like the number of likes, views, or comments on a video. Be careful with trusting the metadata it extracts; it was wrong eight out of 15 times when we tried it. But the summaries it produces are quite spot on. To use the tool, use a prompt like:
@@ -103,12 +128,19 @@ Yes, it was a spot-on description of the video if you're wondering.
 
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
 
 To use the plugin, use a prompt like:
 
 Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg> or list all the objects you see in this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 8\. There's An AI For That
 
  "There's An AI For That" isn't the most glamorous of plugins on the ChatGPT plugins store, but we found it quite useful. The tool provides you with a curated list of AI tools that can do any tasks you describe. Sure, you have the option of going into a long, endless round of Google searches that might not get you what you want. But you can simply let the specialized tool do the job of highlighting AI tools for whichever tasks you wish to complete. In an era where AI is at the forefront of most things in the tech space, "There's An AI For That" can come in quite handy.

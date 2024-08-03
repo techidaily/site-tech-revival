@@ -1,7 +1,7 @@
 ---
 title: Top 8 Artificial Intelligence Applications Enhancing Content Creators' Efficiency
-date: 2024-07-25 23:34:34
-updated: 2024-07-27 11:41:42
+date: 2024-08-02T16:16:05.820Z
+updated: 2024-08-03T16:16:05.820Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,23 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 
  But, if AI can talk and reply to your messages like a human, do you need to be polite to AI, as you would with a human?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
@@ -29,12 +46,19 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 
  However, just because it doesn't make a difference if you say "thank you" or "please" to an AI, it doesn't mean that AI will continue answering your questions if you use derogatory words when addressing it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 ## Should You Teach Children to Be Polite Using AI?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -43,9 +67,15 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Can AI Be Rude to You?
 
-![bing app and open ai app on smartphone screen feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-app-and-open-ai-app-on-smartphone-screen-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -55,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/300ab8d5976ccf31b0d2970939ae583f50bd954e8
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Interact With AI How You Want
 
  AI cannot process emotions like humans, and you shouldn't feel obligated to say "thank you" or "please." Nevertheless, it doesn't hurt to be polite to AI, even if you know it's not sentient, but rather because you will feel better about yourself if you're polite.

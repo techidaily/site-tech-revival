@@ -1,7 +1,7 @@
 ---
 title: "TruthCoin Exposed: Fact or Fiction?"
-date: 2024-07-26 16:56:35
-updated: 2024-07-28 10:24:58
+date: 2024-08-02T16:15:57.235Z
+updated: 2024-08-03T16:15:57.235Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e
 
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 ## 3\. InstaCart
@@ -49,12 +52,21 @@ thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Wolfram
 
  Although a lot of the ChatGPT plugins offer minimal improvements to[ChatGPT's capabilities](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , Wolfram is a standout option. The Wolfram plugin substantially augments ChatGPT's abilities. It makes ChatGPT significantly smarter by giving it access to real-time data, improved mathematical abilities, and a large dataset of carefully curated, and largely verified data.
@@ -67,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e
 
  We then invoked the Wolfram plugin to fact-check the information using its fact-based knowledge base. And here's the result.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatWithPDF
 
  The ChatWithPDF plugin does exactly what the name suggests. With this handy tool, you can effortlessly[use ChatGPT to extract information from any PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) by simply providing a link to it. No additional steps are required—just share the PDF link in your prompt and begin asking your questions.
@@ -85,6 +103,9 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
  Turns out another important use case is making sense of technical documents like this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Video Insights
 
  The Video Insights plugin is a video interfacing tool that lets you extract information from videos hosted on platforms like YouTube and Daily Motion. You can use the tool to create summaries of a video, ask specific questions on topics covered in the video, get a complete transcript of the video, or extract metadata like the number of likes, views, or comments on a video. Be careful with trusting the metadata it extracts; it was wrong eight out of 15 times when we tried it. But the summaries it produces are quite spot on. To use the tool, use a prompt like:
@@ -93,6 +114,9 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
  We tried the tool on a first-impression video of[Apple's Vision Pro VR headset](https://www.makeuseof.com/apple-vision-pro-headset-explained/) on YouTube, and here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
 Yes, it was a spot-on description of the video if you're wondering.
@@ -103,6 +127,9 @@ Yes, it was a spot-on description of the video if you're wondering.
 
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
 
 To use the plugin, use a prompt like:
@@ -123,6 +150,9 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Embrace ChatGPT Plugins
 
  If you've had an underwhelming experience with ChatGPT plugins, you're not alone. However, you'll find a number of useful ChatGPT plugins that extend the chatbot's abilities if you look closely enough. While the plugin store is not as loaded with high-quality plugins as we'd hoped to see, take advantage of the available ones to make the best of your ChatGPT experience.

@@ -1,7 +1,7 @@
 ---
 title: "Conversational Innovation: Designing GPT-Inspired ChatGPT"
-date: 2024-07-28 12:46:27
-updated: 2024-07-29 11:52:16
+date: 2024-08-02T16:16:06.481Z
+updated: 2024-08-03T16:16:06.481Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 ## ChatGPT Conversation Magic - Discover the Best Extension
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is AIPRM for ChatGPT?](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#what-is-aiprm-for-chatgpt)
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
  ChatGPT is a useful generative AI tool that can help you do various tasks, from research to content creation. However, the quality of ChatGPT responses largely depends on how well you frame your instructions or prompts. If you find it challenging to craft effective ChatGPT prompts or wish to save time, you can use a handy Chrome Extension called AIPRM to make ChatGPT prompting easy.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is AIPRM for ChatGPT?
 
  Your ability to[write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) is crucial to getting quality responses, but it's not the easiest task crafting prompts that deliver your desired output. Luckily, AI prompting tools like AIPRM can help.
@@ -56,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 2. Click the**Add to Chrome** button in the top right corner of the page.
 3. A pop-up will appear, asking you to confirm if you want to add the extension. Click**Add extension** to install it.
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click**Confirm.**  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
 You should now see the AIPRM dashboard on your ChatGPT page.
@@ -64,6 +73,9 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
@@ -85,6 +97,9 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
  Click the**Topic** field to select topics like Marketing, productivity, or SEO. You can filter by**Activity** to find prompts suitable to specific activities or click**Sort by** to select prompts based on usage, views, or votes. Lastly, use the**Model** filter to choose a particular ChatGPT version. You can also use the**Search** bar to find prompts using keywords.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
@@ -99,6 +114,10 @@ To create a custom AIPRM prompt:
 
  Next, fill out all the details of your prompt. Note that providing more detailed information in the**Prompt Template** field will increase your prompt's value and the response quality from ChatGPT. Let's say you wish to create a prompt to promote your business on Facebook. You can provide specific details like the name of your business, your services, your target audience, hashtags to use, and the tone of voice. In the same field, create the task by writing the instructions that ChatGPT will follow to generate the desired text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
@@ -109,6 +128,9 @@ To create a custom AIPRM prompt:
 
  Lastly, select the**Topic** ,**Activity** ,**Who can see this?** and**Made for** (the ChatGPT model). Write your**Author Name** and**Author URL** . Click**Save Prompt** to finalize the creation of your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
  Once your prompt is saved, you can find it under the**Own** tab.

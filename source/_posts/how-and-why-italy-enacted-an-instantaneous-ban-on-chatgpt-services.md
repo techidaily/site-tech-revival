@@ -1,7 +1,7 @@
 ---
 title: How and Why Italy Enacted an Instantaneous Ban on ChatGPT Services
-date: 2024-07-25 22:18:47
-updated: 2024-07-26 12:53:19
+date: 2024-08-02T16:15:26.966Z
+updated: 2024-08-03T16:15:26.966Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  It does this by creating a custom URL for each chat you wish to share. You create the URL by selecting the**Share** button that is added to the ChatGPT interface:
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![Screenshot of ShareGPT Share Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-sharegpt-share-screen.jpg)
 
  Clicking this button opens up a new tab with a custom URL containing a complete export chat record. This can then be shared with whoever you need.
@@ -45,20 +48,32 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
  We tested its ability to directly export chats into Notion using the conversation below.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT conversation for Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-for-notion.jpg)
 
  Once the chat is ready to export, you can access Export ChatGPT from the extensions drop-down from your browser (usually located to the right of the address bar). This brings up the dialog box shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Export ChatGPT dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-export-chatgpt-dialog-box.jpg)
 
  You will need to link your Notion account to the app, but this was easy. We found that the process was automatic if you had your Notion account open on the same browser.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT conversation imported into Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-imported-into-notion.jpg)
 
  Overall, if you are a Notion user, this delivers on all its promises. If you aren't a Notion user, there are probably better options. However, again it was simple to install on Microsoft Edge and Google Chrome.
 
 **Download** :[Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Export and Share
 
  This extension works with Chrome, Edge, and Firefox. However, the installation isn't available through the proprietary extension sources for the browsers in question. That said, it is a nice tool once installed and worth a little effort.
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 2. Extract the zipped files to a folder on your computer. For example, here's[how you extract files on Windows 10](https://www.makeuseof.com/unzip-files-windows-10/) .
 3. Open the browser you want to add the extension to and navigate to the extensions page. This can be done by clicking the**Extensions** icon and selecting**Manage Extensions** or typing the following into the address bar—**chrome://extensions** or**edge://extensions** .
 4. Enable developer mode by switching the appropriate toggle switch. The picture below shows this in Microsoft Edge; Chrome users will find it at the top right of the page.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Screenshot of Edge Extensions Page ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-edge-extensions-page.jpg)
 5. Install the extension by clicking the**Load unpacked** button and selecting the folder where you extracted the files. ChatGPT Export and Share should now be activated.
 
@@ -92,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 **Download** :[ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Prompt Genius
 
  If you are looking for an extension that does much more than just allow you to export your chats, then ChatGPT Prompt Genius might be right up your street. Among the nifty features that this extension includes is added functionality to the prompting process. There are plenty of[extensions that can add useful functionality to ChatGPT](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) .
@@ -117,6 +138,9 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 **Download** :[ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo/related) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Simplifying Sharing Your ChatGPT Conversations
 
  For something that began almost as a curiosity, AI-generative chatbots have rapidly become an important and powerful tool. As their usage continues to rise exponentially, the need to easily export and share conversations will become increasingly critical.

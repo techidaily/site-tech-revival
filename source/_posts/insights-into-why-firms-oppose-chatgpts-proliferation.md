@@ -1,7 +1,7 @@
 ---
 title: Insights Into Why Firms Oppose ChatGPT's Proliferation
-date: 2024-07-23 14:41:40
-updated: 2024-07-24 11:59:54
+date: 2024-08-02T16:15:49.118Z
+updated: 2024-08-03T16:15:49.118Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  But, if AI can talk and reply to your messages like a human, do you need to be polite to AI, as you would with a human?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
@@ -29,12 +32,30 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  However, just because it doesn't make a difference if you say "thank you" or "please" to an AI, it doesn't mean that AI will continue answering your questions if you use derogatory words when addressing it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Should You Teach Children to Be Polite Using AI?
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -43,9 +64,15 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Can AI Be Rude to You?
 
-![bing app and open ai app on smartphone screen feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-app-and-open-ai-app-on-smartphone-screen-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 

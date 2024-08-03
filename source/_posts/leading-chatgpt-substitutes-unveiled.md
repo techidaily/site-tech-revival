@@ -1,7 +1,7 @@
 ---
 title: Leading ChatGPT Substitutes Unveiled
-date: 2024-07-23 18:51:24
-updated: 2024-07-26 11:12:26
+date: 2024-08-02T16:16:09.065Z
+updated: 2024-08-03T16:16:09.065Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
  There's hope in a few common tasks for those worried that AI may be coming for their job. Gaining extra competence in Excel’s VBA and the wide world of automated analysis tools can give you a leg up in the job market.
@@ -35,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to[visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Customizable Report Creation in Excel
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -51,8 +60,14 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Easy-to-Use Forms in Excel
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
@@ -63,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
  Excel has many tasks that are still beyond the range of ChatGPT and its cohort of machine learning-driven knockoffs. With new advancements increasing at an alarming rate, it’s all too easy to worry that automation may be aiming for your job next.

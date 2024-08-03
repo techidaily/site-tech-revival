@@ -1,7 +1,7 @@
 ---
 title: Top 6 Common Pitfalls in Crafting ChatGPT Prompts & How to Sidestep Them
-date: 2024-07-26 13:16:35
-updated: 2024-07-27 12:42:13
+date: 2024-08-02T16:16:15.174Z
+updated: 2024-08-03T16:16:15.174Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7d
 
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -72,14 +75,23 @@ You could use:
 
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
 
  Examples are especially important when generating unique content like jokes, music, or cover letters. For example, in the screenshot below, we asked ChatGPT to generate some sarcasm about musicians once we provided the musician's name. The highlight here is that we didn't provide any examples.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
@@ -88,6 +100,9 @@ You could use:
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
@@ -96,6 +111,9 @@ You could use:
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
@@ -108,6 +126,9 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Garbage In, Garbage Out
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.

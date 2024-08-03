@@ -1,7 +1,7 @@
 ---
 title: Transforming Challenges Into Opportunities with AI Integration
-date: 2024-07-26 19:20:51
-updated: 2024-07-29 10:49:24
+date: 2024-08-02T16:16:39.011Z
+updated: 2024-08-03T16:16:39.011Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,18 @@ thumbnail: https://thmb.techidaily.com/d74cf4b29502f7468c16f9d06652978b0acc41463
 
 ## Personalizing ChatGPT Encounters Using Tailored GPT Mentions – Strategies Inside
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -44,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/d74cf4b29502f7468c16f9d06652978b0acc41463
 
 So, how can you use this?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
@@ -58,10 +71,16 @@ So, how can you use this?
 
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.

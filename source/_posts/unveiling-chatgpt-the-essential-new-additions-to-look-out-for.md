@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ChatGPT: The Essential New Additions to Look Out For"
-date: 2024-07-25 11:36:34
-updated: 2024-07-28 11:35:34
+date: 2024-08-02T16:15:28.534Z
+updated: 2024-08-03T16:15:28.534Z
 tags:
   - chatgpt
   - open-ai
@@ -51,14 +51,23 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
  And make sure you double-check the figures that ChatGPT presents. Blindly trusting AI’s formulas will cause errors in your computations, which might get you into trouble. Employers could also fire you if you consistently submit erroneous data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 5\. Making ChatGPT Reply to Messages
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Composing Emails on ChatGPT
 
  Employees find it harder to write emails than chat messages because of their formal nature. To hasten the writing process, they[compose difficult emails on ChatGPT](https://www.makeuseof.com/use-chatgpt-write-work-emails/) .
@@ -73,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
 ## 8\. Using Code Snippets Written by ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
@@ -81,16 +93,27 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
  Explore[ethical ways of using ChatGPT in programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . Most employers are okay with their dev team researching algorithms, generating placeholders, and refracting snippets on AI tools, but you must write and edit codes manually.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. Editing Articles and Papers With ChatGPT
 
  ChatGPT can help you edit drafts. Its sophisticated language model detects awkward sentences, grammatical errors, and even incoherent statements. Take the below conversation as an example. We asked for constructive criticism based on our preferred style guide and tonality.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Editing Paragraph Based on AP Styleguide](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-acting-as-an-editor.jpg)
 
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
 
 ## 10\. Analyzing Financial Charts on ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
 
  One of[OpenAI’s worst issues with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it gets confused with word and number problems. You can only ask intermediate-level questions. Making ChatGPT analyze complex financial reports would likely produce errors and inaccuracies.
@@ -99,6 +122,9 @@ thumbnail: https://thmb.techidaily.com/0f7cc598462e00e671398d3de2bdb7c71a59af5f2
 
  You can still offload some tasks to ChatGPT, like drawing charts or writing summaries. Just note that it lacks contextual understanding and takes input at face value—you must perform fact-checking yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Use ChatGPT Ethically and Responsibly
 
  The mere act of using ChatGPT doesn’t justify termination. Most employers fire workers who exploit chatbots and pass off AI-generated output as original work. Just be transparent about your workflow. Don’t use ChatGPT if you have to hide it from your coworkers and supervisors.

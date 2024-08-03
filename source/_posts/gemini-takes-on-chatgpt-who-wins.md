@@ -1,7 +1,7 @@
 ---
 title: Gemini Takes on ChatGPT – Who Wins?
-date: 2024-07-27 22:36:24
-updated: 2024-07-29 11:52:46
+date: 2024-08-02T16:16:10.872Z
+updated: 2024-08-03T16:16:10.872Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ## Best Programming Assistant of 2023: GitHub Copilot or ChatGPT Takes on the Challenge
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is GitHub Copilot?](https://www.makeuseof.com/github-copilot-vs-chatgpt-which-better-programming/#what-is-github-copilot)
@@ -35,16 +38,34 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  So, which one should you be using?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is GitHub Copilot?
 
  GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI. With the power of GPT-4, it provides real-time code suggestions as you type, helping to streamline the coding process. It is a paid service that you can easily use with most popular environments, including Visual Studio, Visual Studio Code, Vim/Neovim, Azure Data Studio, and JetBrains.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is ChatGPT?
 
  ChatGPT is OpenAI's chat-optimized AI chatbot. While not specifically designed for programming assistance like GitHub Copilot, ChatGPT’s strength lies in its ability to comprehend and generate text in a manner that closely mimics human language.
 
  This makes it a good programming tool as it can help clarify concepts, provide explanations, and even generate pseudocode based on user input. ChatGPT is a versatile tool. You can use it for non-coding tasks like planning, brainstorming, and problem-solving, all of which are useful in software development.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Comparing GitHub Copilot and ChatGPT
 
  So, which AI tool should you use for programming? Here’s a break-down of the strengths and weaknesses of each tool:
@@ -86,22 +107,34 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  While ChatGPT may not match GitHub Copilot's prowess in code completion, it excels in other aspects outside of programming. It can be an invaluable tool for designing and brainstorming your project.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking development related questions with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/asking-developer-questions.jpg)
 
  If you’re learning to code, you can prompt ChatGPT to generate pseudocode to help you explore different solutions for a specific problem.
 
  Here’s how ChatGPT provided a way to query the minimum, maximum, and average price of products within a collection class:
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![psedocode generation with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/generating-psudo-code-with-chatgpt.jpg)
 
  If you’re looking at a snippet of code you don’t quite understand, you can also use ChatGPT to reverse engineer it:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Reverse engineering code snippet with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-explaining-code.jpg)
 
  When it comes to understanding concepts or getting a detailed explanation of a coding topic, ChatGPT excels. Its ability to generate human-like responses makes it an ideal learning tool that any programmer can use. Whether it's a complex algorithm or a programming principle you're trying to grasp, ChatGPT can break it down into understandable parts.
 
  What’s great about ChatGPT is that it offers a completely free version that you can use throughout your learning process. Of course, a paid subscription does have extra benefits like better response quality and plugins. But overall, as long as you[employ prompting techniques](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , the free version should work fine as a learning tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## You Can Always Use Both
 
 ![Using both ChatGPT and GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-chatgpt-and-github-copilot.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Leading AIs: How Does Gemini Stack Up Against ChatGPT Plus?"
-date: 2024-07-20 13:51:22
-updated: 2024-07-23 10:50:27
+date: 2024-08-02T16:15:59.368Z
+updated: 2024-08-03T16:15:59.368Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  Now, with HuggingChat, the waters are a bit murkier. If asked, HuggingChat will assure you that an account is required, as the image below confirms.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/4e90942cb4f7cac0b8179c9a85473a89372090550
 
  Next, we will look at other metrics and capabilities and compare the responses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Large Language Models (LLMs)
 
  The beating heart of any AI chatbot is the LLM. These are the underlying datasets used to generate human-like responses to prompts. Each tool uses a different LLM, as described below.
@@ -74,12 +80,18 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
 
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
 This was ChatGPT's effort:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
 HuggingChat's summary looked like this:
@@ -88,6 +100,9 @@ HuggingChat's summary looked like this:
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
  Although surrounded by controversy, the ability to create creative works is perhaps one of the most useful aspects of AI chatbots. However, we will sidestep the moral and ethical implications and put the tools head-to-head in a creative clash of the chatbots.
@@ -96,6 +111,9 @@ HuggingChat's summary looked like this:
 
  We asked both to compose a two-verse love song based on Romeo and Juliet. This was ChatGPT's response:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
 And this was HuggingChat's.
@@ -104,6 +122,9 @@ And this was HuggingChat's.
 
 Shakespeare himself would be impressed with both of these!
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Security and Privacy
 
  Security and privacy are general concerns surrounding generative AI. There are[definite security concerns with ChatGPT](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/) , but it is fair to say that most of these concerns apply to most chatbots, including HuggingChat.
@@ -116,6 +137,9 @@ Shakespeare himself would be impressed with both of these!
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Which Is Best: HuggingChat or ChatGPT?
 
  As you can see from the tests, there is no easy answer. ChatGPT had a definite edge when summarizing articles, whereas HuggingChat had the advantage when you compare how current the training data is.

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Resumes: Tips on Crafting Yours with ChatGPT"
-date: 2024-07-28 15:49:28
-updated: 2024-07-29 11:35:29
+date: 2024-08-02T16:15:28.920Z
+updated: 2024-08-03T16:15:28.920Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be
 
  In 2014, Internet journalists exploded in a frenzy of excitement when a London-based computer program named Eugene Goostman seemingly passed the Turing Test. In 2022 Google's LaMDA reportedly did the same, but what happened? Did they pass the test? What do artificial intelligence advancements mean for the Turing Test?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is the Turing Test?
 
 ![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
@@ -38,8 +41,14 @@ Here is the standard interpretation of the Turing Test:
 
  The conventional criteria for passing the test is subjective but, as a general understanding, requires the machine to fool at least 30% of all human interrogators. Turing predicted that any machine to do that could be "smart" enough to be labeled as a "thinking machine."
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -56,6 +65,9 @@ Here is the standard interpretation of the Turing Test:
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -64,6 +76,9 @@ Here is the standard interpretation of the Turing Test:
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -74,6 +89,9 @@ Here is the standard interpretation of the Turing Test:
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.

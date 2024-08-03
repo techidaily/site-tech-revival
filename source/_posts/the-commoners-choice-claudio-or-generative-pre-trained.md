@@ -1,7 +1,7 @@
 ---
 title: "The Commoner's Choice: Claudio or Generative Pre-Trained?"
-date: 2024-07-27 16:53:14
-updated: 2024-07-28 12:55:31
+date: 2024-08-02T16:15:50.433Z
+updated: 2024-08-03T16:15:50.433Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 * [How to Filter and Favorite AIPRM Prompts](https://mindmanager.sjv.io/anq2nj)
 * [How to Create AIPRM Prompts](https://dreoaffiliateprogram.pxf.io/k0ezjl)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Crafting effective prompts for ChatGPT is crucial for quality responses. AIPRM offers a vast library of expert prompts.
@@ -44,10 +47,17 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Is the AIPRM Chrome Extension Free?
 
  Yes, the AIPRM Chrome extension for ChatGPT is free to use and also offers several premium plans, from the **AIPRM Plus** plan, which costs $10 per month, to the **AIPRM Titan** plan, which costs up to $999 per month. AIPRM works well with ChatGPT's free and paid versions, making it a valuable tool for any user.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
@@ -60,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 2. Click the **Add to Chrome** button in the top right corner of the page.
 3. A pop-up will appear, asking you to confirm if you want to add the extension. Click **Add extension** to install it.
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click **Confirm.**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
  You should now see the AIPRM dashboard on your ChatGPT page.
@@ -68,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the **thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
@@ -79,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 5. **Hidden** to access your hidden prompt list, which can be viewed and unhidden at any time.
 6. **Add List** to create a custom prompt list. This feature is only accessible to premium subscribers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
  You can start using AIPRM prompts by clicking the **Public** tab and scrolling through the list of available prompts. For instance, you can select the **Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
@@ -113,6 +132,9 @@ thumbnail: https://thmb.techidaily.com/b1647db8806cbe897d52438e2f14444426f8ed4b6
 
  Lastly, select the **Topic**, **Activity**, **Who can see this?** and **Made for** (the ChatGPT model). Write your **Author Name** and **Author URL**. Click **Save Prompt** to finalize the creation of your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
  Once your prompt is saved, you can find it under the **Own** tab.

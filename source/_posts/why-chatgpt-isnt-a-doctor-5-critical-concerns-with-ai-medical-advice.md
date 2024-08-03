@@ -1,7 +1,7 @@
 ---
 title: "Why ChatGPT Isn't a Doctor: 5 Critical Concerns with AI Medical Advice"
-date: 2024-07-25 12:39:43
-updated: 2024-07-27 10:35:36
+date: 2024-08-02T16:15:57.890Z
+updated: 2024-08-03T16:15:57.890Z
 tags:
   - chatgpt
   - open-ai
@@ -29,14 +29,23 @@ thumbnail: https://thmb.techidaily.com/cbf413290d1b7e29d9934e3ea1990c5dc72e7e77a
 
  To use voice input in the app, all you have to do is tap on the microphone icon in the**Message** bar, and your recording will begin. Tap anywhere in the blue area to stop recording, and the app will automatically convert your words into text. Then, tap the**blue arrow** to send your message.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap to stop recording on chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tap-to-stop-recording-on-chatgpt-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![converting to text prompt on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/converting-to-text-prompt-on-ios-app.jpg)
 
 ![voice to text conversation in chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-to-text-conversation-in-chatgpt-ios-app.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Better User Interface and Accessibility
 
  When using the ChatGPT website, one would repeatedly have to go through the cumbersome process of opening a browser, launching a website, and logging in before actually getting to use it. The ChatGPT iOS app eradicates the need for such a lengthy process as the app is available to use at a single touch and is right at your fingertips, much like any other app.
@@ -45,8 +54,14 @@ Close
 
  Due to its simplistic design, people from all age groups can easily begin using the app without much need for intensive learning and practice.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT opening page on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-opening-page-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
 ![chatgpt messages on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-messages-on-ios-app.jpg)
@@ -67,6 +82,9 @@ Close
 
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![haptic feedback toggle on and main language option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggle-on-and-main-language-option.jpg)
 
 ![different languages available in chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/different-languages-available-in-chatgpt.jpg)
@@ -75,6 +93,13 @@ Close
 
  You can now use ChatGPT in your native language or learn a new one with the app. It can also help you overcome language barriers in a foreign place, promoting overall accessibility and cultural diversity while reaching a larger target audience. A win-win for everyone, isn't it?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## 4\. Haptic Feedback
 
  Haptic feedback is a feature that uses touch to interact with its users. An app or a device uses different vibration patterns and pulses to provide touch-based feedback to the user. This technology has various applications—for example,[haptic feedback makes games more immersive](https://www.makeuseof.com/force-haptic-feedback-games/) .
@@ -103,14 +128,23 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Faster Responses
 
  It's a well-renowned fact that apps generally deliver optimum response time compared to their website counterparts, and ChatGPT's iOS app is no exception. However, note that response speed on both the app and the website depends entirely on your device and internet connection at a particular time.
 
  OpenAI states on its website that users with a[ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) get exclusive access to faster response times on the iOS app, so you can always upgrade if that's something you're looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![haptic feedback toggled off and ChatGPT plus option in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggled-off-and-chatgpt-plus-option-in-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatGPT Plus in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-plus-in-ios-app.jpg)
 
 Close

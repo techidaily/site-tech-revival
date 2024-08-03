@@ -1,7 +1,7 @@
 ---
 title: "Redefining Talks: The Ultimate List of AI Assistants"
-date: 2024-07-26 21:23:16
-updated: 2024-07-28 11:18:31
+date: 2024-08-02T16:15:52.904Z
+updated: 2024-08-03T16:15:52.904Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
 * [Larger Context Window](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#larger-context-window)
 * [More Messages Per Hour](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#more-messages-per-hour)
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Claude excels at creative writing, producing engaging and natural-sounding content with less clichés.
@@ -41,14 +44,23 @@ thumbnail: https://thmb.techidaily.com/e2da78d08e286d9059a644d8b709c84167652f494
  Putting our theory to the test, it was just as predicted. ChatGPT (GPT-3.5 and GPT-4) used cliché intros in five out of five trials. Here are the first three samples:
 
 1. Sample 1  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
@@ -67,8 +79,14 @@ And here's Claude's take:
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Claude Offers Multimodality for Free
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.

@@ -1,7 +1,7 @@
 ---
 title: Empower Your World with GPT-4 - Here's How It Happens
-date: 2024-07-23 14:19:49
-updated: 2024-07-24 10:56:29
+date: 2024-08-02T16:16:30.226Z
+updated: 2024-08-03T16:16:30.226Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  If you're an iPhone user, you're probably curious about the features OpenAI has baked into its app. Below, we'll discuss everything you can get in the ChatGPT iOS app that puts it a notch above its website.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Voice Input
 
  Voice input has probably been the most anticipated feature ever since the launch of ChatGPT, and it's finally available in the iOS app through OpenAI's open-source speech recognition system called Whisper. While you can already[use Whisper in Windows to turn voice into speech](https://www.makeuseof.com/dictate-documents-openai-whisper/) , it's a first for iOS devices.
@@ -29,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/96d460ad778074a93b63a308714d13a6fb98bd643
 
  To use voice input in the app, all you have to do is tap on the microphone icon in the**Message** bar, and your recording will begin. Tap anywhere in the blue area to stop recording, and the app will automatically convert your words into text. Then, tap the**blue arrow** to send your message.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![tap to stop recording on chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tap-to-stop-recording-on-chatgpt-ios-app.jpg)
 
 ![converting to text prompt on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/converting-to-text-prompt-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice to text conversation in chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-to-text-conversation-in-chatgpt-ios-app.jpg)
 
 Close
@@ -45,14 +54,23 @@ Close
 
  Due to its simplistic design, people from all age groups can easily begin using the app without much need for intensive learning and practice.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT opening page on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-opening-page-on-ios-app.jpg)
 
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt messages on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-messages-on-ios-app.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 3\. Change Your Preferred Language for Speech
 
  If introducing voice input wasn't enough to be a step ahead of everyone else in the AI race, this feature certainly seals the deal. Not only can you now use speech to interact with ChatGPT, but you can do so in more than 35 different languages, with more to come as time passes.
@@ -65,6 +83,9 @@ Close
 2. Select**Main Language** under**Speech** . It will be set to**Auto-Detect** by default.
 3. Now, choose your preferred language.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
 ![haptic feedback toggle on and main language option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggle-on-and-main-language-option.jpg)
@@ -95,6 +116,9 @@ Close
 
  The ChatGPT app also syncs your chat history across other compatible Apple devices, like your iPad, allowing you to access it from anywhere.[Deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) is possible on both the website and the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![viewing chatGPT history while offline in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/viewing-chatgpt-history-while-offline-in-ios-app.jpg)
 
 ![chatGPT old conversation while offline](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-old-conversation-while-offline.jpg)
@@ -103,12 +127,18 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 6\. Faster Responses
 
  It's a well-renowned fact that apps generally deliver optimum response time compared to their website counterparts, and ChatGPT's iOS app is no exception. However, note that response speed on both the app and the website depends entirely on your device and internet connection at a particular time.
 
  OpenAI states on its website that users with a[ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) get exclusive access to faster response times on the iOS app, so you can always upgrade if that's something you're looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![haptic feedback toggled off and ChatGPT plus option in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggled-off-and-chatgpt-plus-option-in-ios-app.jpg)
 
 ![chatGPT Plus in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-plus-in-ios-app.jpg)

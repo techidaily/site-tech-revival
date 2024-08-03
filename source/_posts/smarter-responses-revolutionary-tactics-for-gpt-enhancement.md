@@ -1,7 +1,7 @@
 ---
 title: "Smarter Responses: Revolutionary Tactics for GPT Enhancement"
-date: 2024-07-24 18:29:42
-updated: 2024-07-25 10:48:29
+date: 2024-08-02T16:15:51.025Z
+updated: 2024-08-03T16:15:51.025Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/937c541b992b0530a2d9f47c677a74bf9df2301f6
 
 ## Optimize Your Research Game with Perplexity AI – The Premier AI-Enhanced Tool for Revolutionary Google Searches
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Perplexity AI, and What Can You Do With It?](https://www.makeuseof.com/perplexity-ai-best-ai-powered-google-search-tool/#what-is-perplexity-ai-and-what-can-you-do-with-it)
@@ -27,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/937c541b992b0530a2d9f47c677a74bf9df2301f6
 
 ## What Is Perplexity AI, and What Can You Do With It?
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
@@ -37,10 +44,19 @@ thumbnail: https://thmb.techidaily.com/937c541b992b0530a2d9f47c677a74bf9df2301f6
 
 ## How to Use Perplexity AI Instead of Google Search
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 Close
@@ -57,6 +73,9 @@ Close
 
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.

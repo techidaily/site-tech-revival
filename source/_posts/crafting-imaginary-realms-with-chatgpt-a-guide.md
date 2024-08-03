@@ -1,7 +1,7 @@
 ---
 title: "Crafting Imaginary Realms with ChatGPT: A Guide"
-date: 2024-07-27 12:48:50
-updated: 2024-07-28 12:14:17
+date: 2024-08-02T16:15:56.839Z
+updated: 2024-08-03T16:15:56.839Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -60,8 +63,14 @@ You could use:
 
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -72,6 +81,9 @@ You could use:
 
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 ## 5\. Not Using Examples
@@ -84,10 +96,16 @@ You could use:
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
@@ -96,6 +114,15 @@ You could use:
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.

@@ -1,7 +1,7 @@
 ---
 title: "Streamline Your Coding Journey: 10 ChatGPT Tools for VS Code"
-date: 2024-07-22 15:33:27
-updated: 2024-07-24 11:30:29
+date: 2024-08-02T16:16:38.946Z
+updated: 2024-08-03T16:16:38.946Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,10 @@ Imagine you are a movie and TV show recommendation expert. A user wants to find 
 
  We used the prompt above and then asked ChatGPT to provide TV shows similar to "The Walking Dead" :
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Similar tv shows recommendation from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/similar-tv-shows-recommendation-from-chatgpt.jpg)
 
 ## 2\. Try a Different Genre
@@ -51,8 +55,15 @@ I've seen a lot of TV shows based on spy, romance, and war themes. I want you to
 
 Trying the prompt above, we had:
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![radically different TV shows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radically-different-tv-shows.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Identify Movies With a Desired Storyline
 
  Sometimes you have an idea of the kind of movies you want to watch; you just don’t know how to find them. Googling might help if you have a general theme like "undercover spy in an enemy country." However, if you have a detailed storyline, Google might not be much help, but ChatGPT excels at that.
@@ -85,8 +96,14 @@ Below is an example of a prompt that can help you with such a request:
 
  How? You can start by using prompts like: "Can you suggest some hidden gems in the comedy genre that most people haven't seen?" Or "What are some underrated historical Korean TV shows that deserve more attention, why are they worth seeing, and what's their IMDB score?"
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## 6\. Research Movies Starring Your Favorite Actors
 
  You just watched an amazing TV show with an unfamiliar lead actor. You enjoyed their performance and want to see more of their movies. Or, maybe you just want to research more movies from popular actors you follow. Whichever is the case, ChatGPT can assist you with that. You can simply use prompts like:
@@ -97,6 +114,9 @@ Below is an example of a prompt that can help you with such a request:
 * Suggest some romantic comedies with Sandra Bullock as the lead actress.
 * Can you suggest some animated movies suitable for children with voice acting by Tom Hanks?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
 
 ## 7\. Discover Movies From Short Clips
@@ -105,6 +125,9 @@ Below is an example of a prompt that can help you with such a request:
 
  Simply share the details of the scene and the dialogue from the clip, and ask ChatGPT to provide[movie recommendations](https://www.makeuseof.com/unique-ways-to-find-film-and-tv-show-recommendations/) that match the description. While it might not always yield perfect results, you'll be amazed by the commendable effort it puts in to assist you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Let ChatGPT Be Your Personal Movie Recommender
 
  Whether it's a blockbuster thriller, a heart-warming rom-com, a spine-chilling horror, or a timeless classic, ChatGPT can help you narrow down movies and TV shows that truly resonate with you.

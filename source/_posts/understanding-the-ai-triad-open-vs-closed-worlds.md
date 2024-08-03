@@ -1,7 +1,7 @@
 ---
 title: "Understanding the AI Triad: Open Vs. Closed Worlds"
-date: 2024-07-23 23:15:39
-updated: 2024-07-24 12:44:20
+date: 2024-08-02T16:16:39.024Z
+updated: 2024-08-03T16:16:39.024Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
  Let’s take a closer look at AI detection tools and see whether they can tell the difference between human and AI-generated text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Testing AI-Detection Tools
 
  They say that the proof of the pudding is in the eating. So, let’s try some tests and see just how effective these tools are. It is impossible to test every tool, so we're testing one of the most popular tools—ZeroGPT.
@@ -35,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
  We then copied the text and pasted it into ZeroGPT. As you can see, the results were less than stellar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT incorrect response to AI intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-incorrect-response-to-ai-intro.jpg)
 
  An inconspicuous start, but it does illustrate just how effective AI chatbots are. To complete the test, we let ZeroGPT analyze a human-created draft intro.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT getting human generated intro correct](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-getting-human-generated-intro-correct.jpg)
 
  At least it got this part correct. Overall, ZeroGPT failed in this round. It did determine that at least part of the AI-generated introduction was suspect but failed to highlight specific issues.
@@ -53,16 +62,25 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
 
  We kept it simple and just asked to write an intro for a story about two strangers who meet on a railway platform:
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT fiction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-fiction.jpg)
 
 And here was the response from ZeroGPT:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT failing fiction test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-failing-fiction-test.jpg)
 
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
@@ -97,6 +115,9 @@ And here was the response from ZeroGPT:
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)
@@ -107,6 +128,10 @@ And here was the response from ZeroGPT:
 
  The challenges that these tools face are mirror images of the challenges that society faces as we grapple with the dilemmas associated with a new technological age.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## AI or Not AI? That Is the Question
 
  Tools like ZeroGPT are flawed, there is no doubt of that. But they aren’t worthless, and they represent an important step as we try to manage and regulate AI. Their accuracy will improve, but so will the sophistication of the AI they are trained to detect. Somewhere in the middle of this arms race, we need to find a balance that society is comfortable with.

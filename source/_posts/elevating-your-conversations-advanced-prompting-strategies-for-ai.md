@@ -1,7 +1,7 @@
 ---
 title: "Elevating Your Conversations: Advanced Prompting Strategies for AI"
-date: 2024-07-24 15:28:20
-updated: 2024-07-26 12:11:23
+date: 2024-08-02T16:15:47.141Z
+updated: 2024-08-03T16:15:47.141Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,14 @@ thumbnail: https://thmb.techidaily.com/b1cba008df1c48de3d3ce1280dbcf873e7a62b2d4
 
  No, it doesn't require any programming knowledge to set up. The process isn't too technical—it is relatively easy to complete. All you'll need to get started is to grab an OpenAI API key and add the "GPT for Sheets and Docs" extension to your Google Sheets account. But how do you get an OpenAI API key?
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ### How to Add the GPT for Sheets and Docs Extension to Google Sheets
 
 To add the GPT for Sheets and Docs extension to your Google Sheets:
@@ -37,12 +45,18 @@ To add the GPT for Sheets and Docs extension to your Google Sheets:
 3. Up next, you should be taken to the Google Workspace Marketplace. Locate the search bar in the top right corner of the screen and search for**GPT for Sheets and Docs** .  
 ![Google Workspace Marketplace](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/google-workspace-marketplace.jpg)
 4. Click on the first extension, as seen in the screenshot above. On the next page, click on**Install** and then**Continue.**  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Installing GPT for Sheets and Docs on Google Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/installing-gpt-for-sheets-and-docs-on-google-sheets.jpg)
 5. Select the Google account associated with your Google Sheets account and then tap**Allow** on the permission prompt to grant the extension access it needs to modify your spreadsheets.
 6. After the installation, click**Next** and tap**Done** on the post-installation screen to complete the installation process.
 
  With that done, the extension will be added to your Google Sheets account. However, to use GPT-powered functions and formulas within Google Sheets, you'll need an OpenAI API key to activate the extension within Google Sheets.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Create an OpenAI API Key
 
  To use the GPT for Sheets and Docs extension, you'll need an API key from the OpenAI website. Here's how to create an OpenAI API key:
@@ -51,6 +65,10 @@ To add the GPT for Sheets and Docs extension to your Google Sheets:
 2. Once you've created an account, log in, and navigate to[OpenAI's API keys page](http://beta.openai.com/account/api-keys) .
 3. Up next, locate and click on the**Create new Secret key** button at the center of the page.
 4. If all goes well, a pop-up with your API keys and an "API Key Generated" notification should appear on your screen. Next, tap the green copy button beside your API key to copy the key to your clipboard.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![OpenAI secret Key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-secret-key.jpg)
 
  Please make sure to keep a secure copy of your API key, as it cannot be recovered if lost. Additionally, do not share your API keys with third parties, as this may result in restrictions being placed on your access to OpenAI's GPT API in case of any misuse by malicious third parties.
@@ -65,6 +83,9 @@ To add the GPT for Sheets and Docs extension to your Google Sheets:
 
  With those steps completed, you're almost done with the setup process. The last step is to activate the GPT for Sheets and Docs extension. To do this, navigate to **Extensions > GPT for Sheets and Docs > Enable GPT functions** ​​​​​​.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Can You Do With GPT-Powered Google Sheets?
 
  Are you done setting up the Google Sheets extension? What exciting things can you do with GPT-powered Google Sheets?
@@ -75,6 +96,9 @@ Well, the possibilities are endless.
 
  With GPT-powered Google Sheets, you can use regular ChatGPT prompts and get similar replies to ChatGPT right within Google Sheets. For instance, if you want to populate cell C3 with a story about Snapchat, you could type the formula**\=GPT("Write a short story about Snapchat")** right inside the cell.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT functions for snapchat story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-functions-for-snapchat-story.jpg)
 
  Screenshot was taken by the author, Maxwell Timothy
@@ -93,6 +117,9 @@ Well, the possibilities are endless.
 
 ![translating with GPT on Sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/translating-with-gpt-on-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### 3\. Summarize Text
 
  To summarize text, you can either wrap a summarization prompt with the base =GPT function or use the**\=GPT\_SUMMARIZE** function. For instance,**\=GPT\_SUMMARIZE(C44)** will summarize the content of cell C44 into the active cell.
@@ -103,8 +130,14 @@ Well, the possibilities are endless.
 
  For instance,**\=GPT\_CLASSIFY(D6,E4)** will use the category labels provided in cell E4 to classify the content of cell D6\. In the example below, we used the red-colored text in cell E4 to label cells D6 to D8.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT_CLASSIFY in GPT for sheets](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_classify-in-gpt-for-sheets.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### 5\. Generate Data Tables
 
  Spreadsheets and tables go together like peas and carrots. The**\=GPT\_TABLE** function makes it incredibly easy to create tables in Google Sheets. Think of any data table you need, and just ask the function to create it--that's it. So, say, you need a table of some of the best Korean TV shows, their theme, and IMDB rating. This is a dataset that would be time-consuming to put together.
@@ -121,8 +154,28 @@ Well, the possibilities are endless.
 
  If you are working with a lot of mixed-up data or text, you can extract certain data types into assigned cells using the**\=GPT\_EXTRACT** function. For instance, you could paste a CSV file in cell B23 and use**\=GPT\_EXTRACT(B48, C48)** to extract email addresses from the CSV text to the current cell. In the function, the C48 references a cell that contains the data type to extract, in this case, email addresses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Data Extraction using GPT functions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/data-extraction-using-gpt-functions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Boost Your Productivity With ChatGPT Prompts in Google Sheets
 
  If you are a fan of ChatGPT and Google Sheets, you'll find GPT for Sheets and Docs a useful addition to your productivity tools. With it, you can do the things you'd typically do with ChatGPT in your spreadsheets.

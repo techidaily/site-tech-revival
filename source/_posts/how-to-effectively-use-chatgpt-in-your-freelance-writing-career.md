@@ -1,7 +1,7 @@
 ---
 title: How To Effectively Use ChatGPT in Your Freelance Writing Career
-date: 2024-07-24 13:24:39
-updated: 2024-07-25 11:38:45
+date: 2024-08-02T16:16:01.250Z
+updated: 2024-08-03T16:16:01.250Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. I Am Rich
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
@@ -33,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Aaron Web Browser
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
@@ -55,8 +64,15 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 4\. AI Agents
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
@@ -77,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/2e81f992123e17db59f89c6842ca48bb426d50921
 
 ## 6\. ABC Website Maker
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.

@@ -1,7 +1,7 @@
 ---
 title: "Explore New Horizons: Learning Strategies for Board Games & Creative Visuals Using My GPT Bots"
-date: 2024-07-21 17:56:21
-updated: 2024-07-24 11:48:40
+date: 2024-08-02T16:15:28.145Z
+updated: 2024-08-03T16:15:28.145Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,15 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  Instead of spamming your channel with generic, AI-produced videos, focus on creating content that resonates with your audience. Ask what viewers want from you. YouTube has nearly a billion videos—viewers won’t bother with recycled ideas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## 2\. Academic Essay Writing
 
  Taking on essay writing gigs is a gray area in freelancing—they promote cheating. Yet despite their controversial nature, many freelancers sell essays. You’ll find several[academic writing jobs](https://www.makeuseof.com/websites-to-find-academic-writing-jobs/) online.
@@ -41,8 +50,14 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  Likewise, ChatGPT has limited knowledge of events after 2021\. The above photo shows that it doesn’t even know its release date. Academic writing involves a lot of fact-checking, so research topics yourself and cite sources. Otherwise, clients will stop hiring you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 3\. Copywriting and Blogging
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
 
  AI has come a long way from spitting incoherent text. ChatGPT runs on advanced language models that produce natural, human-like phrases free of typos and grammatical errors. It already writes better than most inexperienced writers.
@@ -71,6 +86,18 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  You can share your personal preferences. But don’t sell e-books of workout regimens, diets, and supplement recommendations unless you have the necessary certifications.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Coding Websites
 
  ChatGPT writes code. Just mention the purpose of your website, and it will suggest an appropriate code snippet. You could even input your preferred programming language.
@@ -83,12 +110,18 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  Fake gurus claim that ChatGPT handles all their copywriting needs. Precise, detailed prompts supposedly make custom sales emails that match your tone and branding. The below image shows a sample AI-generated sales email.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
 
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates.[Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
 
  Instead of sending AI-generated pitches en masse, write personalized emails that address pain points and propose viable solutions. You should know what the market wants.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Creating and Selling Prompts
 
 ![Searching for ChatGPT Prompts on Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/github-chatgpt-prompts.jpg)
@@ -97,10 +130,17 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  Let’s say you want to learn about AI. The below photo shows what ChatGPT says if you ask the question outright.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
 
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Explains AI Like Talking to a Five Year Old](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-simple-ai-explanation.jpg)
 
  These examples simply cover the basics. To[get the best results from ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , you must craft detailed instructions that maximize datasets and override certain restrictions. The below photo illustrates an effective jailbreak prompt.
@@ -109,6 +149,9 @@ thumbnail: https://thmb.techidaily.com/bfce4d332deea76d243f8439048cdd48e83f3f7bf
 
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on[GitHub](https://github.com/) repositories, Reddit threads, and social media sites.

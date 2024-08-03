@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Reasons for Targeted Attacks on ChatGPT Systems
-date: 2024-07-26 12:59:34
-updated: 2024-07-28 12:36:58
+date: 2024-08-02T16:15:29.165Z
+updated: 2024-08-03T16:15:29.165Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 ## 2\. Dark Theme
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
@@ -35,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Image Prompting
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -57,12 +66,32 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
 ## 6\. Tools for Exporting Generated Content
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
@@ -71,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/4b1ffe0e9ed18703ac5b5f01f74dc018a2d149745
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google's AI Endgame Is Gemini
 
  Bard AI currently runs on PaLM 2 (the latest iteration of its PaLM large language model) and relies on different Google products and services to offer most of the features announced at Google I/O 2023\. Meanwhile, Sundar Pichai, the CEO of Google, briefly discussed Gemini—a new large language model currently being developed from the ground up to power future iterations of Bard AI.

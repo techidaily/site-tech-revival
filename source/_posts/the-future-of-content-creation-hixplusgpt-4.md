@@ -1,7 +1,7 @@
 ---
 title: "The Future of Content Creation: HIX+GPT-4"
-date: 2024-07-22 13:42:37
-updated: 2024-07-25 12:57:11
+date: 2024-08-02T16:15:28.406Z
+updated: 2024-08-03T16:15:28.406Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 ## 3\. InstaCart
@@ -45,14 +49,23 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 
  In the illustration below, we prompted ChatGPT with some ingredients we had. Then, we asked it what meal we could cook with them. After suggesting we cook Jollof rice, ChatGPT listed the additional ingredients we'll need and asked whether to generate an InstaCart shopping list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
 
 ## 4\. Wolfram
@@ -67,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/1a06e5fd0d5cec8ff438d2d94c98e453ecdfe96f9
 
  We then invoked the Wolfram plugin to fact-check the information using its fact-based knowledge base. And here's the result.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
  Wolfram was able to run the generated information against its database to check for accuracy.
@@ -81,10 +97,16 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
  We provided a link to OpenAI's GPT-4 technical report and asked it about the model's visual input abilities. Here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
  Turns out another important use case is making sense of technical documents like this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Video Insights
 
  The Video Insights plugin is a video interfacing tool that lets you extract information from videos hosted on platforms like YouTube and Daily Motion. You can use the tool to create summaries of a video, ask specific questions on topics covered in the video, get a complete transcript of the video, or extract metadata like the number of likes, views, or comments on a video. Be careful with trusting the metadata it extracts; it was wrong eight out of 15 times when we tried it. But the summaries it produces are quite spot on. To use the tool, use a prompt like:
@@ -97,6 +119,9 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
 Yes, it was a spot-on description of the video if you're wondering.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. SceneXplain
 
  SceneXplain is a hidden gem we found tucked away in the ChatGPT plugin store. What does it do? It takes an image URL as input and returns a detailed description of the image. It is quite impressive in describing complex scenes with multiple people and objects. When we tried it, its descriptions of 12 of the 14 images we tried were spot on, although it can be a bit overly artistic or dramatic in its choice of words. On its own, SceneXplain might not have a lot of use cases. But when combined with other tools, it comes quite handy.
@@ -117,12 +142,18 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. What to Watch
 
  If you are a fan of movies and TV shows, then the "What to Watch" plugin is one worth installing. Describe the kind of movies or TV shows you want, and it will bring up plausible suggestions. Unfortunately, one major setback is that it isn't hooked up to an updated movie database. When we prompted it for new movies, it failed to turn up any movie released after 2021.
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Embrace ChatGPT Plugins
 
  If you've had an underwhelming experience with ChatGPT plugins, you're not alone. However, you'll find a number of useful ChatGPT plugins that extend the chatbot's abilities if you look closely enough. While the plugin store is not as loaded with high-quality plugins as we'd hoped to see, take advantage of the available ones to make the best of your ChatGPT experience.

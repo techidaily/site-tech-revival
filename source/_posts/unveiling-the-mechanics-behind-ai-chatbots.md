@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Mechanics Behind AI Chatbots
-date: 2024-07-25 14:48:43
-updated: 2024-07-28 12:33:25
+date: 2024-08-02T16:15:38.770Z
+updated: 2024-08-03T16:15:38.770Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,9 @@ Here are the best ChatGPT alternatives.
 
  You can learn[how to sign up and start using Claude AI](https://www.makeuseof.com/sign-up-claude-ai/) . As a rising star in the AI chatbot space, and with a few more iterations, Claude might achieve a true peer status with ChatGPT—or even eventually outperform it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 2.[Google Gemini](https://bard.google.com)
 
 ![Bard explaining what MakeUseOf does](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bard-explaining-what-makeuseof-does.jpg)
@@ -56,6 +59,9 @@ Here are the best ChatGPT alternatives.
 
  There[are some creative ways to use Google's Gemini](https://www.makeuseof.com/how-to-use-google-bard/) , and if you're wondering how Gemini stacks up against ChatGPT, take a look at our in-depth analysis[comparing ChatGPT vs. Gemini](https://www.makeuseof.com/chatgpt-vs-google-bard/) .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Microsoft Copilot](https://copilot.microsoft.com)
 
 ![microsoft copilot in edge browser feb 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-in-edge-browser-feb-2024.png)
@@ -66,8 +72,19 @@ Here are the best ChatGPT alternatives.
 
  In addition to using OpenAI's GPT and DALL-E models, Copilot Chat also benefits from Microsoft's vast wealth of AI resources, giving it an edge over most of the ChatGPT alternatives on our list. If you want to know how Copilot compares to the much more popular ChatGPT, read through our[ChatGPT vs. Microsoft Copilot comparison](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) .
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4.[Perplexity AI](https://www.perplexity.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Perplexity pro account screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-pro-account-screenshot.jpg)
 
  Like Microsoft's Copilot, Perplexity AI is an AI-powered search engine and chatbot that synthesizes real-time web data and knowledge from its underlying AI model to provide accurate and comprehensive answers to user queries. Perplexity is one of the most reliable alternatives to ChatGPT because it is powered by OpenAI's GPT technology.
@@ -76,6 +93,9 @@ Here are the best ChatGPT alternatives.
 
 ## 5.[Pi AI](https://pi.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Screenshot of PI AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-of-pi-ai-chatbot.PNG)
 
  Some form of conversational AI model powers all the chatbots on our lists. However, Pi, developed by AI startup Inflection, stands out in its unique interpretation of conversational AI. The chatbot might not be the most advanced AI, but it is one of the most interesting when it comes to holding engaging conversations.
@@ -104,8 +124,14 @@ Here are the best ChatGPT alternatives.
 
  How good is Poe? Well, let's say the biggest allure of using Poe is its array of choices. You could say Poe is as good as a combination of the chatbots available on the platform. Although you might not get the same quality of service as you'd get when using the individual chatbots directly on their original provider's platform, you'll love Poe's flexibility. Things get much better if you take up Poe's $20 monthly subscription, which is cost-effective considering the number of AI models at your disposal. In comparison, the same amount gives you access to a ChatGPT Plus subscription for a month.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8.[YouChat](https://you.com/search?q=who+are+you&tbm=youchat)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![You.com August screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/you-com-august-screenshot.jpg)
 
  YouChat, like most ChatGPT alternatives on our list, is powered by a combination of OpenAI's GPT-3.5 and GPT-4 AI models. Its GPT-4 model capabilities are slapped behind a $20 monthly subscription, although you get a few free GPT-4 credits to try out the chatbot. Unless you subscribe to the YouChat Pro plan, your queries should be powered by the slightly older GPT-3.5 series model. This should give you roughly similar results to the capabilities of the free-tier ChatGPT, although with more summarized results that are heavily synthesized with live internet data.
@@ -118,6 +144,9 @@ Here are the best ChatGPT alternatives.
 
 ## 9.[Chatsonic](https://writesonic.com/chat)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Chatsonic August 2023 screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatsonic-august-2023-screenshot.jpg)
 
  The underlying technology behind ChatGPT (first GPT 3.5, since updated to GPT-4) is the same technology that powers Chatsonic, making it almost as interesting as ChatGPT. Chatsonic goes a step further and builds on[the abilities of ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) while fixing[some of ChatGPT's limitations](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) .
@@ -128,6 +157,9 @@ Here are the best ChatGPT alternatives.
 
  Compared with Chatsonic, ChatGPT responses are typically significantly more "complete" and better formatted. In several cases, Chatsonic tends to summarize its responses. That might work for some people, but you might not find it useful when you need a long-form response. However, those limitations aside, Chatsonic is exciting and one of the best ChatGPT alternatives.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 10.[Character.AI](https://character.ai)
 
 ![screenshot of charcater AI website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-charcater-ai-website.jpg)
@@ -136,6 +168,9 @@ Here are the best ChatGPT alternatives.
 
  We tried out a conversation with Tony Stark about getting an Iron Man-style suit, and it was interesting, immersive, and logical. Character AI impressively reflects the tone and mannerisms of the characters on offer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![Conversation with Tony Stark on Character ai](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/conversation-with-tony-stark-on-character-ai.jpg)
 
  Although Character AI is primarily character-themed, you can still get a ChatGPT-style prompt and response interaction using the "Character Assistant" feature on the platform. Although generally impressive, don't expect ChatGPT-quality responses. That said, Character AI is worth trying out.

@@ -1,7 +1,7 @@
 ---
 title: Utilizing ChatGPT and DALL-E to Design Custom Characters for Your Next D&D Adventure
-date: 2024-07-26 13:53:27
-updated: 2024-07-28 12:38:28
+date: 2024-08-02T16:16:27.712Z
+updated: 2024-08-03T16:16:27.712Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
 ## From One Size Fits All to Made for You: How the Newest ChatGPT Update Facilitutes Custom GPT Models Design
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The arrival of GPT-4 Turbo introduces significant improvements to ChatGPT, including a larger context window, up-to-date knowledge base, and improved instruction following abilities. It offers the largest context window of any commercially available AI chatbot.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
  It's worth noting that the data cut-off applies to GPT-4 Turbo's general knowledge. If you ask a specific question, GPT-Turbo now turns to its integrated browsing mode to answer any question, so you're technically unlimited in the scope of queries. For example, in the image below, ChatGPT confirms its new data cut-off point, then correctly answers who won the 2023 F1 World Drivers Championship.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da
 
  GPT-4 Turbo’s arrival is big news, but what you’ll perhaps find more exciting is the ability GPTs feature. In its simplest form, custom GPTs allow you to create mini versions of ChatGPT customized for specific purposes. ​I knocked up an example of an extremely basic custom GPT in seconds, asking the model to help me in Football Manager 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
@@ -53,14 +62,23 @@ Close
 
  You could make other custom GPTs as well, like one for movie recommendations primed with a database of films. Then prompt your custom movie bot anytime you want a recommendation. The best part is that you’ll eventually be able to share these specialized GPTs publicly and potentially profit when others find them useful. Custom GPTs allow you to easily customize ChatGPT for specialized purposes beyond its general knowledge without the need to write any code.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Use Pre-Listed GPTs
 
  You can build a custom GPT, or you can choose from a long list of hundreds of pre-built options to supercharge your prompting experience. Since they are optimized for particular functions, you can get even better responses than regular ChatGPT for niche uses. The[pre-built GPTs have already been primed](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) with specialized knowledge to supercharge performance for targeted prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT’s Evolution Continues
 
  ChatGPT's meteoric rise shows no signs of slowing down. Whenever ChatGPT seems to be losing steam, OpenAI rolls out key upgrades that significantly improve the chatbot's capabilities. The AI chatbot is on a steep growth trajectory, evidenced by game-changing additions like the powerful GPT-4 Turbo model and the ability to build specialized GPTs.

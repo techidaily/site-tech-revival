@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Error Resolution Strategies When Facing Server Capacity Constraints on Windows
-date: 2024-07-24 10:30:11
-updated: 2024-07-26 12:14:47
+date: 2024-08-02T16:16:07.689Z
+updated: 2024-08-03T16:16:07.689Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -44,16 +47,25 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 So, how can you use this?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
 
  Let's say you wanted to gather some key data and then create an infographic to introduce what you've found. To find the data, you start a chat with the Consensus GPT. Once Consensus gives you the relevant information, you mention Canva in your chat, and click on the Canva GPT option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
@@ -72,10 +84,16 @@ So, how can you use this?
 
  To demonstrate this, we asked KAYAK GPT to find us the best spots to stay in Germany, as well as upcoming flights.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 Now, we have hotels, flights, and trails for our trip all in one chat!

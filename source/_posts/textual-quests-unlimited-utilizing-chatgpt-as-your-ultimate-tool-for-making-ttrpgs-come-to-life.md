@@ -1,7 +1,7 @@
 ---
 title: "Textual Quests Unlimited: Utilizing ChatGPT as Your Ultimate Tool for Making TTRPGs Come to Life"
-date: 2024-07-23 20:21:10
-updated: 2024-07-24 11:39:29
+date: 2024-08-02T16:16:07.451Z
+updated: 2024-08-03T16:16:07.451Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,14 @@ thumbnail: https://thmb.techidaily.com/ce715e4a5f07116757cf7fe719b940aadd98801d0
 
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -60,6 +68,9 @@ You could use:
 
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 ## 4\. Not Providing Context When Necessary
@@ -72,8 +83,14 @@ You could use:
 
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -84,10 +101,16 @@ You could use:
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
@@ -96,6 +119,9 @@ You could use:
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.

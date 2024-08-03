@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Productivity: Advanced Techniques for Note-Taking via ChatGPT"
-date: 2024-07-21 16:45:31
-updated: 2024-07-24 10:47:39
+date: 2024-08-02T16:16:33.792Z
+updated: 2024-08-03T16:16:33.792Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 
 ## Chrome Upgrade for Easy ChatGPT Command Input – Boost Productivity Now
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is AIPRM for ChatGPT?](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#what-is-aiprm-for-chatgpt)
@@ -48,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
  Installing AIPRM for ChatGPT on your Chrome browser is easy; all you need to do is follow the steps below:
@@ -60,10 +66,17 @@ thumbnail: https://thmb.techidaily.com/c0270bb78c702f180d69e641fb9f373f4cd07e8ef
 
 You should now see the AIPRM dashboard on your ChatGPT page.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to Use the AIPRM for ChatGPT Chrome Extension
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
@@ -89,6 +102,9 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## How to Create AIPRM Prompts
 
  Although thousands of prompts are available on AIPRM, you may sometimes need a more personalized prompt. So, why bother crafting your prompt in AIPRM rather than using it directly in ChatGPT? This can be useful when you need to reuse the prompt for a similar task in the future.
@@ -99,6 +115,13 @@ To create a custom AIPRM prompt:
 
  Next, fill out all the details of your prompt. Note that providing more detailed information in the**Prompt Template** field will increase your prompt's value and the response quality from ChatGPT. Let's say you wish to create a prompt to promote your business on Facebook. You can provide specific details like the name of your business, your services, your target audience, hashtags to use, and the tone of voice. In the same field, create the task by writing the instructions that ChatGPT will follow to generate the desired text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
@@ -109,6 +132,9 @@ To create a custom AIPRM prompt:
 
  Lastly, select the**Topic** ,**Activity** ,**Who can see this?** and**Made for** (the ChatGPT model). Write your**Author Name** and**Author URL** . Click**Save Prompt** to finalize the creation of your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
  Once your prompt is saved, you can find it under the**Own** tab.

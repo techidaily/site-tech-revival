@@ -1,7 +1,7 @@
 ---
 title: "The Downsides: 7 Cases Against AI Messaging"
-date: 2024-07-23 18:43:12
-updated: 2024-07-26 11:52:25
+date: 2024-08-02T16:16:26.998Z
+updated: 2024-08-03T16:16:26.998Z
 tags:
   - chatgpt
   - open-ai
@@ -23,8 +23,14 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 2\. AI Hallucinations and Potential Biases
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
@@ -53,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Relies Heavily on Historical Data
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -65,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.

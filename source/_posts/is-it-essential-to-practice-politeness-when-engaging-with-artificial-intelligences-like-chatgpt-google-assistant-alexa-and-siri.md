@@ -1,7 +1,7 @@
 ---
 title: Is It Essential to Practice Politeness When Engaging with Artificial Intelligences Like ChatGPT, Google Assistant (Alexa), and Siri?
-date: 2024-07-27 21:11:51
-updated: 2024-07-29 12:19:29
+date: 2024-08-02T16:15:53.993Z
+updated: 2024-08-03T16:15:53.993Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  So, how, exactly, might AI prove useful here, and in what ways may it pose a risk?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Providing Instant Advice and Support Using AI
 
  Finding a therapist can take a long time, and can even be an inaccessible option for some due to its high cost. So, when someone needs advice and support immediately, who can they turn to?
@@ -35,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  Of course, some may see[using AI to provide mental health advice as risky](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . We'll discuss the possible downsides of this a little later.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Monitoring Patient Progress With AI
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![person typing on laptop next to stethoscope on desk](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/stetho-laptop-1.jpg)
 
  Monitoring a patient's progress to ensure they're not taking steps backward is a very important step in recovery. While a human professional can do this well, the number of individuals requiring mental health support makes it difficult for human personnel to keep up with the demand.
@@ -45,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  But there are risks to consider here, and the AI system in use would have to be very thoroughly trained on how to spot possible red flags. Still, simply using this as an initial assessment could prove highly beneficial, both to doctors and patients.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Developing New Support Techniques With AI
 
  There's no denying that researchers are still working to further understand our brains and why they give way to mental illnesses. Not only is the origin of mental illness still being researched, but techniques on how to better treat patients are also being developed.
@@ -59,12 +71,18 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  While AI has significant potential to improve mental healthcare, there are also risks and dangers in the adoption of this fast-evolving technology.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Increased Reliance on AI
 
  Over the past few decades, the rise of smart technology has led many people to rely on phones, PCs, tablets, and other devices to simplify and enhance their lives. Whether they're chatting on social media, streaming movies, browsing for new clothes, or simply getting some work done, technology usually stands as the backbone. Many people are even[addicted to their smartphones](https://www.makeuseof.com/smartphone-addiction-how-overcome-negative-habit/) or computers, which can have a huge impact on their lives.
 
  So, when AI becomes prominent across various industries, it could have a detrimental effect on mental health. For instance, an individual may opt to[use AI for their education](https://www.makeuseof.com/reasons-teachers-embrace-ai/) , work, entertainment, and other elements of their social life. This, in turn, may lead to something of an AI addiction. There are already plenty of people addicted to social media, online shopping, and online gaming today, which can often give way to feelings of anxiety and very real social and financial problems.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Lack of Human Contact
 
  Humans are, by nature, social beings. So, it can often be hugely beneficial to discuss your feelings with somebody else, instead of dealing with them alone.

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Vector Databases: Key Tools for Advancing AI Systems"
-date: 2024-07-21 16:52:36
-updated: 2024-07-24 11:20:12
+date: 2024-08-02T16:16:42.675Z
+updated: 2024-08-03T16:16:42.675Z
 tags:
   - chatgpt
   - open-ai
@@ -39,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/a37ab7bacfd21717668bfcf5969765b4a3a3d0a9b
 
  Now, with HuggingChat, the waters are a bit murkier. If asked, HuggingChat will assure you that an account is required, as the image below confirms.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -62,6 +65,9 @@ As you can see, HuggingChat answered this easily.
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 ## Summarizing Articles
@@ -70,16 +76,25 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
 
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
 This was ChatGPT's effort:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
 HuggingChat's summary looked like this:
@@ -88,6 +103,9 @@ HuggingChat's summary looked like this:
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
  Although surrounded by controversy, the ability to create creative works is perhaps one of the most useful aspects of AI chatbots. However, we will sidestep the moral and ethical implications and put the tools head-to-head in a creative clash of the chatbots.
@@ -100,6 +118,9 @@ HuggingChat's summary looked like this:
 
 And this was HuggingChat's.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 Shakespeare himself would be impressed with both of these!
@@ -128,6 +149,9 @@ Shakespeare himself would be impressed with both of these!
 
  Ultimately, the choice between them will likely be driven more by user requirements than user preferences. As the tools are free and quick to access, checking both out is not a great hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Are You a Hugger or a Chatter?
 
  These tools represent the future of human and machine interaction. Both are incredibly powerful, and it wasn't so long ago that the thought of having such tools at your fingertips would have seemed inconceivable.

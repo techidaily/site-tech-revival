@@ -1,7 +1,7 @@
 ---
 title: Developing a Tailored ChatGPT Model with Self-Curated Data Sources
-date: 2024-07-26 22:37:13
-updated: 2024-07-28 10:59:21
+date: 2024-08-02T16:15:44.176Z
+updated: 2024-08-03T16:15:44.176Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
  You can even customize your chats and search results to suit your personality. For instance, you can ask Prometheus (that's it's name) to be more creative, balanced, or precise with its results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Bing Adds AI Power to Search
 
  Microsoft's AI-powered Bing search engine looks[set to change search as we know it](https://www.makeuseof.com/how-bing-ai-powered-change-search-experience/) . The jury's still out on whether it can[beat Google at search](https://www.makeuseof.com/bing-ai-powered-beat-google-search/) , but things certainly look promising.
@@ -27,16 +30,25 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
  For every query you submit, it will scour the internet for relevant answers. But it doesn't stop there. The search engine will further summarize its findings into more straightforward and articulate responses that you can use immediately. Plus, it'll equally cite sources as references.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Bing’s AI-Powered Search Engine
 
  At launch, you needed to join a waitlist in order to try Bing's AI-powered search engine, but it's now available for everyone. Here's how to use it:
 
 1. Head over to[Bing](https://www.bing.com/new?form=MY029I&OCID=MY029I) 's dedicated page.
 2. If you're using a non-Edge browser, you'll need to switch over to Edge.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open in Microsoft Edge prompt on a white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-in-microsoft-edge.jpg)
 3. Click on**Sign in** (in the top-right corner) to log in to your Microsoft Account.
 4. Once inside, click on**Chat now** .
 5. Pick a conversation style. By default, this is set to**More Balanced** . You can choose to be**More Precise** or**More Creative** .  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 6. Go to the typing area and enter your question. You have a 2,000-character limit.
 7. When done, click the send arrow and wait for it to populate your answer.
@@ -47,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 1. Go to the top of the page and click on**Search** , next to**Chat** .
 2. Clear the search box of any pre-filled query and enter yours. It'll return a search result box similar to[Google's Featured Snippets](https://www.makeuseof.com/what-are-google-featured-snippets/) .  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing AI-powered search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-powered-search-results.jpg)
 3. It'll also show you prompts that you can click on to learn more about your subject, including how to contact them (for most people searches).
 4. You can further refine your search by typing a query into the chat box just beneath the main result (if available for your query). To your right, you'll find additional information, for some searches.
 5. If you search for celebrities or popular personalities, it can pull up their Wikipedia entries as well as a chat option to help you learn more about their work, personalities, worldview, and so on. Again, this is subject to availability. To begin, simply click on**Let's chat** .  
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing AI-powered Search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-search-with-ai.jpg)
 
  Chat mode will only be available when you have access to the AI-powered Bing.

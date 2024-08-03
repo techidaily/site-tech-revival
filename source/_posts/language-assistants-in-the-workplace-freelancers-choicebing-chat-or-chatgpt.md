@@ -1,7 +1,7 @@
 ---
 title: "Language Assistants in the Workplace: Freelancer's Choice—Bing Chat or ChatGPT"
-date: 2024-07-27 21:13:16
-updated: 2024-07-28 10:57:58
+date: 2024-08-02T16:15:55.795Z
+updated: 2024-08-03T16:15:55.795Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
  Whether you want to improve your French-speaking skills or pick up some German, GPT-4 is surprisingly capable. It can help you build your vocabulary, learn grammar and syntax, and even learn a bit about culture.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. What's the Best Place to Start?
 
 ![ChatGPT Plus best way to learn a language](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-best-way-to-learn-a-language-1.jpg)
@@ -29,8 +32,14 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Building Your Vocabulary
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
@@ -41,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
@@ -59,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/2aa4ab31383fbb9b0b4fde717165b9f7119026d37
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
@@ -74,8 +89,14 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Cultural Learning
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.

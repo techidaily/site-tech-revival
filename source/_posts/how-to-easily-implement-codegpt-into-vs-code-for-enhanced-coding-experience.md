@@ -1,7 +1,7 @@
 ---
 title: How To Easily Implement CodeGPT Into VS Code for Enhanced Coding Experience
-date: 2024-07-26 18:52:22
-updated: 2024-07-28 12:50:46
+date: 2024-08-02T16:16:37.560Z
+updated: 2024-08-03T16:16:37.560Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ But what if you don't want to part with $20 per month?
 
 Well, here are five ways you can use GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## 1.[Microsoft Copilot](https://www.bing.com/chat?form=NTPCHB)
 
 ![microsoft copilot website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/microsoft-copilot-website-screenshot.png)
@@ -45,6 +48,9 @@ Well, here are five ways you can use GPT-4 for free.
 
  If you want to use GPT-4 for free, Microsoft Copilot is absolutely one of the best options. A[ChatGPT Plus subscription is still the overall best option](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) due to its extensive array of features, but if you just have a few questions you want answered, Copilot is the next best option.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. ChatGPT
 
  Wait, ChatGPT offers GPT-4 for free?[OpenAI launched a heap of new features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) at its Spring Update event in May 2024, and one of those was a new GPT-4 version: GPT-4o.
@@ -59,6 +65,9 @@ Well, here are five ways you can use GPT-4 for free.
 
 ## 3.[Perplexity.ai](https://www.perplexity.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perplexity ai pro search option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/perplexity-ai-pro-search-option.jpg)
 
  Perplexity.ai is a very promising AI tool with the option to use GPT-4 for free. While the free version of Perplexity doesn't specifically state that you're using GPT-4, toggling its "Copilot" mode gives you access to GPT-4, albeit limited to five questions every four hours.
@@ -67,6 +76,9 @@ Well, here are five ways you can use GPT-4 for free.
 
  Upgrading to Perplexity.ai's Pro tier will set you back $20 per month (the same as a ChatGPT Plus subscription), but does mean you can ask more than 300 Copilot-powered questions,[use Anthropic's Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , and upload as many files as you want to for AI analysis.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Merlin
 
 ![merlin ai extension free gpt4 access](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/merlin-ai-extension-free-gpt4-access.jpg)
@@ -91,20 +103,35 @@ Well, here are five ways you can use GPT-4 for free.
 
  However, I've included the option here in case you find more joy than I did. The image above shows one Space that processed my request instantly (as its daily API access limit hadn't yet been hit), while another requires you to[enter your ChatGPT API key](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Formerly Had Free GPT-4 Access: Poe by Quora, Ora, Forefront, Nat.dev
 
  Several other tools once provided free GPT-4 access but have since removed the option or pushed it into a premium or subscription tier. The reason for that is simple enough: it's expensive to integrate GPT-4 access into a site and give that access away for free, especially as many people want to access GPT-4 for free.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### [Poe](https://poe.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![poe homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ain-page.jpg)
 
  Poe is a generative AI tool that gives you access to several LLMs and AI chatbots in one place. Unlike most of the major generative AI tools that feature just one option, Poe, developed by Quora, helps you spread your questions around, choosing the best option for the job when required.
 
  Quora CEO[Adam D'Angelo's tweet](https://twitter.com/adamdangelo/status/1635690637990445057?) initially revealed Poe's GPT-4 integration in March 2023, with users able to send one free GPT-4 message per day. The number of free GPT-4 messages rose to three, but it has since removed its free GPT-4 messaging capacity. There is no indication if Poe will restore its free GPT-4 messaging option, but it's worth keeping tabs on, just in case.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Ora](https://ora.ai/dashboard)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![ora ai tool home page with llm options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ora-ai-tool-home-page-with-llm-options.jpg)
 
  Ora is a fun and friendly AI tool that allows you to create a "one-click chatbot" for integration elsewhere. Say you wanted to integrate an AI chatbot into your website but don't know how; Ora is the tool you turn to.
@@ -113,10 +140,16 @@ Well, here are five ways you can use GPT-4 for free.
 
 ### [Forefront](https://www.forefront.ai/app/chat/new)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![forefront ai chatgpt prompt output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/forefront-ai-chatgpt-prompt-output.jpg)
 
  Forefront is another multi-access AI tool featuring free access to GPT-3.5, Forefront's in-house tool, and Claude-Instant 1.2\. When it first launched, Forefront provided a limited number of free GPT-4 requests (along with Claude 2), but this access has since been removed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Nat.dev](https://nat.dev/)
 
 ![open playground nat dev credits top up request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/open-playground-nat-dev-credits-top-up-request.jpg)

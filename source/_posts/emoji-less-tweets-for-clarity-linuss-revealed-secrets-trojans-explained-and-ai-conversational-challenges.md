@@ -1,7 +1,7 @@
 ---
 title: Emoji-Less Tweets for Clarity, Linus's Revealed Secrets, Trojans Explained, & AI Conversational Challenges.
-date: 2024-07-22 14:42:32
-updated: 2024-07-25 10:21:21
+date: 2024-08-02T16:15:38.520Z
+updated: 2024-08-03T16:15:38.520Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/988ac228735021a2a318d189208507463b5f10c1a
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/988ac228735021a2a318d189208507463b5f10c1a
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -71,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/988ac228735021a2a318d189208507463b5f10c1a
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -95,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/988ac228735021a2a318d189208507463b5f10c1a
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:

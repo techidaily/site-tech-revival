@@ -1,7 +1,7 @@
 ---
 title: "Explore the Visual Side of AI: 8 Creative Applications for ChatGPT Technology"
-date: 2024-07-25 20:16:20
-updated: 2024-07-26 11:32:54
+date: 2024-08-02T16:16:16.732Z
+updated: 2024-08-03T16:16:16.732Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
 ## Explore the Power of Artificial Creativity with Microsoft's Bing and DALL-E 3 for Free
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Easily access and use DALL-E 3 for free with Microsoft Bing Chat or Bing Image Creator. No subscription fees or sign-up required.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
 ## How to Access DALL-E 3 With Microsoft Bing
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
 
  Bing is a search engine featuring an AI chat function and an AI Image Creator. Thanks to a partnership with OpenAI, Microsoft was the first company to integrate DALL-E 3 into its products. This means you can use DALL-E 3 for free using either of the features mentioned.
@@ -36,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Makes DALL-E 3 Special?
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
@@ -44,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## How to Craft a Good DALLE-3 Prompt Using Bing
 
  DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
@@ -60,10 +73,16 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
@@ -74,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.

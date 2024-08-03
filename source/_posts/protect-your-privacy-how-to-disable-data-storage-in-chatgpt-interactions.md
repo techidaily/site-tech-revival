@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Privacy: How to Disable Data Storage in ChatGPT Interactions"
-date: 2024-07-22 15:30:14
-updated: 2024-07-25 12:47:48
+date: 2024-08-02T16:16:41.350Z
+updated: 2024-08-03T16:16:41.350Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
  OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an[OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/f1107e3da6770974363fecbf7658ee04571722ec0
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -51,6 +57,9 @@ That's not all, though.
 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
 Close
@@ -65,10 +74,16 @@ Close
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -80,6 +95,9 @@ Close
 
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Finally Connected to the Internet
 
  Internet-connected ChatGPT is finally here. Although the Web Browsing and Plugins are limited to ChatGPT Plus currently, it won't be long until regular ChatGPT users can gain access to internet-powered generative AI.

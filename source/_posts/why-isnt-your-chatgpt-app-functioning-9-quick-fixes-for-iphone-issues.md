@@ -1,7 +1,7 @@
 ---
 title: Why Isn't Your ChatGPT App Functioning? 9 Quick Fixes for iPhone Issues
-date: 2024-07-24 18:56:49
-updated: 2024-07-26 11:29:42
+date: 2024-08-02T16:16:24.244Z
+updated: 2024-08-03T16:16:24.244Z
 tags:
   - chatgpt
   - open-ai
@@ -31,12 +31,18 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  Most generative tools have limited real-world knowledge. For instance, OpenAI only trained ChatGPT on information up until 2021\. The below screenshot of a conversation shows its struggle to pull recent reports on anxiety disorder.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Can't Tell What Percentage of the Population has Anxiety ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-on-anxiety-disorder-statistics.jpg)
 
  Considering these constraints, an over-reliance on AI chatbots leaves you prone to outdated, ineffective advice. Medical innovations occur frequently. You need professionals to guide you through new treatment programs and recent findings.
 
  Likewise, ask about disproven methods. Blindly following controversial, groundless practices based on alternative medicine may worsen your condition. Stick to evidence-based options.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Security Restrictions Prohibit Certain Topics
 
  AI developers set restrictions during the training phase. Ethical and moral guidelines stop amoral AI systems from presenting harmful data. Otherwise, crooks could exploit them endlessly.
@@ -57,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
 ![ChatGPT Can't Provide Prescription Medication](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-prescription-medication.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## 5\. Chatbots Present Generic Information
 
  AI answers general knowledge questions about mental health. You can use them to study basic treatment options, spot common symptoms, and research similar cases. Proper research helps you build self-awareness. Recovery will go smoother if you understand your mental state and emotional triggers.
@@ -67,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  A professional counselor or therapist would go beyond what AI suggests. You can use AI output as a starting point to better understand academic journals and research papers, but be sure to do deeper research or consult a professional.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 6\. Self-Diagnoses Are Rarely Accurate
 
  AI enables self-diagnoses. Instead of paying for therapy, patients ask chatbots to mimic mental health professionals. It’s quicker and cheaper than booking consultations.
@@ -85,10 +97,16 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  Take the below conversation as an example. The persona in the prompt struggles with debt, so ChatGPT incorporated financial freedom into its anti-anxiety advice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Sharing Finance Problems With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/telling-chatgpt-about-finance-problems.jpg)
 
  With enough context, AI could start providing personalized plans. The problem is that generative AI tools have token limits—they only remember a finite amount of data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![ChatGPT Addressing the Root Cause of Finance-Related Anxiety](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-finance-related-anxiety.jpg)
 
  The exact limits vary per platform. Bing Chat starts new chats after 20 turns, while ChatGPT remembers the last 3,000 words of conversations. But either way, neither tool will accommodate all your medical records. At best, generative AI tools can only string together select information, such as recent diagnoses or your current emotions.
@@ -107,8 +125,15 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  Meanwhile, ChatGPT asks open-ended questions but provides simplistic tips you’ll find anywhere else online.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Giving Advice for Depression and Debt Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-advice-for-depression.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. AI Doesn’t Track Your Progress
 
  Managing the symptoms of mental illnesses involves long-term treatment and observation. There’s no easy remedy for mental health conditions. Like most patients, you might try several programs. Their effects vary from person to person—carelessly committing to generic options yields negligible results.
@@ -117,6 +142,9 @@ thumbnail: https://thmb.techidaily.com/589975317cd54578e2464cf37ff9c3436a24bffda
 
  Look for people who’ll support you throughout your journey. They should track your progress, assess which treatment plans work, address persistent symptoms, and analyze your mental health triggers.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## You Can’t Replace Consultations With AI Chatbots
 
  Only use generative AI tools for basic support. Ask general questions about mental health, study therapy options, and research the most reputable professionals in your area. Just don’t expect them to replace consultations altogether.

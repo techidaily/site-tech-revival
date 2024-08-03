@@ -1,7 +1,7 @@
 ---
 title: Is OpenAI Losing Grip on ChatGPT's Management?
-date: 2024-07-26 22:44:34
-updated: 2024-07-29 10:52:25
+date: 2024-08-02T16:16:29.297Z
+updated: 2024-08-03T16:16:29.297Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e1
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -42,6 +45,9 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -52,6 +58,9 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -60,12 +69,18 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
 
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -78,6 +93,9 @@ Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?

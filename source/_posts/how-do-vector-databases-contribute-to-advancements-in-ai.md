@@ -1,7 +1,7 @@
 ---
 title: How Do Vector Databases Contribute to Advancements in AI?
-date: 2024-07-24 23:36:51
-updated: 2024-07-25 10:24:52
+date: 2024-08-02T16:16:13.229Z
+updated: 2024-08-03T16:16:13.229Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  Ironically, AI girlfriend and boyfriend apps worsen social isolation by perpetuating toxic beliefs about interpersonal relationships. Users want partners who’ll live up to their made-up AI personas. Some would even go as far as to marry their AI-generated companions and give up on human relationships altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Chatbots Provide Fake Emotional Support
 
  It’s common to use generative AI chatbots for psychotherapy. AI platforms scrape mental health advice from their datasets and mimic human-like speech through LLMs. Their output is neutral and generic, yet many will explore AI tools rather than paying for psychotherapy sessions.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  That said,[treating AI chatbots like therapists is dangerous](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . AI can’t empathize with you or understand your situation—it uses NLP to comprehend input and presents the corresponding output based on its datasets. Please see a licensed therapist or psychiatrist if you need mental health advice.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Users Imitate Voices Through Speech Synthesis
 
  Advancements in text-to-speech and speech-to-speech models led to the rise of affordable, accessible AI voice generators. They produce natural-sounding speech output. Depending on input quality and model sophistication, anyone can clone another person’s voice accurately.
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  What’s worse is that some victims fall into the delusion that they can form genuine connections with AI personas. The desire for companionship gets the best of them. They choose to overlook the fact that the strangers operating these personas couldn’t care less about them.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## 5\. AI Content Floods SERPs
 
 ![Empty Search Bar on Google Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-search-bar-online.jpg)
@@ -69,8 +78,14 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  But not everyone’s as honest as them. Crooks exploit deepfake videos to spread misleading, damaging, and sexually suggestive content. They can manufacture almost any clip with the necessary editing skills and tools.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Immersive VR/AR Experience Distorts Your Senses
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Person Scrolling Nonstop on Phone While in Bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-in-bed-scrolling-phone.jpg)
 
  AI models enable[virtual reality (VR) and augmented reality (AR)](https://www.makeuseof.com/tag/augmented-vs-virtual-reality-whats-difference/) technologies to provide a more immersive experience. Their hyper-realistic output thoroughly stimulates the senses. And as high-end VR/AR devices develop, their standard auditory, visual, and haptic cues will also improve.
@@ -89,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 
  AI isn’t the golden ticket to success. Misinformed entrepreneurs should ditch the false belief that replacing human workers with AI spikes profits. Adopting new systems could still lead to losses if you forego proper planning.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Drawing the Line Between Fantasy and Reality
 
  Differentiating between the virtual and real world will become even harder as AI technologies advance. Sophisticated models will generate more realistic output. The only way to combat these widespread false realities is to explore AI yourself—study its functions and limitations.

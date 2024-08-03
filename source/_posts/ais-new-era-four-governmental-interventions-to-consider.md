@@ -1,7 +1,7 @@
 ---
 title: "AI's New Era: Four Governmental Interventions to Consider"
-date: 2024-07-26 19:27:26
-updated: 2024-07-28 12:53:50
+date: 2024-08-02T16:16:46.277Z
+updated: 2024-08-03T16:16:46.277Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 
 ## 1.[Unriddle](https://www.unriddle.ai/) (Web, Chrome): Most Powerful Way to Chat With Your Documents
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Unriddle is the best app to analyze your documents and then talk with them using ChatGPT, but the free tier is severely limited](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-unriddle.jpg)
 
 * **File Formats Supported:** PDF, DOC, URL
@@ -35,8 +38,15 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 
 **Download:** Unriddle Summarize for[Chrome](https://chrome.google.com/webstore/detail/unriddle-ai-generated-sum/iinmigjlcpeckfihbbfajpkiilfmakff) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2.[Chatterdocs](https://chatterdocs.ai/tools/chat-with-pdf) (Web): Create Chatbots Sourcing From Multiple Documents
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Chatterdocs can analyze multiple documents at the same time while you chat with a bot and ask questions like ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatterdocs.jpg)
 
 * **File Formats Supported:** PDF, DOC, TXT, JPEG, PNG
@@ -53,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 
 ## 3.[Klavier](https://klavier.ai/) (Web): Free and Limitless Tool to Chat With Your Documents
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Klavier is a completely free way to have AI scan your documents and then use ChatGPT to find information within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-klavier.jpg)
 
 * **File Formats Supported:** PDF, DOCX, TXT, HTML
@@ -81,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 
  The chatbot works with all your documents at the same time, so you'll need to[learn to phrase ChatGPT prompts effectively](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) to get the answers you need. It's also context-unaware, meaning each question is treated as a separate query without considering the conversation before it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 5.[Docalysis](https://docalysis.com/) (Web): Best App to Have ChatGPT Conversations With PDFs
 
 ![Docalysis provides one of the most impressive ChatGPT bots for your PDF documents, and having the PDF open alongside is a bonus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-docalysis.jpg)
@@ -109,6 +127,9 @@ thumbnail: https://thmb.techidaily.com/dfc76f0ba5d27ec9fc744372720f89b9cd207751d
 
  ChatPDF is one of the[coolest new apps to work with PDF files](https://www.makeuseof.com/free-pdf-editing-web-apps-to-fix-common-problems-with-pdfs/) , and performs shockingly well for all text. It had trouble reading images and data from tables in our tests, where we uploaded files from our drive as well as direct URLs. The developers say that while they currently use ChatGPT 3.5, they are looking into how to incorporate the newer ChatGPT 4.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Learn Prompts to Make Chat Memory Easier
 
  You'll find that in all these apps, ChatGPT doesn't remember what you talked about after a session is finished. In fact, in some apps, it'll treat each question separately without using the previous query's context. To get around this problem, try and learn how to use prompts for ChatGPT in the app you're using. With a little trial and error, you will be able to figure out how to frame a question so that answers use the context of what you've chatted about before.

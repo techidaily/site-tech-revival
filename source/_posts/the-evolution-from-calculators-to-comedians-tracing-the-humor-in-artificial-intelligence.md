@@ -1,7 +1,7 @@
 ---
 title: "The Evolution From Calculators to Comedians: Tracing the Humor in Artificial Intelligence"
-date: 2024-07-25 20:45:30
-updated: 2024-07-27 10:11:28
+date: 2024-08-02T16:16:35.372Z
+updated: 2024-08-03T16:16:35.372Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 1.[Decktopus AI](https://www.decktopus.com/)
 
 ![A Screenshot of Decktopus AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/decktopus-ai-presentation-generator-screenshot.jpg)
@@ -35,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
@@ -47,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 ## 3.[Tome](https://tome.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
 
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
@@ -55,8 +65,14 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
@@ -75,6 +91,9 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 ## 6.[ChatBA](https://www.chatba.com)
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
@@ -85,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/8984f3e954dc5418ee2dd74f85120f2ef763c0382
 
 ## 7.[MagicSlides](https://www.magicslides.app)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.

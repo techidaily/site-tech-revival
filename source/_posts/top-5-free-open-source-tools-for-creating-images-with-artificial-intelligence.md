@@ -1,7 +1,7 @@
 ---
 title: Top 5 Free, Open-Source Tools for Creating Images with Artificial Intelligence
-date: 2024-07-26 20:20:32
-updated: 2024-07-27 12:16:41
+date: 2024-08-02T16:15:49.280Z
+updated: 2024-08-03T16:15:49.280Z
 tags:
   - chatgpt
   - open-ai
@@ -33,8 +33,14 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
@@ -45,6 +51,14 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 3.[Tome](https://tome.app/)
 
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
@@ -57,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
@@ -65,6 +82,9 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
@@ -73,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## 6.[ChatBA](https://www.chatba.com)
 
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
@@ -83,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/a80aac0357f3c4788226453d272b3a23130ff4b40
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)

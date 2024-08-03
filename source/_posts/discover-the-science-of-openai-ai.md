@@ -1,7 +1,7 @@
 ---
 title: Discover the Science of OpenAI AI
-date: 2024-07-22 12:45:27
-updated: 2024-07-24 12:39:20
+date: 2024-08-02T16:15:31.043Z
+updated: 2024-08-03T16:15:31.043Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/f26a59464f8e574e044648e6cdc81caf2b237e34a
 
 ## What Is TruthGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
 
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
@@ -27,6 +30,11 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Why Is Elon Musk Building TruthGPT?
 
  In an interview with[Fox News](https://www.foxnews.com/media/elon-musk-develop-truthgpt-warns-civilizational-destruction-ai) , Elon Musk expressed his concerns about how big AI firms can perpetuate bias and disinformation through AI chatbots—an emerging tool people increasingly depend on for information. Elon Musk also commented on the threat AI poses to humanity, emphasizing the possibility of an AI apocalypse, a scenario where AI systems could take control of our daily lives.
@@ -35,8 +43,14 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Would TruthGPT Look Like?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -47,6 +61,9 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
 So, is this idea of a maximum truth-seeking AI even practical?
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
@@ -59,6 +76,9 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is TruthGPT an Exciting Possibility?
 
  Elon Musk's plans for TruthGPT seem noble and commendable. However, building an AI model with a negligible incidence of inaccuracies is a tough task.

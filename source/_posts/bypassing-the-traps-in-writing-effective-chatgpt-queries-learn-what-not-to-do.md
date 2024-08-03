@@ -1,7 +1,7 @@
 ---
 title: "Bypassing the Traps in Writing Effective ChatGPT Queries: Learn What Not to Do"
-date: 2024-07-22 19:41:30
-updated: 2024-07-24 12:44:12
+date: 2024-08-02T16:16:37.935Z
+updated: 2024-08-03T16:16:37.935Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 
  In this instance, ChatGPT responded to the prompt with a standard list of exercises that would work well for many people. If you're interested in a simple, straightforward fitness routine, then its suggestions are legitimate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
@@ -51,8 +55,14 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 
  As someone who has recovered from a fair share of sports injuries, this is the same kind of advice I received from physicians and physical therapists when returning to activities. Again, nothing can replace personalized advice from a healthcare provider, but the chatbot gets the broad strokes correct and advises caution.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How ChatGPT Creates Running Plans
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
 
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
@@ -65,14 +75,24 @@ thumbnail: https://thmb.techidaily.com/5bc10bcfbea3c36ca839a96ba01fc56320fae45e4
 
  Even with a few attempts at follow-up questions, the chatbot did not respond with any specific pacing information. Compared to similar[training plans from Runner’s World](https://www.runnersworld.com/training/a30911910/download-your-runners-world-training-plan/) , the ChatGPT responses are not quite as detailed; however, they do offer basic plans that can help you get ready for specific distances.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Strength Training Plans From ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .

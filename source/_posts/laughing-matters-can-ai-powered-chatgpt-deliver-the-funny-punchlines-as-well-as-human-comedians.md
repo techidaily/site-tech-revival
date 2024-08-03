@@ -1,7 +1,7 @@
 ---
 title: "Laughing Matters: Can AI-Powered ChatGPT Deliver the Funny Punchlines as Well as Human Comedians?"
-date: 2024-07-26 17:26:32
-updated: 2024-07-28 11:26:37
+date: 2024-08-02T16:15:42.609Z
+updated: 2024-08-03T16:15:42.609Z
 tags:
   - chatgpt
   - open-ai
@@ -38,8 +38,14 @@ Here is the standard interpretation of the Turing Test:
 
  The conventional criteria for passing the test is subjective but, as a general understanding, requires the machine to fool at least 30% of all human interrogators. Turing predicted that any machine to do that could be "smart" enough to be labeled as a "thinking machine."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Drawbacks of the Turing Test
 
  Although the Turing Test aims to find if machines can think, there are some drawbacks.
@@ -56,6 +62,9 @@ Here is the standard interpretation of the Turing Test:
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Eugene Goostman
 
  In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
@@ -64,6 +73,14 @@ Here is the standard interpretation of the Turing Test:
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -74,6 +91,9 @@ Here is the standard interpretation of the Turing Test:
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
@@ -82,6 +102,9 @@ Here is the standard interpretation of the Turing Test:
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.

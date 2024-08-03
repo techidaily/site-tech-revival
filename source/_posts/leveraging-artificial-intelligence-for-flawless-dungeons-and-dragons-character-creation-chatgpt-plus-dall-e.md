@@ -1,7 +1,7 @@
 ---
 title: Leveraging Artificial Intelligence for Flawless Dungeons & Dragons Character Creation (ChatGPT + DALL-E)
-date: 2024-07-27 12:47:15
-updated: 2024-07-29 12:24:28
+date: 2024-08-02T16:15:54.018Z
+updated: 2024-08-03T16:15:54.018Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  Whatever the answers to these questions are, you can't ignore that AI is rapidly rising in the workplace. And so, flexibility and adaptability will be key to remaining relevant in this AI-dominated workplace. Here are some valuable insights into surviving and thriving in the AI-dominated workplace.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Learn What AI Is and How AI-Powered Tools Work
 
 ![A computer screen displaying ChatGPT's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-generative-ai.jpg)
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  ChatGPT is a large language model developed by OpenAI that relies on vast amounts of training data to generate natural-sounding text. This AI chatbot is used for tasks such as content creation, programming, and translation, to name a few. In fact, this tool is so good that[people wonder if generative AI will take over their jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ## 2\. Know the Difference Between Artificial Intelligence and Human Intelligence
 
  Having gained a basic understanding of what AI is and how it works, knowing how it compares to human intelligence will help you appreciate their limitations, discover how they can complement each other, and how you can use both to achieve your work goals.
@@ -41,14 +47,24 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  On the other hand, humans possess the unique ability to use their senses and emotions and apply knowledge and logic in creative ways to solve complex problems.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 3\. Develop Skills AI Can't Replicate
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Close-up image of hand writing "be creative"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/future-proof-skills-1.jpg)
 
  As good as generative AI tools like ChatGPT are, they have limitations, and AI is still far from replicating the unique skills, insights, and creativity that humans possess. As such, it is vital to invest in future-proofing skills that AI can't replicate to survive and thrive in the AI-dominated workplace.
 
  Some of these AI-proof skills include empathy, creativity, problem-solving abilities, adaptability, resilience, communication, and collaboration skills. Investing in these skills will empower you to bring unique insights and solutions. Additionally, as AI solutions continuously improve, you can use your creativity to find innovative ways to use the technologies in your workplace.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Learn How to Work With AI Tools
 
  Although many people believe that[artificial intelligence can't replace humans in the workplace](https://www.makeuseof.com/reasons-artificial-intelligence-cant-replace-humans/) , others believe that digitally literate workers who use AI-powered tools may gain a competitive edge over those who don't. That said, you can become an asset in the AI-dominated workplace by learning how to use generative AI tools.
@@ -57,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/59fadab74810371b89474ece0e1afaf00b25fe1d9
 
  There are several[prompting techniques you can use to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , including writing grammatically correct prompts with enough context and details. In addition, you can also assign it a role to get more relevant and tailored answers.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Build a Robust Professional Network
 
 ![A group of people sitting at a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/professional-networking-event.jpg)

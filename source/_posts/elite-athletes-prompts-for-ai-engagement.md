@@ -1,7 +1,7 @@
 ---
 title: Elite Athletes' Prompts for AI Engagement
-date: 2024-07-26 17:28:15
-updated: 2024-07-28 12:24:22
+date: 2024-08-02T16:15:51.509Z
+updated: 2024-08-03T16:15:51.509Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 
  Learn how to create better AI-generated images in DALL-E 3 with this tried-and-tested list of prompts. You can use these prompts in numerous scenarios and play around with your own ideas and variations for optimal results. Let’s walk through the examples I’ve created.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1 A Poster of Your Favorite Place
 
  There are many[websites to find unique art for your home](https://www.makeuseof.com/best-sites-find-unique-art/) , but creating one in DALL-E3 is easier and more personal. One prompt you can try is asking the platform to generate a poster of your favorite place.
@@ -38,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/c02c898eea6d72b9e37093c851ecd855aff6005dd
 
 And here is the final result:
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 Calendar Cover Artwork
 
  You can[make a printable calendar with Canva](https://www.makeuseof.com/tag/make-your-own-calendar-using-canva/) and other apps, but that doesn’t mean you can’t use DALL-E 3 to generate the front cover artwork. Whether you want to gift someone your calendar or use it yourself, try using this prompt.
@@ -50,6 +59,9 @@ I asked DALL-E 3:
 
  When I asked DALL-E 3 the first time around, it gave me “20225” instead of “2025.” So, you might need to request grammatical corrections. And remember to use the image size format that your calendar will follow.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
 ## 3 A Birthday Card Cover
@@ -74,6 +86,13 @@ Okay, so that didn’t go to plan…
 
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
 
 ## 4 Desktop Wallpapers
@@ -84,8 +103,14 @@ Okay, so that didn’t go to plan…
 
  Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 5 Smartphone Wallpapers
 
  If you want a unique smartphone wallpaper, you can experiment with DALL-E 3 and see what it comes up with. I first asked DALL-E 3 to give me a smartphone wallpaper in 16:9 format, but despite asking multiple times, the AI did not remove the images of an actual smartphone (see the first and second images at the bottom of this section).
@@ -98,6 +123,9 @@ So, I tried a different prompt:
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 Music Album Covers
 
  You can find several[websites to sell your own music](https://www.makeuseof.com/tag/great-sites-to-sell-your-own-music-on/) , and a visually appealing album cover is paramount to standing out and getting recognized.
@@ -110,6 +138,9 @@ Close
 
 ![DALL-E 3 AI Art Cover in Square Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-ai-art-cover.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7 Social Media Cover Banners
 
  If you’re looking for a new cover image or banner for your social media profile, try asking DALL-E 3 to create something artistic. The best option is to ask if the program can create a banner in the sizes you need.

@@ -1,7 +1,7 @@
 ---
 title: Secure Your Browsing with Proton VPN Extension for Enhanced Privacy
-date: 2024-07-23 11:54:31
-updated: 2024-07-24 11:19:15
+date: 2024-08-02T16:16:25.799Z
+updated: 2024-08-03T16:16:25.799Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/0d31f5646fe3a9a749251ddb64d10288427198f92
 * [How to Filter and Favorite AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-filter-and-favorite-aiprm-prompts)
 * [How to Create AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-create-aiprm-prompts)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Crafting effective prompts for ChatGPT is crucial for quality responses. AIPRM offers a vast library of expert prompts.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/0d31f5646fe3a9a749251ddb64d10288427198f92
 
  ChatGPT is a useful generative AI tool that can help you do various tasks, from research to content creation. However, the quality of ChatGPT responses largely depends on how well you frame your instructions or prompts. If you find it challenging to craft effective ChatGPT prompts or wish to save time, you can use a handy Chrome Extension called AIPRM to make ChatGPT prompting easy.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is AIPRM for ChatGPT?
 
  Your ability to[write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) is crucial to getting quality responses, but it's not the easiest task crafting prompts that deliver your desired output. Luckily, AI prompting tools like AIPRM can help.
@@ -64,6 +70,10 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
@@ -75,6 +85,9 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 5. **Hidden** to access your hidden prompt list, which can be viewed and unhidden at any time.
 6. **Add List** to create a custom prompt list. This feature is only accessible to premium subscribers.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
  You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
@@ -85,10 +98,25 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
  Click the**Topic** field to select topics like Marketing, productivity, or SEO. You can filter by**Activity** to find prompts suitable to specific activities or click**Sort by** to select prompts based on usage, views, or votes. Lastly, use the**Model** filter to choose a particular ChatGPT version. You can also use the**Search** bar to find prompts using keywords.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Create AIPRM Prompts
 
  Although thousands of prompts are available on AIPRM, you may sometimes need a more personalized prompt. So, why bother crafting your prompt in AIPRM rather than using it directly in ChatGPT? This can be useful when you need to reuse the prompt for a similar task in the future.
@@ -109,6 +137,9 @@ To create a custom AIPRM prompt:
 
  Lastly, select the**Topic** ,**Activity** ,**Who can see this?** and**Made for** (the ChatGPT model). Write your**Author Name** and**Author URL** . Click**Save Prompt** to finalize the creation of your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
  Once your prompt is saved, you can find it under the**Own** tab.

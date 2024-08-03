@@ -1,7 +1,7 @@
 ---
 title: Expanding Possibilities with ChatGPT’s Imagery Technology
-date: 2024-07-25 23:38:24
-updated: 2024-07-27 11:59:28
+date: 2024-08-02T16:16:36.375Z
+updated: 2024-08-03T16:16:36.375Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,16 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
@@ -56,8 +62,18 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## How a Vector Database Works
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -66,6 +82,23 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Popular Vector Databases
 
  With the explosion of publicly available pre-trained models, vector databases rapidly gained popularity as expanded the capabilities and rate of fine-tuning of these models. And with such high demand for vector databases, many companies have started their own vector database services; here are some of the most popular ones:
@@ -75,6 +108,9 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Future of Vector Databases
 
  With the continuous growth of high-dimensional data types for images, videos, and text, vector databases will play a crucial role in improving and expanding the capabilities of current AI models. Through constant development with vector databases, we can expect better services in the fields of healthcare, finance, e-commerce, and cybersecurity.

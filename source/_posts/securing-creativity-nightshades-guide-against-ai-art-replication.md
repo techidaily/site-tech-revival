@@ -1,7 +1,7 @@
 ---
 title: "Securing Creativity: Nightshade's Guide Against AI Art Replication"
-date: 2024-07-23 18:36:27
-updated: 2024-07-24 11:27:24
+date: 2024-08-02T16:16:16.306Z
+updated: 2024-08-03T16:16:16.306Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Shownotes
 
 This week, we chat about the following tech news that matters:

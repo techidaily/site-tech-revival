@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: A Comparison of Speed Between ChatGPT-4 and ChatGPT-3.5"
-date: 2024-07-24 22:31:28
-updated: 2024-07-27 11:28:53
+date: 2024-08-02T16:16:21.822Z
+updated: 2024-08-03T16:16:21.822Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/4f65577dd94f5403dbbd328bfa81ec9fa85995c2b
 
  To test their language capabilities, I tried simple coding tasks in languages like PHP, JavaScript, BASIC, and C++. Both Gemini and ChatGPT performed well with popular languages, but only ChatGPT could convincingly string together programs in older languages like BASIC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Accuracy and Code Quality
 
  You’re running late on your project deadline, and you need some boilerplate code. You ask ChatGPT and Gemini to generate code to implement that functionality, and both tools spit out dozens of lines of code. Quick win, right?
@@ -53,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/4f65577dd94f5403dbbd328bfa81ec9fa85995c2b
 
  I tried a few other basic coding tasks, and in all instances, ChatGPT's solution was clearly the better option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Debugging and Error Detection
 
  Errors and bugs are like puzzles that programmers love to hate. They'll drive you crazy, but fixing them is quite satisfying. So when you run into bugs in your code, should you call on Gemini or ChatGPT for help? It may depend on[the type of error](https://www.makeuseof.com/avoid-programming-errors/) you’re trying to avoid.
@@ -69,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/4f65577dd94f5403dbbd328bfa81ec9fa85995c2b
 
  I then asked ChatGPT for help, and it immediately picked out the logical error.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT spots logical error in code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-spots-logical-error-in-code.png)
 
 Gemini also rewrote the code to fix the error:
@@ -91,6 +100,9 @@ Gemini also rewrote the code to fix the error:
 
  Unfortunately, when I first tried Gemini (then called Bard) on the same project, it lost track of the project's context and failed to complete the app. Several rounds of updates later, I retested Gemini on the same project, and it seems to have deteriorated further. So, once again, in terms of context awareness, ChatGPT wins.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Problem-Solving
 
  At this point, Google's Gemini is lacking in a lot of ways. But can it finally score a win? Let's test its problem-solving abilities. Sometimes you just have a problem, but you aren't sure how to represent it programmatically, let alone how to solve it.
@@ -99,10 +111,16 @@ Gemini also rewrote the code to fix the error:
 
 Here is the result from Google's Gemini:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Gemini fails to make an optimized Javascript function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gemini-fails-to-make-an-optimized-javascript-function.png)
 
 And here is the result from ChatGPT:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT attempts to create a function to count words in a text segment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-attempts-to-create-a-function-to-count-words-in-a-text-segment.png)
 
  At first, both approaches look pretty solid. Gemini's approach even looks concise. However, ChatGPT's code takes a more robust and accurate approach to counting word occurrences in a text. It considers word boundaries and case sensitivity, handling punctuation properly, and giving more reliable results. Once again, ChatGPT is superior.
@@ -111,18 +129,31 @@ And here is the result from ChatGPT:
 
  Since Google Gemini has pretty much lost in every metric I used for comparison, I decided to give it a chance at redemption. I asked the chatbot "**Which is better at coding? ChatGPT or Gemini?** " Here is its reply:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Gemini answers a question about itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gemini-answers-a-question-about-itself.png)
 
  Seems like something I would partly agree with! I asked ChatGPT what it thought of the assessment and it agreed:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT agrees with Gemini's assessement of its abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-agrees-with-gemini-s-assessement-of-its-abilities.png)
 
  Now, while this seems quite normal, there's an interesting twist here. Throughout most of last year, Gemini (then Bard) always confidently asserted it could produce better code, was more efficient, and made fewer mistakes. Here is a screenshot from one of my tests in November 2023:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Bard boast of being better than ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-boost-of-being-better-than-chatgpt.jpg)
 
 It seems that Gemini is now a little more self-aware and modest!
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Programming Features
 
  Neither ChatGPT nor Gemini have major features that are exclusively for programming. However, both chatbots come with features that can significantly boost your programming experience if you know how to use them effectively.

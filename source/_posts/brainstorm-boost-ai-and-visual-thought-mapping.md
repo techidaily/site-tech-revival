@@ -1,7 +1,7 @@
 ---
 title: "Brainstorm Boost: AI and Visual Thought Mapping"
-date: 2024-07-23 20:13:37
-updated: 2024-07-24 12:16:35
+date: 2024-08-02T16:16:10.079Z
+updated: 2024-08-03T16:16:10.079Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  However, you'll need to get creative with your prompts to make the best of ChatGPT as a translation tool. We've done the hard part—here's how to get the best results from ChatGPT as a translation tool.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Why Use ChatGPT for Translation?
 
  Google Translate, Microsoft Translator, and DeepL are some of the [most popular translation services on the internet](https://www.makeuseof.com/best-google-translate-alternatives/). There are also dozens more out there, all offering impressive accuracy, free access, and covering dozens of languages. So why choose ChatGPT? What makes ChatGPT a good translation tool?
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  If you're wondering how ChatGPT stacks up against Google Translate as a translation tool, here's a [comparison of ChatGPT vs. Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). Furthermore, did you know you can [use ChatGPT to help you learn a new language](https://www.makeuseof.com/how-chatgpt-plus-can-help-you-learn-a-language/)? Translating with ChatGPT is fast and accurate, but why not go the extra step and learn an entirely new language using an AI tutor?
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Translate Languages With ChatGPT
 
  Translating with ChatGPT is easy. All you need to do is provide the text you want to translate and specify the language you want to translate it to, and ChatGPT will handle the rest. However, you can customize ChatGPT's language translation outputs, create unique language translation scenarios, and adjust many more aspects. ChatGPT is a generative AI tool, after all.
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  Take the Spanish sentence “Gracias por preguntar, pero estoy bastante seguro aquí” for instance. Google Translate produces "Thanks for asking, but I'm pretty sure here" as the translation. While this isn't entirely wrong, depending on the context, the sentence could mean, "Thanks for asking, but I'm safe here."
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
  Of course, Google Translate will provide the same translation no matter how many times you attempt to translate it because it doesn't have a way to recognize contextual nuance. As per the screenshot above, ChatGPT will attempt to provide the most accurate translation depending on the provided context. Providing context can significantly improve the quality of your translation. If you are not sure how to provide context, here are some inspirations:
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  You can adjust each prompyour chosen languageosing, and ChatGPT will do the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Declare the Type of Text
 
  Another important factor that can increase the accuracy of your translation is outright declaring the kind of text you're trying to translate. For example, is it an idiom, a song, a financial document, or an ordinary text? Simply letting ChatGPT know what you're trying to translate gives the chatbot an edge toward providing more accurate translations.
@@ -74,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  The translation above uses the closest English equivalent of the corresponding Spanish words, while the one below uses words suitable for an audience not acquainted with soccer terms. However, it is interesting to note that both translations are considered accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An English translation using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/an-english-translation-using-style-transfer.jpg)
 
  To use style transfer when translating, use prompts like:
@@ -96,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  We repeated the translation prompt but added hints about the speaker's origin and possible intent. ChatGPT changed the translation to "我要去踢橄榄球 (Wǒ yào qù tī gǎnlǎnqiú)," this time using "gǎnlǎnqiú" which is the Chinese term for American football and better reflects the potential intent of the speaker.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### 5\. Use Summarized Translation
 
  Sometimes, you don't want to read the entirety of a text. You just want to understand the message the author or speaker is trying to convey. ChatGPT is one of the few translation tools you can rely on for situations like this.Fort a summarized translation, ask ChatGPT to provide a "summarized" or "condensed" translation of the target text. Some prompts examples include:
@@ -107,6 +126,18 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  Translation summaries are great when you're trying to communicate but don't necessarily have time to get deep into learning the language immediately.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Use a Fine-Tuned Instance of ChatGPT
 
  Using a fine-tuned instance of ChatGPT is one of the best ways to utilize ChatGPT as a translation tool. It opens up almost endless possibilities for translation using the AI chatbot. But how can you fine-tune ChatGPT for translation?
@@ -115,10 +146,18 @@ thumbnail: https://thmb.techidaily.com/69b1d610dfac71b4ad43b5c58d93dcc4f9582f39e
 
  For example, while trying to translate a Pidgin text into English, we ran into some wrongly translated words. Providing the word-translation pairs below made ChatGPT update its translation of the words in subsequent translations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![Fine-tunning ChatGPT for translation tasks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/fine-tunning-chatgpt-for-translation-tasks.jpg)
 
  You can also make ChatGPT translations more accurate by providing several large texts and their verified translations. You can then prompt ChatGPT to deduce the right translation of words and phrases from the provided samples and apply it when translating text involving a similar language pair. While you can use significantly longer texts to fine-tune ChatGPT translations, below is a short illustration of how it works using a short paragraph.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![Providing a parralel corpus of text for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/providing-a-parralel-corpus-of-text-for-chatgpt.jpg)
 
  We achieved improved translation with every prompt without taking any further steps.

@@ -1,7 +1,7 @@
 ---
 title: What's the Max Length for ChatGPT's Text Output?
-date: 2024-07-24 14:20:59
-updated: 2024-07-26 11:46:18
+date: 2024-08-02T16:16:12.405Z
+updated: 2024-08-03T16:16:12.405Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * You can opt out of ChatGPT's use of your chat data for training, ensuring your conversations remain private.
@@ -31,6 +34,9 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  But worry not; you can opt out of having your chat data used, keeping your ChatGPT conversations private.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## What Is ChatGPT's Chat History and Training Feature?
 
  When you sign up for a ChatGPT account (be it the free or premium version), ChatGPT saves your chat history and uses your chat data for future training by default.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
 
  There's one downside of opting out of ChatGPT's chat data feature, and that's the loss of your chat history. This doesn't just mean OpenAI can't keep a history of your chats; it also means you cannot view your chat history. Therefore, returning to previous chats becomes impossible, rendering all your previous chat data inaccessible. Note that this doesn't[delete your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) but does make it off-limits until you re-enable the chat history and training feature.
@@ -53,18 +62,27 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
  ChatGPT lets you turn the feature back on by clicking the**Enable chat history** option that appears over your history list, but this will re-enable both your chat history and the chat data collection for training.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Data Collection You Can't Opt Out From
 
  Though you can disable ChatGPT's history and training feature, certain kinds of data collection you cannot avoid. Namely, OpenAI keeps all your conversations for 30 days to review them for anything harmful or inappropriate. In the aforementioned FAQ, OpenAI writes:

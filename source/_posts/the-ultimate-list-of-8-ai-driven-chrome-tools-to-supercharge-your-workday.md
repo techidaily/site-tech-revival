@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of 8 AI-Driven Chrome Tools to Supercharge Your Workday
-date: 2024-07-23 13:48:34
-updated: 2024-07-26 11:44:24
+date: 2024-08-02T16:15:51.119Z
+updated: 2024-08-03T16:15:51.119Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 
  A malicious Chrome extension using ChatGPT's name is being used to steal users' Facebook logins for malicious advertising.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A Fake ChatGPT Extension Is Targeting Facebook Users
 
  Facebook and Chrome users are being targeted by a malicious browser extension using the well-known name of the[AI-powered chatbot ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) .
@@ -31,16 +34,31 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## ChatGPT's Name Is Consistently Used by Scammers
 
  Since ChatGPT's rise to fame, its name has been repeatedly used by cybercriminals to gain the trust of potential victims. Whether its phony ChatGPT-related tokens, or malicious Chat GPT-branded extensions, the popularity of this AI-powered chatbot is undoubtedly being exploited by malicious actors to steal data and money.

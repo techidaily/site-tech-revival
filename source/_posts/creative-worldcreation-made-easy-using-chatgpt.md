@@ -1,7 +1,7 @@
 ---
 title: Creative Worldcreation Made Easy Using ChatGPT
-date: 2024-07-23 23:30:39
-updated: 2024-07-26 10:21:50
+date: 2024-08-02T16:16:06.519Z
+updated: 2024-08-03T16:16:06.519Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/27d6b547bddc8e31d111fb6ac4a194fdf9932bb9e
 
 ## 1\. I Am Rich
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The "I Am Rich" plugin is one of the most confusing plugins on the ChatGPT platform. If you're ever curious about what it does and go poking around—you're probably already wasting your time because the plugin does absolutely nothing. And this is not an exaggeration.
@@ -35,14 +38,24 @@ thumbnail: https://thmb.techidaily.com/27d6b547bddc8e31d111fb6ac4a194fdf9932bb9e
 
 ## 2\. Aaron Web Browser
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. AppyPie App Builder
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
@@ -77,12 +90,18 @@ thumbnail: https://thmb.techidaily.com/27d6b547bddc8e31d111fb6ac4a194fdf9932bb9e
 
 ## 6\. ABC Website Maker
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
  Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.

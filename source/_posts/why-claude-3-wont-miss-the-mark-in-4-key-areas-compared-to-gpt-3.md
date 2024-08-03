@@ -1,7 +1,7 @@
 ---
 title: Why Claude 3 Won't Miss the Mark in 4 Key Areas Compared to GPT-3
-date: 2024-07-26 15:55:58
-updated: 2024-07-27 11:33:58
+date: 2024-08-02T16:15:41.010Z
+updated: 2024-08-03T16:15:41.010Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use[AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/) , cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest[Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , outperforms ChatGPT in a wide range of creative writing tasks.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  Putting our theory to the test, it was just as predicted. ChatGPT (GPT-3.5 and GPT-4) used cliché intros in five out of five trials. Here are the first three samples:
 
 1. Sample 1  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
@@ -59,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 Here's ChatGPT's take:
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
 And here's Claude's take:
@@ -69,10 +78,21 @@ And here's Claude's take:
 
 ## 2 Claude Offers Multimodality for Free
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 3 Larger Context Window
 
  Context window is the limit of text data an AI chatbot can process at a go. Think of it as how many things you can keep in your memory (and be able to recall) at a time.
@@ -83,6 +103,9 @@ And here's Claude's take:
 
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 More Messages Per Hour
 
  Rate limits can be a pain. You're in the middle of an interesting prompting session, you get an alert that you've reached your limit and have to wait (sometimes hours!) to get a reset. It's a huge joy killer and can set your work back hours. However, this happens both on ChatGPT and Claude, so it's an even ground on that point.

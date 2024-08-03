@@ -1,7 +1,7 @@
 ---
 title: "Advantages: Choosing Microsoft Copilot OVER ChatGPT"
-date: 2024-07-24 15:55:29
-updated: 2024-07-25 11:38:50
+date: 2024-08-02T16:16:00.387Z
+updated: 2024-08-03T16:16:00.387Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1 Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use[AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/) , cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest[Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , outperforms ChatGPT in a wide range of creative writing tasks.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
  Putting our theory to the test, it was just as predicted. ChatGPT (GPT-3.5 and GPT-4) used cliché intros in five out of five trials. Here are the first three samples:
 
 1. Sample 1  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
@@ -49,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/3fa43d6f71cce068e0819f69e55936ad32ff4ea72
 
 Here's ChatGPT's take:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
 And here's Claude's take:
@@ -67,8 +79,14 @@ And here's Claude's take:
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 2 Claude Offers Multimodality for Free
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.

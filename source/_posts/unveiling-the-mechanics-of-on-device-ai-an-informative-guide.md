@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Mechanics of On-Device AI: An Informative Guide"
-date: 2024-07-26 19:53:32
-updated: 2024-07-27 12:45:30
+date: 2024-08-02T16:15:46.950Z
+updated: 2024-08-03T16:15:46.950Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
  However, dig a little deeper, and notable differences become quickly apparent.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## What Is HuggingChat?
 
  We won't go into too much detail here, as by now, most people know[what generative AI chatbots are](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . But it is worth touching on, as this will help you understand some underlying differences between the two chatbots.
@@ -58,12 +61,22 @@ thumbnail: https://thmb.techidaily.com/f99b0547d8a95f637159e251c131a6578ae71b255
 
 As you can see, HuggingChat answered this easily.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Summarizing Articles
 
  You can use URLs to "force" both tools to access more current data. We tested this ability by asking them to summarize a MakeUseOf article on[remotely accessing Android phones](https://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) . In the first instance, we provided the URL.
@@ -84,6 +97,10 @@ This was ChatGPT's effort:
 
 HuggingChat's summary looked like this:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
@@ -96,10 +113,16 @@ HuggingChat's summary looked like this:
 
  We asked both to compose a two-verse love song based on Romeo and Juliet. This was ChatGPT's response:
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
 And this was HuggingChat's.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 Shakespeare himself would be impressed with both of these!
@@ -128,6 +151,9 @@ Shakespeare himself would be impressed with both of these!
 
  Ultimately, the choice between them will likely be driven more by user requirements than user preferences. As the tools are free and quick to access, checking both out is not a great hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Are You a Hugger or a Chatter?
 
  These tools represent the future of human and machine interaction. Both are incredibly powerful, and it wasn't so long ago that the thought of having such tools at your fingertips would have seemed inconceivable.

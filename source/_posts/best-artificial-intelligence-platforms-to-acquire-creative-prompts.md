@@ -1,7 +1,7 @@
 ---
 title: Best Artificial Intelligence Platforms to Acquire Creative Prompts
-date: 2024-07-23 18:56:45
-updated: 2024-07-25 10:28:37
+date: 2024-08-02T16:15:41.085Z
+updated: 2024-08-03T16:15:41.085Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  Start with these online courses to help you use AI prompts effectively for work and other projects.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Prompt Engineering for ChatGPT (Coursera)](https://www.coursera.org/learn/prompt-engineering)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
 
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
@@ -43,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
 
  In this LinkedIn Learning course, creative expert Dave Birss shows how Generative AI tools present a huge opportunity to advance your career. As Birss points out, humans usually use technology to automate repetitive activities. Thanks to AI, you can now use tech to automate thinking.
@@ -53,8 +62,14 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
@@ -65,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)

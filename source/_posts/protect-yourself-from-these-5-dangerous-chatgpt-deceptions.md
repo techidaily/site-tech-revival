@@ -1,7 +1,7 @@
 ---
 title: Protect Yourself From These 5 Dangerous ChatGPT Deceptions
-date: 2024-07-28 10:14:18
-updated: 2024-07-29 11:49:28
+date: 2024-08-02T16:16:14.537Z
+updated: 2024-08-03T16:16:14.537Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
  ChatGPT has become a mainstream tool around the world, offering an AI chatbot service to billions. But the popularity of this chatbot is now being capitalized upon by cybercriminals looking to swindle unsuspecting users. So, what kinds of ChatGPT scams should you be looking out for?
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
@@ -29,8 +32,14 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Fake ChatGPT Browser Extensions
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
 
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
@@ -41,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
@@ -51,6 +63,14 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
@@ -73,6 +93,9 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know[how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Scams Are Worryingly Common
 
  As ChatGPT continues to grow in prevalence, it is likely that cybercriminals will continue to leverage its popularity to target users, be it for their devices, their activity, or their sensitive data. So, if you're interested in using ChatGPT, or you want to stay updated on how to protect yourself online, be mindful of the various types of scams and attacks.

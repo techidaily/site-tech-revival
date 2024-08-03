@@ -1,7 +1,7 @@
 ---
 title: "Tech Talk: Assessing if Claude AI Offers an Edge Over ChatGPT in Chatbot Technology."
-date: 2024-07-22 21:40:43
-updated: 2024-07-24 10:15:57
+date: 2024-08-02T16:16:41.387Z
+updated: 2024-08-03T16:16:41.387Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 * [Larger Context Window](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#larger-context-window)
 * [More Messages Per Hour](https://www.makeuseof.com/reasons-use-claude-3-instead-of-chatgpt/#more-messages-per-hour)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Claude excels at creative writing, producing engaging and natural-sounding content with less clichés.
@@ -43,12 +46,18 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 1. Sample 1  
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
@@ -67,8 +76,14 @@ And here's Claude's take:
 
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 Claude Offers Multimodality for Free
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
@@ -83,6 +98,9 @@ And here's Claude's take:
 
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4 More Messages Per Hour
 
  Rate limits can be a pain. You're in the middle of an interesting prompting session, you get an alert that you've reached your limit and have to wait (sometimes hours!) to get a reset. It's a huge joy killer and can set your work back hours. However, this happens both on ChatGPT and Claude, so it's an even ground on that point.

@@ -1,7 +1,7 @@
 ---
 title: "Smart Study Habits: How Students Should Steer Clear of Misusing ChatGPT"
-date: 2024-07-27 14:59:34
-updated: 2024-07-28 12:25:21
+date: 2024-08-02T16:16:25.222Z
+updated: 2024-08-03T16:16:25.222Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and finally completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Prompt Perfect
 
  The responses you get from the ChatGPT are only as good as the prompts you provide. But prompting can be tricky--it's a game of hits and misses. Prompt Perfect is a ChatGPT plugin that helps you[craft well-structured and effective prompts that will get you the results you want](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) .
@@ -27,14 +30,23 @@ thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a
 
  In the example below, we asked ChatGPT to "write a funny story about the history of car seatbelts." The plugin immediately kicks in and replaces the prompt with a more descriptive prompt that produces a better response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
 
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 ## 3\. InstaCart
@@ -45,10 +57,16 @@ thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a
 
  In the illustration below, we prompted ChatGPT with some ingredients we had. Then, we asked it what meal we could cook with them. After suggesting we cook Jollof rice, ChatGPT listed the additional ingredients we'll need and asked whether to generate an InstaCart shopping list.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
@@ -71,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 5\. ChatWithPDF
 
  The ChatWithPDF plugin does exactly what the name suggests. With this handy tool, you can effortlessly[use ChatGPT to extract information from any PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) by simply providing a link to it. No additional steps are required—just share the PDF link in your prompt and begin asking your questions.
@@ -115,14 +136,23 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
  In the example below, we prompted ChatGPT to suggest some AI tools we can use to manipulate pictures into a music video. Some of it turned out to be a revelation.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9\. What to Watch
 
  If you are a fan of movies and TV shows, then the "What to Watch" plugin is one worth installing. Describe the kind of movies or TV shows you want, and it will bring up plausible suggestions. Unfortunately, one major setback is that it isn't hooked up to an updated movie database. When we prompted it for new movies, it failed to turn up any movie released after 2021.
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Embrace ChatGPT Plugins
 
  If you've had an underwhelming experience with ChatGPT plugins, you're not alone. However, you'll find a number of useful ChatGPT plugins that extend the chatbot's abilities if you look closely enough. While the plugin store is not as loaded with high-quality plugins as we'd hoped to see, take advantage of the available ones to make the best of your ChatGPT experience.

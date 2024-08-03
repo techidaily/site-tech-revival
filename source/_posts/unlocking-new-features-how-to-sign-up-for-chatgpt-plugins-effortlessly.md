@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Features: How to Sign Up for ChatGPT Plugins Effortlessly"
-date: 2024-07-26 19:34:39
-updated: 2024-07-28 10:34:12
+date: 2024-08-02T16:16:17.636Z
+updated: 2024-08-03T16:16:17.636Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are ChatGPT Plugins?
 
  ChatGPT Plugins are internet-connected tools specifically designed to extend ChatGPT's functionality.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Browse the Web
 
 That's not all, though.
@@ -49,8 +55,14 @@ That's not all, though.
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
 Close
@@ -59,6 +71,9 @@ Close
 
  I then asked if ChatGPT Plus with Web Browsing could provide a list of the current F1 World Championship rankings, which it did without any extra prompting:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
@@ -80,6 +95,9 @@ Close
 
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Is Finally Connected to the Internet
 
  Internet-connected ChatGPT is finally here. Although the Web Browsing and Plugins are limited to ChatGPT Plus currently, it won't be long until regular ChatGPT users can gain access to internet-powered generative AI.

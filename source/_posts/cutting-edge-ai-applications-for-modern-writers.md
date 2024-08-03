@@ -1,7 +1,7 @@
 ---
 title: Cutting Edge AI Applications for Modern Writers
-date: 2024-07-25 14:10:30
-updated: 2024-07-27 11:35:24
+date: 2024-08-02T16:15:46.467Z
+updated: 2024-08-03T16:15:46.467Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  OpenAI's advanced chatbot may have reinvigorated the public's interest in artificial intelligence, but few have seriously contemplated the potential security risks associated with this product.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -29,8 +32,14 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is ChatGPT a Threat to Your Privacy?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
@@ -39,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Addressing the Security Risks Associated With ChatGPT
 
  Artificial intelligence will be regulated at some point, but it's difficult to imagine a world in which it doesn't pose a security threat. Like all technology, it can—and will—be abused.
@@ -47,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/8467c9e20d909c3a99e5604c440b3f79e42d4e9a9
 
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Raising Awareness Is Key
 
  What will ChatGPT be capable of five or 10 years from now? We can only speculate, but what we do know for sure is that artificial intelligence is not going anywhere.

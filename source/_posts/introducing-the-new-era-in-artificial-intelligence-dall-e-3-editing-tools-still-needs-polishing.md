@@ -1,7 +1,7 @@
 ---
 title: "Introducing the New Era in Artificial Intelligence: DALL-E 3 Editing Tools – Still Needs Polishing"
-date: 2024-07-24 18:17:52
-updated: 2024-07-26 12:33:18
+date: 2024-08-02T16:15:50.348Z
+updated: 2024-08-03T16:15:50.348Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  Will Bing overtake Google as the best search engine now that it's equipped with an immensely powered AI model? Read on as we discuss what you can expect from Microsoft's new version of Bing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## What’s OpenAI Got to Do With the New AI-Powered Bing?
 
  OpenAI is the company responsible for[ChatGPT–the AI-powered chatbot](http://www.makeuseof.com/how-to-use-chatgpt-by-openai/) that can generate content, answer questions, create marketing strategies, fix code bugs, and more. The AI research lab also launched DALL-E 2 late last year, capable of[generating images based on textual prompts](https://www.makeuseof.com/how-to-use-dall-e-2/) .
@@ -29,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  According to[Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) , Bing will be powered by the latest next-gen natural language AI model specifically trained for web searching. The AI model behind Microsoft Bing relies on improvements made on ChatGPT and GPT-3.5, making it much faster and more reliable.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## What's New in Bing?
 
  Remember when searching was underwhelming and lousy using Bing? Thanks to the new AI web search companion, those days are far behind. Bing will now use AI at its core to deliver enhanced search results that are precisely relevant, allow you to generate content, and, best of all, integrate a brand new chat experience specialized to answering complex queries.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![AI powered chat feature in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-chat-new.jpg)
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -43,12 +52,18 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  This means if you search for**“Best flights from London to New York,”** Bing will show you a list of relevant ticketing services in the left pane but a summarized result of the best airline fare according to its AI search algorithm in the right pane.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## What's New in Microsoft Edge?
 
  Over the past few years, Microsoft has significantly improved Edge with incredible features that have allowed it to compete directly against Google Chrome. With the latest capabilities of Bing + AI, Microsoft has made Edge even more potent with new AI features and an updated look.
 
  Once you’ve configured the Microsoft Edge on your device, you can directly engage with its AI capabilities, including two core features,**Chat** and**Compose** , that will be integrated into a new version of the Edge sidebar.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![compose text with Bing AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-ai-compose-new.jpg)
 
 ` Image Credit:[ Microsoft](https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/) `
@@ -57,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  You can use the**Chat** feature to answer complex queries, get detailed financial information on a company, figure out the best way to grill a steak, decide the best framework for your web application, and more.**Chat** relies on your prompts to comprehensively provide you with the best possible answers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Microsoft Bing Reinvents Web Searching
 
  Today's youth may not have witnessed the space race of the 20th century, but now we’ve all got front-row tickets to the AI race of the 21st century, and Microsoft has just scored a home run. Only time will tell if Google’s Bard can compete with the new Bing.

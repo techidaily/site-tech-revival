@@ -1,7 +1,7 @@
 ---
 title: Cut Off GPT Communication Now
-date: 2024-07-25 20:12:48
-updated: 2024-07-28 11:27:59
+date: 2024-08-02T16:16:22.013Z
+updated: 2024-08-03T16:16:22.013Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 
 ## 1.[PromptBase](https://promptbase.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of promptbase website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-base-1.jpg)
 
  PromptBase offers over 100,000 AI prompts for various popular models, including MidJourney, DALL-E, ChatGPT, and Stable Diffusion. This doesn't stop at text prompts alone. PromptBase has logo and icon prompts, art prompts, gaming prompts, and photography prompts for all the creatives out there.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 
  To find the AI prompt you need, use PromptBase's search input tool or browse through the categories in the top bar menu on the website's homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of promptbase search results](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-base-2.jpg)
 
  Even when searching via category, you can filter your searches to narrow down the options based on your preferences.
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 
  A particularly interesting feature offered by Prompt Hero is its Jobs section. This page lets you search for AI jobs, whether remote or in-house, which is great for those with skills in AI. You can use PromptHero to access the application portal for the job you desire, and you can also view the salary, contract term, or hourly rate.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[ChatX](https://chatx.ai/)
 
 ![screenshot of chatx website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-website.jpg)
@@ -61,22 +70,35 @@ thumbnail: https://thmb.techidaily.com/f8ecdc6c33144a8756139b14ccc37972ba5fac512
 
  On the other hand, if you opt for ChatX's ChatGPT or Midjourney prompt generator, you can have text-based prompts created on your behalf for free.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![chat x chatgpt prompt generator screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-generator.jpg)
 
  Simply describe what you want the AI model to act as and produce, and you'll be provided with a text prompt to download for future use.
 
 ## 4.[PromptSea](https://www.promptsea.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![promptsea website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-sea-site.jpg)
 
  PromptSea isn't just an AI prompt marketplace but can certainly be used to find useful AI prompts. When you head to the PromptSea website, you won't be instantly met with the prompt marketplace. However, if you scroll down a little, you'll see a small number of featured AI prompts displayed. Click on the**Prompts** title, and you'll be taken to PromptSea's prompts platform. Here, you can find image prompts for ChatGPT, Midjourney, DALLE-2, Novel AI, Nightcafe, Jasper, and Niji Journey.
 
  It's important to note that PromptSea has an interesting twist: each prompt is a[non-fungible token (NFT)](https://www.makeuseof.com/what-is-a-non-fungible-token-nft/) . This prevents prompts from being copied and resold without the correct authorization. These NFTs are stored on the Tezos, Polygon, or[BNB Chain](https://www.makeuseof.com/binance-bnb-chain/) blockchains.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![screenshot of promptsea product purchase page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-sea-buy.jpg)
 
  On PromptSea, you can pay for prompts using cryptocurrencies such as Tezos, Polygon, or BNB. You can't use traditional tenders, such as dollars or pounds, to pay for digital items on PromptSea. If you're not a fan of crypto or NFTs, you may want to opt for one of the other marketplaces listed here.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5.[Etsy](https://www.etsy.com/uk/?ref=lgo)
 
 ![screenshot of promptsea website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-prompt-search.jpg)
@@ -112,8 +134,28 @@ So, how do you know what you're buying?
 
  Check out[AIPRM's plan information page](https://www.aiprm.com/blog/introducing-aiprm-premium-for-chatgpt/) to see what each tier offers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 7.[FlowGPT](https://flowgpt.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![screennshot of flowgpt website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/flow-gpt-site.jpg)
 
  FlowGPT offers a range of useful AI services, including a prompt marketplace for ChatGPT users. FlowGPT's marketplace works a little differently from your standard prompt marketplace, with the option to actually interact with a wide range of AI chatbots using GPT.

@@ -1,7 +1,7 @@
 ---
 title: Understanding the Top Three Privacy Threats Linked with Using Chatbots
-date: 2024-07-26 18:56:51
-updated: 2024-07-28 12:57:34
+date: 2024-08-02T16:16:33.659Z
+updated: 2024-08-03T16:16:33.659Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,15 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
  With AI chatbots becoming mainstream, companies are locking their most powerful features behind subscription paywalls. However, some companies allow free users to do more things than others. As such, if you'd like to give GPT-4 Turbo a try, using Microsoft's Copilot tool is the best way to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## What Is GPT-4 Turbo?
 
-![gpt-4 logo on smartphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-4-logo-on-smartphone-screen.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
 
  Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -33,8 +39,15 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
@@ -49,8 +62,15 @@ thumbnail: https://thmb.techidaily.com/4e8fed255189bd9ee7a706026d30ffe02100ebaee
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Get the Most Out of GPT-4 Turbo
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking AI Potential: Top 20 Chatbot Prompts for GPT on GitHub"
-date: 2024-07-25 21:34:18
-updated: 2024-07-28 12:41:46
+date: 2024-08-02T16:16:30.589Z
+updated: 2024-08-03T16:16:30.589Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 
 ## Top 9 Benefits of Switching to ChatGPT Plus - Unlock Your Potential
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Upgrading to ChatGPT Plus gives you access to the improved GPT-4 model, which provides more accurate responses and better natural language processing.
@@ -25,14 +29,23 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 
  However, another promise of ChatGPT Plus was priority access to new features, and OpenAI delivered on it. With the introduction of features like Advanced Data Analytics, Browse with Bing, and DALL·E 3, ChatGPT Plus is currently one of the most useful subscriptions you could get for yourself and your business, AI or not.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 1\. GPT-4 Access
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT-4 chatbot interface ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/gpt-4-chatbot-interface-chatgpt-plus.jpg)
 
  The most obvious benefit of upgrading to the Plus version is access to GPT-4\. As the successor to GPT-3.5,[there are major differences between the two](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) . GPT-4 improves natural language processing, understanding of context, and problem-solving. It is also trained on a larger data set, which means it's better at recognizing complex patterns.
 
  In reality, the differences can be a bit subtle as they're not immediately noticeable. However, the more you use it, the sooner you realize that GPT-4 has a better chance of providing the correct response on its first attempt. It's also more accurate and doesn't fall victim to AI hallucinations as often.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Image Input
 
 ![ChatGPT Plus image input feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-plus-image-input-feature.jpg)
@@ -45,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 
 ## 3\. Internet Access
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Browse with Bing option on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-with-bing-option-on-chatgpt.jpg)
 
  The standard, free version of ChatGPT has a knowledge cutoff from September 2021\. That means it does not have access to any information on events that occurred after that date. However, you can overcome this limitation using the new**Browse with Bing** mode with the GPT-4 model. This means you can access the internet within ChatGPT.
@@ -57,14 +73,28 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 
  I asked ChatGPT Plus to tell me the story of Little Red Riding Hood with illustrations. It divided the story into seven scenes (with one- and two-liner dialogues). And, for each scene, it wrote a prompt for DALL·E 3.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![DALL-E 3 and GPT-4 story writing skill](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-and-gpt-4-story-writing-1.jpg)
 
  Once the story was complete, it automatically took all those DALL·E 3 prompts from above, generated images, and presented them to me.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![​​​​​​​DALL·E 3 book illustrations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-book-illustrations.jpg)
 
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 5\. Plugin Access
 
 ![chatgpt plugins option selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-plugins-option-selection.jpg)
@@ -79,6 +109,9 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 
  To enable this feature, click the**Account Settings** button in the bottom-left corner of the screen. Then, go to**Settings & Beta > Beta Features** and toggle the**Advanced data analysis** option. Once the feature is toggled, you can upload the spreadsheet using the**plus sign** button in the left corner of the ChatGPT text field.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Advanced data analysis ChatGPT prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-data-analysis-chatgpt-prompt-1.jpg)
 
  After it's uploaded, you can ask ChatGPT what you'd like it to do with the data, and it will oblige. I uploaded a random CSV and asked it to create visuals.
@@ -105,6 +138,9 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
  A problem with the free version is that it often stops responding, forcing you to regenerate the answers. This happens multiple times throughout a session. You won't have to worry about this with the Plus version. If you rely on ChatGPT for work, upgrading to ChatGPT Plus is a great way to save time waiting for the free version to respond.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## 9\. Better Translation Capabilities
 
  Since GPT-4 is trained on a larger data set, it is much better at responding to non-English prompts. It does a good job of responding almost like a person who understands linguistic patterns, nuances, and cultural context. GPT-3.5 has decent translation capabilities, but GPT-4 is better as it's more likely to generate accurate and coherent responses.

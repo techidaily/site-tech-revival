@@ -1,7 +1,7 @@
 ---
 title: Eight Essential Techniques for Leveraging ChatGPT Vision Features
-date: 2024-07-25 12:10:55
-updated: 2024-07-26 12:48:17
+date: 2024-08-02T16:15:50.205Z
+updated: 2024-08-03T16:15:50.205Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 
 [Various factors affect chatbot accuracy](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/) , such as comprehension and contextual memory. If you plan on subscribing to a chatbot service, try the free version first. Chatbots like ChatGPT and Perplexity have free versions that you can use to get an idea of accuracy. If the free version is good, the odds are that the paid version is even better.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Security and Data Privacy
 
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
@@ -47,20 +50,32 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 
  The level of contextual understanding depends on the language model and how it's trained. Again, you should try the free version to check this for yourself.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 4\. Knowledge Base
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021.
 
  Access to the internet is an obvious fix to this problem. Microsoft's[Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/) , meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits.[ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) , but you'll have to upgrade from the free version if you want to use them.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 5\. Language Model
 
  The biggest difference between AI chatbots is the[type of large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) they use. For example, the free version of Perplexity uses GPT-3, while the paid version gives you access to GPT-4\. The situation is similar in the case of ChatGPT. Some chatbots, such as Bard, use Google's PaLM 2 LLM, with others use Meta's Llama or one of its many variants.
 
  Currently, most AI chatbots appear to use GPT-3 or GPT-4.[While GPT-3 is quite capable, GPT-4 is much better](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) . The latter is better at understanding longer prompts, has better contextual understanding, and is trained on a larger dataset.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Multilingual Support
 
 ![Cell phone screens with Hello in different languages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cell-phone-screens-with-hello-in-different-languages.jpg)
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/e24c6a589d856da0a108fb73ed8aea987528294a8
 
  Multilingual support shouldn't be an issue as AI chatbots continue to improve. However, you should still try out a potential AI chatbot to ensure its translation features are up to par.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 7\. Cost and Plans
 
  Most AI chatbots have a free version and a premium version with advanced features. For example, ChatGPT's free version works great, but upgrading to Plus gives you access to GPT-4 and plugins. Similarly, Perplexity is free, but upgrading to Perplexity Pro gives you more GPT-4 uses and access to the file upload feature.

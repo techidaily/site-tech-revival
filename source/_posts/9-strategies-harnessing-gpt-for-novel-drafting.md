@@ -1,7 +1,7 @@
 ---
 title: "9 Strategies: Harnessing GPT for Novel Drafting"
-date: 2024-07-25 23:16:49
-updated: 2024-07-27 12:55:10
+date: 2024-08-02T16:16:39.733Z
+updated: 2024-08-03T16:16:39.733Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 * [Trip Planner AI](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#trip-planner-ai)
 * [Vacay Chatbot](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#vacay-chatbot)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Layla, Wonderplan, and PLAN by ixigo are AI travel planning apps with customizable itineraries.
@@ -35,6 +38,14 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
  These free travel planning apps use AI and machine-learning tools like ChatGPT to prepare an itinerary for you in a few seconds, and we took them for a spin.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Layla](https://justasklayla.com/)
 
 ![layla ai trip planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/layla-ai-trip-planner.png)
@@ -59,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
  In addition to your itinerary, Wonderplan also shows essential information about the country you're visiting. These include the currency conversion rate, electricity plug type, languages spoken, weather, and popular conveyances.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 3.[PLAN by ixigo](https://www.ixigo.com/plan)
 
 ![PLAN by ixigo website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plan-by-ixigo-screenshot.jpg)
@@ -71,6 +85,9 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
  However, if the suggested itinerary doesn't sound appealing, you can again enter a prompt to edit it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4.[iplan.ai](https://iplan.ai/)
 
  While iplan.ai doesn't mention which AI or machine-learning algorithm it uses, the results are fantastic enough to gloss over that. The app works beautifully on phones to give you a full itinerary for any one city at a time, depending on how many days you have there.
@@ -97,8 +114,15 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
  The itinerary includes a map of your route and a day-wise breakdown of where you'll be going and what you'll be seeing. Each point of interest is clickable to find more information about it. There are easy ways to share your itinerary with co-travelers, print it out, or even export it to Google Maps. Curiosio is one of the[best road trip planners for your next adventure](https://www.makeuseof.com/tag/road-trip-planners/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ## 6.[Trip Planner AI](https://tripplanner.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![trip planner ai screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/trip-planner-ai-screenshot.png)
 
  Trip Planner AI plans a perfect trip to your dream destination. Begin creating your itinerary by entering the city you wish to visit and traveling dates. You can add multiple destinations here.
@@ -111,6 +135,9 @@ thumbnail: https://thmb.techidaily.com/07ca320cf616365de8ad632002d02eea2e2a464ff
 
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)
 
  Vacay Chatbot is not a dedicated itinerary maker but an AI chatbot that acts like your travel advisor. So, you can ask it to give travel recommendations, compare different destinations, and, of course, create an itinerary. If you've previously used AI chatbots like ChatGPT, you'll find this trip planner easy to use.

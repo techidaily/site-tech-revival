@@ -1,7 +1,7 @@
 ---
 title: Is TruthGPT Coin Trustworthy? Scam Alert
-date: 2024-07-25 13:19:40
-updated: 2024-07-28 12:47:48
+date: 2024-08-02T16:16:02.185Z
+updated: 2024-08-03T16:16:02.185Z
 tags:
   - chatgpt
   - open-ai
@@ -23,16 +23,29 @@ thumbnail: https://thmb.techidaily.com/de6795aa500edeb21b509dd38328958388c423fd6
 
  It's no wonder the authorities are giving serious attention to TruthGPT Coin, a cryptocurrency labeled as an "Artificial Intelligence investment scam" by Texas State regulators. It has called for the scam crypto promotion to halt immediately—but what is TruthGPT Coin, anyway?
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is TruthGPT Coin? Why Are There Two TruthGPT Coins?
 
  There are two projects using the name "TruthGPT Coin." One uses the Binance Smart Chain, while the other is an Ethereum ERC-20 token, but both appear to use the $TRUTH ticker. It's not clear if there is a specific link between the projects, as the general approach of each differs in quality.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![truthgpt home page-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-home-page-1.jpg)
 
  The first project claims to be powered by an AI model developed in-house called Elon Musk AI. The TruthGPT website is full of images of Musk, poor-quality digital images, fake endorsements, and more (along with other prominent crypto figures, such as Binance's Changpeng Zhao). After signing up, you can ask the "AI" questions, but the responses are extremely slow and look to me to be hand-written in places. You'll also find fake accounts for big names in crypto, like Elon Musk, Satoshi Nakamoto, and Michael Saylor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![truthgpt elon musk fake account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-elon-musk-fake-account.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![truthgpt example account](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/truthgpt-example-account.jpg)
 
 Close
@@ -43,6 +56,9 @@ Close
 
  Now, the second TruthGPT Coin has linked itself to [Elon Musk's TruthGPT AI project](https://www.makeuseof.com/what-is-truthgpt/) to gain a semblance of legitimacy, though it notes that TruthGPT Coin is a community effort and isn't affiliated with Musk. It doesn't feature any Musk imagery but talks about him throughout the site and claims to use artificial intelligence to "seek out and evaluate information in order to arrive at the most accurate and reliable understanding of the world."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is TruthGPT Coin a Scam?
 
  The allegations levied against TruthGPT Coin certainly make it appear so.
@@ -57,6 +73,9 @@ Close
 
  The TruthGPT Coin entry on [CoinMarketCap](https://coinmarketcap.com/currencies/truthgpt/) also suggests something fishy is going on. It currently displays a banner informing would-be users that, "According to [Gopluslabs](https://gopluslabs.io/token-security/1/0xaf75d880b3128981d1fed3292fc02e3fb37acd53), the smart contract of the following asset can be modified by the contract creator (for example: disable selling, change fees, mint new tokens, or transfer tokens). Please exercise caution before taking any action and DYOR."
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Watch Out for Scam Tokens Involving ChatGPT, AI, and Elon Musk
 
  ChatGPT launched in late 2022\. Since then, we've seen numerous crypto scams attempt to leverage OpenAI's chatbot and the explosion in AI technology. Then, when Elon Musk announced his TruthGPT as a counterweight to perceived bias in ChatGPT and other AI chatbots, it added another angle for scammers, the allure of using Musk's name, crypto, and AI providing a potent combination.

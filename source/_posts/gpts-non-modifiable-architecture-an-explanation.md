@@ -1,7 +1,7 @@
 ---
 title: "GPT's Non-Modifiable Architecture: An Explanation"
-date: 2024-07-25 16:23:10
-updated: 2024-07-26 10:18:51
+date: 2024-08-02T16:16:28.592Z
+updated: 2024-08-03T16:16:28.592Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
  However, it's important to understand[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) so that you can use it efficiently. By having a better understanding of how it was created and trained and how it generates responses, you will be able to make the most of it.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why Hasn't ChatGPT Affected the Search Engines So Far?
 
  Despite ChatGPT's immense popularity, it's still not ready to significantly impact the search engine industry for several reasons. Here are a few of them:
@@ -41,16 +44,26 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
  ChatGPT has been trained on the information that was available until the end of 2021\. When asking the chatbot about anything that happened in 2022 and later, it apologizes for not having that information.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![ChatGPT Apologizing For Not Having any Information About Events Happened in 2022](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-apologizing-for-not-having-information-about-events-happened-in-2022.jpg)
 
  Therefore, processing real-time information is the first significant hurdle ChatGPT needs to overcome to compete directly with search engines.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. ChatGPT Can Generate Incorrect Response
 
  Despite being AI-driven, ChatGPT often gives inaccurate responses. OpenAI, the parent company of ChatGPT, admits that the chatbot sometimes generates inaccurate answers. The company has listed this shortcoming as one of the limitations of its product on its official blog.
 
 ![ChatGPT Saying It Can Also Generate Wrong Answers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-also-generate-wrong-answers-and-explains-why-it-does-so.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. ChatGPT Is Less Credible
 
  On search engines, you know where information is coming from. Each time you search for something, you know the source of the webpage (i.e., brand or website). By putting in some effort, you can also check the authenticity of authors.
@@ -87,8 +100,14 @@ thumbnail: https://thmb.techidaily.com/799a97879dd8a90baa6e969f4bb05fcde15523a27
 
  For example, ChatGPT can quickly answer whether cats eat carrots since it is a solid fact. However, it may not effectively satisfy the search intent of some queries (such as how-to explainer guides) where users expect to see images alongside textual information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Saying It Can't Generate Images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-saying-it-can-t-generate-images.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Let ChatGPT Evolve
 
  It will take time before people trust ChatGPT as they do on search engine results; it will be fascinating to see how this technology evolves.

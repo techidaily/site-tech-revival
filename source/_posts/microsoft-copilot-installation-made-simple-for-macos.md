@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Copilot: Installation Made Simple for macOS"
-date: 2024-07-26 15:39:38
-updated: 2024-07-29 11:45:20
+date: 2024-08-02T16:15:55.832Z
+updated: 2024-08-03T16:15:55.832Z
 tags:
   - chatgpt
   - open-ai
@@ -30,8 +30,14 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  Microsoft doesn't offer a native Mac app for Copilot, but Mac users can still install the popular chatbot on their computers. There are two ways to get Copilot on a Mac, and you can even launch it at the press of a button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Install Microsoft Copilot From the Mac App Store
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Microsoft Copilot on the App Store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-on-the-app-store.jpg)
 
  If you have an Apple silicon Mac, you're in luck because you can install and run the iPad version of Microsoft Copilot on your computer. Here's how:
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
  Double-click its icon to start using Copilot right away. Jump to the**Getting Started** section below to get acquainted with the app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### How to Launch Copilot on Mac With a Keyboard Shortcut
 
  If adding Copilot to the Dock isn't convenient enough, and you'd like to launch Microsoft's AI chatbot at the press of a button, you can create a custom shortcut using the Shortcuts app in macOS:
@@ -56,12 +65,21 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 4. Click the blue**App** field and use the search bar to find and select**Copilot** .  
 ![Creating a simple Open app shortcut to quickly open Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/creating-a-simple-open-app-shortcut-to-quickly-open-copilot.jpg)
 5. Next, switch to the**Info (i)** tab of the sidebar and click**Add Keyboard Shortcut** .  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to launch Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-launch-copilot.jpg)
 6. Now, enter a key combination you like, but make sure it doesn't overlap with any other[useful Mac keyboard shortcuts](https://www.makeuseof.com/tag/useful-mac-osx-shortcuts-pdf/) . Then, hit the**Return** key.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Assigning a custom keyboard shortcut to run Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/assigning-a-custom-keyboard-shortcut-to-run-copilot.jpg)
 
  You can now exit the Shortcuts app and enter the keyboard shortcut you added to quickly launch Microsoft Copilot on your Mac, no matter what you're doing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Install Microsoft Copilot as a Web App on Your Mac
 
  If you have an Intel Mac, you won't be able to install Copilot's iPad app from the Mac App Store. Instead, you'll need to install Microsoft Copilot as a web app on macOS Sonoma or later:
@@ -71,10 +89,16 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 3. Now, click**File > Add to Dock** from the menu bar.
 4. When you get a confirmation pop-up, click**Add** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Adding Copilot web app to the Dock](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/adding-copilot-web-app-to-the-dock.jpg)
 
  You'll find the Copilot web app on your Dock immediately. Launch it to begin.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Getting Started With Microsoft Copilot on Your Mac
 
  When you launch Copilot for the first time, you'll see its welcome screen prompting you to agree to Microsoft's Terms of Service. Click**Continue** and follow these steps to configure Copilot on your Mac properly:

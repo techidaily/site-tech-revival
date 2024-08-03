@@ -1,7 +1,7 @@
 ---
 title: Introducing GPT-Enhanced Text Processing Software
-date: 2024-07-23 20:10:55
-updated: 2024-07-24 10:28:25
+date: 2024-08-02T16:15:58.168Z
+updated: 2024-08-03T16:15:58.168Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,28 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
@@ -33,8 +53,14 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Can ChatGPT Hack Your Bank Account?
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -49,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/3f659a3b4bb25cd415ed00e454404730b9869c867
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.

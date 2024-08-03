@@ -1,7 +1,7 @@
 ---
 title: "Showdown Between Tech Leaders: Can Llama 3 Outshine GPT-4?"
-date: 2024-07-26 15:16:41
-updated: 2024-07-27 10:20:34
+date: 2024-08-02T16:15:37.282Z
+updated: 2024-08-03T16:15:37.282Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -71,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -95,6 +105,9 @@ thumbnail: https://thmb.techidaily.com/d940e7732f01996ef0ed9bff8746265de4ef97bd2
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:

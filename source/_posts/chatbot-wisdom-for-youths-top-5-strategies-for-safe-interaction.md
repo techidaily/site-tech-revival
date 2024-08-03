@@ -1,7 +1,7 @@
 ---
 title: "ChatBot Wisdom for Youths: Top 5 Strategies for Safe Interaction"
-date: 2024-07-27 17:36:52
-updated: 2024-07-28 12:34:35
+date: 2024-08-02T16:15:49.435Z
+updated: 2024-08-03T16:15:49.435Z
 tags:
   - chatgpt
   - open-ai
@@ -27,14 +27,23 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
  In the example below, we asked ChatGPT to "write a funny story about the history of car seatbelts." The plugin immediately kicks in and replaces the prompt with a more descriptive prompt that produces a better response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Prompt perfect plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-perfect-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Link Reader
 
  Another useful ChatGPT plugin is the aptly named Link Reader plugin. Although its primary function is reading the content of the links you provide, when paired with other ChatGPT plugins, there's a lot you can do with it. From summarizing the content of web pages to fact-checking news, the possibilities are endless.
 
  In the example below, we paired the Link Reader plugin with ChatGPT's inbuilt browsing feature to fact-check a news article.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 ## 3\. InstaCart
@@ -53,8 +62,14 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![InstarCart Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/instarcart-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Wolfram
 
  Although a lot of the ChatGPT plugins offer minimal improvements to[ChatGPT's capabilities](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , Wolfram is a standout option. The Wolfram plugin substantially augments ChatGPT's abilities. It makes ChatGPT significantly smarter by giving it access to real-time data, improved mathematical abilities, and a large dataset of carefully curated, and largely verified data.
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
  Wolfram was able to run the generated information against its database to check for accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatWithPDF
 
  The ChatWithPDF plugin does exactly what the name suggests. With this handy tool, you can effortlessly[use ChatGPT to extract information from any PDF file](https://www.makeuseof.com/chatgpt-read-pdf-ways/) by simply providing a link to it. No additional steps are required—just share the PDF link in your prompt and begin asking your questions.
@@ -93,16 +111,25 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
  We tried the tool on a first-impression video of[Apple's Vision Pro VR headset](https://www.makeuseof.com/apple-vision-pro-headset-explained/) on YouTube, and here's what it had to say:
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
 Yes, it was a spot-on description of the video if you're wondering.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. SceneXplain
 
  SceneXplain is a hidden gem we found tucked away in the ChatGPT plugin store. What does it do? It takes an image URL as input and returns a detailed description of the image. It is quite impressive in describing complex scenes with multiple people and objects. When we tried it, its descriptions of 12 of the 14 images we tried were spot on, although it can be a bit overly artistic or dramatic in its choice of words. On its own, SceneXplain might not have a lot of use cases. But when combined with other tools, it comes quite handy.
 
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
 
 To use the plugin, use a prompt like:
@@ -117,6 +144,9 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 9\. What to Watch
 
  If you are a fan of movies and TV shows, then the "What to Watch" plugin is one worth installing. Describe the kind of movies or TV shows you want, and it will bring up plausible suggestions. Unfortunately, one major setback is that it isn't hooked up to an updated movie database. When we prompted it for new movies, it failed to turn up any movie released after 2021.

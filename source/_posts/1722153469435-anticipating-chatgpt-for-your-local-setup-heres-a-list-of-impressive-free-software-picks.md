@@ -1,7 +1,7 @@
 ---
 title: Anticipating ChatGPT for Your Local Setup? Here's a List of Impressive Free Software Picks!
-date: 2024-07-27 15:17:45
-updated: 2024-07-28 12:26:16
+date: 2024-08-02T16:16:24.265Z
+updated: 2024-08-03T16:16:24.265Z
 tags:
   - chatgpt
   - open-ai
@@ -38,12 +38,18 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 
 ## What Makes DALL-E 3 Special?
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
 
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Craft a Good DALLE-3 Prompt Using Bing
 
  DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
@@ -60,10 +66,16 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
@@ -72,8 +84,14 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Limitations of DALL-E 3 and Bing
 
  With no subscription fees or waitlist, you're probably wondering what the catch is.
@@ -86,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/dab8cabffeddc700c42a5606e02b205ea6f1fa907
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
  Head to Bing Chat to try DALL-E 3 for free. Each week, you get free boost credits that make it quick to generate an image. On top of that, you don't need to worry about engineering a prompt any longer, as DALL-E 3 can transform even the most vague request into an interesting AI-generated image.

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Add-Ons: 6 You Should Pass On for More Efficient Workflows"
-date: 2024-07-27 17:19:43
-updated: 2024-07-28 10:57:24
+date: 2024-08-02T16:15:47.081Z
+updated: 2024-08-03T16:15:47.081Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
  If you're an iPhone user, you're probably curious about the features OpenAI has baked into its app. Below, we'll discuss everything you can get in the ChatGPT iOS app that puts it a notch above its website.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Voice Input
 
  Voice input has probably been the most anticipated feature ever since the launch of ChatGPT, and it's finally available in the iOS app through OpenAI's open-source speech recognition system called Whisper. While you can already[use Whisper in Windows to turn voice into speech](https://www.makeuseof.com/dictate-documents-openai-whisper/) , it's a first for iOS devices.
@@ -29,10 +32,19 @@ thumbnail: https://thmb.techidaily.com/99d21901c046ee167dc651651f4c0a4a5fcaa0180
 
  To use voice input in the app, all you have to do is tap on the microphone icon in the**Message** bar, and your recording will begin. Tap anywhere in the blue area to stop recording, and the app will automatically convert your words into text. Then, tap the**blue arrow** to send your message.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap to stop recording on chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tap-to-stop-recording-on-chatgpt-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![converting to text prompt on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/converting-to-text-prompt-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice to text conversation in chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-to-text-conversation-in-chatgpt-ios-app.jpg)
 
 Close
@@ -45,10 +57,28 @@ Close
 
  Due to its simplistic design, people from all age groups can easily begin using the app without much need for intensive learning and practice.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT opening page on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-opening-page-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt messages on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-messages-on-ios-app.jpg)
 
 Close
@@ -67,8 +97,14 @@ Close
 
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![haptic feedback toggle on and main language option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggle-on-and-main-language-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![different languages available in chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/different-languages-available-in-chatgpt.jpg)
 
 Close
@@ -95,6 +131,9 @@ Close
 
  The ChatGPT app also syncs your chat history across other compatible Apple devices, like your iPad, allowing you to access it from anywhere.[Deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) is possible on both the website and the app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![viewing chatGPT history while offline in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/viewing-chatgpt-history-while-offline-in-ios-app.jpg)
 
 ![chatGPT old conversation while offline](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-old-conversation-while-offline.jpg)

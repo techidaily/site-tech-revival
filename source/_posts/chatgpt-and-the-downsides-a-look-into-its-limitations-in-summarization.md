@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and the Downsides: A Look Into Its Limitations in Summarization"
-date: 2024-07-22 12:15:57
-updated: 2024-07-24 10:18:38
+date: 2024-08-02T16:15:58.005Z
+updated: 2024-08-03T16:15:58.005Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
  Generative AI tools like ChatGPT, Stable Diffusion, DALL-E, Microsoft Bing AI, and Google Bard have wowed us, and now GPU manufacturer NVIDIA wants a piece of the pie.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## What Is NVIDIA AI Foundations?
 
  NVIDIA AI Foundations is a cloud-based generative AI service that you can fine-tune for your business, use for medical research, or generate AI artwork. The AI models can be trained to produce texts, images, videos, and 3D content unique to your enterprise. This is particularly useful if you can't afford to build a customized AI model for your business because it's too expensive or complicated.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
 ### NVIDIA NeMo
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
@@ -41,8 +47,14 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### NVIDIA Picasso
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
@@ -51,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
 ## NVIDIA BioNeMo
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
@@ -59,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Who Can Use NVIDIA AI Foundations?
 
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)

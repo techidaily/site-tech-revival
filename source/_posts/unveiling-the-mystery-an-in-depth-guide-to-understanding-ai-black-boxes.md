@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Mystery: An In-Depth Guide to Understanding AI Black Boxes"
-date: 2024-07-28 10:56:29
-updated: 2024-07-29 11:48:18
+date: 2024-08-02T16:15:45.768Z
+updated: 2024-08-03T16:15:45.768Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/0d3d204f3859dff7eef251abf3745730eecca4103
 
 ## 1\. Bing
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing AI chatbot mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-mobile-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Bing AI chatbot response mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-response-mobile-1.jpg)
 
 ![Bing AI image generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-image-generation-1.jpg)
@@ -39,6 +45,9 @@ Close
 
 ![Nova AI Scientist persona prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-scientist-persona-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Nova AI chatbot personas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-personas.jpg)
 
 ![Nova AI chatbot suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-suggestions.jpg)
@@ -53,10 +62,19 @@ Close
 
 **Download:** Nova for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.scaleup.chatai) |[iOS](https://apps.apple.com/us/app/ai-chatbot-nova/id1669007652) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Chat & Ask AI
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Ask AI YouTube summary chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-youtube-summary-chatbot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Ask AI homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-homepage.jpg)
 
 ![Ask AI Ask YouTube chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-ask-youtube-chatbot.jpg)
@@ -73,10 +91,19 @@ Close
 
 ## 4\. ChatSonic
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatSonic chatbot health query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-health-query.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatSonic chatbot personalities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-personalities.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![ChatSonic chatbot customize settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-customize-settings-page.jpg)
 
 Close
@@ -91,6 +118,9 @@ Close
 
 ## 5\. ChatOn
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![ChatOn AI chatbot homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-homepage.jpg)
 
 ![ChatOn AI chatbot riddle query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-riddle-query.jpg)
@@ -107,6 +137,14 @@ Close
 
 **Download:** ChatOn for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=ai.chat.gpt.bot) |[iOS](https://apps.apple.com/us/app/chaton-ai-chat-bot-assistant/id1661308505) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 6\. Poe
 
 ![Claude chatbot in Poe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/claude-chatbot-in-poe.jpg)
@@ -125,12 +163,21 @@ Close
 
 **Download:** Poe for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.poe.android) |[iOS](https://apps.apple.com/us/app/poe-fast-ai-chat/id1640745955) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Genie
 
 ![Genie AI app solving a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-solving-a-math-problem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Genie AI app Code and Food categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-code-and-food-categories.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Genie AI app homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-homepage.jpg)
 
 Close

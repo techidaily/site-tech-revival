@@ -1,7 +1,7 @@
 ---
 title: Top 5 AI Prompt Creation Tools Compatible with All Artificial Intelligence Platforms
-date: 2024-07-23 22:51:45
-updated: 2024-07-25 12:27:39
+date: 2024-08-02T16:16:05.683Z
+updated: 2024-08-03T16:16:05.683Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,18 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
 
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
@@ -43,6 +55,9 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
 
  In this LinkedIn Learning course, creative expert Dave Birss shows how Generative AI tools present a huge opportunity to advance your career. As Birss points out, humans usually use technology to automate repetitive activities. Thanks to AI, you can now use tech to automate thinking.
@@ -55,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
@@ -65,8 +83,14 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
@@ -79,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/c527756fdb5fa9c82a656afc9b789f6847f6b6b88
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Learn AI Prompt Engineering Today
 
  You don't need advanced tech knowledge to enroll in these online courses. You only need a creative mind, access to AI tools, and an openness to explore concepts in artificial intelligence. If you started as a skeptic, you'd come out of these videos more open-minded about the benefits of AI on your career and personal life.

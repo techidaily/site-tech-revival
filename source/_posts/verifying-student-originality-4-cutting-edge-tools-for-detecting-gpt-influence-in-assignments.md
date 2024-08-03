@@ -1,7 +1,7 @@
 ---
 title: "Verifying Student Originality: 4 Cutting-Edge Tools for Detecting GPT Influence in Assignments"
-date: 2024-07-23 11:47:57
-updated: 2024-07-25 10:37:24
+date: 2024-08-02T16:16:43.308Z
+updated: 2024-08-03T16:16:43.308Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  If you're wondering how ChatGPT stacks up against Google Translate as a translation tool, here's a [comparison of ChatGPT vs. Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/). Furthermore, did you know you can [use ChatGPT to help you learn a new language](https://www.makeuseof.com/how-chatgpt-plus-can-help-you-learn-a-language/)? Translating with ChatGPT is fast and accurate, but why not go the extra step and learn an entirely new language using an AI tutor?
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ## How to Translate Languages With ChatGPT
 
  Translating with ChatGPT is easy. All you need to do is provide the text you want to translate and specify the language you want to translate it to, and ChatGPT will handle the rest. However, you can customize ChatGPT's language translation outputs, create unique language translation scenarios, and adjust many more aspects. ChatGPT is a generative AI tool, after all.
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  Take the Spanish sentence “Gracias por preguntar, pero estoy bastante seguro aquí” for instance. Google Translate produces "Thanks for asking, but I'm pretty sure here" as the translation. While this isn't entirely wrong, depending on the context, the sentence could mean, "Thanks for asking, but I'm safe here."
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
  Of course, Google Translate will provide the same translation no matter how many times you attempt to translate it because it doesn't have a way to recognize contextual nuance. As per the screenshot above, ChatGPT will attempt to provide the most accurate translation depending on the provided context. Providing context can significantly improve the quality of your translation. If you are not sure how to provide context, here are some inspirations:
@@ -55,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  You can adjust each prompyour chosen languageosing, and ChatGPT will do the rest.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### 2\. Declare the Type of Text
 
  Another important factor that can increase the accuracy of your translation is outright declaring the kind of text you're trying to translate. For example, is it an idiom, a song, a financial document, or an ordinary text? Simply letting ChatGPT know what you're trying to translate gives the chatbot an edge toward providing more accurate translations.
@@ -66,14 +75,32 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  The prompts above or similar ones help ChatGPT use relevant or industry-specific context when generating a translation. Although ChatGPT sometimes recognizes the right niche words to use for translation, you'll have to explicitly prompt it to do so using type declaration in some cases.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Use Style Transfer
 
  Sometimes, when translating text, the translation might be too technical or simply inappropriate for the target audience. Using style transfer in ChatGPT can help adjust the tone and style of a translation to match the target audience or industry. So, if you're translating a legal document, the translation could retain the author's original meaning while using more layman's wording. In the example below, I translated a soccer commentary from Spanish to English, first without style transfer and then using style transfer.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Translating with ChatGPT using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-using-style-transfer.jpg)
 
  The translation above uses the closest English equivalent of the corresponding Spanish words, while the one below uses words suitable for an audience not acquainted with soccer terms. However, it is interesting to note that both translations are considered accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![An English translation using style transfer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/an-english-translation-using-style-transfer.jpg)
 
  To use style transfer when translating, use prompts like:
@@ -107,6 +134,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  Translation summaries are great when you're trying to communicate but don't necessarily have time to get deep into learning the language immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Use a Fine-Tuned Instance of ChatGPT
 
  Using a fine-tuned instance of ChatGPT is one of the best ways to utilize ChatGPT as a translation tool. It opens up almost endless possibilities for translation using the AI chatbot. But how can you fine-tune ChatGPT for translation?
@@ -119,6 +149,10 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  You can also make ChatGPT translations more accurate by providing several large texts and their verified translations. You can then prompt ChatGPT to deduce the right translation of words and phrases from the provided samples and apply it when translating text involving a similar language pair. While you can use significantly longer texts to fine-tune ChatGPT translations, below is a short illustration of how it works using a short paragraph.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![Providing a parralel corpus of text for ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/providing-a-parralel-corpus-of-text-for-chatgpt.jpg)
 
  We achieved improved translation with every prompt without taking any further steps.
@@ -141,6 +175,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
  You can get ChatGPT to translate while retaining at least some semblance of its original artistic or comic value. This can be achieved by instructing ChatGPT to retain its original form, preferably by providing an example ChatGPT can learn from. In the example in the screenshot below, we asked ChatGPT to translate some Spanish sentences while preserving the sense of humor, playfulness, rhyming, or creativity and staying true to the original meaning.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Translation that preserves linguistic form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/translation-that-preserves-linguistic-form.jpg)
 
  Of course, this is not a perfect translation example, but with a few prompt tweaks, there's more to achieve.

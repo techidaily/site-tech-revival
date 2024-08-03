@@ -1,7 +1,7 @@
 ---
 title: "Effortless Cover Letter Creation: Utilizing ChatGPT for Professional Success"
-date: 2024-07-21 22:51:41
-updated: 2024-07-24 10:41:10
+date: 2024-08-02T16:16:39.846Z
+updated: 2024-08-03T16:16:39.846Z
 tags:
   - chatgpt
   - open-ai
@@ -19,10 +19,16 @@ thumbnail: https://thmb.techidaily.com/c67f26d941252008d9cc5aff4ff100a0855f674f5
 
  Bard AI, Google's ChatGPT alternative, has yet to impress despite Google's massive investment in artificial intelligence and a reputation for innovation. Fortunately, at Google I/O 2023, Google announced numerous new features that have the potential to supercharge Bard AI. We've compiled the most exciting Bard AI news announced at Google I/O 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
@@ -37,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/c67f26d941252008d9cc5aff4ff100a0855f674f5
 
 ## 4\. Image Prompting
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -47,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/c67f26d941252008d9cc5aff4ff100a0855f674f5
 
 ## 5\. Image Generation With Adobe Firefly
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/c67f26d941252008d9cc5aff4ff100a0855f674f5
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/c67f26d941252008d9cc5aff4ff100a0855f674f5
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Google's AI Endgame Is Gemini
 
  Bard AI currently runs on PaLM 2 (the latest iteration of its PaLM large language model) and relies on different Google products and services to offer most of the features announced at Google I/O 2023\. Meanwhile, Sundar Pichai, the CEO of Google, briefly discussed Gemini—a new large language model currently being developed from the ground up to power future iterations of Bard AI.

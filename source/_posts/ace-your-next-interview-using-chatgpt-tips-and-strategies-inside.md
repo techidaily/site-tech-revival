@@ -1,7 +1,7 @@
 ---
 title: "Ace Your Next Interview Using ChatGPT: Tips and Strategies Inside"
-date: 2024-07-21 19:50:57
-updated: 2024-07-24 10:16:13
+date: 2024-08-02T16:16:03.439Z
+updated: 2024-08-03T16:16:03.439Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://collovinc.sjv.io/jrkzwp)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://thefitville.pxf.io/qyo4yy)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
@@ -40,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
 ## 1 More Access to GPT-4o
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
@@ -50,16 +57,25 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 Retain Access to GPT-4 Turbo
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3 Create Your Own Custom GPT
 
  OpenAI will allow Free users to access the GPT store and use custom GPTs as part of its free package. However, this allowance doesn't extend to the creation of custom GPTs.
@@ -84,6 +100,9 @@ thumbnail: https://thmb.techidaily.com/f5eeb9ebfa2de64a3d4ee3942e718c9f14502e6b8
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)

@@ -1,7 +1,7 @@
 ---
 title: Unlock the Power of ChatGPT on Ubuntu - A Shell Command Approach
-date: 2024-07-22 19:54:37
-updated: 2024-07-24 10:39:18
+date: 2024-08-02T16:16:25.375Z
+updated: 2024-08-03T16:16:25.375Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,11 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
  OpenAI's ChatGPT app now offers a widget for Android devices. You can add it to your Home screen and quickly enter prompts using images, text, voice, or conversation mode queries. We'll show you how to add and use it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Adding the ChatGPT Widget to Your Android Home Screen
 
  Before proceeding, you'll need to update the ChatGPT Android app—if you're on any version older than 1.2024.052, you can't create this handy home screen widget. Currently, there's only one variation of the ChatGPT widget: a 4x2 option.
@@ -30,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/28b4424e01d4cc277a30d2dc85adec4230b241c9e
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## Using the ChatGPT Widget on Android
 
  The ChatGPT widget lets you enter any query with just one tap. To enter a text query, tap the**Message** field on the ChatGPT widget and start typing your prompt.

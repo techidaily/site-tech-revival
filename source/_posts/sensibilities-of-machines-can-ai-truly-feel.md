@@ -1,7 +1,7 @@
 ---
 title: "Sensibilities of Machines: Can AI Truly Feel?"
-date: 2024-07-24 19:44:47
-updated: 2024-07-26 11:25:33
+date: 2024-08-02T16:15:58.955Z
+updated: 2024-08-03T16:15:58.955Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ## Battle of the Titans: Llama 3 Against GPT-nAi in an Intense Showdown
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is GPT-4?](https://www.makeuseof.com/llama-3-vs-gpt-4-which-is-better/#what-is-gpt-4)
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e66e28dff9a78d29ac6c41d0e2dd487a7c339d734
 
 ## What Is GPT-4?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Asking GPT-4o using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/886c4fbb-dd01-42da-b2de-ff25a87fa046.jpg)
 
  GPT-4 is the latest large language model (LLM) developed by OpenAI. It builds upon the foundations of the older GPT-3 models while using different training techniques and optimizations using a much larger dataset. This significantly increased the parameter size of GPT-4, which is rumored to have a combined total of 1.7 trillion parameters from its smaller expert models. With the new training, optimizations, and larger number of parameters, GPT-4 provides improvements in reasoning, problem-solving, context understanding, and better handling of nuanced instructions.
@@ -52,12 +60,18 @@ There are currently three variations of the model:
 
  You can access Llama 3 through[Meta AI](https://www.meta.ai/) , its generative AI chatbot. Alternatively, you can run the LLMs locally on your computer by downloading Llama 3 models and loading them through Ollama, Open WebUI, or LM Studio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Multimodality
 
  The release of GPT-4o has finally delivered on the initial marketing of GPT-4 having multimodal capabilities. These multimodal features can now be accessed by interacting with ChatGPT using the GPT-4o model. As of June 2024, GPT-4o doesn’t have any integrated way of generating video and audio. However, it does have capabilities to generate text and images based on video and audio inputs.
 
  Llama 3 is also planning to provide a multimodal model for the upcoming Llama 3 400B. It will most likely integrate similar technologies to CLIP (Contrast Language-Imager Pre-Training) to generate images using[zero-shot learning](https://www.makeuseof.com/what-is-zero-shot-learning-can-it-improve-ai/) techniques. But since Llama 400B is still in training, the only way for the 8B and 70B models to generate images is to use extensions such as the LLaVa, Visual-LLaMA, and LLaMA-VID. As of now, Llama 3 is purely a language-based model that can take text, image, and audio as inputs for generating text.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Context Length
 
  Context length refers to the amount of text a model can process at once. It is an important factor when considering an LLM’s capability as it dictates the amount of context the model can work with when interacting with users. In general, a higher context length makes an LLM better as it provides a higher level of coherence, continuity, and can reduce repetitions of errors during interactions.
@@ -105,12 +119,18 @@ Here’s what each criterion evaluates:
 
  On the other hand, both Llama 3 8B and 70B models are free and open-source, which can be a significant advantage for developers and researchers looking for a cost-effective solution without compromising on performance.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Accessibility
 
  GPT-4 models are widely accessible through OpenAI's ChatGPT generative AI chatbot and through its API. You can also use GPT-4 on Microsoft Copilot, which is[one way you can use GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This widespread availability ensures that users can easily leverage its capabilities across different use cases. In contrast, Llama 3 is an open-source project that provides model flexibility and encourages broader experimentation and collaboration within the AI community. This open-access approach can democratize AI technology, making it available to a much wider audience.
 
  Although both models are readily available, GPT-4 is much easier to use because it is integrated into popular productivity tools and services. On the other hand, Llama 3 is mainly integrated into research and business platforms like Amazon Bedrock, Ollama, and DataBricks (except for Meta AI chat assist), which doesn't appeal to the larger market of non-technical users.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## GPT-4 vs. Llama 3: Which Is Better?
 
  So, which LLM is better? I would have to say that GPT-4 is the better LLM. GPT-4 excels in multimodality with advanced capabilities in handling text, image, and audio inputs, while Llama 3's similar features are still in development. GPT-4 also offers a much larger context length and better performance and is widely accessible through popular tools and services, making it more user-friendly.

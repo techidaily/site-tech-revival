@@ -1,7 +1,7 @@
 ---
 title: Every Bit of AI Apple Revealed at WWDC 24
-date: 2024-07-26 18:54:54
-updated: 2024-07-29 11:17:40
+date: 2024-08-02T16:16:04.767Z
+updated: 2024-08-03T16:16:04.767Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 * [Apple's ChatGPT Integration](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#apple-39-s-chatgpt-integration)
 * [Private Cloud Compute and Apple's AI Privacy](https://www.makeuseof.com/every-bit-of-ai-apple-revealed-wwdc-24/#private-cloud-compute-and-apple-39-s-ai-privacy)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Apple unveiled Apple Intelligence, a suite of AI features to help you with tasks like writing emails and creating personalized emojis.
@@ -38,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
  The first category of AI tech Apple displayed were language-based, adding what amounts to a language model that can process words and help improve your experience, integrated into iOS and macOS.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Writing Tools
 
 ![Text summary in Notes on an iPad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-notes-summarize-240610.jpg)
@@ -48,14 +54,23 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
  While scrolling through your inbox in the Mail app, for example, Writing Tools can summarize emails and place them in snippets, so you can easily get the gist without opening the email.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Priority Messages and Notifications
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![Priority notifications on an iPhone through AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/priority-notifications-on-an-iphone-through-ai.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 
  Because the model can analyze words, it can "read" your emails and notifications and figure out which ones are urgent. The important emails will float to the top of your inbox, and the priority notifications will be at the top of your notification stack. Apple has also extended this feature into Focus, where Reduce Interruptions will only allow notifications that need immediate action.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Smart Reply
 
 ![Smart Reply in Mail on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/smart-reply-in-mail-on-an-iphone.jpg)
@@ -64,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
  While replying to emails in Mail, an AI feature called Smart Reply will provide suggestions to answer questions posed in the email. This way, you can be sure you didn't miss anything vital when crafting a response.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## AI Image Generation Features
 
  Many folks use AI to generate unique images with tools like DALL-E or Copilot. So, as you might expect, Apple is integrating generative AI image creation into Apple Intelligence with some unique takes and tools.
@@ -88,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
 ## AI Comes to the Photos App
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Ai-powered Memories in the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-memory-movie-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -100,10 +121,16 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
  Now that AI can separate objects and elements in a photo or video, you can be very specific about what you wish to find in the Photos app. You could type "Mom in a floral-patterned gown," and all the content you have related to that will appear in the results.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Memory Movie
 
  You can also take these specific searches to Memories in Photos, and your device will create a memory with the theme you've described. Apple says it will suggest music that matches this theme and make a movie with a narrative arc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Enhanced AI-Powered Siri
 
 ![AI-enhanced Siri suggesting requests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/ai-enhanced-siri-suggesting-requests.jpg)
@@ -118,6 +145,9 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
 ## Apple's ChatGPT Integration
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![Prompt to use ChatGPT on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/prompt-to-use-chatgpt-on-an-iphone.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -126,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
 ### Compose
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Compose on macOS Sequoia](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/apple-wwdc24-apple-intelligence-chatgpt-writing-tools-compose-suggestions-240610.jpg)
 
 [Apple](https://www.apple.com/ml/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -134,6 +168,9 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 
  DALL-E is a paid ChatGPT feature—you will likely be unable to use Compose without linking to a subscribed account. That's one extra[reason to keep a ChatGPT Plus sub](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/) if you were thinking of ditching it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Private Cloud Compute and Apple's AI Privacy
 
  To help ensure that all your AI requests are private, Apple has designed the AI to run locally. However, since AI needs a lot of processing power, iApple Intelligence is restricted to Apple silicon Macs and iPads, the iPhone 15 Pro/Max, and later.

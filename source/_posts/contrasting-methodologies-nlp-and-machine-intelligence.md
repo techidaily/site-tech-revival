@@ -1,7 +1,7 @@
 ---
 title: "Contrasting Methodologies: NLP & Machine Intelligence"
-date: 2024-07-28 13:17:28
-updated: 2024-07-29 11:57:19
+date: 2024-08-02T16:15:55.615Z
+updated: 2024-08-03T16:15:55.615Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
 ## 1.[Prompt Engineering for ChatGPT (Coursera)](https://www.coursera.org/learn/prompt-engineering)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Dr Jules White teaching Prompt Engineering for ChatGPT on the Coursera online learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-37.jpg)
 
  Can you use AI to create a Pokemon-inspired game that helps your kids learn math and eat healthy food? Apparently, yes! And there's more you can do with a dose of creativity and the help of ChatGPT, says course developer Dr. Jules White, an Associate Professor of Computer Science at Vanderbilt University.
@@ -31,8 +34,14 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
 
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
@@ -65,8 +74,14 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
@@ -79,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Learn AI Prompt Engineering Today
 
  You don't need advanced tech knowledge to enroll in these online courses. You only need a creative mind, access to AI tools, and an openness to explore concepts in artificial intelligence. If you started as a skeptic, you'd come out of these videos more open-minded about the benefits of AI on your career and personal life.

@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Threat Evolved: Discover the 5 Ways AI Assists Hackers in Their Quest"
-date: 2024-07-25 21:31:46
-updated: 2024-07-28 10:17:22
+date: 2024-08-02T16:15:36.359Z
+updated: 2024-08-03T16:15:36.359Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
 ## Experience the Best of AI: Discover Why ChatGPT Plus Remains Ideal Even as GPT-N Goes Gratis
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
@@ -56,14 +59,23 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 Create Your Own Custom GPT
 
  OpenAI will allow Free users to access the GPT store and use custom GPTs as part of its free package. However, this allowance doesn't extend to the creation of custom GPTs.
 
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 Generate Images With DALL-E
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
@@ -80,8 +92,14 @@ thumbnail: https://thmb.techidaily.com/0a337b8d498c7856f1553f3aec6dd0a0ba10469da
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.

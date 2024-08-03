@@ -1,7 +1,7 @@
 ---
 title: "Unleash Your Creativity: Generating D&D Character Concepts Using ChatGPT and DALL-E"
-date: 2024-07-24 11:29:50
-updated: 2024-07-26 10:52:30
+date: 2024-08-02T16:16:28.928Z
+updated: 2024-08-03T16:16:28.928Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/4d8f1c7b5627ce22b4f423cf420d1ffc8c5300c88
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Shownotes
 
 This week, we chat about the following tech news that matters:

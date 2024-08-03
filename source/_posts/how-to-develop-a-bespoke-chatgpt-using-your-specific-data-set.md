@@ -1,7 +1,7 @@
 ---
 title: How to Develop a Bespoke ChatGPT Using Your Specific Data Set
-date: 2024-07-25 12:43:24
-updated: 2024-07-27 11:53:39
+date: 2024-08-02T16:15:47.865Z
+updated: 2024-08-03T16:15:47.865Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/04735b88e1441114a8925bb5e15d2369f293d2c3a
 
  Wouldn't it be great if ChatGPT could step in as your trusty sidekick, curating the ideal movie selection for you? Sounds interesting? Well, here's a thrilling guide on how to use ChatGPT to figure out what to watch next.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Identify Similar Movies and TV Shows
 
  You’ve just seen the last episode of “The Last of Us,” “Succession.” or whichever movie keeps you glued to the screen. Now you need similar TV shows, but Google keeps turning up suggestions that make your stomach turn. How do you dig out TV shows similar to what you've just finished watching? ChatGPT can help you[find the perfect movie to stream next](https://www.makeuseof.com/tag/find-perfect-movie-watch-right-now/) .
@@ -51,6 +54,10 @@ I've seen a lot of TV shows based on spy, romance, and war themes. I want you to
 
 Trying the prompt above, we had:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![radically different TV shows](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/radically-different-tv-shows.jpg)
 
 ## 3\. Identify Movies With a Desired Storyline
@@ -65,8 +72,14 @@ I would like to request a list of five TV shows that feature a female protagonis
 
 We tried the prompt above and got some very enticing suggestions.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TV shows with a certain storyline-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-shows-with-a-certain-storyline-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Help Remember a Movie You've Forgotten
 
  You probably have that one movie you've seen in the past and would love to see again but can't remember the name. Maybe you saw it at a young age or just don't have great luck with keeping movie names in memory. ChatGPT can help you hunt down that elusive movie. Just describe every bit of the movie you can remember. Names of any actor you can recall, major scenes, storyline, every element you can think of, and let ChatGPT do its magic.
@@ -77,6 +90,10 @@ Below is an example of a prompt that can help you with such a request:
 
  When we tried the prompt above, we had the exact movie we had in mind, which was the 2000 movie "Romeo Must Die."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![ChatGPT finds movies from description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-finds-movies-from-description.jpg)
 
 ## 5\. Use ChatGPT to Discover Lesser-Known or Underrated Movies
@@ -85,6 +102,9 @@ Below is an example of a prompt that can help you with such a request:
 
  How? You can start by using prompts like: "Can you suggest some hidden gems in the comedy genre that most people haven't seen?" Or "What are some underrated historical Korean TV shows that deserve more attention, why are they worth seeing, and what's their IMDB score?"
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
 
 ## 6\. Research Movies Starring Your Favorite Actors
@@ -97,6 +117,9 @@ Below is an example of a prompt that can help you with such a request:
 * Suggest some romantic comedies with Sandra Bullock as the lead actress.
 * Can you suggest some animated movies suitable for children with voice acting by Tom Hanks?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
 
 ## 7\. Discover Movies From Short Clips

@@ -1,7 +1,7 @@
 ---
 title: "AI Duels: Assessing ChatGPT and Translate Quality"
-date: 2024-07-27 23:47:53
-updated: 2024-07-28 12:56:58
+date: 2024-08-02T16:15:50.666Z
+updated: 2024-08-03T16:15:50.666Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
 ## Beyond Words: Evaluating the Performance of ChatGPT and Google Translate for Accurate Translations
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT has the potential to challenge Google Translate's dominance in machine translation due to its ability to provide interpretations of idioms, preserving meaning and intent.
@@ -29,7 +32,10 @@ thumbnail: https://thmb.techidaily.com/a471b0d2c144e4e5b46108f146c187bc2176565f5
 
 ## What Does a Good Translation Look Like?
 
-![A Translate keyboard button ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/a-translate-keyboard-key.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![A Translate keyboard button ](https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574b036e27c98e637af2bd24e8.jpg)
 
  The primary purpose of translation is to convey the meaning of a speech written or spoken in one language using another language. Consequently, a good translation must not just swap the meaning of words between two languages but must convey the meaning of the entire body of text as a whole.
 
@@ -79,10 +85,16 @@ And so did Google:
 
 Google, on the other hand, did fairly well.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Google Translate translating malayalam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/goo.jpg)
 
  None of the tools could get it perfectly, but Google Translate was as close as you can get. This is a close contest. While Google Translate has an edge, ChatGPT can provide the meaning of idioms instead of just translations. This could be very useful when translating a larger body of text that contains an idiom. In such cases, translating an idiom literally could be a source of confusion when read together with the surrounding text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Google Translate vs. ChatGPT: General Accuracy
 
  Subtle differences between a source text and its translation can completely alter the meaning of a text. Therefore, we tested both Google Translate and ChatGPT to see their general translation accuracy.
@@ -101,10 +113,16 @@ Up next is a translation task in Filipino.
 
  Google turned up: "The medicine for a woman is the tenderness of an understanding man." So it wasn't a complete disaster, but it didn't get the nuance of the message right.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Google translates filipino text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino.jpg)
 
  ChatGPT, on the other hand, turned up: "The cure for a heartbroken woman is the affection of an understanding man."
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT translate filipino](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino.jpg)
 
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
@@ -121,6 +139,10 @@ Below is the source text:
 
  While Google Translate understands "Pidgin English '' to some extent, it failed woefully at translating the source text. Part of the problem is due to Google Translate's limited ability to distinguish Creole from English because of the presence of English words.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Google Translate Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-translate-pidgin-translation.jpg)
 
  Although not flawlessly, ChatGPT's interpretation was able to clearly convey the meaning and intent of the speaker. Considering the highly contextual nature of Pidgin English, the results are very impressive.
@@ -137,6 +159,9 @@ Below is the source text:
 
  It's hard to say with certainty. Both translation tools have their strong points. Google has been making massive investments in[Natural Language Processing (NLP)](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) . As a result, it outperforms ChatGPT in languages to which it has paid special attention. However, considering[how ChatGPT works and its training](https://www.makeuseof.com/how-does-chatgpt-work/) , it represents a unique and exciting approach to translation. Which of them should you use? Both tools are free, so feel free to experiment and settle for which one works for you.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ## ChatGPT: An Emerging Translation Tool
 
  Google Translate has made a name for itself in the machine translation space. However, ChatGPT, although relatively new, is not a pushover. One of ChatGPT's greatest advantages is its ability to adjust its translation based on the context or extra provided by the user. Google Translate can not currently do this.

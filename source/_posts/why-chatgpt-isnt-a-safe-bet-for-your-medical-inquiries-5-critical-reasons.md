@@ -1,7 +1,7 @@
 ---
 title: "Why ChatGPT Isn't a Safe Bet for Your Medical Inquiries: 5 Critical Reasons"
-date: 2024-07-27 13:16:51
-updated: 2024-07-28 12:56:38
+date: 2024-08-02T16:16:32.404Z
+updated: 2024-08-03T16:16:32.404Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 
  The wildly popular ChatGPT has affected the way people write code, conduct research, and even learn. But how well does ChatGPT work in the kitchen? Here’s what happened when we used the AI app to teach us how to cook delicious and healthy meals.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
@@ -25,10 +28,16 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 
  In addition, the chatbot can assist with everyday cooking questions, such as providing helpful techniques for preparing eggs in a more nutritious way upon request. With its ability to provide immediate and tailored advice, this feature offers a practical resource for anyone looking to make healthier and more informed cooking choices.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT healthier eggs tips](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthier-eggs-tips.jpg)
 
  Healthier cooking options are just a simple prompt away. If you're already a fan of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) , such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
 
  More specific prompts like “design a healthy breakfast with adequate protein and vegetables” or “what's a healthy, vegetarian dinner with spices like turmeric and red pepper?” also provide appropriate recipes. Get as specific as you like with the prompts.
@@ -37,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
 
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
@@ -51,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Does ChatGPT Provide Useful Nutritional Information?
 
  ChatGPT is (admirably) cautious about offering nutritional information. When prompted to provide nutritional information for the seared asparagus recipe, it responded: “As an AI language model, I am not able to provide exact nutritional information for recipes.”
@@ -63,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/5dd2f6cde3d323e673a6ae6de82e04690c6752ca5
 
  It also offers the caveat that nutritional science is still evolving and recommends consulting with a registered dietitian or healthcare professional for more personalized information. If you want some additional resources, then check out the[best websites to learn more about healthy eating](https://www.makeuseof.com/best-websites-learn-healthy-eating/) , including Nutritionfacts.org and Open Food Facts.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Boost Your Healthy Cooking Skills With ChatGPT
 
  With its vast selection of recipes, ChatGPT is a helpful companion for any home chef looking to create healthy meals. While the exact number of recipes it has available is difficult to pin down, the chatbot's endlessly adjustable recipe options will help you create fantastic meals for quite some time. Because it's so easy to use—and fantastically free from advertisements or off-topic ramblings—ChatGPT is an excellent resource for online recipes and cooking advice.

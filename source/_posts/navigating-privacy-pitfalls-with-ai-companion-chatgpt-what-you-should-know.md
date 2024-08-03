@@ -1,7 +1,7 @@
 ---
 title: "Navigating Privacy Pitfalls with AI Companion, ChatGPT: What You Should Know"
-date: 2024-07-21 14:47:34
-updated: 2024-07-23 12:51:58
+date: 2024-08-02T16:16:16.230Z
+updated: 2024-08-03T16:16:16.230Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  And while it is almost impossible not to be fascinated by ChatGPT, there are some glaring issues that need to be addressed; privacy concerns, for example. Is ChatGPT really a privacy risk?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## How Does ChatGPT Gather Data?
 
  If you've ever interacted with other chatbots, you know that none of them can really compare to ChatGPT, which is actually capable of generating human-like responses. But why is ChatGPT so much better than other similar software?
@@ -31,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns,[Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's Privacy Policy: What You Need to Know
 
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
@@ -49,18 +56,32 @@ thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ### 1\. Register With a Private Email
 
  You can sign up to use ChatGPT with your Google or Microsoft account, but that would not be a very good idea, as convenient as it may seem. In order to protect your privacy, you should create an account with an email, preferably using a secure and encrypted email service like[ProtonMail or Tutanota](https://www.makeuseof.com/protonmail-vs-tutanota-which-encrypted-email-is-best/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Limit What You Share
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the[California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/) . So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Is It Time to Regulate ChatGPT?
 
  After Italy broke the ice, talks of regulating ChatGPT and other AI products intensified. In April 2023, the European Data Protection Board (an independent European Union body that enforces GDPR) set up a task force to explore potential regulatory measures. Governments of several EU member states did the same, per[Reuters](https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/) .

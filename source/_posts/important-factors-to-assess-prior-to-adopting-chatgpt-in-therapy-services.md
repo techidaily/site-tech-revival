@@ -1,7 +1,7 @@
 ---
 title: Important Factors to Assess Prior to Adopting ChatGPT in Therapy Services
-date: 2024-07-23 23:41:25
-updated: 2024-07-26 11:55:52
+date: 2024-08-02T16:16:26.235Z
+updated: 2024-08-03T16:16:26.235Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
@@ -33,8 +39,14 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can ChatGPT Hack Your Bank Account?
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -49,6 +61,11 @@ thumbnail: https://thmb.techidaily.com/3435ed54de8a47266623e22c7fb2a2e96dbea38f3
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.

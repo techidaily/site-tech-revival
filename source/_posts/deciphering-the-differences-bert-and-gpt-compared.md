@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Differences: BERT and GPT Compared"
-date: 2024-07-25 11:30:39
-updated: 2024-07-28 10:39:16
+date: 2024-08-02T16:16:44.651Z
+updated: 2024-08-03T16:16:44.651Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  As 2024 approaches, there are a number of cybersecurity trends and predictions to be aware of.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Increased AI-Powered Attacks
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
@@ -45,8 +48,14 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
@@ -79,6 +88,9 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
@@ -89,8 +101,16 @@ It was also stated in the same report that:
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## 7\. Continued Topical Email Scams
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
@@ -99,6 +119,9 @@ It was also stated in the same report that:
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Each Year Brings New Cybersecurity Threats
 
  As 2023 comes to its conclusion, it's important to keep 2024's top security trends and predictions in mind. Remaining security-literate helps you fend off threats and better prepare yourself for malicious campaigns. No one knows for sure what 2024 will bring for the cybersecurity realm, but consider keeping the above in mind, as they'll very likely make an appearance.

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Combining ChatGPT and Google Docs/Sheets Using the Latest AI Tools
-date: 2024-07-23 19:33:22
-updated: 2024-07-25 12:45:34
+date: 2024-08-02T16:15:49.256Z
+updated: 2024-08-03T16:15:49.256Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,14 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  But using these AI systems isn’t just for big businesses. Let’s zero in on ChatGPT. If you’re a small business owner, there are plenty of ways to use this AI tool to boost your small business’s productivity and efficiency.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 1\. Create Content
 
  Whether you’re crafting a blog for your business website or scripting a video for your brand’s YouTube channel, ChatGPT can be your go-to content creator. This is particularly valuable for small businesses that may not yet have the budget for a dedicated content writer.
@@ -29,6 +37,14 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  While it may seem easy to outsource everything to ChatGPT, you should merely use it as a starting point. It's critical to add your personality to any content that carries the brand of your business.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 2\. Generate Social Media Posts Out of Existing Content
 
 ![Use ChatGPT to Make  Social Media Posts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-make-social-media-posts.jpg)
@@ -37,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
 ## 3\. Fill In Templates
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Use ChatGPT to Fill In Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-fill-in-templates.jpeg)
 
  While businesses can employ automation tools that send messages based on actions like abandoned carts or website visits, they might be beyond the budget of small businesses. Don’t worry; ChatGPT can help populate your message templates. If you don’t have a template yet, you can ask ChatGPT to make one.
@@ -45,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
 ## 4\. Make Text Excel-Friendly
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Use ChatGPT to Convert Text to Excel-Friendly Data-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-convert-text-to-excel-friendly-data-1.jpg)
 
  Most inventory systems necessitate inputting data into an Excel sheet, which can become problematic if all your information is stored in your smart device’s notes or even in a more traditional format, such as handwritten records in a notebook. Transferring this data into an Excel sheet can be a laborious and time-consuming process.
@@ -53,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 
  Paste the text into ChatGPT and instruct it to make columns based on your preference. Don’t forget to tell it to make the data easily copy-pastable into Excel.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Modify Text According to a Specified Format
 
  You can also give ChatGPT a large chunk of text to modify according to a specified format. Just provide the text and specify the formatting you want. These include:
@@ -67,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/861e642d844db4b2f3d772a017498464c5809d872
 * Obfuscate emails (for example, <contact@muo.com> to contact\[at\]muo\[dot\]com
 * Format numbers (for example, 60000 to 60,000)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 6\. Translate Languages
 
  Many businesses often interact with customers who speak different languages, especially as the business expands. Thankfully, ChatGPT can assist with language translation. Copy-paste the text and ask the AI tool to translate it into your native language. Simply input the text and request its translation into your preferred language. Also, if you’re unsure of a language, ChatGPT can help[identify unknown languages for you](https://www.makeuseof.com/tag/what-language-is-this-5-online-tools-to-identify-almost-every-unknown-language/) too.

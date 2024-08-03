@@ -1,7 +1,7 @@
 ---
 title: How ChatGPT Can Help You Pick the Perfect Movie or Show Every Time
-date: 2024-07-25 15:53:53
-updated: 2024-07-27 12:27:13
+date: 2024-08-02T16:16:20.955Z
+updated: 2024-08-03T16:16:20.955Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/26237c0b8cf6f930c119cd7d58abe423d11d796e2
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -42,6 +45,10 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -52,6 +59,10 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -60,12 +71,18 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
 
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -90,6 +107,9 @@ Close
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
 [Adventure Inked](https://adventureinked.wixsite.com/gpts/) has developed more than 200 ChatGPT text adventure games, so there are far too many to list here. Cute Little Zombies is a perfect example of why its text adventures are great, giving you a heap of different scenarios to play through, all with cute little AI-generated images to help build the story out.

@@ -1,7 +1,7 @@
 ---
 title: Can We Trust CGP for Health Insights?
-date: 2024-07-24 20:36:39
-updated: 2024-07-27 11:56:39
+date: 2024-08-02T16:16:24.887Z
+updated: 2024-08-03T16:16:24.887Z
 tags:
   - chatgpt
   - open-ai
@@ -25,22 +25,43 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Pros of Using Local LLMs
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Less Censorship
 
  When ChatGPT and Bing AI first came online, the things both chatbots were willing to say and do were as fascinating as they were alarming. Bing AI acted warm and lovely, like it had emotions. ChatGPT was willing to use curse words if you asked nicely. At the time, both chatbots would even help you make a bomb if you used the right prompts. This might sound like all shades of wrong, but being able to do anything was emblematic of the unrestricted capabilities of the language models that powered them.
 
  Today, both[chatbots have been so tightly censored](https://www.makeuseof.com/what-is-chatbot-censorship/) that they won't even help you write a fictional crime novel with violent scenes. Some AI chatbots won't even talk about religion or politics. Although LLMs you can set up locally aren't entirely censorship-free, many of them will gladly do the thought-provoking things the public-facing chatbots won't do. So, if you don't want a robot lecturing you about morality when discussing topics of personal interest, running a local LLM might be the way to go.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Better Data Privacy
 
  One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Offline Usage
 
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
@@ -49,12 +70,18 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### 5\. Better Customization
 
  Publicly available AI chatbots have restricted customization due to security and censorship concerns. With a locally hosted AI assistant, you can fully customize the model for your specific needs. You can train the assistant on proprietary data tailored to your use cases, improving relevance and accuracy. For example, a lawyer could optimize their local AI to generate more precise legal insights. The key benefit is control over customization for your unique requirements.
 
 ## The Cons of Using Local LLMs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
  Before you make the switch, there are some downsides to using a local LLM you should consider.
@@ -63,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Slower Responses and Inferior Performance
 
  A common limitation of local LLMs is slower response times. The exact speed depends on the specific AI model and hardware used, but most setups lag behind online services. After experiencing instant responses from ChatGPT, Bard, and others, local LLMs can feel jarringly sluggish. Words slowly trickle out versus being quickly returned. This isn't universally true, as some local deployments achieve good performance. But average users face a steep drop-off from the snappy web experience. So, prepare for a "culture shock" from fast online systems to slower local equivalents.

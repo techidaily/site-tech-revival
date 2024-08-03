@@ -1,7 +1,7 @@
 ---
 title: "AI Transformed Analysts: The Six Most Effective Uses of ChatGPT"
-date: 2024-07-24 17:30:40
-updated: 2024-07-27 11:18:11
+date: 2024-08-02T16:15:59.198Z
+updated: 2024-08-03T16:15:59.198Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 
 ## 1 [Runway's Gen-2](https://research.runwayml.com/gen2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
 
 * **Free:** 125 Credits
@@ -41,8 +44,14 @@ thumbnail: https://thmb.techidaily.com/b734a2c6690e4996dacb7188f3387d968781f292f
 
  Judging from the quality of Sora-generated clips shared by OpenAI, Sora bests Runway Gen-2 as an AI text-to-video generator. However, given the speed of development in the AI space (and the fact that Runway launched Gen-2 about a year before the first preview of Sora was released), it's clear OpenAI's Sora and Runway Gen-2 (and its future versions) will battle for the best text-to-video AI generator title.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 [Pika](https://pika.art/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
 
 * **Free:** 250 initial credits (free 30 credits daily after exhausting initial credits)
@@ -99,8 +108,14 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5 [Synthesia](http://www.synthesia.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of synthesia homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-synthesia-homepage.jpg)
 
 * **Free:** Test video
@@ -116,6 +131,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)
 
 * **Free:** 1 minute/day

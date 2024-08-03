@@ -1,7 +1,7 @@
 ---
 title: Unpacking OpenAI's Chief Executive's Plea for Stricter Artificial Intelligence Laws
-date: 2024-07-22 22:25:49
-updated: 2024-07-24 11:52:45
+date: 2024-08-02T16:15:29.787Z
+updated: 2024-08-03T16:15:29.787Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
@@ -51,6 +57,9 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
@@ -59,8 +68,14 @@ thumbnail: https://thmb.techidaily.com/9d3732c41a53a8a22c767ec42385e845ec206bbdb
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 5\. Personalized Tests
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
@@ -74,8 +89,14 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Cultural Learning
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.

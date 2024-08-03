@@ -1,7 +1,7 @@
 ---
 title: Unreliable Outcomes with ZeroGPT? Here Are 4 Instances to Prove It
-date: 2024-07-26 10:30:29
-updated: 2024-07-28 11:58:40
+date: 2024-08-02T16:15:46.922Z
+updated: 2024-08-03T16:15:46.922Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  Let’s take a closer look at AI detection tools and see whether they can tell the difference between human and AI-generated text.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Testing AI-Detection Tools
 
  They say that the proof of the pudding is in the eating. So, let’s try some tests and see just how effective these tools are. It is impossible to test every tool, so we're testing one of the most popular tools—ZeroGPT.
@@ -31,10 +34,16 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  The first thing we did was get ChatGPT to generate an introduction. We entered the title and gave it no further information. For the record, we used GPT-3.5 for the test.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT generated intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-generated-intro.jpg)
 
  We then copied the text and pasted it into ZeroGPT. As you can see, the results were less than stellar.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT incorrect response to AI intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-incorrect-response-to-ai-intro.jpg)
 
  An inconspicuous start, but it does illustrate just how effective AI chatbots are. To complete the test, we let ZeroGPT analyze a human-created draft intro.
@@ -43,16 +52,25 @@ thumbnail: https://thmb.techidaily.com/477a0b3e8eaad5a77258f27b87d4827ff92a53251
 
  At least it got this part correct. Overall, ZeroGPT failed in this round. It did determine that at least part of the AI-generated introduction was suspect but failed to highlight specific issues.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Test Two: The False Positive Problem
 
  As the use of ChatGPT and other AI tools grows, the likelihood of knowing or hearing about someone being confronted by claims that their work was AI-generated increases. These accusations are one of the more serious problems with ChatGPT and AI-detection tools like ZeroGPT, as this kind of error can damage reputations and affect livelihoods.
 
  False positives occur when human-generated content is incorrectly flagged as being the work of AI. As the example below shows, the problem is easily replicated. I am a keen angler, so I decided to write an intro to an imaginary article about fishing in Florida. I then let ZeroGPT analyze the text—it flagged that the text was 100% AI-generated.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT false positive result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-false-positive-result.jpg)
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
@@ -67,6 +85,9 @@ And here was the response from ZeroGPT:
 
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Test Four: News Articles
 
  There is something unsettling about AI being able to inform us of what’s happening in the world around us. This is not always necessarily “fake news,” as it can be relevant and informative, but there are[definite ethical concerns about AI](https://www.makeuseof.com/ethical-dilemmas-in-artificial-intelligence/) .
@@ -97,6 +118,9 @@ And here was the response from ZeroGPT:
 
  Another factor that must be considered is what constitutes AI-generated content. If AI-generated content is simply reworded, is it human or AI-generated content? This represents another major challenge—the blurring of the lines between the two makes defining machine-created content almost impossible.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Looking to the Future of AI Detection
 
 ![cyber-glasses-1938449_1280](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/cyber-glasses-1938449_1280.jpg)

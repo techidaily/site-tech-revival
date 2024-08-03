@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Guide to Integrating Latest ChatGPT Add-Ons
-date: 2024-07-28 16:42:10
-updated: 2024-07-29 12:32:24
+date: 2024-08-02T16:16:43.372Z
+updated: 2024-08-03T16:16:43.372Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ## 1\. I Am Rich
 
 ![The I Am Rich plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/the-i-am-rich-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
@@ -55,6 +61,9 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -65,6 +74,9 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -75,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly[to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) . By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
@@ -83,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/c2c5f7637a1a98a896ffa1ab11bfad790f7bce8ce
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
  Rather than hastening progress, the "quantity over quality" trajectory that the ChatGPT plugin store seems to be towing is promoting lacklustre plugins that clutter the store. These plugins divert attention from other more promising tools that could truly push ChatGPT to new heights. Nonetheless, we hope that as the plugin store matures, higher-quality offerings will surface.

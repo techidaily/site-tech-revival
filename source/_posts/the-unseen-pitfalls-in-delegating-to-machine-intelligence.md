@@ -1,7 +1,7 @@
 ---
 title: The Unseen Pitfalls in Delegating to Machine Intelligence
-date: 2024-07-25 20:54:35
-updated: 2024-07-27 11:43:28
+date: 2024-08-02T16:16:42.601Z
+updated: 2024-08-03T16:16:42.601Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 1\. Duolingo
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
 
  Image Credit:[Duolingo](https://blog.duolingo.com/duolingo-max/)
@@ -83,12 +86,18 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 4\. Stripe
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
 
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
 
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### How Stripe Intends to Use GPT-4
 
  Details of the roles GPT-4 will play are sketchy at the moment. However,[Stripe](https://openai.com/customer-stories/stripe) has reportedly looked at 50 potential uses, of which 15 were strong enough candidates.
@@ -101,8 +110,14 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatSonic
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
 
  Image Credit: ChatSonic
@@ -123,12 +138,21 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the[WriteSonic](https://writesonic.com/chat) website.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
 Close
@@ -154,6 +178,9 @@ Close
 
 ## 7\. Petey
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
 
  Image Credit: Petey Assistant
@@ -164,12 +191,19 @@ Close
 
  The most basic tier for GPT-4 is a one-off payment of $3.99 on top of the cost of the app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### What Can You Do With Petey?
 
  It has all the usual features you'd expect from a ChatGPT-based app. However, the inclusion of GPT-4 brings the added benefit of access to real-time data, which comes into its own with its Apple Music integration. Without GPT-4, this feature can only use music released before the GPT-3.5 cut-off date (around late 2021).
 
 **Download** :[Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## GPT-4: A New Level of Artificial Intelligence
 
  These apps represent the tip of a huge GPT-4 iceberg. As more developers unlock the power of GPT-4, there will be many apps to follow. These will likely emulate many of the features and uses we mentioned. But what is more exciting is the companies looking to explore new and imaginative uses for a fledgling technology.

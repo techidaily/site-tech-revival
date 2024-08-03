@@ -1,7 +1,7 @@
 ---
 title: Ease Into Large Language Models - A Novice's Introduction to LangChain LLM Essentials
-date: 2024-07-22 13:39:42
-updated: 2024-07-23 12:20:49
+date: 2024-08-02T16:15:48.994Z
+updated: 2024-08-03T16:15:48.994Z
 tags:
   - chatgpt
   - open-ai
@@ -33,8 +33,15 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  Here's a guide on[how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Translation Tool
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
@@ -45,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
 ## 3\. Programming Project Assistant
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
  It is no news that[ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
@@ -61,6 +71,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
 **Try this GPT** :[K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Interactive Text and Image Games
 
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
@@ -75,8 +88,14 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Personal Tutor
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
@@ -99,6 +118,9 @@ thumbnail: https://thmb.techidaily.com/cf44629f086fd2b8084bdc12a848844a50c0357a1
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
  While ChatGPT provides a strong foundation, custom GPTs can take performance to new levels in specific domains. By training GPTs on niche datasets, we can create purpose-built AI assistants that excel at specific needs. The applications are vast, and we've barely scratched the surface of what could be possible.

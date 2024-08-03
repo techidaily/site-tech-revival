@@ -1,7 +1,7 @@
 ---
 title: "Humor by Algorithms: Exploring if ChatGPT's Jokes Make Us Genuinently Laugh"
-date: 2024-07-25 14:14:32
-updated: 2024-07-28 12:34:33
+date: 2024-08-02T16:16:41.209Z
+updated: 2024-08-03T16:16:41.209Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
  After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ## What Is Copyright? Does It Apply to Non-Human Creations?
 
  Before talking about copyright, we must first define it. According to the[US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
@@ -31,10 +34,16 @@ It further defines original works as:
 
  In this incident, British nature photographer David Slater set himself up between 2008 and 2011 to befriend a wild Celebes crested macaques troop. He was able to gain their trust, but they were still too nervous for him to get a close-up image.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
 
  Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![full body self-portrait of a macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_full_body.jpg)
 
  Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File:Macaca%5Fnigra%5Fself-portrait%5Ffull%5Fbody.jpg)
@@ -59,6 +68,9 @@ Close
 
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Is AI Work Non-Copyrightable?
 
  With all the copyright denials, does it mean that AI work is non-copyrightable at all?
@@ -69,8 +81,15 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## The Issues With AI-Generated Work
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
 
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)

@@ -1,7 +1,7 @@
 ---
 title: "AI Breakthroughs: Essential Updates in the Latest ChatGPT Version"
-date: 2024-07-23 17:52:20
-updated: 2024-07-24 11:27:22
+date: 2024-08-02T16:16:21.325Z
+updated: 2024-08-03T16:16:21.325Z
 tags:
   - chatgpt
   - open-ai
@@ -46,12 +46,18 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
 
 [ChatGPT's Memory](https://help.openai.com/en/articles/8590148-memory-faq) allows you to set specific information it should always remember about you. But that's not all. Over time, its memory can improve, learn details about you to add to its memory, and deliver improved accuracy and performance based upon this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
@@ -62,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
@@ -74,16 +83,29 @@ thumbnail: https://thmb.techidaily.com/4c1b7ae799c3eb4ebbe55615e8284400f0c118d4f
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 4 Free Trial Invites
 
  Want to share ChatGPT Plus with your buddies, but they don't have the cash for the subscription? Well, you can use a ChatGPT Plus free trial invite to grant them a 14-day free ChatGPT Plus experience, with access to every feature.
 
  The only real downside to the ChatGPT Plus free trial is that anyone taking it has to sign up for an account using a credit or debit card—which means the card will be charged straight away when the trial ends.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 5 Shared Links
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.

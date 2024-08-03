@@ -1,7 +1,7 @@
 ---
 title: "Conversational Conjurer: Chatbot Aides in Your Quest for the Perfect Dungeon"
-date: 2024-07-27 22:49:42
-updated: 2024-07-28 12:21:26
+date: 2024-08-02T16:15:58.636Z
+updated: 2024-08-03T16:15:58.636Z
 tags:
   - chatgpt
   - open-ai
@@ -35,8 +35,18 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
 **Download:** Unriddle Summarize for[Chrome](https://chrome.google.com/webstore/detail/unriddle-ai-generated-sum/iinmigjlcpeckfihbbfajpkiilfmakff) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.[Chatterdocs](https://chatterdocs.ai/tools/chat-with-pdf) (Web): Create Chatbots Sourcing From Multiple Documents
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Chatterdocs can analyze multiple documents at the same time while you chat with a bot and ask questions like ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-chatterdocs.jpg)
 
 * **File Formats Supported:** PDF, DOC, TXT, JPEG, PNG
@@ -53,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
 ## 3.[Klavier](https://klavier.ai/) (Web): Free and Limitless Tool to Chat With Your Documents
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![Klavier is a completely free way to have AI scan your documents and then use ChatGPT to find information within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-klavier.jpg)
 
 * **File Formats Supported:** PDF, DOCX, TXT, HTML
@@ -69,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
 ## 4.[LXI.ai](https://lxi.ai/) (Web): Chat With Your Documents and Pay Per Usage
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![LXI.ai has an innovative system to chat with your documents and pay only per your usage, not lumpsum tiers](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-lxi-ai.jpg)
 
 * **File Formats Supported:** PDF, DOCX, TXT, URL
@@ -81,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
  The chatbot works with all your documents at the same time, so you'll need to[learn to phrase ChatGPT prompts effectively](https://www.makeuseof.com/chatgpt-chrome-extensions-better-ai-prompts-answers-in-browsers/) to get the answers you need. It's also context-unaware, meaning each question is treated as a separate query without considering the conversation before it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5.[Docalysis](https://docalysis.com/) (Web): Best App to Have ChatGPT Conversations With PDFs
 
 ![Docalysis provides one of the most impressive ChatGPT bots for your PDF documents, and having the PDF open alongside is a bonus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/best-chatgpt-apps-chat-with-documents-pdf-docalysis.jpg)
@@ -109,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d7
 
  ChatPDF is one of the[coolest new apps to work with PDF files](https://www.makeuseof.com/free-pdf-editing-web-apps-to-fix-common-problems-with-pdfs/) , and performs shockingly well for all text. It had trouble reading images and data from tables in our tests, where we uploaded files from our drive as well as direct URLs. The developers say that while they currently use ChatGPT 3.5, they are looking into how to incorporate the newer ChatGPT 4.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Learn Prompts to Make Chat Memory Easier
 
  You'll find that in all these apps, ChatGPT doesn't remember what you talked about after a session is finished. In fact, in some apps, it'll treat each question separately without using the previous query's context. To get around this problem, try and learn how to use prompts for ChatGPT in the app you're using. With a little trial and error, you will be able to figure out how to frame a question so that answers use the context of what you've chatted about before.

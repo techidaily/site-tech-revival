@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Allowing ChatGPT to Process and Read Through Your PDF Files
-date: 2024-07-24 22:56:16
-updated: 2024-07-25 10:21:45
+date: 2024-08-02T16:16:22.707Z
+updated: 2024-08-03T16:16:22.707Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/d08434487f817b4e37cfe7558cadbd43386d2a121
 
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -52,6 +56,9 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -60,6 +67,9 @@ You could use:
 
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 ## 4\. Not Providing Context When Necessary
@@ -74,6 +84,9 @@ You could use:
 
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -84,6 +97,10 @@ You could use:
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
@@ -92,6 +109,10 @@ You could use:
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.
@@ -108,6 +129,9 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Is Garbage In, Garbage Out
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.

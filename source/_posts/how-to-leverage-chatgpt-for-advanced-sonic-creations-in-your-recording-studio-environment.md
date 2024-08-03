@@ -1,7 +1,7 @@
 ---
 title: How To Leverage ChatGPT for Advanced Sonic Creations in Your Recording Studio Environment
-date: 2024-07-24 16:26:10
-updated: 2024-07-25 10:49:27
+date: 2024-08-02T16:15:52.115Z
+updated: 2024-08-03T16:15:52.115Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 ## Four Desired Improvements for the Next Generation AI, GPT-5
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is OpenAI's GPT-5?](https://www.makeuseof.com/gpt-5-features-we-want-to-see/#what-is-openai-39-s-gpt-5)
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## What Is OpenAI's GPT-5?
 
  GPT-5 is the highly anticipated successor to OpenAI's GPT-4 AI model, widely expected to be the most powerful generative model in the market. While there is currently no official release date for GPT-5, there are indications it could be released as early as the summer of 2024\. Very little detail about the model is known at this time, but several things can be said with some amount of certainty:
@@ -39,8 +45,14 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  These all point to one exciting reality: GPT-5 is coming! That said, quite a lot of things are speculations at this point. But there are a few things we hope to see and are fairly confident of seeing in the model. Here are some of them:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 1\. More Multimodality
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
@@ -49,9 +61,12 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Larger and More Efficient Context Window
 
-![Monitor on a desk with OpenAI logo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/how-to-analyze-your-local-documents-with-langchain-and-chatgpt-featured-image.jpg)
+![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -63,7 +78,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
 ## 3\. GPT Agents
 
-![ChatGPT accessed on a smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/muo-chatgpt-mentions-fi.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 

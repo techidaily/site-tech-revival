@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial for Retrieving Your Disappeared ChatGPT Dialogues
-date: 2024-07-24 17:50:45
-updated: 2024-07-25 10:16:16
+date: 2024-08-02T16:16:19.410Z
+updated: 2024-08-03T16:16:19.410Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,15 @@ thumbnail: https://thmb.techidaily.com/16d13254afac9149dce0a2e443b3fbb7f20249bb6
 
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Too Many Instructions In a Single Prompt
 
  ChatGPT is capable of handling several directives within a single prompt. Yet, there's a threshold to the number of instructions it can manage simultaneously without compromising the quality of its responses. You may have encountered online prompts containing numerous instructions that appear to function well. However, this isn't always the case, and there's a nuanced approach required to ensure optimal results.
@@ -52,6 +59,9 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -60,8 +70,14 @@ You could use:
 
  As a demonstration, we asked ChatGPT to limit its responses to any question we ask about Elon Musk's view on the subject. We asked ChatGPT about Mars, rockets, and Electric Vehicles, and the responses were good since Elon Musk has clearly said a lot on the topic. However, when we asked ChatGPT to tell us about Pizza (remember, the responses should only be Elon Musk's views on the topic), ChatGPT made up hilarious commentary.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -84,6 +100,9 @@ You could use:
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
@@ -108,6 +127,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Garbage In, Garbage Out
 
  Just like a chef needs quality ingredients to make a delicious meal, the responses generated by ChatGPT depend greatly on the prompts we provide. Just as the choice of ingredients shapes the taste and outcome of a dish, the clarity, specificity, and context of our prompts influence the accuracy and relevance of ChatGPT's responses. By crafting well-structured prompts, you give ChatGPT the ingredients it needs to serve up insightful and engaging interactions, much like a skilled chef serving a culinary masterpiece.

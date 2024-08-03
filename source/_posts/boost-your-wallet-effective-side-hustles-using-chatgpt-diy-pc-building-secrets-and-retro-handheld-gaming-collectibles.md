@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Wallet: Effective Side Hustles Using ChatGPT, DIY PC Building Secrets & Retro Handheld Gaming Collectibles"
-date: 2024-07-22 20:18:36
-updated: 2024-07-23 11:40:58
+date: 2024-08-02T16:16:34.387Z
+updated: 2024-08-03T16:16:34.387Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/ed24203618acc19422dc1e656e53cdd94b5421786
 
 ## 1\. Create Random Encounters While Players Are Traveling
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A blue and yellow D20 di](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/blue-dice.jpg)
 
  Whether you're strictly following a scripted adventure or mostly just going with the flow, ChatGPT can make it easy to add random encounters to your campaign. This is especially useful for when your players are traveling. It's also a great addition for anyone learning[how to play Dungeons & Dragons online](https://www.makeuseof.com/how-to-play-dungeons-dragons-online/) .
@@ -47,6 +50,9 @@ Here's a pretty great prompt for generating NPCs:
 
 * Generate a paragraph of a randomized description of an innkeeper for D&D.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Prompt for generating an NPC description in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/generate-description.jpg)
 
  Here's how you can prompt dialogue from players to interact with characters created in ChatGPT:
@@ -57,6 +63,9 @@ Here's a pretty great prompt for generating NPCs:
 
  Of course, you can swap out multiple variables in each prompt to adjust them to your campaign and situation. For extra flair, you can[use ChatGPT and DALL-E to generate images of characters](https://www.makeuseof.com/how-to-use-chatgpt-and-dall-e-to-create-characters-for-dungeons-and-dragons/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Filler Content in a Pinch: When Players Deviate From the Story
 
  You've probably run into a situation where your players decide to deviate from a carefully crafted campaign. While ChatGPT can't help with the frustration this can cause, it can help you with filler content in a pinch. It's a fantastic option for creating engaging content on the fly and avoiding awkward or long pauses during the session.
@@ -65,10 +74,25 @@ Here's one example of a prompt that can work:
 
 * The players in my D&D game decided to leave the mansion where they were, and they're headed in a random direction. Can you generate a randomized area where they're headed, along with an NPC that has a quest for them?
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Prompt in ChatGPT for D&D when players deviate from story](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/players-deviate-from-campaign.jpg)
 
  Here, ChatGPT automatically generated an easy-to-understand environment, an NPC with a name, and a quest to boot. All of this within seconds. The next time your party surprises you by taking a new direction, ChatGPT has you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Can Assist in Map Creation
 
  You can use ChatGPT to describe an area to your party better or build a room for an encounter. In fact, there are two great ways to use ChatGPT to generate maps.
@@ -77,6 +101,10 @@ Here's one example of a prompt that can work:
 
  Alternatively, you can use ChatGPT for map creation by prompting for ideas. You can provide the basics of your idea for a foundation, and ChatGPT will provide you with and elaborate on the details.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 5\. Keep Track of the Game State
 
  If you've been running a campaign for more than 15 sessions, you might consider using ChatGPT as a D&D assistant to keep track of the game state. It might take some work and a bit of time, but it's definitely worth it. And in many cases, it's better than managing a complex spreadsheet and a tall stack of notes.

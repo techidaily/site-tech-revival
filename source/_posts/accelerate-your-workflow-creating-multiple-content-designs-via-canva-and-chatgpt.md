@@ -1,7 +1,7 @@
 ---
 title: "Accelerate Your Workflow: Creating Multiple Content Designs via Canva & ChatGPT"
-date: 2024-07-23 19:43:23
-updated: 2024-07-25 10:54:41
+date: 2024-08-02T16:16:30.114Z
+updated: 2024-08-03T16:16:30.114Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 1\. Write a Prompt in ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT prompt results ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-prompt-results.jpg)
 
  If you struggle to generate ideas for content, ChatGPT can save you some brain power and provide all the content for you. If you don’t know how the chatbot works, see our[guide for how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) . Sign up on the[OpenAI](https://openai.com/blog/chatgpt) website and create a free account. In periods of high demand, it may take longer to create an account or even receive chatbot results.
@@ -44,8 +47,14 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  Paste your content into A2 by using**Cmd** +**V** on Mac or**Ctrl** +**V** on Windows. Despite selecting only one box, each line of text will be input into a new row.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 3\. Tidy Up the Content
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
@@ -64,6 +73,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 5\. Save Your Sheet as a CSV File
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
 
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
@@ -74,18 +86,30 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 6\. Make Your Design in Canva
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
 
  Head to[Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
 
  If you’ve already[made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/) , choose one of those, or if you’re designing from scratch, you could[use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Add Text Placeholders
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
 
  Select the**Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
@@ -100,6 +124,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  Select**Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the**Bulk Create** app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![Canva Bulk Create options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-csv.jpg)
 
  Select**Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
@@ -112,6 +139,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Review and Edit Your Designs
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
@@ -124,6 +154,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 10\. Save Your Bulk-Created Designs
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva save options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-save-options.jpg)
 
  If you’re happy with how everything looks, it’s time to save your designs. Go to**Share** \>**Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
@@ -132,6 +165,10 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Bulk Create Content With Canva and ChatGPT
 
  Whether you use ChatGPT, another AI chatbot, or manually generate the written content, Canva’s Bulk Create feature is not one to be missed. You can quickly and easily create months’ worth of designs for social media or other uses. Canva’s easy system removes any complications you might find in other software and saves time and energy for mass production.

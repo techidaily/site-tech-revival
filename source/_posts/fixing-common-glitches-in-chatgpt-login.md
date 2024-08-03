@@ -1,7 +1,7 @@
 ---
 title: Fixing Common Glitches in ChatGPT Login
-date: 2024-07-25 15:28:36
-updated: 2024-07-26 12:47:48
+date: 2024-08-02T16:16:33.468Z
+updated: 2024-08-03T16:16:33.468Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
  There's hope in a few common tasks for those worried that AI may be coming for their job. Gaining extra competence in Excel’s VBA and the wide world of automated analysis tools can give you a leg up in the job market.
@@ -35,8 +39,14 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to[visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Customizable Report Creation in Excel
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -51,8 +61,15 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 3\. Easy-to-Use Forms in Excel
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
@@ -63,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
  Excel has many tasks that are still beyond the range of ChatGPT and its cohort of machine learning-driven knockoffs. With new advancements increasing at an alarming rate, it’s all too easy to worry that automation may be aiming for your job next.

@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI Black Boxes: An In-Depth Look at Their Functionality"
-date: 2024-07-23 18:53:52
-updated: 2024-07-25 10:38:12
+date: 2024-08-02T16:15:36.117Z
+updated: 2024-08-03T16:15:36.117Z
 tags:
   - chatgpt
   - open-ai
@@ -33,12 +33,18 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
 
  Now that we know all about HuggingChat, let's see how it stacks up against ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare?
 
  Let's start by comparing how to access the tools. ChatGPT first, although it is possible to[use ChatGPT without an account](https://www.makeuseof.com/ways-to-use-chatgpt-without-openai-account/) , accessing the tool directly will require an[OpenAI account](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBJYnBoZTVIMkdqWVZDVmgxRjVVYXhhc2tnaDhmN1U4VaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDd3aGZkd2QxOG91WmJFV3BBdEN3TXhWVF9UdWRwOEUzo2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc) . Once you have set this up, the tool is free to use (unless you[upgrade to ChatGPT Pro](https://www.makeuseof.com/how-to-use-gpt4/) ).
 
  Now, with HuggingChat, the waters are a bit murkier. If asked, HuggingChat will assure you that an account is required, as the image below confirms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -58,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/f55b120c68d76e4449cb5609ead97bf0a2f306573
 
 As you can see, HuggingChat answered this easily.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
@@ -70,6 +79,9 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
@@ -84,10 +96,16 @@ This was ChatGPT's effort:
 
 HuggingChat's summary looked like this:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
  Although surrounded by controversy, the ability to create creative works is perhaps one of the most useful aspects of AI chatbots. However, we will sidestep the moral and ethical implications and put the tools head-to-head in a creative clash of the chatbots.
@@ -96,6 +114,10 @@ HuggingChat's summary looked like this:
 
  We asked both to compose a two-verse love song based on Romeo and Juliet. This was ChatGPT's response:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
 And this was HuggingChat's.
@@ -104,6 +126,9 @@ And this was HuggingChat's.
 
 Shakespeare himself would be impressed with both of these!
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## Security and Privacy
 
  Security and privacy are general concerns surrounding generative AI. There are[definite security concerns with ChatGPT](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/) , but it is fair to say that most of these concerns apply to most chatbots, including HuggingChat.

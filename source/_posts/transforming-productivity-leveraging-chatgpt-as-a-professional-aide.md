@@ -1,7 +1,7 @@
 ---
 title: "Transforming Productivity: Leveraging ChatGPT as a Professional Aide"
-date: 2024-07-23 12:50:43
-updated: 2024-07-25 10:37:38
+date: 2024-08-02T16:16:18.842Z
+updated: 2024-08-03T16:16:18.842Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,13 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -28,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is ChatGPT's GPT Mentions Feature?
 
  As a ChatGPT Plus member, you can[enjoy custom GPTs from the Custom GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) . These are versions of ChatGPT that are tailored to help with specific tasks. Some[popular custom GPTs](https://www.makeuseof.com/best-custom-gpts/) include...
@@ -44,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/6368130d53d4726baee2d761c0d301b46230227e2
 
 So, how can you use this?
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
@@ -62,6 +75,9 @@ So, how can you use this?
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -72,10 +88,16 @@ So, how can you use this?
 
  To demonstrate this, we asked KAYAK GPT to find us the best spots to stay in Germany, as well as upcoming flights.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 Now, we have hotels, flights, and trails for our trip all in one chat!

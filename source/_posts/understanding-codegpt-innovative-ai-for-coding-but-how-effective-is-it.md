@@ -1,7 +1,7 @@
 ---
 title: Understanding CodeGPT - Innovative AI for Coding, but How Effective Is It?
-date: 2024-07-23 12:30:59
-updated: 2024-07-25 12:48:29
+date: 2024-08-02T16:16:25.918Z
+updated: 2024-08-03T16:16:25.918Z
 tags:
   - chatgpt
   - open-ai
@@ -19,16 +19,25 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
  Bard AI, Google's ChatGPT alternative, has yet to impress despite Google's massive investment in artificial intelligence and a reputation for innovation. Fortunately, at Google I/O 2023, Google announced numerous new features that have the potential to supercharge Bard AI. We've compiled the most exciting Bard AI news announced at Google I/O 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
 ## 2\. Dark Theme
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Integration With Google Products and Third-Party Plugins
 
  This is one of the most significant Bard AI announcements since the chatbot itself was announced. Let's face it; Bard AI isn't as good as its competitors. We did a bit of a[ChatGPT vs. Bing AI vs. Bard AI test](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , and Bard didn't impress. There are a lot of shortfalls we could talk about, but that's a discussion for another day. The good news, however, is that a bulk of those shortfalls could be fixed by opening up Bard to third-party services and other Google products.
@@ -37,6 +46,18 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 ## 4\. Image Prompting
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -47,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 ## 5\. Image Generation With Adobe Firefly
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -65,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/46df1e48b2f44db2d880f0d7735cdada8076c6dcb
 
 ## 7\. Improved Code Generation
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.

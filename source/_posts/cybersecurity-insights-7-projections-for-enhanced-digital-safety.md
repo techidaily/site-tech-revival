@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Insights: 7 Projections for Enhanced Digital Safety"
-date: 2024-07-22 15:35:49
-updated: 2024-07-24 10:18:36
+date: 2024-08-02T16:16:11.289Z
+updated: 2024-08-03T16:16:11.289Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,9 @@ It was also stated in the same report that:
 
 ## 2\. Increased Digital Supply Chain Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
@@ -45,6 +48,18 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
@@ -55,8 +70,14 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
@@ -81,6 +102,9 @@ It was also stated in the same report that:
 
 ## 6\. Further Exploit of Cloud Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
@@ -89,8 +113,14 @@ It was also stated in the same report that:
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Continued Topical Email Scams
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.

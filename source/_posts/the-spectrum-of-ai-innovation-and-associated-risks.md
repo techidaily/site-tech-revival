@@ -1,7 +1,7 @@
 ---
 title: The Spectrum of AI Innovation & Associated Risks
-date: 2024-07-23 16:17:12
-updated: 2024-07-25 10:23:13
+date: 2024-08-02T16:16:28.756Z
+updated: 2024-08-03T16:16:28.756Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -71,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:
@@ -95,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Shownotes
 
  This week, we chat about the following tech news that matters:

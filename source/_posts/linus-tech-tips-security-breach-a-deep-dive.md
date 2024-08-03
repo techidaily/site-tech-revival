@@ -1,7 +1,7 @@
 ---
 title: "Linus Tech Tips Security Breach: A Deep Dive"
-date: 2024-07-22 11:31:47
-updated: 2024-07-24 11:21:26
+date: 2024-08-02T16:15:52.815Z
+updated: 2024-08-03T16:15:52.815Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,11 @@ thumbnail: https://thmb.techidaily.com/2395f62512e2eb9ed87eb295beb17a1b7424b2aaa
 
 ## 1\. Increased AI-Powered Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
@@ -37,6 +42,9 @@ It was also stated in the same report that:
 
 ## 2\. Increased Digital Supply Chain Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
@@ -45,6 +53,9 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
@@ -55,6 +66,9 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
@@ -79,8 +93,14 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
@@ -91,6 +111,9 @@ It was also stated in the same report that:
 
 ## 7\. Continued Topical Email Scams
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.

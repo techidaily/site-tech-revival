@@ -1,7 +1,7 @@
 ---
 title: "Halt Siri Versus ChatGPT Comparison: What Sets Them Apart"
-date: 2024-07-24 11:46:53
-updated: 2024-07-25 11:59:24
+date: 2024-08-02T16:15:58.785Z
+updated: 2024-08-03T16:15:58.785Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ### Real-Time Updates
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 ### Engaging in Conversations
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
  One of the biggest reasons ChatGPT is as popular as it is today is its ability to engage in conversations, similar to how a human would converse.
@@ -47,8 +53,14 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Activation
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
 
  Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
@@ -59,6 +71,10 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Executing Basic Commands
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
@@ -81,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Both Siri and ChatGPT for the Best Results
 
  While they're both great in their own ways, there's a way you can get the best of both worlds! Here's a[detailed guide of how you can use ChatGPT with Siri](https://www.makeuseof.com/how-to-use-chatgpt-with-siri-on-iphone/) , but we'll do a quick overview for you here:
@@ -91,8 +110,14 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 4. Tap**\+ Create new secret key** .
 5. Tap on the**Copy** icon in green and press**OK** to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
@@ -106,6 +131,9 @@ Now:
 3. Paste your copied API key in the**Text** box and tap**Next** twice.
 4. Now, tap**Add Shortcut** at the end, and it will appear on the Shortcuts page of your app.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)

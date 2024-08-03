@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Changing DALL-E 3'S Output Into JPG and PNG Images
-date: 2024-07-27 12:47:38
-updated: 2024-07-28 11:14:59
+date: 2024-08-02T16:16:04.991Z
+updated: 2024-08-03T16:16:04.991Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  However, dig a little deeper, and notable differences become quickly apparent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is HuggingChat?
 
  We won't go into too much detail here, as by now, most people know[what generative AI chatbots are](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . But it is worth touching on, as this will help you understand some underlying differences between the two chatbots.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  Now, with HuggingChat, the waters are a bit murkier. If asked, HuggingChat will assure you that an account is required, as the image below confirms.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -47,6 +53,9 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
  Next, we will look at other metrics and capabilities and compare the responses.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Large Language Models (LLMs)
 
  The beating heart of any AI chatbot is the LLM. These are the underlying datasets used to generate human-like responses to prompts. Each tool uses a different LLM, as described below.
@@ -58,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/2058f819a1d231ffe8fa3c91a4af4cfd3ee338d92
 
 As you can see, HuggingChat answered this easily.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
@@ -74,6 +86,9 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
 
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
@@ -96,10 +111,16 @@ HuggingChat's summary looked like this:
 
  We asked both to compose a two-verse love song based on Romeo and Juliet. This was ChatGPT's response:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
 And this was HuggingChat's.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 Shakespeare himself would be impressed with both of these!
@@ -128,6 +149,9 @@ Shakespeare himself would be impressed with both of these!
 
  Ultimately, the choice between them will likely be driven more by user requirements than user preferences. As the tools are free and quick to access, checking both out is not a great hassle.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Are You a Hugger or a Chatter?
 
  These tools represent the future of human and machine interaction. Both are incredibly powerful, and it wasn't so long ago that the thought of having such tools at your fingertips would have seemed inconceivable.

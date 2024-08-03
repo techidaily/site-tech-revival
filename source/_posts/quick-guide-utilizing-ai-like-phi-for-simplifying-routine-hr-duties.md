@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: Utilizing AI Like Phi for Simplifying Routine HR Duties"
-date: 2024-07-23 20:26:32
-updated: 2024-07-25 12:24:16
+date: 2024-08-02T16:16:07.390Z
+updated: 2024-08-03T16:16:07.390Z
 tags:
   - chatgpt
   - open-ai
@@ -55,6 +55,9 @@ As you can see, there are several differences to consider.
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -89,10 +92,16 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Claude's Pros and Cons
 
 So, how does Claude compare to ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -117,6 +126,9 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
@@ -127,6 +139,9 @@ So, how does Claude compare to ChatGPT?
 
  Both ChatGPT and Claude provided poems that fit the parameters of the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
@@ -135,6 +150,9 @@ So, how does Claude compare to ChatGPT?
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
@@ -145,6 +163,9 @@ So, how does Claude compare to ChatGPT?
 
 When given the same problem, Claude gave us the following response:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
@@ -165,6 +186,9 @@ Claude's interpretation read...
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!

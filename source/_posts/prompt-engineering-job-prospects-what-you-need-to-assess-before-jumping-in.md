@@ -1,7 +1,7 @@
 ---
 title: Prompt Engineering Job Prospects – What You Need to Assess Before Jumping In
-date: 2024-07-22 21:53:24
-updated: 2024-07-25 12:24:49
+date: 2024-08-02T16:15:47.417Z
+updated: 2024-08-03T16:15:47.417Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 
  The results you get from ChatGPT are as good as the prompts you provide. Poor prompts mean poor responses. That's why we've put together a handy guide on some mistakes to avoid when using ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -29,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/c16b1e731514b90b733ef5726536377276b9f0da4
 
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
 
 ## 2\. Too Many Instructions In a Single Prompt
@@ -52,6 +59,9 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -62,6 +72,9 @@ You could use:
 
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 4\. Not Providing Context When Necessary
 
  Context plays a vital role in how ChatGPT responds to any given prompt. Even a minor shift in context can lead to significantly different responses. If no context is provided, your prompt becomes ambiguous, resulting in varied responses each time the same prompt is used. This lack of consistency may not be desirable when seeking precise answers because there's no way of knowing the right response. But how do you provide context, and when should you?
@@ -72,8 +85,14 @@ You could use:
 
  However, this was misinterpreted because no context was provided. After we provided context to ChatGPT by including additional information that the sentence should be interpreted from the context of someone talking about safety (which is what was discussed in the text it was copied from), ChatGPT provided the expected translation.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Not Using Examples
 
  Incorporating examples is a crucial aspect of[crafting effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . While not every prompt necessitates an example, when the opportunity arises, including one can greatly enhance the specificity and accuracy of ChatGPT's responses.
@@ -92,6 +111,9 @@ You could use:
 
  With examples to guide ChatGPT, the generated jokes became significantly better (a bit jealous that ChatGPT's jokes seem better than ours, though!). This first one was a joke about Taylor Swift.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
 And here's another one ChatGPT made when we prompted it with Jay-Z.

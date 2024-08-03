@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Walkthrough: Getting Started with Microsoft Copilot on Mac OSX"
-date: 2024-07-27 18:54:58
-updated: 2024-07-28 10:50:18
+date: 2024-08-02T16:16:32.821Z
+updated: 2024-08-03T16:16:32.821Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 ## Best Programming Assistant of 2023: GitHub Copilot or ChatGPT Takes on the Challenge
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is GitHub Copilot?](https://www.makeuseof.com/github-copilot-vs-chatgpt-which-better-programming/#what-is-github-copilot)
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  GitHub Copilot is an AI-powered code completion tool developed by GitHub in collaboration with OpenAI. With the power of GPT-4, it provides real-time code suggestions as you type, helping to streamline the coding process. It is a paid service that you can easily use with most popular environments, including Visual Studio, Visual Studio Code, Vim/Neovim, Azure Data Studio, and JetBrains.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is ChatGPT?
 
  ChatGPT is OpenAI's chat-optimized AI chatbot. While not specifically designed for programming assistance like GitHub Copilot, ChatGPT’s strength lies in its ability to comprehend and generate text in a manner that closely mimics human language.
@@ -60,12 +66,19 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 | Use Case              | Code writing and completion.                            | Text generation, concept clarification.                                      | Text generation, concept clarification.                                                                    |
 | Price (Monthly)       | 10 USD                                                  | 20 USD                                                                       | Free                                                                                                       |
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## GitHub Copilot Is Best for Programming
 
  The main reason to use GitHub Copilot for programming is its advanced code suggestions. By fine-tuning GPT-4 with a vast repository of code from open-source projects, and further customizing suggestions based on what you’re currently working on, GitHub Copilot provides code suggestions that fit your project.
 
  GitHub Copilot can save you a lot of typing by providing contextually correct suggestions:
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Advanced Code Completion with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/github-copilot-adavanced-code-suggestions.jpg)
 
  Aside from advanced code completion, you can also use GitHub Copilot for refactoring, helping you[write cleaner and better code](https://www.makeuseof.com/tag/10-tips-writing-cleaner-better-code/) . And since it’s integrated into your programming environment, it’s more quickly available than a web app like ChatGPT. This saves you time and concentration, especially over long coding sessions.
@@ -76,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  Your subscription to GitHub Copilot also comes bundled with GitHub Copilot Chat. You can use it to ask coding questions, debug your program, and generate new lines of code. GitHub Copilot Chat generates usable code that will be a good fit for your project:
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![Customized code generation with GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/generate-code-with-github-copilot.jpg)
 
  If your primary focus is on programming, and you're looking for a tool to help you with writing, debugging, and refactoring code, GitHub Copilot is the clear choice. Its ability to generate accurate and contextually relevant code snippets can significantly speed up development workflows and reduce coding errors.
@@ -96,14 +112,23 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
  If you’re looking at a snippet of code you don’t quite understand, you can also use ChatGPT to reverse engineer it:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Reverse engineering code snippet with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-explaining-code.jpg)
 
  When it comes to understanding concepts or getting a detailed explanation of a coding topic, ChatGPT excels. Its ability to generate human-like responses makes it an ideal learning tool that any programmer can use. Whether it's a complex algorithm or a programming principle you're trying to grasp, ChatGPT can break it down into understandable parts.
 
  What’s great about ChatGPT is that it offers a completely free version that you can use throughout your learning process. Of course, a paid subscription does have extra benefits like better response quality and plugins. But overall, as long as you[employ prompting techniques](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) , the free version should work fine as a learning tool.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## You Can Always Use Both
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using both ChatGPT and GitHub Copilot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/using-chatgpt-and-github-copilot.jpg)
 
  Why choose between GitHub Copilot and ChatGPT when you can use both to your benefit? Integrating these tools into your workflow can offer the best of both worlds.

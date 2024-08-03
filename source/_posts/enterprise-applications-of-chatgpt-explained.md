@@ -1,7 +1,7 @@
 ---
 title: Enterprise Applications of ChatGPT Explained
-date: 2024-07-21 13:46:45
-updated: 2024-07-24 12:33:28
+date: 2024-08-02T16:15:27.543Z
+updated: 2024-08-03T16:15:27.543Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 ## ChatGPT and Smart Technology
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![image of white google smart speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/white-smart-speaker.jpg)
 
  Many of us associate ChatGPT with its chatbot interface that's used to get facts,[write resumes](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , translate text, and even tell jokes. ChatGPT can be applied in so many ways, but what about smart technology? Can ChatGPT work with your smartphone, smart speaker, and similar devices?
@@ -27,6 +30,18 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  But to make ChatGPT useful in a smart home, things can't stop at one device alone. ChatGPT must be able to recognize and communicate with other smart devices, such as lights, locks, heating, and other appliances. So, is this possible yet?
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can ChatGPT Work In Smart Homes?
 
  As you may know, ChatGPT is a language processing tool, and is therefore trained to understand natural human language. The main service processes natural language in text form, but there are extensions that let you communicate with ChatGPT using your voice, such as[Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) . This allows you to supply ChatGPT with prompts using your voice instead of text inputs.
@@ -45,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  In the above video, you'll see Josh being asked to open blinds, give the local weather forecast, and even provide sleep advice. Josh also answered more complex questions, like which museums in California feature Andy Warhol. While this is still a work in progress, there's a lot of potential for ChatGPT to show off its skills within smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Using ChatGPT to Create a Smart Home Integration
 
  You can also[use ChatGPT to write code](https://www.makeuseof.com/best-vs-code-chatgpt-extensions/) for a smart home integration.
@@ -53,12 +71,18 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  We asked ChatGPT if it could write some code for smart home integration, and it was happy to help. In fact, ChatGPT provided detailed instructions on how to use a Python-based code template for Home Assistant.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt chat response featuring code example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-0.jpg)
 
  As you can see above, ChatGPT provided an example of integration code you can use with Home Assistant, as well as steps on how to get it working for you. You'll need to install the "python-openai" library, which first requires you to access your own ChatGPT API key.
 
  Below the code template are additional steps on how to personalize it to fit your preferences. This includes adding your API key and your ChatGPT assistant model ID.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt smart home integration instructions in chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-1.jpg)
 
  With the Home Assistant tool, you can integrate ChatGPT into Google Nest. If you want to integrate into Alexa, ChatGPT offers instructions using the Alexa Skills Kit and AWS Lambda. To integrate into Cortana, ChatGPT can help you use code via the Bot Framework. Evidently, there are a lot of different smart home assistants that can function with ChatGPT's capabilities.
@@ -75,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
  But ChatGPT-enabled smart assistants may one day be widespread, allowing you to carry out all sorts of tasks using this nifty AI tool.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT May One Day Control Your Smart Home
 
  ChatGPT is representative of how versatile one AI system can be. With just a little coding, this language processing tool can be integrated into your smart home on a range of virtual assistants. In the near future, commercial ChatGPT integration may also be available, streamlining the process for those who aren't too tech-savvy.

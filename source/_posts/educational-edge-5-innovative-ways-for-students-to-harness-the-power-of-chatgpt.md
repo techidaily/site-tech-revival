@@ -1,7 +1,7 @@
 ---
 title: "Educational Edge: 5 Innovative Ways for Students to Harness the Power of ChatGPT"
-date: 2024-07-23 12:54:22
-updated: 2024-07-26 12:53:20
+date: 2024-08-02T16:16:21.442Z
+updated: 2024-08-03T16:16:21.442Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -46,12 +49,18 @@ thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
 
 [ChatGPT's Memory](https://help.openai.com/en/articles/8590148-memory-faq) allows you to set specific information it should always remember about you. But that's not all. Over time, its memory can improve, learn details about you to add to its memory, and deliver improved accuracy and performance based upon this.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
@@ -62,10 +71,16 @@ thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
@@ -84,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c
 
  If the person you invite to trial ChatGPT is put off by the credit card sign-up, you could share your ChatGPT conversation with them instead.[ChatGPT's shared links launched in May 2023](https://www.makeuseof.com/what-are-chatgpt-shared-links-how-do-they-work/) and offer a way for ChatGPT users to share conversations outside the confines of the web interface or the smartphone app.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.

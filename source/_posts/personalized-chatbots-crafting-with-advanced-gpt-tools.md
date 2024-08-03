@@ -1,7 +1,7 @@
 ---
 title: "Personalized ChatBots: Crafting with Advanced GPT Tools"
-date: 2024-07-21 18:33:27
-updated: 2024-07-24 10:13:36
+date: 2024-08-02T16:15:47.395Z
+updated: 2024-08-03T16:15:47.395Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 
  The app allows you to control ChatGPT via voice commands. Not only can you record your query with voice input, but you can also use it to perform a variety of tasks within the ChatGPT interface, even when you're on the go. Let's take a closer look at how you can set up and use VoiceGPT on your Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is VoiceGPT?
 
  VoiceGPT is a multi-functional app that helps you access and control ChatGPT through voice commands. It can perform a wide range of functions, such as text extraction, email writing, or image generation (via DALL-E integration). We'll take a closer look at some of its functionalities in the sections below.
@@ -42,10 +45,19 @@ thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed9
 5. Once done, speak your query into the app—whatever you say will appear on the ChatGPT interface integrated with the app.
 6. To set the mic to be automatically reactivated, toggle on**Auto Reactivate Microphone** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enable hey chat hotword](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set up voice input in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![voice inputs in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs2.jpg)
 
 Close
@@ -54,6 +66,11 @@ Close
 
  Interestingly, you can also use VoiceGPT as the default device assistant if you want to quickly access the app itself. To do this, tap**Home > Settings > Set default Assistant** . This automatically opens up the device assistance settings—just choose**VoiceGPT** from the list of options available.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## How to Access a Database of Pre-Defined Prompts With VoiceGPT
 
  One of the most exciting features offered by the app is a comprehensive database of pre-defined and custom prompts to help you make the most of the AI tool.
@@ -72,6 +89,9 @@ Close
 
  These prompts range across various categories including coding, music, education, games, travel, email writing, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Third-Party Integrations With VoiceGPT
 
  VoiceGPT isn't only useful when it comes to voice commands. You can also take advantage of its other non-voice integrations, such as extracting text from images, executing code snippets, and generating images with DALL-E 2\. Let's take a look at these features below.
@@ -84,6 +104,9 @@ Close
 
  For instance, you can use the RunGPT integration to pull up a random password or write out a script. Once done, tap**Run** in the ChatGPT interface to generate your output.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
 ![Coding prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt3.jpg)
@@ -100,6 +123,9 @@ Close
 
  Simply describe the kind of image you want with detailed prompts.[DALL-E will then generate a few AI-based images](https://www.makeuseof.com/how-to-use-dall-e-2/) that closely match your description.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Confirmation screen for DALL-E2 in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e1.jpg)
 
 ![Dall-e2 interface in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e2.jpg)
@@ -114,14 +140,23 @@ Close
 
 ![ocr in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Image editor in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OCR results generated in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr3.jpg)
 
 Close
 
  Undoubtedly, this feature can be a powerful time saver for anyone who needs to extract text from various sources, such as business cards, posters, flyers, or receipts. You can also check out[these OCR apps for your smartphone](https://www.makeuseof.com/tag/best-android-ocr-apps-extracting-text-images/) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Get More Done With ChatGPT via Voice Commands
 
  VoiceGPT is a handy app that offers voice-controlled access to the popular ChatGPT model. You can automate certain tasks and make tasks a lot simpler by simply speaking out your requests.

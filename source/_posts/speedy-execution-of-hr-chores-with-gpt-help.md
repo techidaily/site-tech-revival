@@ -1,7 +1,7 @@
 ---
 title: Speedy Execution of HR Chores with GPT Help
-date: 2024-07-21 12:18:10
-updated: 2024-07-24 11:17:44
+date: 2024-08-02T16:16:09.837Z
+updated: 2024-08-03T16:16:09.837Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
  If you're looking to buy AI prompts or even sell some prompts of your own, you may find AI prompt marketplaces useful—but which is the best AI prompt platform?
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1.[PromptBase](https://promptbase.com/)
 
 ![screenshot of promptbase website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-base-1.jpg)
@@ -39,8 +42,14 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
  To sell a prompt, PromptBase requires you to provide a prompt name, type, description, and price. Then, you'll need to directly paste your prompt into the provided box. PromptBase will test the prompt to see if it's legitimate, and if everything checks out, you can go ahead and list your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2.[PromptHero](https://prompthero.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![prompthero website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-hero-1.jpg)
 
  PromptHero offers a fairly similar service to PromptBase. This prompt marketplace offers prompts for ChatGPT, Midjourney, Openjourney, and Stable Diffusion. These prompts can be used for all kinds of purposes, including photography, anime, architecture, fashion, interior design, logos, and icons. If you want a general browse, you can also take a look at PromptHero's Featured, Hot, New, and Top categories.
@@ -51,8 +60,14 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
  A particularly interesting feature offered by Prompt Hero is its Jobs section. This page lets you search for AI jobs, whether remote or in-house, which is great for those with skills in AI. You can use PromptHero to access the application portal for the job you desire, and you can also view the salary, contract term, or hourly rate.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[ChatX](https://chatx.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatx website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-website.jpg)
 
  ChatX offers free and paid prompts for ChatGPT, Midjourney, and DALL-E 2\. When you arrive at the homepage of ChatX, you've got two options. You can head to the general prompt marketplace or ChatX's prompt generator. If you want to find preexisting prompts, head to the general prompt marketplace. If you want a specific prompt created on your behalf, head to the prompt generator.
@@ -61,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/3e4359dd584ef6e6b8909874d88727d66b87bd9dc
 
  On the other hand, if you opt for ChatX's ChatGPT or Midjourney prompt generator, you can have text-based prompts created on your behalf for free.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chat x chatgpt prompt generator screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-generator.jpg)
 
  Simply describe what you want the AI model to act as and produce, and you'll be provided with a text prompt to download for future use.
@@ -89,12 +107,18 @@ So, how do you know what you're buying?
 
  When you see a prompt bundle you're interested in on Etsy, click on the listing and read the item details. This is crucial to determine what kind of prompts you're purchasing here. The title will likely indicate the type or theme of the prompts included, but you can usually access more information in the item details section.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![highlighted item details section on etsy product page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-item-page-1.jpg)
 
  If you want to buy just a handful of AI prompts or something highly specific, Etsy may not be the right platform. Don't forget that Etsy isn't a dedicated AI prompt marketplace designed for finding and searching for prompts specifically.
 
 ## 6.[AIPRM](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatgpt interface with aiprm plugin active](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-aiprgm-plugin.jpg)
 
  AIPRM isn't a website-based marketplace. Rather, it is a free Chrome extension that lets you access useful ChatGPT prompts while using the ChatGPT interface.
@@ -114,6 +138,9 @@ So, how do you know what you're buying?
 
 ## 7.[FlowGPT](https://flowgpt.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screennshot of flowgpt website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/flow-gpt-site.jpg)
 
  FlowGPT offers a range of useful AI services, including a prompt marketplace for ChatGPT users. FlowGPT's marketplace works a little differently from your standard prompt marketplace, with the option to actually interact with a wide range of AI chatbots using GPT.

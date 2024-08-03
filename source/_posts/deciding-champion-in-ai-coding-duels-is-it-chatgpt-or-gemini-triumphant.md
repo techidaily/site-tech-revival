@@ -1,7 +1,7 @@
 ---
 title: "Deciding Champion in AI Coding Duels: Is It ChatGPT or Gemini Triumphant?"
-date: 2024-07-27 15:14:29
-updated: 2024-07-28 11:55:26
+date: 2024-08-02T16:16:00.507Z
+updated: 2024-08-03T16:16:00.507Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  If you’re stuck on a programming project, you may go looking for a tool to help you brainstorm ideas, write clean code, or explain a tricky concept. Which AI chatbot do you choose: the swift and informative Gemini, or the comprehensive and powerful ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Language Support
 
  When it comes to language support, ChatGPT outshines Gemini in breadth and proficiency. While Gemini officially supports around 22 popular programming languages—including Python, Go, and TypeScript—ChatGPT's language capabilities are far more extensive.
@@ -39,6 +43,9 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  ChatGPT (GPT-4o) produced functional code with a "good enough" aesthetic. Using ChatGPT's code, you can add or delete a task. Here's what I got after running ChatGPT's result on the browser:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Todo list app by OpenAI's ChatGPT (GPT-4o)](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/todo-list-app-by-openai-s-chatgpt-gpt-4o.png)
 
  Next, I asked Google's Gemini to repeat the same task. Gemini was also able to generate a functional to-do list app. You could also add and delete tasks, but the overall design was not as attractive:
@@ -53,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  I tried a few other basic coding tasks, and in all instances, ChatGPT's solution was clearly the better option.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Debugging and Error Detection
 
  Errors and bugs are like puzzles that programmers love to hate. They'll drive you crazy, but fixing them is quite satisfying. So when you run into bugs in your code, should you call on Gemini or ChatGPT for help? It may depend on[the type of error](https://www.makeuseof.com/avoid-programming-errors/) you’re trying to avoid.
@@ -63,16 +73,30 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 
  The code in this screenshot runs and even produces the right result in many cases. However, it has several logic errors that are not immediately apparent; can you spot them? I asked Gemini for help and, unfortunately, the chatbot couldn't pick out the logical error in the code:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Gemini fails to spot a logical error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gemini-fails-to-spot-a-logical-error.png)
 
  None of Gemini’s three attempts at solving the problem were accurate. I tried a similar problem six months ago with the same disappointing result; it seems Gemini has not improved in this area.
 
  I then asked ChatGPT for help, and it immediately picked out the logical error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![ChatGPT spots logical error in code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-spots-logical-error-in-code.png)
 
 Gemini also rewrote the code to fix the error:
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT rewrites code to fix logical error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-rewrites-code-to-fix-logical-error.png)
 
  After trying a few other bug-hunting and fixing tasks, ChatGPT was clearly better at the job. Gemini wasn't totally a lost cause, though. It was able to fix a lot of syntax errors I threw at it, but it struggled with complex errors, especially logical errors.
@@ -111,14 +135,25 @@ And here is the result from ChatGPT:
 
  Since Google Gemini has pretty much lost in every metric I used for comparison, I decided to give it a chance at redemption. I asked the chatbot "**Which is better at coding? ChatGPT or Gemini?** " Here is its reply:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![Gemini answers a question about itself](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gemini-answers-a-question-about-itself.png)
 
  Seems like something I would partly agree with! I asked ChatGPT what it thought of the assessment and it agreed:
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![ChatGPT agrees with Gemini's assessement of its abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-agrees-with-gemini-s-assessement-of-its-abilities.png)
 
  Now, while this seems quite normal, there's an interesting twist here. Throughout most of last year, Gemini (then Bard) always confidently asserted it could produce better code, was more efficient, and made fewer mistakes. Here is a screenshot from one of my tests in November 2023:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Google Bard boast of being better than ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-bard-boost-of-being-better-than-chatgpt.jpg)
 
 It seems that Gemini is now a little more self-aware and modest!
@@ -131,6 +166,9 @@ It seems that Gemini is now a little more self-aware and modest!
 
  For example, the Custom GPT feature can help you create specialized mini versions of ChatGPT for particular projects, by uploading relevant files. This makes tasks like debugging code, optimization, and adding new features much simpler. Overall, compared to Google's Gemini, ChatGPT includes more features that can enhance your programming experience.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT Is in a League of Its Own
 
  Google's Gemini has enjoyed a lot of hype, so it may come as a surprise to see just how much it lacks in comparison to ChatGPT. While ChatGPT clearly had a head start, you might think Google's massive resources would help it erode that advantage.

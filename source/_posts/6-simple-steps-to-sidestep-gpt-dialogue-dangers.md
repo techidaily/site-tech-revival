@@ -1,7 +1,7 @@
 ---
 title: 6 Simple Steps to Sidestep GPT Dialogue Dangers
-date: 2024-07-25 11:11:17
-updated: 2024-07-26 10:52:36
+date: 2024-08-02T16:16:31.262Z
+updated: 2024-08-03T16:16:31.262Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
@@ -33,8 +36,14 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
  Here's a guide on[how to create your first custom GPT](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) if you're not sure how to.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Translation Tool
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
@@ -51,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
@@ -61,8 +74,23 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
 **Try this GPT** :[K-Drama Hero](https://chat.openai.com/g/g-WhObLzfn5-k-drama-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 5\. Interactive Text and Image Games
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
@@ -87,6 +115,9 @@ thumbnail: https://thmb.techidaily.com/6612d7a6b7e8b44ce845a24c9c71af5e69ea9f37b
 
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)

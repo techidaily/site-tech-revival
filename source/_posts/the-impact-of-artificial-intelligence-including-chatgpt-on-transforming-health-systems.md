@@ -1,7 +1,7 @@
 ---
 title: The Impact of Artificial Intelligence, Including ChatGPT, on Transforming Health Systems
-date: 2024-07-22 14:29:49
-updated: 2024-07-23 10:48:52
+date: 2024-08-02T16:16:00.193Z
+updated: 2024-08-03T16:16:00.193Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,14 @@ thumbnail: https://thmb.techidaily.com/35d94d879f36ec99317b8846f11d26f9aaf2a40f8
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Building Your Vocabulary
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
@@ -41,8 +47,15 @@ thumbnail: https://thmb.techidaily.com/35d94d879f36ec99317b8846f11d26f9aaf2a40f8
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 3\. Practice Conversational Skills
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
@@ -59,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/35d94d879f36ec99317b8846f11d26f9aaf2a40f8
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
@@ -74,6 +90,9 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
@@ -90,6 +109,9 @@ Here's how you can create your own personalized tests:
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
  The problem with language learning apps is that you often feel like you're all on your own. This isn't something you'll run into when you use ChatGPT. Since it's all about conversation and the constant back and forth, you feel like you're discussing your issues with a partner. If you're someone who prefers an interactive experience while learning, GPT-4 is worth checking out.

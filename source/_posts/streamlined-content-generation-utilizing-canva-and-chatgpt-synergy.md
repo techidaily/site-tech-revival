@@ -1,7 +1,7 @@
 ---
 title: "Streamlined Content Generation: Utilizing Canva and ChatGPT Synergy"
-date: 2024-07-25 14:32:21
-updated: 2024-07-26 11:55:27
+date: 2024-08-02T16:16:00.856Z
+updated: 2024-08-03T16:16:00.856Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,9 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI's ChatGPT Plus offers a new feature called GPT Mentions, allowing users to combine multiple custom GPTs in one conversation.
@@ -28,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
  OpenAI's premium version of ChatGPT, known as ChatGPT Plus, offers users a range of extra features in exchange for the monthly subscription fee. ChatGPT Plus's newest feature, GPT call-outs or mentions, may prove very useful to you if you use various GPTs within the ChatGPT interface. So, how does this feature work, and how can it benefit you?
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## What Is ChatGPT's GPT Mentions Feature?
 
  As a ChatGPT Plus member, you can[enjoy custom GPTs from the Custom GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) . These are versions of ChatGPT that are tailored to help with specific tasks. Some[popular custom GPTs](https://www.makeuseof.com/best-custom-gpts/) include...
@@ -44,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 So, how can you use this?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
@@ -62,6 +71,9 @@ So, how can you use this?
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt custom gpt callout feature working with canva prompt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-talking-canva.png)
 
  Of course, if you're not happy with Canva's initial response, you can make more specific requests to highlight what you're looking for. Maybe you want a specific font, or want a certain phrase used in the text of the graphic. Just ask, and the custom GPT should be able to comply.
@@ -72,10 +84,16 @@ So, how can you use this?
 
  To demonstrate this, we asked KAYAK GPT to find us the best spots to stay in Germany, as well as upcoming flights.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![screenshot of kayak prompt result with chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-kayak-result.png)
 
  After getting the results, we added the All Trails GPT to the chat using the GPT Mentions feature, and asked it to find trails near the hotels that KAYAK previously recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 Now, we have hotels, flights, and trails for our trip all in one chat!

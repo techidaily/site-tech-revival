@@ -1,7 +1,7 @@
 ---
 title: "Unveiling ChatGPT's Native Tools: Functions and Potential Uses"
-date: 2024-07-22 20:26:10
-updated: 2024-07-24 12:27:48
+date: 2024-08-02T16:16:40.818Z
+updated: 2024-08-03T16:16:40.818Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  These updates, among others, have seen companies rush to integrate GPT-4 into their apps and services. So, let's look at the first apps to take advantage of GPT-4.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Duolingo
 
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
@@ -29,6 +32,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  There are plenty of[language learning apps to choose from](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) , and developers are always looking for innovative ways to improve their products. Duolingo's early uptake of GPT-4 allowed them to roll out a new app called[Duolingo Max](https://blog.duolingo.com/duolingo-max/) , which brings two new GPT-4 enabled features.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshots from Duolingo Max](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshots-from-duolingo-max.jpg)
 
  Image Credit:[Duolingo](https://blog.duolingo.com/duolingo-max/)
@@ -52,14 +58,32 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Be My Eyes Virtual Volunteer is in beta testing; the company hopes to roll it out to the public soon. It will be available for free to all blind and low-vision members on both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Khan Academy
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
 
  On the topic of worthwhile causes, another early adopter of GPT-4 is Khan Academy, a[free online course platform](https://www.khanacademy.org/signup) . This non-profit organization's mission statement is to offer free, world-class education to anyone.
 
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a[Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### How Does Khan Academy Use GPT-4?
 
  Khan Academy is quick to point out that this tool will not give students answers to questions. Rather, it is intended to use AI to walk them through the steps to arrive at the correct answer, with GPT-4 leading them on.
@@ -81,6 +105,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join[Khan Academy](https://www.khanacademy.org/signup) .
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Stripe
 
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
@@ -89,6 +116,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  OpenAI—the brains behind the brains of GPT-4—is already in collaboration with Stripe. Now, Stripe is integrating GPT-4 into its platform. The company already used GPT-3 for simple tasks, but integrating GPT-4 means AI will play a bigger role in the company's processes.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How Stripe Intends to Use GPT-4
 
  Details of the roles GPT-4 will play are sketchy at the moment. However,[Stripe](https://openai.com/customer-stories/stripe) has reportedly looked at 50 potential uses, of which 15 were strong enough candidates.
@@ -101,6 +131,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatSonic
 
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
@@ -137,6 +170,9 @@ Close
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### What Can You Use the Bing AI App For?
 
  This is an app that can be used as a personal assistant in so many different ways. Among the capabilities of Bing AI are:
@@ -154,6 +190,15 @@ Close
 
 ## 7\. Petey
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
 
  Image Credit: Petey Assistant
@@ -170,6 +215,9 @@ Close
 
 **Download** :[Petey](https://apps.apple.com/us/app/petey-ai-assistant/id6446047813) for iOS ($3.99 Premium version required for GPT-4)
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## GPT-4: A New Level of Artificial Intelligence
 
  These apps represent the tip of a huge GPT-4 iceberg. As more developers unlock the power of GPT-4, there will be many apps to follow. These will likely emulate many of the features and uses we mentioned. But what is more exciting is the companies looking to explore new and imaginative uses for a fledgling technology.

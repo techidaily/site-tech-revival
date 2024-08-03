@@ -1,7 +1,7 @@
 ---
 title: How To Access Advanced ChatGPT Functions in the Beta Version with Browser Integration
-date: 2024-07-24 23:50:10
-updated: 2024-07-27 11:32:56
+date: 2024-08-02T16:15:47.852Z
+updated: 2024-08-03T16:15:47.852Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ Let's see how you can install and use GPT4All on your Windows PC.
 * Since it only relies on your PC, it won't get slower, stop responding, or ignore your prompts, like ChatGPT when its servers are overloaded.
 * GPT4All allows you to add your documents to its "knowledge pool" effortlessly. It can then present information from them in its answers, turning it into a true personal assistant that "knows about your stuff" instead of a generic chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is This Basically Like Installing ChatGPT Locally?
 
  Whether you're arguing with a chatbot or using a service like Copilot to help you write code effortlessly, you're interacting with a large language model (LLM). If you're unfamiliar with the term, check out our article on[what LLMs are and how they work](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) .
@@ -49,10 +52,16 @@ Let's see how you can install and use GPT4All on your Windows PC.
  GPT4All is available for Windows, macOS, and Ubuntu. For this article, we'll be using the Windows version.
 
 1. Download the**Windows Installer** [from GPT4All's official site](https://gpt4all.io/index.html) .  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT4All Download Windows Installer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-download-windows-installer.jpg)
 2. Run the downloaded application and follow the wizard's steps to install GPT4All on your computer.  
 ![GPT4All Setup](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-setup.jpg)
 3. GPT4All's installer needs to download extra data for the app to work. So if the installer fails, try to rerun it after you grant it access through your firewall.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT4All Installer Downloading Component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-installer-downloading-component.jpg)
 4. When you eventually find yourself looking at GPT4All's interface, you will also have to download a Language Model to use it. GPT4All will present you with a list of available models. Check its size (next to its name) to ensure you have enough RAM or VRAM to run it. When you decide on a model, click its**Download** button to have GPT4All download and install it.  
 ![GPT4All Model Size and Download Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-model-size-and-download-button.jpg)
@@ -66,6 +75,9 @@ Let's see how you can install and use GPT4All on your Windows PC.
  With GPT4All installed and some LLMs downloaded, you can now start chatting with your own AI chatbot.
 
 1. Use the drop-down menu at the top of the GPT4All's window to select the active Language Model.  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Language Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-language-model-selection.jpg)
 2. Use the**burger icon** on the top left to access GPT4All's control panel.  
 ![GPT4All Options Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-options-panel.jpg)
@@ -74,24 +86,54 @@ Let's see how you can install and use GPT4All on your Windows PC.
 4. The**Updates** button lets you update the application and add or remove components.  
 ![GPT4All Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-update.jpg)
 5. The**Downloads** button gives you access to the**Language Models** panel.  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-download.jpg)
 6. You can use the**Language Models** panel to install new LLMs, remove installed ones, and change their download path.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Language Model Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-language-model-management.jpg)
 7. Chatting with an LLM in GPT4All is similar to ChatGPT's online version. Type something in the**entry field** at the bottom of GPT4All's window, and after pressing Enter, you will see your prompt in GPT4All's main view. The selected Language Model's response will appear below your prompt.  
 ![GPT4All Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chatting.jpg)
 8. Like with ChatGPT, if you don't like an LLM's response as it's generated on your screen, you can click on the**Stop Generating** button to interrupt the process.  
 ![GPT4All Stop Generating Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-stop-generating-response.jpg)
 9. Similarly, if you don't like an already generated response and want to see an alternative take, you can click the**Regenerate Response** button, which appears on the same spot.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![GPT4All Regenerate Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-regenerate-response.jpg)
 10. Note that GPT4All also allows you access to what's known as**Unrestricted** language models. Those don't come with artificial limitations. This "freedom" supposedly "liberates" and "empowers" them to be more creative and offer more factual responses. However, it also means they may produce offensive output.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT4All Unrestricted Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-unrestricted-language-model.jpg)
 11. The two first buttons on the top right of the app allow you to**reset** a conversation or**copy** it to the clipboard to paste it elsewhere.  
 ![GPT4All Reload and Copy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-reload-and-copy.jpg)
 12. The third button (with a cogwheel icon) gives you access to GPT4All's**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![GPT4All Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-settings.jpg)
 13. The**Generation** tab of GPT4All's Settings allows you to configure the parameters of the active Language Model. By changing variables like its**Temperature** and**Repeat Penalty** , you can tweak its creativeness, conciseness, and so on.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Generation Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-generation-variables.jpg)
 14. The**Application** tab allows you to choose a**Default Model** for GPT4All, define a**Download path** for the Language Model, assign a specific number of**CPU Threads** to the app, have every chat automatically saved locally, and enable its internal**web server** to have it accessible through your browser.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT4All Application Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-application-options.jpg)
 
 ## Chatting With Your Documents With GPT4All
@@ -109,14 +151,43 @@ Let's see how you can install and use GPT4All on your Windows PC.
 5. You can manage your external documents through GPT4All's**Collections** button.  
 ![GPT4All Collections Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-collections-button.jpg)
 6. You can add multiple document collections to GPT4All. It's better, though, instead of having them all active all the time, dragging GPT4All's performance down to control**which** group of documents ("collection") you want active from the**Collections** panel.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![GPT4All Available Collections Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-available-collections-panel.jpg)
 7. After you add some documents and enable their collection, GPT4All will tell you that it's**processing** them after a prompt.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Processing User s Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-processing-user-s-documents.jpg)
 8. Each time GPT4All presents a response that pulls data from your documents, it will offer a list of**references** and**context links** under the response.  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Response from User's Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-from-user-s-documents.jpg)
 9. By clicking a**context link** , GPT4All will show you a snippet of text from your documents that it used for its response.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Your Own ChatGPT on Windows
 
  GPT4All and the language models you can use through it might not be an absolute match for the dominant ChatGPT, but they're still useful.

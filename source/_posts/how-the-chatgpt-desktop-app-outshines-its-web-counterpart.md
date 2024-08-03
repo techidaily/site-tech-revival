@@ -1,7 +1,7 @@
 ---
 title: How the ChatGPT Desktop App Outshines Its Web Counterpart
-date: 2024-07-26 10:48:33
-updated: 2024-07-28 11:55:25
+date: 2024-08-02T16:15:58.151Z
+updated: 2024-08-03T16:15:58.151Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
 ## ChatGPT Unleashed on Desktop - Explore How It Outshines Its Online Alternative
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [How to Get ChatGPT for macOS](https://www.makeuseof.com/features-make-chatgpt-desktop-app-better-than-website/#how-to-get-chatgpt-for-macos)
@@ -32,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
  I've been using the ChatGPT desktop app for a little while now, and despite my first impressions, it's clear it's better than ChatGPT's website version in almost every way.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## How to Get ChatGPT for macOS
 
  macOS, iOS, and Android are the only OSs that have a native ChatGPT app so far. OpenAI says it will bring apps to other platforms in the future but hasn't yet disclosed when. While you can get the official app on Android and iOS from their respective app stores, the ChatGPT app doesn't yet have a version for the Mac App Store. Therefore, you should[avoid any ChatGPT apps on the Mac App Store](https://www.makeuseof.com/why-avoid-chatgpt-apps-on-mac-app-store/) because they'd likely be reskins or fakes.
@@ -47,6 +54,11 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 3. Select**Download the macOS** app and choose**Download** when the prompt appears
 4. Run the dmg file from Finder and install ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![ChatGPT website with the profile menu open](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-11-01-12-am.png)
 
  Of course, after installation, you should log in with your Plus or Team account to access the desktop app.
@@ -55,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
  The desktop app offers a few extra features over the website, but the strongest and most obvious two are Voice Mode and the launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Screenshot 2024-06-26 at 11.29.36 AM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-11-29-36-am.png)
 
  If you use ChatGPT on your phone, you're likely already familiar with Voice Mode. It allows you to talk to ChatGPT with your voice as it responds and transcribes the entire conversation. You can activate it on your Mac by clicking the headphones button on the right side of the input box.
@@ -63,6 +78,9 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
  The launcher, however, is a unique-to-macOS feature that lets you use a shortcut (**Option** +**Space** ) to open a small prompt box. Enter your queries, and you can reach ChatGPT anywhere on your Mac. I've grown quite fond of it, and that's the sole reason I now use the desktop app instead of the website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## The ChatGPT App Can Also Access Your Apple Photo Library, Take Screenshots, and Use the Webcam
 
  After the big two features, Voice Mode and the launcher, a few useful features still earmark the Mac app from the website. OpenAI took advantage of the direct permissions an app can have on macOS and has expanded the options for uploading media.
@@ -77,6 +95,9 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 
  All these media features are in the attachment menu on the left side of the input box, both on the launcher and in the app. Just click the**paperclip icon,** and all media options appear in the small menu. Of course, you'll need to give ChatGPT permissions the first time you use them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Is It Worth Using the ChatGPT Desktop Version?
 
  Apart from the launcher, the desktop version of ChatGPT is similar to the ones on Android and iOS. Taking photos and handling media (on a small scale) is also much easier on a phone than on a computer. However, some of these features were unavailable on desktop, and this app has remedied that.

@@ -1,7 +1,7 @@
 ---
 title: How Excel Surpasses GPT-Based Interaction
-date: 2024-07-22 13:20:13
-updated: 2024-07-25 12:18:34
+date: 2024-08-02T16:16:26.811Z
+updated: 2024-08-03T16:16:26.811Z
 tags:
   - chatgpt
   - open-ai
@@ -21,12 +21,18 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  Let's take a step back and give you an insight into all there is to know about the app's underlying working mechanisms.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What's a ChatGPT Token?
 
  If you go by the app's façade, all you see is a computer language that obeys your commands and gives you the answers you seek. However, the backend is just lots of code, learning every minute, and getting up to speed with the questions it answers.
 
  ChatGPT converts each word into a legible token whenever you ask a question. To break it down further, tokens are text fragments, and each programming language uses a different set of token values to understand the requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Comparison operators and boolean logic with cpp](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/cpp-coding-samples.jpg)
 
  Since computers don't understand text values directly, they break them down into a combination of numbers, often called embeddings. You can even consider embeddings like[Python lists](https://www.makeuseof.com/tag/arrays-lists-in-python/) , which resemble a list of related numbers, such as \[1.1,2.1,3.1,4.1…n\].
@@ -59,8 +65,14 @@ Let's enter some sample text, such as:
 
  To give you a flavor of what's what within the ChatGPT application, OpenAI offers you a free limited token subscription. If you want to experiment with the ChatGPT API, use the free $5 credit, which is valid for three months. Once the limit is exhausted (or the trial period is up), you can pay-as-you-go, which increases the maximum quota to $120.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![OpenAI dashboard with credit usage graph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/token-dashboard-openai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### ChatGPT Plus: Is the Paid Subscription Worth It?
 
  To take it up a notch, you can even sign up for the[ChatGPT Plus Offer](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) , which sets you back by $20 a month. Given the extensive usage and popularity of the entire AI model, here are the top features of the paid subscription model:
@@ -73,6 +85,9 @@ Let's enter some sample text, such as:
 
 ## ChatGPT Token Pricing Structure
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Set of black opened envelope and cash dollars](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-karolina-grabowska-4386370.jpg)
 
  There are a few different application models available, which you can choose based on your requirements:
@@ -113,6 +128,9 @@ Let's enter some sample text, such as:
 
  For example, within the ChatGPT model, the**prompt\_tokens + max\_tokens <= 4096** tokens**.**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Learn to Control Your ChatGPT Prompts for Best Results
 
  No matter how you use the AI-driven application, chances are you will have to devise ways to play smartly with your questions and phrases. Depending on your usage patterns, you will likely use ChatGPT extensively for every task.

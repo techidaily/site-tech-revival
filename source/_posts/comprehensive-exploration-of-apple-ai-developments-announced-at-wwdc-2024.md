@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Exploration of Apple AI Developments Announced at WWDC 2024
-date: 2024-07-24 16:21:50
-updated: 2024-07-26 10:18:56
+date: 2024-08-02T16:15:32.315Z
+updated: 2024-08-03T16:15:32.315Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,28 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  If you're looking to buy AI prompts or even sell some prompts of your own, you may find AI prompt marketplaces useful—but which is the best AI prompt platform?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 1.[PromptBase](https://promptbase.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of promptbase website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-base-1.jpg)
 
  PromptBase offers over 100,000 AI prompts for various popular models, including MidJourney, DALL-E, ChatGPT, and Stable Diffusion. This doesn't stop at text prompts alone. PromptBase has logo and icon prompts, art prompts, gaming prompts, and photography prompts for all the creatives out there.
@@ -39,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  To sell a prompt, PromptBase requires you to provide a prompt name, type, description, and price. Then, you'll need to directly paste your prompt into the provided box. PromptBase will test the prompt to see if it's legitimate, and if everything checks out, you can go ahead and list your prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 2.[PromptHero](https://prompthero.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![prompthero website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-hero-1.jpg)
 
  PromptHero offers a fairly similar service to PromptBase. This prompt marketplace offers prompts for ChatGPT, Midjourney, Openjourney, and Stable Diffusion. These prompts can be used for all kinds of purposes, including photography, anime, architecture, fashion, interior design, logos, and icons. If you want a general browse, you can also take a look at PromptHero's Featured, Hot, New, and Top categories.
@@ -53,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
 ## 3.[ChatX](https://chatx.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatx website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-website.jpg)
 
  ChatX offers free and paid prompts for ChatGPT, Midjourney, and DALL-E 2\. When you arrive at the homepage of ChatX, you've got two options. You can head to the general prompt marketplace or ChatX's prompt generator. If you want to find preexisting prompts, head to the general prompt marketplace. If you want a specific prompt created on your behalf, head to the prompt generator.
@@ -61,6 +90,9 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
  On the other hand, if you opt for ChatX's ChatGPT or Midjourney prompt generator, you can have text-based prompts created on your behalf for free.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chat x chatgpt prompt generator screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-generator.jpg)
 
  Simply describe what you want the AI model to act as and produce, and you'll be provided with a text prompt to download for future use.
@@ -79,6 +111,9 @@ thumbnail: https://thmb.techidaily.com/5e4f2e08bc06e83ddb45587d928cf61d9245bd50e
 
 ## 5.[Etsy](https://www.etsy.com/uk/?ref=lgo)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![screenshot of promptsea website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-prompt-search.jpg)
 
  You may know Etsy as the prime platform for unique and handmade gifts, fashion, and homeware. But did you know Etsy also sells some useful AI prompts?
@@ -89,12 +124,18 @@ So, how do you know what you're buying?
 
  When you see a prompt bundle you're interested in on Etsy, click on the listing and read the item details. This is crucial to determine what kind of prompts you're purchasing here. The title will likely indicate the type or theme of the prompts included, but you can usually access more information in the item details section.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![highlighted item details section on etsy product page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-item-page-1.jpg)
 
  If you want to buy just a handful of AI prompts or something highly specific, Etsy may not be the right platform. Don't forget that Etsy isn't a dedicated AI prompt marketplace designed for finding and searching for prompts specifically.
 
 ## 6.[AIPRM](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![chatgpt interface with aiprm plugin active](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-aiprgm-plugin.jpg)
 
  AIPRM isn't a website-based marketplace. Rather, it is a free Chrome extension that lets you access useful ChatGPT prompts while using the ChatGPT interface.

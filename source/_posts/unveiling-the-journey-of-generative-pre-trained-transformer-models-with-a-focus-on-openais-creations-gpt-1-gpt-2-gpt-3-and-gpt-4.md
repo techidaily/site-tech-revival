@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Journey of Generative Pre-Trained Transformer Models with a Focus on OpenAI's Creations (GPT-1, GPT-2, GPT-3, and GPT-4)
-date: 2024-07-22 13:42:57
-updated: 2024-07-24 11:42:38
+date: 2024-08-02T16:16:00.331Z
+updated: 2024-08-03T16:16:00.331Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Bing AI chatbot mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-mobile-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![Bing AI chatbot response mobile](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-chatbot-response-mobile-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![Bing AI image generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/bing-ai-image-generation-1.jpg)
 
 Close
@@ -41,6 +47,9 @@ Close
 
 ![Nova AI chatbot personas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-personas.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Nova AI chatbot suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-suggestions.jpg)
 
 Close
@@ -55,10 +64,20 @@ Close
 
 ## 3\. Chat & Ask AI
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Ask AI YouTube summary chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-youtube-summary-chatbot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Ask AI homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Ask AI Ask YouTube chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-ask-youtube-chatbot.jpg)
 
 Close
@@ -71,10 +90,28 @@ Close
 
 **Download:** Chat & Ask AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/search?q=Ask+AI&c=apps) |[iOS](https://apps.apple.com/us/app/chat-ask-ai-by-codeway/id1668787639) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. ChatSonic
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatSonic chatbot health query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-health-query.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![ChatSonic chatbot personalities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-personalities.jpg)
 
 ![ChatSonic chatbot customize settings page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-customize-settings-page.jpg)
@@ -89,10 +126,19 @@ Close
 
 **Download:** ChatSonic for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.writesonic.chatsonic) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. ChatOn
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatOn AI chatbot homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-homepage.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatOn AI chatbot riddle query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-riddle-query.jpg)
 
 ![ChatOn Chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-chat-settings.jpg)
@@ -107,8 +153,14 @@ Close
 
 **Download:** ChatOn for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=ai.chat.gpt.bot) |[iOS](https://apps.apple.com/us/app/chaton-ai-chat-bot-assistant/id1661308505) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 6\. Poe
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Claude chatbot in Poe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/claude-chatbot-in-poe.jpg)
 
 ![Poe AI app chatbot selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ai-app-chatbot-selection.jpg)

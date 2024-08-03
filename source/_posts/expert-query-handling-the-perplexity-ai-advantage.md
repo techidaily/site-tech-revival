@@ -1,7 +1,7 @@
 ---
 title: Expert Query Handling – The Perplexity AI Advantage
-date: 2024-07-26 18:39:58
-updated: 2024-07-29 11:37:38
+date: 2024-08-02T16:15:56.306Z
+updated: 2024-08-03T16:15:56.306Z
 tags:
   - chatgpt
   - open-ai
@@ -23,7 +23,10 @@ thumbnail: https://thmb.techidaily.com/58f32787f189e5c81c275c54898b5f9f19257cc09
 
 ## What Is GPT-4 Turbo?
 
-![gpt-4 logo on smartphone screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/gpt-4-logo-on-smartphone-screen.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
 
 Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -37,16 +40,37 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing **Win + C**. Or, if you're lucky enough to own a [laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/), just press that to bring up the assistant at any time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the [Copilot website](https://copilot.microsoft.com/). Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
@@ -55,6 +79,9 @@ Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-phot
 
 ## How to Get the Most Out of GPT-4 Turbo
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.

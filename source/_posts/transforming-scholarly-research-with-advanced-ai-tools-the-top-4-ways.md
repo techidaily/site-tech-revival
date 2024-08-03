@@ -1,7 +1,7 @@
 ---
 title: Transforming Scholarly Research with Advanced AI Tools - The Top 4 Ways
-date: 2024-07-23 12:58:21
-updated: 2024-07-25 12:32:33
+date: 2024-08-02T16:16:27.666Z
+updated: 2024-08-03T16:16:27.666Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
 ## Transforming Research? Meet Perplexity AI - The AI Tool Revolutionizing Your Google Searches
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Perplexity AI, and What Can You Do With It?](https://www.makeuseof.com/perplexity-ai-best-ai-powered-google-search-tool/#what-is-perplexity-ai-and-what-can-you-do-with-it)
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
  But what is Perplexity AI really about, and can you use it instead of Google?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is Perplexity AI, and What Can You Do With It?
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
@@ -35,10 +41,19 @@ thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2
 
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## How to Use Perplexity AI Instead of Google Search
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
@@ -57,6 +72,9 @@ Close
 
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.

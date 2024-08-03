@@ -1,7 +1,7 @@
 ---
 title: Assessing ChatGPT's Ability in Formulating Effective Workout Routines With Safety Measures
-date: 2024-07-23 10:10:22
-updated: 2024-07-26 11:20:38
+date: 2024-08-02T16:15:42.288Z
+updated: 2024-08-03T16:15:42.288Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  By comparing the AI chatbot's workout plans to similar exercises and routines available now on websites and apps, it's easy to see what the chatbot gets right as well as highlight its potential weak spots. Here's what to know about ChatGPT and its use in the fitness realm.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is ChatGPT?
 
  The[AI chatbot ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) by generating natural-sounding responses to prompts that you type. Although this type of technology has existed for a while, ChatGPT in particular is notable for its (mostly) accurate and intelligent responses.
@@ -35,6 +38,9 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  In this instance, ChatGPT responded to the prompt with a standard list of exercises that would work well for many people. If you're interested in a simple, straightforward fitness routine, then its suggestions are legitimate.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
@@ -57,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
@@ -71,6 +80,9 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
@@ -79,12 +91,18 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  What if you have more specific questions about how to perform the exercises correctly? The chatbot can help with that, too.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT deadlifts prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-deadlifts-prompt.jpg)
 
  In this example, I received detailed instructions on the correct way to do deadlifts. It offered helpful pointers about your stance, grip, and even breathing techniques in order to make the most of this particular exercise.
 
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
 
  Although ChatGPT can’t replace the role of an experienced personal trainer or coach, it can provide accurate and usable training plans for anyone who’s just looking for the basics. If you want to start a new workout habit or shake up your current routine, then the AI tool offers concise, quick responses for your exercise plans. It will be exciting to see how this technology continues to evolve and impact the fitness world in the future.

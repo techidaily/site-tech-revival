@@ -1,7 +1,7 @@
 ---
 title: Essential Criteria When Opting for AI-Based Psychological Assistance via ChatGPT
-date: 2024-07-24 19:35:16
-updated: 2024-07-26 12:57:23
+date: 2024-08-02T16:16:37.510Z
+updated: 2024-08-03T16:16:37.510Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  As ChatGPT advances, it has the potential to transform the healthcare sector completely. When integrated with health systems, it may improve patient access to care and boost doctors' work efficiency. However, because it is AI-based, several concerns about its potential dangers exist.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. ChatGPT Has Limited Knowledge
 
 ![Pig-to-heart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/pig-to-heart.jpg)
@@ -41,14 +44,23 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  Because ChatGPT cannot independently research or verify material, it cannot differentiate between fact and fiction. Respected medical journals, including the Journal of the American Medical Association (JAMA), have established strict regulations that only humans can write scientific studies published in the journal. As a result, [you should constantly fact-check ChatGPT's responses](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. ChatGPT Does Not Physically Examine You
 
  Medical diagnoses are not solely dependent on symptoms. Physicians can gain insights into the pattern and severity of an illness through a patient's physical examination. In order to diagnose patients, doctors today use both medical technologies and the five senses.
 
  ChatGPT cannot perform a complete virtual checkup or even a physical examination; it can only reply to the symptoms you provide as messages. For a patient's safety and care, errors in physical examination—or completely ignoring physical examination—can be harmful. Because ChatGPT didn't physically examine you, it will offer an incorrect diagnosis.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. ChatGPT Can Provide False Information
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT False Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-false-response.jpg)
 
  A recent study by the [University of Maryland School of Medicine](https://www.medschool.umaryland.edu/news/2023/UM-School-of-Medicine-Study-Finds-ChatGPT-Helpful-for-Breast-Cancer-Screening-Advice-With-Certain-Caveats-.html) on ChatGPT's advice for breast cancer screening found the following results:
@@ -59,12 +71,18 @@ thumbnail: https://thmb.techidaily.com/c6a00ed9bc739f2f19c543f786366f0b15e1dcc95
 
  When we inquired about the book, it replied that it was a "hypothetical" book that it created. ChatGPT won't tell you if a journal article or book is false if you don't inquire further.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatGPT Is Just an AI Language Model
 
 ![ChatGPT Medical](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-medical.jpg)
 
  Language models function by memorizing and generalizing text rather than examining or studying a patient's condition. Despite generating responses that match human standards in terms of language and grammar, [ChatGPT still contains a number of problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/), much like other AI bots.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## ChatGPT Is Not a Replacement for Your Doctor
 
  Human doctors will always be needed to make the final call on healthcare decisions. ChatGPT usually advises speaking with a licensed healthcare practitioner when you ask for medical advice.

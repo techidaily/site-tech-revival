@@ -1,7 +1,7 @@
 ---
 title: 5 Ingenious Ways to Leverage ChatGPT for Employment
-date: 2024-07-25 22:44:49
-updated: 2024-07-27 11:17:41
+date: 2024-08-02T16:16:33.742Z
+updated: 2024-08-03T16:16:33.742Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/512452c63d7af3ae11e5ca5b18a5aa9837e3237ce
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Is ChatGPT Too Powerful for Its Own Good?
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
@@ -49,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/512452c63d7af3ae11e5ca5b18a5aa9837e3237ce
 
  Take a look at some examples below. If you ask ChatGPT how to cheat in exams, it will not produce any helpful response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
@@ -61,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/512452c63d7af3ae11e5ca5b18a5aa9837e3237ce
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
 It even wrote a classic Nigerian Prince email scam when asked.
@@ -71,8 +80,14 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  We did not include our jailbroken prompts in our examples to avoid unethical practices.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Does the Future Hold for ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent[ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
@@ -81,6 +96,9 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Can OpenAI Put ChatGPT Under Control?
 
  For now, OpenAI doesn't seem to have a clear-cut solution to avoid the unethical use of its tool. Ensuring that ChatGPT is used ethically is a game of cat and mouse. While OpenAI uncovers ways people are employing to game the system, its users are also constantly tinkering and probing the system to discover creative new ways to make ChatGPT do what it isn't supposed to do.

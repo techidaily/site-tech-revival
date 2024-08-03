@@ -1,7 +1,7 @@
 ---
 title: DALL-E 3'S New Editing Tools Overview and Improvement Areas
-date: 2024-07-26 14:59:49
-updated: 2024-07-27 12:47:11
+date: 2024-08-02T16:16:05.950Z
+updated: 2024-08-03T16:16:05.950Z
 tags:
   - chatgpt
   - open-ai
@@ -40,10 +40,16 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 2\. Be My Eyes
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
 
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Does Be My Eyes Use GPT-4?
 
  The role that GPT-4 plays in the app is that of a virtual volunteer. The process works by analyzing images through GPT-4's image-to-text generator. Context is the critical factor here. The GPT-4 engine doesn't just analyze the content of the image but the context of the image as well.
@@ -52,6 +58,10 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Be My Eyes Virtual Volunteer is in beta testing; the company hopes to roll it out to the public soon. It will be available for free to all blind and low-vision members on both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Khan Academy
 
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
@@ -83,6 +93,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 4\. Stripe
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
 
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
@@ -101,8 +114,14 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. ChatSonic
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
 
  Image Credit: ChatSonic
@@ -111,6 +130,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The app is an upgraded version of WriteSonic, a writing aid based on ChatGPT 3.5\. WriteSonic is the foundation that ChatSonic was built on; GPT-4 adds the extra functionality.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### What Can You Do With ChatSonic?
 
  The basis of the app is to be a one-stop personal assistant for your business. From developing your website to acting as a customer support chatbot, ChatSonic can do this and much more. The core tasks of this multi-tool include:
@@ -123,10 +145,16 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the[WriteSonic](https://writesonic.com/chat) website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
@@ -152,8 +180,15 @@ Close
 
 **Download** : Bing AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 7\. Petey
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)
 
  Image Credit: Petey Assistant

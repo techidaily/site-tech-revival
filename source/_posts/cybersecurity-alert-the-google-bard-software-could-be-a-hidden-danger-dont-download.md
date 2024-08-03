@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Alert: The Google Bard Software Could Be a Hidden Danger - Don't Download"
-date: 2024-07-21 20:17:46
-updated: 2024-07-24 11:16:22
+date: 2024-08-02T16:16:04.647Z
+updated: 2024-08-03T16:16:04.647Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  As 2024 approaches, there are a number of cybersecurity trends and predictions to be aware of.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Increased AI-Powered Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
@@ -35,6 +41,9 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
@@ -45,6 +54,9 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
@@ -55,8 +67,14 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
@@ -79,6 +97,11 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)

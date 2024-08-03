@@ -1,7 +1,7 @@
 ---
 title: "Strengthening Workflow Efficiency: Leveraging ChatGPT for Better Productivity"
-date: 2024-07-24 23:21:18
-updated: 2024-07-25 10:25:53
+date: 2024-08-02T16:15:43.273Z
+updated: 2024-08-03T16:15:43.273Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
 ## Discover Unrivaled Efficiency with Perplexity AI: The Top AI-Enhanced Google Search Experience Waiting for You
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [What Is Perplexity AI, and What Can You Do With It?](https://www.makeuseof.com/perplexity-ai-best-ai-powered-google-search-tool/#what-is-perplexity-ai-and-what-can-you-do-with-it)
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
 ## What Is Perplexity AI, and What Can You Do With It?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
@@ -35,12 +41,21 @@ thumbnail: https://thmb.techidaily.com/86eaf732ac0282547acec52c64c3976ebfde5c25b
 
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use Perplexity AI Instead of Google Search
 
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 Close
@@ -57,6 +72,9 @@ Close
 
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.

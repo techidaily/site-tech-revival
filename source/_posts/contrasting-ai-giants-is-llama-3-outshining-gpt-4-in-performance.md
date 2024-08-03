@@ -1,7 +1,7 @@
 ---
 title: Contrasting AI Giants - Is Llama 3 Outshining GPT-4 in Performance?
-date: 2024-07-27 12:19:42
-updated: 2024-07-29 12:24:51
+date: 2024-08-02T16:15:30.583Z
+updated: 2024-08-03T16:15:30.583Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  That said,[treating AI chatbots like therapists is dangerous](https://www.makeuseof.com/dangers-using-ai-free-therapist-psychiatrist/) . AI can’t empathize with you or understand your situation—it uses NLP to comprehend input and presents the corresponding output based on its datasets. Please see a licensed therapist or psychiatrist if you need mental health advice.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Users Imitate Voices Through Speech Synthesis
 
  Advancements in text-to-speech and speech-to-speech models led to the rise of affordable, accessible AI voice generators. They produce natural-sounding speech output. Depending on input quality and model sophistication, anyone can clone another person’s voice accurately.
@@ -53,8 +56,14 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  What’s worse is that some victims fall into the delusion that they can form genuine connections with AI personas. The desire for companionship gets the best of them. They choose to overlook the fact that the strangers operating these personas couldn’t care less about them.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. AI Content Floods SERPs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![Empty Search Bar on Google Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-search-bar-online.jpg)
 
  AI chatbots significantly impacted the content industry. Individual writers, marketing agencies, content mills, and even legit publications are exploring ways to hasten the writing process with AI. After all, advanced LLMs can produce a 500-word piece in under 15 seconds.
@@ -63,12 +72,18 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  To make matters worse, many low-effort AI articles still rank high through advanced SEO techniques. Most don’t even notice which Google results are AI-generated. They could be reading and citing misleading, factually incorrect information without realizing it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## 6\. Deepfakes Destroy Reputations
 
  AI-driven generative models can imitate other people’s features, voices, and mannerisms through digitally manipulated media. Take the below TikTok video featuring “Tom Cruise.” Millions would believe it’s the real deal if the account didn’t explicitly state it’s a deepfake video.
 
  But not everyone’s as honest as them. Crooks exploit deepfake videos to spread misleading, damaging, and sexually suggestive content. They can manufacture almost any clip with the necessary editing skills and tools.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Immersive VR/AR Experience Distorts Your Senses
 
 ![Person Scrolling Nonstop on Phone While in Bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-in-bed-scrolling-phone.jpg)
@@ -89,6 +104,9 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  AI isn’t the golden ticket to success. Misinformed entrepreneurs should ditch the false belief that replacing human workers with AI spikes profits. Adopting new systems could still lead to losses if you forego proper planning.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## Drawing the Line Between Fantasy and Reality
 
  Differentiating between the virtual and real world will become even harder as AI technologies advance. Sophisticated models will generate more realistic output. The only way to combat these widespread false realities is to explore AI yourself—study its functions and limitations.

@@ -1,7 +1,7 @@
 ---
 title: "Llama 3 Vs. Microsoft's GPT-4: A Comprehensive Comparison"
-date: 2024-07-23 21:56:25
-updated: 2024-07-25 10:36:15
+date: 2024-08-02T16:15:59.529Z
+updated: 2024-08-03T16:15:59.529Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  You can even customize your chats and search results to suit your personality. For instance, you can ask Prometheus (that's it's name) to be more creative, balanced, or precise with its results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Bing Adds AI Power to Search
 
  Microsoft's AI-powered Bing search engine looks[set to change search as we know it](https://www.makeuseof.com/how-bing-ai-powered-change-search-experience/) . The jury's still out on whether it can[beat Google at search](https://www.makeuseof.com/bing-ai-powered-beat-google-search/) , but things certainly look promising.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  For every query you submit, it will scour the internet for relevant answers. But it doesn't stop there. The search engine will further summarize its findings into more straightforward and articulate responses that you can use immediately. Plus, it'll equally cite sources as references.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use Bing’s AI-Powered Search Engine
 
  At launch, you needed to join a waitlist in order to try Bing's AI-powered search engine, but it's now available for everyone. Here's how to use it:
@@ -37,16 +43,25 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 3. Click on**Sign in** (in the top-right corner) to log in to your Microsoft Account.
 4. Once inside, click on**Chat now** .
 5. Pick a conversation style. By default, this is set to**More Balanced** . You can choose to be**More Precise** or**More Creative** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 6. Go to the typing area and enter your question. You have a 2,000-character limit.
 7. When done, click the send arrow and wait for it to populate your answer.
 8. It will also preempt your next question or response by suggesting chat prompts.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![New Bing Chat Feedback showing Chat Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-feedback.jpg)
 
  Bing also allows you to switch between just**Chat** and**Search** with chat. To experience the Bing AI-powered search:
 
 1. Go to the top of the page and click on**Search** , next to**Chat** .
 2. Clear the search box of any pre-filled query and enter yours. It'll return a search result box similar to[Google's Featured Snippets](https://www.makeuseof.com/what-are-google-featured-snippets/) .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bing AI-powered search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-powered-search-results.jpg)
 3. It'll also show you prompts that you can click on to learn more about your subject, including how to contact them (for most people searches).
 4. You can further refine your search by typing a query into the chat box just beneath the main result (if available for your query). To your right, you'll find additional information, for some searches.
@@ -55,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/0791bf71ffcd0caa089c5eb4acb0659b94a163050
 
  Chat mode will only be available when you have access to the AI-powered Bing.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## What to Expect from Bing’s AI-Powered Search Engine
 
  With Bing's AI-powered search, you can expect to enjoy a faster and richer search experience than you would get from a regular Google or Bing search. You can also expect to get citations or references as well as conversational chat results.

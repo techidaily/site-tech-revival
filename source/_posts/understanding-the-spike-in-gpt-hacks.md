@@ -1,7 +1,7 @@
 ---
 title: Understanding the Spike in GPT Hacks
-date: 2024-07-23 15:14:19
-updated: 2024-07-26 11:57:16
+date: 2024-08-02T16:15:56.661Z
+updated: 2024-08-03T16:15:56.661Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/d63759b0de073aa0fe2a9e240d0626e991d2055a1
 
  It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Real-Time Updates
 
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
@@ -47,8 +50,14 @@ thumbnail: https://thmb.techidaily.com/d63759b0de073aa0fe2a9e240d0626e991d2055a1
 
  Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Activation
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
 
  Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
@@ -59,6 +68,9 @@ thumbnail: https://thmb.techidaily.com/d63759b0de073aa0fe2a9e240d0626e991d2055a1
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Executing Basic Commands
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/d63759b0de073aa0fe2a9e240d0626e991d2055a1
 
 ### Answering Your Questions
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
 
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
@@ -91,8 +106,15 @@ thumbnail: https://thmb.techidaily.com/d63759b0de073aa0fe2a9e240d0626e991d2055a1
 4. Tap**\+ Create new secret key** .
 5. Tap on the**Copy** icon in green and press**OK** to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
@@ -108,6 +130,9 @@ Now:
 
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
@@ -116,6 +141,9 @@ Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
  Siri and ChatGPT differ in their functions, their purpose, the way they work, and how they respond. Siri is a holy grail for all Apple users as it executes all your commands and performs essential tasks.

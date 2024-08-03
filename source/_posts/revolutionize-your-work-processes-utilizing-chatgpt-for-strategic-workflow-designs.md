@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Your Work Processes: Utilizing ChatGPT for Strategic Workflow Designs"
-date: 2024-07-26 13:24:10
-updated: 2024-07-28 10:39:24
+date: 2024-08-02T16:16:07.993Z
+updated: 2024-08-03T16:16:07.993Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/cd40cefe34929949f9082fe8148c2fc6feb48b6dc
 
 It’s a very simple process, and you’ll want to do it again and again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## 1\. Write a Prompt in ChatGPT
 
 ![ChatGPT prompt results ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-prompt-results.jpg)
@@ -36,6 +39,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ## 2\. Copy the Text Into a Spreadsheet
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
 
  If you have a programmer’s mind, you can[use the GPT for Sheets and Docs extension](https://www.makeuseof.com/how-use-chatgpt-google-sheets/) , or you can copy and paste your content into any spreadsheet program—like Microsoft Excel or Google Sheets. Then open a blank page.
@@ -62,8 +68,14 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  Label**A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In**B1** —and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 5\. Save Your Sheet as a CSV File
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
 
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
@@ -80,6 +92,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  If you’ve already[made and published Canva templates](https://www.makeuseof.com/canva-how-to-create-publish-templates/) , choose one of those, or if you’re designing from scratch, you could[use Canva’s Brand Kit feature](https://www.makeuseof.com/canva-how-to-use-brand-kit-feature/) to incorporate your branding into your design. Both of those features require a Canva Pro subscription or the free trial.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
@@ -94,24 +109,47 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  If you want different designs for the same content, you can create more than one template design here. Select**Add a page** beneath your artboard to add a new design.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Bulk Create Your Content
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Bulk Create app in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-app-canva.jpg)
 
  Select**Apps** on Canva’s left-hand menu and type “Bulk Create” in the search bar. Select the**Bulk Create** app.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva Bulk Create options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-create-csv.jpg)
 
  Select**Upload CSV** and find your saved CSV file to open. Canva will identify your two sections of content and separate them, in this case, into a section of Quote content and another of Attribution content.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva CSV input.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/curly-brackets.jpg)
 
  Select your Quotes placeholder text, then right-click >**Connect Data** \>**\[QUOTES\]** . This inputs your data into Canva, shown by your label now written in curly brackets. Do this again for your second set of content, and any others you’re adding. Select**Continue** .
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 9\. Review and Edit Your Designs
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
@@ -128,6 +166,9 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  If you’re happy with how everything looks, it’s time to save your designs. Go to**Share** \>**Download** and choose the best format for your designs. PNG is what we recommend for the best quality, but some social media applications might not accept PNGs, or perhaps another format works better for your designs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.

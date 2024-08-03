@@ -1,7 +1,7 @@
 ---
 title: "Command ChatGPT: The Ultimate Voice Guide (5 Methods)"
-date: 2024-07-22 19:59:10
-updated: 2024-07-25 12:20:24
+date: 2024-08-02T16:16:04.079Z
+updated: 2024-08-03T16:16:04.079Z
 tags:
   - chatgpt
   - open-ai
@@ -24,6 +24,9 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 * [How to Filter and Favorite AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-filter-and-favorite-aiprm-prompts)
 * [How to Create AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-create-aiprm-prompts)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Crafting effective prompts for ChatGPT is crucial for quality responses. AIPRM offers a vast library of expert prompts.
@@ -40,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is the AIPRM Chrome Extension Free?
 
  Yes, the AIPRM Chrome extension for ChatGPT is free to use and also offers several premium plans, from the**AIPRM Plus** plan, which costs $10 per month, to the**AIPRM Titan** plan, which costs up to $999 per month. AIPRM works well with ChatGPT's free and paid versions, making it a valuable tool for any user.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
@@ -56,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/900669a0826258b005cbb54f95db85d32c0fe9527
 2. Click the**Add to Chrome** button in the top right corner of the page.
 3. A pop-up will appear, asking you to confirm if you want to add the extension. Click**Add extension** to install it.
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click**Confirm.**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
 You should now see the AIPRM dashboard on your ChatGPT page.
@@ -85,10 +97,16 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
  Click the**Topic** field to select topics like Marketing, productivity, or SEO. You can filter by**Activity** to find prompts suitable to specific activities or click**Sort by** to select prompts based on usage, views, or votes. Lastly, use the**Model** filter to choose a particular ChatGPT version. You can also use the**Search** bar to find prompts using keywords.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## How to Create AIPRM Prompts
 
  Although thousands of prompts are available on AIPRM, you may sometimes need a more personalized prompt. So, why bother crafting your prompt in AIPRM rather than using it directly in ChatGPT? This can be useful when you need to reuse the prompt for a similar task in the future.
@@ -99,6 +117,9 @@ To create a custom AIPRM prompt:
 
  Next, fill out all the details of your prompt. Note that providing more detailed information in the**Prompt Template** field will increase your prompt's value and the response quality from ChatGPT. Let's say you wish to create a prompt to promote your business on Facebook. You can provide specific details like the name of your business, your services, your target audience, hashtags to use, and the tone of voice. In the same field, create the task by writing the instructions that ChatGPT will follow to generate the desired text.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.

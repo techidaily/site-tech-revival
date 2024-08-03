@@ -1,7 +1,7 @@
 ---
 title: "Gameplay Enhancement: The Art of Scripting with ChatGPT"
-date: 2024-07-25 10:44:27
-updated: 2024-07-28 11:37:23
+date: 2024-08-02T16:15:59.955Z
+updated: 2024-08-03T16:15:59.955Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ## Top 9 Benefits of Switching to ChatGPT Plus: Why It's Worth the Investment
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Upgrading to ChatGPT Plus gives you access to the improved GPT-4 model, which provides more accurate responses and better natural language processing.
@@ -25,8 +28,14 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
  However, another promise of ChatGPT Plus was priority access to new features, and OpenAI delivered on it. With the introduction of features like Advanced Data Analytics, Browse with Bing, and DALL·E 3, ChatGPT Plus is currently one of the most useful subscriptions you could get for yourself and your business, AI or not.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. GPT-4 Access
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![GPT-4 chatbot interface ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/gpt-4-chatbot-interface-chatgpt-plus.jpg)
 
  The most obvious benefit of upgrading to the Plus version is access to GPT-4\. As the successor to GPT-3.5,[there are major differences between the two](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) . GPT-4 improves natural language processing, understanding of context, and problem-solving. It is also trained on a larger data set, which means it's better at recognizing complex patterns.
@@ -35,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
 ## 2\. Image Input
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![ChatGPT Plus image input feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-plus-image-input-feature.jpg)
 
  Image Credit: Handwriting by Dan4th Nicholas/[Flickr](http://www.flickr.com/photos/dan4th/)
@@ -43,20 +55,32 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ## 3\. Internet Access
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Browse with Bing option on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-with-bing-option-on-chatgpt.jpg)
 
  The standard, free version of ChatGPT has a knowledge cutoff from September 2021\. That means it does not have access to any information on events that occurred after that date. However, you can overcome this limitation using the new**Browse with Bing** mode with the GPT-4 model. This means you can access the internet within ChatGPT.
 
  Internet access lets you summarize articles, conduct up-to-date market research, and find recent news stories and papers. ChatGPT can also access a wider dataset and deliver more accurate responses. So, with the $20/month subscription, the knowledge cutoff is no longer a problem.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 4\. DALL·E 3 Art Creation
 
  The deal-maker for ChatGPT Plus is DALL·E 3\. While you can access it freely from Bing Chat, bringing it under ChatGPT's interface and combining it with GPT-4, which is better optimized as a chatbot than a search engine, it is a different ball game. You can chat with ChatGPT as you typically do, and where you feel the need, you can ask it to generate images for you.
 
  I asked ChatGPT Plus to tell me the story of Little Red Riding Hood with illustrations. It divided the story into seven scenes (with one- and two-liner dialogues). And, for each scene, it wrote a prompt for DALL·E 3.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DALL-E 3 and GPT-4 story writing skill](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-and-gpt-4-story-writing-1.jpg)
 
  Once the story was complete, it automatically took all those DALL·E 3 prompts from above, generated images, and presented them to me.
@@ -73,6 +97,23 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
  Each plugin serves a different purpose. For example, you can use the Kayak plugin to book a trip abroad, the Instacart plugin to plan meals and buy ingredients, or interact with apps like Google Sheets and Gmail using Zapier. Some plugins can be buggy or slow, but it'll be interesting to see how useful they are once the kinks are ironed out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## 6\. Advanced Data Analytics
 
  While the feature can be used for many different functions, the Advanced Data Analytics feature in ChatGPT Plus can help you turn spreadsheets into graphs for data visualization.
@@ -105,6 +146,9 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
  A problem with the free version is that it often stops responding, forcing you to regenerate the answers. This happens multiple times throughout a session. You won't have to worry about this with the Plus version. If you rely on ChatGPT for work, upgrading to ChatGPT Plus is a great way to save time waiting for the free version to respond.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Better Translation Capabilities
 
  Since GPT-4 is trained on a larger data set, it is much better at responding to non-English prompts. It does a good job of responding almost like a person who understands linguistic patterns, nuances, and cultural context. GPT-3.5 has decent translation capabilities, but GPT-4 is better as it's more likely to generate accurate and coherent responses.

@@ -1,7 +1,7 @@
 ---
 title: 7 Ways Generative AI Will Change the Job Market
-date: 2024-07-26 23:57:57
-updated: 2024-07-28 10:13:24
+date: 2024-08-02T16:16:20.109Z
+updated: 2024-08-03T16:16:20.109Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
 ## Discover the Ultimate Advantages - Make the Smart Move with ChatGPT Plus
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * Upgrading to ChatGPT Plus gives you access to the improved GPT-4 model, which provides more accurate responses and better natural language processing.
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Internet Access
 
 ![Browse with Bing option on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/browse-with-bing-option-on-chatgpt.jpg)
@@ -57,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  I asked ChatGPT Plus to tell me the story of Little Red Riding Hood with illustrations. It divided the story into seven scenes (with one- and two-liner dialogues). And, for each scene, it wrote a prompt for DALL·E 3.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 and GPT-4 story writing skill](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-and-gpt-4-story-writing-1.jpg)
 
  Once the story was complete, it automatically took all those DALL·E 3 prompts from above, generated images, and presented them to me.
@@ -65,14 +74,23 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## 5\. Plugin Access
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![chatgpt plugins option selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/chatgpt-plugins-option-selection.jpg)
 
  Plugin access gives ChatGPT Plus a level of customization that you won't find with its competitors. These plugins serve as third-party software components that integrate with ChatGPT. While the feature is currently in beta, you can[install plugins from the plugin store](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) and pick from over 100 different options.
 
  Each plugin serves a different purpose. For example, you can use the Kayak plugin to book a trip abroad, the Instacart plugin to plan meals and buy ingredients, or interact with apps like Google Sheets and Gmail using Zapier. Some plugins can be buggy or slow, but it'll be interesting to see how useful they are once the kinks are ironed out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## 6\. Advanced Data Analytics
 
  While the feature can be used for many different functions, the Advanced Data Analytics feature in ChatGPT Plus can help you turn spreadsheets into graphs for data visualization.
@@ -83,18 +101,31 @@ thumbnail: https://thmb.techidaily.com/c477119574c19e1fe1c1e24c760eca970cf6d9df6
 
  After it's uploaded, you can ask ChatGPT what you'd like it to do with the data, and it will oblige. I uploaded a random CSV and asked it to create visuals.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Data visualized by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/data-visualized-by-chatgpt.jpg)
 
  Whether you're a small business owner or just play with data in spreadsheets, this feature can help you make data-driven decisions. You can upload your account books and ask ChatGPT not only to visualize the data for you but also to give you valuable insights into what needs improvement in your business.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 7\. Impressive Stability
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![GPTPlus vs GPT3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gptplus-vs-gpt3-5.jpg)
 
  The free[ChatGPT has its fair share of big problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , but downtime is by far the most important one. Although the situation is much better now than it was when it was first launched, the free version can still go down anytime. OpenAI's servers sometimes have trouble keeping up with the incredibly high demand.
 
  Fortunately, ChatGPT Plus is available almost all the time. The service is designed to give priority access to Plus subscribers, so you can use it even during peak usage times. Paying for the service is a no-brainer if your business or workflow heavily depends on ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Seamless Interactions
 
 ChatGPT Plus features two language models—GPT-4 and GPT-3.5.

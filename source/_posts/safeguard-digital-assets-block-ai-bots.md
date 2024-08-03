@@ -1,7 +1,7 @@
 ---
 title: "Safeguard Digital Assets: Block AI Bots"
-date: 2024-07-21 20:13:14
-updated: 2024-07-24 12:36:15
+date: 2024-08-02T16:15:36.006Z
+updated: 2024-08-03T16:15:36.006Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,15 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 1\. Resume and Cover Letter Creator
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
@@ -43,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 **Try this GPT:** [Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
@@ -51,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
@@ -75,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Personal Tutor
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
@@ -87,8 +104,14 @@ thumbnail: https://thmb.techidaily.com/2f486f4dd87aa179d36ac9cfba84a9e655bb2170b
 
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Niche Tools for Work
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.

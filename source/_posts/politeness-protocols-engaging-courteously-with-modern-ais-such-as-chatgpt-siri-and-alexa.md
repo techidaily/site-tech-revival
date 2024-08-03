@@ -1,7 +1,7 @@
 ---
 title: "Politeness Protocols: Engaging Courteously With Modern AIs Such as ChatGPT, Siri, and Alexa"
-date: 2024-07-24 20:53:56
-updated: 2024-07-27 12:13:14
+date: 2024-08-02T16:16:31.091Z
+updated: 2024-08-03T16:16:31.091Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4
 
  But, if AI can talk and reply to your messages like a human, do you need to be polite to AI, as you would with a human?
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Should You Be Polite to AI like ChatGPT, Alexa, and Siri?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
  It doesn't make a difference if you're polite to AI. This is because AI like ChatGPT, Alexa, or Siri cannot process emotions like humans, and it won't be offended if you're not polite.
@@ -29,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4
 
  However, just because it doesn't make a difference if you say "thank you" or "please" to an AI, it doesn't mean that AI will continue answering your questions if you use derogatory words when addressing it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chatgpt no feelings or emotions text march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-no-feelings-or-emotions-text.jpg)
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
@@ -43,9 +52,17 @@ thumbnail: https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Can AI Be Rude to You?
 
-![bing app and open ai app on smartphone screen feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-app-and-open-ai-app-on-smartphone-screen-feature.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -55,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Interact With AI How You Want
 
  AI cannot process emotions like humans, and you shouldn't feel obligated to say "thank you" or "please." Nevertheless, it doesn't hurt to be polite to AI, even if you know it's not sentient, but rather because you will feel better about yourself if you're polite.

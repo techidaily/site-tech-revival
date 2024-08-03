@@ -1,7 +1,7 @@
 ---
 title: Can Conversational AI, Specifically ChatGPT, Orchestrate Your Smart Home Ecosystems Seamlessly?
-date: 2024-07-24 19:46:44
-updated: 2024-07-26 11:42:25
+date: 2024-08-02T16:15:42.968Z
+updated: 2024-08-03T16:15:42.969Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/ed5e683d03ce80f42203b25af8dacdf35686ccffe
 
 ## Beyond Conversations: Discover The 6 Most Exciting Games You Can Enjoy on ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -52,6 +55,18 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -60,12 +75,20 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
 
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -78,6 +101,9 @@ Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
@@ -90,6 +116,9 @@ Close
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
 [Adventure Inked](https://adventureinked.wixsite.com/gpts/) has developed more than 200 ChatGPT text adventure games, so there are far too many to list here. Cute Little Zombies is a perfect example of why its text adventures are great, giving you a heap of different scenarios to play through, all with cute little AI-generated images to help build the story out.

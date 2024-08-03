@@ -1,7 +1,7 @@
 ---
 title: How Is AI Innovating in the Medical Field with Tools Like ChatGPT?
-date: 2024-07-25 21:20:48
-updated: 2024-07-26 11:49:20
+date: 2024-08-02T16:16:09.655Z
+updated: 2024-08-03T16:16:09.655Z
 tags:
   - chatgpt
   - open-ai
@@ -55,6 +55,9 @@ As you can see, there are several differences to consider.
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -77,6 +80,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -89,6 +95,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Claude's Pros and Cons
 
 So, how does Claude compare to ChatGPT?
@@ -109,6 +118,9 @@ So, how does Claude compare to ChatGPT?
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -117,6 +129,14 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
@@ -127,6 +147,9 @@ So, how does Claude compare to ChatGPT?
 
  Both ChatGPT and Claude provided poems that fit the parameters of the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
@@ -135,12 +158,18 @@ So, how does Claude compare to ChatGPT?
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
 
  ChatGPT's response took us through the equation step-by-step instead of just providing the answer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
 When given the same problem, Claude gave us the following response:

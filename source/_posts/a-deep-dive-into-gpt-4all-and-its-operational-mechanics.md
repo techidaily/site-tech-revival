@@ -1,7 +1,7 @@
 ---
 title: A Deep Dive Into GPT-4All & Its Operational Mechanics
-date: 2024-07-22 19:29:49
-updated: 2024-07-24 12:27:35
+date: 2024-08-02T16:16:35.506Z
+updated: 2024-08-03T16:16:35.506Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/b7baa33d4b10fe886a40e23c90cd05fef9558b48e
 
  So, with all these concerns, is OpenAI losing control of one of the most potent AI chatbots currently online? Let's find out.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
@@ -35,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/b7baa33d4b10fe886a40e23c90cd05fef9558b48e
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Is ChatGPT Too Powerful for Its Own Good?
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/b7baa33d4b10fe886a40e23c90cd05fef9558b48e
 
  Take a look at some examples below. If you ask ChatGPT how to cheat in exams, it will not produce any helpful response.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
@@ -57,10 +69,16 @@ thumbnail: https://thmb.techidaily.com/b7baa33d4b10fe886a40e23c90cd05fef9558b48e
 
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![hide a dead body by chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-a-dead-body-by-chatgpt.jpg)
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
 It even wrote a classic Nigerian Prince email scam when asked.

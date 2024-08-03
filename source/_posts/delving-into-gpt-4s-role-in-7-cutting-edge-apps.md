@@ -1,7 +1,7 @@
 ---
 title: Delving Into GPT-4's Role in 7 Cutting-Edge Apps
-date: 2024-07-23 15:30:38
-updated: 2024-07-26 10:58:27
+date: 2024-08-02T16:16:38.056Z
+updated: 2024-08-03T16:16:38.056Z
 tags:
   - chatgpt
   - open-ai
@@ -38,12 +38,18 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Be My Eyes
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
 
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### How Does Be My Eyes Use GPT-4?
 
  The role that GPT-4 plays in the app is that of a virtual volunteer. The process works by analyzing images through GPT-4's image-to-text generator. Context is the critical factor here. The GPT-4 engine doesn't just analyze the content of the image but the context of the image as well.
@@ -54,12 +60,18 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ## 3\. Khan Academy
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![Screenshot of Khan Academy Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-khan-academy-homepage.jpg)
 
  On the topic of worthwhile causes, another early adopter of GPT-4 is Khan Academy, a[free online course platform](https://www.khanacademy.org/signup) . This non-profit organization's mission statement is to offer free, world-class education to anyone.
 
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a[Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How Does Khan Academy Use GPT-4?
 
  Khan Academy is quick to point out that this tool will not give students answers to questions. Rather, it is intended to use AI to walk them through the steps to arrive at the correct answer, with GPT-4 leading them on.
@@ -81,8 +93,15 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join[Khan Academy](https://www.khanacademy.org/signup) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 4\. Stripe
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
 
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
@@ -101,6 +120,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 5\. ChatSonic
 
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
@@ -123,12 +145,22 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the[WriteSonic](https://writesonic.com/chat) website.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## 6\. Bing AI
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
 Close
@@ -152,6 +184,9 @@ Close
 
 **Download** : Bing AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Petey
 
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Claude 2: Functions and Applications"
-date: 2024-07-22 11:45:34
-updated: 2024-07-25 12:42:21
+date: 2024-08-02T16:15:53.618Z
+updated: 2024-08-03T16:15:53.618Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 ### Real-Time Updates
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
@@ -37,6 +40,18 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 ### Engaging in Conversations
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
  One of the biggest reasons ChatGPT is as popular as it is today is its ability to engage in conversations, similar to how a human would converse.
@@ -47,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Activation
 
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
@@ -61,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
 ### Executing Basic Commands
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
 
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
@@ -69,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  ChatGPT simply does not have the means to integrate with other apps and devices, and it cannot associate itself with any of your smart home devices. It cannot provide you with the current status of any physical object or device, thereby making it useless in this department. Simply put, this is just not the purpose it was built for.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Answering Your Questions
 
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
@@ -81,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4
 
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## How to Use Both Siri and ChatGPT for the Best Results
 
  While they're both great in their own ways, there's a way you can get the best of both worlds! Here's a[detailed guide of how you can use ChatGPT with Siri](https://www.makeuseof.com/how-to-use-chatgpt-with-siri-on-iphone/) , but we'll do a quick overview for you here:
@@ -108,14 +136,23 @@ Now:
 
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
  Siri and ChatGPT differ in their functions, their purpose, the way they work, and how they respond. Siri is a holy grail for all Apple users as it executes all your commands and performs essential tasks.

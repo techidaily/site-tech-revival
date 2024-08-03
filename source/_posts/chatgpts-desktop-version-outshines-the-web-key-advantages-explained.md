@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Desktop Version Outshines the Web: Key Advantages Explained"
-date: 2024-07-23 15:50:48
-updated: 2024-07-26 12:24:49
+date: 2024-08-02T16:15:35.202Z
+updated: 2024-08-03T16:15:35.202Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,16 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
 As you can see, there are several differences to consider.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## ChatGPT's Pros and Cons
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### ChatGPT's Pros
 
  ChatGPT offers great features and benefits to its users, starting with its ability to fulfill prompts.
@@ -109,6 +115,9 @@ So, how does Claude compare to ChatGPT?
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -121,6 +130,9 @@ So, how does Claude compare to ChatGPT?
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
@@ -135,16 +147,25 @@ So, how does Claude compare to ChatGPT?
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
 
  ChatGPT's response took us through the equation step-by-step instead of just providing the answer.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
 When given the same problem, Claude gave us the following response:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
@@ -165,6 +186,9 @@ Claude's interpretation read...
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!

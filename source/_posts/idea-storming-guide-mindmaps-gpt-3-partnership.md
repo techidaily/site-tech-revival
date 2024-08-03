@@ -1,7 +1,7 @@
 ---
 title: "Idea Storming Guide: Mindmaps, GPT-3 Partnership"
-date: 2024-07-23 15:40:53
-updated: 2024-07-26 11:40:25
+date: 2024-08-02T16:15:52.753Z
+updated: 2024-08-03T16:15:52.753Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
 ## 1\. Rytr
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
 
  If you’re a beginner fiction writer or looking for a new story AI generator on a budget, this one is for you.[Rytr](https://rytr.me/) doesn’t come with many bells and whistles, but it gets the job done.
@@ -47,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
 ## 2\. ShortlyAI
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
@@ -59,6 +65,9 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
@@ -69,8 +78,15 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 4\. NovelAI
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
@@ -83,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
  The main benefit of AI story generators is for people who feel like they’ve lost their creativity. If you feel like you keep coming back to the same ideas, these can definitely help you break out of old habits.

@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Online Communication: The 'Dead Internet' Theory Uncovered"
-date: 2024-07-27 18:53:57
-updated: 2024-07-29 12:12:44
+date: 2024-08-02T16:16:22.631Z
+updated: 2024-08-03T16:16:22.631Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e430
 
 ## What Is TruthGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
 
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
@@ -27,6 +30,9 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Why Is Elon Musk Building TruthGPT?
 
  In an interview with[Fox News](https://www.foxnews.com/media/elon-musk-develop-truthgpt-warns-civilizational-destruction-ai) , Elon Musk expressed his concerns about how big AI firms can perpetuate bias and disinformation through AI chatbots—an emerging tool people increasingly depend on for information. Elon Musk also commented on the threat AI poses to humanity, emphasizing the possibility of an AI apocalypse, a scenario where AI systems could take control of our daily lives.
@@ -35,8 +41,19 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  Elon Musk, who recently authored an open letter calling for a[moratorium on the development of powerful AI](http://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) models (specifically those more powerful than GPT-4), believes AI is moving too fast. He believes we need to slow down and reevaluate our approach to AI safety before AI "takes control." TruthGPT is a large language model (LLM) that promises to address these two core concerns with today's AI systems.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## What Would TruthGPT Look Like?
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -47,6 +64,9 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
 So, is this idea of a maximum truth-seeking AI even practical?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## Why Building TruthGPT Is a Huge Challenge
 
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
@@ -59,6 +79,23 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ## Is TruthGPT an Exciting Possibility?
 
  Elon Musk's plans for TruthGPT seem noble and commendable. However, building an AI model with a negligible incidence of inaccuracies is a tough task.

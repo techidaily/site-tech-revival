@@ -1,7 +1,7 @@
 ---
 title: "The NLP Frontier: GPT Vs. BERT - A Detailed Analysis"
-date: 2024-07-23 14:10:45
-updated: 2024-07-24 12:57:47
+date: 2024-08-02T16:16:35.923Z
+updated: 2024-08-03T16:16:35.923Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 
  You can still[use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) . Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Language Models Like GPT-3 Follow Templates
 
  Modern AI platforms use[sophisticated language models like GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) . They execute aggressive machine and deep learning methods to produce human-like text.
@@ -37,10 +40,16 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 
  Take the below text about cats as an example. You won’t spot any basic errors like typos, missing punctuation marks, or misspelled words. It’s a relatively decent piece.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
@@ -51,18 +60,27 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Copy.ai Lists Down Article Sources](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-sources.jpg)
 
  Generic pieces rarely gain traffic. To attract readers and score higher SERP rankings, write original articles that are exclusive to your site. Stop rewriting stuff that everyone already knows.
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. AI Generates the Same Results for Similar Questions
 
  While AI scans billions of resources, its answers contain the same information. Chatbots and writing tools generate formulaic text comprising repeated data, regardless of how you state questions. Restructuring prompts will only trigger sentence variations.
@@ -71,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/f1a796c007bdb54a5d32d237286b0c583ae30258c
 
 ## 6\. AI Can’t Adopt Your Tone
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.

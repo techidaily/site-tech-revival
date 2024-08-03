@@ -1,7 +1,7 @@
 ---
 title: "From One-Size-Fits-All to Made-to-Measure: ChatGPT's Update for Creating Your Own AI Model"
-date: 2024-07-22 10:24:40
-updated: 2024-07-24 12:20:57
+date: 2024-08-02T16:15:49.659Z
+updated: 2024-08-03T16:15:49.659Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,14 @@ thumbnail: https://thmb.techidaily.com/53fe0eda386b7492486b516c7c80e84033132f711
 
  And just like you wouldn't start a road trip without a destination, don't start your wellness journey without setting your health goals.[ChatGPT can provide reliable health information](https://www.makeuseof.com/can-chatgpt-provide-reliable-health-information/) , so there are plenty of[reasons to use ChatGPT for health advice](https://www.makeuseof.com/reasons-consider-using-chatgpt-health-advice/) , including setting health goals.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Getting Started With ChatGPT
 
  Learning[how to use ChatGPT](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) is easy. You can interact with ChatGPT in a variety of ways, including:
@@ -36,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/53fe0eda386b7492486b516c7c80e84033132f711
 
  To get the most out of ChatGPT, you will also want to know[how to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) . Try, for example, "You are a nutritional expert and world-renowned health coach working with a new client who needs help establishing health goals" and see what kind of responses you get! You might be amazed at the conversation that follows.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT prompt and response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-22-29-am.jpg)
 
 ## Brainstorming Health Goals
@@ -52,6 +63,9 @@ thumbnail: https://thmb.techidaily.com/53fe0eda386b7492486b516c7c80e84033132f711
 
  Remember, it's your journey and your goals. ChatGPT is there to help you brainstorm and customize them to fit your needs. And if you're ever in doubt about the recommendations you receive, be sure you know[how to fact-check health information from ChatGPT](https://www.makeuseof.com/fact-check-health-information-chatgpt-ai-sources/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Clarifying and Defining Your Health Goals
 
 Now that you've got some health goals in mind, let's sharpen them.
@@ -68,14 +82,23 @@ Now that you've got some health goals in mind, let's sharpen them.
 
  Facing trouble with dietary changes? Ask ChatGPT, "What difficulties might I encounter when trying to eat healthier, and how can I tackle them?" It might suggest potential pitfalls like cravings, cost of healthy food, or lack of cooking skills, and offer solutions like preparing healthy snacks in advance, budgeting for groceries, or learning simple recipes with minimal ingredients.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Setting Action Steps With ChatGPT
 
  With ChatGPT, you can break down your goals into daily doable tasks. Simply ask ChatGPT for advice on your specific goals. For a healthier diet, inquire, "What are some easy ways to replace unhealthy food with healthier food?" ChatGPT could suggest actions like eating more fresh fruit instead of processed snacks to satisfy your addiction to sugar.
 
  For regular exercise, you could ask, "How can I exercise more regularly when I work 9-5 and have no energy left at the end of the day?" You will likely get suggestions like scheduling workout time over the lunch hour or cycling to work.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT exercise recommendations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-2023-06-17-at-10-26-09-am.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Using ChatGPT to Help You Achieve Your Health Goals
 
  From brainstorming and clearly defining your goals to anticipating obstacles and creating actionable steps, you now know how to leverage ChatGPT to ensure your wellness GPS is set on the right path.

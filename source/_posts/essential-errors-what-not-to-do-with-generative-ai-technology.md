@@ -1,7 +1,7 @@
 ---
 title: "Essential Errors: What NOT to Do with Generative AI Technology"
-date: 2024-07-21 15:35:54
-updated: 2024-07-24 10:34:39
+date: 2024-08-02T16:16:35.664Z
+updated: 2024-08-03T16:16:35.664Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 
 ## 1 [Runway's Gen-2](https://research.runwayml.com/gen2)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
 
 * **Free:** 125 Credits
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/6aed0c00afe51b22c20e76d5f6ace236f0bc693b5
 
  Judging from the quality of Sora-generated clips shared by OpenAI, Sora bests Runway Gen-2 as an AI text-to-video generator. However, given the speed of development in the AI space (and the fact that Runway launched Gen-2 about a year before the first preview of Sora was released), it's clear OpenAI's Sora and Runway Gen-2 (and its future versions) will battle for the best text-to-video AI generator title.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 [Pika](https://pika.art/)
 
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
@@ -86,6 +92,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
 ## 4 [Kaiber](https://kaiber.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of kaiber homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-kaiber-homepage.jpg)
 
 * **Free:** 100 initial credits
@@ -99,8 +108,14 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 5 [Synthesia](http://www.synthesia.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of synthesia homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-synthesia-homepage.jpg)
 
 * **Free:** Test video
@@ -116,6 +131,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)
 
 * **Free:** 1 minute/day

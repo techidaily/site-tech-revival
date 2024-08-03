@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Google's Innovative Language Strategist: PaLM 2"
-date: 2024-07-26 21:46:36
-updated: 2024-07-28 10:36:36
+date: 2024-08-02T16:16:11.776Z
+updated: 2024-08-03T16:16:11.776Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  However, dig a little deeper, and notable differences become quickly apparent.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is HuggingChat?
 
  We won't go into too much detail here, as by now, most people know[what generative AI chatbots are](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . But it is worth touching on, as this will help you understand some underlying differences between the two chatbots.
@@ -39,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/7b4c05e427ef93175f84d0a703341dbe0517d72f4
 
  Now, with HuggingChat, the waters are a bit murkier. If asked, HuggingChat will assure you that an account is required, as the image below confirms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -62,14 +68,30 @@ As you can see, HuggingChat answered this easily.
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Summarizing Articles
 
  You can use URLs to "force" both tools to access more current data. We tested this ability by asking them to summarize a MakeUseOf article on[remotely accessing Android phones](https://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) . In the first instance, we provided the URL.
 
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
@@ -96,6 +118,9 @@ HuggingChat's summary looked like this:
 
  We asked both to compose a two-verse love song based on Romeo and Juliet. This was ChatGPT's response:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
 And this was HuggingChat's.
@@ -104,6 +129,9 @@ And this was HuggingChat's.
 
 Shakespeare himself would be impressed with both of these!
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Security and Privacy
 
  Security and privacy are general concerns surrounding generative AI. There are[definite security concerns with ChatGPT](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/) , but it is fair to say that most of these concerns apply to most chatbots, including HuggingChat.
@@ -116,6 +144,9 @@ Shakespeare himself would be impressed with both of these!
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Which Is Best: HuggingChat or ChatGPT?
 
  As you can see from the tests, there is no easy answer. ChatGPT had a definite edge when summarizing articles, whereas HuggingChat had the advantage when you compare how current the training data is.

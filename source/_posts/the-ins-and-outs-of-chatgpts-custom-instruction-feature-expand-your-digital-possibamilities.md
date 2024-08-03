@@ -1,7 +1,7 @@
 ---
 title: "The Ins and Outs of ChatGPT's Custom Instruction Feature: Expand Your Digital Possibamilities"
-date: 2024-07-25 16:45:44
-updated: 2024-07-27 12:37:38
+date: 2024-08-02T16:16:18.155Z
+updated: 2024-08-03T16:16:18.155Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
  Despite My AI’s simple interface, it’s a fairly sophisticated tool. You can do so much with it. Here are six reasons Snapchat’s My AI feature is more than just a cool toy.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. My AI Runs on GPT-3.5
 
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
@@ -27,14 +30,32 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
  Snapchat’s trainers also use the same datasets. You’ll notice that My AI knows the same things as ChatGPT does, especially with general knowledge questions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Conversations Retain the Last 3,000 Words
 
  Contextual memory helps AI provide more accurate responses. Instead of taking prompts at face value, chatbots will reference relevant information in active conversations. Let’s say you’re looking for side hustles. AI-driven chatbots will also consider your skills and career background, assuming you provide them.
@@ -43,6 +64,9 @@ Close
 
  Take this conversation as an example. We asked My AI to roleplay a fictional character. It maintained the instructed persona even after receiving 2,000+ words of irrelevant information. Other platforms may have dropped prior instructions by this point.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
@@ -55,8 +79,15 @@ Close
 
  Here’s My AI providing the weather forecast for Manila, Philippines. Google and Snapchat use different units of measurement, but they’re essentially the same after conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 Close
@@ -81,6 +112,9 @@ Close
 
  While Bard AI and Bing Chat use more advanced LLMs than Snapchat, My AI surprisingly does well in Math.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
@@ -97,6 +131,9 @@ Close
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try Snapchat’s New AI Assistant
 
  My AI was initially limited to Snapchat+ subscriptions. But Snapchat has made the chatbot available for free users.

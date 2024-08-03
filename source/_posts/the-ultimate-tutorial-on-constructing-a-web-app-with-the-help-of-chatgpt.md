@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Constructing a Web App with the Help of ChatGPT
-date: 2024-07-22 23:19:50
-updated: 2024-07-24 12:45:29
+date: 2024-08-02T16:15:54.186Z
+updated: 2024-08-03T16:15:54.186Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![Person Highlighting Parts of a Contract in Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/highilighting-parts-of-contract.jpg)
 
 [OpenAI](https://openai.com/policies/terms-of-use) states in its terms of use that ChatGPT records and reviews all user conversations. The company uses non-API content for data training. While[ChatGPT doesn’t learn from chats in real-time](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , its trainers still screen and filter input. You should never divulge company information.
@@ -45,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
  Moreover, ChatGPT can only customize its output to an extent. Carelessly trusting the generic contracts it drafts might cause legal complications down the road. Run all your paperwork through the appropriate professionals.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Using ChatGPT to Generate Reports and Insights
 
  Only use ChatGPT for research when analyzing reports. AI can help test formulas and answer general knowledge questions, but you should never feed it company insights. Again, OpenAI records all conversations. Your employer might sue you and terminate your employment contract for breaching the NDA.
@@ -59,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Composing Emails on ChatGPT
 
  Employees find it harder to write emails than chat messages because of their formal nature. To hasten the writing process, they[compose difficult emails on ChatGPT](https://www.makeuseof.com/use-chatgpt-write-work-emails/) .
@@ -71,8 +81,14 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
  You won’t get fired if you research responsibly. As with any other online resource, it’s best to verify information multiple times before presenting it. Compare data from other sources. Solely relying on ChatGPT’s output puts you at risk of spreading misinformation, a potentially career-ending mistake.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8\. Using Code Snippets Written by ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
@@ -81,6 +97,9 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
  Explore[ethical ways of using ChatGPT in programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . Most employers are okay with their dev team researching algorithms, generating placeholders, and refracting snippets on AI tools, but you must write and edit codes manually.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ## 9\. Editing Articles and Papers With ChatGPT
 
  ChatGPT can help you edit drafts. Its sophisticated language model detects awkward sentences, grammatical errors, and even incoherent statements. Take the below conversation as an example. We asked for constructive criticism based on our preferred style guide and tonality.
@@ -89,8 +108,15 @@ thumbnail: https://thmb.techidaily.com/5e3e6b4e0f517bf2ed82ad459bf90369516144d1c
 
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. Analyzing Financial Charts on ChatGPT
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Red and Green Prices on a Financial Chart](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/financial-charts-and-scores-on-screen.jpg)
 
  One of[OpenAI’s worst issues with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is that it gets confused with word and number problems. You can only ask intermediate-level questions. Making ChatGPT analyze complex financial reports would likely produce errors and inaccuracies.

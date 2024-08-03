@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Distinctions: A Comprehensive Look at GPT-4 and GPT-3.5"
-date: 2024-07-25 23:26:37
-updated: 2024-07-26 11:50:27
+date: 2024-08-02T16:16:23.077Z
+updated: 2024-08-03T16:16:23.077Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,9 @@ It was also stated in the same report that:
 
 ## 2\. Increased Digital Supply Chain Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
@@ -55,8 +58,14 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
@@ -67,6 +76,9 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
@@ -79,8 +91,14 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
@@ -91,6 +109,9 @@ It was also stated in the same report that:
 
 ## 7\. Continued Topical Email Scams
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.

@@ -1,7 +1,7 @@
 ---
 title: "Debunking: ChatGPT's Wisdom Remains Unaltered"
-date: 2024-07-23 16:11:28
-updated: 2024-07-25 11:53:24
+date: 2024-08-02T16:15:27.469Z
+updated: 2024-08-03T16:15:27.469Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 
  Learn how to create better AI-generated images in DALL-E 3 with this tried-and-tested list of prompts. You can use these prompts in numerous scenarios and play around with your own ideas and variations for optimal results. Let’s walk through the examples I’ve created.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1 A Poster of Your Favorite Place
 
  There are many[websites to find unique art for your home](https://www.makeuseof.com/best-sites-find-unique-art/) , but creating one in DALL-E3 is easier and more personal. One prompt you can try is asking the platform to generate a poster of your favorite place.
@@ -38,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/b7e04611417644e075a5192806746da5346b51755
 
 And here is the final result:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## 2 Calendar Cover Artwork
 
  You can[make a printable calendar with Canva](https://www.makeuseof.com/tag/make-your-own-calendar-using-canva/) and other apps, but that doesn’t mean you can’t use DALL-E 3 to generate the front cover artwork. Whether you want to gift someone your calendar or use it yourself, try using this prompt.
@@ -60,6 +69,9 @@ I asked DALL-E 3:
 
 This was the result:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Prototype With Typos Etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-prototype.jpeg)
 
  As you can see, DALL-E 3 gave me a birthday card cover. However, it also added other objects that I didn’t want—such as a background and stencils. There were also spelling inaccuracies.
@@ -70,12 +82,21 @@ So, I tried the following prompt instead:
 
 Okay, so that didn’t go to plan…
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Error in Text and Design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-error.jpeg)
 
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ## 4 Desktop Wallpapers
 
  You can[create a desktop background using AI](https://www.makeuseof.com/how-to-create-desktop-background-using-ai/) in many ways, including with DALL-E 3\. This prompt is very simple. All I asked was the following:
@@ -84,6 +105,9 @@ Okay, so that didn’t go to plan…
 
  Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
 
 ## 5 Smartphone Wallpapers
@@ -98,6 +122,9 @@ So, I tried a different prompt:
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 6 Music Album Covers
 
  You can find several[websites to sell your own music](https://www.makeuseof.com/tag/great-sites-to-sell-your-own-music-on/) , and a visually appealing album cover is paramount to standing out and getting recognized.

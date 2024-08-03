@@ -1,7 +1,7 @@
 ---
 title: Ensuring Data Security When Utilizing Tailored GPT Models Like ChatGPT
-date: 2024-07-23 20:50:31
-updated: 2024-07-26 12:26:22
+date: 2024-08-02T16:15:40.596Z
+updated: 2024-08-03T16:15:40.596Z
 tags:
   - chatgpt
   - open-ai
@@ -77,6 +77,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -89,10 +92,16 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## Claude's Pros and Cons
 
 So, how does Claude compare to ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -109,6 +118,10 @@ So, how does Claude compare to ChatGPT?
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -127,6 +140,9 @@ So, how does Claude compare to ChatGPT?
 
  Both ChatGPT and Claude provided poems that fit the parameters of the prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
@@ -135,6 +151,10 @@ So, how does Claude compare to ChatGPT?
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
@@ -145,10 +165,16 @@ So, how does Claude compare to ChatGPT?
 
 When given the same problem, Claude gave us the following response:
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Translation
 
  Lastly, we asked ChatGPT and Claude to translate a paragraph of Japanese into English. The original paragraph reads:

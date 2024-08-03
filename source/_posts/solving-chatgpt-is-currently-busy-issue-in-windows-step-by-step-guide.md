@@ -1,7 +1,7 @@
 ---
 title: Solving 'ChatGPT Is Currently Busy' Issue in Windows - Step-by-Step Guide
-date: 2024-07-28 20:15:42
-updated: 2024-07-29 12:14:59
+date: 2024-08-02T16:15:49.895Z
+updated: 2024-08-03T16:15:49.895Z
 tags:
   - chatgpt
   - open-ai
@@ -21,14 +21,24 @@ thumbnail: https://thmb.techidaily.com/c62418c69c62e99541352f65884cd2a2f240cc4bb
 
 ## 1\. My AI Runs on GPT-3.5
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat Logo on top of Blurred OpenAI Logos](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-and-openai-logo.jpg)
 
  Snapchat uses the same[large language model](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) (LLM) as ChatGPT. The GPT model is a powerful LLM that composes coherent paragraphs, adopts different writing styles, and uses everyday language. Its output almost seems indistinguishable from human writing.
 
  Snapchat’s trainers also use the same datasets. You’ll notice that My AI knows the same things as ChatGPT does, especially with general knowledge questions.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 Close
@@ -55,8 +65,14 @@ Close
 
  Here’s My AI providing the weather forecast for Manila, Philippines. Google and Snapchat use different units of measurement, but they’re essentially the same after conversion.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 Close
@@ -67,8 +83,18 @@ Close
 
  Snapchat offers helpful location-based services. It can tell you which establishments and landmarks are near your current location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
@@ -81,6 +107,9 @@ Close
 
  While Bard AI and Bing Chat use more advanced LLMs than Snapchat, My AI surprisingly does well in Math.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
@@ -89,6 +118,9 @@ Close
 
  Try rephrasing word problems that My AI answers wrong. You’ll generate better output if you compose clear, detailed prompts—avoid vague phrasing.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Snapchat Continuously Updates My AI
 
  Snapchat unexpectedly joined the AI race. Initial users responded poorly to My AI—it faced backlash for its faulty training and restrictions.[The Washington Post](https://www.washingtonpost.com/technology/2023/03/14/snapchat-myai/) even showed the chatbot providing harmful advice.

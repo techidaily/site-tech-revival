@@ -1,7 +1,7 @@
 ---
 title: The Efficient Approach to Persona Creation with ChatGPT
-date: 2024-07-21 21:15:36
-updated: 2024-07-24 12:24:35
+date: 2024-08-02T16:16:43.739Z
+updated: 2024-08-03T16:16:43.739Z
 tags:
   - chatgpt
   - open-ai
@@ -45,8 +45,14 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## 2\. ShortlyAI
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
@@ -59,8 +65,14 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. DeepStory
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
 
  The next on the list,[DeepStory](https://deepstory.ai/) , is a specialized AI script generator. Not only will it help you get unstuck if you’re experiencing writer's block, but it also generates content in precise script form. This can be extremely useful if you are starting out in this field and still struggling with the structure.
@@ -69,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
@@ -83,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/19d1e1f9a7e016bed2849100cf93d86788ddae5b2
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
  The main benefit of AI story generators is for people who feel like they’ve lost their creativity. If you feel like you keep coming back to the same ideas, these can definitely help you break out of old habits.

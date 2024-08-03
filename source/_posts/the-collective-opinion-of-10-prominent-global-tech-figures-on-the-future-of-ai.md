@@ -1,7 +1,7 @@
 ---
 title: The Collective Opinion of 10 Prominent Global Tech Figures on the Future of AI
-date: 2024-07-26 10:26:30
-updated: 2024-07-28 11:40:44
+date: 2024-08-02T16:16:11.054Z
+updated: 2024-08-03T16:16:11.054Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,10 @@ It was also stated in the same report that:
 
 ## 2\. Increased Digital Supply Chain Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
@@ -55,6 +59,9 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
@@ -67,8 +74,14 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Improved Smart Home and IoT Security
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
@@ -79,8 +92,14 @@ It was also stated in the same report that:
 
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Further Exploit of Cloud Platforms
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![digital graphic of blue cloud blocks with circuitry within](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/cloud-blue-digital.jpg)
 
  There's a good chance you already have data stored on a cloud platform, such as Microsoft OneDrive or Google Drive. These platforms aren't easy to hack, but the hordes of data they store make them very lucrative targets for hackers.
@@ -99,6 +118,9 @@ It was also stated in the same report that:
 
  As we continue to see more conflicts, tragedies, and scandals arise, there's no doubt that cybercriminals will continue to try and profit from other people's hardships.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Each Year Brings New Cybersecurity Threats
 
  As 2023 comes to its conclusion, it's important to keep 2024's top security trends and predictions in mind. Remaining security-literate helps you fend off threats and better prepare yourself for malicious campaigns. No one knows for sure what 2024 will bring for the cybersecurity realm, but consider keeping the above in mind, as they'll very likely make an appearance.

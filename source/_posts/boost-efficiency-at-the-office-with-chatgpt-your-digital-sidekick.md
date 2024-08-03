@@ -1,7 +1,7 @@
 ---
 title: Boost Efficiency at the Office with ChatGPT, Your Digital Sidekick
-date: 2024-07-21 20:38:27
-updated: 2024-07-23 12:31:42
+date: 2024-08-02T16:16:42.772Z
+updated: 2024-08-03T16:16:42.772Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * [The ChatGPT App Can Also Access Your Apple Photo Library, Take Screenshots, and Use the Webcam](https://www.makeuseof.com/features-make-chatgpt-desktop-app-better-than-website/#the-chatgpt-app-can-also-access-your-apple-photo-library-take-screenshots-and-use-the-webcam)
 * [Is It Worth Using the ChatGPT Desktop Version?](https://www.makeuseof.com/features-make-chatgpt-desktop-app-better-than-website/#is-it-worth-using-the-chatgpt-desktop-version)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * The ChatGPT app for macOS introduces Voice Mode and a convenient launcher, allowing users to access ChatGPT from any window on their Mac.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  I've been using the ChatGPT desktop app for a little while now, and despite my first impressions, it's clear it's better than ChatGPT's website version in almost every way.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## How to Get ChatGPT for macOS
 
  macOS, iOS, and Android are the only OSs that have a native ChatGPT app so far. OpenAI says it will bring apps to other platforms in the future but hasn't yet disclosed when. While you can get the official app on Android and iOS from their respective app stores, the ChatGPT app doesn't yet have a version for the Mac App Store. Therefore, you should[avoid any ChatGPT apps on the Mac App Store](https://www.makeuseof.com/why-avoid-chatgpt-apps-on-mac-app-store/) because they'd likely be reskins or fakes.
@@ -55,10 +61,16 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  The desktop app offers a few extra features over the website, but the strongest and most obvious two are Voice Mode and the launcher.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot 2024-06-26 at 11.29.36 AM](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-11-29-36-am.png)
 
  If you use ChatGPT on your phone, you're likely already familiar with Voice Mode. It allows you to talk to ChatGPT with your voice as it responds and transcribes the entire conversation. You can activate it on your Mac by clicking the headphones button on the right side of the input box.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![The ChatGPT desktop app's launcher on a Mac desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-11-32-16-am.png)
 
  The launcher, however, is a unique-to-macOS feature that lets you use a shortcut (**Option** +**Space** ) to open a small prompt box. Enter your queries, and you can reach ChatGPT anywhere on your Mac. I've grown quite fond of it, and that's the sole reason I now use the desktop app instead of the website.
@@ -67,12 +79,18 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  After the big two features, Voice Mode and the launcher, a few useful features still earmark the Mac app from the website. OpenAI took advantage of the direct permissions an app can have on macOS and has expanded the options for uploading media.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT desktop app sorting through the Photos app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-5-21-58-pm.png)
 
  Apple users know the dichotomy of having photos in the Photo Library (which syncs through the Photos app on all your devices) and having an image stored in Files (iOS) or Finder (macOS). On the website, you're limited to uploading files and images from the latter, but the ChatGPT app can access your photo library directly, letting you filter through them better.
 
  You can also give the app permission to take screenshots and automatically upload them to the chat. This feature is very useful for quick analysis of text on your screen. Finally, it can also use your webcam with permission, which could be useful for quick photos of documents.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Attachment menu in the ChatGPT desktop app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/screenshot-2024-06-26-at-5-17-43-pm.png)
 
  All these media features are in the attachment menu on the left side of the input box, both on the launcher and in the app. Just click the**paperclip icon,** and all media options appear in the small menu. Of course, you'll need to give ChatGPT permissions the first time you use them.

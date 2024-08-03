@@ -1,7 +1,7 @@
 ---
 title: "Cutting-Edge Communication: Athletes & AI Partnership"
-date: 2024-07-23 19:58:15
-updated: 2024-07-24 12:36:35
+date: 2024-08-02T16:16:46.391Z
+updated: 2024-08-03T16:16:46.391Z
 tags:
   - chatgpt
   - open-ai
@@ -22,6 +22,13 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 * [How to Use DuckDuckGo's AI Chat](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#how-to-use-duckduckgo-39-s-ai-chat)
 * [What Are DuckDuckGo's AI Chat Limitations?](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#what-are-duckduckgo-39-s-ai-chat-limitations)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Key Takeaways
 
 * DuckDuckGo AI Chat offers anonymous access to popular chatbots, protecting user privacy.
@@ -36,12 +43,18 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 
 [DuckDuckGo is well-known for its privacy-friendly search engine](https://www.makeuseof.com/why-consider-duckduckgo/) , which, unlike most other options, doesn't collect and store heaps of data as you use it. DDG is extending its push for privacy into the world of AI chatbots, as its AI Chat lets you have anonymous conversations with popular AI chat models, including OpenAI's ChatGPT 3.5 Turbo, Anthropic's Claude 3 Haiku, Mistral AI's Mixtral 8x7B, and Meta's Llama 3 70B.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![DuckDuckGo' AI Chat supported language models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-models.jpeg)
 
  DuckDuckGo AI Chat is currently free to use within a daily usage limit. However, the company might introduce a paid version with additional features and more language models in the future.
 
  It's a novel idea. Other services combine multiple AI chatbots into a single tool, but DuckDuckGo's AI Chat will make it easier for users to use some of the best AI chatbots while maintaining some privacy.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## How DuckDuckGo AI Chat Keeps Your Chats Private
 
  Privacy is a rare commodity in the digital era, more so when it comes to interacting with AI chatbots. Generative AI chatbots are data-hungry, as they rely on large data sets to continuously train and improve their language models. For instance, ChatGPT stores your chat history for as long as you have an account.
@@ -54,14 +67,23 @@ thumbnail: https://thmb.techidaily.com/a34b3784d5ea8d0b2be6eaec5083d1cf0c7c6de5e
 
  In addition to anonymizing your chats, the company states that it has agreements with model providers that prevent them from using your conversations to develop or train their models and delete your chat history within 30 days. This allows you to engage with AI chatbots without worrying about being identified, making it ideal for sensitive conversations or discussing personal information.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Use DuckDuckGo's AI Chat
 
  Launch a browser of your choice and visit the[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat) website. Click****Get Started,** select your preferred AI model from the list, and click****Next**. Read the****Privacy Policy and Terms of Use** and click the****I Agree** button to proceed. You can enter your query or use one of the suggested prompts to start your anonymous conversation with the AI model.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![DuckDuckGo's AI welcome dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduck-ai-chat.jpeg)
 
  You can pick a different chat model at any time by clicking the name of the current model on the left of the screen and selecting another model from the list. Click****Start New Chat** to begin a conversation with the selected model. The DuckDuckGo AI Chat has a familiar interface, so if you have used other chatbots before, you will find it easy to use. Like other AI chatbots, you can ask questions, summarize text, compose emails, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## What Are DuckDuckGo's AI Chat Limitations?
 
  It's fair to say that DuckDuckGo's AI Chat privacy-focused approach may be a double-edged sword. While it provides a sense of security and anonymity, generative AI chatbots need a vast amount of data to predict human-like responses. In addition, AI chatbots are not static; they need continuous learning and improvement through user interactions.

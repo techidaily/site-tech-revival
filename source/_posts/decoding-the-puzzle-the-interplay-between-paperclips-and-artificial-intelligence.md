@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Puzzle: The Interplay Between Paperclips & Artificial Intelligence"
-date: 2024-07-23 17:31:29
-updated: 2024-07-26 12:47:41
+date: 2024-08-02T16:16:20.225Z
+updated: 2024-08-03T16:16:20.225Z
 tags:
   - chatgpt
   - open-ai
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
 
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
@@ -41,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
@@ -53,8 +60,15 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
@@ -67,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
@@ -79,6 +96,9 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Learn AI Prompt Engineering Today
 
  You don't need advanced tech knowledge to enroll in these online courses. You only need a creative mind, access to AI tools, and an openness to explore concepts in artificial intelligence. If you started as a skeptic, you'd come out of these videos more open-minded about the benefits of AI on your career and personal life.

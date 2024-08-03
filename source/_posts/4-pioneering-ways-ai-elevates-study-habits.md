@@ -1,7 +1,7 @@
 ---
 title: 4 Pioneering Ways AI Elevates Study Habits
-date: 2024-07-24 19:13:16
-updated: 2024-07-27 12:55:48
+date: 2024-08-02T16:16:11.834Z
+updated: 2024-08-03T16:16:11.834Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  This release is poised to shake things up with a huge impact on the world of business. ChatGPT has been quite the talk since late 2022, then what's this buzz surrounding the ChatGPT and Whisper APIs?
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## OpenAI Grants Access to ChatGPT and Whisper APIs
 
  The ChatGPT API is powered by the**gpt-3.5-turbo** language model, which is the same model that's used in ChatGPT. This means you can now get access to all the capabilities of ChatGPT through this API.
@@ -33,12 +36,23 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  Whisper’s large-v2 model is priced at $0.006/minute (of audio input), which is also cheaper.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Access to the API
 
  GPT models take in unstructured text and represent it as a sequence of**tokens** for the model to understand. But with ChatGPT models, the input is consumed as a sequence of messages along with metadata. Even though the input is still processed as a sequence of tokens using the ChatML (Chat Markup Language) format, it allows for a more conversational experience. To give more context, we've covered[how ChatGPT works and how it answers questions](https://www.makeuseof.com/how-does-chatgpt-work/) in detail.
 
  To interact with the[ChatGPT model](https://platform.openai.com/docs/guides/chat) via the new API, OpenAI has developed a new endpoint that accommodates this format. This adds to the list of[things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## How Will Businesses Use the ChatGPT and Whisper API?
 
 ![Someone holding business data and analytics while a working on a Samsung tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-samsung-table-and-papers-on-table.jpg)
@@ -51,8 +65,23 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  This can also be a good time for new SaaS products. Having seen so many pop up in the market already (such as[Speak](https://www.speak.com/) ), the possibilities are endless.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Does This Mean for Users?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
  Expect to see more natural language processing and improved conversational experiences in your mainstream apps. This is because ChatGPT and Whisper API will set a new standard for NLP, and developers will likely try to integrate similar features into their apps to keep up with the competition.
@@ -63,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  This could lead to a proliferation of new chatbot-based services and applications, as well as improved experiences for users interacting with these systems.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## A New Era of AI
 
  This is the first bold step towards promoting accessibility and inclusivity in AI development and deployment. Learning how to use AI tools like ChatGPT can be a game-changer for businesses, as it empowers them to streamline operations and gain valuable insights from vast amounts of data—and there’s no better time than today.

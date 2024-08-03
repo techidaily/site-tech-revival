@@ -1,7 +1,7 @@
 ---
 title: "Google News Update: What You Need to Know"
-date: 2024-07-22 15:20:21
-updated: 2024-07-24 10:42:24
+date: 2024-08-02T16:16:17.961Z
+updated: 2024-08-03T16:16:17.961Z
 tags:
   - chatgpt
   - open-ai
@@ -21,14 +21,23 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  These updates, among others, have seen companies rush to integrate GPT-4 into their apps and services. So, let's look at the first apps to take advantage of GPT-4.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Duolingo
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![Picture of Duolingo Max App Logo-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-of-duolingo-max-app-logo-1.jpg)
 
  Image Credit:[Duolingo](https://blog.duolingo.com/duolingo-max/)
 
  There are plenty of[language learning apps to choose from](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) , and developers are always looking for innovative ways to improve their products. Duolingo's early uptake of GPT-4 allowed them to roll out a new app called[Duolingo Max](https://blog.duolingo.com/duolingo-max/) , which brings two new GPT-4 enabled features.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![Screenshots from Duolingo Max](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshots-from-duolingo-max.jpg)
 
  Image Credit:[Duolingo](https://blog.duolingo.com/duolingo-max/)
@@ -38,8 +47,14 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Be My Eyes
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
 
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
@@ -60,6 +75,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a[Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### How Does Khan Academy Use GPT-4?
 
  Khan Academy is quick to point out that this tool will not give students answers to questions. Rather, it is intended to use AI to walk them through the steps to arrive at the correct answer, with GPT-4 leading them on.
@@ -101,6 +119,9 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 5\. ChatSonic
 
 ![Screenshot of ChatSonic homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatsonic-homepage.jpg)
@@ -127,8 +148,24 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
 
 Close
@@ -137,6 +174,9 @@ Close
 
  The Bing app is representative of the next generation of search engines and, in true ChatGPT style, is capable of far more than just listing relevant results.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### What Can You Use the Bing AI App For?
 
  This is an app that can be used as a personal assistant in so many different ways. Among the capabilities of Bing AI are:
@@ -152,6 +192,9 @@ Close
 
 **Download** : Bing AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Petey
 
 ![Screenshot of Petey home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-petey-home-page.jpg)

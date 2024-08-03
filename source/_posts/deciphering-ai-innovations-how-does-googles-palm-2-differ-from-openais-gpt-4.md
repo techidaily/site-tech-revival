@@ -1,7 +1,7 @@
 ---
 title: "Deciphering AI Innovations: How Does Google's PaLM 2 Differ From OpenAI's GPT-4?"
-date: 2024-07-25 14:51:30
-updated: 2024-07-27 11:51:15
+date: 2024-08-02T16:16:19.090Z
+updated: 2024-08-03T16:16:19.090Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  Bard AI, Google's ChatGPT alternative, has yet to impress despite Google's massive investment in artificial intelligence and a reputation for innovation. Fortunately, at Google I/O 2023, Google announced numerous new features that have the potential to supercharge Bard AI. We've compiled the most exciting Bard AI news announced at Google I/O 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Integration With Google Products and Third-Party Plugins
 
  This is one of the most significant Bard AI announcements since the chatbot itself was announced. Let's face it; Bard AI isn't as good as its competitors. We did a bit of a[ChatGPT vs. Bing AI vs. Bard AI test](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , and Bard didn't impress. There are a lot of shortfalls we could talk about, but that's a discussion for another day. The good news, however, is that a bulk of those shortfalls could be fixed by opening up Bard to third-party services and other Google products.
@@ -45,8 +51,14 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## 5\. Image Generation With Adobe Firefly
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -57,12 +69,18 @@ thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f7
 
 ## 6\. Tools for Exporting Generated Content
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)

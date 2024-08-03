@@ -1,7 +1,7 @@
 ---
 title: Navigate Safely Through These 5 Potential ChatGPT Scams
-date: 2024-07-21 14:53:41
-updated: 2024-07-24 10:26:39
+date: 2024-08-02T16:16:16.219Z
+updated: 2024-08-03T16:16:16.219Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/1bad4b421bb32846e5fc6403e8fcf6cbbd15b750f
 
 ## 1\. Bad git executable
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Bad git executable ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bad-git.jpg)
 
  Git is a version control system that manages and tracks project code changes and is used to collaborate with other developers. When you try to install something from GitHub without installing Git on your local device, you may get an import error known as**Bad git executable** .
@@ -63,10 +66,19 @@ thumbnail: https://thmb.techidaily.com/1bad4b421bb32846e5fc6403e8fcf6cbbd15b750f
 
  You can easily resolve this by opening your terminal inside the Auto-GPT's source code folder. To do so, right-click on your source code folder and select**Open in Terminal** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Open environment terminal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/opening-on-site.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Auto-GPT Stuck on Thinking Phase (Bad Gateway)
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Auto-GPT bad gateway](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error.jpg)
 
  When running an AI assistant, Auto-GPT will go through a process of thinking, reasoning, planning, criticism, and execution. It shouldn't take long before your AI assistant goes through the cycle. But in cases where the AI is stuck in the thinking phase, it may be because you don't have the credentials to use OpenAI's GPT model.
@@ -75,14 +87,23 @@ thumbnail: https://thmb.techidaily.com/1bad4b421bb32846e5fc6403e8fcf6cbbd15b750f
 
  Remember,[Auto-GPT is different from ChatGPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) . Although they both use the same GPT model, Auto-GPT needs a separate OpenAI payment method from your ChatGPT account.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ## 5\. API Key Not Set in ENV
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![API key not set in .env](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/set-your-openai-api-key-in-env-or-as-an-environment-variable.jpg)
 
  Auto-GPT uses API keys as credentials to use OpenAI's GPT technology. Without an API key, you won't be allowed to use GPT. If you've made sure you've added your API key in the**.env** file but still get the same issue, you will need to hard code your API key into the configuration file within the Auto-GPT folder.
 
  To hard code your API key, you'll want to go to**Auto-GPT** \>>**autogpt** \>>**config** , then open the**config.py** file using Notepad or any other code editor.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![Opening config file with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/a-hard-code-1.jpg)
 
  Once opened, you will see various API Keys and service configurations. You can then manually scan for the OpenAI API key variable to place your API key. Alternatively, you can hold**CTRL + F** , and type**self.openai\_api\_key** , then hit**Enter** .
@@ -91,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/1bad4b421bb32846e5fc6403e8fcf6cbbd15b750f
 
  Since the OpenAI API key from the**.env** file didn't work, it is likely that the other API keys you've added to the**.env** file also don’t work. So, if you're pairing Auto-GPT with other web API services, you'll also have to hard code them into the**config.py** file.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## 6\. Python Path Issues
 
 ![Python path issues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/error-python.jpg)
@@ -103,6 +127,14 @@ thumbnail: https://thmb.techidaily.com/1bad4b421bb32846e5fc6403e8fcf6cbbd15b750f
 
 ![Adding python to path automatically during installation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2020/10/Adding-python-to-path-automatically-during-installation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Easier Installation in the Future
 
  With Auto-GPT still in its early development phase, making a user-friendly installer isn't their top priority. To access Auto-GPT, you are expected to download the source code, configure files, install dependencies, and troubleshoot issues. But once Auto-GPT gets out of its beta stage, you can expect easier installs and maybe even a fully compiled application if the makers decide it’s ready for mass usage.

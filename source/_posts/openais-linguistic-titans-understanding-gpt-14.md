@@ -1,7 +1,7 @@
 ---
 title: "OpenAI’s Linguistic Titans: Understanding GPT-1–4"
-date: 2024-07-25 13:36:17
-updated: 2024-07-27 10:19:39
+date: 2024-08-02T16:16:16.254Z
+updated: 2024-08-03T16:16:16.254Z
 tags:
   - chatgpt
   - open-ai
@@ -25,8 +25,14 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 
  It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Real-Time Updates
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
@@ -47,8 +53,14 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 
  Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Activation
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice recognition homepod](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/voice-recognition-homepo.jpg)
 
  Image Credit:[Apple](https://support.apple.com/en-us/HT204753)
@@ -61,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 
 ### Executing Basic Commands
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
 
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
@@ -69,6 +84,9 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 
  ChatGPT simply does not have the means to integrate with other apps and devices, and it cannot associate itself with any of your smart home devices. It cannot provide you with the current status of any physical object or device, thereby making it useless in this department. Simply put, this is just not the purpose it was built for.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Answering Your Questions
 
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
@@ -81,6 +99,9 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Use Both Siri and ChatGPT for the Best Results
 
  While they're both great in their own ways, there's a way you can get the best of both worlds! Here's a[detailed guide of how you can use ChatGPT with Siri](https://www.makeuseof.com/how-to-use-chatgpt-with-siri-on-iphone/) , but we'll do a quick overview for you here:
@@ -91,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/0e0ddc9d3f1e3fb1a939d99c12ca5daee2fa294d0
 4. Tap**\+ Create new secret key** .
 5. Tap on the**Copy** icon in green and press**OK** to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
@@ -110,6 +134,9 @@ Now:
 
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 Close

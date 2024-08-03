@@ -1,7 +1,7 @@
 ---
 title: Beating Anxiety with Innovative 5 Chatbot Therapy
-date: 2024-07-27 21:48:41
-updated: 2024-07-28 12:45:30
+date: 2024-08-02T16:15:55.535Z
+updated: 2024-08-03T16:15:55.535Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/a81739d88952571f4be878bb2d8fbe2fb1485b177
 
  ChatGPT has undoubtedly made history as the most popular AI chatbot to hit our screens, but it has no shortage of competitors. One such competitor, Claude, offers an impressive AI chatbot service, but does this outshine ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Are ChatGPT and Claude?
 
  You've likely already heard of OpenAI's ChatGPT AI chatbot and its GPT[LLM (large language model)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) . While ChatGPT is presented as a chatbot, incredible work has been done behind the scenes to make it a knowledge hub.
@@ -77,6 +80,9 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### ChatGPT's Cons
 
  One of ChatGPT's biggest downsides is that its training data only dates up to September 2021\. This means that ChatGPT cannot provide any newer information, which limits what you can request.
@@ -89,10 +95,16 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
 
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Claude's Pros and Cons
 
 So, how does Claude compare to ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Claude's Pros
 
  There are some[ways in which Claude outshines ChatGPT](https://www.makeuseof.com/ways-claude-ai-chatbot-better-than-chatgpt/) , which we'll get into here.
@@ -131,10 +143,16 @@ So, how does Claude compare to ChatGPT?
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
 
  On the other hand, Claude provided a slightly lengthier poem, but both are fairly equal in their creative abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Mathematical Abilities
 
  We also asked both ChatGPT and Claude to solve a mathematical equation. Both chatbots were given the same trigonometry question, which involved finding the value of an angle.
@@ -149,6 +167,9 @@ When given the same problem, Claude gave us the following response:
 
  Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3\. Translation
 
  Lastly, we asked ChatGPT and Claude to translate a paragraph of Japanese into English. The original paragraph reads:
@@ -165,6 +186,9 @@ Claude's interpretation read...
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!

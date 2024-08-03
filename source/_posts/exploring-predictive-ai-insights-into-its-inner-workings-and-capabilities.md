@@ -1,7 +1,7 @@
 ---
 title: "Exploring Predictive AI: Insights Into Its Inner Workings and Capabilities"
-date: 2024-07-22 19:35:40
-updated: 2024-07-24 11:58:25
+date: 2024-08-02T16:16:35.138Z
+updated: 2024-08-03T16:16:35.138Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
  The developer community has lauded Whisper for its impressive capabilities, but it has been reported to be challenging to set up and run. However, OpenAI has made the**large-v2** model of Whisper available through its API, which offers improved speed and accessibility.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Pricing
 
  OpenAI now gives you 1,000 tokens at a rate of $0.002, which it claims is 10x cheaper than the existing GPT-3.5 models. Even though 1,000 tokens may seem like a lot, sending just one snippet of text for the API to respond to could cost several tokens. In the official ChatGPT API announcement post,[OpenAI](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) mentioned:
@@ -33,14 +36,24 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
  Whisper’s large-v2 model is priced at $0.006/minute (of audio input), which is also cheaper.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Access to the API
 
  GPT models take in unstructured text and represent it as a sequence of**tokens** for the model to understand. But with ChatGPT models, the input is consumed as a sequence of messages along with metadata. Even though the input is still processed as a sequence of tokens using the ChatML (Chat Markup Language) format, it allows for a more conversational experience. To give more context, we've covered[how ChatGPT works and how it answers questions](https://www.makeuseof.com/how-does-chatgpt-work/) in detail.
 
  To interact with the[ChatGPT model](https://platform.openai.com/docs/guides/chat) via the new API, OpenAI has developed a new endpoint that accommodates this format. This adds to the list of[things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## How Will Businesses Use the ChatGPT and Whisper API?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![Someone holding business data and analytics while a working on a Samsung tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-samsung-table-and-papers-on-table.jpg)
 
  With the integration of ChatGPT and Whisper into third-party software, businesses can now create more personalized and engaging experiences for their customers. One example is Snap's My AI feature, which uses the same technology to enable users to create their own virtual personal assistant.
@@ -53,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
 ## What Does This Mean for Users?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
 
  Expect to see more natural language processing and improved conversational experiences in your mainstream apps. This is because ChatGPT and Whisper API will set a new standard for NLP, and developers will likely try to integrate similar features into their apps to keep up with the competition.
@@ -63,6 +79,9 @@ thumbnail: https://thmb.techidaily.com/64cbdaa1aef5615ff39347b9db4c0280ec8c3ce52
 
  This could lead to a proliferation of new chatbot-based services and applications, as well as improved experiences for users interacting with these systems.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## A New Era of AI
 
  This is the first bold step towards promoting accessibility and inclusivity in AI development and deployment. Learning how to use AI tools like ChatGPT can be a game-changer for businesses, as it empowers them to streamline operations and gain valuable insights from vast amounts of data—and there’s no better time than today.

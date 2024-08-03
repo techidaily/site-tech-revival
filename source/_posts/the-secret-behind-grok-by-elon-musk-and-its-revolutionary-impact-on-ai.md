@@ -1,7 +1,7 @@
 ---
 title: The Secret Behind Grok by Elon Musk and Its Revolutionary Impact on AI
-date: 2024-07-23 20:52:41
-updated: 2024-07-24 12:29:10
+date: 2024-08-02T16:16:18.179Z
+updated: 2024-08-03T16:16:18.179Z
 tags:
   - chatgpt
   - open-ai
@@ -19,8 +19,14 @@ thumbnail: https://thmb.techidaily.com/fdc25fa9e7d76ca87920564362f13d91c2db27378
 
  As 2024 approaches, there are a number of cybersecurity trends and predictions to be aware of.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Increased AI-Powered Attacks
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
  Throughout 2022 and 2023, we've seen just how advanced AI systems currently are. The most notable AI-based service launched during this time is ChatGPT, a language processing tool powered by artificial intelligence. Not long after its launch, stories began surfacing about[cybercriminals using ChatGPT to write malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) . While the malware only seemed to be a simple Python-based script, it showed that AI can, in fact, be leveraged maliciously.
@@ -45,6 +51,9 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
@@ -55,8 +64,15 @@ It was also stated in the same report that:
 
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 4\. Further Exploit of EV Security Systems
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
 
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
@@ -69,6 +85,9 @@ It was also stated in the same report that:
 
 ## 5\. Improved Smart Home and IoT Security
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
@@ -89,6 +108,9 @@ It was also stated in the same report that:
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)

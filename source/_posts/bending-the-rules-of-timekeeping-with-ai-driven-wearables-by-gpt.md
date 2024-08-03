@@ -1,7 +1,7 @@
 ---
 title: Bending the Rules of Timekeeping with AI-Driven Wearables by GPT
-date: 2024-07-25 23:37:49
-updated: 2024-07-27 10:24:57
+date: 2024-08-02T16:16:15.355Z
+updated: 2024-08-03T16:16:15.355Z
 tags:
   - chatgpt
   - open-ai
@@ -17,8 +17,14 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  As the field of artificial intelligence continues to evolve at a dizzying pace, a new contender is poised to enter the playing field. TruthGPT, an AI chatbot proposed by tech billionaire Elon Musk, is generating a lot of buzz online.But what is TruthGPT? Why does Elon Musk want to create it? And how will it be different from the AI tools we already have?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is TruthGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Man Holding Artificial Intelligence Sticky Note](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence.jpg)
 
  TruthGPT is a proposed AI model aimed at addressing the ills of existing models that powers the likes of ChatGPT and Bard, with particular emphasis on truth and safety. According to Elon Musk, TruthGPT will be a "maximum truth-seeking" AI that understands the nature of the universe and would be unlikely to destroy humanity because it sees humans as a critical component of the universe.
@@ -27,6 +33,9 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
  You'll be forgiven if Musk's description doesn't give you a clear picture of what exactly he's trying to build. However, you'll get a better idea of what he's talking about by looking at why he's trying to build it in the first place.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Why Is Elon Musk Building TruthGPT?
 
  In an interview with[Fox News](https://www.foxnews.com/media/elon-musk-develop-truthgpt-warns-civilizational-destruction-ai) , Elon Musk expressed his concerns about how big AI firms can perpetuate bias and disinformation through AI chatbots—an emerging tool people increasingly depend on for information. Elon Musk also commented on the threat AI poses to humanity, emphasizing the possibility of an AI apocalypse, a scenario where AI systems could take control of our daily lives.
@@ -37,6 +46,9 @@ Maximum truth-seeking AI? Understand the nature of the universe?
 
 ## What Would TruthGPT Look Like?
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![artificial brain doing data analytics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/mou-article-banner.jpg)
 
  The first hint into how TruthGPT would look is in the name. Considering the "GPT" appendage, TruthGPT will likely have a similar architecture to ChatGPT. Remember, Elon Musk helped assemble OpenAI and the team that built ChatGPT's GPT model.
@@ -49,6 +61,9 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
 ## Why Building TruthGPT Is a Huge Challenge
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Cogs on a machine](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/pexels-pixabay-159298.jpg)
 
  Once you[understand how large language models like GPT work](http://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) , it becomes clear that it is impractical to be correct at all times. Typically trained on a large dataset of internet data, a lot of it is, predictably, going to be false information, and LLM's have no inert way of telling fact from fiction.
@@ -59,6 +74,9 @@ So, is this idea of a maximum truth-seeking AI even practical?
 
  For Musk, TruthGPT appears to be a chance for him to carve an AI model that he sees fit to deliver the truth. How that would come about without introducing his own biases is another question entirely and effectively leads us back to the start of the conversation. How are Musk's opinions on what is biased or not any different from those who trained and directed ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is TruthGPT an Exciting Possibility?
 
  Elon Musk's plans for TruthGPT seem noble and commendable. However, building an AI model with a negligible incidence of inaccuracies is a tough task.

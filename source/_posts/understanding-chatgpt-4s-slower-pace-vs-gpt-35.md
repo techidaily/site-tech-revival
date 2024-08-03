@@ -1,7 +1,7 @@
 ---
 title: Understanding ChatGPT-4's Slower Pace Vs. GPT-3.5
-date: 2024-07-27 12:56:23
-updated: 2024-07-28 10:27:34
+date: 2024-08-02T16:16:14.680Z
+updated: 2024-08-03T16:16:14.680Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
  While Siri and ChatGPT are both driven by AI, that's pretty much where the similarities end. So, we'll look at how Siri and ChatGPT differ and why they're both equally useful in their own unique ways.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Siri vs. ChatGPT: How Are They Different?
 
  The most fundamental difference between the two arises in their purpose. While ChatGPT is a language-based model with the ability to hold a human-like conversation, Siri is a virtual assistant that responds to commands and performs various tasks on Apple devices.
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ### Real-Time Updates
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
@@ -61,6 +67,9 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ### Executing Basic Commands
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
 
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
@@ -69,8 +78,14 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
  ChatGPT simply does not have the means to integrate with other apps and devices, and it cannot associate itself with any of your smart home devices. It cannot provide you with the current status of any physical object or device, thereby making it useless in this department. Simply put, this is just not the purpose it was built for.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Answering Your Questions
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
 
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
@@ -95,6 +110,9 @@ thumbnail: https://thmb.techidaily.com/93d0d2f898ab9f2aada0c8c4eae12b5163704e3e0
 
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
 Close
@@ -106,8 +124,14 @@ Now:
 3. Paste your copied API key in the**Text** box and tap**Next** twice.
 4. Now, tap**Add Shortcut** at the end, and it will appear on the Shortcuts page of your app.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
 
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
@@ -116,6 +140,9 @@ Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
  Siri and ChatGPT differ in their functions, their purpose, the way they work, and how they respond. Siri is a holy grail for all Apple users as it executes all your commands and performs essential tasks.

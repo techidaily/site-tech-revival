@@ -1,7 +1,7 @@
 ---
 title: "Discovering Artificebased Intelligence: The Top 9 Communities for Emerging Enthusiasts"
-date: 2024-07-24 11:12:49
-updated: 2024-07-27 12:29:51
+date: 2024-08-02T16:15:44.200Z
+updated: 2024-08-03T16:15:44.200Z
 tags:
   - chatgpt
   - open-ai
@@ -29,8 +29,14 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
  A lot of AI story writers are not just for fiction writing.[AI can assist content writers](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) and marketers who want to write website content, blog posts, social media posts, emails, and more. However, in this article, we’ll focus on the features related to fiction and AI script generators.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 1\. Rytr
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
 
  If you’re a beginner fiction writer or looking for a new story AI generator on a budget, this one is for you.[Rytr](https://rytr.me/) doesn’t come with many bells and whistles, but it gets the job done.
@@ -45,8 +51,15 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 2\. ShortlyAI
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
@@ -59,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
@@ -69,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)

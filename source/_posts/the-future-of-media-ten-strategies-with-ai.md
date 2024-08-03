@@ -1,7 +1,7 @@
 ---
 title: "The Future of Media: Ten Strategies with AI"
-date: 2024-07-25 18:10:27
-updated: 2024-07-26 11:19:22
+date: 2024-08-02T16:16:31.722Z
+updated: 2024-08-03T16:16:31.722Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/50acc7360c65e3c0e7572721fe570e1447b70b490
 
  Links have not been provided for each custom GPT because the documents uploaded as a knowledge base contain private information. However, you can still take the title and outline and make each idea your own, with your own private information. Just be careful if you share any custom GPTs, as you may accidentally grant access to sensitive information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ## 1\. Resume and Cover Letter Creator
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/50acc7360c65e3c0e7572721fe570e1447b70b490
 
 **Try this GPT:** [Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## 3\. Programming Project Assistant
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/50acc7360c65e3c0e7572721fe570e1447b70b490
 
 ## 4\. Personal Movie Recommender
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
 
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
@@ -63,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/50acc7360c65e3c0e7572721fe570e1447b70b490
 
 ## 5\. Interactive Text and Image Games
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
@@ -77,6 +89,9 @@ thumbnail: https://thmb.techidaily.com/50acc7360c65e3c0e7572721fe570e1447b70b490
 
 ## 6\. Personal Tutor
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
@@ -87,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/50acc7360c65e3c0e7572721fe570e1447b70b490
 
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
@@ -99,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/50acc7360c65e3c0e7572721fe570e1447b70b490
 
  Another example I tried was building a GPT for interior design. After teaching the GPT the kind of designs I liked, prompting the GPT to provide interior design ideas based on certain parameters was quite easy. With custom GPTs, there are many angles to explore; it all boils down to what you do and how creative you get. The possibilities to leverage GPTs are vast across professions.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Custom GPTs: Endless Possibilities for Work and Fun
 
  While ChatGPT provides a strong foundation, custom GPTs can take performance to new levels in specific domains. By training GPTs on niche datasets, we can create purpose-built AI assistants that excel at specific needs. The applications are vast, and we've barely scratched the surface of what could be possible.

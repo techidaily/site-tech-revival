@@ -1,7 +1,7 @@
 ---
 title: "Building Your Future in Language Model Engineering: Essential Tips and Techniques"
-date: 2024-07-24 16:45:14
-updated: 2024-07-27 10:42:47
+date: 2024-08-02T16:16:11.898Z
+updated: 2024-08-03T16:16:11.898Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  However, dig a little deeper, and notable differences become quickly apparent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What Is HuggingChat?
 
  We won't go into too much detail here, as by now, most people know[what generative AI chatbots are](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . But it is worth touching on, as this will help you understand some underlying differences between the two chatbots.
@@ -33,12 +36,24 @@ thumbnail: https://thmb.techidaily.com/46bc9e67353768ac792e1534a64f3c2875130c736
 
  Now that we know all about HuggingChat, let's see how it stacks up against ChatGPT.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare?
 
  Let's start by comparing how to access the tools. ChatGPT first, although it is possible to[use ChatGPT without an account](https://www.makeuseof.com/ways-to-use-chatgpt-without-openai-account/) , accessing the tool directly will require an[OpenAI account](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBJYnBoZTVIMkdqWVZDVmgxRjVVYXhhc2tnaDhmN1U4VaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDd3aGZkd2QxOG91WmJFV3BBdEN3TXhWVF9UdWRwOEUzo2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc) . Once you have set this up, the tool is free to use (unless you[upgrade to ChatGPT Pro](https://www.makeuseof.com/how-to-use-gpt4/) ).
 
  Now, with HuggingChat, the waters are a bit murkier. If asked, HuggingChat will assure you that an account is required, as the image below confirms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -64,6 +79,9 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summarizing Articles
 
  You can use URLs to "force" both tools to access more current data. We tested this ability by asking them to summarize a MakeUseOf article on[remotely accessing Android phones](https://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) . In the first instance, we provided the URL.
@@ -84,6 +102,9 @@ This was ChatGPT's effort:
 
 HuggingChat's summary looked like this:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
@@ -96,10 +117,16 @@ HuggingChat's summary looked like this:
 
  We asked both to compose a two-verse love song based on Romeo and Juliet. This was ChatGPT's response:
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
 And this was HuggingChat's.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 Shakespeare himself would be impressed with both of these!
@@ -116,6 +143,9 @@ Shakespeare himself would be impressed with both of these!
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Which Is Best: HuggingChat or ChatGPT?
 
  As you can see from the tests, there is no easy answer. ChatGPT had a definite edge when summarizing articles, whereas HuggingChat had the advantage when you compare how current the training data is.

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Inspiration: A Guide to Brainwriting Using Mindmaps in Collaboration with ChatGPT"
-date: 2024-07-22 19:50:50
-updated: 2024-07-24 12:43:40
+date: 2024-08-02T16:15:43.438Z
+updated: 2024-08-03T16:15:43.438Z
 tags:
   - chatgpt
   - open-ai
@@ -41,8 +41,14 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Fails to Give Personalized Financial Advice
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
@@ -53,8 +59,14 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## 4\. Relies Heavily on Historical Data
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -65,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
  The crypto market is tied to the traditional market in ways you'd never expect. If something big goes wrong in the traditional financial industry, chances are the ripples will be felt by the crypto industry. After all, people use traditional money to buy crypto, so it's natural for the two markets to interlink.
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/ee671cfb7ee587015883db0a3fbeb82905b8663f1
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## ChatGPT Is Revolutionary but Far From Perfect
 
  There's no denying that ChatGPT can help you in a myriad of ways, be it in research, writing, idea generation, or creativity. But if you want to use this chatbot in your crypto trading venture, it's paramount that you consider the risks and downsides listed above.

@@ -1,7 +1,7 @@
 ---
 title: Deep Dive Into the Latest AI Announcements From Apple's WWDC 2023
-date: 2024-07-24 17:38:33
-updated: 2024-07-25 11:20:11
+date: 2024-08-02T16:16:29.605Z
+updated: 2024-08-03T16:16:29.605Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  Bard AI, Google's ChatGPT alternative, has yet to impress despite Google's massive investment in artificial intelligence and a reputation for innovation. Fortunately, at Google I/O 2023, Google announced numerous new features that have the potential to supercharge Bard AI. We've compiled the most exciting Bard AI news announced at Google I/O 2023.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. No More Waitlist for Bard AI
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
@@ -35,8 +38,14 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Image Prompting
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
@@ -45,6 +54,14 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
@@ -55,8 +72,14 @@ thumbnail: https://thmb.techidaily.com/abf0e33b95bf1926982b5d9dc405098c29f20c39d
 
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Tools for Exporting Generated Content
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.

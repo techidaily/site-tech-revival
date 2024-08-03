@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough for Running ChatGPT on Ubuntu via the Terminal
-date: 2024-07-27 22:59:18
-updated: 2024-07-28 10:40:48
+date: 2024-08-02T16:16:36.914Z
+updated: 2024-08-03T16:16:36.914Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
 ## Multi-Modal AI and DIY: What Is a Multi-Modal AI?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![An electric bulb on a black chalkboard with chat bubbles](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bulb-on-chalkboard.jpg)
 
  Multi-modal AI refers to AI models that can process and understand different types of data, such as text, images, and videos. Get this, if GPT-4 becomes a multi-modal AI, it will be a game changer for DIY enthusiasts.
@@ -31,12 +34,35 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
  It could also provide step-by-step instructions that incorporate both text and visual cues, making it easier for users to follow along. With multi-modal capabilities, GPT-4 could open up a whole new world of possibilities for DIY enthusiasts looking to take on more complex projects.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Will GPT-4 Speed Up DIY Development?
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![Woman working on a circuit board](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/woman-working-on-a-circuit-board.jpg)
 
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### Advanced Language Processing Capabilities
 
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
@@ -51,6 +77,9 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
  Integrating algorithms can improve model response relevance and accuracy, leading to personalized DIY recommendations based on user behavior. ML algorithms can recognize DIY-related keywords and tailor user-specific responses, easing the product research and development process.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Future of Microcontroller-Based Platforms
 
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
@@ -59,6 +88,9 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bringing AI to the DIY World
 
  GPT-4 will undoubtedly transform the DIY industry. Generation of personalized and accurate responses, multilingual support, virtual DIY assistance, coding assistant, and debugging features are just the tip of the iceberg of the capabilities the upcoming language model has to offer the field.

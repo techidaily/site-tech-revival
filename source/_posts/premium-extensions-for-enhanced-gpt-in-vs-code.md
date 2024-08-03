@@ -1,7 +1,7 @@
 ---
 title: Premium Extensions for Enhanced GPT in VS Code
-date: 2024-07-23 16:29:37
-updated: 2024-07-26 12:58:53
+date: 2024-08-02T16:16:13.957Z
+updated: 2024-08-03T16:16:13.957Z
 tags:
   - chatgpt
   - open-ai
@@ -29,14 +29,23 @@ thumbnail: https://thmb.techidaily.com/e8207335add140aa41173bc907c1a473d602bd8fa
 
  To use voice input in the app, all you have to do is tap on the microphone icon in the**Message** bar, and your recording will begin. Tap anywhere in the blue area to stop recording, and the app will automatically convert your words into text. Then, tap the**blue arrow** to send your message.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap to stop recording on chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/tap-to-stop-recording-on-chatgpt-ios-app.jpg)
 
 ![converting to text prompt on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/converting-to-text-prompt-on-ios-app.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![voice to text conversation in chatGPT iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-to-text-conversation-in-chatgpt-ios-app.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Better User Interface and Accessibility
 
  When using the ChatGPT website, one would repeatedly have to go through the cumbersome process of opening a browser, launching a website, and logging in before actually getting to use it. The ChatGPT iOS app eradicates the need for such a lengthy process as the app is available to use at a single touch and is right at your fingertips, much like any other app.
@@ -45,6 +54,9 @@ Close
 
  Due to its simplistic design, people from all age groups can easily begin using the app without much need for intensive learning and practice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![ChatGPT opening page on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-opening-page-on-ios-app.jpg)
 
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
@@ -53,6 +65,9 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## 3\. Change Your Preferred Language for Speech
 
  If introducing voice input wasn't enough to be a step ahead of everyone else in the AI race, this feature certainly seals the deal. Not only can you now use speech to interact with ChatGPT, but you can do so in more than 35 different languages, with more to come as time passes.
@@ -65,6 +80,9 @@ Close
 2. Select**Main Language** under**Speech** . It will be set to**Auto-Detect** by default.
 3. Now, choose your preferred language.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![chatGPT menu on iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-menu-on-ios-app.jpg)
 
 ![haptic feedback toggle on and main language option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggle-on-and-main-language-option.jpg)
@@ -95,10 +113,30 @@ Close
 
  The ChatGPT app also syncs your chat history across other compatible Apple devices, like your iPad, allowing you to access it from anywhere.[Deleting your ChatGPT history](https://www.makeuseof.com/how-to-delete-your-chatgpt-history/) is possible on both the website and the app.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![viewing chatGPT history while offline in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/viewing-chatgpt-history-while-offline-in-ios-app.jpg)
 
 ![chatGPT old conversation while offline](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-old-conversation-while-offline.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![search chatGPT history offline in app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/search-chatgpt-history-offline-in-app.jpg)
 
 Close
@@ -109,12 +147,18 @@ Close
 
  OpenAI states on its website that users with a[ChatGPT Plus subscription](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) get exclusive access to faster response times on the iOS app, so you can always upgrade if that's something you're looking for.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![haptic feedback toggled off and ChatGPT plus option in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/haptic-feedback-toggled-off-and-chatgpt-plus-option-in-ios-app.jpg)
 
 ![chatGPT Plus in iOS app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-plus-in-ios-app.jpg)
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## ChatGPT's iOS App Makes a Statement
 
  Rated number one on the App Store's Productivity charts just days after its launch, OpenAI's ChatGPT app for iOS has been an incredible hit among Apple users. You can download the app on your iPhone and iPad from the App Store and sync your conversations across your devices.

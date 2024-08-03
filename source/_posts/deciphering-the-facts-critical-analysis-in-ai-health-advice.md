@@ -1,7 +1,7 @@
 ---
 title: "Deciphering the Facts: Critical Analysis in AI Health Advice"
-date: 2024-07-25 15:55:28
-updated: 2024-07-27 12:59:39
+date: 2024-08-02T16:16:13.116Z
+updated: 2024-08-03T16:16:13.116Z
 tags:
   - chatgpt
   - open-ai
@@ -25,8 +25,23 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The Pros of Using Local LLMs
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
@@ -37,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  Today, both[chatbots have been so tightly censored](https://www.makeuseof.com/what-is-chatbot-censorship/) that they won't even help you write a fictional crime novel with violent scenes. Some AI chatbots won't even talk about religion or politics. Although LLMs you can set up locally aren't entirely censorship-free, many of them will gladly do the thought-provoking things the public-facing chatbots won't do. So, if you don't want a robot lecturing you about morality when discussing topics of personal interest, running a local LLM might be the way to go.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Better Data Privacy
 
  One of the primary reasons people opt for a local LLM is to ensure that whatever happens on their computer stays on their computer. When you use a local LLM, it's like having a conversation privately in your living room—no one outside can listen in. Whether you're experimenting with your credit card details or having sensitive personal conversations with the LLM, all the resulting data is stored only on your computer. The alternative is using publicly-facing LLMs like GPT-4, which gives the companies in charge access to your chat information.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Offline Usage
 
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
@@ -53,8 +74,14 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  Publicly available AI chatbots have restricted customization due to security and censorship concerns. With a locally hosted AI assistant, you can fully customize the model for your specific needs. You can train the assistant on proprietary data tailored to your use cases, improving relevance and accuracy. For example, a lawyer could optimize their local AI to generate more precise legal insights. The key benefit is control over customization for your unique requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## The Cons of Using Local LLMs
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
  Before you make the switch, there are some downsides to using a local LLM you should consider.
@@ -79,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/f5404a87cd8723307a9d0e6c73b4b785c1ac7bfa8
 
  Additionally, local LLMs can't access live internet data. This restricts usefulness for real-time queries like stock prices or weather. To enjoy a semblance of real-time data, local LLMs will typically require an additional layer of integration with internet-connected services. Internet access is one of the reasons you might[consider upgrading to ChatGPT Plus](https://www.makeuseof.com/reasons-you-should-upgrade-chatgpt-plus/) !
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Should You Use a Local LLM?
 
  Local large language models provide tempting benefits but also have real downsides to consider before taking the plunge. Less censorship, better privacy, offline access, cost savings, and customization make a compelling case for setting up your LLM locally. However, these benefits come at a price.

@@ -1,7 +1,7 @@
 ---
 title: "Llama 3 and GPT-4 Face-Off: Determining the Superior AI"
-date: 2024-07-23 23:39:19
-updated: 2024-07-24 12:29:50
+date: 2024-08-02T16:16:28.015Z
+updated: 2024-08-03T16:16:28.015Z
 tags:
   - chatgpt
   - open-ai
@@ -41,6 +41,9 @@ Imagine you are a movie and TV show recommendation expert. A user wants to find 
 
 ![Similar tv shows recommendation from ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/similar-tv-shows-recommendation-from-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ## 2\. Try a Different Genre
 
  Are you tired of seeing the same genre of movies but have no clue what else you'd love? You're not alone. Fortunately, ChatGPT can help out. Simply tell ChatGPT what you’ve had enough of, and prompt it to surprise you with something radically different.
@@ -65,8 +68,14 @@ I would like to request a list of five TV shows that feature a female protagonis
 
 We tried the prompt above and got some very enticing suggestions.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TV shows with a certain storyline-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tv-shows-with-a-certain-storyline-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## 4\. Help Remember a Movie You've Forgotten
 
  You probably have that one movie you've seen in the past and would love to see again but can't remember the name. Maybe you saw it at a young age or just don't have great luck with keeping movie names in memory. ChatGPT can help you hunt down that elusive movie. Just describe every bit of the movie you can remember. Names of any actor you can recall, major scenes, storyline, every element you can think of, and let ChatGPT do its magic.
@@ -77,8 +86,14 @@ Below is an example of a prompt that can help you with such a request:
 
  When we tried the prompt above, we had the exact movie we had in mind, which was the 2000 movie "Romeo Must Die."
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ChatGPT finds movies from description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-finds-movies-from-description.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## 5\. Use ChatGPT to Discover Lesser-Known or Underrated Movies
 
  There are a lot of hidden gems sitting around in the catalogs of streaming services. A number of them are better than similar titles with better publicity. ChatGPT can help you discover some of these lesser-known movies you may have overlooked.
@@ -87,6 +102,9 @@ Below is an example of a prompt that can help you with such a request:
 
 ![Underated Korean Tv series suggested by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/underated-korean-tv-series-suggested-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Research Movies Starring Your Favorite Actors
 
  You just watched an amazing TV show with an unfamiliar lead actor. You enjoyed their performance and want to see more of their movies. Or, maybe you just want to research more movies from popular actors you follow. Whichever is the case, ChatGPT can assist you with that. You can simply use prompts like:
@@ -99,6 +117,10 @@ Below is an example of a prompt that can help you with such a request:
 
 ![Action movies featuring Dwayne--The Rock--Johnson](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/action-movies-featuring-dwayne-the-rock-johnson.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 7\. Discover Movies From Short Clips
 
  Remember that frustrating moment when you watched a short movie clip on TikTok or YouTube shorts but had no idea which movie it was? It's like solving a puzzle without all the pieces. You came across an exciting scene from a movie that caught your interest, but the clip didn't provide any hints or title. Don't worry; ChatGPT is here to help.

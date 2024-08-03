@@ -1,7 +1,7 @@
 ---
 title: The Unreliable Shield of Artificative Intelligence
-date: 2024-07-25 11:45:48
-updated: 2024-07-26 11:54:36
+date: 2024-08-02T16:16:36.555Z
+updated: 2024-08-03T16:16:36.555Z
 tags:
   - chatgpt
   - open-ai
@@ -21,8 +21,14 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1.[Decktopus AI](https://www.decktopus.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of Decktopus AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/decktopus-ai-presentation-generator-screenshot.jpg)
 
  Decktopus is an AI-powered presentation generator that aims to simplify the process of making presentations for any situation, and getting started with it couldn't be easier. All you have to do is type out a description of what you want your presentation to be about. If you’re not sure, Decktopus can often provide some useful suggestions.
@@ -45,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 3.[Tome](https://tome.app/)
 
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
@@ -57,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
@@ -75,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
 ## 6.[ChatBA](https://www.chatba.com)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
@@ -83,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
@@ -93,6 +112,9 @@ thumbnail: https://thmb.techidaily.com/22dc377b14c8750c75c360ab6d9b7d702e69a18c8
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Make a Presentation Like Never Before
 
  There are plenty of AI tools out there that can create presentations for you entirely from scratch. Whether you’re looking for a presentation you can bring up at your next meeting, a way to engage your colleagues, or just a faster way of making that next slideshow, there’s an AI presentation generator out there for you.

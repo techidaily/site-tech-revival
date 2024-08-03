@@ -1,7 +1,7 @@
 ---
 title: Set Up a Cost-Free, On-Site Version of ChatGPT Using GPT4All on Windows
-date: 2024-07-25 18:34:51
-updated: 2024-07-28 10:51:16
+date: 2024-08-02T16:15:59.606Z
+updated: 2024-08-03T16:15:59.606Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,9 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
  Nvidia's ecosystem for AI hardware acceleration is generally considered more mature. As a result, there's more Nvidia-centric software for GPU-accelerated tasks, like video encoding and, now, Machine Learning. GPT4All is among the tools that "play nicer" with Nvidia's GPUs.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Install GPT4All
 
  GPT4All is available for Windows, macOS, and Ubuntu. For this article, we'll be using the Windows version.
@@ -55,8 +58,14 @@ Let's see how you can install and use GPT4All on your Windows PC.
 3. GPT4All's installer needs to download extra data for the app to work. So if the installer fails, try to rerun it after you grant it access through your firewall.  
 ![GPT4All Installer Downloading Component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-installer-downloading-component.jpg)
 4. When you eventually find yourself looking at GPT4All's interface, you will also have to download a Language Model to use it. GPT4All will present you with a list of available models. Check its size (next to its name) to ensure you have enough RAM or VRAM to run it. When you decide on a model, click its**Download** button to have GPT4All download and install it.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![GPT4All Model Size and Download Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-model-size-and-download-button.jpg)
 5. If you change your mind, click the**Cancel** button to stop an active download and choose another model.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Downloading Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-downloading-language-model.jpg)
 6. To save some time, if you want to try out multiple models, you can have GPT4All download them in parallel. However, note that the gigabytes can soon add up and ensure you have enough storage space for all the models you selected.  
 ![GPT4All Downloading Multiple Language Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-downloading-multiple-language-models.jpg)
@@ -68,14 +77,31 @@ Let's see how you can install and use GPT4All on your Windows PC.
 1. Use the drop-down menu at the top of the GPT4All's window to select the active Language Model.  
 ![GPT4All Language Model Selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-language-model-selection.jpg)
 2. Use the**burger icon** on the top left to access GPT4All's control panel.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![GPT4All Options Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-options-panel.jpg)
 3. The first options on GPT4All's panel allow you to create a**New chat** ,**rename** the current one, or**trash** it.  
 ![GPT4All Chat Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chat-name.jpg)
 4. The**Updates** button lets you update the application and add or remove components.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![GPT4All Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-update.jpg)
 5. The**Downloads** button gives you access to the**Language Models** panel.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![GPT4All Download](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-download.jpg)
 6. You can use the**Language Models** panel to install new LLMs, remove installed ones, and change their download path.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![GPT4All Language Model Management](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-language-model-management.jpg)
 7. Chatting with an LLM in GPT4All is similar to ChatGPT's online version. Type something in the**entry field** at the bottom of GPT4All's window, and after pressing Enter, you will see your prompt in GPT4All's main view. The selected Language Model's response will appear below your prompt.  
 ![GPT4All Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chatting.jpg)
@@ -84,6 +110,9 @@ Let's see how you can install and use GPT4All on your Windows PC.
 9. Similarly, if you don't like an already generated response and want to see an alternative take, you can click the**Regenerate Response** button, which appears on the same spot.  
 ![GPT4All Regenerate Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-regenerate-response.jpg)
 10. Note that GPT4All also allows you access to what's known as**Unrestricted** language models. Those don't come with artificial limitations. This "freedom" supposedly "liberates" and "empowers" them to be more creative and offer more factual responses. However, it also means they may produce offensive output.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![GPT4All Unrestricted Language Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-unrestricted-language-model.jpg)
 11. The two first buttons on the top right of the app allow you to**reset** a conversation or**copy** it to the clipboard to paste it elsewhere.  
 ![GPT4All Reload and Copy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-reload-and-copy.jpg)
@@ -92,29 +121,53 @@ Let's see how you can install and use GPT4All on your Windows PC.
 13. The**Generation** tab of GPT4All's Settings allows you to configure the parameters of the active Language Model. By changing variables like its**Temperature** and**Repeat Penalty** , you can tweak its creativeness, conciseness, and so on.  
 ![GPT4All Generation Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-generation-variables.jpg)
 14. The**Application** tab allows you to choose a**Default Model** for GPT4All, define a**Download path** for the Language Model, assign a specific number of**CPU Threads** to the app, have every chat automatically saved locally, and enable its internal**web server** to have it accessible through your browser.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ![GPT4All Application Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-application-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Chatting With Your Documents With GPT4All
 
  The best feature of GPT4All, though, is how it makes it effortless to add your own document to your selected Language Model. As we saw, it's possible to do the same with ChatGPT, and[build a custom ChatGPT with your own data](https://www.makeuseof.com/build-custom-chatgpt-with-your-own-data/) . However, the process is much easier with GPT4All, and free from the costs of using Open AI's ChatGPT API.
 
 1. Place some of your documents in a folder. Ensure they're in a widely compatible file format, like TXT, MD (for Markdown), Doc, etc.  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Local Documents in Windows File Explorer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-documents-in-windows-file-explorer.jpg)
 2. On GPT4All's**Settings** panel, move to the**LocalDocs Plugin (Beta)** tab page. Click the**Browse** button and point the app to the folder where you placed your documents. Then click on**Add** to have them included in GPT4All's external document list.  
 ![GPT4All Local Docs Plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin.jpg)
 3. You will see an entry for your documents folder on GPT4All's**LocalDocs Plugin** document list. If you decide to remove a documents folder, select it from here and click the**Remove** button on its right.  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Local Docs Plugin with Added User Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-with-added-user-document.jpg)
 4. From the same spot, you can tweak the**Document snippet size** and the**Document snippets to process per prompt** values from the bottom left of the panel. Increasing those will improve the selected Language Model's ability to "understand" your documents and offer more relevant responses. However, it will also severely slow GPT4All down since it must analyze your documents after every prompt.  
 ![GPT4All Local Docs Plugin Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-options.jpg)
 5. You can manage your external documents through GPT4All's**Collections** button.  
 ![GPT4All Collections Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-collections-button.jpg)
 6. You can add multiple document collections to GPT4All. It's better, though, instead of having them all active all the time, dragging GPT4All's performance down to control**which** group of documents ("collection") you want active from the**Collections** panel.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Available Collections Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-available-collections-panel.jpg)
 7. After you add some documents and enable their collection, GPT4All will tell you that it's**processing** them after a prompt.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![GPT4All Processing User s Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-processing-user-s-documents.jpg)
 8. Each time GPT4All presents a response that pulls data from your documents, it will offer a list of**references** and**context links** under the response.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![GPT4All Response from User's Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-from-user-s-documents.jpg)
 9. By clicking a**context link** , GPT4All will show you a snippet of text from your documents that it used for its response.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
 
 ## Your Own ChatGPT on Windows

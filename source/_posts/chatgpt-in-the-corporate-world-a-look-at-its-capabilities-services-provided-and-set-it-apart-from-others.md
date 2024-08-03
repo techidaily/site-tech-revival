@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT in the Corporate World: A Look at Its Capabilities, Services Provided, and Set It Apart From Others"
-date: 2024-07-27 11:51:52
-updated: 2024-07-29 12:30:36
+date: 2024-08-02T16:16:02.900Z
+updated: 2024-08-03T16:16:02.900Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  For material, we thought it would be quite fun to give ChatGPT a crack at writing an intro for this article and then comparing it against the “human-generated” intro:
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Test One: Comparing a Human and AI-Generated Article Intro
 
  The first thing we did was get ChatGPT to generate an introduction. We entered the title and gave it no further information. For the record, we used GPT-3.5 for the test.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT generated intro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-chatgpt-generated-intro.jpg)
 
  We then copied the text and pasted it into ZeroGPT. As you can see, the results were less than stellar.
@@ -43,6 +49,23 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  At least it got this part correct. Overall, ZeroGPT failed in this round. It did determine that at least part of the AI-generated introduction was suspect but failed to highlight specific issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### Test Two: The False Positive Problem
 
  As the use of ChatGPT and other AI tools grows, the likelihood of knowing or hearing about someone being confronted by claims that their work was AI-generated increases. These accusations are one of the more serious problems with ChatGPT and AI-detection tools like ZeroGPT, as this kind of error can damage reputations and affect livelihoods.
@@ -53,6 +76,9 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
  To be fair, I was aiming for this result. I kept the text generic and used “salesy” language. But the point that a human wrote this remains just as valid. This is not an inconvenience or something that can just be shrugged off. Errors like this can have serious ramifications for writers, students, and other professionals who create written works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Test Three: Testing ZeroGPT on Fiction
 
  For the third test, we are going to use ChatGPT and ask it to write some fiction. To do this, we created a scenario and prompted ChatGPT to write a brief introduction to a fictional story.
@@ -63,10 +89,16 @@ thumbnail: https://thmb.techidaily.com/f5381cefae4db3e611ab844891c6d979a90ee4ce4
 
 And here was the response from ZeroGPT:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Screenshot of ZeroGPT failing fiction test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/screenshot-of-zerogpt-failing-fiction-test.jpg)
 
  As is apparent from the result, ZeroGPT is unable to tell fact from fiction when dealing with fiction!
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Test Four: News Articles
 
  There is something unsettling about AI being able to inform us of what’s happening in the world around us. This is not always necessarily “fake news,” as it can be relevant and informative, but there are[definite ethical concerns about AI](https://www.makeuseof.com/ethical-dilemmas-in-artificial-intelligence/) .
@@ -83,6 +115,10 @@ And here was the response from ZeroGPT:
 
  But the point remains valid. This was written by a human using research found on the internet.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Why Aren't AI-Detection Tools Very Good?
 
  There is no single reason behind the flaws in tools like ZeroGPT. However, one fundamental problem is the effectiveness of generative AI chatbots. These represent an incredibly powerful and rapidly evolving technology that effectively makes them a moving target for AI detection tools.
@@ -107,6 +143,9 @@ And here was the response from ZeroGPT:
 
  The challenges that these tools face are mirror images of the challenges that society faces as we grapple with the dilemmas associated with a new technological age.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## AI or Not AI? That Is the Question
 
  Tools like ZeroGPT are flawed, there is no doubt of that. But they aren’t worthless, and they represent an important step as we try to manage and regulate AI. Their accuracy will improve, but so will the sophistication of the AI they are trained to detect. Somewhere in the middle of this arms race, we need to find a balance that society is comfortable with.

@@ -1,7 +1,7 @@
 ---
 title: Evaluating ChatGPT for Proofreading Tasks
-date: 2024-07-25 11:51:52
-updated: 2024-07-27 10:35:32
+date: 2024-08-02T16:16:17.279Z
+updated: 2024-08-03T16:16:17.279Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
  However, dig a little deeper, and notable differences become quickly apparent.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## What Is HuggingChat?
 
  We won't go into too much detail here, as by now, most people know[what generative AI chatbots are](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . But it is worth touching on, as this will help you understand some underlying differences between the two chatbots.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
  Now that we know all about HuggingChat, let's see how it stacks up against ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare?
 
  Let's start by comparing how to access the tools. ChatGPT first, although it is possible to[use ChatGPT without an account](https://www.makeuseof.com/ways-to-use-chatgpt-without-openai-account/) , accessing the tool directly will require an[OpenAI account](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBJYnBoZTVIMkdqWVZDVmgxRjVVYXhhc2tnaDhmN1U4VaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDd3aGZkd2QxOG91WmJFV3BBdEN3TXhWVF9UdWRwOEUzo2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc) . Once you have set this up, the tool is free to use (unless you[upgrade to ChatGPT Pro](https://www.makeuseof.com/how-to-use-gpt4/) ).
@@ -58,18 +64,43 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 As you can see, HuggingChat answered this easily.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Summarizing Articles
 
  You can use URLs to "force" both tools to access more current data. We tested this ability by asking them to summarize a MakeUseOf article on[remotely accessing Android phones](https://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) . In the first instance, we provided the URL.
 
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
@@ -104,6 +135,9 @@ And this was HuggingChat's.
 
 Shakespeare himself would be impressed with both of these!
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Security and Privacy
 
  Security and privacy are general concerns surrounding generative AI. There are[definite security concerns with ChatGPT](https://www.makeuseof.com/does-chatgpt-have-security-risks-or-issues/) , but it is fair to say that most of these concerns apply to most chatbots, including HuggingChat.
@@ -116,6 +150,9 @@ Shakespeare himself would be impressed with both of these!
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Which Is Best: HuggingChat or ChatGPT?
 
  As you can see from the tests, there is no easy answer. ChatGPT had a definite edge when summarizing articles, whereas HuggingChat had the advantage when you compare how current the training data is.

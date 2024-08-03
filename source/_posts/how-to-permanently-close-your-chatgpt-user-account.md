@@ -1,7 +1,7 @@
 ---
 title: How to Permanently Close Your ChatGPT User Account
-date: 2024-07-24 18:25:37
-updated: 2024-07-25 10:53:20
+date: 2024-08-02T16:15:49.693Z
+updated: 2024-08-03T16:15:49.693Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 
 ## 1 [Runway's Gen-2](https://research.runwayml.com/gen2)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
 
 * **Free:** 125 Credits
@@ -43,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/9d6bb2044f5f33dd6b599b386099f3868d77bd593
 
 ## 2 [Pika](https://pika.art/)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
 
 * **Free:** 250 initial credits (free 30 credits daily after exhausting initial credits)
@@ -66,6 +72,9 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
 
 ## 3 [Pixverse](http://pixverse.ai/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![screenshot of pixverse homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pixverse-homepage.jpg)
 
 * **Free**
@@ -99,8 +108,14 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
  Your browser does not support the video tag.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 5 [Synthesia](http://www.synthesia.io/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![screenshot of synthesia homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-synthesia-homepage.jpg)
 
 * **Free:** Test video
@@ -116,6 +131,9 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
 ## 6 [Vidnoz](http://www.vidnoz.com/)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Screenshot of vidnoz homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-vidnoz-homepage.jpg)
 
 * **Free:** 1 minute/day

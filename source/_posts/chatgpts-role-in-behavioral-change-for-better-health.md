@@ -1,7 +1,7 @@
 ---
 title: ChatGPT's Role in Behavioral Change for Better Health
-date: 2024-07-26 15:34:55
-updated: 2024-07-27 10:31:35
+date: 2024-08-02T16:16:09.509Z
+updated: 2024-08-03T16:16:09.509Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 
  So, with all these concerns, is OpenAI losing control of one of the most potent AI chatbots currently online? Let's find out.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
@@ -37,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 
 ## Is ChatGPT Too Powerful for Its Own Good?
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
 
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/a270605ef2ab426a6767629ae263537bc25fdbd24
 
  But when we asked our jailbroken instance of the AI chatbot, we got some serial-killer-styled responses.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
 It even wrote a classic Nigerian Prince email scam when asked.
@@ -73,6 +85,9 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 ## What Does the Future Hold for ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent[ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
@@ -81,6 +96,18 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Can OpenAI Put ChatGPT Under Control?
 
  For now, OpenAI doesn't seem to have a clear-cut solution to avoid the unethical use of its tool. Ensuring that ChatGPT is used ethically is a game of cat and mouse. While OpenAI uncovers ways people are employing to game the system, its users are also constantly tinkering and probing the system to discover creative new ways to make ChatGPT do what it isn't supposed to do.

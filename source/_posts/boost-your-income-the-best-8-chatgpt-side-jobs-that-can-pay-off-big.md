@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Income: The Best 8 ChatGPT Side Jobs That Can Pay Off Big"
-date: 2024-07-26 21:13:43
-updated: 2024-07-28 12:46:42
+date: 2024-08-02T16:16:15.951Z
+updated: 2024-08-03T16:16:15.951Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
 ## 1\. Resume and Cover Letter Creator
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
@@ -43,14 +46,23 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
 **Try this GPT:** [Pidgin Hero](https://chat.openai.com/g/g-CcgN0HIuC-pidgin-hero) .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ## 3\. Programming Project Assistant
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
  It is no news that[ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
@@ -63,6 +75,9 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
 ## 5\. Interactive Text and Image Games
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom ChatGPT game called Dungeon weaver](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-game-called-dungeon-weaver.jpg)
 
  Another very exciting use case for GPTs is creating games. You can bring almost any text and image-based games you can think of into reality. You can program, modify the rules, and play games like Tic-Tac-Toe, Hangman, Word Ladder, and more. We've previously created a list of simple but[interesting games you can play with ChatGPT](https://www.makeuseof.com/simple-games-you-can-play-chatgpt/) . You can spice those games up by invoking the DALL-E image creator to create scenery and characters on the go.
@@ -75,8 +90,15 @@ thumbnail: https://thmb.techidaily.com/b19b440ee033b062893436bff7c73d55af4b510d9
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ## 6\. Personal Tutor
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.

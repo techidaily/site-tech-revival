@@ -1,7 +1,7 @@
 ---
 title: "Navigating the World of Edge Computing with On-Device AI: A Comprehensive Guide"
-date: 2024-07-22 15:32:58
-updated: 2024-07-23 10:46:32
+date: 2024-08-02T16:16:23.442Z
+updated: 2024-08-03T16:16:23.442Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,9 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 
  Well, there is a new kid on the block that makes it even easier to use GPT-4: Auto-GPT. How does it work? And can you use it without GPT-4?
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## What Is Auto-GPT?
 
 ![Woman working on a laptop with a cup of coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-on-desk.jpg)
@@ -35,15 +38,24 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 
  Basically, Auto-GPT is like your personal assistant that can automate most of your tasks, and there are already several[practical ways you can put Auto-GPT to use](https://www.makeuseof.com/ways-you-can-use-auto-gpt/) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## How Do You Access Auto-GPT on Your PC?
 
-![A grey laptop and a phone on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a-grey-laptop-and-a-phone-on-a-table.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+![A grey laptop and a phone on a table](https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg)
 
  For starters, you can access Auto-GPT using Windows, MacOS, or Linux. You also need an OpenAI API account before you start.
 
 Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
 1. First, download the latest version of Python to your computer. Here is a guide on[how to install Python PIP](https://www.makeuseof.com/tag/install-pip-for-python/) on Windows, Mac, and Linux. If you're using Windows,[add Python to the Windows PATH variable](https://www.makeuseof.com/python-windows-path/) before installation.  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 2. Download[Auto-GPT source code](http://github.com/Significant-Gravitas/Auto-GPT) from GitHub.
 3. Extract the ZIP archive and copy the Auto-GPT folder to your preferred location.
@@ -57,13 +69,22 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 8. Create a free account on[pinecone.io](https://www.pinecone.io/) . Once you've signed in to your account, select**API Keys** and click**Create API Key** . However, it's not mandatory you use pinecone.io to install Auto-GPT—if you're put on a waiting list, you can skip to step 12.
 9. After naming and creating the new API key on Pinecone, copy the**Key Value** and paste it to replace "your-pinecone-api-key—this is on the third line under "PINECONE" on the ".env" file you've opened using Notepad.
 10. On the pinecone.io account, copy the details under**Environment** and paste it on the ".env." file next to PINECONE\_ENV—it should replace "your-pinecone-region".  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![A screenshot showing blurred Pinecone API key on Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/pinecone.jpg)
 11. Save the ".env" file.
 12. Right-click the Auto-GPT folder and select**Open in Terminal** .  
 ![Open AutoGPT environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/10-open-terminal.jpg)
 13. After you've opened the Terminal, enter "pip install -r requirements.txt" to automatically download and install the necessary libraries for Auto-GPT.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/11-pip-install-requirements.jpg)
 14. Launch Auto-GPT on your computer by executing the following command: "python -m autogpt".  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/weldom.jpg)
 15. Once you've launched Auto-GPT on your computer, the API will prompt you to give it a name and specific goals. For instance, you can define its role and tell it to analyze the stock market and save the report on a file.
 
@@ -75,8 +96,16 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
  The Auto-GPT August 2023 update introduced a new benchmarking tool designed to track the performance of the agents deployed.[Auto-GPT Benchmarks](https://github.com/Significant-Gravitas/AutoGPT/tree/master/benchmark) is still in development, but it gives you an idea of how your automated agents are performing in areas like "code, retrieval, memory, and safety."
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## How Do You Access Auto-GPT on Your Browser?
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![A screenshot of Agent GPT with name and goal defined. ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/agent-gpt.png)
 
  If accessing Auto-GPT on your PC is too complicated, especially if you're unfamiliar with the Windows Terminal, you can still access it on your browser using AgentGPT. It could also be a safer option if you're concerned about privacy on your PC.
@@ -90,6 +119,9 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
 Once it's done, you can copy or save the information.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Auto-GPT 3.5 API vs. Auto-GPT 4 API
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
@@ -110,6 +142,9 @@ Once it's done, you can copy or save the information.
 
  In retrospect, Auto-GPT with either GPT-3.5 or GPT-4 API can automate some of your tasks with simple defined goals. Of course, Auto-GPT with GPT-4 API has the edge over GPT-3.5 because it's more accurate and better at making sense of images. Here are the[key differences between GPT-4 and GPT 3.5 explained](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is It Worth Using Auto-GPT Without GPT-4?
 
  Even though Auto-GPT with GPT-4 API performs better than Auto-GPT-3.5, you can still use Auto-GPT 3.5 to complete tasks autonomously. For example, I prompted Auto-GPT with GPT-3.5 API to search the internet for the best laptops on the market and give me a report with pros and cons.
