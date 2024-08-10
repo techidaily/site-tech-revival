@@ -1,0 +1,179 @@
+---
+title: Dive Into 7 Exciting Developments in BARD, Unleashed at the Recent Google I/O Event
+date: 2024-08-09T20:07:11.992Z
+updated: 2024-08-10T20:07:11.992Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Dive Into 7 Exciting Developments in BARD, Unleashed at the Recent Google I/O Event
+excerpt: This Article Describes Dive Into 7 Exciting Developments in BARD, Unleashed at the Recent Google I/O Event
+thumbnail: https://thmb.techidaily.com/a65df42cc8379f3aa4b0bec4cca01f43716f0f93a74b7a32e511a24eeedbecef.jpg
+---
+
+## Unveiling the Advancements in Google's Bard AI via PaLM 2 - Explore 7 Features
+
+ On May 10th, 2023, Google announced a major upgrade to its large language model (LLM) chatbot Bard AI at Google I/O.Google's Pathways Language Model 2 (PaLM 2) will improve Bard's performance by featuring support for different programming languages, third-party extensions, integration with other Google products, and other interesting additions. Let's explore in detail how PaLM 2 will revolutionize Bard AI.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Support for Different Programming Languages
+
+![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
+
+ One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
+
+ PaLM 2's support for different programming languages is powered by massive training data, which includes GitHub code repositories. So you can ask Bard to debug a line of code in Python, and it will rightly do so while explaining the error in the code. This is beneficial, especially if you are[learning programming concepts and skills](https://www.makeuseof.com/coding-and-programming-basics/) .
+
+ PaLM 2 also offers Codey, a specialized AI model for coding and debugging. Codey will be a part of PaLM 2's generation and code completion service, among other functions. Already there are several ways Bard AI is overtaking ChatGPT in the AI chatbots league, like being free to use, connected to the internet, and accessible in over 180 countries.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## 2\. Multilingual Capabilities
+
+![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
+
+ PaLM 2 will expand the multilingual capabilities of Bard AI, making it perform well with multilingual tasks, as it is being trained with diverse texts from over 100 languages.
+
+ So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
+
+## 3\. Better Logic and Reasoning
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
+
+[Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
+
+ However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
+
+## 4\. Med-PaLM 2
+
+![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
+
+ Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
+
+ According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
+
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Sec-PaLM 2
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
+
+ Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
+
+ Sec-PaLM can analyze and explain the behavior of potentially malicious scripts and detect which ones are actually threats to people and organizations. It was trained on many publicly available security datasets, such as malware samples, vulnerability reports, exploit code, phishing emails, etc.
+
+ With this, it can understand and generate security-related text and code in different languages and formats.
+
+## 6\. Third-Party Extension Support
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
+
+ PaLM 2 will bring third-party extensions to Bard, connecting Google with third-party brands like Adobe, Spotify, Khan Academy, and Uber Eats. For example, with Adobe integration, Bard can access Firefly, Adobe's image-generating tool. This will help you export images you generate into Adobe Express.
+
+ Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
+
+## 7\. Workspace
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
+
+ Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.
+
+ The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
+
+## PaLM 2 WIll Revolutionize Google Bard
+
+ PaLM 2 LLM has provided Google with an appropriate response to Microsoft's Bing search engine and OpenAI's ever-popular ChatGPT. The new upgrades to Bard will not only give you better satisfaction but provide you with increased safety across Google products.
+
+ So keep your eyes open to see how these new upgrades to Bing AI will perform in the near future.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-20plus-ways-to-earn-from-your-facebook-community-for-2024/"><u>[New] 20+ Ways to Earn From Your Facebook Community for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-free-image-editor-apps/"><u>[New] The Ultimate Guide to Free Image Editor Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-tools-for-producing-road-trip-videos/"><u>[New] Tools for Producing Road Trip Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-accelerated-mp4-conversion-for-fb-media/"><u>[Updated] 2024 Approved  Accelerated MP4 Conversion for FB Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-crafting-the-perfect-sonic-storytelling-on-social-media/"><u>[Updated] In 2024, Crafting the Perfect Sonic Storytelling on Social Media</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-tapping-into-youtubes-affiliate-income-streams/"><u>[Updated] In 2024, Tapping Into YouTube's Affiliate Income Streams</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jokes-jamboree-mastering-memelore-made-simple/"><u>[Updated] Jokes Jamboree  Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-total-control-guide-powerdirector-user-manual/"><u>[Updated] Total Control Guide  PowerDirector User Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-essential-tips-for-safe-and-secure-chatgpt-usage-by-children/"><u>5 Essential Tips for Safe and Secure ChatGPT Usage by Children</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/8-challenges-can-gpt-enhance-your-side-hustle/"><u>8 Challenges: Can GPT Enhance Your Side Hustle?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assistance-in-students-essays-progress-or-setback/"><u>AI Assistance in Students' Essays: Progress or Setback?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-chatting-heads-to-head-which-is-better-chatgpt-or-microsofts-bing-chat/"><u>AI Chatting Heads-to-Head: Which Is Better, ChatGPT or Microsoft's Bing Chat?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-unveiling-how-google-palm-2-stacks-up-against-openais-gpt-4/"><u>AI Showdown: Unveiling How Google PaLM 2 Stacks Up Against OpenAI’s GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-influence-on-fake-news-proliferation/"><u>AI's Influence on Fake News Proliferation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridge-to-everywheres-chatgpt-with-ease/"><u>Bridge to Everywhere's ChatGPT with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-tech-and-treatment-gpt-for-effective-cognitive-strategies/"><u>Bridging Tech and Treatment: GPT for Effective Cognitive Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-emotion-detecting-ai-genuinely-understand-what-we-feel-inside/"><u>Can Emotion-Detecting AI Genuinely Understand What We Feel Inside?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/closed-chatgpt-sign-ups-understanding-the-pause-and-future-access-dates/"><u>Closed ChatGPT Sign-Ups: Understanding the Pause & Future Access Dates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-giants-how-does-googles-newly-launched-gemini-stack-up-against-the-acclaimed-chatgpt/"><u>Comparing Giants: How Does Google's Newly Launched Gemini Stack Up Against the Acclaimed ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/corrective-actions-for-chatgpts-third-party-service-misalignment/"><u>Corrective Actions for ChatGPT's Third-Party Service Misalignment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-truthgpt-coin-is-it-a-revolutionary-asset-or-a-fraudulent-scheme/"><u>Decoding TruthGPT Coin: Is It a Revolutionary Asset or a Fraudulent Scheme?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/drive-xbox-controller-in-windows-os/"><u>Drive Xbox Controller in Windows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explore-top-10-no-cost-digital-photography-tools/"><u>Explore Top 10 No-Cost Digital Photography Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721105051033-how-to-fix-no-driver-found-error-on-your-device-with-windows-11-8-or-7-solved/"><u>How to Fix 'No Driver Found' Error on Your Device with Windows 11, 8 or 7 – Solved!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-8-plus-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 8 Plus After iOS Update? | Stellar</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-chorus-and-content-music-magic-on-social-media-stories/"><u>In 2024, Chorus & Content  Music Magic on Social Media Stories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-excellence-in-meeting-capture-the-best-streaming-gadgets-ranked/"><u>In 2024, Excellence in Meeting Capture  The Best Streaming Gadgets Ranked</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-how-to-choose-the-best-free-introduction-maker/"><u>In 2024, How to Choose the Best Free Introduction Maker</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-magical-apps-for-vocal-alteration-top-list-unveiled/"><u>In 2024, Magical Apps for Vocal Alteration  Top List Unveiled</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-12-mini-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone 12 mini in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-nuances-of-chatgptenticing-api-use/"><u>Navigating the Nuances of ChatGPT'enticing API Use</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-time-lapse-videos-on-a-gopro-hero5-black-for-2024/"><u>Perfecting Time-Lapse Videos on a GoPro Hero5 Black for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722161168184-protect-your-system-officially-no-chatgpt-application-for-windows-is-available-guard-against-fraudulent-software/"><u>Protect Your System: Officially, No ChatGPT Application for Windows Is Available - Guard Against Fraudulent Software!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-chatgpt-impersonation-fraud-steps-to-take/"><u>Protect Yourself From ChatGPT Impersonation Fraud - Steps to Take</u></a></li>
+<li><a href="https://facebook.techidaily.com/rank-the-networks-that-keep-us-connected/"><u>Rank the Networks That Keep Us Connected</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-multilingual-communication-using-chatgpt/"><u>Seamless Multilingual Communication Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-implementing-bavarder-on-linux/"><u>Simple Steps: Implementing Bavarder on Linux</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/storytelling-prosperity-with-chatgpt-your-ultimate-how-to-handbook/"><u>Storytelling Prosperity with ChatGPT: Your Ultimate How-To Handbook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-best-ai-chatbot-discover-with-gpt-plus-vs-perplexity/"><u>The Best AI Chatbot? Discover with GPT Plus Vs. Perplexity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-content-creation-hixplusgpt-4/"><u>The Future of Content Creation: HIX+GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-generative-ai-on-modern-search-techniques-leading-companies-embracing-innovation/"><u>The Impact of Generative AI on Modern Search Techniques: Leading Companies Embracing Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-mechanics-of-llms-understanding-how-large-language-models-function/"><u>The Mechanics of LLMs: Understanding How Large Language Models Function</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-new-age-of-nba-fandom-with-fb-and-twt-partnership/"><u>The New Age of NBA Fandom with FB and Twt Partnership</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-path-to-ingenious-visuals-mastery-over-microsofts-copilot/"><u>The Path to Ingenious Visuals: Mastery Over Microsoft's Copilot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-role-of-ai-in-cultivating-compassionate-connections/"><u>The Role of AI in Cultivating Compassionate Connections</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-professional-level-notes-via-chatgpt/"><u>The Ultimate Guide to Professional-Level Notes via ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-utilizing-chatgpt-for-handling-complex-business-emails/"><u>The Ultimate Guide to Utilizing ChatGPT for Handling Complex Business Emails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-bert-how-this-cutting-edge-language-model-outperforms-gpt-algorithms/"><u>Understanding BERT: How This Cutting-Edge Language Model Outperforms GPT Algorithms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-with-openais-api-features/"><u>Unlocking Potential with OpenAI's API Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-gpt-4-collectively/"><u>Unlocking the Potential of GPT-4 Collectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-ai-navigating-quoras-features-to-connect-with-advanced-chatbots/"><u>Unlocking the Power of AI: Navigating Quora's Features to Connect with Advanced Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpt-the-essential-new-additions-to-look-out-for/"><u>Unveiling ChatGPT: The Essential New Additions to Look Out For</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-embracing-ai-is-essential-8-compelling-reasons-teachers-need-to-adapt/"><u>Why Embracing AI Is Essential: 8 Compelling Reasons Teachers Need to Adapt</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721805300320-why-you-need-to-make-the-switch-explore-the-top-9-benefits-of-choosing-chatgpt-plus-today/"><u>Why You Need to Make the Switch: Explore the Top 9 Benefits of Choosing ChatGPT Plus Today!</u></a></li>
+</ul></div>

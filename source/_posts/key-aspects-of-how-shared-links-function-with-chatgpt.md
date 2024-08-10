@@ -1,0 +1,151 @@
+---
+title: Key Aspects of How Shared Links Function with ChatGPT
+date: 2024-08-09T20:11:21.022Z
+updated: 2024-08-10T20:11:21.022Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Key Aspects of How Shared Links Function with ChatGPT
+excerpt: This Article Describes Key Aspects of How Shared Links Function with ChatGPT
+thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg
+---
+
+## The Future Is Now with These Spectacular Additions to BARD AI, as Announced at Google I/O 2023
+
+ It's the AI arms race, and Google has been playing catch-up for too long. ChatGPT was released in November 2022, and Microsoft followed up shortly with a controlled roll-out of Bing AI, a worthy competitor, just months later.
+
+ Bard AI, Google's ChatGPT alternative, has yet to impress despite Google's massive investment in artificial intelligence and a reputation for innovation. Fortunately, at Google I/O 2023, Google announced numerous new features that have the potential to supercharge Bard AI. We've compiled the most exciting Bard AI news announced at Google I/O 2023.
+
+## 1\. No More Waitlist for Bard AI
+
+ While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
+
+## 2\. Dark Theme
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
+
+ Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
+
+## 3\. Integration With Google Products and Third-Party Plugins
+
+ This is one of the most significant Bard AI announcements since the chatbot itself was announced. Let's face it; Bard AI isn't as good as its competitors. We did a bit of a[ChatGPT vs. Bing AI vs. Bard AI test](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) , and Bard didn't impress. There are a lot of shortfalls we could talk about, but that's a discussion for another day. The good news, however, is that a bulk of those shortfalls could be fixed by opening up Bard to third-party services and other Google products.
+
+ We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
+
+## 4\. Image Prompting
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
+
+ Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
+
+ OpenAI promised us image prompting with[the release of the highly anticipated GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) . Unfortunately, as of 10th May 2023, even ChatGPT plus users are still fiddling their fingers, waiting to try out the feature. If you've been disappointed, don't be anymore. Image prompting is coming to Bard AI. The feature will be powered by Google Lens, a technology that Google has developed for several years.
+
+ In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
+
+## 5\. Image Generation With Adobe Firefly
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
+
+ Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
+
+ If you can't[generate images with Midjourney's](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/) free tier anymore (or more like being force-fed the paid tier), there's hope yet. Bard AI will soon be able to generate images from the Bard AI interface courtesy of Adobe Firefly. If you're unfamiliar with Adobe Firefly, here's a quick[explainer on Adobe Firefly and what you can do with it](https://www.makeuseof.com/what-is-adobe-firefly-generative-ai/) .
+
+ Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Tools for Exporting Generated Content
+
+![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
+
+ One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
+
+ Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
+
+## 7\. Improved Code Generation
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
+
+ At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
+
+ Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Google's AI Endgame Is Gemini
+
+ Bard AI currently runs on PaLM 2 (the latest iteration of its PaLM large language model) and relies on different Google products and services to offer most of the features announced at Google I/O 2023\. Meanwhile, Sundar Pichai, the CEO of Google, briefly discussed Gemini—a new large language model currently being developed from the ground up to power future iterations of Bard AI.
+
+ According to Sundar Pichai, Gemini will be a multi-modal LLM, which means it will likely replace Google's use of third-party services like Adobe Firefly or its products like Google Lens within the Bard AI ecosystem. Information about Gemini is still limited, but Google is investing in building a completely different LLM for Bard AI, and it will be worth paying attention to. It's game on for generative AI.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-becoming-an-expert-at-yt-studio-navigation-for-2024/"><u>[New] Becoming an Expert at YT Studio Navigation for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-masterful-methods-for-adding-melodies-to-ig-media/"><u>[New] Masterful Methods for Adding Melodies to IG Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-giggle-and-graphics-editor/"><u>[New] Premium Giggle & Graphics Editor</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-pro-tools-comparison-obs-and-twitch-studio-for-2024/"><u>[New] Pro Tools Comparison  OBS and Twitch Studio for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-dissecting-digital-dynamics-comparative-channel-analysis-for-2024/"><u>[Updated] Dissecting Digital Dynamics  Comparative Channel Analysis for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-flavor-forge-30-epicurean-titles-that-resonate/"><u>[Updated] Flavor Forge  30 Epicurean Titles That Resonate</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-resolving-an-alone-earpiece-dilemma/"><u>[Updated] Resolving an Alone Earpiece Dilemma</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-complete-tutorial-to-turn-gif-to-stickers-discordwhatsapptelegram/"><u>2024 Approved  Complete Tutorial to Turn GIF to Stickers [Discord/WhatsApp/Telegram]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>2024 Approved  Smarter Spending on Cloud Data Services  Insights & Recommendations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-ai-story-generators-worth-trying/"><u>4 AI Story Generators Worth Trying</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/al-gore-or-misinformation-fact-checking-for-clarity/"><u>Al Gore or Misinformation? Fact-Checking for Clarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificnial-intelligence-the-double-edged-sword-enabling-cybercriminal-activities-five-ways/"><u>Artificnial Intelligence: The Double-Edged Sword Enabling Cybercriminal Activities (Five Ways)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-fraudgpt-deceits-key-security-measures/"><u>Avoiding FraudGPT Deceits: Key Security Measures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-humor-exploring-chatgpts-ability-to-generate-funny-content/"><u>Beyond Humor: Exploring ChatGPT's Ability To Generate Funny Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-efficiency-with-10-leading-chatgpt-plugins/"><u>Boost Efficiency with 10 Leading ChatGPT Plugins</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-8-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 8 You Should Try Out</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-12-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi 12 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-logitech-g510-gamepad-driver-downloads-for-windows-versions-7810/"><u>Install Logitech G510 Gamepad: Driver Downloads for Windows Versions (7/8/10)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/romantic-rogues-and-ai-tactics-seven-methods-of-virtual-heartbreak/"><u>Romantic Rogues and AI Tactics: Seven Methods of Virtual Heartbreak</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spark-creativity-mindmapping-and-ai-enhanced-ideas/"><u>Spark Creativity: Mindmapping & AI-Enhanced Ideas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-to-resolve-live-chatgpt-flaws/"><u>Strategies to Resolve Live ChatGPT Flaws</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-battle-of-brains-evaluating-the-features-and-capabilities-between-claude-ai-and-chatgpt/"><u>The Battle of Brains: Evaluating the Features and Capabilities Between Claude AI and ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-influence-of-ai-moderation-techniques-on-conversational-agents/"><u>The Influence of AI Moderation Techniques on Conversational Agents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unreliable-shield-of-artificative-intelligence/"><u>The Unreliable Shield of Artificative Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-reasons-ai-cannot-become-a-one-stop-solution-for-every-writing-need/"><u>Top 5 Reasons AI Cannot Become a One-Stop Solution for Every Writing Need</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-dice-rolls-and-dragon-tales-using-chatgpt-to-enrich-dandd-gameplay/"><u>Transforming Dice Rolls and Dragon Tales: Using ChatGPT to Enrich D&D Gameplay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-potential-data-threats-with-chatbot-interaction-top-concerns-explained/"><u>Understanding the Potential Data Threats with Chatbot Interaction – Top Concerns Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-job-potential-6-ways-to-harness-chatgpt/"><u>Unlocking Job Potential: 6 Ways to Harness ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-beyond-chatgpts-tokens/"><u>Unlocking Potential Beyond ChatGPT’s Tokens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-huggingchat-the-affordable-and-accessible-substitute-for-chatgpt-in-the-world-of-ai/"><u>Unveiling HuggingChat: The Affordable and Accessible Substitute for ChatGPT in the World of AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-how-credible-is-chatgpt-in-providing-information/"><u>Unveiling the Truth: How Credible Is ChatGPT in Providing Information?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-how-private-is-your-conversation-with-chatgpt/"><u>Unveiling the Truth: How Private Is Your Conversation with ChatGPT?</u></a></li>
+</ul></div>

@@ -1,0 +1,250 @@
+---
+title: Auto-GPT's Self-Sufficiency Questioned
+date: 2024-08-09T20:13:36.760Z
+updated: 2024-08-10T20:13:36.760Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Auto-GPT's Self-Sufficiency Questioned
+excerpt: This Article Describes Auto-GPT's Self-Sufficiency Questioned
+thumbnail: https://thmb.techidaily.com/ed43cb68b7509790195a4106080566d9794dc5d45025fc9ee05e6abe84591529.jpg
+---
+
+## Exploring the Proficiency of ChatGPT in Tackling Mathematical Questions
+
+ ChatGPT has enjoyed a surge in popularity, and with that, people from all over the world are finding new ways to apply it to their studies and work. Considering the buzz about the chatbot's errors, however, it’s easy to wonder whether the AI is reliably accurate.
+
+ Can ChatGPT solve math problems? While it’s impossible for the AI-powered tool to solve every problem correctly one hundred percent of the time, it’s important to have an idea of just how accurate the AI is. There's no better way to test ChatGPT than directly subjecting it to a variety of math problems.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+## Can ChatGPT Solve Arithmetic and Algebra Problems?
+
+ Before attempting to have ChatGPT solve any complex problems, it’s important to determine whether it understands the fundamentals. One user went viral for finding that ChatGPT would respond with eight when asked what five plus two equals—but as time passes, it’s likely that such basic errors have been fixed.
+
+ You can ask ChatGPT questions by navigating to the OpenAI website. Before you go any further, it’s important to note that you should[use the best version of ChatGPT](https://www.makeuseof.com/which-version-of-chatgpt-should-you-use/) —GPT-4—if you want the most accurate results. The free version, GPT-3.5, is suitable for most users, however.
+
+ To start testing ChatGPT, it was subjected to problems involving PEMDAS, fractions, and decimals.
+
+![asking chatgpt to solve 8 divided by 1 plus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-1.jpg)
+
+![asking chatgpt to solve 5 divided by 6 minus 2 divided by 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![asking chatgpt to solve 2.98 minus 4 divided by 13](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-4-1.jpg)
+
+Close
+
+ Pleasantly, ChatGPT was able to solve all the arithmetic problems given to it correctly within seconds. It showed proficiency with topics like PEMDAS and decimals, and supplied explanations without prompting. When asked to explain how it divided four by thirteen to someone unfamiliar with long division, it provided an adequately detailed overview of the steps.
+
+ Next, the test continued with ChatGPT pitted against three problems in Algebra—in this case, testing its familiarity with linear equations, arithmetic sequences, geometric sequences, and quadratic equations. As seen with arithmetic, GPT-4 managed to solve all the problems without error.
+
+![asking chatgpt to solve for the slope intercept and point slope form of y divided by 4 equals 6 plus 2 times x](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-1.jpg)
+
+![asking chatgpt to solve for the distance a ball bounces into the air on the seventh bounce given an initial height of ten feet with each successive bounce rising to 75 percent of the previous height](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-2.jpg)
+
+![asking chatgpt to solve the bouncing ball problem as a geometric sequence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-3.jpg)
+
+![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
+
+Close
+
+## Can ChatGPT Solve Geometry and Trigonometry Problems?
+
+ Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
+
+![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
+
+![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
+
+Close
+
+ Interestingly, ChatGPT was exceedingly quick to walk back its confident response to the inscribed angle problem as soon as it was asked for an explanation. This is even though it was plainly stated that points A, B, and C all lie on the circumference of the circle, with the clear implication that the inscribed angle theorem would apply to the problem.
+
+ In fact, it contradicted the information given that “all three points are along the circumference of the circle” by suggesting that AB and BC intersect within the circle.
+
+ Essentially, you don’t have to purposefully pressure ChatGPT into giving wrong answers—a brief prompt for explanation was enough to make ChatGPT offer an incorrect answer as appeasement. Unfortunately,[wrong answers aren't the only issue with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , either.
+
+ As with geometry and the topics before it, ChatGPT was able to solve trigonometry problems relating to topics like sinusoidal equations, amplitude, and the sine of complementary angles with ease. When given an incorrect premise in the fourth equation, however, ChatGPT was just as willing to offer a confidently incorrect answer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
+
+![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
+![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
+
+Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Can ChatGPT Solve Calculus Problems?
+
+ Finally, ChatGPT’s abilities to solve calculus problems were tested with a simple limit problem and a question about derivatives. Its logical reasoning capabilities and ability to withstand unreasonable criticism were also tested.
+
+ Previous mistakes by ChatGPT didn't inspire confidence regarding whether it would stand by correct answers or eventually submit to forceful but wrong thinking.
+
+ As seen before, ChatGPT's primary susceptibility was to user error. It successfully solved for the limit as x approached 0, and it just as readily solved for the limit as x approached 2 when corrected.
+
+ ChatGPT originally offered the correct solution for the derivative g'(1) given that g(x) was the inverse function of f(x), but it quickly amended its answer to be incorrect when given a vague rejection instead of standing by its solution.
+
+![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
+
+![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
+
+![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
+
+Close
+
+## Is ChatGPT Accurate at Solving Math Problems?
+
+ Overall, ChatGPT is accurate at solving math problems. It is highly capable of answering and explaining questions from a broad assortment of topics in math. The main issue that ChatGPT faces is that it isn’t as capable of correcting false assumptions and misunderstandings—and in some cases, it can affirm mistakes without being prompted to do so.
+
+ That doesn’t make ChatGPT a bad tool for solving math problems. In many cases, ChatGPT serves as a reliable and accurate time-saver—and it’s completely free to use. The mistakes made by ChatGPT don’t condemn it, but they do serve as a reminder that you need to[use the right techniques when working with ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) and double-check its answers.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ChatGPT’s Equation Solving Limitations
+
+ ChatGPT doesn’t appear to have any significant limitations in solving math problems, but there are a few rules you should keep in mind as you work with it.
+
+* ChatGPT 3.5 cannot work with images. As it is extremely difficult to describe images accurately, you may find that attempting to explain a problem to ChatGPT that relies on images only leads to errors. You should consider using GPT-4 if you need to use images.
+* ChatGPT always answers confidently. If you aren’t familiar enough with math to discern when it gives an incorrect answer but rely on it for learning, you may develop serious misunderstandings about concepts in math over time.
+* ChatGPT bends to the will of the user. Regardless of whether you intend to manipulate its answers, it may offer incorrect information to appease you if something in your response triggers it.
+* ChatGPT may not pick up on inherent errors in the information that you give it. You should reconsider using ChatGPT for math if you aren’t familiar enough with a concept because it may simply reinforce your misunderstanding.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Use ChatGPT Carefully When Solving Math Problems
+
+ It’s clear that ChatGPT has an impressive ability to solve math problems ranging from arithmetic to calculus. ChatGPT can be used as a powerful study tool, but it should be used carefully—after all, you’ll only be able to easily identify when it makes errors by developing your math skills enough to double-check its work.
+
+ Rather put the AI-powered chatbot to other uses? There are plenty of creative ways to use ChatGPT as well.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-keyiphones-best-podcast-players-ranked/"><u>[New] 2024 Approved  KeyiPhone's Best Podcast Players Ranked</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>[New] Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-creativity-top-editors-for-online-sharing/"><u>[New] In 2024, Cutting-Edge Creativity  Top Editors for Online Sharing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-in-game-capturing-titans/"><u>[New] In 2024, In-Game Capturing Titans</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-immersive-recording-enhancing-your-gaming-with-windows-11/"><u>[Updated] Immersive Recording  Enhancing Your Gaming with Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-is-aurora-hdr-setting-photography-trends/"><u>[Updated] Is Aurora HDR Setting Photography Trends?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-techniques-for-high-quality-xbox-game-recordings-for-2024/"><u>[Updated] Techniques for High-Quality Xbox Game Recordings for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-top-accessories-to-elevate-your-sj4000-experience/"><u>[Updated] Top Accessories to Elevate Your SJ4000 Experience</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selective-picture-smoothing-made-simple/"><u>2024 Approved  Selective Picture Smoothing Made Simple</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-mistakes-to-avoid-when-using-chatgpt-for-content-creation/"><u>4 Mistakes to Avoid When Using ChatGPT for Content Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-critical-insights-on-the-risks-of-relying-solely-on-ai-technology/"><u>6 Critical Insights on the Risks of Relying Solely on AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-deep-dive-into-googles-recent-advancement-the-powerful-palm-2-llm-uncovered/"><u>A Deep Dive Into Google's Recent Advancement: The Powerful PaLM 2 LLM Uncovered</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-deep-dive-into-on-device-ai-from-concept-to-functionality-and-execution/"><u>A Deep Dive Into On-Device AI: From Concept to Functionality & Execution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-tips-for-3d-color-grading/"><u>Advanced Tips for 3D Color Grading</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-articulation-arcade-who-takes-the-victory-spotlight/"><u>AI Articulation Arcade: Who Takes the Victory Spotlight?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-chatgpt-vs-google-translate-effectiveness/"><u>AI Showdown: ChatGPT Vs. Google Translate Effectiveness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-showdown-who-reigns-supreme-chatgpt-or-the-innovative-claude-ai/"><u>Artificial Intelligence Showdown: Who Reigns Supreme - ChatGPT or the Innovative Claude AI?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/augmenting-dungeon-mastery-with-ai-assistance-in-dandd/"><u>Augmenting Dungeon Mastery with AI Assistance in D&D</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-gratis-ai-exploring-6-compelling-reasons-for-opting-for-chatgpt-plus-even-with-free-access-to-gpt-4/"><u>Beyond Gratis AI: Exploring 6 Compelling Reasons for Opting for ChatGPT Plus Even with Free Access to GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-microsoft-bing-ai-vs-google-bard-an-in-depth-look-at-the-worlds-best-conversational-agents/"><u>ChatGPT Vs. Microsoft Bing AI Vs. Google Bard - An In-Depth Look at The World’s Best Conversational Agents</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-oneplus-nord-ce-3-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-the-power-of-gpt-4-your-step-by-step-user-manual/"><u>Embrace the Power of GPT-4: Your Step-by-Step User Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721992872011-essential-free-travel-arranger-applications-get-swift-smart-itineraries-now/"><u>Essential Free Travel Arranger Applications: Get Swift, Smart Itineraries Now</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/highlighting-the-leading-10-shadowy-story-viewers/"><u>Highlighting the Leading 10 Shadowy Story Viewers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a23-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy A23 5G Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-blank-page-problem-solved/"><u>HP Printer Blank Page Problem Solved</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/immersive-experience-creating-rich-skype-recordings-using-obs/"><u>Immersive Experience  Creating Rich Skype Recordings Using OBS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-zte-nubia-z60-ultra-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of ZTE Nubia Z60 Ultra?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, How to Bypass FRP from Tecno Spark Go (2024)?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-note-12r-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi Note 12R Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-days-to-launch-podcasts/"><u>In 2024, Navigating Days to Launch Podcasts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-superior-free-viewing-software-guide-top-16/"><u>In 2024, Superior Free Viewing Software Guide - Top 16</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/invertedviewresolution/"><u>InvertedViewResolution</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melody-match-maker-audio-ambience-for-videos/"><u>Melody Match-Maker  Audio Ambience For Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserve-creativity-the-role-of-nightshade-in-guarding-againnst-ai-generated-images/"><u>Preserve Creativity: The Role of Nightshade in Guarding Againnst AI-Generated Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pros-and-cons-is-it-worth-choosing-a-local-law-firm/"><u>Pros & Cons: Is It Worth Choosing a Local Law Firm?</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revive-corrupt-movie-files-quickly-using-vlc-media-players-tools/"><u>Revive Corrupt Movie Files Quickly Using VLC Media Player's Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-teaching-with-ai-the-top-8-advantages-for-educators/"><u>Revolutionize Your Teaching with AI – The Top 8 Advantages for Educators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safe-psychological-dialogues-gpt-enhanced-therapy/"><u>Safe Psychological Dialogues: GPT-Enhanced Therapy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/selecting-androids-best-youtube-video-extractors-for-2024/"><u>Selecting Android's Best YouTube Video Extractors for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smarter-responses-revolutionary-tactics-for-gpt-enhancement/"><u>Smarter Responses: Revolutionary Tactics for GPT Enhancement</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-poco-c65-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Poco C65 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-alchemy-of-aesthetics-top-1-written-by-an-experienced-graphic-designer-for-2024/"><u>The Alchemy of Aesthetics  Top 1 Written by an Experienced Graphic Designer for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-developers-guide-to-constructing-a-web-application-with-assistance-from-chairgtp/"><u>The Developer's Guide to Constructing a Web Application with Assistance From ChairGTP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essential-handbook-for-openai-api-mastery-and-applications/"><u>The Essential Handbook for OpenAI API Mastery and Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolving-role-of-ai-in-shaping-developer-work-processes/"><u>The Evolving Role of AI in Shaping Developer Work Processes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-new-contender-in-conversational-ais-meet-googles-latest-creation-bard-a-threat-to-chatgpt/"><u>The New Contender in Conversational AIs: Meet Google's Latest Creation, Bard – A Threat to ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-level-for-google-bard-advancements-brought-by-palm-2-innovations/"><u>The Next Level for Google Bard: Advancements Brought by PaLM 2 Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-of-ai-in-the-office-maximizing-productivity-with-chatgpt-as-your-digital-helper/"><u>The Power of AI in the Office: Maximizing Productivity with ChatGPT as Your Digital Helper</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-significance-of-chatgpt-having-real-time-information-what-it-means-for-the-public/"><u>The Significance of ChatGPT Having Real-Time Information: What It Means for the Public</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-face-off-assessing-whether-notion-or-chatgpt-leads-as-your-go-to-generative-ai-tool/"><u>The Ultimate Face-Off: Assessing Whether Notion or ChatGPT Leads as Your Go-To Generative AI Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-8-ai-driven-chrome-tools-to-supercharge-your-workday/"><u>The Ultimate List of 8 AI-Driven Chrome Tools to Supercharge Your Workday</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/thinking-outside-the-box-crafting-a-mindmap-chatgpt-approach-for-dynamic-idea-development/"><u>Thinking Outside the Box: Crafting a Mindmap-ChatGPT Approach for Dynamic Idea Development</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-ai-titans-clash-gpt-microsoft-bing-ai-and-google-bard-meet/"><u>Top 3 AI Titans Clash: GPT, Microsoft Bing AI & Google Bard Meet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-innovative-uses-of-chatgpt-in-enhancing-smartwatch-functionality/"><u>Top 6 Innovative Uses of ChatGPT in Enhancing Smartwatch Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-must-have-ai-chatbot-plugins-for-enhanced-vscode-experience/"><u>Top 6 Must-Have AI Chatbot Plugins for Enhanced VSCode Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-tabletop-experience-with-gpt-powered-imagination-boosting/"><u>Transformative Tabletop Experience with GPT-Powered Imagination Boosting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-stressful-moments-solutions-with-chatgpt/"><u>Transforming Stressful Moments: Solutions with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721978945486-unlock-advanced-conversations-with-chatgpt-on-windows-explore-the-free-local-version-using-gpt-4-all/"><u>Unlock Advanced Conversations with ChatGPT on Windows - Explore the Free, Local Version Using GPT-4 All.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-auto-coding-with-these-asterisk-7-alternatives-to-chatgpt/"><u>Unlock the Power of Auto-Coding with These Asterisk 7 Alternatives to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-smart-home-management-with-chatgpt/"><u>Unlocking Smart Home Management with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-chatgpt-accessing-up-to-date-information-means-for-everyone/"><u>What ChatGPT Accessing Up-to-Date Information Means for Everyone</u></a></li>
+</ul></div>
