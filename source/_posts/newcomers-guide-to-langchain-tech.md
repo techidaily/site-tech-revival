@@ -1,7 +1,7 @@
 ---
 title: Newcomers' Guide to LangChain Tech
-date: 2024-08-02T16:16:46.060Z
-updated: 2024-08-03T16:16:46.060Z
+date: 2024-08-16T13:11:28.252Z
+updated: 2024-08-17T13:11:28.252Z
 tags:
   - chatgpt
   - open-ai
@@ -101,3 +101,45 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-high-quality-console-gameplay-capture-using-pcs-for-2024/"><u>[New] High-Quality Console Gameplay Capture Using PCs for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-starting-with-a-gopro-essential-upgrades-for-new-filmmakers/"><u>[New] Starting with a GoPro  Essential Upgrades for New Filmmakers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-secrets-how-to-save-your-google-conversations/"><u>[New] Unveiling Secrets  How to Save Your GooGle Conversations</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-gain-1000-followers-on-youtube-with-agile-strategies-for-2024/"><u>[Updated] Gain 1,000 Followers on YouTube with Agile Strategies for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-guide-to-retrieving-and-saving-gifs-from-facebooks-domain-for-2024/"><u>[Updated] Guide to Retrieving and Saving GIFs From Facebook's Domain for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-time-loop-mastery-how-to-rewind-iphone-media-for-2024/"><u>[Updated] Time-Loop Mastery  How to Rewind iPhone Media for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-x-flip-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Vivo X Flip</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-parts-to-proficiency-assembling-a-powerhouse-4k-video-editor-pc/"><u>From Parts to Proficiency  Assembling a Powerhouse 4K Video Editor PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-record-with-flair-on-windows-10/"><u>How to Record with Flair on Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 12 Pro Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 11 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-15-plus-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone 15 Plus and Android Phones</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-x-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone X to PC | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-secure-to-use-external-chatgpt-plugins-and-tools/"><u>Is It Secure to Use External ChatGPT Plugins & Tools?</u></a></li>
+<li><a href="https://win11.techidaily.com/key-practices-in-the-pursuit-of-a-pristine-windows-setup/"><u>Key Practices in the Pursuit of a Pristine Windows Setup</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-14-creative-text-animation-cases/"><u>Leading 14 Creative Text Animation Cases</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-ai-for-fantasy-creation/"><u>Leveraging AI for Fantasy Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-bings-ai-chat-on-android-devices-essential-tips/"><u>Mastering Bing's AI Chat on Android Devices: Essential Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-upgrades-how-to-activate-its-recent-web-browsing-and-plugin-features/"><u>Mastering ChatGPT Upgrades: How to Activate Its Recent Web Browsing and Plugin Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-self-awareness-and-empathy-with-chatgpts-emotional-intelligence-tips/"><u>Mastering Self-Awareness and Empathy with ChatGPT's Emotional Intelligence Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-openai-api-a-comprehensive-guide-for-innovative-applications/"><u>Mastering the OpenAI API: A Comprehensive Guide for Innovative Applications</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-navigating-the-nuances-of-noise-cancelling-sound-effects-using-final-cut-pro-xs-autoduck-feature/"><u>New Navigating the Nuances of Noise-Cancelling Sound Effects Using Final Cut Pro Xs AutoDuck Feature</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/no-budget-no-problem-here-are-the-best-vfx-pages/"><u>No Budget? No Problem! Here Are the Best VFX Pages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-talking-secrets-the-top-3-bot-privacy-issues/"><u>Protect Your Talking Secrets: The Top 3 Bot Privacy Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-understanding-how-neural-networks-could-expose-confidential-data/"><u>Protecting Privacy: Understanding How Neural Networks Could Expose Confidential Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/raising-the-future-a-parents-roadmap-to-chatgpt-and-generative-technology/"><u>Raising the Future: A Parent's Roadmap to ChatGPT & Generative Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-mind-with-these-5-ai-chatbot-therapists-and-apps/"><u>Revolutionize Your Mind with These 5 AI Chatbot Therapists and Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sculpt-your-resume-to-attract-employers-chatgpt-tips/"><u>Sculpt Your Résumé to Attract Employers: ChatGPT Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-your-digital-footprint-with-ai-customizations/"><u>Securing Your Digital Footprint with AI Customizations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-guide-activate-or-deactivate-picture-in-picture-on-apples-youtube-app-for-2024/"><u>Step-by-Step Guide  Activate or Deactivate Picture-in-Picture on Apple's YouTube App for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-activating-microsoft-copilot-on-your-apple-device/"><u>Step-by-Step Guide: Activating Microsoft Copilot on Your Apple Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strong-ai-vs-weak-ai-whats-the-difference/"><u>Strong AI Vs. Weak AI: What's the Difference?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-power-of-snapchats-my-ai-discover-6-benefits-beyond-entertainment/"><u>The Hidden Power of Snapchat's My AI: Discover 6 Benefits Beyond Entertainment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-turing-test-in-the-age-of-ai-are-there-better-ways-to-assess-machine-intelligence-learn-about-5-alternatives/"><u>The Turing Test in the Age of AI: Are There Better Ways to Assess Machine Intelligence? Learn About 5 Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-and-correcting-6-typical-gpt-malfunctions/"><u>Understanding & Correcting 6 Typical GPT Malfunctions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-bert-an-in-depth-look-at-its-unique-approach-to-nlp/"><u>Understanding BERT: An In-Depth Look at Its Unique Approach to NLP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-function-of-top-7-gpt-4-integrated-applications/"><u>Understanding the Function of Top 7 GPT-4 Integrated Applications</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visionary-visuals-best-video-cameras-of-the-year-2024/"><u>Visionary Visuals  Best Video Cameras of the Year 2024</u></a></li>
+</ul></div>

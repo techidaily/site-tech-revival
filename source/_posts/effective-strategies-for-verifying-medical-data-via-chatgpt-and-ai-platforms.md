@@ -1,0 +1,198 @@
+---
+title: Effective Strategies for Verifying Medical Data via ChatGPT & AI Platforms
+date: 2024-08-16T15:31:59.056Z
+updated: 2024-08-17T15:31:59.056Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Effective Strategies for Verifying Medical Data via ChatGPT & AI Platforms
+excerpt: This Article Describes Effective Strategies for Verifying Medical Data via ChatGPT & AI Platforms
+thumbnail: https://thmb.techidaily.com/82378f8f7280345f4bdbfe88330aef6297f2b5615d0df03562d4846b27ff387d.jpg
+---
+
+## Exploring the Versat Challenging World: 6 Innovative Applications for ChatGPT's Coding Interpreter
+
+ ChatGPT’s Code Interpreter is by far the single most powerful feature available on the ChatGPT platform. Though many don't realize it, this tool has numerous exciting uses and can do far more than the handful of tasks it's currently being used for.
+
+ So, what exactly can you do with ChatGPT's Code Interpreter plugin? We’ve put together some of the most useful ways you can use the Code Interpreter plugin right now.
+
+## 1\. Create and Edit Images
+
+ You can pull off a lot of interesting image manipulation tricks with[ChatGPT's Code Interpreter](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/) . The best part is that you don't need any special skills to do so, all you need to do is simply describe what you want to do in plain language. The results and options might not be Photoshop grade, but they are usually quite interesting and worth the efforts.
+
+ Do you want to change an image to grayscale? Need to split an image into quadrants? How about inverting the colors of an image? There is a long list of interesting things you can try.
+
+ All you need to do is upload the image to the Code Interpreter interface and describe in plain language what you want to do. Here are some prompts you can try out for some interesting results:
+
+* Extract a color palette of all the dominant colors from the attached image.
+* [Add the word "Confidential" as a watermark](https://www.makeuseof.com/how-to-add-watermark-to-photos/) to the top-left corner of the attached image.
+* Detect the faces in the attached image and overlay with a transparent crosshair image.
+* Split the attached image into four quadrants, inverse the colors in the last quadrant, and then put the image back together as one.
+* Animate the attached image with a zoom-in and zoom-out effect.
+* Combine the three attached images into a GIF and add a Zoom-out effect
+* Run face detection on the image and pixelate any face present.
+
+ In the example below, we asked ChatGPT to split an image into quadrants and invert the colors on the last quadrant.
+
+![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
+
+ In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
+
+![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
+
+ Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
+
+ In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
+
+![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
+
+ Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+## 2\. Create and Edit Videos
+
+ Just like images, ChatGPT's Code Interpreter can also perform manipulation tasks on videos. You can perform simple tasks like extracting metadata from video files or grabbing the frame from a particular timestamp. You can also:
+
+* Convert videos to GIF.
+* Create a video file with sound from a combination of image files.
+* Split video files into chunks that meet certain specifications.
+* Extract audio from a video file
+* Extract subtitles from a video
+* Compress a video
+* Convert a video from one format to another (e.g from AVI to MP4)
+
+ Here's a snapshot of some of the things you can do with a video using the ChatGPT code interpreter:
+
+![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
+
+![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+## 3\. Create and Modify Audio Files
+
+ ChatGPT's Code Interpreter also has a[built-in text-to-speech feature](https://www.makeuseof.com/best-chrome-text-to-speech-extensions/) . This means you can write a piece of text and have ChatGPT to convert it to an audio file. Besides that, you can also perform several interesting actions on audio files using the Code Interpreter plugin. You can:
+
+* Convert audio files from one from format to the other (e.g WAV to MP3)
+* Read and edit metadata/tags of the audio file (like title, artist, album)
+* Change the pitch of an audio file
+* Stitch two audio files together
+* Adjust the sample rate, bit rate, or channels of an audio file
+* Trim an audio to a specific time range.
+* Overlay an audio file with another audio
+
+## 4\. Read, Edit and Create Documents
+
+ File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
+
+ This powerful plugin can also read, generate and edit content in a vast array of document types, including PDFs, Microsoft Word docs, plain text files, RTFs, various spreadsheet formats, and code files like Python (.py) and JavaScript (.js). Code Interpreter currently supports several dozen file formats.
+
+ It all boils down to what you want to achieve. You can say, attach a PDF file to your prompt, then ask ChatGPT to read from it, translate the text and create MS Word document with the translation.
+
+ Or, read the data from a Word file and then extract specific data meeting a certain criterion to create a spreadsheet file. You can also create graphs, charts and other data visualization elements from documents.
+
+ Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Write and Analyze Code
+
+ If you have large code files you want to make sense of, Code Interpreter is a solid option. You can attach files with several thousand lines of code and simply ask Code Interpreter to tell you what it does, maybe debug it, refactor it, translate to another programming language or perform just about any programming-related task you can think of.
+
+ How much more capable is Code Interpreter versus regular ChatGPT when it comes to coding tasks? Well, although the underlying model is still the same, Code Interpreter seems to have a larger context window (or at least tries to simulate it) which means it can handle much more data at a go.
+
+ This gives it an important edge, especially in things like programming where code files can sometimes run into hundreds of thousands of lines.
+
+ To test just how robust it can get with handling large code files, we downloaded a complete user authentication system from GitHub, uploaded it to Code Interpreter as a zip file and asked it what the project does. It was able to unzip the file, iterate through all the folders and describe what the entire project does with impressive accuracy.
+
+ When we asked for a new feature to be added to the project, the plugin could identify all the files that needed changes to add a new feature. When prompted, it could make these changes with no input from our end.
+
+ Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Extract Text from Images (Optical Character Recognition)
+
+ Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
+
+ It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
+
+## A Powerful Tool at Your Fingertips
+
+ While it is important to recognize that the current capabilities of the Code Interpreter plugin is limited in many ways, the plugin still represents one of the most powerful features available in an AI chatbot anywhere on the internet.
+
+ With a few upgrades, especially in the size of files it can load into memory and work with, the Code Interpreter feature will undoubtedly give ChatGPT an edge over any other AI chatbots it currently competes with. And there's still plenty more you can do with ChatGPT.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-directsnaprecorder-straightforward-windows-11-capture/"><u>[New] In 2024, DirectSnapRecorder  Straightforward Windows 11 Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-diversifying-audience-across-30plus-online-venues/"><u>[New] In 2024, Diversifying Audience Across 30+ Online Venues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-review-and-compare-streamlabs-and-embedding-platforms-for-2024/"><u>[New] Review and Compare  StreamLabs & Embedding Platforms for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-enhance-channel-appeal-with-free-professional-banner-designs/"><u>[Updated] 2024 Approved  Enhance Channel Appeal with Free, Professional Banner Designs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-how-does-a-whole-sphere-video-work-for-2024/"><u>[Updated] How Does a Whole-Sphere Video Work for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-hubs-for-finding-googles-ad-sponsors-on-video-for-2024/"><u>[Updated] Hubs for Finding Google's Ad Sponsors on Video for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-reading-journey-top-5-ai-enhanced-book-platforms/"><u>Enhance Your Reading Journey - Top 5 AI-Enhanced Book Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-hacks-for-overcoming-typical-chatgpt-glitches-and-bugs/"><u>Essential Hacks for Overcoming Typical ChatGPT Glitches and Bugs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-leading-open-source-ai-image-creation-software-of/"><u>Explore the Leading Open-Source AI Image Creation Software Of</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-distinctive-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits, and Distinctive Advantages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-eus-artifice-intelligence-framework-potential-consequences-on-platforms-such-as-chatgpt/"><u>Exploring the EU's Artifice Intelligence Framework: Potential Consequences on Platforms Such as ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancers-guide-to-mastering-ai-assistantsbing-chat-vs-chatgpt/"><u>Freelancer's Guide to Mastering AI Assistants—Bing Chat Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/full-reveal-the-cutting-edge-ai-technologies-announced-by-apple-during-wwdc-2024/"><u>Full Reveal: The Cutting-Edge AI Technologies Announced by Apple During WWDC 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/holding-off-for-the-official-chatgpt-app-check-this-fantastic-open-source-version-instead/"><u>Holding Off for the Official ChatGPT App? Check This Fantastic Open Source Version Instead!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-the-bert-model-revolutionize-natural-language-processing/"><u>How Does the BERT Model Revolutionize Natural Language Processing?</u></a></li>
+<li><a href="https://driver-install.techidaily.com/how-to-keep-atheros-wireless-efficient-with-regular-driver-updates/"><u>How to Keep Atheros Wireless Efficient with Regular Driver Updates</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reinstate-missing-mfc71udll-in-windows/"><u>How to Reinstate Missing Mfc71u.dll in Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-xiaomi-redmi-13c-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Xiaomi Redmi 13C 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-tips-for-effective-game-playback-on-microsoft-os/"><u>In 2024, Tips for Effective Game Playback on Microsoft OS</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-gpt-4-all-revealing-how-it-powers-ai-technology/"><u>Inside GPT- 4 All: Revealing How It Powers AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-plus-a-valuable-investment-for-users/"><u>Is ChatGPT Plus a Valuable Investment for Users?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-safe-the-case-for-steering-clear-of-chatgpt-in-apples-marketplace/"><u>Is It Safe? The Case for Steering Clear of ChatGPT in Apple's Marketplace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/keep-it-under-wraps-the-risks-of-using-ai-like-chatgpt-for-private-matters/"><u>Keep It Under Wraps: The Risks of Using AI Like ChatGPT for Private Matters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-innovations-for-enterprise-success-a-guide-to-8-key-uses/"><u>Leveraging ChatGPT Innovations for Enterprise Success – A Guide to 8 Key Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-integration-incorporating-gpt-3-into-your-python-projects/"><u>Mastering AI Integration: Incorporating GPT-3 Into Your Python Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-crypto-profits-with-chatgpt-a-guide-to-5-essential-tips/"><u>Maximizing Crypto Profits with ChatGPT - A Guide to 5 Essential Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-discussions-seamlessly-through-the-use-of-organizational-folders/"><u>Navigating ChatGPT Discussions Seamlessly Through the Use of Organizational Folders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-dietary-habits-using-ai-insights/"><u>Optimizing Dietary Habits Using AI Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-setting-up-chatgpt-on-linux-with-bavarder/"><u>Step-by-Step Tutorial: Setting Up ChatGPT on Linux with Bavarder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-for-integrating-chatgpt-into-remote-team-huddles/"><u>Strategies for Integrating ChatGPT Into Remote Team Huddles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-routine-9-chatgpt-hacks-for-a-hassle-free-day/"><u>Streamline Your Routine: 9 ChatGPT Hacks for a Hassle-Free Day</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dual-edge-of-ai-on-mental-health-services/"><u>The Dual Edge of AI on Mental Health Services</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tips-and-tricks-for-handling-unexpected-windows-11-errors-successfully/"><u>Tips and Tricks for Handling Unexpected Windows 11 Errors Successfully</u></a></li>
+</ul></div>

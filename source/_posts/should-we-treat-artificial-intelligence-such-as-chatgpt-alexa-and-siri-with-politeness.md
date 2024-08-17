@@ -1,7 +1,7 @@
 ---
 title: Should We Treat Artificial Intelligence Such as ChatGPT, Alexa, and Siri With Politeness?
-date: 2024-08-02T16:16:38.304Z
-updated: 2024-08-03T16:16:38.304Z
+date: 2024-08-16T13:24:37.410Z
+updated: 2024-08-17T13:24:37.410Z
 tags:
   - chatgpt
   - open-ai
@@ -119,3 +119,61 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-danger-lurking-online-spotting-the-falsehood-of-fake-viewers-on-youtube/"><u>[New] 2024 Approved  Danger Lurking Online  Spotting the Falsehood of Fake Viewers on YouTube</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exclusive-guide-choosing-among-top-9-free-logo-creators/"><u>[New] Exclusive Guide  Choosing Among Top 9 Free Logo Creators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-leveraging-text-overlays-for-engaging-visual-posts-for-2024/"><u>[New] Leveraging Text Overlays for Engaging Visual Posts for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-quick-launch-checklist-essential-tasks-for-bringing-your-review-channel-to-life/"><u>[New] Quick Launch Checklist  Essential Tasks for Bringing Your Review Channel to Life</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-real-time-reality-rally-does-digital-dethrone-device-dominance/"><u>[New] Real-Time Reality Rally  Does Digital Dethrone Device Dominance?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-secrets-to-a-flawless-ps3-gameplay-record/"><u>[New] Secrets to a Flawless PS3 Gameplay Record</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-core-of-vimeo-empowering-video-artists-and-audiences/"><u>[New] The Core of Vimeo  Empowering Video Artists & Audiences</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ideal-tools-to-capture-your-pcs-display-on-windows-10/"><u>[Updated] 2024 Approved  Ideal Tools to Capture Your PC's Display on Windows 10</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-accessing-shared-media-on-messenger/"><u>[Updated] Accessing Shared Media on Messenger</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screenscape-innovations-an-unbiased-look-at-apeaksoft-2023-edition/"><u>[Updated] In 2024, Screenscape Innovations  An Unbiased Look at Apeaksoft, 2023 Edition</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-insider-secrets-to-sharpen-your-photoshop-skills/"><u>[Updated] Insider Secrets to Sharpen Your Photoshop Skills</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>[Updated] Lasting Freedom  How To Banish YouTube Shorts Permanently</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srgb-standardization-the-next-step-beyond-traditional-rgb/"><u>[Updated] Srgb Standardization  The Next Step Beyond Traditional Rgb</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-interactions-mastering-animate-texts-in-stories/"><u>2024 Approved  Illuminating Interactions  Mastering Animate Texts in Stories</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722874815669-achieving-cross-platform-messaging-integrating-imessage-into-android/"><u>Achieving Cross-Platform Messaging: Integrating iMessage Into Android</u></a></li>
+<li><a href="https://driver-download.techidaily.com/direct-link-download-trustworthy-epson-perfection-v500-drivers-now/"><u>Direct Link: Download Trustworthy Epson Perfection V500 Drivers Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-8-artificial-intelligence-extensions-for-chrome-users-seeking-improved-output/"><u>Discover the Leading 8 Artificial Intelligence Extensions for Chrome Users Seeking Improved Output</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-presentation-design-unleashed-leveraging-chatgpts-power/"><u>Effortless Presentation Design Unleashed: Leveraging ChatGPT's Power</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-career-with-chatgpt-discover-the-6-essential-reasons-to-learn-it-now/"><u>Elevate Your Career with ChatGPT: Discover the 6 Essential Reasons to Learn It Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-search-experience-with-perplex-the-best-the-top-choice-in-ai-powered-google-tools-youre-missing-out-on/"><u>Elevate Your Search Experience with Perplex the Best: The Top Choice in AI-Powered Google Tools You're Missing Out On</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-conversational-ai-tips-for-chatgpt-extension-use/"><u>Elevating Conversational AI: Tips for ChatGPT Extension Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enterprise-focused-insights-on-gpt-systems/"><u>Enterprise-Focused Insights on GPT Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-anthropics-innovative-ai-prompt-store-with-claude-3-technology/"><u>Exploring Anthropic’s Innovative AI Prompt Store with Claude 3 Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-paperclip-maximizer-understanding-its-connection-with-artificial-intelligence/"><u>Exploring the Paperclip Maximizer: Understanding Its Connection with Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/first-steps-in-langchain-language-models/"><u>First Steps in LangChain Language Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-bert-to-palm-2-understanding-the-evolution-of-googles-large-scale-language-models/"><u>From BERT to PaLM 2: Understanding the Evolution of Google’s Large-Scale Language Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/game-on-chatgpts-my-bot-techniques-in-strategy-and-visual-creation/"><u>Game On: ChatGPT's My Bot Techniques in Strategy & Visual Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-boost-your-productivity-combining-chatgpt-with-visual-studio-code/"><u>How to Boost Your Productivity: Combining ChatGPT with Visual Studio Code</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-k11-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo K11 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-hiring-methods-discovering-6-chatgpt-approaches/"><u>Innovative Hiring Methods: Discovering 6 ChatGPT Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-look-the-operating-principles-of-seven-apps-utilizing-gpt-4-technology/"><u>Inside Look: The Operating Principles of Seven Apps Utilizing GPT-4 Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intelligent-machines-at-the-workforce-crossroads/"><u>Intelligent Machines at the Workforce Crossroads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-claude-ai-the-next-big-thing-or-does-chatgpt-still-rule/"><u>Is Claude AI the Next Big Thing or Does ChatGPT Still Rule?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-craft-personalized-safe-and-effective-exercise-regimens-tailored-just-for-you/"><u>Is It Possible For ChatGPT To Craft Personalized, Safe And Effective Exercise Regimens Tailored Just For You?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/justifying-the-investment-in-advanced-ai-writing-tools-is-it-worth-it/"><u>Justifying the Investment in Advanced AI Writing Tools – Is It Worth It?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-chatgpt-easily-by-exploring-its-top-5-untapped-features/"><u>Master ChatGPT Easily by Exploring Its Top 5 Untapped Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-organizing-conversations-with-custom-folders/"><u>Mastering ChatGPT: Organizing Conversations with Custom Folders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mercedes-benz-innovates-ai-assistant-with-voice-command-integration-for-drivers/"><u>Mercedes-Benz Innovates: AI Assistant with Voice Command Integration for Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-auto-gpt-without-gpt-4-pros-and-cons-for-users/"><u>Navigating Auto-GPT Without GPT-4: Pros and Cons for Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-beyond-chatgpts-boundaries-what-are-your-options-for-extra-tokens/"><u>Navigating Beyond ChatGPT's Boundaries: What Are Your Options for Extra Tokens?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-future-of-work-6-key-tips-to-excel-in-an-ai-integrated-office/"><u>Navigating the Future of Work: 6 Key Tips to Excel in an AI-Integrated Office</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-web-easier-with-microsofts-bing-and-its-cutting-edge-ai-features/"><u>Navigating the Web Easier with Microsoft’s Bing and Its Cutting-Edge AI Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/premium-extensions-for-enhanced-gpt-in-vs-code/"><u>Premium Extensions for Enhanced GPT in VS Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-device-dont-install-the-hazardous-google-bard-application-avoids-potential-cyber-threats/"><u>Protect Your Device: Don't Install the Hazardous Google Bard Application - Avoids Potential Cyber Threats!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefining-scholarly-expression-is-chatgpt-making-traditional-student-essays-a-thing-of-the-past/"><u>Redefining Scholarly Expression: Is ChatGPT Making Traditional Student Essays a Thing of the Past?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/silencing-the-spotlight-avoiding-vloggers-fears/"><u>Silencing the Spotlight  Avoiding Vlogger's Fears</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamlined-video-submission-mmc-to-vimeo-journey-explained-for-2024/"><u>Streamlined Video Submission  MMC to Vimeo Journey Explained for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-image-processes-with-polarrs-compreeved-tools-for-2024/"><u>Streamlining Image Processes with Polarr's Compreeved Tools for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-itel-a05s-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Itel A05s Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unparalleled-excitement-top-10-adventure-classics-for-2024/"><u>Unparalleled Excitement  Top 10 Adventure Classics for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>Updated 2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
+</ul></div>

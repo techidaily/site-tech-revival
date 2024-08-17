@@ -1,7 +1,7 @@
 ---
 title: How to Use the Windows 11 Device Manager to Update Your Drivers
-date: 2024-08-15 17:59:20
-updated: 2024-08-16 11:25:49
+date: 2024-08-16T13:01:23.120Z
+updated: 2024-08-17T13:01:23.120Z
 tags:
   - win11
   - win10
@@ -47,10 +47,16 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 **1)** On your keyboard, press the**Windows logo** key and click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-144.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
 **2)** Select**Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
@@ -67,12 +73,18 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 **1)** On your keyboard, press the**Ctrl, Shift,** and**Esc** keys at the same time to open Task Manager.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-149.png)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click the**Startup** tab. Then, right-click the program you want to prevent it from opening on startup and select**Disable** .
 
  Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-148.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -89,6 +101,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 3. **Right-click the Windows Update and click Restart.**  
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. **Restart your PC to test the issue.**  
 Restart your PC to test the issue.
 
@@ -111,10 +126,16 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-151.png)
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click the program that you don’t use and select**Uninstall** .
 
@@ -141,6 +162,9 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and type**defragment** . Then, click**Defragment and Optimize Drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-155.png)
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Optimize** and wait for the process to be complete.
 
@@ -148,6 +172,9 @@ If your problem persists, then move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Fix 5: Update your device drivers
 
  Outdated or faulty hardware drivers can also trigger PC issues. To keep your computer running smoothly, it’s essential that you have the latest correct drivers at all times.
@@ -163,10 +190,16 @@ If your problem persists, then move on to the next fix.
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -193,12 +226,18 @@ If your problem persists, then move on to the next fix.
  You can review a summary of the issues detected after the scan is finished. If there’s any problem, you have to buy the full version – which comes with a 60-day Money-Back Guarantee. Click START REPAIR to start the repair process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/image-3.png)
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Run the System File Checker
 
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
@@ -209,6 +248,9 @@ If your problem persists, then move on to the next fix.
  This process could take a little while. Please wait for it to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-166.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 
  If running the System File Checker didn’t help resolve your problem, try using the DISM tool to update your system files and correct your problem.
 
@@ -217,6 +259,9 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
@@ -253,3 +298,46 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unleashing-the-power-of-your-instagram-vids-appeal/"><u>[New] 2024 Approved  Unleashing the Power of Your Instagram Vids' Appeal</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-efficiently-uploading-youtube-vids-to-insta-profile/"><u>[New] In 2024, Efficiently Uploading YouTube Vids to Insta Profile</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-pinnacle-of-radio-drama-crafting/"><u>[Updated] 2024 Approved  Pinnacle of Radio Drama Crafting</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-youtube-earnings-average-income-per-video-ad/"><u>[Updated] 2024 Approved  YouTube Earnings  Average Income per Video Ad?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-8-webcam-filters-to-elevate-your-streaming/"><u>[Updated] Top 8 Webcam Filters to Elevate Your Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-viral-video-vanguard-youtubes-1-24-hours-list/"><u>2024 Approved  Viral Video Vanguard  YouTube's #1 24 Hours List</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-c67-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/a-quick-guide-downloading-fb-videos-on-multiple-oses-for-2024/"><u>A Quick Guide  Downloading FB Videos on Multiple OSes for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-c33-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme C33 2023</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/best-online-meeting-capture-the-leading-5-gadgets-for-2024/"><u>Best Online Meeting Capture  The Leading 5 Gadgets for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-conversation-replication-techniques/"><u>Chatbot Conversation Replication Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-use-and-confidentiality-the-users-handbook-to-safe-disconnection-practices/"><u>ChatGPT Use and Confidentiality: The User's Handbook to Safe Disconnection Practices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-a-reliable-tool-for-proofreading-content/"><u>ChatGPT: A Reliable Tool for Proofreading Content?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/connect-and-utilize-chatgpt-anytime-anywhere-via-chatgpt-everywhere/"><u>Connect and Utilize ChatGPT Anytime, Anywhere via ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-digital-echoes-understanding-whos-listening-in-cyberspace/"><u>Decoding Digital Echoes: Understanding Who's Listening in Cyberspace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dialogue-titles-pitting-googles-translation-against-ai/"><u>Dialogue Titles: Pitting Google's Translation Against AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-interaction-with-these-nine-convincing-factors-to-opt-for-chatgpt-plus/"><u>Elevate Your AI Interaction with These Nine Convincing Factors to Opt for ChatGPT Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-development-process-using-chatgpt-alongside-visual-studio-code/"><u>Enhance Your Development Process Using ChatGPT Alongside Visual Studio Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-determine-if-an-ai-chatbot-service-is-right-for-you-7-critical-considerations/"><u>How To Determine If An AI Chatbot Service Is Right For You: 7 Critical Considerations</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-reset-and-reinstate-blocked-windows-program/"><u>How to Reset and Reinstate Blocked Windows Program</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme C67 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-automated-gpt-reliable-in-the-absence-of-advanced-gpt-4-capabilities/"><u>Is Automated GPT Reliable in the Absence of Advanced GPT-4 Capabilities?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-edge-discover-the-5-emerging-ai-hardware-technologies/"><u>Leading Edge: Discover the 5 Emerging AI Hardware Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-efficiency-with-these-8-uses-for-automated-gpt-solutions/"><u>Maximize Efficiency with These 8 Uses for Automated GPT Solutions</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-issue-no-fullscreen-window-on-win10/"><u>Monitor Issue: No Fullscreen Window on Win10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-powered-bots-the-role-of-censorship/"><u>Navigating the World of AI-Powered Bots - The Role of Censorship</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-review-of-lazlive-live-selling-platform-with-guide/"><u>New Review of LazLive Live Selling Platform With Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/responsible-caretaking-integrating-gpt-into-therapy/"><u>Responsible Caretaking: Integrating GPT Into Therapy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-conversations-how-neural-network-inversion-threats-impact-chatbot-privacy/"><u>Safeguarding Conversations: How Neural Network Inversion Threats Impact Chatbot Privacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-correcting-chatgpts-plugin-communication-problems/"><u>Step-by-Step Guide to Correcting ChatGPT's Plugin Communication Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-superiority-of-ios-for-a-seamless-chatgpt-experience/"><u>The Superiority of iOS for a Seamless ChatGPT Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tips-to-navigate-the-world-of-free-iphoneipad-edits-for-2024/"><u>Tips to Navigate the World of Free iPhone/iPad Edits for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/top-7-icloud-activation-bypass-tools-for-your-iphone-14-plus-by-drfone-ios/"><u>Top 7 iCloud Activation Bypass Tools For your iPhone 14 Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-mindfulness-through-technology-how-chatgpt-can-help-you-meditate-regularly/"><u>Transforming Mindfulness Through Technology: How ChatGPT Can Help You Meditate Regularly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-limitless-conversations-setting-up-freedomgpt-as-a-free-chat-alternative-on-windows/"><u>Unleashing Limitless Conversations: Setting Up FreedomGPT as a Free Chat Alternative on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-the-power-of-chatgpt-in-podcast-scriptwriting-the-full-story/"><u>Unleashing the Power of ChatGPT in Podcast Scriptwriting – The Full Story</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlock-full-potential-of-obs-studio-for-android-devices/"><u>Unlock Full Potential of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-by-translating-your-pdf-documents-into-editable-text/"><u>Unlock the Power of ChatGPT by Translating Your PDF Documents Into Editable Text</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/whats-next-after-gpt-4-anticipating-the-arrival-of-gpt-5/"><u>What's Next After GPT-4: Anticipating the Arrival of GPT-5?</u></a></li>
+</ul></div>

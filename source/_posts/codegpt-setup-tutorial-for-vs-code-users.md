@@ -1,7 +1,7 @@
 ---
 title: CodeGPT Setup Tutorial for VS Code Users
-date: 2024-08-02T16:15:59.275Z
-updated: 2024-08-03T16:15:59.275Z
+date: 2024-08-16T14:30:48.015Z
+updated: 2024-08-17T14:30:48.015Z
 tags:
   - chatgpt
   - open-ai
@@ -164,3 +164,41 @@ The powerful video editing program for your Windows PC</a>
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-erase-unwanted-black-fringes-on-youtube-tracks-for-2024/"><u>[New] Erase Unwanted Black Fringes on YouTube Tracks for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-expert-video-grabbing-kit-perfect-for-firefox-browser-users-for-2024/"><u>[New] Expert Video Grabbing Kit  Perfect for FireFox Browser Users for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-navigating-the-best-video-formats-for-your-youtube-channel/"><u>[New] Navigating the Best Video Formats for Your YouTube Channel</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-telegram-a-step-by-step-walkthrough/"><u>[Updated] Mastering Telegram  A Step-By-Step Walkthrough</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimizing-googles-automatic-speech-recognition-features/"><u>[Updated] Optimizing Google's Automatic Speech Recognition Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-ai-debate-is-gemini-the-better-choice-over-chatgpt-plus/"><u>Advanced AI Debate: Is Gemini the Better Choice Over ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-use-chatgpt-right-now-explore-five-ways-to-verify-its-up-and-running/"><u>Can You Use ChatGPT Right Now? Explore Five Ways to Verify It’s Up and Running</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3-upgrades-introducing-edit-functions-with-development-needed/"><u>DALL-E 3 Upgrades: Introducing Edit Functions with Development Needed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-installation-pathway-setting-up-llama-2-in-local-environment/"><u>Easy Installation Pathway: Setting Up Llama 2 in Local Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-personal-care-with-chatgpts-cutting-edge-uses/"><u>Elevating Personal Care with ChatGPT's Cutting-Edge Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminate-misguided-ai-outputs-with-these-six-strategic-prompting-approaches/"><u>Eliminate Misguided AI Outputs with These Six Strategic Prompting Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722093182035-experience-cutting-edge-ai-search-on-the-go-with-bings-new-app-support-for-android-and-ios/"><u>Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-the-latest-from-openai-your-step-by-step-guide-to-their-exclusive-gpt-shop/"><u>Experience the Latest From OpenAI - Your Step-by-Step Guide to Their Exclusive GPT Shop</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xr-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nokia-c12-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Nokia C12 Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-evolution-of-hd-tech-a-look-at-hp-envy-27/"><u>In 2024, The Evolution of HD Tech - A Look at HP Envy 27</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y200e-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y200e 5G Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-auto-gpt-a-guide-to-8-effective-uses-in-your-daily-life/"><u>Leveraging Auto-GPT: A Guide to 8 Effective Uses in Your Daily Life</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpts-power-on-smartphones-and-tablets/"><u>Leveraging ChatGPT's Power on Smartphones & Tablets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/manual-driver-update-in-windows-8-plus-operating-system/"><u>Manual Driver Update in Windows 8 Plus Operating System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-smartly-away-from-unhelpful-gpt-extensions/"><u>Navigate Smartly Away From Unhelpful GPT Extensions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-rectifications-quick-tricks-to-prevent-windows-crashes-in-games/"><u>Rapid Rectifications: Quick Tricks to Prevent Windows Crashes in Games</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y100t-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y100t</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simplifying-complications-in-youtube-shorts/"><u>Simplifying Complications in YouTube Shorts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/studying-smarter-not-harder-leveraging-chatgpt-wisely/"><u>Studying Smarter, Not Harder: Leveraging ChatGPT Wisely</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-capturing-attention-top-6-videos-to-watch/"><u>The Art of Capturing Attention  Top 6 Videos to Watch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-reality-of-prompt-engineering-in-tech-industries/"><u>The Reality of Prompt Engineering in Tech Industries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-chatgpts-body-stream-problem-discover-7-remedies/"><u>Troubleshooting ChatGPT's Body Stream Problem: Discover 7 Remedies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-creativity-generating-dandd-character-concepts-using-chatgpt-and-dall-e/"><u>Unleash Your Creativity: Generating D&D Character Concepts Using ChatGPT and DALL-E</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-using-chatgpt-and-dall-e-for-dynamic-character-conception-in-dungeons-and-dragons/"><u>Unleashing Creativity: Using ChatGPT & DALL-E for Dynamic Character Conception in Dungeons & Dragons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-potential-the-ultimate-user-manual-for-mac-enthusiasts/"><u>Unlocking ChatGPT Potential: The Ultimate User Manual for Mac Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unmasking-impostors-the-role-of-attention-notation-in-ai-dialogue/"><u>Unmasking Impostors: The Role of Attention Notation in AI Dialogue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/waiting-on-chatgpts-release-dont-miss-this-outstanding-open-source-app-alternative/"><u>Waiting on ChatGPT's Release? Don't Miss This Outstanding Open Source App Alternative!</u></a></li>
+</ul></div>

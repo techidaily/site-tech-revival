@@ -1,7 +1,7 @@
 ---
 title: Is There a Way to Speed Up Your Windows Updates? Find Out Here
-date: 2024-08-13 19:55:24
-updated: 2024-08-16 12:38:36
+date: 2024-08-16T13:01:48.252Z
+updated: 2024-08-17T13:01:48.252Z
 tags:
   - win11
   - win10
@@ -57,17 +57,38 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  2) From the left navigation panel, select**System** , then click**Troubleshoot** from the right.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-System-Troubleshoot-1200x699.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
  3) Click**Other troubleshooters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/win11-Other-troubleshooters-1200x699.jpg)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click on the**Run** button next to**Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Troubleshooter-Windows-Update-1200x616.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
  When the process is finished, perform a Windows update again to see if it still takes much longer than usual. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  **Outdated or corrupted drivers on your PC can also trigger this issue** . For example, if your network driver is outdated or corrupted, it may slow down your download speed, so Windows updates may take much longer than before. To fix this issue, you need to update your drivers.
@@ -100,6 +121,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ### Fix 3: Reset Windows Update components
 
  This issue may occur if there’s something wrong with Windows Update components. If Windows Update components are corrupted, Windows Update may not work properly. In this case, try resetting Windows Update components. Here is how to do it:
@@ -139,6 +163,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  Check to see if this resolves your Windows Update problem. Hopefully, it did. But if not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Run the DISM tool
 
  This issue is probably caused by the corrupted Windows update files. In this case, running   **the Deployment Image Servicing and Management (DISM) tool** may resolve this issue. Just follow the step-by-step instructions to run the DISM tool:
@@ -146,6 +173,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  1) On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type**cmd**  and then press**Ctrl** , **Shift** , and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap245.jpg)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On your keyboard, type the command lines below one by one and press**Enter** .
 
@@ -175,6 +205,9 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
 
  Try performing a Windows update to see if this fix works. If this issue persists, try running the System File Checker.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Fix 5: Run System File Checker
 
 **System File Checker** can scan for corruptions in Windows system files and restore corrupted files. If Windows update takes so long to complete, it may be caused by some corruption error. In this case, running System File Checker may help you resolve this issue.
@@ -182,12 +215,18 @@ thumbnail: https://thmb.techidaily.com/2453bc5c0249af0de921ee166f14d8e128b375913
  1) On your keyboard, press**the Windows Logo Key** and**R** at the same time to open the Run dialog. Type**cmd** and press**Ctrl** ,**Shift** and**Enter** at the same time to**run Command Prompt as administrator** . You’ll be prompted for permission. Click**Yes** to open the Command Prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000138.png)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
  2) On your keyboard, type the following command and press**Enter** .
 
 **sfc /scannow**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 
 It may take some time for the command operation to be completed.
 
@@ -195,6 +234,9 @@ It may take some time for the command operation to be completed.
 
  Perform a Windows update to check whether this fix works or not. If you still fail to install updates for your Windows system, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Fix 6: Download updates from Microsoft Update Catalog manually
 
 **[Microsoft Update Catalog](https://www.catalog.update.microsoft.com/home.aspx)**  offers updates for Windows 2000 SP3 and later versions of Windows operating system. If None of the fixes above works for you, you can try downloading the updates you failed to install from the Microsoft Update Catalog and install them manually. Here is how to do it:
@@ -210,6 +252,9 @@ It may take some time for the command operation to be completed.
  i. On your keyboard, press**the Windows Logo key** and **R** at the same time to open the Run dialog. Type **cmd** and press **Enter** to open Command Prompt.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap471.png)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 
  ii. Type the command line**systeminfo** and press **Enter** to view your system type.
 
@@ -222,6 +267,9 @@ It may take some time for the command operation to be completed.
  5) Type the update number that you want to download. In this example, type KB3006137 and then click**Search** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap473.png)
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) In the list of search results, select the correct update for your operating system and click**Download** .
 
@@ -255,3 +303,49 @@ Restart your PC to see if this issue persists. If not, congratulations!
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-exclusive-list-of-premium-screen-free-gaming-on-android-devices/"><u>[New] 2024 Approved  Exclusive List of Premium Screen-Free Gaming on Android Devices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-boosting-engagement-from-the-start-premium-paid-free-intra-creators/"><u>[Updated] 2024 Approved  Boosting Engagement From the Start  Premium, Paid-Free Intra Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-empowering-enterprises-through-vr-engagement/"><u>2024 Approved  Empowering Enterprises Through VR Engagement</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-scrutinizing-vlc-for-video-capturing/"><u>2024 Approved  Scrutinizing VLC for Video Capturing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/affordable-mobiles-expensive-cyber-threats-battling-ransomware-join-the-chatgpt-podcast-conversation/"><u>Affordable Mobiles, Expensive Cyber Threats: Battling Ransomware - Join the ChatGPT Podcast Conversation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-as-a-writers-tool-the-good-bad-and-ugly-of-leveraging-chatgpt-for-creativity/"><u>AI as a Writer's Tool: The Good, Bad, & Ugly of Leveraging ChatGPT for Creativity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-there-more-effective-successors-to-the-classic-turing-test/"><u>Are There More Effective Successors to the Classic Turing Test?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-the-trustworthiness-of-chatgpt/"><u>Assessing the Trustworthiness of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beginners-introduction-to-langchain-language-models/"><u>Beginners' Introduction to LangChain Language Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbots-vs-humans-employment-impact/"><u>Chatbots vs Humans: Employment Impact</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-cash-uncovering-eight-legitimate-ways-to-make-money-on-the-side/"><u>ChatGPT and Cash: Uncovering Eight Legitimate Ways to Make Money on the Side</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-analysis-understanding-the-five-major-hurdles/"><u>ChatGPT and Crypto Analysis: Understanding the Five Major Hurdles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-transforming-industry-interactions/"><u>ChatGPT: Transforming Industry Interactions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-removing-dirt-and-grime-from-mechanical-keyboards/"><u>Comprehensive Guide: Removing Dirt and Grime From Mechanical Keyboards</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-kinetic-analysis-2023-for-2024/"><u>Comprehensive Kinetic Analysis 2023 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converse-face-to-face-w-chatgpt/"><u>Converse Face-to-Face W/ ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-chatgpts-trustworthiness-uncovering-truth-in-machine-learning-responses/"><u>Deciphering ChatGPT's Trustworthiness: Uncovering Truth in Machine Learning Responses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-foremost-ai-computing-devices-today/"><u>Discover the Foremost AI Computing Devices Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-client-interactions-integrating-ai-with-whatsapp-using-chatgpt-technology/"><u>Enhancing Client Interactions: Integrating AI with WhatsApp Using ChatGPT Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-toms-tech-reviews-the-ultimate-guide-for-gadgets-and-components/"><u>Explore Tom's Tech Reviews: The Ultimate Guide for Gadgets and Components</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-capabilities-of-chatgpt-understanding-its-custom-commands/"><u>Exploring the Capabilities of ChatGPT: Understanding Its Custom Commands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-consequences-of-fresh-information-integration-with-chatgpt-on-society-at-large/"><u>Exploring the Consequences of Fresh Information Integration with ChatGPT on Society at Large</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-generative-ai-what-you-need-to-know/"><u>Exploring the World of Generative AI: What You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guidelines-to-maintain-discretion-in-ai-interactions/"><u>Guidelines to Maintain Discretion in AI Interactions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-12-proplus-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 12 Pro+ 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-regain-control-recovering-after-a-facebook-breach/"><u>In 2024, Regain Control  Recovering After a Facebook Breach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-the-power-of-chatgpt-alongside-siri-on-your-iphone/"><u>Leveraging the Power of ChatGPT Alongside Siri on Your iPhone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/navigate-through-common-apple-pay-complications-using-these-10-simple-strategies/"><u>Navigate Through Common Apple Pay Complications Using These 10 Simple Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shut-down-chatgpts-data-collection/"><u>Shut Down ChatGPT's Data Collection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-phoenix-point-glitches-expert-fixes-and-solutions/"><u>Solve Your Phoenix Point Glitches – Expert Fixes and Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-advantages-of-using-claude-3-why-its-time-to-move-on-from-chatgpt/"><u>The Advantages of Using Claude 3 - Why It's Time to Move On From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essential-guide-why-your-career-benefits-from-learning-chatgpt/"><u>The Essential Guide: Why Your Career Benefits From Learning ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-batch-designing-and-copywriting-on-canva-plus-chatgpt/"><u>The Ultimate Guide to Batch Designing and Copywriting on Canva + ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-for-exploring-gpt-3-capabilities-within-openais-innovative-playground-experience/"><u>The Ultimate Tutorial for Exploring GPT-3 Capabilities Within OpenAI’s Innovative Playground Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-ideas-into-reality-with-openai-tools/"><u>Transforming Ideas Into Reality with OpenAI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trustworthiness-of-gpt-in-health-advice-delivery/"><u>Trustworthiness of GPT in Health Advice Delivery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-large-language-models-working-principles-explained/"><u>Understanding Large Language Models: Working Principles Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-implications-of-the-european-unions-ai-regulation-on-advanced-language-models-like-chatgpt/"><u>Understanding the Implications of the European Union's AI Regulation on Advanced Language Models Like ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-global-gpt-universal-chatgpt-connectivity/"><u>Unlocking Global GPT: Universal ChatGPT Connectivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpts-alleged-deceptions/"><u>Unveiling ChatGPT’s Alleged Deceptions</u></a></li>
+</ul></div>

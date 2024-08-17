@@ -1,7 +1,7 @@
 ---
 title: How to Recover and Fix Windows Photos App on Windows 11
-date: 2024-08-14 23:15:34
-updated: 2024-08-16 11:51:46
+date: 2024-08-16T13:06:58.150Z
+updated: 2024-08-17T13:06:58.150Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  While in most cases, a hard shutdown during the update process didn’t cause issues. There are no guarantees that it also works for you. Unfortunately, it’s the only method to try if your computer gets stuck there.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### After restarting your PC, try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -47,6 +50,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 **1)** On your keyboard, press the**Windows logo** key and click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-144.png)
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Select**Update & Security.**
 
@@ -55,6 +61,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 **4)** Follow the on-screen instructions to fix your problem.
 
@@ -76,6 +85,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Fix 3: Restart the Windows Update service
 
  Errors might occur when the Windows Update service isn’t running correctly. Try restarting the Windows Update service to see if that fixes your issue:
@@ -83,12 +95,21 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 1. **On your keyboard, press the Windows logo key and R at the same time to open the Run box.**  
  On your keyboard, press **the Windows logo** **key**  and **R** at the same time to open the Run box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-17.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. **Type services.msc, then press the Enter key on your keyboard.**  
  Type **services.msc** , then press the **Enter** key on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-10-55.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3. **Right-click the Windows Update and click Restart.**  
  Right-click the **Windows Update** and click **Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/2019-12-31_14-11-48.jpg)
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. **Restart your PC to test the issue.**  
 Restart your PC to test the issue.
 
@@ -111,6 +132,9 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Select**Uninstall a program** .
 
@@ -121,6 +145,9 @@ If your problem persists, then move on to the next fix.
  Only uninstall those programs that you don’t use anymore, don’t remove any program that you are not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/uninstall-program.png)
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 
  This could help free up lots of space if you have many unused programs on your computer.
 
@@ -148,6 +175,9 @@ If your problem persists, then move on to the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ### Fix 5: Update your device drivers
 
  Outdated or faulty hardware drivers can also trigger PC issues. To keep your computer running smoothly, it’s essential that you have the latest correct drivers at all times.
@@ -163,10 +193,16 @@ If your problem persists, then move on to the next fix.
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-157.png)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -199,6 +235,14 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
@@ -221,6 +265,9 @@ If your problem persists, then move on to the next fix.
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
@@ -231,6 +278,9 @@ If your problem persists, then move on to the next fix.
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Now, perform a Windows update to see if this fixed your problem.
 
@@ -253,3 +303,58 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-instas-trendy-filters/"><u>[New] 2024 Approved  The Ultimate Guide to Insta's Trendy Filters</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-a-treasure-trove-of-budget-friendly-digital-artistry-tools/"><u>[New] A Treasure Trove of Budget-Friendly Digital Artistry Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-starting-with-social-giving-best-practices-for-fb-posts/"><u>[New] Starting with Social Giving  Best Practices for FB Posts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-effortlessly-download-free-skype-tones-online/"><u>[Updated] 2024 Approved  Effortlessly Download Free Skype Tones Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-breaking-down-manycams-recording-capabilities-for-professionals/"><u>[Updated] Breaking Down ManyCam's Recording Capabilities for Professionals</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-ultimate-list-of-top-tiktok-gamers/"><u>[Updated] In 2024, The Ultimate List of Top TikTok Gamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-claude-ai-how-this-technology-is-shaping-the-world/"><u>Embrace Claude AI: How This Technology Is Shaping the World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-business-operations-a-guide-to-using-chatgpt-for-effective-workflow-management/"><u>Enhancing Your Business Operations: A Guide to Using ChatGPT for Effective Workflow Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eu-ai-regulation-impact-on-chatgpt/"><u>EU AI Regulation: Impact on ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-claude-2-its-essence-and-uses/"><u>Exploring Claude 2: Its Essence & Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-mechanics-of-turings-trial-and-success-rates/"><u>Exploring the Mechanics of Turing's Trial & Success Rates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-misuse-of-chatgpt-in-developing-harmful-programs/"><u>Exploring the Potential Misuse of ChatGPT in Developing Harmful Programs</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-computer-equipment-in-depth-reviews-and-insights/"><u>Exploring Tom's Computer Equipment - In-Depth Reviews & Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/formulating-balanced-meal-plans-via-ai-help/"><u>Formulating Balanced Meal Plans via AI Help</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721854852298-gpt-series-faceoff-exploring-the-unique-aspects-of-gpt-4-gpt-4-turbo-and-gpt-4o-models/"><u>GPT-Series Faceoff: Exploring the Unique Aspects of GPT-4, GPT-4 Turbo & GPT-4o Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-ai-for-data-success-6-key-uses-of-chatgpt/"><u>Harnessing AI for Data Success: 6 Key Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpts-use-of-current-data-impact-users-globally/"><u>How Does ChatGPT's Use of Current Data Impact Users Globally?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-embracing-ai-can-transform-the-future-of-learning-8-compelling-reasons-for-teachers/"><u>How Embracing AI Can Transform the Future of Learning: 8 Compelling Reasons for Teachers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-m54-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy M54 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/huggingchat-vs-chatgpt-comparing-the-two-top-language-models/"><u>HuggingChat vs ChatGPT: Comparing the Two Top Language Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/implementing-stealth-in-corporate-ai-dialogues/"><u>Implementing Stealth in Corporate AI Dialogues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-iphone-14-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On iPhone 14</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-mp3-simple-recording-steps/"><u>In 2024, YouTube to MP3  Simple Recording Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-get-customized-safe-workout-routines-with-the-help-of-chatgpt/"><u>Is It Possible to Get Customized, Safe Workout Routines with the Help of ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/job-security-and-ai-use-are-there-consequences-to-chatting-with-chatgpt-at-work/"><u>Job Security and AI Use: Are There Consequences to Chatting with ChatGPT at Work?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-on-ubuntu-command-line-using-shell-integration-techniques/"><u>Mastering ChatGPT on Ubuntu Command Line Using Shell Integration Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-conversation-a-guide-on-leveraging-chatgpt-from-microsoft/"><u>Mastering the Art of Conversation: A Guide on Leveraging ChatGPT From Microsoft</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-future-understanding-the-significance-of-chatgpt-and-whisper-api-availability-for-companies/"><u>Navigating the Future: Understanding the Significance of ChatGPT and Whisper API Availability for Companies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-level-interaction-sevenfold-advantages-of-bard-with-googles-palm-2-upgrade/"><u>Next-Level Interaction: Sevenfold Advantages of Bard with Google's PaLM 2 Upgrade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/plagiarism-proof-gpt-source-examination/"><u>Plagiarism Proof: GPT Source Examination</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prevent-data-extraction-by-online-bots/"><u>Prevent Data Extraction by Online Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-writing-automation-using-hixs-gpt-4-integrated-solutions/"><u>Revolutionize Writing Automation Using HIX's GPT-4 Integrated Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionized-search-microsoft-enhances-bing-with-ai/"><u>Revolutionized Search: Microsoft Enhances Bing with AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-chatgpt-blocks-understanding-the-4-key-triggers-and-how-to-regain-entry/"><u>Solving ChatGPT Blocks: Understanding the 4 Key Triggers and How to Regain Entry</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/syma-x8c-tech-specifications-study-for-2024/"><u>Syma X8C Tech Specifications Study for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-8-best-ai-apps-to-download-on-your-phone-android-and-iphone/"><u>The 8 Best AI Apps to Download on Your Phone (Android and iPhone)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-job-hunting-utilizing-chatgpt-to-secure-the-employment-youve-always-wanted/"><u>The Future of Job Hunting: Utilizing ChatGPT to Secure the Employment You've Always Wanted</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-openai-api-demystified-a-complete-user-manual/"><u>The OpenAI API Demystified: A Complete User Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-substitutes-for-chatgpt-a-comprehensive-guide/"><u>Top 10 Substitutes for ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-artificial-intelligence-powered-story-creation-tools-you-must-experiment-with/"><u>Top 4 Artificial Intelligence-Powered Story Creation Tools You Must Experiment With</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-strategies-how-chatgpt-elevates-your-web-development-journey/"><u>Top 4 Strategies: How ChatGPT Elevates Your Web Development Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-chatgpt-add-ons-enhance-your-website-immediately/"><u>Top 9 ChatGPT Add-Ons: Enhance Your Website Immediately</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-dall-e-webp-files-into-popular-image-formats/"><u>Transforming DALL-E WebP Files Into Popular Image Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-seamlessly-integrate-chatgpt-into-your-linux-system/"><u>Ultimate Guide: Seamlessly Integrate ChatGPT Into Your Linux System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-walkthrough-for-activating-and-using-chatgpt-on-macos/"><u>Ultimate Walkthrough for Activating and Using ChatGPT on macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-generative-artificial-intelligence-an-insightful-guide/"><u>Understanding Generative Artificial Intelligence: An Insightful Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-potential-utilizing-chatgpt-for-board-game-strategies-and-visual-innovations/"><u>Unleash Your Potential: Utilizing ChatGPT for Board Game Strategies & Visual Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-successful-web-application-development-with-conversational-ai-tools/"><u>Unlocking Successful Web Application Development with Conversational AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-unparalleled-ai-assistance-leveraging-copilot-with-gpt-4-turbo-at-zero-cost/"><u>Unlocking Unparalleled AI Assistance: Leveraging Copilot with GPT-4 Turbo at Zero Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/zerogpt-unreliable-claims-under-scrutiny/"><u>ZeroGPT Unreliable Claims Under Scrutiny</u></a></li>
+</ul></div>

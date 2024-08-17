@@ -1,7 +1,7 @@
 ---
 title: Controlling AI Alignment with Global Norms
-date: 2024-08-02T16:16:02.360Z
-updated: 2024-08-03T16:16:02.360Z
+date: 2024-08-16T14:25:43.272Z
+updated: 2024-08-17T14:25:43.272Z
 tags:
   - chatgpt
   - open-ai
@@ -127,3 +127,57 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-streamline-your-youtube-presence-using-premiere-pro/"><u>[New] 2024 Approved  Streamline Your YouTube Presence Using Premiere Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfect-emulators-to-replay-playstation-1-classics/"><u>[New] In 2024, Perfect Emulators to Replay PlayStation 1 Classics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-seamless-transition-from-fb-videos-to-polished-mp3-tracks/"><u>[New] In 2024, Seamless Transition From FB Videos to Polished MP3 Tracks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transform-your-visual-storytelling-with-clear-backdrops-in-figma/"><u>[New] Transform Your Visual Storytelling with Clear Backdrops in Figma</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-ideal-mkv-player-suite-mobile-and-desktop/"><u>[Updated] Ideal MKV Player Suite (Mobile & Desktop)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-the-nooks-and-crannies-of-concurrent-youtube-watching/"><u>[Updated] Navigating the Nooks and Crannies of Concurrent YouTube Watching</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-superior-camcorder-features-direct-look-up/"><u>[Updated] Superior Camcorder Features – Direct Look-Up</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-windows-10-tips-inserting-titletext-onto-videos-using-photos-for-2024/"><u>[Updated] Windows 10 Tips  Inserting Title/Text Onto Videos Using Photos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-craft-the-perfect-cinematic-journey-with-imovie/"><u>2024 Approved  Craft the Perfect Cinematic Journey with iMovie</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-hairstyles-for-visual-gurus/"><u>2024 Approved  Hairstyles for Visual Gurus</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-storytelling-mastery-crafting-a-dynamic-marketing-plan/"><u>2024 Approved  Instagram Storytelling Mastery  Crafting a Dynamic Marketing Plan</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/are-reviews-for-goods-online-monetized-in-2024/"><u>Are Reviews For Goods Online Monetized, In 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/bringing-favorite-manga-characters-to-life-in-tiktok/"><u>Bringing Favorite Manga Characters to Life in TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-stardust-the-premier-10-sites-for-hdr-skyscapes/"><u>Capturing Stardust  The Premier 10 Sites for HDR Skyscapes</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-overcoming-issues-with-remote-server-connection-failures/"><u>Comprehensive Guide: Overcoming Issues with Remote Server Connection Failures</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hp-stream-14-analysis-affordable-windows-laptop-with-trade-offs-explored/"><u>HP Stream 14 Analysis: Affordable Windows Laptop with Trade-Offs Explored</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-from-fan-to-earner-understanding-view-requirements/"><u>In 2024, From Fan to Earner  Understanding View Requirements</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ai-interaction-design-a-sustainable-profession/"><u>Is AI Interaction Design a Sustainable Profession?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/know-your-ai-acronyms-the-must-know-list/"><u>Know Your AI Acronyms: The Must-Know List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maintaining-conversational-confidentiality-for-bots/"><u>Maintaining Conversational Confidentiality for Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-pdf-digestion-with-chatgpt-discover-these-4-techniques/"><u>Mastering PDF Digestion with ChatGPT: Discover These 4 Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-interviews-strategies-for-utilizing-chatgpt/"><u>Mastering the Art of Interviews: Strategies for Utilizing ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-your-learning-journey-with-chatgpt-notes-guide/"><u>Optimize Your Learning Journey with ChatGPT Notes Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/public-ai-vs-private-ai-vs-personal-ai-whats-the-difference/"><u>Public AI Vs. Private AI Vs. Personal AI: What's the Difference?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/quick-guide-how-to-revamp-facebook-profile-imagery/"><u>Quick Guide  How to Revamp Facebook Profile Imagery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quickstart-guide-to-utilizing-8-advanced-customized-gpt-systems-now/"><u>Quickstart Guide to Utilizing 8 Advanced Customized GPT Systems Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefining-education-why-teachers-should-embrace-ais-potential/"><u>Redefining Education: Why Teachers Should Embrace AI's Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-home-cooking-the-top-benefits-of-a-chatbot-chef-with-chatgpt/"><u>Revolutionize Home Cooking: The Top Benefits of a Chatbot Chef with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-learning-with-ai-educators-guide-to-the-top-8-benefits-of-embracing-artificial-intelligence/"><u>Revolutionize Learning with AI: Educators' Guide to the Top 8 Benefits of Embracing Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-online-discovery-how-artificer-intelligence-is-shaping-future-websites/"><u>Revolutionizing Online Discovery: How Artificer Intelligence Is Shaping Future Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scripting-success-gpt-in-podcast-making/"><u>Scripting Success: GPT in Podcast Making</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sidestepping-errors-maximizing-chatgpt-for-content-creation/"><u>Sidestepping Errors: Maximizing ChatGPT for Content Creation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-setting-up-and-downloading-programs-for-your-brother-hl-l2340dw-printer-in-windows/"><u>Step by Step Guide: Setting Up and Downloading Programs for Your Brother HL-L2340DW Printer in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-developing-your-personalized-chatbot-using-custom-datasets/"><u>Step-by-Step Guide: Developing Your Personalized ChatBot Using Custom Datasets</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722897568445-switching-from-gmail-discover-the-leading-8-mail-providers-for-2n25/"><u>Switching From Gmail? Discover the Leading 8 Mail Providers for 2N25</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-arrival-of-gemini-ai-from-google-can-it-outperform-microsofts-popular-chatgpt/"><u>The Arrival of Gemini AI From Google - Can It Outperform Microsoft's Popular ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-ai-how-cybercriminals-exploit-it-for-romance-scams-learn-about-their-top-7-strategies/"><u>The Dark Side of AI: How Cybercriminals Exploit It for Romance Scams – Learn About Their Top 7 Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-web-search-exploring-microsofts-latest-ai-integration-into-bing-platform/"><u>The Future of Web Search: Exploring Microsoft’s Latest AI Integration Into Bing Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-promise-of-codegpt-ai-driven-software-generation/"><u>The Promise of CodeGPT: AI-Driven Software Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-roadmap-to-becoming-a-successful-prompt-engineer/"><u>The Roadmap to Becoming a Successful Prompt Engineer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-enhancing-story-craft-with-chatgpt-tools-and-strategies/"><u>The Ultimate Guide to Enhancing Story Craft with ChatGPT Tools and Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-advanced-ai-powered-search-engines-revolutionizing-online-research/"><u>Top 5 Advanced AI-Powered Search Engines Revolutionizing Online Research</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-must-have-chatgpt-plugins-for-visual-studio-code-enthusiasts/"><u>Top 6 Must-Have ChatGPT Plugins for Visual Studio Code Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-revolutionary-ai-programs-for-tackling-mathematical-challenges/"><u>Top 7 Revolutionary AI Programs for Tackling Mathematical Challenges</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-chatgpts-plugin-store-with-four-critical-innovations/"><u>Transforming ChatGPT's Plugin Store with Four Critical Innovations</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-auto-play-features-why-your-iphone-chooses-songs-on-apple-music/"><u>Understanding Auto-Play Features: Why Your iPhone Chooses Songs on Apple Music</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-secrets-to-effortlessly-record-seascapes-for-2024/"><u>Unraveling the Secrets to Effortlessly Record Seascapes for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-k70-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi K70 Pro on Windows?</u></a></li>
+</ul></div>

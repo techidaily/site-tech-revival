@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Generative Models: How Might They Be Fuelling Misinformation Campaigns?"
-date: 2024-08-02T16:15:53.561Z
-updated: 2024-08-03T16:15:53.561Z
+date: 2024-08-16T14:41:31.003Z
+updated: 2024-08-17T14:41:31.004Z
 tags:
   - chatgpt
   - open-ai
@@ -126,3 +126,47 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-slapstick-suggestions-a-guide-to-hilarious-short-form-videography/"><u>[New] 2024 Approved  Slapstick Suggestions  A Guide to Hilarious Short-Form Videography</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-responding-right-a-comprehensive-guide-to-discord-communication/"><u>[Updated] In 2024, Responding Right  A Comprehensive Guide to Discord Communication</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-keep-the-click-going-tips-for-automatically-backing-up-snapshots-for-2024/"><u>[Updated] Keep the Click Going  Tips for Automatically Backing Up Snapshots for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-optimal-5-filters-for-deep-blue-cinematography/"><u>[Updated] Optimal 5 Filters for Deep Blue Cinematography</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-step-into-innovation-top-10-youtube-vr-creations/"><u>2024 Approved  Step Into Innovation  Top 10 YouTube VR Creations</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-chains-of-stuck-files-win11-download-guide-2/"><u>Breaking Chains of Stuck Files: WIN11 Download Guide (2)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-the-ultimate-list-15-premier-mounts-for-gopro/"><u>Crafting the Ultimate List  15 Premier Mounts for GoPro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-value-of-auto-gpt-in-the-absence-of-gpt-4-is-it-still-a-smart-choice/"><u>Evaluating the Value of Auto-GPT in the Absence of GPT-4: Is It Still a Smart Choice?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-seamless-research-make-perplexity-your-preferred-choice-the-pinnacle-of-ai-powered-google-search-unused-potential/"><u>Experience Seamless Research: Make Perplexity Your Preferred Choice, the Pinnacle of AI-Powered Google Search Unused Potential.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-artificial-intelligence-chatbots-and-their-attraction-factor/"><u>Exploring Artificial Intelligence Chatbots and Their Attraction Factor</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/express-humor-no-charge-with-easymeme-tools-for-2024/"><u>Express Humor, No Charge with EasyMeme Tools for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-proof-your-job-6-key-practices-for-excelling-in-an-ai-infused-workplace/"><u>Future-Proof Your Job: 6 Key Practices for Excelling in an AI-Infused Workplace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-past-blocks-solutions-for-4-common-problems/"><u>Getting Past Blocks: Solutions for 4 Common Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-chatgpt-desktop-application-surpasses-the-web-interface-in-functionality/"><u>How the ChatGPT Desktop Application Surpasses the Web Interface in Functionality</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-nubia-red-magic-8s-pro-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Nubia Red Magic 8S Pro Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-grok-ai-decoding-elon-musks-breakthrough-technology-and-cost-implications/"><u>Inside Grok AI: Decoding Elon Musk’s Breakthrough Technology and Cost Implications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-openai-losing-grip-on-chatgpts-management/"><u>Is OpenAI Losing Grip on ChatGPT's Management?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/language-model-battle-royale-who-takes-first-place-between-bard-chatgpt-and-offline-alpaca/"><u>Language Model Battle Royale: Who Takes First Place Between Bard, ChatGPT & Offline Alpaca?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-continuity-solutions-for-saving-your-chatgpt-interactions/"><u>Mastering Continuity: Solutions for Saving Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-job-market-with-confidence-6-powerful-uses-of-chatgpt-for-job-seekers/"><u>Navigate the Job Market with Confidence: 6 Powerful Uses of ChatGPT for Job Seekers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalizing-gpt-interactions-via-macos-applications/"><u>Personalizing GPT Interactions via macOS Applications</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pioneering-the-virtual-landscape-with-metaverse-marketing-for-2024/"><u>Pioneering the Virtual Landscape with Metaverse Marketing for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-se-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone SE Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/refine-your-prompt-craftsmanship-discover-7-must-use-online-utilities-for-better-outcomes/"><u>Refine Your Prompt Craftsmanship: Discover 7 Must-Use Online Utilities for Better Outcomes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/revealing-clarity-mastering-the-eraser-feature-in-psx-for-2024/"><u>Revealing Clarity  Mastering the Eraser Feature in PSX for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplified-concepts-of-artificial-intelligence-unveiled/"><u>Simplified Concepts of Artificial Intelligence Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>Spoofing Life360 How to Do it on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-up-your-browsing-experience-7-chrome-extensions-for-ai/"><u>Step Up Your Browsing Experience: 7 Chrome Extensions for AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/swiftly-create-better-guides-with-these-7-online-apps/"><u>Swiftly Create Better Guides with These 7 Online Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-convincing-proposals-using-chatgpt-smartly/"><u>The Art of Convincing Proposals: Using ChatGPT Smartly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-sdr-to-hdr-upgrade-blueprint/"><u>The Complete SDR to HDR Upgrade Blueprint</u></a></li>
+<li><a href="https://win11.techidaily.com/the-end-game-for-windows-xp781-on-microsoft-platforms/"><u>The End Game for Windows XP/7/8.1 on Microsoft Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-gptbot-conundrum-harnessing-its-powers-responsibly/"><u>The GPTBot Conundrum - Harnessing Its Powers Responsibly?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-chatgpts-limitations-on-tokens-what-you-need-to-know/"><u>The Ins and Outs of ChatGPT's Limitations on Tokens – What You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-of-tailored-ai-how-nvidia-opens-up-generative-possibilities-to-users-far-and-wide/"><u>The Power of Tailored AI: How NVIDIA Opens Up Generative Possibilities to Users Far and Wide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-hash-tag-guide-for-gamers-youtube-channels-for-2024/"><u>The Ultimate Hash Tag Guide for Gamers' YouTube Channels for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-guide-resolving-the-key-malfunction-on-your-device/"><u>Ultimate Guide: Resolving the '@' Key Malfunction on Your Device</u></a></li>
+</ul></div>

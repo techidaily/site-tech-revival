@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with LangChain Large Language Models: The Starter's Handbook"
-date: 2024-08-02T16:15:34.139Z
-updated: 2024-08-03T16:15:34.139Z
+date: 2024-08-16T15:13:11.870Z
+updated: 2024-08-17T15:13:11.870Z
 tags:
   - chatgpt
   - open-ai
@@ -131,3 +131,61 @@ Here's how you can create your own personalized tests:
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-face-forward-top-makeup-creatives/"><u>[New] 2024 Approved  The Face Forward  Top Makeup Creatives</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-comprehensive-guide-to-mastering-video-editing-tools-like-movie-maker-w11/"><u>[New] A Comprehensive Guide to Mastering Video Editing Tools Like Movie Maker W11</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-capturing-attention-a-step-by-step-guide-to-social-media-promotion-for-2024/"><u>[New] Capturing Attention  A Step-by-Step Guide to Social Media Promotion for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unveiling-the-ideal-team-collaboration-software-a-slack-vs-discord-assessment-for-2024/"><u>[New] Unveiling the Ideal Team Collaboration Software  A Slack Vs. Discord Assessment for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-professional-guide-to-youtube-screen-capturing/"><u>[Updated] 2024 Approved  Professional Guide to YouTube Screen Capturing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-expertise-full-guide-to-record-your-macscreens/"><u>[Updated] 2024 Approved  The Ultimate Expertise  Full Guide to Record Your MacScreens</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-premium-tools-for-tag-analysis-across-fb-twitter-and-instagram-for-2024/"><u>[Updated] Premium Tools for Tag Analysis Across FB, Twitter and Instagram for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unleashing-the-full-capabilities-of-macoss-screen-recording-feature-for-2024/"><u>[Updated] Unleashing the Full Capabilities of macOS's Screen Recording Feature for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>2024 Approved  Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-precision-and-power-players-top-5-martial-arts-rpgs/"><u>2024 Approved  Precision & Power Players  Top 5 Martial Arts RPGs</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/advanced-strategies-to-combat-video-interlace-artifacts/"><u>Advanced Strategies to Combat Video Interlace Artifacts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-13-mini-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 13 mini Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-narzo-n55-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Narzo N55.</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/emerging-ai-trends-reshaping-job-dynamics/"><u>Emerging AI Trends: Reshaping Job Dynamics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excel-exclusive-capabilities-beyond-chatgpts-reach/"><u>Excel Exclusive: Capabilities Beyond ChatGPT's Reach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-top-9-most-effective-chatgpt-extensions-for-immediate-use/"><u>Explore the Top 9 Most Effective ChatGPT Extensions for Immediate Use</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-y100-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo Y100 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-errconnectionrefused-with-pictures/"><u>Fix: ERR_CONNECTION_REFUSED [with Pictures]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fueling-wellness-a-beginners-tutorial-on-diet-planning-with-chatgpt-assistance/"><u>Fueling Wellness: A Beginner's Tutorial on Diet Planning with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4-vs-gpt-4-turbo-vs-gpt-4-go-an-in-depth-look-at-the-key-divergences/"><u>GPT-4 vs GPT-4 Turbo vs GPT-4 Go - An In-Depth Look at the Key Divergences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-ai-note-taking-made-simple-by-chatgpt/"><u>Harness the Power of AI: Note-Taking Made Simple by ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-the-power-of-ai-conversation-chatgpts-role-in-reducing-feelings-of-lonely/"><u>Harnessing the Power of AI Conversation: ChatGPT's Role in Reducing Feelings of Lonely</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-the-chatgpt-error-communicating-with-plugin-service-issue/"><u>How to Fix the ChatGPT Error Communicating With Plugin Service Issue</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme GT Neo 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-s17-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo S17 phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-mov-files-for-free-top-10-video-editors/"><u>In 2024, Edit MOV Files for Free Top 10 Video Editors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-excavate-extravagance-treasure-hunting-maps-ranked/"><u>In 2024, Excavate Extravagance  Treasure Hunting Maps Ranked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-lava-blaze-curve-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Lava Blaze Curve 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-y78plus-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Vivo Y78+</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-ai-duo-chatgpt-meets-siri-in-ios-world/"><u>Integrating AI Duo: ChatGPT Meets Siri in iOS World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-cutting-edge-ai-with-copilots-integration-of-free-gpt-4-turbo-capabilities/"><u>Leverage Cutting-Edge AI with Copilot's Integration of FREE GPT-4 Turbo Capabilities</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lush-backdrops-a-treasure-chest-of-free-templates-for-cinematographers/"><u>Lush Backdrops  A Treasure Chest of Free Templates for Cinematographers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-quick-content-creation-combining-chatgpt-and-microsoft-word/"><u>Master the Art of Quick Content Creation: Combining ChatGPT and Microsoft Word</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-interactive-storytelling-leveraging-chatgpt-for-video-game-scripts/"><u>Mastering Interactive Storytelling: Leveraging ChatGPT for Video Game Scripts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-output-8-ai-technologies-to-streamline-content-creation/"><u>Maximize Your Output: 8 AI Technologies to Streamline Content Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-conversational-ai-results-the-art-of-developing-chatgpt-user-profiles/"><u>Maximizing Conversational AI Results: The Art of Developing ChatGPT User Profiles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mental-healing-on-the-rise-with-top-5-bot-counselors/"><u>Mental Healing on the Rise with Top 5 Bot Counselors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-future-of-cryptos-best-chatbot-tools-featuring-chatgpt-for-traders/"><u>Navigate the Future of Cryptos: Best Chatbot Tools Featuring ChatGPT for Traders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-hugging-face-clarifying-its-essence-and-practical-uses/"><u>Navigating Through Hugging Face - Clarifying Its Essence & Practical Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/no-phone-number-necessary-step-by-step-guide-to-signing-up-on-chatgpt-telegram-and-more/"><u>No-Phone-Number Necessary: Step-by-Step Guide to Signing Up on ChatGPT, Telegram & More</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/poetic-creation-simplified-unleash-your-inner-bard-with-chatgpt/"><u>Poetic Creation Simplified: Unleash Your Inner Bard with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/probing-into-the-rights-behind-machine-made-masterpieces/"><u>Probing Into the Rights Behind Machine-Made Masterpieces</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-your-data-from-the-top-9-fake-ai-assistant-viruses-and-malware-programs/"><u>Protecting Your Data From the Top 9 Fake AI Assistant Viruses and Malware Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/proven-strategies-for-effective-gpt-3-application-at-openai/"><u>Proven Strategies for Effective GPT-3 Application at OpenAI</u></a></li>
+<li><a href="https://win-blog.techidaily.com/sea-of-thieves-crash-fixes-effective-strategies-to-prevent-game-disruptions/"><u>Sea of Thieves Crash Fixes: Effective Strategies to Prevent Game Disruptions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/set-up-a-zero-cost-windows-edition-of-chatgpt-replica/"><u>Set Up a Zero-Cost Windows Edition of ChatGPT Replica</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplified-chatgpt-setup-on-linux-with-bavarder-the-fastest-methods-and-tips/"><u>Simplified ChatGPT Setup on Linux with Bavarder: The Fastest Methods and Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-codegpt-in-your-vs-code-environment/"><u>Step-by-Step Guide to CodeGPT in Your VS Code Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-creating-your-first-web-application-using-chatgpt/"><u>Step-by-Step Guide: Creating Your First Web Application Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-and-utilizing-chatgpt-add-ons/"><u>Step-by-Step Guide: Setting Up & Utilizing ChatGPT Add-Ons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-browsers-ai-dialogues-our-picks/"><u>Streamline Your Browser's AI Dialogues: Our Picks</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-13-pro-max-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 Pro Max Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-graphics-performance-downloading-and-installing-the-newest-amd-rx-6800-xt-driver-for-various-windows-versions-win11-win10-win8-win7/"><u>Upgrade Graphics Performance: Downloading & Installing the Newest AMD RX 6800 XT Driver for Various Windows Versions (Win11, Win10, Win8, Win7)</u></a></li>
+</ul></div>

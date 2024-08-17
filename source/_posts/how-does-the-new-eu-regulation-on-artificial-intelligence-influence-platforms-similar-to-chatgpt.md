@@ -1,7 +1,7 @@
 ---
 title: How Does the New EU Regulation on Artificial Intelligence Influence Platforms Similar to ChatGPT?
-date: 2024-08-02T16:16:22.799Z
-updated: 2024-08-03T16:16:22.799Z
+date: 2024-08-16T13:51:06.288Z
+updated: 2024-08-17T13:51:06.288Z
 tags:
   - chatgpt
   - open-ai
@@ -91,3 +91,50 @@ thumbnail: https://thmb.techidaily.com/86c324ce76532279df624a7b580daa3d859103088
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-glee-and-gags-the-classic-vhs-of-a-goofy-adventure/"><u>[Updated] 'Glee and Gags' - The Classic VHS of A Goofy Adventure</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cured-non-appearance-of-tiny-vid-content/"><u>[Updated] In 2024, Cured  Non-Appearance of Tiny Vid Content</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-guide-to-free-and-premium-short-video-clips/"><u>[Updated] Ultimate Guide to Free & Premium Short Video Clips</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unseen-watchers-manual-how-to-stay-anonymous-on-instagram-live/"><u>2024 Approved  Unseen Watcher’s Manual  How to Stay Anonymous on Instagram Live</u></a></li>
+<li><a href="https://techtrends.techidaily.com/achieve-perfect-zzzs-best-apple-watch-apps-ranked-for-nightly-comfort/"><u>Achieve Perfect Zzz's: Best Apple Watch Apps Ranked for Nightly Comfort</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-models-how-public-private-and-personal-variants-differ/"><u>Demystifying AI Models: How Public, Private, and Personal Variants Differ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-hugging-face-its-purpose-and-utility/"><u>Demystifying Hugging Face: Its Purpose & Utility</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/disabling-recording-privacy-focused-tips-for-chatgpt-users/"><u>Disabling Recording: Privacy-Focused Tips for ChatGPT Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-gpt-4-without-paying-top-4-free-strategies/"><u>Discovering GPT-4 Without Paying: Top 4 Free Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-the-world-of-langchain-and-llms/"><u>Discovering the World of LangChain and LLMs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engage-like-never-before-discover-the-revolutionary-changes-to-chatgpt/"><u>Engage Like Never Before: Discover the Revolutionary Changes to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-at-home-workflow-with-these-6-ingenious-uses-of-chatgpt/"><u>Enhance Your At-Home Workflow with These 6 Ingenious Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-ai-creativity-results-revealed-from-a-unified-challenge-to-three-bots/"><u>Evaluating AI Creativity: Results Revealed From a Unified Challenge to Three Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-ai-evolution-the-key-contrasts-between-the-latest-gpt-4-models/"><u>Exploring AI Evolution: The Key Contrasts Between the Latest GPT-4 Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-auto-gpt-unveiling-its-distinct-features-compared-to-chatgpt/"><u>Exploring Auto-GPT: Unveiling Its Distinct Features Compared to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-how-generative-ai-could-fuel-false-information-campaigns/"><u>Exploring How Generative AI Could Fuel False Information Campaigns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-capabilities-of-claude-3-a-detailed-overview-and-practical-applications/"><u>Exploring the Capabilities of Claude 3: A Detailed Overview and Practical Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fivefold-exploitation-how-ai-paves-the-way-for-cyber-threats/"><u>Fivefold Exploitation: How AI Paves the Way for Cyber Threats</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-gif-looping-software-the-best-options/"><u>Free GIF Looping Software The Best Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-can-be-your-ally-in-achieving-professional-fulfillment-and-job-satisfaction/"><u>How ChatGPT Can Be Your Ally in Achieving Professional Fulfillment and Job Satisfaction</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-20-freepaid-luts-for-dji-mini-2air-2smavic-2/"><u>In 2024, 20 Free/Paid LUTS for DJI Mini 2/Air 2S/Mavic 2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-complete-exploration-of-sierra-icloud-documentdesktop-views/"><u>In 2024, Complete Exploration of Sierra iCloud Document/Desktop Views</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insight-into-massive-computational-linguistics/"><u>Insight Into Massive Computational Linguistics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-create-a-secure-and-efficient-exercise-regimen-tailored-just-for-you/"><u>Is It Possible for ChatGPT to Create a Secure & Efficient Exercise Regimen Tailored Just For You?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/join-forces-with-your-pals-syncing-up-for-a-group-listening-experience-on-spotify/"><u>Join Forces with Your Pals: Syncing Up for a Group Listening Experience on Spotify</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/launch-into-ai-start-applying-these-8-customizable-gpt-models-immediately/"><u>Launch Into AI: Start Applying These 8 Customizable GPT Models Immediately</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-excel-mastery-three-key-methods/"><u>Leveraging ChatGPT for Excel Mastery – Three Key Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-essential-tips-and-strategies-from-openai/"><u>Mastering ChatGPT: Essential Tips & Strategies From OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-homes-optimize-daily-tasks-with-gpt/"><u>Maximizing Homes: Optimize Daily Tasks with GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pre-interview-edge-utilizing-chatgpts-artificial-intelligence/"><u>Pre-Interview Edge: Utilizing ChatGPT's Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prompt-designers-in-demand-fact-or-fiction/"><u>Prompt Designers in Demand: Fact or Fiction?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-your-writing-workflow-by-automating-documents-with-chatgpt-in-ms-word/"><u>Simplify Your Writing Workflow by Automating Documents with ChatGPT in MS Word</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solve-virtual-crimes-using-intelligence-explore-4-engaging-ai-murder-mysteries/"><u>Solve Virtual Crimes Using Intelligence: Explore 4 Engaging AI Murder Mysteries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-of-ai-preventing-info-leakage-in-chatbots-through-model-inversion-insights/"><u>The Hidden Dangers of AI: Preventing Info Leakage in Chatbots Through Model Inversion Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-insiders-guide-to-default-plugins-in-chatgpt-uses-and-benefits/"><u>The Insider's Guide to Default Plugins in ChatGPT: Uses & Benefits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-roadmap-to-chatgpt-excellence-with-new-plugins/"><u>The Roadmap to ChatGPT Excellence with New Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-role-of-chatgpt-in-advancing-emotional-intelligence-and-communication/"><u>The Role of ChatGPT in Advancing Emotional Intelligence and Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-innovative-gpt-3-applications-for-streamlining-routine-hr-operations/"><u>Top 5 Innovative GPT-3 Applications for Streamlining Routine HR Operations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-windows-with-chatgpt/"><u>Transform Your Windows With ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-generating-dynamic-characters-using-chatgpt-prompts/"><u>Ultimate Guide: Generating Dynamic Characters Using ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-pitfalls-why-generative-ai-may-not-be-ideal-for-messaging-applications/"><u>Understanding the Pitfalls: Why Generative AI May Not Be Ideal for Messaging Applications</u></a></li>
+</ul></div>

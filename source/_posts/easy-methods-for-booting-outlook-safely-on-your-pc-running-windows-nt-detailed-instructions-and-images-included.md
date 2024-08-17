@@ -1,7 +1,7 @@
 ---
 title: Easy Methods for Booting Outlook Safely on Your PC Running Windows nT - Detailed Instructions and Images Included
-date: 2024-08-14 22:52:32
-updated: 2024-08-16 11:35:28
+date: 2024-08-16T13:00:30.223Z
+updated: 2024-08-17T13:00:30.223Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ This article explains how to manually start Windows 10 in safe mode.
 
 **IMPORTANT:** This method must be manually enabled from within Windows. If you haven't already enabled it, and you can't access Windows to do so, [skip to method 2 below](https://tools.techidaily.com/drivereasy/download/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### First, you have to enable the F8 key method
 
  On Windows 7, you could press the F8 key as your computer was booting to access the Advanced Boot Options menu. From there, you could access Safe Mode.
@@ -52,6 +55,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  1) Click the**Windows start menu** and type**cmd** , then click**Run as administrator** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-command-prompt-as-admin.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Copy this command:
 
@@ -79,6 +85,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## **Method 2: Start Safe Mode by turning off your PC 3 times**
 
  If you’re unable to launch Windows, and you haven’t enabled the F8 method above, this is how to start Safe Mode:
@@ -90,6 +99,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  Do this again, and then again. After you’ve done it 3 times, start your computer again and let it run. It should now go into Automatic Repair mode:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/preparing-automatic-repair-screen.jpg)
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait for Windows to diagnose your PC:
 
@@ -102,6 +114,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  5) Click**Troubleshoot** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/troubleshoot.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Click**Advanced options** :
 
@@ -110,6 +125,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  7) Click**Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/03/startup-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  8) Click**Restart** .
 
@@ -123,6 +141,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 3: Start Safe Mode using the System Configuration tool
 
 **IMPORTANT:** If you follow these instructions, Windows will start in Safe Mode every time it restarts, until you undo your changes.
@@ -132,6 +153,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  1) Click the**Windows start menu** and type**msconfig** , then click**Open** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Start-System-Configuration-tool.png)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the **Boot**  tab, then check **Safe boot**  and  click **OK** .
 
@@ -140,6 +164,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into Safe Mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/restart-computer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 
 ### To turn off Safe Mode and go back to normal mode
 
@@ -152,6 +179,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
  2) Select the **Boot**  tab, then UNcheck **Safe boot**  and  click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/safe-boot-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 
  3) When you’re prompted to restart your computer to apply these changes, click **Restart**  and you’ll boot into normal mode.
 
@@ -159,6 +189,9 @@ Here’s how to get the F8 key to start Safe Mode in Windows 10:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## Method 4: Start Safe Mode from the login screen
 
 If you can boot to the login screen, you can enter Safe Mode from there:
@@ -174,6 +207,9 @@ The Windows RE (Recovery environment) screen will then display.
  3) Click **Troubleshoot** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/troubleshoot-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 
  4) Click **Advanced options** :
 
@@ -182,6 +218,9 @@ The Windows RE (Recovery environment) screen will then display.
  5) Click **Startup Settings** :
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-settings.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 
  6) Click **Restart** .
 
@@ -192,6 +231,9 @@ The Windows RE (Recovery environment) screen will then display.
  7) On your keyboard, press the number**4** key to enter Safe Mode without internet access or the number**5** key to enter Safe Mode with internet access:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/enable-safe-mode.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -216,6 +258,10 @@ The Windows RE (Recovery environment) screen will then display.
  Or click**Update All**  to automatically download and install the correct version of**_all_** the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58febfb1a2a71.jpg)
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 
 * [Windows 10](https://tools.techidaily.com/drivereasy/download/)
 
@@ -233,3 +279,52 @@ The Windows RE (Recovery environment) screen will then display.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-the-social-media-seas-to-boost-follower-count/"><u>[New] 2024 Approved  Navigating the Social Media Seas to Boost Follower Count</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-masking-methods-for-confidential-recordings/"><u>[New] Masking Methods for Confidential Recordings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pixelate-photo-visages-a-selection-of-powerful-utilities/"><u>[New] Pixelate Photo Visages  A Selection of Powerful Utilities</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-focus-on-the-main-sound-in-video-capturing-free-advice/"><u>[Updated] 2024 Approved  Focus on the Main Sound in Video Capturing (Free Advice)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-iphone-photo-burst-how-to-take-burst-images/"><u>[Updated] IPhone Photo Burst  How to Take Burst Images</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-techniques-for-iphones-in-virtual-reality/"><u>2024 Approved  Expert Techniques for iPhones in Virtual Reality</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-master-the-art-of-text-sculpting-for-an-astonishing-photos-effect/"><u>2024 Approved  Master the Art of Text Sculpting for an Astonishing PHOTOS Effect</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-techniques-to-reclaim-your-exclusive-snaps/"><u>2024 Approved  Techniques to Reclaim Your Exclusive Snaps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-linguistic-gaps-with-chatgpt-assistance/"><u>Bridging Linguistic Gaps with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-strategies-5-essential-tips-for-enhanced-digital-asset-trading/"><u>ChatGPT and Crypto Strategies: 5 Essential Tips for Enhanced Digital Asset Trading</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-professional-integrity-techniques-for-preserving-confidential-information-on-the-job/"><u>ChatGPT and Professional Integrity: Techniques for Preserving Confidential Information on the Job</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-workplace-privacy-strategies-how-to-keep-your-data-safe-and-secure/"><u>ChatGPT Workplace Privacy Strategies: How to Keep Your Data Safe and Secure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/child-friendly-ai-interaction-discover-five-secure-methods-to-utilize-chatgpt-with-kids/"><u>Child-Friendly AI Interaction: Discover Five Secure Methods to Utilize ChatGPT with Kids</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/closure-of-new-chatgpt-sign-ups-explained-what-to-expect-next/"><u>Closure of New ChatGPT Sign-Ups Explained – What to Expect Next?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-top-chatbots-which-is-more-advanced-chatgpt-or-microsoft-bing/"><u>Comparing Top Chatbots: Which Is More Advanced, ChatGPT or Microsoft Bing?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-writing-made-simple-top-8-ai-tools-reviewed/"><u>Content Writing Made Simple: Top 8 AI Tools Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-dynamics-ai-versus-machine-translators/"><u>Decoding Dynamics: AI Versus Machine Translators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-6-superior-ai-note-management-applications-for-improved-efficiency/"><u>Discover the 6 Superior AI Note Management Applications for Improved Efficiency</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-considerations-prior-to-employing-chatgpt-for-psychological-well-being/"><u>Essential Considerations Prior to Employing ChatGPT for Psychological Well-Being</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-divide-how-snapchats-and-microsofts-bing-chat-ai-differ-in-a-side-by-side-comparison-on-skype/"><u>Exploring the Divide: How Snapchat's and Microsoft's Bing Chat AI Differ in a Side-by-Side Comparison on Skype</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-humorous-side-of-artificial-intelligence-plus-unveiling-laptop-evolution-and-vpn-advancements/"><u>Exploring the Humorous Side of Artificial Intelligence + Unveiling Laptop Evolution & VPN Advancements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-limitations-and-challenges-of-artificeintelligence-in-content-originality-detection/"><u>Exploring the Limitations and Challenges of ArtificeIntelligence in Content Originality Detection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-code-to-conversation-innovative-website-changes-driven-by-artificial-intelligence/"><u>From Code to Conversation: Innovative Website Changes Driven by Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/government-strategies-oversight-and-control-over-artificer-intellect-systems/"><u>Government Strategies: Oversight and Control Over Artificer Intellect Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-detecting-imitation-gpt-powered-tools-on-apples-app-store/"><u>Guide to Detecting Imitation GPT-Powered Tools on Apple's App Store</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-prohibition-of-chatgpt-in-italy-what-you-need-to-know/"><u>Immediate Prohibition of ChatGPT in Italy – What You Need To Know</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-into-ai-evolution-comparing-features-of-gpt-4-gpt-4-turbo-and-phi-models/"><u>Insights Into AI Evolution: Comparing Features of GPT-4, GPT-4 Turbo & Phi Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/make-the-smart-move-4-compelling-reasons-to-embrace-claude-3-rather-than-chatgpt/"><u>Make the Smart Move: 4 Compelling Reasons to Embrace Claude 3 Rather than ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-verses-leveraging-chatgpt-for-writing-poetry/"><u>Mastering Verses: Leveraging ChatGPT for Writing Poetry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-your-productivity-with-chatgpt-plugin-setup-instructions/"><u>Maximizing Your Productivity with ChatGPT Plugin Setup Instructions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-learning-in-school-with-these-5-uses-of-chatgpt/"><u>Revolutionize Learning in School with These 5 Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-company-using-chatgpt-8-key-methods/"><u>Revolutionize Your Company Using ChatGPT - 8 Key Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sensibility-in-software-can-computers-get-a-grip-on-feelings/"><u>Sensibility in Software: Can Computers Get a Grip on Feelings?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dawn-of-ai-unveiling-the-key-milestnies-in-its-development/"><u>The Dawn of AI: Unveiling the Key Milestnies in Its Development</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-writers-toolbox-how-chatgpt-can-fuel-your-creative-process/"><u>The Writer's Toolbox: How ChatGPT Can Fuel Your Creative Process</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/tinyshot-critique-of-small-scale-recording-app-for-2024/"><u>TinyShot Critique of Small-Scale Recording App for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-tailored-ais-enhancing-chatgpts-capabilities/"><u>Top 10 Tailored AIs Enhancing ChatGPT's Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-complimentary-ai-software-for-crafting-professional-emails-and-summarizing-your-correspondence/"><u>Top 5 Complimentary AI Software for Crafting Professional Emails and Summarizing Your Correspondence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-google-search-experience-with-perplexity-ai-the-best-untapped-resource-for-power-users/"><u>Transform Your Google Search Experience with Perplexity AI - The Best Untapped Resource for Power Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-chatbot-content-moderation-impacts-on-users/"><u>Understanding AI Chatbot Content Moderation: Impacts on Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-employer-retribution-for-chatgpt-use-in-work/"><u>Understanding Employer Retribution for ChatGPT Use in Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-italys-urgent-ban-on-chatgpt-causes-and-consequences/"><u>Understanding Italy's Urgent Ban on ChatGPT: Causes and Consequences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-missing-chatgpt-records/"><u>Unlocking Missing ChatGPT Records</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-issues-with-directing-robust-machine-learning-models/"><u>Unraveling the Issues with Directing Robust Machine Learning Models</u></a></li>
+</ul></div>

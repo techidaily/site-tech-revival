@@ -1,7 +1,7 @@
 ---
 title: How to Fix Second Monitor Lagging When Playing Games on Windows 10/11
-date: 2024-08-15 17:30:50
-updated: 2024-08-16 10:41:24
+date: 2024-08-16T13:02:50.713Z
+updated: 2024-08-17T13:02:50.713Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 
  While in most cases, a hard shutdown during the update process didn’t cause issues. There are no guarantees that it also works for you. Unfortunately, it’s the only method to try if your computer gets stuck there.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### After restarting your PC, try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -47,14 +50,25 @@ Microsoft regularly releases update packages to fix bugs and add new features. W
 **1)** On your keyboard, press the**Windows logo** key and click the**Settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-144.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 
 **2)** Select**Update & Security.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-145.png)
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 
 **3)** Select**Troubleshoot.** Then, select**Windows Update** and click**Run the troubleshooter.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-171.png)
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Follow the on-screen instructions to fix your problem.
 
@@ -111,6 +125,9 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-150.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 
 **2)** Select**Uninstall a program** .
 
@@ -129,6 +146,18 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and type**disk cleanup** . Then, click**Disk Cleanup** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-153.png)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Check the boxes to select the file types to get rid of. Then, click**OK** .
 
@@ -141,10 +170,17 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and type**defragment** . Then, click**Defragment and Optimize Drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-155.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 
 **2)** Click**Optimize** and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-156.png)
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -163,6 +199,9 @@ If your problem persists, then move on to the next fix.
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-158.png)
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Update button** next to the driver you want to update to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -172,6 +211,9 @@ If your problem persists, then move on to the next fix.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Repair corrupted system files
 
  Corrupted or damaged system files may also be the reason why your computer updates so slow. Follow the instructions below to see how to fix the issue:
@@ -199,6 +241,9 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-160.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
@@ -217,20 +262,32 @@ If your problem persists, then move on to the next fix.
 **1)** On your keyboard, press the**Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-161.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 
 **2)** Type**cmd,** then press the**Ctrl, Shift** and**Enter** keys at the same time to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-162.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 **3)** Type**dism.exe /online /cleanup-image /startcomponentcleanup** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-164.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Type**dism.exe /online /cleanup-image /restorehealth** , then press the**Enter** key on your keyboard.
 
  This could take several minutes. Wait for the DISM tool to update your system files automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 
 **5)** Now, perform a Windows update to see if this fixed your problem.
 
@@ -253,3 +310,57 @@ If your problem persists, then move on to the next fix.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-absolute-zero-to-audience-peaks-top-10-insights-on-boosting-video-viewership-for-2024/"><u>[New] From Absolute Zero to Audience Peaks  Top 10 Insights on Boosting Video Viewership for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-complete-guide-to-prevent-and-repair-fb-video-issues/"><u>[New] The Complete Guide to Prevent and Repair FB Video Issues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-digital-delights-top-15-comical-creations-on-youtube-bars/"><u>[Updated] 2024 Approved  Digital Delights  Top 15 Comical Creations on YouTube Bars</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-trailblazer-in-photo-music-fusion-crafting/"><u>[Updated] 2024 Approved  Trailblazer in Photo-Music Fusion Crafting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-secure-and-sync-your-cinematic-recordings-across-platforms/"><u>[Updated] Secure and Sync Your Cinematic Recordings Across Platforms</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-10-best-text-effects-for-your-video/"><u>2024 Approved  10 Best Text Effects for Your Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-comparative-study-single-vs-multi-camera-tech-today/"><u>2024 Approved  Comparative Study  Single Vs. Multi-Camera Tech Today</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-freewinrecorder-straightforward-pc-screens/"><u>2024 Approved  FreeWinRecorder  Straightforward PC Screens</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-most-attractive-gaming-peripherals-for-under-100/"><u>2024 Approved  The Most Attractive Gaming Peripherals for Under $100</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-ways-to-use-chatgpt-for-remote-and-freelance-work/"><u>6 Ways to Use ChatGPT for Remote and Freelance Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-2023-chatgpt-vs-google-bard-choosing-the-best-virtual-assistant/"><u>AI Showdown 2023: ChatGPT Vs. Google Bard - Choosing the Best Virtual Assistant</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-banks-and-pc-users-at-risk-of-ai-driven-cyber-attacks-using-technologies-like-chatgpt-heres-what-you-need-to-know/"><u>Are Banks and PC Users at Risk of AI-Driven Cyber Attacks Using Technologies Like ChatGPT? Here's What You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-income-the-best-8-chatgpt-side-jobs-that-can-pay-off-big/"><u>Boost Your Income: The Best 8 ChatGPT Side Jobs That Can Pay Off Big</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-content-quality-with-chatgpt-a-comprehamendous-guide-for-innovation/"><u>Boosting Content Quality with ChatGPT - A Comprehamendous Guide for Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-cryptocurrency-analysis-understanding-its-five-major-constraints/"><u>ChatGPT and Cryptocurrency Analysis: Understanding Its Five Major Constraints</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-personal-training-crafting-unique-workout-plans-with-ai-assistance/"><u>ChatGPT and Personal Training: Crafting Unique Workout Plans with AI Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-upgrade-is-it-worth-your-subscription-dollars/"><u>ChatGPT Plus Upgrade: Is It Worth Your Subscription Dollars?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-wacom-intuos-3-driver-setup-package-for-flawless-windows-performance/"><u>Complete Wacom Intuos 3 Driver Setup Package for Flawless Windows Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-calculations-explore-the-best-7-ai-tools-to-decode-mathematical-puzzles/"><u>Conquer Calculations: Explore the Best 7 AI Tools to Decode Mathematical Puzzles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-successful-interactions-with-gpt-3-5-essential-tips-for-writing-compelling-prompts/"><u>Crafting Successful Interactions with GPT-3: 5 Essential Tips for Writing Compelling Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customizing-conversations-with-chatgpt-crafting-a-bot-that-reflects-your-unique-voice/"><u>Customizing Conversations with ChatGPT: Crafting a Bot that Reflects Your Unique Voice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-operational-aspect-of-device-level-ai/"><u>Deciphering the Operational Aspect of Device-Level AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-artificial-intelligence-identifying-its-possible-threats/"><u>Demystifying Artificial Intelligence: Identifying Its Possible Threats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-how-artificial-intelligence-can-revolutionize-education-top-8-benefits-for-educators/"><u>Discover How Artificial Intelligence Can Revolutionize Education: Top 8 Benefits for Educators</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-maxs-top-entertainment-lineup-for-today/"><u>Discover MAX's Top Entertainment Lineup for Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-5-free-chatgpt-powered-tools-to-craft-professional-emails-and-inbox-summaries-effortlessly/"><u>Discover the Ultimate 5 Free ChatGPT-Powered Tools to Craft Professional Emails & Inbox Summaries Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-ai-nine-gatherings-for-novices/"><u>Dive Into AI: Nine Gatherings for Novices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-elevate-your-ai-experience-free-powerful-and-smart-with-gpt-4-and-copilot/"><u>Effortlessly Elevate Your AI Experience: Free, Powerful and Smart with GPT-4 & Copilot</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-lava-yuva-3-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-cyberlink-reviewed-precision-in-video-capturing/"><u>In 2024, Cyberlink Reviewed  Precision in Video Capturing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-earning-potential-in-beauty-blogging/"><u>In 2024, Earning Potential in Beauty Blogging</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-realme-narzo-n53-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Realme Narzo N53 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-pro-tips-effortless-video-upload-from-pcmac-for-2024/"><u>Instagram Pro Tips  Effortless Video Upload From PC/Mac for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/maximize-your-fb-watching-with-top-firefox-addons-and-downloaders-for-2024/"><u>Maximize Your FB Watching with Top Firefox Addons and Downloaders for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-installing-the-hp-laserjet-pro-m4-cupsdriver-in-windows/"><u>Step-by-Step Guide: Installing the HP LaserJet Pro M4 Cupsdriver in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-ai-interactions-with-these-7-ingenious-prompt-techniques-that-work/"><u>Transform Your AI Interactions with These 7 Ingenious Prompt Techniques That Work!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-tension-with-gpt-help/"><u>Transform Your Tension with GPT Help</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/turing-test-upgrades-top-5-contemporary-approaches/"><u>Turing Test Upgrades: Top 5 Contemporary Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-need-for-stricter-ai-oversight-insights-from-openais-leader/"><u>Understanding the Need for Stricter AI Oversight: Insights From OpenAI's Leader</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-secrets-of-ai-understanding-top-29-industry-terms-and-concepts/"><u>Unlock the Secrets of AI: Understanding Top 29 Industry Terms and Concepts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-excel-superiority-tasks-it-executes-better-than-chatgpt/"><u>Unlocking Excel Superiority: Tasks It Executes Better Than ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-hidden-potential-5-underused-features-of-chatgpt-you-need-to-know-about/"><u>Unlocking Hidden Potential: 5 Underused Features of ChatGPT You Need to Know About</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-most-prominent-large-scale-linguistic-ai-models/"><u>Unveiling the Most Prominent Large Scale Linguistic AI Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-claude-3-features-for-todays-user/"><u>Unveiling the Power of Claude 3: Features for Today's User</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721889191547-which-code-companion-reigns-supreme-github-copilot-or-chaturbate-the-ultimate-developer-guide/"><u>Which Code Companion Reigns Supreme? GitHub Copilot or Chaturbate – The Ultimate Developer Guide.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-chatgpt-took-the-lead-an-insight-into-its-phenomenal-surge-as-a-top-rated-app/"><u>Why ChatGPT Took the Lead: An Insight Into Its Phenomenal Surge as a Top-Rated App</u></a></li>
+<li><a href="https://win11.techidaily.com/win-11-rename-your-user-account-directory/"><u>Win 11: Rename Your User Account Directory</u></a></li>
+</ul></div>

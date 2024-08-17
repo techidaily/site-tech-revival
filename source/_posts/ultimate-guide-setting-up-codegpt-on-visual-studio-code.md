@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Setting Up CodeGPT on Visual Studio Code"
-date: 2024-08-02T16:16:16.451Z
-updated: 2024-08-03T16:16:16.451Z
+date: 2024-08-16T14:02:48.823Z
+updated: 2024-08-17T14:02:48.823Z
 tags:
   - chatgpt
   - open-ai
@@ -152,3 +152,56 @@ Now, let's begin the configuration phase.
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-new-age-monetization-cost-effective-channel-options/"><u>[New] 2024 Approved  New Age Monetization  Cost-Effective Channel Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-diving-into-the-depths-with-gopro-hero5/"><u>[New] Diving Into the Depths with GoPro Hero5</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-control-center-creator-studio-essentials-for-2024/"><u>[Updated] Channel Control Center  Creator Studio Essentials for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-clicks-to-coins-mastering-the-art-of-earnings-through-fb-videos/"><u>[Updated] From Clicks to Coins  Mastering the Art of Earnings Through FB Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-eliminate-hurdle-video-playback-issue-in-chrome/"><u>[Updated] In 2024, Eliminate Hurdle  Video Playback Issue in Chrome</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-quick-methods-for-saving-videos-on-youtube-for-2024/"><u>[Updated] Quick Methods for Saving Videos on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gamings-new-leaders-1-ranked-4k-laptops/"><u>2024 Approved  Gaming's New Leaders  #1 Ranked 4K Laptops</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-visual-impact-mastering-thumbnail-dimensions/"><u>2024 Approved  YouTube Visual Impact  Mastering Thumbnail Dimensions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-an-ai-sidekick-on-snapchat-myai-or-chatgpt/"><u>Choosing an AI Sidekick on Snapchat: MyAI or ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-face-off-the-ultimate-guide-to-picking-the-best-ai-for-your-daily-needs/"><u>Claude Vs. ChatGPT Face-Off: The Ultimate Guide to Picking the Best AI for Your Daily Needs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1723262386964-conquer-fathers-day-with-an-elite-ibuypower-gaming-computer-present/"><u>Conquer Father's Day with an Elite iBUYPOWER Gaming Computer Present</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/critical-insights-into-8-issues-faced-with-openais-chatgpt/"><u>Critical Insights Into 8 Issues Faced With OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-facts-critical-analysis-in-ai-health-advice/"><u>Deciphering the Facts: Critical Analysis in AI Health Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-opinions-of-10-international-technology-authorities-shaping-the-industry/"><u>Decoding AI: Opinions of 10 International Technology Authorities Shaping the Industry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-mystery-of-ai-black-boxes-and-their-working-dynamics/"><u>Decoding the Mystery of AI Black Boxes and Their Working Dynamics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-9-basic-ai-tools-perfect-for-starters/"><u>Discover 9 Basic AI Tools Perfect for Starters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-ai-9-essential-forums-for-newbies-to-master-tools-and-techniques/"><u>Dive Into AI: 9 Essential Forums for Newbies to Master Tools and Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-instructions-for-integrating-chatgpt-into-windows-applications/"><u>Easy Instructions for Integrating ChatGPT Into Windows Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-search-experience-why-perplexity-reigns-as-the-supreme-ai-powered-tool-for-google-queries/"><u>Elevate Your Search Experience: Why Perplexity Reigns as the Supreme AI-Powered Tool for Google Queries</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-image-quality-with-expert-usage-of-ps-3d-color-grading/"><u>Elevating Image Quality with Expert Usage of PS 3D Color Grading</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-bard-top-7-improvements-from-googles-palm-2/"><u>Enhancing Bard: Top 7 Improvements From Google's PaLM 2</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-privacy-chatgpt-and-vpn-synergy/"><u>Enhancing Privacy: ChatGPT and VPN Synergy?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-benefits-of-auto-gpt-as-an-alternative-to-waiting-for-gpt-4/"><u>Evaluating the Benefits of Auto-GPT as an Alternative to Waiting for GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-your-creative-genius-utilizing-free-dall-e-3-via-microsoft-bing/"><u>Harness Your Creative Genius: Utilizing Free DALL-E 3 via Microsoft Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-vector-databases-contribute-to-advancements-in-ai/"><u>How Do Vector Databases Contribute to Advancements in AI?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-predictive-ai-anticipate-the-future-exploring-its-inner-workings/"><u>How Does Predictive AI Anticipate the Future? Exploring Its Inner Workings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-vivo-y36i-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y36i Devices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-precise-notes-using-mematic-software/"><u>In 2024, Craft Precise Notes Using Mematic Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-creativity-with-the-best-online-screen-changers/"><u>In 2024, Unleash Creativity with the Best Online Screen Changers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-zooming-into-success-the-essential-blueprint-for-producing-high-quality-audio-on-video-platforms/"><u>In 2024, Zooming Into Success  The Essential Blueprint for Producing High-Quality Audio on Video Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inexpensive-chinese-virtual-reality-helmets/"><u>Inexpensive Chinese Virtual Reality Helmets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-evolution-6-ways-ai-transforms-video-game-scriptwriting/"><u>Interactive Evolution: 6 Ways AI Transforms Video Game Scriptwriting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-gemini-by-google-a-worthy-contender-against-microsofts-popular-chatgpt-platform/"><u>Is Gemini by Google a Worthy Contender Against Microsoft's Popular ChatGPT Platform?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-synergy-delving-into-the-complexities-of-aligning-machine-goals/"><u>Mastering AI Synergy: Delving Into the Complexities of Aligning Machine Goals</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/maximizing-conversions-with-targeted-snapad-strategies-for-2024/"><u>Maximizing Conversions with Targeted SnapAd Strategies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-through-idea-stagnation-with-these-5-ai-assistants/"><u>Navigate Through Idea Stagnation With These 5 AI Assistants</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-googles-augmented-reality-adornments/"><u>Navigating Google's Augmented Reality Adornments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nonewsubs-when-will-chatgpt-welcome-again/"><u>NoNewSubs: When Will ChatGPT Welcome Again?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfect-your-palate-with-ai-enhanced-gourmet-guidance/"><u>Perfect Your Palate with AI-Enhanced Gourmet Guidance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prompt-engineering-job-outlook-nine-parameters-that-determine-its-validity-and-opportunities/"><u>Prompt Engineering Job Outlook: Nine Parameters That Determine Its Validity and Opportunities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-productivity-at-no-cost-experience-gpt-4-turbo-enhanced-by-copilot/"><u>Revolutionize Productivity at No Cost - Experience GPT-4 Turbo Enhanced by Copilot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-self-care-top-9-chatgpt-tips-for-improved-health/"><u>Revolutionize Self-Care: Top 9 ChatGPT Tips for Improved Health</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-communication-via-chatgpts-api/"><u>Seamless Communication via ChatGPT's API</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-perspectives-on-snapchats-my-ai-demonstrating-its-capabilities-beyond-just-entertainment-gadgetry/"><u>Six Perspectives on Snapchat's My AI: Demonstrating Its Capabilities Beyond Just Entertainment Gadgetry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-content-creation-with-advanced-ai-tools/"><u>Streamlining Content Creation with Advanced AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/talking-with-precision-exclusive-chatgpt-plus-plan-for-us-at-20mth/"><u>Talking with Precision: Exclusive ChatGPT Plus Plan for US at $20/Mth</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-7-critical-issues-with-adopting-generative-ai-for-text-based-communications/"><u>The 7 Critical Issues with Adopting Generative AI for Text-Based Communications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-departure-of-ceo-sam-altman-from-openai-future-directions-for-chatgpt/"><u>The Departure of CEO Sam Altman From OpenAI - Future Directions for ChatGPT</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-secrets-to-overcome-directdraw-challenges-in-11-series-windows/"><u>Unveiling the Secrets to Overcome DirectDraw Challenges in 11-Series Windows</u></a></li>
+</ul></div>
