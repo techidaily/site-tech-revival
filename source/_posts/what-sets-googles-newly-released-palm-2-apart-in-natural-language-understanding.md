@@ -1,0 +1,192 @@
+---
+title: What Sets Google's Newly Released PaLM 2 Apart in Natural Language Understanding?
+date: 2024-08-20T12:31:17.387Z
+updated: 2024-08-21T12:31:17.387Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes What Sets Google's Newly Released PaLM 2 Apart in Natural Language Understanding?
+excerpt: This Article Describes What Sets Google's Newly Released PaLM 2 Apart in Natural Language Understanding?
+thumbnail: https://thmb.techidaily.com/8d3e36af5d5a0091c440dec8233de5f6c2799ee80a3e4e061f918707ae8b7038.jpg
+---
+
+## The Battle of Brains: Evaluating the Features and Capabilities Between Claude AI and ChatGPT
+
+ Since its release in November 2022, ChatGPT has remained the dominant force in the AI chatbot space. Despite far-reaching efforts by several AI companies, no one has really been able to build a chatbot that truly challenges ChatGPT in overall response quality. Google’s Bard? Microsoft’s Bing AI? No, not really.
+
+ However, Claude AI, a chatbot built by AI startup Anthropic, shows qualities of a chatbot that can dethrone ChatGPT. A considerable number of users are already saying Claude is the better option. But is this the case? Let’s take both chatbots for a spin.
+
+## ChatGPT vs. Claude AI: Common-Sense and Logical Reasoning
+
+ There's an intriguing contrast when working with AI chatbots. On one hand, they can whiz through complex tasks that humans may labor over for days to solve. On the other hand, they sometimes grapple with elementary problems that require just a bit of common-sense or logical reasoning. So, we tested both ChatGPT and Claude AI to see which AI chatbot was better at common sense and logical reasoning tasks.
+
+![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
+
+ ChatGPT broke up the problem into bits and solved it on the first attempt. Claude AI also had a go at it and solved the problem as well, but with a different approach.
+
+![Claude AI solving a commonsense and logical reasoning problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solving-a-commonsense-and-logical-reasoning-problem.jpg)
+
+ For the first task, both chatbots were able to crack the problem. So, we moved on to a different kind of problem. We tasked both chatbots with answering a trick question.
+
+![ChatGPT Answers Trick Question-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-answers-trick-question-1.jpg)
+
+ ChatGPT was able to immediately spot the trick--you can't bury survivors because they aren't dead. Claude AI, on the other hand, seemed to understand that it was a trick question but failed to spot the most common-sense issue that you don't bury survivors.
+
+ Instead, it over-analyzed the question and came to the conclusion that there would be "no survivors to bury" because crashing from Mars to Earth would be fatal. It is not the answer we expected, but if you look at things from a different angle, there is some truth to it.
+
+![Claude AI answers trick question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-answers-trick-question.jpg)
+
+ On this task, we give it to ChatGPT, but we can't totally rule out Claude AI's approach. For our final task on this metric, we asked both chatbots how many apples would be left on an apple tree after five and 10 days respectively if we started with 10 apples and five of them got sliced while still on the tree. ChatGPT said there'd still be 10 apples left.
+
+![ChatGPT birds commonsense logic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-birds-commonsense-logic.jpg)
+
+ Claude AI, on the other hand, gave a more common-sense response by recognizing that the five sliced apples are likely to rot.
+
+![Claude AI Common sense reasoning with Apple rotting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-common-sense-reasoning-with-apple-rotting.jpg)
+
+ Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
+
+## ChatGPT vs. Claude AI: Math Skills
+
+ Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
+
+ Essentially, math proficiency is a core metric of artificial intelligence. So, between ChatGPT and Claude AI, which chatbot is more proficient in math? We tasked both chatbots with solving a twisty math productivity problem. We started with Claude AI, and the chatbot cracked the problem.
+
+![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
+
+ChatGPT also cracked the problem as well.
+
+![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
+
+ Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
+
+![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
+
+ Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
+
+![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
+
+ We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+## ChatGPT vs. Claude AI: Creativity
+
+ One of Claude AI's biggest hype is its creative abilities. But can it match ChatGPT's creativity? Or, could it possibly surpass ChatGPT? To put both chatbots to the test, we tasked them with writing lyrics for a rap song that rhymes.
+
+ We chose a rhyming rap test because it is something a lot of language models struggle with. Most models will typically not get the rhyming right or get the rhyming right while the lyrics itself doesn't make sense. To make things more interesting, the rap song will be about growing cucumbers.
+
+ So, we asked both ChatGPT and Claude AI to "write a rhyming rap about growing cucumbers as a farmer and becoming a millionaire from it." ChatGPT went first, and as expected, it produced some exciting lyrics.
+
+![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
+
+ We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
+
+![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
+
+ After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## ChatGPT vs. Claude AI: Coding Skills
+
+ Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
+
+ While chatbots are currently sophisticated, they are far from what they could actually become if and when they're able to write code proficiently. For AI chatbots to truly evolve into powerful AI assistants that can do more than generate text, they need to be able to write code that solves problems on demand. We've previously discussed how important coding skills are to AI chatbots in our[ChatGPT Code Interpreter explainer.](https://www.makeuseof.com/what-is-chatgpt-code-interpreter/)
+
+ ​​​​​​That said, we put both chatbots on two coding tasks. We asked ChatGPT and Claude AI to write functional code for a to-do list app. Starting with ChatGPT, the AI chatbot was able to deliver a functional to-do list app on the first attempt. We copy-pasted and ran it on a browser, and it worked perfectly without errors. Here's the output on a browser.
+
+![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+ Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
+
+ After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
+
+![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
+
+ Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
+
+ ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Claude AI Is a Potent Competitor on the Block
+
+ Claude AI represents a potent competition for ChatGPT--one that can compete with and potentially surpass ChatGPT someday. Given Claude is a relatively new AI model, it is enviable that it can take on ChatGPT the way it currently does. Claude AI's emergence and the quality it offers proof that the competition is heating up.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-breaking-down-barriers-adding-chapters-to-create-cohesive-youtube-lessons/"><u>[New] 2024 Approved  Breaking Down Barriers  Adding Chapters to Create Cohesive YouTube Lessons</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-harnessing-skypes-potential-on-pc-and-mac-with-ease/"><u>[New] In 2024, Harnessing Skype's Potential on PC & Mac with Ease</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-basic-scan-capture-program-windows-10-for-2024/"><u>[Updated] Basic Scan-Capture Program - Windows 10 for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-financial-overview-total-investment-for-music-clip-shootings/"><u>[Updated] Financial Overview  Total Investment for Music Clip Shootings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>[Updated] In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tracing-the-flow-of-money-in-consumer-opinions/"><u>2024 Approved  Tracing the Flow of Money in Consumer Opinions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/asus-laptop-owners-handbook-the-ultimate-how-to-for-hassle-free-screen-captures/"><u>ASUS Laptop Owners' Handbook: The Ultimate How-To for Hassle-Free Screen Captures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clear-out-your-windows-11-cache-a-comprehensive-tutorial/"><u>Clear Out Your Windows 11 Cache - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-capabilities-of-samsung-galaxy-tab-s4-an-incisive-review-for-android-tablet-connoisseurs/"><u>Discovering the Capabilities of Samsung Galaxy Tab S4 - An Incisive Review for Android Tablet Connoisseurs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-asus-aura-customization-packs-for-pc-windows-1011-boost-your-desktop-look/"><u>Download ASUS Aura Customization Packs for PC (Windows 10/11) – Boost Your Desktop Look</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-skymorigging-a-novices-comprehensive-guide-to-installing-skyrim-mods-on-windows-and-linux-systems/"><u>Easy SkymoRigging: A Novice’s Comprehensive Guide to Installing Skyrim Mods on Windows and Linux Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-ways-to-enhance-your-typing-speed-fixing-lag-on-logitech-keyboards-with-painless-steps/"><u>Effortless Ways to Enhance Your Typing Speed: Fixing Lag on Logitech Keyboards with Painless Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-devices-connectivity-with-these-bluetooth-optimization-tactics-for-windows-users/"><u>Elevate Your Device's Connectivity with These Bluetooth Optimization Tactics for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminate-secondary-monitor-latency-during-gaming-sessions-in-windows-1011-with-these-expert-tips/"><u>Eliminate Secondary Monitor Latency During Gaming Sessions in Windows 10/11 with These Expert Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enable-and-disable-cookies-on-windows-11-chrome-firefox-opera-and-edge/"><u>Enable & Disable Cookies on Windows 11 Chrome, Firefox, Opera and Edge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/epson-printer-mastery-a-detailed-step-by-step-guide-for-flawless-installation/"><u>Epson Printer Mastery: A Detailed, Step-by-Step Guide for Flawless Installation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ethereums-growing-user-base-adoption-across-industries-and-applications/"><u>Ethereum's Growing User Base: Adoption Across Industries and Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explanation-of-smart-contracts-and-their-role-on-the-ethereum-platform/"><u>Explanation of Smart Contracts and Their Role on the Ethereum Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-out-how-to-obtain-directx-12-for-your-windows-11-system-today/"><u>Find Out How To Obtain DirectX 12 For Your Windows 11 System Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808051561-fixing-frame-rate-and-loot-drop-issues-in-diablo-iv-on-pc-solutions/"><u>Fixing Frame Rate & Loot Drop Issues in Diablo IV on PC - Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808059834-fixing-your-beyond-light-gameplay-issues-enhance-frame-rate-now/"><u>Fixing Your 'Beyond Light' Gameplay Issues - Enhance Frame Rate Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-clear-your-browsers-cache-on-mozilla-firefox-a-comprehensive-guide/"><u>How to Clear Your Browser's Cache on Mozilla Firefox: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808176177-how-to-disable-windows-10-lock-screen-easily/"><u>How to Disable Windows 10 Lock Screen, Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-solve-the-netflix-video-and-audio-mismatch-problem-when-watching-on-windows-or-mac/"><u>How To Solve the Netflix Video and Audio Mismatch Problem When Watching On Windows or Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-20-opening-melodies-in-animation/"><u>In 2024, Prime 20 Opening Melodies in Animation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/a-lasting-impression-youtubes-anime-style-subscribe-buttons-in-filmora-for-2024/"><u>Make a Lasting Impression - YouTube's Anime-Style Subscribe Buttons in Filmora for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-uninterrupted-streaming-on-playstation-4/"><u>Master the Art of Uninterrupted Streaming on PlayStation 4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/msvcp100dll-is-missing-on-windows-11-fixed/"><u>Msvcp100.dll Is Missing on Windows 11 [Fixed]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808015294-quick-fix-for-a-malfunctioning-logitech-k520-keyboard-easy-tips-inside/"><u>Quick Fix for a Malfunctioning Logitech K520 Keyboard – Easy Tips Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808178301-random-password-generator-what-is-it-and-how-to-use-it/"><u>Random Password Generator - What Is It and How To Use It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-download-of-asus-aura-customization-suite-for-windows-1110-users/"><u>Step-by-Step Download of ASUS AURA Customization Suite for Windows 11/10 Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-pip-blueprint-crafting-compelling-video-presentations-on-macos-for-2024/"><u>The PIP Blueprint  Crafting Compelling Video Presentations on macOS for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-top-game-torrent-websites/"><u>Ultimate List of Top Game Torrent Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-using-sony-dualshock-3-on-your-desktop-no-third-party-tools-required/"><u>Ultimate Tutorial: Using Sony DualShock 3 on Your Desktop (No Third-Party Tools Required)</u></a></li>
+<li><a href="https://win11.techidaily.com/unraveling-and-resolving-0x800704cf-error-in-windows-store/"><u>Unraveling and Resolving 0X800704CF Error in Windows' Store</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-full-potential-of-tablet-mode-in-windows-11-for-enhanced-productivity/"><u>Unveiling the Full Potential of Tablet Mode in Windows 11 for Enhanced Productivity</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x100-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X100 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-keyboards-why-and-how-to-fix-persistent-key-presses/"><u>Windows Keyboards: Why and How to Fix Persistent Key Presses</u></a></li>
+</ul></div>
