@@ -1,0 +1,162 @@
+---
+title: "The Essence of AI: Dominance & Dependability"
+date: 2024-08-24T14:16:14.662Z
+updated: 2024-08-25T14:16:14.662Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes The Essence of AI: Dominance & Dependability"
+excerpt: "This Article Describes The Essence of AI: Dominance & Dependability"
+thumbnail: https://thmb.techidaily.com/c72f65d6cf6eccfb8dd0cd66944cb2172744b7375f3b2c967f4222ce690bc4fc.jpg
+---
+
+## The Shift to Open Source Intelligence: Why ChatGPT Plus Still Outshines the Availability of No-Cost GPT- #
+
+### Quick Links
+
+* [More Access to GPT-4o](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#more-access-to-gpt-4o)
+* [Retain Access to GPT-4 Turbo](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#retain-access-to-gpt-4-turbo)
+* [Create Your Own Custom GPT](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#create-your-own-custom-gpt)
+* [Generate Images With DALL-E](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#generate-images-with-dall-e)
+* [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
+* [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
+
+### Key Takeaways
+
+* Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
+* ChatGPT Plus subscribers can create custom GPTs and access features like image generation and early access to new features like Voice Mode.
+* Free users get limited access to advanced features like data analysis and web browsing, while Plus subscribers get full access.
+
+ Following OpenAI's Spring Update, GPT-4o has become publicly available to Free users. This means that everyone can access GPT-4-level intelligence without paying. You might wonder why you would want to keep paying $20 monthly when you can get it for free.
+
+ Well, here are some reasons you might want to keep your ChatGPT Plus sub.
+
+## 1 More Access to GPT-4o
+
+![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+[GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
+
+ GPT-4o is now ChatGPT's default model, but Free users will be reverted to GPT-3.5 when it's unavailable. As a Free user, your access to GPT-4o is not guaranteed and is subject to availability. The term "limited access" implies usage restrictions or reduced availability during peak times.
+
+ Regardless, one thing is for certain: ChatGPT Plus users will get up to five times more messages for GPT-4o. Furthermore, Plus users can send up to 80 messages every three hours. From that, we can infer that Free users would get about 16 messages per hour on a good day. It's not bad, but it's quite low if you're a heavy user.
+
+ However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## 2 Retain Access to GPT-4 Turbo
+
+ Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
+
+![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+[OpenAI](https://openai.com/index/hello-gpt-4o/)
+
+ If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3 Create Your Own Custom GPT
+
+ OpenAI will allow Free users to access the GPT store and use custom GPTs as part of its free package. However, this allowance doesn't extend to the creation of custom GPTs.
+
+ You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
+
+## 4 Generate Images With DALL-E
+
+![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
+
+ When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
+
+ We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
+
+ OpenAI's demo of GPT-4o made waves on the internet because of its realistic Voice Mode. Due to how quickly GPT-4o can understand words and context, none of that characteristic delay happens while the AI is "thinking," making for fluid—humanlike—conversation. On top of that, you can essentially video call the AI while in Voice Mode, and it will understand visual cues and objects it sees (thanks to its vision capabilities).
+
+ This new Voice Mode is not yet generally available, but Plus users will receive it as an early access feature. If you want to use this technology before most people, you'll need to keep your ChatGPT subscription up and running.
+
+ While OpenAI's recent demo showed us that the feature will come with the Mac app, Voice Mode is only available now through the ChatGPT smartphone app. Features like this are why many consider the[ChatGPT iOS app better than the website](https://www.makeuseof.com/why-chatgpt-ios-app-is-better-than-website/) .
+
+ OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
+
+## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
+
+![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+ Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
+
+ For some, this has disincentivized carrying on a Plus subscription. However, you will need a subscription if you're a heavy ChatGPT user and rely on it to understand, parse, and analyze documents and photos. Granted, these are features that many don't use very often, but if you fall within the minority, you might want to keep your Plus sub.
+
+ Also, having full access to web browsing is super useful. ChatGPT has a knowledge cutoff, and web browsing helps bridge that knowledge gap by letting it search the web to find current information. If you use ChatGPT for tasks that require current information, you might get frustrated with a Free plan.
+
+ Frankly, all the reasons for getting a ChatGPT Plus subscription are subject to how much you use the AI. If you use it a lot, you'll find yourself hitting the limits very often. It can be well worth the money if you can afford it and don't mind beta-testing new OpenAI features.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-android-sdk-update-essential-tools-for-fb-video-extraction/"><u>[New] 2024 Approved  Android SDK Update  Essential Tools for FB Video Extraction</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-sociostreamer-convert-tweets-to-videos/"><u>[New] 2024 Approved  SocioStreamer  Convert Tweets to Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-sound-of-you-how-to-add-a-personal-touch-with-ringtones-and-alerts-on-android-phones/"><u>[Updated] The Sound of You  How to Add a Personal Touch with Ringtones and Alerts on Android Phones</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-3-storytelling-techniques-to-grow-your-youtube-channel/"><u>[Updated] Top 3 Storytelling Techniques to Grow Your YouTube Channel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-minuscule-web-pixels/"><u>2024 Approved  Mastering the Art of Minuscule Web Pixels</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-rated-4k8k-video-editors-expert-picks/"><u>2024 Approved Top-Rated 4K/8K Video Editors Expert Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-advice-what-to-do-when-you-cant-use-spotify-on-a-windows-computer/"><u>Expert Advice: What to Do When You Can’t Use Spotify on a Windows Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-your-wheels-at-a-bargain-grab-20-off-driver-easy-with-this-official-coupon/"><u>Get Your Wheels at a Bargain: Grab 20%% Off Driver Easy With This Official Coupon!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-fixing-format-required-before-usage-disk-errors-quickly/"><u>Guide to Fixing 'Format Required Before Usage' Disk Errors Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-private-surfing-stay-incognito-online/"><u>Guide to Private Surfing: Stay Incognito Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/high-cpu-usage-on-windows-11-solved/"><u>High CPU Usage on Windows 11 [Solved]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-can-i-reduce-my-waiting-time-for-windows-updates-insights-revealed/"><u>How Can I Reduce My Waiting Time for Windows Updates? [INSIGHTS REVEALED]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-connect-windows-11-to-wifi/"><u>How to Connect Windows 11 to WiFi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-and-update-your-network-card-drivers-for-windows-10-step-by-step-solutions/"><u>How to Fix and Update Your Network Card Drivers for Windows 10: Step-by-Step Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-install-a-new-graphics-card-in-pc/"><u>How to Install a New Graphics Card in PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-perform-a-refresh-or-reset-from-a-hard-reboot-in-windows-10/"><u>How to Perform a Refresh or Reset From a Hard Reboot in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-recover-deleted-files-on-windows-11-the-easy-way/"><u>How to Recover Deleted Files on Windows 11: The Easy Way</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-successfully-obtain-anker-mouse-compatibility-drivers/"><u>How to Successfully Obtain Anker Mouse Compatibility Drivers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-digital-drama-videoviral-sagas-unfold-online/"><u>In 2024, Digital Drama  #VideoViral Sagas Unfold Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-poco-c55-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-spectacular-lg-ud88w-4k-widescreen-monitor-review/"><u>In 2024, The Spectacular LG UD88W 4K Widescreen Monitor Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/latest-amd-radeon-hd-6450-graphics-card-driver-updates-enhanced-compatibility-with-windows-11/"><u>Latest AMD Radeon HD 6450 Graphics Card Driver Updates: Enhanced Compatibility with Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964524089-logitech-keyboard-setup-and-drivers-compatible-with-windows-10-download-here/"><u>Logitech Keyboard Setup & Drivers Compatible with Windows 10 – Download Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maintaining-optimal-performance-updating-drivers-in-windows-11-explained/"><u>Maintaining Optimal Performance: Updating Drivers in Windows 11 Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-image-browsing-the-ultimate-guide-to-pexels-wonders-for-2024/"><u>Mastering Image Browsing  The Ultimate Guide to Pexels Wonders for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-startup-problems-in-windows-10-a-complete-guide-to-activating-safe-mode-with-f8/"><u>Mastering Startup Problems in Windows 10 - A Complete Guide to Activating Safe Mode with F8</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-gameplay-how-to-fix-fluctuations-in-frames-per-second-fps-while-playing-diablo-n-on-pc/"><u>Optimizing Gameplay: How to Fix Fluctuations in Frames Per Second (FPS) While Playing Diablo N on PC?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-performance-fixing-cpu-overuse-while-playing-modern-warfare/"><u>Optimizing Performance: Fixing CPU Overuse While Playing Modern Warfare</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-setup-for-seamless-use-of-a-wireless-printer-at-homeoffice/"><u>Quick Setup for Seamless Use of a Wireless Printer at Home/Office</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-repair-headphones-connectivity-issues-in-windows-11/"><u>Step-by-Step Guide to Repair Headphones Connectivity Issues in Windows 11</u></a></li>
+</ul></div>

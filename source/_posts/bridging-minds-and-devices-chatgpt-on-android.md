@@ -1,0 +1,129 @@
+---
+title: "Bridging Minds & Devices: ChatGPT on Android"
+date: 2024-08-24T14:11:24.883Z
+updated: 2024-08-25T14:11:24.883Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Bridging Minds & Devices: ChatGPT on Android"
+excerpt: "This Article Describes Bridging Minds & Devices: ChatGPT on Android"
+thumbnail: https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c73b8710c5509727c5e15028.jpg
+---
+
+## Step Up Your Online Research: AI-Powered Bing on iOS and Android
+
+ Microsoft has launched three new AI-powered apps for smartphones. Bing, Edge, and a new version of Skype have launched for Android and iPhone, all with ChatGPT integration.
+
+ **MUO VIDEO OF THE DAY**
+
+ **SCROLL TO CONTINUE WITH CONTENT**
+
+ The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
+
+## AI-Powered Bing Comes to Mobile
+
+ Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
+
+ Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
+
+![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+ Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
+
+ The Bing app has a whole new look, and perhaps the most interesting part is that it now supports voice to help make your prompts and searches even more intuitive.
+
+ You get started by tapping the Bing icon at the bottom of the screen to begin a chat session. Your responses come in the form of text, bullet points, or simple replies, and you can use it for more than just search.[Microsoft suggests](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/) you might use it to write emails or poems, for example.
+
+ The chatbot is also built into the Edge browser, where you can access it via the homepage.
+
+### Skype Gets AI Features
+
+ In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
+
+> "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
+
+ To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## How to Use the New ChatGPT Bing Apps
+
+ If you haven't already got access to the new Bing chatbot, you'll have to [join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
+
+**Download:** Bing for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/microsoft-bing-search/id345323231) (Free)
+
+**Download:** Edge for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.microsoft.emmx) |[iOS](https://apps.apple.com/us/app/microsoft-edge-web-browser/id1288723196) (Free)
+
+**Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Test Out AI Chat on Android and iPhone Today
+
+ It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
+
+ The service frequently hits the headlines thanks to its willingness to churn out incorrect information with complete confidence (and get surprisingly argumentative about it). Microsoft also acknowledges that the performance might be limited in these early days due to bandwidth issues.
+
+ And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-10-premier-choices-for-no-cost-screen-recording-tools/"><u>[New] 10 Premier Choices for No-Cost Screen Recording Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-windows-11-videography-selecting-best-apps/"><u>[New] In 2024, Windows 11 Videography  Selecting Best Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-exploring-isprings-screencap-capabilities-for-2024/"><u>[Updated] Exploring iSpring's Screencap Capabilities for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gazegraphic-reviews-synopsis/"><u>[Updated] GazeGraphic Reviews Synopsis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-magical-sound-alteration-apps-for-your-device/"><u>2024 Approved  Magical Sound Alteration Apps for Your Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-strategies-to-reinforce-stability-in-windows-10-photo-viewer/"><u>2024 Approved  Strategies to Reinforce Stability in Windows 10 Photo Viewer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-vocal-lens-capture-microphone-inputs/"><u>2024 Approved  Vocal Lens Capture  Microphone Inputs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-step-by-step-tutorial-for-reading-barnes-and-noble-nook-books-on-amazons-kindle-device/"><u>A Step-by-Step Tutorial for Reading Barnes & Noble (Nook) Books on Amazon's Kindle Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/book-format-showdown-the-timeless-appeal-of-physical-books-versus-the-convenience-of-ebooks/"><u>Book Format Showdown: The Timeless Appeal of Physical Books Versus the Convenience of eBooks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ebook-formats-exploring-the-distinctions-of-kindle-kfn-kcr-azwazw3-and-more/"><u>Comparing Ebook Formats: Exploring the Distinctions of Kindle KFN, KCR, AZW/AZW3, and More</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-fix-the-issue-of-not-responding-or-cannot-open/"><u>Complete Guide: Fix the Issue of 'Not Responding' Or 'Cannot Open'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-removing-e-books-from-your-library-on-google-play-store/"><u>Complete Guide: Removing E-Books From Your Library on Google Play Store</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-how-to-turn-your-kfx-format-into-a-universal-pdf-file/"><u>Effortless Conversion: How to Turn Your KFX Format Into a Universal PDF File</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fastest-audible-to-mp3-converter-boost-speed-by-60x-with-the-latest-aax-technology/"><u>Fastest Audible-to-MP3 Converter: Boost Speed by 60X with the Latest AAX Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-tutorial-on-transforming-pronote-prc-files-into-epub-format/"><u>Free Tutorial on Transforming PRONOTE (PRC) Files Into EPUB Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-convert-texts-from-docx-to-azw-format-efficiently/"><u>How to Convert Texts From DOCX to AZW Format Efficiently</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-sony-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Sony</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-into-software-enhancement-procedures-and-user-feedback/"><u>Insights Into Software Enhancement Procedures and User Feedback</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kindle-voyage-review-advantages-and-disadvantages-is-it-worth-your-purchase/"><u>Kindle Voyage Review: Advantages & Disadvantages - Is It Worth Your Purchase?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-batch-background-erasure-in-affinity-photo-for-2024/"><u>Mastering Batch Background Erasure in Affinity Photo for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/say-goodnight-to-wake-events-on-win11/"><u>Say Goodnight to Wake Events on Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-removing-drm-from-ebooks-chapter-16/"><u>Step-by-Step Guide: Removing DRM From eBooks Chapter 16</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-bypassing-drm-restrictions-in-your-digital-books-epub-pdf-azw/"><u>Step-by-Step Tutorial on Bypassing DRM Restrictions in Your Digital Books (ePUB, PDF, AZW)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-restoring-corrupted-epub-documents/"><u>Step-by-Step Tutorial on Restoring Corrupted EPUB Documents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-transferring-book-files-onto-a-pc-kindle-reader/"><u>Step-by-Step Tutorial: Transferring Book Files Onto a PC Kindle Reader</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-art-of-crafting-a-youtube-video-with-100kplus-reach/"><u>The Art of Crafting a YouTube Video with 100K+ Reach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-methods-for-streaming-audible-books-via-your-kindle-fire/"><u>Top 5 Methods for Streaming Audible Books via Your Kindle Fire</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-epubor-top-tier-protection-against-adobe-drm/"><u>Ultimate EPUBOR: Top-Tier Protection Against Adobe DRM</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-free-online-tools-for-transforming-ebooks-into-multiple-formats-epub-pdf-mobi/"><u>Ultimate Guide to Free Online Tools for Transforming eBooks Into Multiple Formats (EPUB, PDF, Mobi)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-convert-your-favorite-audible-books-into-epub-format-with-our-top-recommended-tools/"><u>Ultimate Guide: Convert Your Favorite Audible Books Into EPUB Format with Our Top Recommended Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-20-compelling-use-cases-for-ipad-pro-owners/"><u>Ultimate List of 20 Compelling Use-Cases for iPad Pro Owners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-step-by-step-manual-flawlessly-turning-your-kindle-books-into-pdfs-a-simple-trustworthy-method/"><u>Ultimate Step-by-Step Manual: Flawlessly Turning Your Kindle Books Into PDFs - A Simple, Trustworthy Method</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-secure-pdfs-expert-guide-to-bypassing-and-eliminating-pdf-passwords/"><u>Unlock Secure PDFs: Expert Guide to Bypassing & Eliminating PDF Passwords</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-kobo-library-a-step-by-step-guide-for-drm-free-reading/"><u>Unlock Your Kobo Library: A Step-by-Step Guide for DRM-Free Reading</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-digital-content-a-step-by-step-guide-on-converting-drm-protected-epub-files-into-pdf-documents/"><u>Unlocking Digital Content: A Step-by-Step Guide on Converting DRM-Protected EPUB Files Into PDF Documents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ebook-content-effective-techniques-for-drm-removal-on-pages/"><u>Unlocking eBook Content: Effective Techniques for DRM Removal on Pages</u></a></li>
+</ul></div>
