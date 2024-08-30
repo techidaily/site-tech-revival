@@ -1,7 +1,7 @@
 ---
 title: "Pixel Progression Showdown: Does the Pixel 9'S Enhancements Overshadow the Pixel"
-date: 2024-08-27 23:47:51
-updated: 2024-08-29 11:18:59
+date: 2024-08-29T01:35:44.506Z
+updated: 2024-08-30T01:35:44.506Z
 tags:
   - mobile
 categories:
@@ -35,6 +35,9 @@ Google
 
  The Pixel 8, on the other hand, ships in four colors, including Obsidian, Hazel, Mint, and Rose, and features Corning's Gorilla Glass Victus on the rear panel. Even though both phones have [an IP68 dust/water resistance rating](https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-pop-8-drfone-by-drfone-virtual-android/) and a fingerprint-resistant coating on the back, the Pixel 9 looks and feels more flagship. But looks shouldn't be the only reason you upgrade your Pixel 8 unless they matter to you.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Does The Pixel 9 Borrow Its Screen From The Pixel 8?
 
 ![Person holding the Google Pixel 8a showing the lock screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/05/person-holding-the-google-pixel-8a-showing-the-lock-screen-1.jpg) 
@@ -45,6 +48,9 @@ Justin Duino / How-To Geek
 
  There are a few similarities between the phones' screens, too, including [a 60-120Hz refresh rate](https://voice-adjusting.techidaily.com/updated-in-2024-the-ultimate-guide-to-fine-tuning-audio-volume-for-optimal-listening-experience/), support for HDR content, and full 24-bit depth for 16 million colors. All things considered, the Pixel 9 has a bigger, brighter, and better display than the Pixel 8\. In day-to-day usage, it should feel more legible and produce more vibrant colors.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Tensor G4 Vs. Tensor G3: Google Could Have Done Better
 
 ![Google Tensor SoC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/39740b13.png) 
@@ -57,10 +63,16 @@ Justin Duino / How-To Geek
 
  Though the processor doesn't offer any significant performance enhancement, the presence of a new Modem, the Exynos 5400, makes it much more efficient than the Tensor G3\. Further, the Pixel 9 ships with [12GB of RAM](https://easy-unlock-android.techidaily.com/how-to-unlock-poco-c51-phone-without-pin-by-drfone-android/) as opposed to 8GB on the Pixel 8, which should help the phone multitask and handle larger apps with ease. Regarding storage, the Pixel 9 ships with either 128GB or 256GB of storage, and so does the Pixel 8.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Pixel 9 Gets A New Ultrawide Camera
 
 ![Pixel 9 camera](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/pixel-9-camera.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 Google
 
  Now, let's compare the Pixel 9's cameras to those on the good old Pixel 8\. Both phones feature the same 50MP (f/1.68, 1/1.31-inch) primary sensor with an 82° field of view. The ultrawide camera, however, has been upgraded from 12MP (f/2.2, 125.8° field of view) on the Pixel 8 to 48MP (f/1.7, 123° field of view) on the Pixel 9\. With the new sensor, you should be able to click sharper pictures with less noise (due to the larger aperture). In addition, it also doubles as [a macro shooter](https://smart-video-creator.techidaily.com/updated-elevate-your-audio-a-step-by-step-guide-to-finding-and-integrating-free-sound-effects-in-final-cut-pro/). Both the sensors are accompanied by a single-zone LDAF (laser detect autofocus) sensor and a spectral and flicker sensor.
@@ -89,12 +101,18 @@ Justin Duino / How-To Geek
 
  Connectivity options on the Pixel 9 are similar to those on the Pixel 8\. Wireless options include [Wi-Fi 6](https://win-dash.techidaily.com/scansnap-s1300i-seamlessly-update-and-download-drivers-today/), Bluetooth v5.3, NFC, Google Cast, GPS, and GLONASS. For those wondering about 5G network reception, the Pixel 9 (G2YBB) supports both [mmWave and Sub 6GHz networks](https://eaxpv-info.techidaily.com/new-flip-to-fun-converting-youtube-videos-to-playful-download-free-gifs-for-2024/), like the Pixel 8 (GKWS6). Establishing a wired connection with the phones is also straightforward, thanks to the USB Type-C 3.2 port.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Pixel 9 Features A Slightly Bigger Battery
 
  Battery capacity on the Pixel 9 also follows the trend of minor upgrades, which seems to have been the theme of this comparison. The Pixel 9 features a 4,700 mAh battery, while the Pixel 8 has a 4,575 mAh battery. And even though both batteries are rated to last for over 24 hours, the Pixel 9 should last significantly longer. We're talking about an extra 10% battery left at the end of the day. Interestingly, the Extreme Battery Saver mode extends the Pixel 9's battery life to about 100 hours, while the Pixel 8 maxes out at 72 hours.
 
  When it comes to charging, the Pixel 9 is stuck with 27W via the 45W USB-C charger sold by Google, which is similar to the Pixel 8's maximum charging rate. The only difference I could notice in the official spec sheet is that the Pixel 9 can charge up to 55% in about 30 minutes, while the Pixel 8 charges up to 50% in the same time. Lastly, both phones support [wireless charging](https://eaxpv-info.techidaily.com/new-2024-approved-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube/), which, for some strange reason, is slower on the Pixel 9 (15W) than the Pixel 8 (18W).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Which Is Right For You?
 
  Well, that depends. If you own the Pixel 8, it is about 80% as good as its successor. Since you'd get most of the Google AI features and your phone will receive software updates until 2030, I won't recommend upgrading to the Pixel 9\. If you aren't a Pixel user already, the lineup offers the smoothest Android OS experience on a smartphone, along with new feature drops and exceptional cameras. Between the Pixel 8 and the Pixel 9, the former would give you more value for your money.
@@ -115,3 +133,36 @@ Justin Duino / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-cover-video-all-you-need-to-know/"><u>[Updated] In 2024, Facebook Cover Video  All You Need to Know</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pushing-boundaries-upward-an-incisive-mavic-pro-review/"><u>[Updated] Pushing Boundaries Upward  An Incisive Mavic Pro Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-skating-stories-from-sochi-2022-for-2024/"><u>[Updated] Skating Stories From Sochi 2022 for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-apple-iphone-15-pro-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing Apple iPhone 15 Pro iCloud Activation Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-communication-restrictions-unveiling-the-effects-on-personal-experience/"><u>AI Communication Restrictions: Unveiling the Effects on Personal Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-innovation-examining-the-search-and-output-processes/"><u>AI Innovation: Examining the Search and Output Processes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-top-9-phony-chatgpt-virus-tools-that-could-compromise-your-privacy/"><u>Beware: Top 9 Phony ChatGPT Virus Tools That Could Compromise Your Privacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-guide-in-personalizing-and-enhancing-vehicle-performance/"><u>ChatGPT as Your Guide in Personalizing and Enhancing Vehicle Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-notions-ai-features-against-chatgpt-determining-the-leading-generative-intelligence-platform/"><u>Comparing Notion's AI Features Against ChatGPT: Determining the Leading Generative Intelligence Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-installing-llama-2-software-directly-on-your-computer/"><u>Complete Tutorial: Installing Llama 2 Software Directly on Your Computer</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/convert-youtube-music-seamlessly-for-mac-users-2023-edition-for-2024/"><u>Convert YouTube Music Seamlessly for Mac Users, 2023 Edition for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cultivate-inner-peace-effortlessly-with-chatgpt-powered-meditation-strategies/"><u>Cultivate Inner Peace Effortlessly with ChatGPT-Powered Meditation Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-facebooks-updated-tags-and-their-implications/"><u>Deciphering Facebook's Updated Tags and Their Implications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-artifice-in-ai-text-generation/"><u>Decoding the Artifice in AI Text Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-dandd-sessions-using-the-power-of-chatgpt/"><u>Elevate Your D&D Sessions Using the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-secure-conversations-with-ai-discover-duckduckgo-chat-and-beyond/"><u>Explore Secure Conversations with AI: Discover DuckDuckGo Chat & Beyond</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-these-5-ai-powered-apps-to-boost-your-writing-creativity/"><u>Explore These 5 AI-Powered Apps to Boost Your Writing Creativity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-primary-causes-for-companies-ban-on-chatgpt-platforms/"><u>Exploring the Primary Causes for Companies' Ban on ChatGPT Platforms</u></a></li>
+<li><a href="https://fox-links.techidaily.com/foremost-6-social-sites-for-corporate-relationships-for-2024/"><u>Foremost 6 Social Sites for Corporate Relationships for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turning-talk-into-top-tier-podcasts-writing-and-samples-included/"><u>In 2024, Turning Talk Into Top-Tier Podcasts  Writing & Samples Included</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/razer-blade-stealth-cu13-insights-and-analysis-pushing-the-boundaries-of-ultralight-laptop-innovation-and-performance/"><u>Razer Blade Stealth Cu13 Insights & Analysis: Pushing the Boundaries of Ultralight Laptop Innovation and Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skyping-smarts-my-ai-versus-bings-chatbot/"><u>Skyping Smarts: My AI Versus Bing's Chatbot</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-hyperx-cloud-stinger-headset-microphone-issues-a-comprehensive-guide/"><u>Solving HyperX Cloud Stinger Headset Microphone Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-digital-safeguard-guide-spotlight-on-3-chatbot-risks/"><u>The Digital Safeguard Guide: Spotlight on 3 Chatbot Risks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-gpt-3-strategies-to-streamline-boring-hr-responsibilities/"><u>Top 5 GPT-3 Strategies to Streamline Boring HR Responsibilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-frequent-challenges-with-auto-gpt-setup-and-solutions/"><u>Top 6 Frequent Challenges with Auto-GPT Setup & Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-ai-writing-professional-youtube-scripts-with-chatgpt/"><u>Unlocking the Power of AI: Writing Professional YouTube Scripts with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-chatgpt-in-different-languages-your-ultimate-resource/"><u>Unlocking the Power of ChatGPT in Different Languages – Your Ultimate Resource</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-choose-claude-5-key-reasons-it-outshines-chatgpt/"><u>Why Choose Claude? 5 Key Reasons It Outshines ChatGPT</u></a></li>
+</ul></div>

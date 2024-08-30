@@ -1,0 +1,163 @@
+---
+title: "Get Connected: The All-New ChatGPT Mobile App for iPhone and iPad Users"
+date: 2024-08-29T01:48:34.757Z
+updated: 2024-08-30T01:48:34.757Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Get Connected: The All-New ChatGPT Mobile App for iPhone and iPad Users"
+excerpt: "This Article Describes Get Connected: The All-New ChatGPT Mobile App for iPhone and iPad Users"
+thumbnail: https://thmb.techidaily.com/c2bd6ba622504fadfbcb07e0ff1b2943eed89d4f17cad9fcf863c9fe9218bf46.jpg
+---
+
+## Exploring the Use of ChatGPT for Controlling Connected Home Appliances
+
+ Millions have used the AI-powered ChatGPT tool since its release in 2022, . But can this AI-powered chatbot be leveraged to control your smart home? And, if so, is it a good idea?
+
+## ChatGPT and Smart Technology
+
+![image of white google smart speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/white-smart-speaker.jpg)
+
+ Many of us associate ChatGPT with its chatbot interface that's used to get facts,[write resumes](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , translate text, and even tell jokes. ChatGPT can be applied in so many ways, but what about smart technology? Can ChatGPT work with your smartphone, smart speaker, and similar devices?
+
+ Let's start with your smartphone. You can, indeed, use ChatGPT on your smartphone in the same way you'd use it on a desktop by simply accessing the tool via your web browser. You can even use ChatGPT on your smartwatch by using certain plugins,
+
+ But to make ChatGPT useful in a smart home, things can't stop at one device alone. ChatGPT must be able to recognize and communicate with other smart devices, such as lights, locks, heating, and other appliances. So, is this possible yet?
+
+## Can ChatGPT Work In Smart Homes?
+
+ As you may know, ChatGPT is a language processing tool, and is therefore trained to understand natural human language. The main service processes natural language in text form, but there are extensions that let you communicate with ChatGPT using your voice, such as[Voice Control for ChatGPT](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn) . This allows you to supply ChatGPT with prompts using your voice instead of text inputs.
+
+ ChatGPT can be used in your smart home if you integrate it with the assistant you're using. The video above shows a YouTube creator's custom home integration system that uses ChatGPT. This system uses GPT-3, an older model of ChatGPT that predates GPT-4\. It is also designed to work solely with Home Assistant, an open-source smart home program.
+
+ The creator, known as HassAssistant,[posted the repository to GitHub](http://github.com/Hassassistant/openai%5Fresponse) . On this page, he provides a link to the ChatGPT API key required to access the voice control integration.
+
+ But this isn't where things end. Another online creator and developer, Alex Capecelatro, posted a video to YouTube testing out a ChatGPT voice control integration with Josh.ai, a system that he, along with others, co-founded.
+
+ Josh.ai is a company that produces AI voice control tools. Specifically, Josh.ai focuses on combining AI-powered voice control with smart home technology.
+
+ On[Josh.ai's website](https://www.josh.ai/) , it is stated that:
+
+> By utilizing advanced AI technologies, including natural interfaces like voice and touch, Josh orchestrates the technology in all aspects of your home to deliver an exciting and effortless living experience.
+
+ In the above video, you'll see Josh being asked to open blinds, give the local weather forecast, and even provide sleep advice. Josh also answered more complex questions, like which museums in California feature Andy Warhol. While this is still a work in progress, there's a lot of potential for ChatGPT to show off its skills within smart homes.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Using ChatGPT to Create a Smart Home Integration
+
+ You can also[use ChatGPT to write code](https://www.makeuseof.com/best-vs-code-chatgpt-extensions/) for a smart home integration.
+
+ ChatGPT can write various kinds of code in various different languages, and is already being used by software engineers and novices to lend a helping hand in code development. While this is often relatively simple code, it could still be of use to you.
+
+ We asked ChatGPT if it could write some code for smart home integration, and it was happy to help. In fact, ChatGPT provided detailed instructions on how to use a Python-based code template for Home Assistant.
+
+![chatgpt chat response featuring code example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+ As you can see above, ChatGPT provided an example of integration code you can use with Home Assistant, as well as steps on how to get it working for you. You'll need to install the "python-openai" library, which first requires you to access your own ChatGPT API key.
+
+ Below the code template are additional steps on how to personalize it to fit your preferences. This includes adding your API key and your ChatGPT assistant model ID.
+
+![chatgpt smart home integration instructions in chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+ With the Home Assistant tool, you can integrate ChatGPT into Google Nest. If you want to integrate into Alexa, ChatGPT offers instructions using the Alexa Skills Kit and AWS Lambda. To integrate into Cortana, ChatGPT can help you use code via the Bot Framework. Evidently, there are a lot of different smart home assistants that can function with ChatGPT's capabilities.
+
+ However, you'll need some understanding of software code if you want to personalize ChatGPT's provided code templates quite a lot (e.g. if you want it to work with multiple smart assistants simultaneously).
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Using ChatGPT In Your Smart Home
+
+ At the moment, it's not super easy to use ChatGPT in your smart home, simply because the concept itself is pretty new. There isn't a dedicated app for ChatGPT smart home integration, though independent developers have come up with their own tools that you can check out. If you want to try implementing the code yourself, ChatGPT can help you, but this will require a little work on your end, too.
+
+ In the description of the Josh.ai and ChatGPT YouTube video, it was stated that there were delays the creator edited out, as ChatGPT was taking a little while to respond. These early ChatGPT smart home integrations aren't perfect yet, and there's likely a way to go before they're fully equipped to operate all your smart home tech correctly and efficiently.
+
+ However, if you're an expert with tech, you may be able to leverage ChatGPT within your smart home by using a GitHub repository, or writing your own code (possibly by[using ChatGPT itself](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) ).
+
+ But ChatGPT-enabled smart assistants may one day be widespread, allowing you to carry out all sorts of tasks using this nifty AI tool.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+## ChatGPT May One Day Control Your Smart Home
+
+ ChatGPT is representative of how versatile one AI system can be. With just a little coding, this language processing tool can be integrated into your smart home on a range of virtual assistants. In the near future, commercial ChatGPT integration may also be available, streamlining the process for those who aren't too tech-savvy.
+
+ If you're interested in using ChatGPT as a smart home tool, check out the integration options above. You may find it to be an invaluable addition to your domestic tech.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-started-streaming-learn-obs-for-youtube-now/"><u>[New] Started Streaming? Learn OBS for Youtube Now</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-visual-branding-in-small-business-marketing/"><u>[Updated] In 2024, Visual Branding in Small Business Marketing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-navigating-beyond-wirecast-for-broadcast-solutions/"><u>[Updated] Navigating Beyond WireCast for Broadcast Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-postpresence-mastering-photo-and-video-sizing-on-instagram-for-2024/"><u>[Updated] PostPresence  Mastering Photo and Video Sizing on Instagram for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-overview-the-ultimate-video-editors-review-for-vivocut/"><u>2024 Approved  Complete Overview  The Ultimate Video Editor's Review for VivoCut</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-step-by-step-pathway-to-mastering-srt-files/"><u>2024 Approved  Step-by-Step Pathway to Mastering SRT Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-googles-new-gemini-ai-outshine-microsofts-chatgpt-in-conversation-capabilities/"><u>Can Google's New Gemini AI Outshine Microsoft's ChatGPT in Conversation Capabilities?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-i-trust-third-party-apps-and-addons-for-chatgpt/"><u>Can I Trust Third-Party Apps and Addons for ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/constructing-a-daily-sanctuary-through-ai-guided-reflection/"><u>Constructing a Daily Sanctuary Through AI-Guided Reflection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/earn-more-leveraging-chatgpt-side-projects-custom-pc-building-secrets-and-classic-handheld-gaming-systems/"><u>Earn More: Leveraging ChatGPT Side Projects, Custom PC Building Secrets, and Classic Handheld Gaming Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-artificial-intelligence-chatbot-content-filtering-on-users/"><u>Exploring the Impact of Artificial Intelligence Chatbot Content Filtering on Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/five-strategies-for-protecting-children-when-engaging-with-chatgpt-online/"><u>Five Strategies for Protecting Children When Engaging with ChatGPT Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancing-is-bing-chat-or-chatgpt-the-better-choice-key-factors-revealed/"><u>Freelancing : Is Bing Chat or ChatGPT the Better Choice? Key Factors Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/health-insights-with-chatgpt-the-top-7-justifications-for-relying-on-ai-expertise/"><u>Health Insights with ChatGPT: The Top 7 Justifications for Relying on AI Expertise</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-did-italy-execute-an-ai-based-language-model-ban/"><u>How Did Italy Execute an AI-Based Language Model Ban?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-install-and-use-chatgpt-plugins/"><u>How to Install and Use ChatGPT Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-tell-if-youve-landed-on-a-fraudulent-chatgpt-site-recognition-and-response-strategies-for-internet-safety/"><u>How To Tell If You've Landed on a Fraudulent ChatGPT Site - Recognition and Response Strategies for Internet Safety</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-realme-gt-neo-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Realme GT Neo 5 to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-novelty-applying-cartoon-lenses-in-snapchat/"><u>In 2024, Navigating Novelty  Applying Cartoon Lenses in Snapchat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-turings-trial-timeless-exploring-new-frontiers/"><u>Is Turing's Trial Timeless? Exploring New Frontiers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterful-error-correction-for-chatgpts-top-6-slip-ups/"><u>Masterful Error Correction for ChatGPT's Top 6 Slip-Ups</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/missed-out-on-your-chatgpt-talks-heres-how-you-can-get-them-back/"><u>Missed Out on Your ChatGPT Talks? Here's How You Can Get Them Back!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-strategies-for-effective-multilingual-engagement/"><u>Navigating ChatGPT: Strategies for Effective Multilingual Engagement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-era-of-conversation-chatgpt-on-ios/"><u>New Era of Conversation: ChatGPT on iOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/python-scripts-to-power-gpt-3/"><u>Python Scripts to Power GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-writing-with-these-must-try-ai-driven-story-genesis-tools/"><u>Revolutionize Your Writing With These Must-Try AI-Driven Story Genesis Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/security-protocol-evaluation-how-secure-is-chatgpt/"><u>Security Protocol Evaluation: How Secure Is ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-reading-assistants-discover-your-ideal-books-with-ai-powered-sites/"><u>Smart Reading Assistants: Discover Your Ideal Books with AI-Powered Sites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ai-arena-evaluating-bard-and-bings-prowess/"><u>The AI Arena: Evaluating Bard & Bing's Prowess</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dangers-of-fraudgpt-explained-strategies-for-personal-cybersecurity/"><u>The Dangers of FraudGPT Explained: Strategies for Personal Cybersecurity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ethical-imperative-in-ai-regulation-openais-perspective/"><u>The Ethical Imperative in AI Regulation - OpenAI's Perspective</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-leader-in-content-creation-notion-ai-or-chatgpt/"><u>The Next Leader in Content Creation: Notion AI or ChatGPT</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-test-on-value-and-functionality-a-close-look-at-philips-hf3520s-alarm-clock-model/"><u>The Ultimate Test on Value & Functionality: A Close Look at Philips HF3520's Alarm Clock Model</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-ranked-gaming-monitors-for-ps5-and-xbox-x/"><u>Top-Ranked Gaming Monitors for PS5 & Xbox X</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/turning-ai-into-action-how-chatgpt-can-serve-as-your-virtual-business-partner/"><u>Turning AI Into Action: How ChatGPT Can Serve as Your Virtual Business Partner</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ais-appeal-to-digital-criminals/"><u>Understanding AI's Appeal to Digital Criminals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-generative-ai-the-essential-handbook-for-modern-day-guardians/"><u>Understanding Generative AI: The Essential Handbook for Modern-Day Guardians</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gpt-bot-causes-behind-website-restrictions/"><u>Understanding GPT Bot: Causes Behind Website Restrictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-attraction-the-reasons-behind-hacker-interest-in-chatgpt-profiles/"><u>Understanding the Attraction: The Reasons Behind Hacker Interest in ChatGPT Profiles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-bing-app-for-android-phones/"><u>Unlocking the Power of Artificial Intelligence in Bing App for Android Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-of-claude-3-exploring-its-features-and-capabilities/"><u>Unveiling the Secrets of Claude 3: Exploring Its Features and Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-ai-chatbot-censorship-and-how-does-it-affect-you/"><u>What Is AI Chatbot Censorship and How Does It Affect You?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-security-risks-exist-in-interacting-with-chatgpt-platform/"><u>What Security Risks Exist in Interacting with ChatGPT Platform?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-rethink-incorporating-ai-driven-conversations-unveiling-7-key-issues-in-messaging-services/"><u>Why You Should Rethink Incorporating AI-Driven Conversations: Unveiling 7 Key Issues in Messaging Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/your-first-steps-with-langchain-demystifying-advanced-llm-techniques-for-newcomers/"><u>Your First Steps with LangChain: Demystifying Advanced LLM Techniques for Newcomers</u></a></li>
+</ul></div>

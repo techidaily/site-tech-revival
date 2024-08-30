@@ -1,7 +1,7 @@
 ---
 title: Top Unexpected Features Revealed in the New Apple Vision Pro
-date: 2024-08-27 10:48:42
-updated: 2024-08-29 11:13:48
+date: 2024-08-29T01:38:56.742Z
+updated: 2024-08-30T01:38:56.742Z
 tags:
   - cutting-edge
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Interestingly, the Vision Pro battery pack appears to [hide a jumbo-sized Lightning cable](https://www.theverge.com/2024/1/31/24057392/apple-vision-pro-battery-lightning-cable) which can be removed using an iPhone SIM removal tool.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Personas Are Technically Impressive but Strange to Look At
 
  Personas are 3D representations of Vision Pro users, for use in FaceTime conversations. You can make a persona by scanning your face using the sensors on the front of the headset. From here, your persona is used when you’re on a FaceTime call, mimicking your expressions, movements, and even hand placement.
@@ -59,6 +62,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Interestingly, much like iOS and iPadOS apps on the Mac, developers have to opt out of having their [iPhone and iPad apps appear on the Vision Pro](https://youtube-blog.techidaily.com/ed-the-ultimate-expedition-manual-launching-a-career-in-travel-blogging/). This means that the decision to withhold these apps was a very deliberate one by the developers. This limits your offline viewing capabilities and forces you to interact with the website instead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  It May Take a While to Find That “Killer” App
 
  There are purpose-built Vision Pro apps available right now, including 3D experiences from Disney, immersive star maps, and virtual DJ booths. Apple has adapted a great deal of its own software to work on the Vision Pro, and there are millions of iPhone and iPad apps that work out of the box. But there’s no single app right now that reviewers are pointing to as the reason to use a Vision Pro.
@@ -75,6 +81,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can still open other windows in visionOS alongside your virtual Mac display. And you can smoothly move your cursor between them and the Mac screen, but everything they’ll be limited to visionOS apps, like Safari windows and the Notes app.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Arranging Windows in Space Rules
 
  One big takeaway from Marques Brownlee’s review was that the spatial aspect of the Vision Pro works very well. If you’ve tried augmented reality on an iPhone you’re probably used to objects feeling “floaty,” not quite sitting still on the surface they appear on, or glitching out.
@@ -87,6 +96,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This means that if you want to watch a movie on a flight and not draw attention to yourself, or you want to avoid distracting team members while you work listening to music, you’re going to need to put in some headphones. Fortunately, you can use any Bluetooth headphones with the Vision Pro, as long as you can get them to comfortably fit.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Siri Is a Big Part of the Experience
 
  The Vision Pro is an Apple product, so of course Siri was going to make an appearance. Perhaps what’s most surprising is how much you’ll end up leaning on Siri, as Brian Tong noted in his review. You can access the majority of functions using Siri, including launching and closing apps, switching to different immersive environments, and dictating text.
@@ -103,10 +115,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Apple Vision Pro home screen in a visionOS Envrionment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/visionos_apps.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Apple
 
  For now, you’ll have to stick with Siri if you want to get things done quickly, or simply pinch and drag to get where you want.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  You Might Prefer To Do Things Without the Vision Pro
 
  The Vision Pro is a VR headset, even though Apple doesn’t use those terms. Reviewers noted that even though you see the world around you while you’re wearing the Vision Pro, this is relayed through cameras. This is the best Apple (or any company) can do right now with the current technology, and there are some downsides to contend with.
@@ -137,3 +156,45 @@ Apple
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-discover-8-trusted-platforms-for-online-video-advancement/"><u>[New] In 2024, Discover 8 Trusted Platforms for Online Video Advancement</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-visionary-viewers-verdict-your-channel-vs-contenders-content/"><u>[Updated] 2024 Approved  The Visionary Viewers' Verdict  Your Channel Vs. Contenders’ Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-hdd-picks-for-expanding-your-xbox/"><u>[Updated] 2024 Approved  Top HDD Picks for Expanding Your Xbox</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-demystifying-the-instagram-video-constraint-for-2024/"><u>[Updated] Demystifying the Instagram Video Constraint for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-steps-for-logging-vimeo-media/"><u>[Updated] Easy Steps for Logging Vimeo Media</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-beyond-ustream-an-examination-of-video-streaming/"><u>[Updated] In 2024, Beyond Ustream  An Examination of Video Streaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-potential-in-online-collaboration-using-snap-photography-for-2024/"><u>[Updated] Unleash Potential in Online Collaboration Using Snap Photography for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-mastery-top-picks-of-free-pcmac-desktop-recorders/"><u>2024 Approved  Capture Mastery  Top Picks of Free PC/Mac Desktop Recorders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-fcp-without-paying-tips/"><u>2024 Approved  Unlock FCP without Paying - Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieving-expertise-in-pc-searches-mastering-the-art-of-effective-browsing-using-copernic/"><u>Achieving Expertise in PC Searches: Mastering the Art of Effective Browsing Using Copernic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/amd-radeon-hd-6450-drivers-update-in-windows-10/"><u>AMD Radeon HD 6450 Drivers Update in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/copernic-main-screen-explained-a-comprehensive-guide/"><u>Copernic Main Screen Explained - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-convincing-customer-profiles-on-chatgpt-to-enhance-outcomes/"><u>Crafting Convincing Customer Profiles on ChatGPT to Enhance Outcomes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-vast-ai-world-of-bing-on-android-devices/"><u>Explore the Vast AI World of Bing on Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-stay-competitive-in-business-with-these-5-essential-ai-resources/"><u>How to Stay Competitive in Business with These 5 Essential AI Resources</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 13 mini</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-speech-recognition-and-use-it-free/"><u>In 2024, Speech Recognition and Use It Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-beginners-guide-to-captivating-instagram-video-audiences/"><u>In 2024, The Beginner's Guide to Captivating Instagram Video Audiences</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-visionary-studio-guide-detailed-xreviewers-digest/"><u>In 2024, The Visionary Studio Guide  Detailed XReviewer's Digest</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-tutorial-prevent-and-solve-unreal-engine-4-sudden-shutdown-on-pcs/"><u>In-Depth Tutorial: Prevent and Solve Unreal Engine 4 Sudden Shutdown on PCs</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals-for-2024/"><u>KineMaster Proficiency Unleashed  Strategies, Features & 10 Online Rivals for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-n-installation-tutorial-for-beginners/"><u>Llama N Installation Tutorial for Beginners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-with-ease-advanced-menu-options-for-linkedin-facebook-and-youtube-integration/"><u>Navigate with Ease: Advanced Menu Options for LinkedIn, Facebook & YouTube Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-access-social-media-links-and-customizable-menu-stay-connected-top-recommendations/"><u>Quick Access: Social Media Links & Customizable Menu - Stay Connected | Top Recommendations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reviewing-the-next-level-in-mobile-video-with-samsung-s8-for-2024/"><u>Reviewing the Next Level in Mobile Video with Samsung S8 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-wireless-setup-and-drivers-for-your-new-brother-printer-explained/"><u>Seamless Wireless Setup & Drivers for Your New Brother Printer Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-huawei-p60-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Huawei P60 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spotting-bingchatgpt-token-conspiracies-in-the-digital-space-for-safety-and-security/"><u>Spotting BingChatGPT Token Conspiracies in the Digital Space for Safety and Security</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/stepwise-innovation-windows-personalization-through-lock-patterns/"><u>Stepwise Innovation: Windows Personalization Through Lock Patterns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unfolding-crisis-of-generative-ai-an-insight-into-8-growing-security-concerns/"><u>The Unfolding Crisis of Generative AI: An Insight Into 8 Growing Security Concerns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tracing-the-origins-of-ai-when-did-this-technology-make-its-debut/"><u>Tracing the Origins of AI: When Did This Technology Make Its Debut?</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-quickly-solving-non-detected-usb-drives-problems/"><u>Troubleshooting Guide: Quickly Solving Non-Detected USB Drives Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-copernic-tweaks-a-step-by-step-handbook-to-achieve-unmatched-productivity/"><u>Ultimate Copernic Tweaks: A Step-by-Step Handbook to Achieve Unmatched Productivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncover-every-file-effortlessly-expert-tips-for-mastering-copernics-desktop-and-cloud-search/"><u>Uncover Every File Effortlessly: Expert Tips for Mastering Copernic's Desktop & Cloud Search</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-auto-gpt-distinct-traits-from-chatgpt/"><u>Unveiling Auto-GPT: Distinct Traits From ChatGPT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-is-agroecology-and-why-is-it-important/"><u>What Is Agroecology, and Why Is It Important?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-blind-faith-in-ai-can-be-risky-top-6-concerns/"><u>Why Blind Faith in AI Can Be Risky: Top 6 Concerns</u></a></li>
+</ul></div>

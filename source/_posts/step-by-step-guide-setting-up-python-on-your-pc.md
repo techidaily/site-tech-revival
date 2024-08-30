@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Python on Your PC"
-date: 2024-08-26 17:36:19
-updated: 2024-08-29 11:30:53
+date: 2024-08-29T01:38:05.933Z
+updated: 2024-08-30T01:38:05.933Z
 tags:
   - deals
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  Python doesn't come prepackaged with Windows, but that doesn't mean Windows users won't find the flexible programming language useful. It's not quite a simple as installing the newest version however, so let's make sure you get the right tools for the task at hand on Windows 10 or Windows 11.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  What Is Python?
 
  First released in 1991, Python is a popular high-level programming language used for general purpose programming. Thanks to a design philosophy that emphasizes readability it has long been a favorite of hobby coders and serious programmers alike. Not only is it an easy language (comparatively speaking, that is) to pick up but you'll find thousands of projects online that require you have Python installed to use the program.
@@ -36,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
 ![The latest download available for Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/Download-Python-at-the-top.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
  Unfortunately, there was a significant update to Python several years ago that created a big split between Python versions. This can make things a bit confusing to newcomers, but here is what you need to know.
 
  There were two versions of Python maintained concurrently for many years: Python 2 and Python 3\. Python 2 is officially deprecated. and [has been since 2020](https://www.python.org/doc/sunset-python-2/). You'll still find loads of older projects that use it scattered around the internet, though the overwhelming majority of new projects opt for Python 3 since it is still receiving updates.
@@ -68,8 +74,14 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
 ![Enter &quot;python --version&quot; in Command Prompt, PowerShell, or Windows Terminal to verify that Python was correctly added to the path.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/2023-04-04_09h40_13.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
  If that doesn't work, you probably forgot to tick the box next to "Add Python.exe to PATH" during installation. No big deal—we'll show you how to add it manually in the next section.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Add Python to PATH Manually
 
  If Python doesn't work when you run python --version or try to run a Python script, it probably wasn't added to your [PATH](https://android-frp.techidaily.com/in-2024-the-complete-guide-to-meizu-frp-bypass-everything-you-need-to-know-by-drfone-android/). Windows PATH specifies what folders Windows should check for executables. If a folder is included, any executable in that folder can be run from a command-line without specifying the full path every time.
@@ -78,6 +90,11 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
 ![Search for &quot;View Advanced System Settings&quot; in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/advanced-system-settings.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
  Click "Environment Variables," then select "Path" under User Variables and hit "Edit."
 
 ![Select &quot;Path,&quot; then click &quot;Edit.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/07/path-1.png) 
@@ -100,6 +117,9 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
 
  There isn't always an easy way to know what errors occur because of a problem with your Python version and what errors occur because of some other reason. In our Stable Diffusion example, the only way you'd know that Python 3.12 was the problem would be if you knew what Stable Diffusion required and that it wasn't available for Python 3.12 yet. Your best bet is to try searching the Internet for your specific error. Usually someone has encountered it (or something similar) and you'll be able to figure out a solution from there. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Don't Mess With Your System Install, Use Python Virtual Environments Instead
 
  This section is only relevant if you're planning on actually coding with Python. If you're not actively using it, you can ignore this section.
@@ -126,3 +146,53 @@ thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401c
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>[New] 2024 Approved  How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-comparing-streaming-tools-the-verdict-on-xsplit-and-obs/"><u>[New] Comparing Streaming Tools  The Verdict on XSplit & OBS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-detailed-steps-to-supercharge-your-youtube-audio-content-for-2024/"><u>[Updated] Detailed Steps to Supercharge Your YouTube Audio Content for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-screen-magnification-in-ms-teams/"><u>[Updated] Navigating Screen Magnification in MS Teams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-photography-tips-for-iphone-for-2024/"><u>[Updated] Photography Tips for iPhone for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pro-video-essentials-selecting-superior-camera-lenses/"><u>[Updated] Pro Video Essentials  Selecting Superior Camera Lenses</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-digital-disappointment-unexpected-deletion/"><u>2024 Approved  Digital Disappointment  Unexpected Deletion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advantages-of-the-chatgpt-desktop-app-over-the-website-interface/"><u>Advantages of the ChatGPT Desktop App Over the Website Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/android-access-welcome-chatgpt/"><u>Android Access: Welcome, ChatGPT!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-on-hardware-fundamentals-and-operation/"><u>Artificial Intelligence on Hardware: Fundamentals and Operation</u></a></li>
+<li><a href="https://win-dash.techidaily.com/best-canon-mf8200c-printing-solutions-free-drivers-for-windows-operating-systems-7-81-and-10/"><u>Best Canon MF8200C Printing Solutions: Free Drivers for Windows Operating Systems (7, 8.1 & 10)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-chatgpt-under-your-command-with-voice-controlled-solutions/"><u>Bringing ChatGPT Under Your Command with Voice-Controlled Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/decoding-authenticity-in-your-digital-instagram-family-for-2024/"><u>Decoding Authenticity in Your Digital Instagram Family for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-writing-via-hix-and-gpt-4/"><u>Effortless Writing via HIX & GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-brainpower-integrative-methods-of-mindmapping-with-the-help-of-chatgpt/"><u>Elevate Your Brainpower: Integrative Methods of Mindmapping with the Help of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-lifestyle-using-chatgpt-innovative-strategies-revealed/"><u>Elevate Your Lifestyle Using ChatGPT: Innovative Strategies Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/email-alteration-for-enhanced-security-in-proton-vpn-and-authenticity-check-of-windows-compatible-chat-tools/"><u>Email Alteration for Enhanced Security in Proton VPN & Authenticity Check of Windows-Compatible Chat Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-proficiency-of-chatgpt-in-tackling-mathematical-questions/"><u>Exploring the Proficiency of ChatGPT in Tackling Mathematical Questions.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/four-easy-ways-to-tryout-ais-gpt-4-without-paying/"><u>Four Easy Ways to Tryout AI's GPT-4 Without Paying</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-text-to-action-the-ultimate-selection-of-6-interactive-games-on-chatgpt/"><u>From Text to Action: The Ultimate Selection of 6 Interactive Games on ChatGPT</u></a></li>
+<li><a href="https://driver-error.techidaily.com/get-your-qualcomm-atheros-bluetooth-back-to-life-on-windows-10-step-by-step-solution/"><u>Get Your Qualcomm Atheros Bluetooth Back to Life on Windows 10 - Step by Step Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/global-reach-of-chatgpt-a-comprehensible-guide/"><u>Global Reach of ChatGPT: A Comprehensible Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-y100t-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo Y100t Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovation-showdown-google-bard-versus-microsofts-bing-chat-who-wins/"><u>Innovation Showdown: Google Bard Versus Microsoft's Bing Chat - Who Wins?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/installing-auto-gpt-made-easy-follow-these-simple-steps-for-a-smooth-process/"><u>Installing Auto-GPT Made Easy: Follow These Simple Steps for a Smooth Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-artificial-intelligence-into-emotional-support-systems/"><u>Integrating Artificial Intelligence Into Emotional Support Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ios-vs-website-6-compelling-reasons-to-choose-the-chatgpt-mobile-app-for-ai-interaction/"><u>IOS vs Website: 6 Compelling Reasons to Choose the ChatGPT Mobile App for AI Interaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-ai-assistance-writing-engaging-youtube-scripts-using-chatgpt/"><u>Leveraging AI Assistance: Writing Engaging YouTube Scripts Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-presentations-using-chatgpt-tips-and-tricks/"><u>Master the Art of Presentations Using ChatGPT - Tips and Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-gpt-3-with-openais-interactive-platform-tips-and-tricks-for-beginners/"><u>Mastering the Art of GPT-3 with OpenAI’s Interactive Platform: Tips and Tricks for Beginners</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-resume-creation-with-ai-insights-into-utilizing-chatgpt/"><u>Mastering the Art of Resume Creation with AI: Insights Into Utilizing ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-with-claude-2-an-in-depth-look-at-its-capabilities/"><u>Maximizing Efficiency with Claude 2: An In-Depth Look at Its Capabilities</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/maximizing-video-quality-in-zoom-conferences-for-2024/"><u>Maximizing Video Quality in Zoom Conferences for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ranking-the-5-premier-generators-for-crafting-ai-prompts-across-various-systems/"><u>Ranking: The 5 Premier Generators for Crafting AI Prompts Across Various Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ready-for-an-advanced-ai-experience-try-this-powerful-open-source-option-instead-of-waiting-for-chatgpt-app/"><u>Ready for an Advanced AI Experience? Try This Powerful Open Source Option Instead of Waiting for ChatGPT App.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/start-with-gpt-4-navigating-chatgpt-right-now/"><u>Start with GPT-4: Navigating ChatGPT Right Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-integrating-chatgpt-into-linux-using-bavarder/"><u>Step-by-Step Tutorial for Integrating ChatGPT Into Linux Using Bavarder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inside-scoop-on-utilizing-chatgpt-for-creating-engaging-podcast-scripts/"><u>The Inside Scoop on Utilizing ChatGPT for Creating Engaging Podcast Scripts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-minds-tech-savvy-futures-6-workplace-survival-tactics/"><u>Transformative Minds, Tech-Savvy Futures: 6 Workplace Survival Tactics</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-notorious-0x80072efd-error-in-windows-10/"><u>Troubleshooting and Fixing the Notorious 0X80072EFD Error in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/try-these-5-no-cost-alternatives-to-googles-palm-like-microsoft-bings-new-feature/"><u>Try These 5 No-Cost Alternatives To Google's PaLM Like Microsoft Bing's New Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-integrating-chatgpt-into-your-windows-experience/"><u>Ultimate Tutorial: Integrating ChatGPT Into Your Windows Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-enterprise-features-benefits-and-unique-selling-points/"><u>Understanding ChatGPT Enterprise: Features, Benefits & Unique Selling Points</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-why-artificial-intelligence-like-chatgpt-struggles-with-self-recognition/"><u>Understanding Why Artificial Intelligence Like ChatGPT Struggles With Self-Recognition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-imagination-with-these-4-innovative-ai-story-generators/"><u>Unleash Your Imagination with These 4 Innovative AI Story Generators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-is-your-next-choice-a-look-at-4-key-reasons-over-chatgpt/"><u>Why Claude 3 Is Your Next Choice: A Look at 4 Key Reasons Over ChatGPT</u></a></li>
+</ul></div>

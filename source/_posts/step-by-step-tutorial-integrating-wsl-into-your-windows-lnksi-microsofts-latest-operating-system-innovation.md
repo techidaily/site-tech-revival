@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Integrating WSL Into Your Windows ˈlɪnksi, Microsoft’s Latest Operating System Innovation"
-date: 2024-08-28 18:22:38
-updated: 2024-08-29 11:40:10
+date: 2024-08-29T01:37:44.253Z
+updated: 2024-08-30T01:37:44.253Z
 tags:
   - deals
 categories:
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
  The Windows Subsystem for Linux (WSL) lets you run Linux software on your Windows 11 PC. When you enable WSL, Windows will install a custom-built Linux kernel. You can then install Ubuntu or another Linux distribution of your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  How WSL Works on Windows 11
 
  You can enable the Windows Subsystem for Linux (WSL) on all editions of [Windows 11](https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/)—even Windows 11 Home. (You can also [install WSL on Windows 10](https://tech-haven.techidaily.com/ais-role-in-todays-misinformation-landscape/).)
@@ -47,6 +51,9 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
 ![Right-click the Start button, then select "Terminal (Admin)."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-9.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
  To enable the Windows Subsystem for Linux and install Ubuntu, which is the default distribution, just run the following command:
 
 wsl --install
@@ -55,6 +62,9 @@ wsl --install
 
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
 
 wsl -l -o
@@ -71,6 +81,9 @@ wsl --install -d Debian
 
 ![List available Linux distributions and install one.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a3-list-distros.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  Once your computer has rebooted, you can launch the Linux distro that you installed from your Start menu.
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
@@ -95,12 +108,18 @@ wsl --install -d Debian
 
 ![Enable the &quot;Windows Subsystem for Linux&quot; option and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/b1-install-wsl.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After you do, open the Microsoft Store app and search for the Linux distribution that you want to use. For example, you might search for "Ubuntu."
 
  Install the Linux distribution that you want to use (like Ubuntu) as you would any other application. Just click the "Get" button on its Store page.
 
 ![Search for "Ubuntu," then click "Get."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ubuntu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can now launch it from your Start menu just as if it were installed from the command above. 
 
  New Linux distros are occasionally added to the Microsoft Store, and you can find the currently available distros by searching for "Linux" rather than a specific distro. If your preferred Linux flavor isn't available, you can always import your preferred distro into WSL manually.
@@ -119,3 +138,41 @@ wsl --install -d Debian
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-snapchat-sharing-with-twitter-videos/"><u>[New] 2024 Approved  Mastering Snapchat Sharing with Twitter Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-your-signature-voice-for-instagram-success/"><u>[New] Crafting Your Signature Voice for Instagram Success</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-changes-in-instagrams-algorithm-user-perspectives/"><u>[New] In 2024, Changes in Instagram's Algorithm  User Perspectives</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-climb-the-social-ladder-a-guide-to-higher-facebook-page-ranks/"><u>[New] In 2024, How to Climb the Social Ladder  A Guide to Higher Facebook Page Ranks</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-sharpen-your-visual-storytelling-advanced-kinemaster-zoom-techniques/"><u>[Updated] 2024 Approved  Sharpen Your Visual Storytelling  Advanced Kinemaster Zoom Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anonymity-at-risk-neural-network-inversion/"><u>Anonymity at Risk: Neural Network Inversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-free-setting-up-gpt-on-windows/"><u>Breaking Free: Setting Up GPT on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-a-digital-mentor-help-you-navigate-the-perils-of-wild-environments/"><u>Can a Digital Mentor Help You Navigate the Perils of Wild Environments?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-co-pilot-expert-tips-on-car-modification-support/"><u>ChatGPT as Your Co-Pilot: Expert Tips on Car Modification Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-scriptwriting-magic-in-my-podcast-realm/"><u>ChatGPT's Scriptwriting Magic in My Podcast Realm</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diagnosing-and-resolving-interface-issues-chatgpts-trouble-with-plugin-connectivity/"><u>Diagnosing & Resolving Interface Issues: ChatGPT's Trouble with Plugin Connectivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowering-your-smartphone-with-chatgpt-techniques/"><u>Empowering Your Smartphone with ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpus-in-artificial-intelligence-surges-to-alarming-levels-with-one-card-using-up-to-37m-wh-annually-dwarfing-home-electricity-use-13mplus-units/"><u>GPUs in Artificial Intelligence Surges to Alarming Levels with One Card Using Up to 3.7M Wh Annually – Dwarfing Home Electricity Use (1.3M+ Units)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-they-harness-gpt-4-insights-on-7-innovative-app-integrations/"><u>How Do They Harness GPT-4? Insights on 7 Innovative App Integrations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-decode-programming-languages-its-crucial-role-explained/"><u>How Does ChatGPT Decode Programming Languages? Its Crucial Role Explained</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-15-pro-maxwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 15 Pro Max/Windows/Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-maintain-uninterrupted-chatsessions-with-chatgpt-by-enabling-save-features-effectively/"><u>How to Maintain Uninterrupted ChatSessions with ChatGPT by Enabling Save Features Effectively</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-infinix-note-30-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Infinix Note 30</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nubia-red-magic-8s-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nubia Red Magic 8S Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-in-cognitive-therapy-methods/"><u>Integrating ChatGPT in Cognitive Therapy Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-use-chatgpt-through-a-virtual-private-network-vpn/"><u>Is It Possible To Use ChatGPT Through A Virtual Private Network (VPN)?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ating-youtube-shorts-thumbnail-losses-for-2024/"><u>Navigating YouTube Shorts Thumbnail Losses for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/perfecting-image-editing-on-your-iphone-with-the-new-cutout-effect-tips-and-tricks-for-ios-16-users/"><u>Perfecting Image Editing on Your iPhone with the New Cutout Effect – Tips and Tricks for iOS 16 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quit-juxtaposing-ai-pros-and-cons-insightful-observations/"><u>Quit Juxtaposing AI Pros & Cons: Insightful Observations</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rise-above-the-crowd-how-to-amass-over-a-million-video-views/"><u>Rise Above the Crowd  How to Amass Over a Million Video Views</u></a></li>
+<li><a href="https://extra-information.techidaily.com/scrutinizing-the-performance-of-dji-solo-vision-goggles/"><u>Scrutinizing the Performance of DJi Solo Vision Goggles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tailoring-text-based-assistance-how-to-shape-chatgpts-language-to-mirror-yours/"><u>Tailoring Text-Based Assistance: How to Shape ChatGPT's Language to Mirror Yours</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-ai-how-to-stay-secure-from-the-threats-posed-by-fraudgpt-and-similar-bots/"><u>The Dark Side of AI: How to Stay Secure From the Threats Posed by FraudGPT and Similar Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inner-workings-of-gpt-4all-explained-a-detailed-overview/"><u>The Inner Workings of GPT-4All Explained: A Detailed Overview</u></a></li>
+<li><a href="https://video-capture.techidaily.com/translate-speech-to-text-with-ultimate-accuracy-thanks-to-google/"><u>Translate Speech to Text with Ultimate Accuracy, Thanks to Google</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-advanced-prompt-skills-discover-7-must-use-software-solutions-online/"><u>Unlock Advanced Prompt Skills: Discover 7 Must-Use Software Solutions Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-huggingchat-how-this-open-source-platform-positions-itself-against-chatgpt/"><u>Unveiling HuggingChat: How This Open-Source Platform Positions Itself Against ChatGPT</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-to-enhanced-performance-free-download-of-geforce-rtx-2060-drivers-for-windows-11-devices/"><u>Update to Enhanced Performance: Free Download of GeForce RTX 2060 Drivers for Windows 11 Devices</u></a></li>
+</ul></div>

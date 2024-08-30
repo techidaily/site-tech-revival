@@ -1,7 +1,7 @@
 ---
 title: "Unlocking GPU Acceleration on Your PC: A Guide to Optimizing Windows 10 & 11"
-date: 2024-08-27 13:41:58
-updated: 2024-08-29 11:24:36
+date: 2024-08-29T01:37:09.246Z
+updated: 2024-08-30T01:37:09.246Z
 tags:
   - desktop
 categories:
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 
  Windows 10 and Windows 11 come with an advanced setting, called Hardware-Accelerated GPU Scheduling, which can [boost gaming](https://tiktok-videos.techidaily.com/unleash-potential-in-tiktok-videos-free-editors-for-mac/) and video performance using your PC's GPU. We'll show you how to enable the feature and thereby potentially get a performance increase.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  What Is Hardware-Accelerated GPU Scheduling?
 
  Usually, your computer's processor offloads some visual and graphics-intensive data to the [GPU to render](https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-reno-8t-phones-by-drfone-android/) so that games, multimedia, and other apps run smoothly. The [CPU](https://facebook-clips.techidaily.com/echoes-of-now-strategies-for-downloading-current-events/) gathers the frame data, assigns commands, and prioritizes them one by one so that the GPU can render the frame.
@@ -47,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 
  Here's how you can enable it on your Windows 10 and 11 PC. It's a good idea to [update the graphics drivers](https://hardware-tips.techidaily.com/navigating-through-circuitry-top-tech-reviews-by-toms-trustworthy-team/) on your PC before you begin.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Turn On Hardware-Accelerated GPU Scheduling in Windows 10
 
  There are two ways to enable Hardware-Accelerated GPU Scheduling on Windows 10: use the Settings app or the Registry Editor. Both accomplish the same thing, though the Settings app is much easier. 
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Using Settings
 
  Start by [launching the Settings app](https://facebook-video-footage.techidaily.com/updated-2024-approved-5-easy-ways-to-multiply-your-youtube-follower-base/) on your PC. You can do this by pressing Windows+i.
@@ -63,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 
 ![Click "Display" on the left-hand side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-display.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  On the right pane, at the bottom, choose "Graphics Settings."
 
 ![Click "Graphics Settings" under the "Display" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-graphics-settings.png) 
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/7b6a77243ca66b31a91ff4bded488c1c26ccff28e
 
 ![Click the toggle to enable GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-click-toggle.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To disable the feature in the future, simply toggle off the "Hardware-Accelerated GPU Scheduling" option again.
 
  Close the Settings app and [reboot your PC](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) to bring your changes into effect.
@@ -91,10 +106,25 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Select the "HwSchMode" key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-hw-sched-regeidt.png) 
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  On the entry edit box, select the "Value Data" field and enter **`2`**. In the "Base" section, choose "Hexadecimal." Then, select "OK."
 
 ![Enter "2" into the Value Data field, then click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-change-value-to-2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the future, to disable the feature, enter `1` in the "Value Data" field, choose "Hexadecimal," and select "OK."
 
  Close Registry Editor, restart your PC, and you have Hardware-Accelerated GPU Scheduling enabled on your computer. Enjoy!
@@ -113,6 +143,9 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
 
 ![Select' Change Default Graphics Settings.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
  Then, toggle on the switch under "Hardware-Accelerated GPU Scheduling" and select "Yes" from the User Access Control prompt that shows up.
 
 ![Click the toggle under Hardware-accelerated GPU scheduling.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-10.png) 
@@ -139,3 +172,58 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-discover-your-ideal-screen-recorder-pc-and-mac-edition/"><u>[New] In 2024, Discover Your Ideal Screen Recorder - PC & Mac Edition</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-elevate-your-interface-mastery-with-these-less-known-windows-11-strategies/"><u>[New] In 2024, Elevate Your Interface Mastery with These Less-Known Windows 11 Strategies</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-instantly-restore-forgotten-snaps-for-2024/"><u>[New] Instantly Restore Forgotten Snaps for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-10-top-editing-apps-at-no-cost-online-for-2024/"><u>[Updated] 10 Top Editing Apps at No Cost Online for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-use-of-obs-studio-for-android-devices/"><u>[Updated] Efficient Use of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-dive-into-full-rotation-cinematography-9-critical-tips/"><u>[Updated] In 2024, Dive Into Full Rotation Cinematography  9 Critical Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-xiaomi-civi-3-unlock-without-password-by-drfone-android/"><u>5 Solutions For Xiaomi Civi 3 Unlock Without Password</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advancing-ai-capabilities-the-7-ways-palm-2-revolutionizes-googles-bard-experience/"><u>Advancing AI Capabilities: The 7 Ways PaLM 2 Revolutionizes Google's Bard Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-deception-unveiling-7-techniques-in-online-dating-fraud/"><u>AI-Driven Deception: Unveiling 7 Techniques in Online Dating Fraud</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/co-pilot-expansion-in-chatgpt-understanding-its-contribution-to-ai/"><u>Co-Pilot Expansion in ChatGPT: Understanding Its Contribution to AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparative-analysis-how-does-mistral-ais-le-chat-stack-up-against-chatgpt/"><u>Comparative Analysis: How Does Mistral AI's Le Chat Stack Up Against ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparison-of-chatgpt-and-huggingfaces-huggingchat-determining-the-superior-conversational-ai/"><u>Comparison of ChatGPT and HuggingFace's HuggingChat: Determining the Superior Conversational AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-introduction-to-the-openai-api-and-its-applications/"><u>Comprehensive Introduction to the OpenAI API & Its Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-smart-responses-via-python-plus-gpt-3/"><u>Crafting Smart Responses via Python + GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crypto-market-predictions-with-chatgpt-here-are-the-5-drawbacks-you-need-to-know/"><u>Crypto Market Predictions with ChatGPT? Here Are the 5 Drawbacks You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-closure-of-chatgpt-enrollments-exploring-reasons-and-prospects-for-reopening/"><u>Deciphering the Closure of ChatGPT Enrollments – Exploring Reasons & Prospects for Reopening</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-reasons-behind-openai-ceos-appeal-for-enhanced-ai-oversight/"><u>Decoding the Reasons Behind OpenAI CEO's Appeal for Enhanced AI Oversight</u></a></li>
+<li><a href="https://media-tips.techidaily.com/discover-the-latest-verizon-package-featuring-no-commercials-on-netflix-and-amcplus/"><u>Discover the Latest Verizon Package Featuring No Commercials on Netflix & AMC+</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-lose-it-keeping-gpt-conversations-safe/"><u>Don't Lose It: Keeping GPT Conversations Safe</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eating-well-made-simple-chatais-cooking-insights/"><u>Eating Well Made Simple: ChatAI's Cooking Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-solutions-to-overcome-chatgpt-plugin-service-interaction-failures/"><u>Effective Solutions to Overcome ChatGPT-Plugin Service Interaction Failures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-sharing-conversations-from-chatgpt-a-step-by-step-guide/"><u>Effective Strategies for Sharing Conversations From ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-blockchain-game-with-these-8-must-have-ai-chatgpt-add-ons/"><u>Elevate Your Blockchain Game with These 8 Must-Have AI ChatGPT Add-Ons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-interactive-experiences-with-personalized-chatgpt-commands/"><u>Elevating Interactive Experiences with Personalized ChatGPT Commands</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elon-musk-reveals-cutting-edge-grok-ai-features-functionality-and-investment-cost-analysis/"><u>Elon Musk Reveals Cutting-Edge Grok AI: Features, Functionality, and Investment Cost Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-insights-protect-your-privacy-from-common-chatbot-threats/"><u>Essential Insights: Protect Your Privacy From Common Chatbot Threats</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-advice-on-preventing-unexpected-computer-power-losses-and-ensuring-stability/"><u>Expert Advice on Preventing Unexpected Computer Power Losses and Ensuring Stability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-artificial-intelligence-lawmaking-key-players-and-their-role-in-shaping-the-future-of-ai/"><u>Exploring Artificial Intelligence Lawmaking: Key Players and Their Role in Shaping the Future of AI</u></a></li>
+<li><a href="https://facebook.techidaily.com/exploring-the-features-of-newest-facebook-portals/"><u>Exploring the Features of Newest Facebook Portals</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-hp-photosmart-c7520-printer-drivers-easy-installation-guide/"><u>Free Download: HP Photosmart C7520 Printer Drivers - Easy Installation Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-mind-to-mural-chatgpts-role-in-ai-imagery/"><u>From Mind to Mural: ChatGPT's Role in AI Imagery</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-intel-82579v-graphics-card-up-to-date-no-cost-driver-downloads-available/"><u>Get Your Intel 82579V Graphics Card Up-to-Date: No Cost Driver Downloads Available!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-easily-convert-dall-e-3-webp-images-to-jpg-or-png/"><u>How to Easily Convert DALL-E 3 WebP Images to JPG or PNG</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nokia-g310-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nokia G310</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-basic-approach-adjust-sea-creature-tones-in-windows-os/"><u>In 2024, Basic Approach  Adjust Sea Creature Tones in Windows OS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-efficiently-recording-desktop-screens-for-various-purposes/"><u>In 2024, Efficiently Recording Desktop Screens for Various Purposes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlocking-every-participants-placement-in-google-meet/"><u>In 2024, Unlocking Every Participant’s Placement in Google Meet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-harness-chatgpts-capabilities-for-crafting-harmful-code-or-viruses/"><u>Is It Possible to Harness ChatGPT's Capabilities for Crafting Harmful Code or Viruses?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-excel-in-no-time-with-chatgpt-insights/"><u>Master Excel in No Time With ChatGPT Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-a-step-by-step-guide-for-the-openai-sandbox/"><u>Mastering GPT-3: A Step-by-Step Guide for the OpenAI Sandbox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preventing-chatgpt-memory-lapse-incidents/"><u>Preventing ChatGPT Memory Lapse Incidents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reasons-to-avoid-installing-the-official-chatgpt-mobile-application/"><u>Reasons to Avoid Installing the Official ChatGPT Mobile Application</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionize-your-design-work-with-free-images-from-these-leading-sites/"><u>Revolutionize Your Design Work with Free Images From These Leading Sites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-the-chatgpt-body-stream-malfunction-top-7-effective-methods/"><u>Solving the ChatGPT Body Stream Malfunction: Top 7 Effective Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speak-up-and-command-chatgpt-top-5-techniques-for-vocal-control/"><u>Speak Up and Command ChatGPT: Top 5 Techniques for Vocal Control</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-risks-associated-with-downloading-chatgpt-from-the-mac-digital-marketplace-a-detailed-guide/"><u>The Risks Associated with Downloading ChatGPT From the Mac Digital Marketplace – A Detailed Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-thrilling-new-bard-ai-innovations-unveiled-at-googles-2023-io-conference/"><u>Top 7 Thrilling New BARD AI Innovations Unveiled at Google's 2023 I/O Conference</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-pick-the-ultimate-list-of-wireless-travel-routers/"><u>Top Pick: The Ultimate List of Wireless Travel Routers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-potential-discover-the-gpt-models-that-outperform-chatgpt/"><u>Unleash Potential: Discover the GPT Models That Outperform ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-innovation-which-ai-shines-in-handling-a-shared-creative-task/"><u>Unleashing Innovation: Which AI Shines in Handling a Shared Creative Task?</u></a></li>
+</ul></div>

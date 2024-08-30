@@ -1,7 +1,7 @@
 ---
 title: 7 Must-Check Points Before Acquiring a Secondhand Windows Computer
-date: 2024-08-27 23:19:37
-updated: 2024-08-29 11:47:46
+date: 2024-08-29T01:37:12.800Z
+updated: 2024-08-30T01:37:12.800Z
 tags:
   - deals
 categories:
@@ -34,6 +34,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This will help you confirm whether the trackpad on your new laptop is equally or more responsive than the other one.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Test the Speakers and Built-In Microphone
 
  Next, you should test the built-in microphone and speaker. While you can simply play and record something to check if the audio input and output devices are working fine, Windows also offers a way to test them in Settings. On Windows 11, right-click on the Start button and select "Settings." Then, navigate to System > Sound.
@@ -46,12 +49,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Testing the laptop microphone in Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-testing-the-laptop-microphone-in-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Test the Built-In Camera
 
  If you intend to use the laptop for video communication, test its built-in camera. To do this, type **Camera** in the Windows Search bar and open the Camera app.
 
  If the camera app detects the webcam and the visuals are clear and of satisfactory quality, as the seller claimed, then the camera is working correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Check the Health of Your Laptop Battery
 
  The more a laptop is used, the more its battery capacity diminishes. When purchasing a new laptop, you should ensure that it's not heavily worn out. You can check this by generating a battery health report on Windows. [Open the Windows PowerShell utility as an administrator](https://win11.techidaily.com/a-guide-to-quickly-opens-sticky-notes-in-windows-11/), enter the following command, and press Enter:
@@ -62,6 +71,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Generating the battery health report from Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_2-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Navigate to this location and open the battery report. Then, go to the "Installed Batteries" section and compare the "Design Capacity" with the "Full Charge Capacity." The difference between these values indicates the extent to which the battery's capacity has diminished due to usage. If the full charge capacity is significantly low, you may have to replace the battery.
 
 ![Checking the laptop battery report.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/br_5.png) 
@@ -72,12 +84,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You can also confirm your suspicions by getting the laptop's serial number and contacting the manufacturer to verify whether the device has been reported stolen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ##  Perform the Physical Inspection
 
  The appearance of the laptop body is a direct reflection of how carefully the original owner has treated the device. Any signs of scratches, cracks, dents, or loose and damaged hinges indicate rough handling by the previous owner. Missing screws are another indicator that the laptop may have been opened for repair or replacement, which raises a red flag.
 
  Also, watch out for stickers that may be covering up wear and tear underneath, as this is a common practice.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Test the Wired and Wireless Connectivity
 
  The worst scenario you could face is finding your [laptop unable to connect to the internet](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual/) (via Wi-Fi or Ethernet cable), USB ports failing to detect external devices, or Bluetooth malfunctioning—all after completing the purchase. Because of that, confirming there are no wired or wireless connectivity issues is important.
@@ -112,3 +131,44 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-innovative-vocal-alteration-apps-beyond-echo-magic/"><u>[New] Innovative Vocal Alteration Apps Beyond Echo Magic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-vapor-3-showdown-shade-4-advances/"><u>[Updated] 2024 Approved  Vapor 3 Showdown  Shade 4 Advances</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-catching-life-in-motion-iphones-burst-capability/"><u>[Updated] Catching Life in Motion  IPhone's Burst Capability</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-classroom-visuals-cutting-edge-video-edits-for-teachers/"><u>[Updated] Classroom Visuals  Cutting Edge Video Edits for Teachers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-often-should-you-upload-youtube-videos-to-get-more-views/"><u>[Updated] In 2024, How Often Should You Upload YouTube Videos to Get More Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-your-notes-opt-for-mematic/"><u>[Updated] Master Your Notes - Opt for Mematic</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premium-online-sound-snatchers-for-2024/"><u>[Updated] Premium Online Sound Snatchers for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-strategy-to-dominate-youtube-via-creator-hub/"><u>2024 Approved  The Ultimate Strategy to Dominate YouTube Via Creator Hub</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/affordable-customizable-templates-to-elevate-your-biz-talks/"><u>Affordable, Customizable Templates to Elevate Your Biz Talks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-programming-assistant-of-2023-github-copilot-or-chatgpt-takes-on-the-challenge/"><u>Best Programming Assistant of 2023: GitHub Copilot or ChatGPT Takes on the Challenge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/busting-the-biggest-misconceptions-the-real-deal-on-9-most-common-artificial-intelligence-chatbots/"><u>Busting the Biggest Misconceptions: The Real Deal on #9 Most Common Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-on-your-fingertips-how-to-get-the-cutting-edge-ios-application/"><u>ChatGPT on Your Fingertips - How to Get the Cutting-Edge iOS Application</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-huggingchat-which-is-better/"><u>ChatGPT Vs. HuggingChat: Which Is Better?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversing-with-shadows-a-deep-dive-into-the-ghostly-theories-of-online-interaction/"><u>Conversing with Shadows: A Deep Dive Into the Ghostly Theories of Online Interaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-deployment-of-artificial-intelligence-agents-via-agentgpt-in-your-web-browser/"><u>Effective Deployment of Artificial Intelligence Agents via AgentGPT in Your Web Browser</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/excellent-free-thumbnails-collection-pubg-edition-for-2024/"><u>Excellent Free Thumbnails Collection  PUBG Edition for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-legitimacy-of-a-career-in-prompt-engineering-essential-considerations/"><u>Exploring the Legitimacy of a Career in Prompt Engineering: Essential Considerations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-spreadsheet-struggles-to-success-utilizing-chatgpt-in-excel/"><u>From Spreadsheet Struggles to Success: Utilizing ChatGPT in Excel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guidebook-for-guardians-understanding-chatgpt-and-ai-generation-tech/"><u>Guidebook for Guardians: Understanding ChatGPT and AI Generation Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-fake-gpt-binco-coins-a-guide-to-recognizing-scams/"><u>Identifying Fake GPT-Binco Coins: A Guide to Recognizing Scams</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-achieve-video-perfection-youtube-studio-edition-tips-and-tricks/"><u>In 2024, Achieve Video Perfection  YouTube Studio Edition Tips & Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mute-instagrams-personalized-posts/"><u>In 2024, Mute Instagram's Personalized Posts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/incorporating-gpt-references-highlighting-your-unique-ai-models-in-chatgpt-dialogues/"><u>Incorporating GPT References: Highlighting Your Unique AI Models in ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-uses-of-chatgpt-that-can-transform-your-remote-working-experience/"><u>Innovative Uses of ChatGPT That Can Transform Your Remote Working Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/integrating-product-id-from-windows-with-ms-online-service/"><u>Integrating Product ID From Windows with MS Online Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-a-big-privacy-risk/"><u>Is ChatGPT a Big Privacy Risk?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-13-ultrafrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi 13 UltraFRP Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-spaces-for-ai-inspired-artistry/"><u>Leading Spaces for AI-Inspired Artistry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-dangers-with-fraudgpt-proactive-measures-for-online-safety/"><u>Navigating Dangers with FraudGPT: Proactive Measures for Online Safety</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfecting-resume-structure-using-chatgpt/"><u>Perfecting Resume Structure Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-wellbeing-with-ai-tips-for-reliable-chatgpt-use-as-a-therapists-tool/"><u>Safeguarding Wellbeing with AI: Tips for Reliable ChatGPT Use as a Therapist's Tool</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-12-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from 12</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-process-on-using-microsoft-gro-artificial-intelligence-based-bing-search/"><u>Step-by-Step Process on Using Microsoft' Gro Artificial Intelligence Based Bing Search</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-working-principle-behind-chatgpts-sharing-feature/"><u>The Working Principle Behind ChatGPT's Sharing Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-gptbot-reasons-behind-its-restriction-on-various-sites/"><u>Unveiling GPTBot: Reasons Behind Its Restriction on Various Sites</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+</ul></div>

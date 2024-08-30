@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Utilizing the Windows DIR Command Effectively
-date: 2024-08-28 13:22:43
-updated: 2024-08-29 10:47:28
+date: 2024-08-29T01:37:45.506Z
+updated: 2024-08-30T01:37:45.506Z
 tags:
   - deals
 categories:
@@ -40,6 +40,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Run “dir” in Command Prompt to list all of the files and folders in the current directory. Dir also take special arguments to sort and select what kinds of files and folders are displayed. For example, “dir /h” will display hidden files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ##  What is DIR?
 
  The DIR command is a powerful Windows Command Prompt function that lists all files and subdirectories contained in a specific directory. The DIR command also offers some switches that unlock some powerful functionality.
@@ -82,10 +85,16 @@ dir /a:d
 
 ![Command Prompt with dir /b output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-09-10.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Using the `/b` switch with the DIR command strips away all excess information, displaying only the name of the folders and files in the current directory and not attributes like file size and time stamps. Type the following command to make it work:
 
 dir /b
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Display Using Thousands Separator
 
  In modern versions of Windows, the Command Prompt shows large numbers separated by commas (so: 25,000 instead of 25000). This wasn't always the case. In older versions, you had to use the `/c` switch to show those commas.
@@ -94,6 +103,9 @@ dir /b
 
 dir /-c
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Display Results in Columns
 
 ![Command Prompt with dir /b output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-09-10.png) 
@@ -102,6 +114,10 @@ dir /-c
 
 dir /D
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ##  Display DIR Results in Lowercase
 
  The `/L` switch displays all names of files and folders as lowercase.
@@ -116,6 +132,9 @@ dir /L
 
 dir /-N
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ##  Display Results in Sorted Order
 
  You can use the `/O` switch followed by a letter code to display directory results sorted in various ways. Those letter codes include:
@@ -134,6 +153,9 @@ dir /OD
 
 dir /O-D
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Display Results One Page at a Time
 
 ![Command Prompt with dir /b output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-09-10.png) 
@@ -142,6 +164,9 @@ dir /O-D
 
 dir /P
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ##  Display File Metadata with DIR
 
 ![Command Prompt with dir /b output.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-09-10.png) 
@@ -162,6 +187,9 @@ dir /R
 
 dir /S
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Display Results from DIR Sorted by Time
 
  Using the `/T` switch along with a letter code lets you sort results by the different time stamps associated with files and folders. These letter codes include:
@@ -186,12 +214,19 @@ dir /W
 
 dir /X
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Display Help Pages For DIR
 
  Using the `/?` switch displays helpful information regarding the DIR command, including a brief description of all the switches we've talked about.
 
 ![The help page for the dir command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-23_15h28_08.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ##  DIR Command Examples
 
  All right, now you know about the switches and options associated with the DIR command. Let's take a look at a few real-world examples to gain a better understanding as to how you can start putting them to use.
@@ -206,6 +241,9 @@ dir /a:s
 
 ![Command prompt with dir /a:s run in C:\ displaying the system files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-24_12h54_12.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
  But what if you want to view all files of a certain type within all subsequent folders of your current path. That's easy, just run this extremely fast and useful command:
 
 dir \*.mp3 /s
@@ -214,6 +252,9 @@ dir \*.mp3 /s
 
 ![Command Prompt with dir \*.mp3 /s run to display only MP3 files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-24_12h01_41.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [The asterisk acts as a wildcard](https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-phone-password-without-factory-reset-by-drfone-android/), saying "find anything with .mp3 file format at the end" while the "/s" recursively looks through all folders within your current path.
 
  Now, you may have noticed that returned a LOT of results. Almost too many to be able to read before they scrolled off the screen. This is where we can use the pause switch to give you a chance to read them. To do that, modify the command like this:
@@ -222,6 +263,11 @@ dir \*.mp3 /s /p
 
 ![Command Prompt with dir \*.mp3 /s /p run to pause the list of MP3 files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/2018-08-24_12h08_30.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
  Another trick the Command Prompt offers is called piping. You can use the ">" character to send the results of one command to another place or service. A good example of this is [sending all your results to a text file](https://extra-resources.techidaily.com/affordable-gopros-where-to-buy-with-best-price-for-2024/). You can then scroll through them later or import them into other types of documents. To do that, you could use the command:
 
 dir \*.mp3 /s /b > filename.txt
@@ -246,3 +292,47 @@ dir \*.mp3 /s /b > filename.txt
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-diy-tips-for-affordable-youtube-introend-videos/"><u>[New] 2024 Approved  DIY Tips for Affordable YouTube Intro/End Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-giggle-gazette-twitters-top-threads/"><u>[New] 2024 Approved  Giggle Gazette  Twitter’s Top Threads</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-adding-youtube-captionssubtitles-made-simple-and-fast/"><u>[New] Adding YouTube Captions/Subtitles Made Simple and Fast</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-converting-mb-to-seconds-a-20mb-scenario/"><u>[New] Converting MB to Seconds  A 20MB Scenario</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-grab-free-video-profile-backgrounds/"><u>[New] In 2024, Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unlocking-virtual-potential-with-kinemasters-latest-android-release/"><u>[New] Unlocking Virtual Potential with KineMaster's Latest Android Release</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-your-videos-status-on-youtube-for-2024/"><u>[Updated] Elevating Your Video's Status on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-professional-3d-openers-a-comprehensive-guide/"><u>[Updated] Professional 3D Openers  A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-on-iphone-15-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock On iPhone 15 Plus? How to Fix it?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beginners-journey-into-langchain-llm-unveiling-the-basics/"><u>Beginner's Journey Into LangChain LLM: Unveiling the Basics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-algorithm-6-secrets-of-content-writers-success/"><u>Beyond the Algorithm: 6 Secrets of Content Writers' Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-a-step-by-step-tutorial-on-chatgpt-and-microsoft-word-synergy/"><u>Boost Your Productivity: A Step-by-Step Tutorial on ChatGPT and Microsoft Word Synergy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-best-option-when-to-engage-chatgpt-for-psychological-support/"><u>Choosing the Best Option: When to Engage ChatGPT for Psychological Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/connect-and-converse-learn-how-to-interact-with-chatgpt-effortlessly/"><u>Connect and Converse: Learn How to Interact with ChatGPT Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-magic-of-conversing-with-chatgpt-unveiling-its-potential/"><u>Discover the Magic of Conversing with ChatGPT - Unveiling Its Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-dialogue-for-support-linking-chatgpt-and-whatsapp/"><u>Enhanced Dialogue for Support: Linking ChatGPT & WhatsApp</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-reasons-behind-italy-prohibiting-chatgpt-suddenly/"><u>Exploring the Reasons Behind Italy Prohibiting ChatGPT Suddenly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flying-future-understanding-the-proco-pilot-edge/"><u>Flying Future: Understanding the Proco Pilot Edge</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-dell-d3100-gpu-driver-quick-download-and-setup-tutorial/"><u>Get the Newest DELL D3100 GPU Driver – Quick Download & Setup Tutorial</u></a></li>
+<li><a href="https://driver-install.techidaily.com/gpu-driver-updates-direct-recollection-via-new-ddu-techniques/"><u>GPU Driver Updates: Direct Recollection via New DDU Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-is-auto-gpt-different-from-chatgpt-insights-into-their-varying-capabilities/"><u>How Is Auto-GPT Different From ChatGPT? Insights Into Their Varying Capabilities</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-oneplus-nord-n30-se-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of OnePlus Nord N30 SE? Try These Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-the-ai-barrier-exploring-seven-key-factors-that-prevent-successful-chatgpt-jailbreaks/"><u>Inside the AI Barrier: Exploring Seven Key Factors that Prevent Successful ChatGPT Jailbreaks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-ai-in-your-android-with-chatgpt-widget/"><u>Integrating AI in Your Android with ChatGPT Widget</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-our-virtual-co-pilot-chatgpt-active/"><u>Is Our Virtual Co-Pilot, ChatGPT, Active?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/misguidance-in-the-era-of-machine-creativity/"><u>Misguidance in the Era of Machine Creativity</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-zte-nubia-flip-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on ZTE Nubia Flip 5G – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ais-effect-on-mental-health-treatment-efficacy/"><u>Navigating AI’s Effect on Mental Health Treatment Efficacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-intersection-of-human-and-machine-best-practices-for-writers/"><u>Navigating the Intersection of Human and Machine: Best Practices for Writers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-controls-are-they-enough-for-chatgpt/"><u>Privacy Controls: Are They Enough for ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-how-to-clear-your-chatgpt-interaction-history/"><u>Protecting Privacy: How to Clear Your ChatGPT Interaction History</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-issues-6-steps-when-shared-subscriptions-dont-work-with-family-members/"><u>Solving Issues: 6 Steps When Shared Subscriptions Don't Work with Family Members</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-to-preserve-chatgpt-discussions/"><u>Strategies to Preserve ChatGPT Discussions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/supercharge-your-productivity-with-chatgpt-integration-into-onlyfreeceonline-document-management/"><u>Supercharge Your Productivity with ChatGPT Integration Into ONLYFREECEONLINE Document Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-transformative-impact-of-gemini-15s-unique-approach-with-one-million-token-context/"><u>The Transformative Impact of Gemini 1.5'S Unique Approach with One Million Token Context</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-reasons-giving-ios-an-edge-in-chatgpt-realm/"><u>Top 6 Reasons: Giving iOS an Edge in ChatGPT Realm</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/translation-showdown-chatgpt-vs-google-translate-a-comprehensive-guide/"><u>Translation Showdown: ChatGPT Vs. Google Translate - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-ai-in-writing-discover-6-strategies-using-chatgpt/"><u>Unlocking the Power of AI in Writing: Discover 6 Strategies Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-best-free-open-source-software-for-crafting-ai-images/"><u>Unveiling the Best Free, Open Source Software for Crafting AI Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-italy-has-banned-chatgpt-with-immediate-effect/"><u>Why Italy Has Banned ChatGPT “With Immediate Effect”</u></a></li>
+</ul></div>

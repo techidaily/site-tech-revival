@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Lenovo Yoga Slim 지: Assessing Windows Performance on Snapdragon Processor"
-date: 2024-08-28 12:44:17
-updated: 2024-08-29 12:45:31
+date: 2024-08-29T01:34:37.744Z
+updated: 2024-08-30T01:34:37.744Z
 tags:
   - product-reviews
 categories:
@@ -113,6 +113,9 @@ Expand
 
 ![The keyboard on the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-keyboard-on-the-lenovo-yoga-slim-7x-2_53815829123_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  Lenovo’s keyboards are generally high quality, and I don’t have any big complaints about the keyboard on the Yoga Slim 7x. There’s a dedicated function row with shortcuts for brightness, volume, microphone access, locking the screen, and even opening the calculator. The keys are all backlit, and you can toggle the key brightness by holding down the function key while pressing the space bar. The trackpad below the keyboard is spacious, too.
@@ -123,6 +126,18 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the left side of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-ports-on-the-left-side-of-the-lenovo-yoga-slim-7x_53815828838_o.jpg) 
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The Yoga Slim 7x has three USB Type-C ports, all of which support USB4 Gen 3, USB Power Delivery (USB-PD) 3.1, and DisplayPort 1.4\. Those are the only physical ports on this computer. You don’t get a headphone jack, an SD card reader, USB Type-A ports, or anything else. It’s great that all three ports work the same, so you can use any of them for power input or a [USB hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/), but I wish there were better built-in options for connectivity. There’s also no support for Thunderbolt, so some types of external drives, monitors, and hubs won’t work.
@@ -131,6 +146,9 @@ Jerome Thomas / How-To Geek
 
  Finally, even though this laptop is sold under the Yoga brand, this is _not_ a convertible laptop. The screen can be pushed back to nearly flat with the keyboard, but it cannot bend all the way around for tent mode or functioning as a tablet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ##  Display: A Fantastic OLED
 
  The Yoga Slim 7x has an _excellent_ screen. It’s a large 14.5-inch OLED panel, with a resolution of 2,944 x 1,840 (3K) and a 16:10 aspect ratio. The screen also has touch support, a 100,000:1 contrast ratio, a 90Hz refresh rate, and a 100% DCI-P3 100% sRGB color gamut. That all adds up to a display that looks great and has super-smooth animations, no matter if you’re playing games, watching movies, or just reading emails.
@@ -159,6 +177,9 @@ Jerome Thomas / How-To Geek
 
 ![Microsoft Store screenshot showing how Doom Eternal can't be installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/image-1-1.png) 
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
  Some software just doesn’t exist on ARM Windows and can’t be emulated. If you have a device that needs specific third-party drivers to function, instead of the generic drivers available through Windows Update, it probably won’t work. You also can’t use virtualization software and some emulators—VirtualBox and VMWare don’t have ARM Windows versions. I couldn't try Microsoft’s [HyperV virtualization tool](https://facebook-record-videos.techidaily.com/updated-the-infographic-index-youtubes-surprising-stat-treasury-2017/), because it needs Windows 11 Pro. This laptop ships with Windows 11 Home. You can use the [Windows Subsystem for Linux](https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-honor-magic-5-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/), though it will install ARM Linux, which doesn’t have all the same software as x86 Linux.
 
  This new ARM laptop still has some software bloat, like McAfee antivirus and random Lenovo tools. I had to uninstall McAfee after a few days because it kept showing annoying popups and blocked some applications from running. Microsoft is also increasingly aggressive with [prompts to use the Edge browser](https://instagram-video-recordings.techidaily.com/2024-approved-facing-instagram-video-issues-you-may-find-the-answers-here/) and [defaulting to OneDrive for storage](https://audio-editing.techidaily.com/new-in-2024-10-best-websites-to-download-ding-sound-effect-easily/) in Windows 11.
@@ -179,6 +200,9 @@ Jerome Thomas / How-To Geek
 
  Even though the actual hardware in the Yoga Slim 7x is on par or exceeds most of the competition, your real-world performance will vary depending on how much of your software needs to be emulated.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  Battery Life: All Day on a Charge
 
  Windows laptops have historically struggled to maintain great battery life, thanks to the [broken Modern Standby in many newer laptops](https://www.spacebar.news/windows-pc-sleep-broken/), the inefficient architecture of x86-based processors, and other factors. Improved battery life was one of the promised advantages of the Snapdragon chip in the Yoga Slim 7x, and thankfully, that turns out to be true.
@@ -197,6 +221,9 @@ Jerome Thomas / How-To Geek
 
 ![The back of the Lenovo Yoga Slim 7x.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-back-of-the-lenovo-yoga-slim-7x_53814663702_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The [Lenovo Yoga Slim 7x](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-yoga-slim-7x-copilot-pc-14-5-3k-oled-touch-screen-laptop-snapdragon-x-elite-16gb-memory-512gb-ssd-cosmic-blue%2F6582538.p%3FskuId%3D6582538) is a great laptop at a glance, with a thin and light design, great performance, and all-day battery life. The OLED screen is especially great, but without a fully convertible 2-in-1 design, there’s not much point to this laptop having a touchscreen.
@@ -207,6 +234,9 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo Yoga Slim 7x laptop open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/laptop.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #####  Lenovo Yoga Slim 7x
 
 5/ 10 
@@ -229,3 +259,57 @@ The Lenovo Yoga Slim 7x is one of the first Copilot+ PC laptops, with all-day ba
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-insta-trends-staying-ahead-with-innovative-video-content-for-2024/"><u>[New] Insta-Trends  Staying Ahead with Innovative Video Content for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-efficiently-capture-skype-meetings-across-windows-and-macos/"><u>[Updated] 2024 Approved  How to Efficiently Capture Skype Meetings Across Windows and MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-ideal-screen-capturing-solutions-for-igadgets/"><u>[Updated] 2024 Approved  Ideal Screen Capturing Solutions for iGadgets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-understanding-legal-bounds-of-youtube-video-screencaps/"><u>[Updated] 2024 Approved  Understanding Legal Bounds of YouTube Video Screencaps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-4-top-ranked-ways-to-grab-your-chromebook-screen-shot/"><u>[Updated] In 2024, 4 Top-Ranked Ways To Grab Your Chromebook Screen Shot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-minimizing-live-stream-delays-fixing-obs-studio-drops-for-2024/"><u>[Updated] Minimizing Live Stream Delays - Fixing OBS Studio Drops for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-no-money-no-problem-heres-your-list-of-vfx-pages/"><u>2024 Approved  No Money, No Problem! Here's Your List of VFX Pages</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-perfect-photos-at-a-click-top-captioning-software/"><u>2024 Approved  Perfect Photos at a Click  Top Captioning Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-quelling-video-quirks-in-photobooths/"><u>2024 Approved  Quelling Video Quirks in Photobooths</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/automating-your-samsung-galaxy-mastering-the-power-of-modes-and-routines/"><u>Automating Your Samsung Galaxy: Mastering the Power of Modes & Routines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beginner-friendly-artificial-intelligence-tools-the-ultimate-guide/"><u>Beginner-Friendly Artificial Intelligence Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-programming-assistant-of-2023-github-copilot-or-chatgpt-takes-on-the-challenge/"><u>Best Programming Assistant of 2023: GitHub Copilot or ChatGPT Takes on the Challenge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/busting-the-biggest-misconceptions-the-real-deal-on-9-most-common-artificial-intelligence-chatbots/"><u>Busting the Biggest Misconceptions: The Real Deal on #9 Most Common Artificial Intelligence Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-huggingchat-which-is-better/"><u>ChatGPT Vs. HuggingChat: Which Is Better?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversing-with-shadows-a-deep-dive-into-the-ghostly-theories-of-online-interaction/"><u>Conversing with Shadows: A Deep Dive Into the Ghostly Theories of Online Interaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-deployment-of-artificial-intelligence-agents-via-agentgpt-in-your-web-browser/"><u>Effective Deployment of Artificial Intelligence Agents via AgentGPT in Your Web Browser</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-legitimacy-of-a-career-in-prompt-engineering-essential-considerations/"><u>Exploring the Legitimacy of a Career in Prompt Engineering: Essential Considerations</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-custom-minecraft-gif-templates-for-2024/"><u>Free Custom Minecraft GIF Templates for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-premium-to-free-how-gpt-4-opens-new-avenues-and-the-persistent-appeal-of-chatgpt-plus/"><u>From Premium to Free: How GPT-4 Opens New Avenues & The Persistent Appeal of ChatGPT Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-spreadsheet-struggles-to-success-utilizing-chatgpt-in-excel/"><u>From Spreadsheet Struggles to Success: Utilizing ChatGPT in Excel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guidebook-for-guardians-understanding-chatgpt-and-ai-generation-tech/"><u>Guidebook for Guardians: Understanding ChatGPT and AI Generation Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-might-innovations-in-ai-such-as-chatgpt-challenge-existing-search-engine-hierarchies/"><u>How Might Innovations in AI, Such as ChatGPT, Challenge Existing Search Engine Hierarchies?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-implement-windows-feature-update-version-1903-without-glitches/"><u>How to Successfully Implement Windows Feature Update Version 1903 Without Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-fake-gpt-binco-coins-a-guide-to-recognizing-scams/"><u>Identifying Fake GPT-Binco Coins: A Guide to Recognizing Scams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-google-pixel-fold-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Google Pixel Fold to Another | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-6s-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 6s Before the Plan Expires</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/incorporating-gpt-references-highlighting-your-unique-ai-models-in-chatgpt-dialogues/"><u>Incorporating GPT References: Highlighting Your Unique AI Models in ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-uses-of-chatgpt-that-can-transform-your-remote-working-experience/"><u>Innovative Uses of ChatGPT That Can Transform Your Remote Working Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-a-big-privacy-risk/"><u>Is ChatGPT a Big Privacy Risk?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-13-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-spaces-for-ai-inspired-artistry/"><u>Leading Spaces for AI-Inspired Artistry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-stress-relief-a-guide-on-using-chatgpt-effectively/"><u>Mastering Stress Relief: A Guide on Using ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-top-10-ways-to-utilize-chatgpt-in-vs-code/"><u>Maximizing Productivity: Top 10 Ways to Utilize ChatGPT in VS Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-dangers-with-fraudgpt-proactive-measures-for-online-safety/"><u>Navigating Dangers with FraudGPT: Proactive Measures for Online Safety</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfecting-resume-structure-using-chatgpt/"><u>Perfecting Resume Structure Using ChatGPT</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/personalize-with-free-youtube-profile-designs/"><u>Personalize With FREE YouTube Profile Designs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/run-the-downloaded-installer-following-on-screen-instructions-to-complete-the-installation-process/"><u>Run the Downloaded Installer, Following On-Screen Instructions to Complete the Installation Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-wellbeing-with-ai-tips-for-reliable-chatgpt-use-as-a-therapists-tool/"><u>Safeguarding Wellbeing with AI: Tips for Reliable ChatGPT Use as a Therapist's Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/shield-your-website-block-unauthorized-ai-crawlers/"><u>Shield Your Website: Block Unauthorized AI Crawlers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-process-on-using-microsoft-gro-artificial-intelligence-based-bing-search/"><u>Step-by-Step Process on Using Microsoft' Gro Artificial Intelligence Based Bing Search</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-reasons-behind-sarah-silverman-joining-legal-battles-againnst-meta-and-openai/"><u>The Reasons Behind Sarah Silverman Joining Legal Battles Againnst Meta & OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-synergy-of-canva-and-gpt-for-design-freedom/"><u>The Synergy of Canva and GPT for Design Freedom</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-working-principle-behind-chatgpts-sharing-feature/"><u>The Working Principle Behind ChatGPT's Sharing Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-pdf-tasks-with-the-best-ai-tools-available/"><u>Transform Your PDF Tasks with the Best AI Tools Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-sound-on-halo-infinite-easy-fixes-for-gameplay/"><u>Troubleshoot Your Sound on Halo Infinite - Easy Fixes for Gameplay</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oppo-a78-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Oppo A78 5G FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpts-safety-measures/"><u>Understanding ChatGPT's Safety Measures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-with-usechamgext-gpt-copilot-a-comprehensive-guide/"><u>Unlocking Potential with UseChamgext GPT Copilot: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-gptbot-reasons-behind-its-restriction-on-various-sites/"><u>Unveiling GPTBot: Reasons Behind Its Restriction on Various Sites</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-how-can-i-improve-the-video-resolution-and-enhance-video-quality-what-is-the-best-video-quality-enhancement-software-check-our-list-of/"><u>Updated 2024 Approved How Can I Improve the Video Resolution and Enhance Video Quality? What Is the Best Video Quality Enhancement Software? Check Our List of 10 Best Free and Paid Video Enhancers</u></a></li>
+</ul></div>

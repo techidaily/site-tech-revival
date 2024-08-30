@@ -1,7 +1,7 @@
 ---
 title: "Expert Evaluation of the Plugable USB-C Dual HDMI Docking Hub: Essential Perks for PC Enthusiasts"
-date: 2024-08-26 22:39:29
-updated: 2024-08-29 10:48:23
+date: 2024-08-29T01:37:59.495Z
+updated: 2024-08-30T01:37:59.495Z
 tags:
   - deals
 categories:
@@ -68,14 +68,23 @@ Sergio Rodriguez / How-To Geek
 
 ![Ports on the back of the Plugable USB C Dual HDMI Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/ports-on-the-back-of-the-plugable-usb-c-dual-hdmi-docking-station-1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  It’s worth noting that Plugable recommends this dock to be used with Windows and ChromeOS computers, and not MacBooks, which is a pretty big letdown. I tested the dock with both my Windows laptop and a MacBook Pro, and found that it worked fairly well with the MacBook—you might run into issues with trying to run dual displays here. My M1 Max-powered MacBook Pro was able to drive a 1440p240 monitor at 1440p144 with ease and was still charged at 65W. While I can’t officially say all macOS setups are in the clear here, since Plugable does not officially support macOS, I can say that it does, in fact, function at least in my testing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  No SD Support Is a Disappointment
 
 ![Ports on the front of the Plugable USB C Dual HDMI Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/ports-on-the-front-of-the-plugable-usb-c-dual-hdmi-docking-station-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  While macOS support might not be official, it still does work in some scenarios. However, there’s no way to rig an SD slot built into the dock, and that’s a disappointment. As someone who does occasional video and photo work, having native SD support on my devices is a huge benefit these days. Sure, I can use an external USB adapter, but in the quest for a simpler and more fluid setup, I just don’t want to have to deal with that anymore. With other docks in this price range offering both SD and microSD on the front, I really wish Plugable would have gone the extra few steps to build that in for the added convenience it would have offered.
@@ -84,10 +93,16 @@ Sergio Rodriguez / How-To Geek
 
  If you’re on the Windows or ChromeOS side of things (or have a MacBook and are willing to test), then this dock is perfect for those with multiple monitors. The fact that it can support dual 4K60 output natively without adapters makes it more capable than [Plugable’s Thunderbolt 4 dock](https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-drfone-by-drfone-ios/) that’s nearly twice the price. And, unlike that more expensive dock, 4K60 matches the price point here. I wouldn’t expect to see 4K120 support on a dock like this, especially not with it being a more bandwidth-constrained USB 5Gb/s uplink connection.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Should You Buy Plugable’s USB-C Dock?
 
 ![The Plugable USB C Dual HDMI Docking Station with the provided cables and its box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-plugable-usb-c-dual-hdmi-docking-station-with-the-provided-cables-and-its-box-2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The [Plugable USB-C Dual HDMI Docking Station](https://www.amazon.com/Plugable-Docking-Delivery-ChromeOS-Ethernet/dp/B0CKJNZRW3?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001541&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-usb-c-dual-hdmi-docking-station-review%2F&asc%5Fcampaign=Affiliate) comes in at $150 from both Amazon and directly from Plugable. And, well, that’s an expected price with this feature set. It would have been nice to see the likes of SD card slots or official macOS support, but in the $150 range, there’s not much competition that offers 65W charging and dual display outputs. Stepping up another $15 gets you into [Anker’s 13-in-1 dock](https://www.amazon.com/Anker-Docking-PowerExpand-Charging-Ethernet/dp/B088F7SY6S?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001541&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-usb-c-dual-hdmi-docking-station-review%2F&asc%5Fcampaign=Affiliate) which delivers 65W of charging, dual display outputs (though it’s with one HDMI and one DisplayPort), official macOS support, and both SD and microSD.
@@ -98,6 +113,10 @@ Sergio Rodriguez / How-To Geek
 
 ![Plugable USB-C Dual HDMI Docking Station (UD-MSTH2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/plugable-usb-c-dual-hdmi-docking-station-ud-msth2.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 #####  Plugable USB-C Dual HDMI Docking Station (UD-MSTH2)
 
 7/ 10 
@@ -120,3 +139,62 @@ The Plugable USB-C Dual HDMI Docking Station (UD-MSTH2) is a solid choice for yo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-best-screenshots-software-series/"><u>[New] 2024 Approved  Best Screenshots Software Series</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-efficient-transfer-of-movie-maker-videos-to-vimeo/"><u>[New] 2024 Approved  Efficient Transfer of Movie Maker Videos to Vimeo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-slowly-fading-the-beat-a-pro-guide-for-audio-easing/"><u>[New] 2024 Approved  Slowly Fading the Beat  A Pro Guide for Audio Easing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716068634151-new-in-2024-leading-12-screen-recorders-no-time-limit/"><u>[New] In 2024, Leading 12 Screen Recorders, No Time Limit!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-streamline-your-360-videos-for-youtube-with-easy-upload-tricks/"><u>[New] In 2024, Streamline Your 360 Videos for YouTube with Easy Upload Tricks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/print-access-granted-after-troubleshooting/"><u>[PRINT] Access Granted After Troubleshooting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-updating-facebook-video-coverage-with-ease/"><u>[Updated] Updating Facebook Video Coverage with Ease</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-dji-phantom-3-performance-analysis/"><u>2024 Approved  DJI Phantom 3 Performance Analysis</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-emojis-the-real-meaning-you-may-not-know/"><u>2024 Approved  Snapchat Emojis  The Real Meaning You May Not Know</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-tips-for-animation-using-windows-movie-maker-for-2024/"><u>Advanced Tips for Animation Using Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-office-efficiency-integrating-chatgpt-into-your-daily-work-routine/"><u>Boosting Office Efficiency: Integrating ChatGPT Into Your Daily Work Routine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-ai-conversation-tools-to-terminal-using-shellgpt-to-run-chatgpt-on-ubuntu/"><u>Bringing AI Conversation Tools to Terminal: Using ShellGPT to Run ChatGPT on Ubuntu</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/browser-extensions-ensuring-ai-tool-security/"><u>Browser Extensions: Ensuring AI Tool Security</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatting-with-ai-androids-voice-controlled-gpt-explained/"><u>Cha[t]ting with AI? Android's Voice Controlled GPT Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cutting-edge-ai-in-higher-learning-exploration/"><u>Cutting-Edge AI in Higher Learning Exploration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/directive-approach-to-prevent-fake-outputs-in-machine-learning/"><u>Directive Approach to Prevent Fake Outputs in Machine Learning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-advantages-of-using-claude-3/"><u>Discover the Advantages of Using Claude 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-grok-ai-elon-musks-latest-innovation-understanding-the-basics-and-pricing/"><u>Discovering Grok AI: Elon Musk's Latest Innovation - Understanding the Basics & Pricing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-home-efficiency-top-6-strategies-using-chatgpt/"><u>Enhancing Home Efficiency: Top 6 Strategies Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-dos-and-donts-avoiding-errors-with-chatgpt-in-writing-articles/"><u>Essential Dos and Don'ts: Avoiding Errors with ChatGPT in Writing Articles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/essential-guide-to-downloading-canon-dr-c225-printer-drivers-for-windows-users/"><u>Essential Guide to Downloading Canon DR-C225 Printer Drivers for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-artificial-intelligence-assistants-is-it-chatgpt-plus-or-perplexity-that-reigns-supreme/"><u>Evaluating Artificial Intelligence Assistants: Is It ChatGPT Plus or Perplexity That Reigns Supreme?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-potential-to-transform-patient-care-and-medical-services/"><u>Exploring ChatGPT's Potential to Transform Patient Care and Medical Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-reality-of-prompt-engineering-key-aspects-you-should-reflect-on/"><u>Exploring the Reality of Prompt Engineering: Key Aspects You Should Reflect On</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-facebook-to-hd-how-to-convert-videos-to-premium-mp4-format-free-for-2024/"><u>From Facebook to HD  How To Convert Videos to Premium MP4 Format (Free) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-idea-to-launch-building-your-own-site-with-chatgpt-assistance/"><u>From Idea to Launch: Building Your Own Site with ChatGPT Assistance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>Full Guide to Unlock Your Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-note-50-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme Note 50</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-y100i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo Y100i Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/impostor-chatgpt-chrome-add-on-exposes-facebook-accounts/"><u>Impostor ChatGPT Chrome Add-On Exposes Facebook Accounts</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-8-plus-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 8 Plus</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-in-depth-look-at-best-videographer-selection/"><u>In 2024, In-Depth Look at Best Videographer Selection</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-comprehensible-guide-to-fb-page-rank-boosting/"><u>In 2024, The Comprehensible Guide to FB Page Rank Boosting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-hardware-reviews-by-tom-your-guide-to-the-latest-gear/"><u>In-Depth Hardware Reviews by Tom: Your Guide to the Latest Gear</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interactive-ai-duo-unveiling-3-approaches-to-chatgpt-and-wolframalliance/"><u>Interactive AI Duo: Unveiling 3 Approaches to ChatGPT & WolframAlliance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-gpt-4-all-a-deep-dive-into-its-mechanisms/"><u>Introducing GPT-4 All - A Deep Dive Into Its Mechanisms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-fb-stories-downloads-top-5-tips-for-all-devices-for-2024/"><u>Navigating FB Stories Downloads  Top 5 Tips for All Devices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-lens-distortion-a-practical-guide-for-gopro-editors/"><u>Navigating Lens Distortion  A Practical Guide for GoPro Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/one-idea-for-three-assessing-ais-creativity-metrics/"><u>One Idea for Three: Assessing AI's Creativity Metrics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-vanishing-folder-icons-in-explore/"><u>Overcoming Vanishing Folder Icons in Explore</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quora-poe-your-key-to-ai-tech-integration/"><u>Quora POE: Your Key to AI Tech Integration</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-oppo-find-x7-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Oppo Find X7 has been deleted.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-content-generation-process-with-the-power-of-hix-ai-and-gpt-4/"><u>Revolutionize Your Content Generation Process with the Power of HIX AI & GPT-4</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/saudade-de-portugal-conhecimento-das-melhores-expressoes/"><u>Saudade De Portugal! - Conhecimento Das Melhores Expressões</u></a></li>
+<li><a href="https://fox-links.techidaily.com/secrets-of-the-masters-top-6-signature-removal-apps-revealed-for-2024/"><u>Secrets of the Masters  Top 6 Signature Removal Apps Revealed for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-algorithmic-art-of-romance-ripoffs/"><u>The Algorithmic Art of Romance Ripoffs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-ai-can-gpt-3-enhance-health-services/"><u>The Impact of AI: Can GPT-3 Enhance Health Services?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-key-to-pristine-ru-letter-speech/"><u>The Key to Pristine RU Letter Speech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-key-to-smooth-conversations-intelligent-folder-strategy-for-chatgpt/"><u>The Key to Smooth Conversations: Intelligent Folder Strategy for ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-how-to-get-started-with-auto-gpt-installation/"><u>The Ultimate Tutorial on How to Get Started with Auto-GPT Installation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-writers-ally-9-key-benefits-of-leveraging-chatgpt-to-compose-your-novel/"><u>The Writer's Ally: 9 Key Benefits of Leveraging ChatGPT to Compose Your Novel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-picks-selecting-the-ultimate-prebuilt-gaming-machine-tailored-to-you/"><u>Top Picks: Selecting the Ultimate Prebuilt Gaming Machine Tailored to You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-dark-side-how-artificial-intelligence-empowers-hackers/"><u>Unveiling the Dark Side: How Artificial Intelligence Empowers Hackers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiling-the-details-of-apples-upcoming-showcase-timelines-gossip-and-potential-surprises/"><u>Unveiling the Details of Apple's Upcoming Showcase: Timelines, Gossip, & Potential Surprises</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-the-art-of-decibel-decline-uncovering-sound-management-with-audacity-for-2024/"><u>Updated The Art of Decibel Decline Uncovering Sound Management with Audacity for 2024</u></a></li>
+</ul></div>

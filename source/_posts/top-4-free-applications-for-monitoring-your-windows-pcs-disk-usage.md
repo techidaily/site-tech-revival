@@ -1,7 +1,7 @@
 ---
 title: Top 4 Free Applications for Monitoring Your Windows PC's Disk Usage
-date: 2024-08-26 12:55:15
-updated: 2024-08-29 10:23:21
+date: 2024-08-29T01:37:05.928Z
+updated: 2024-08-30T01:37:05.928Z
 tags:
   - desktop
 categories:
@@ -36,6 +36,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It is available as both an installer and a portable application, which is handy if you want to load it onto a USB drive to carry with you for those troubleshooting house calls.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  WinDirStat is a Great Classic Option
 
 ![WinDirStat represents files and folders as colorful rectangles.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eec9ed2237.jpg) 
@@ -50,6 +53,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  WinDirStat doesn't offer a [portable app](https://extra-lessons.techidaily.com/top-strategies-to-shoot-a-flawless-green-screen-scene/) on its website, but you can download a portable version of WinDirStat from [PortableApps.com](https://portableapps.com/apps/utilities/windirstat%5Fportable) if you'd like to take it with you and use it on various PCs without installing it first.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  SpaceSniffer Offers the Best Graphical View
 
 ![SpaceSniffer is similar to WinDirStat, but has a less colorful interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593eef597d3a6.png) 
@@ -64,10 +70,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  SpaceSniffer might have issues scanning certain folders unless you [run it as administrator](https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  TreeSize Free Has a Slick Interface
 
 ![TreeSize has a more minimalist way of displaying files and folders, but sacrifices no functionality.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/img_593ef108d6c45.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you want something simpler than WinDirStat, [TreeSize Free](http://www.jam-software.de/treesize%5Ffree/) is a good alternative. It provides you with the same directory list and treemap interfaces you'll see in WinDirStat, but it doesn't have WinDirStat's file extension list, and its ribbon-style interface is a little more at home on modern versions of Windows than WinDIrStat's toolbar. TreeSize Free also adds a convenient scan option to Explorer, so you can right-click any folder in File Explorer and Windows Explorer and select "TreeSize Free" to scan its contents.
 
  To view a treemap in TreeSize Free, click View > Show Treemap. As in the other applications here, you can right-click files or folders in the application to delete or open them.
@@ -80,12 +92,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Storage view on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/storage-stuff-on-windows-11.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 [Windows 10 and Windows 11 have a storage usage tool](https://screen-recording.techidaily.com/new-2024-approved-the-way-of-the-warrior-game-lineup-mirroring-ghost-of-tsushima/) that may help you in some cases. It's not a classic disk space analyzer like the above tools, but it does have some similar features.
 
  To access it, head to Settings > System > Storage and click a drive. You'll see a list of things taking up space on that drive, from apps and games to system files, videos, photos, and music. Click a category and Windows will suggest things you can remove---for example, you'll see a list of installed applications which you can sort by the space they take.
 
  While this tool isn't as powerful as the above ones, it can be helpful for quickly understanding disk usage and freeing space in a pinch.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  How to Clear Disk Space
 
  Once you've identified what is using up all your space, it is a simple matter to free up space. All of the third-party apps we listed allow you to easily open Explorer folder or open a file directly to check out what it is. Just right-click, then click "Open" or "Explorer Here" in the case of WinDirStat or WizTree. You can then delete files as you would normally. Make sure to double check what you're deleting though.
@@ -106,3 +124,71 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-mastering-multitasking-with-picture-in-picture-mode-on-microsoft-edge-browser/"><u>[New] Mastering Multitasking with Picture-in-Picture Mode on Microsoft Edge Browser</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exquisite-innovations-in-desktop-tech-for-2024/"><u>[Updated] Exquisite Innovations in Desktop Tech for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-exclusive-tips-for-dominating-the-instagram-story-space/"><u>[Updated] In 2024, Exclusive Tips for Dominating the Instagram Story Space</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-innovative-techniques-to-make-a-mark-with-your-gopro-studio-edits/"><u>[Updated] Innovative Techniques to Make a Mark with Your GoPro Studio Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-microvid-virtuoso/"><u>[Updated] MicroVid Virtuoso</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-images-the-art-of-applying-luts-in-pro/"><u>2024 Approved  Transforming Images  The Art of Applying LUTs in Pro</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y77t-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-integration-boosts-bing-mobile-search-for-android-and-ios-devices/"><u>AI Integration Boosts Bing Mobile Search for Android & iOS Devices.</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-pros-and-cons-of-using-chatgpt-plus-in-digital-communication/"><u>Decoding the Pros and Cons of Using ChatGPT Plus in Digital Communication</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-canon-mx492-printer-drivers-on-windows-comprehensive-guide-for-the-mx-series/"><u>Download & Install Canon MX492 Printer Drivers on Windows: Comprehensive Guide for the MX Series</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-solutions-for-resolving-a-non-functioning-windows-tcalculator-on-your-pc/"><u>Easy Solutions for Resolving a Non-Functioning Windows tCalculator on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-disabling-the-quicksheet-feature-on-your-windows-10-system/"><u>Easy Steps: Disabling the Quicksheet Feature on Your Windows 10 System</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-total-war-three-kingdoms-game-freezing-and-crashes/"><u>Effective Solutions for Total War: Three Kingdoms Game Freezing & Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-using-microsoft-edge-for-webnote-creation-tutorials/"><u>Efficiently Using Microsoft Edge for Webnote Creation Tutorials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tips-on-enabling-protective-measures-in-windows-11/"><u>Essential Tips on Enabling Protective Measures in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-credibility-of-chatgpt-in-providing-health-information/"><u>Exploring the Credibility of ChatGPT in Providing Health Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-inner-workings-of-artificial-intelligence-what-are-ai-black-boxes-and-why-do-they-matter/"><u>Exploring the Inner Workings of Artificial Intelligence: What Are 'AI Black Boxes' And Why Do They Matter?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-one-generation-to-the-next-analyzing-the-five-key-differences-between-gpt-4-and-gpt-35/"><u>From One Generation to the Next: Analyzing the Five Key Differences Between GPT-^4 and GPT-3.5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-started-with-our-exclusive-no-cost-test-drive/"><u>Get Started with Our Exclusive No-Cost Test Drive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-accessing-troubleshooting-mode-in-windows-8-and-81-without-hesitation/"><u>Guide to Accessing Troubleshooting Mode in Windows 8 & 8.1 Without Hesitation!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-adapt-based-on-customer-dialogues/"><u>How Does ChatGPT Adapt Based On Customer Dialogues?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-capture-an-image-of-your-screen-on-windows-11/"><u>How to Capture an Image of Your Screen on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-check-windows-10-build-number/"><u>How to Check Windows 10 Build Number</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-create-restore-point-in-windows-11/"><u>How to Create Restore Point in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-delete-cookies-in-chrome/"><u>How to Delete Cookies in Chrome</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-open-command-prompt-as-administrator-in-windows-10-8-and-81/"><u>How to Open Command Prompt as Administrator in Windows 10, 8 & 8.1</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-perform-a-clean-boot-in-windows-11/"><u>How to Perform a Clean Boot in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-resolve-windows-10-developer-release-installer-hanging-during-installation-solutions-revealed/"><u>How to Resolve Windows 10 Developer Release Installer Hanging During Installation: Solutions Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-set-up-your-brother-all-in-one-printer-on-modern-windows-platforms-vista-and-beyond/"><u>How to Set Up Your Brother All-in-One Printer on Modern Windows Platforms (Vista & Beyond)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-solve-the-persistent-dark-screen-issue-on-iphones/"><u>How To Solve The Persistent Dark Screen Issue On iPhones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-ping-command-to-check-internet-connection/"><u>How to Use Ping Command to Check Internet Connection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-will-artificial-intelligence-impact-our-mental-wellness-enhancement-or-deterioration/"><u>How Will Artificial Intelligence Impact Our Mental Wellness: Enhancement or Deterioration?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-your-pcs-os-a-step-by-step-guide-to-finding-the-windows-11-build-version/"><u>Identifying Your PC's OS: A Step-by-Step Guide to Finding the Windows 11 Build Version</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-c53-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme C53 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/innovative-design-meets-classics-the-new-kindleoasis-readers-testimonials-2019/"><u>Innovative Design Meets Classics: The New #KindleOasis Readers' Testimonials (2019)</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagram-introduces-novel-monetizing-opportunities-for-creators/"><u>Instagram Introduces Novel Monetizing Opportunities for Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-googles-newest-innovation-bard-the-revolutionary-ai-set-to-challenge-chatgpt/"><u>Introducing Google's Newest Innovation: Bard, the Revolutionary AI Set to Challenge ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphone-windows-11-compatibility-fixing-the-itunes-error-54-for-seamless-device-syncs-after-upgrade/"><u>IPhone-Windows 11 Compatibility: Fixing the iTunes Error -54 for Seamless Device Syncs After Upgrade</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ken-burns-effect-in-final-cut-pro-a-comprehensive-guide-with-examples-and-tutorials/"><u>Ken Burns Effect in Final Cut Pro A Comprehensive Guide with Examples and Tutorials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-viewing-choice-leveraging-chatgpts-power/"><u>Next Viewing Choice: Leveraging ChatGPT's Power</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/optimal-budget-free-fb-picturemotion-designer-for-2024/"><u>Optimal Budget-Free FB Picture/Motion Designer for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-platform-unsupported-message-when-setting-up-intel-serial-io-drivers/"><u>Overcome 'Platform Unsupported' Message When Setting Up Intel Serial IO Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/overcoming-blackout-problems-for-a-clearer-youtube-experience-for-2024/"><u>Overcoming Blackout Problems for a Clearer YouTube Experience for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/printscreen-vs-snip-and-sketch-choosing-your-screen-capture-companion/"><u>PrintScreen Vs. Snip & Sketch: Choosing Your Screen Capture Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quickly-entering-safe-mode-on-windows-8-and-81-a-step-by-step-guide/"><u>Quickly Entering Safe Mode on Windows 8 and 8.1: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/recipe-renovation-with-a-digital-master-chef-chatgpt/"><u>Recipe Renovation with a Digital Master Chef (ChatGPT)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715701065703-recording-rivals-meet/"><u>Recording Rivals, Meet!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/reinstating-operational-right-click-on-windows-11-touchpad/"><u>Reinstating Operational Right Click on Windows 11 Touchpad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revamping-chatgpts-extensions-hub-four-key-improvements-awaited/"><u>Revamping ChatGPT's Extensions Hub: Four Key Improvements Awaited</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-internet-queries-the-rise-of-microsofts-smart-bing-feature/"><u>Revolutionizing Internet Queries: The Rise of Microsoft's Smart Bing Feature</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/e-extraction-converting-youtube-to-trusted-mp4/"><u>Secure Extraction  Converting YouTube to Trusted MP4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solve-your-windows-11-creators-update-woes-overcoming-download-stalls-and-silent-screens/"><u>Solve Your Windows 11 Creators Update Woes: Overcoming Download Stalls & Silent Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-disabling-quick-access-feature-on-windows-11/"><u>Step-by-Step Guide: Disabling Quick Access Feature on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-for-your-hp-envy-20-laptop/"><u>Step-by-Step Guide: Updating and Downloading Drivers for Your HP ENVY 20 Laptop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-running-command-prompt-with-administrator-rights-in-win10881/"><u>Step-by-Step Tutorial: Running Command Prompt with Administrator Rights in Win10/8/8.1</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-assembly-combining-hp-printer-model-with-computer/"><u>Technical Assembly: Combining HP Printer Model with Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dawn-of-truthgpt-and-the-scrutiny-over-mullvad-vpn-by-law-enforcement-your-comprehensive-list-to-top-free-pc-games-and-understanding-mechanical-keyboard20/"><u>The Dawn of TruthGPT and the Scrutiny over Mullvad VPN by Law Enforcement, Your Comprehensive List to Top FREE PC Games & Understanding Mechanical Keyboards Better</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-11-proplus-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme 11 Pro+ Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-innovative-dall-e-3-ai-art-creation-cues/"><u>Top 8 Innovative DALL-E 3 AI Art Creation Cues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Lava Blaze 2 5G | Dr.fone</u></a></li>
+</ul></div>

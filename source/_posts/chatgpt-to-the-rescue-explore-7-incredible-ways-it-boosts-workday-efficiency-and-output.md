@@ -1,0 +1,163 @@
+---
+title: ChatGPT to the Rescue! Explore 7 Incredible Ways It Boosts Workday Efficiency and Output
+date: 2024-08-29T01:53:13.455Z
+updated: 2024-08-30T01:53:13.455Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes ChatGPT to the Rescue! Explore 7 Incredible Ways It Boosts Workday Efficiency and Output
+excerpt: This Article Describes ChatGPT to the Rescue! Explore 7 Incredible Ways It Boosts Workday Efficiency and Output
+thumbnail: https://thmb.techidaily.com/85e56b9e358c23b80585afb471b917e8f13a81d967ff930da0e4fa72eadefc85.png
+---
+
+## Explore the Power of Artificial Creativity with Microsoft's Bing and DALL-E 3 for Free
+
+### Key Takeaways
+
+* Easily access and use DALL-E 3 for free with Microsoft Bing Chat or Bing Image Creator. No subscription fees or sign-up required.
+* DALL-E 3 offers improved accuracy, better photorealism, and more creative images. It's integrated into ChatGPT, providing a fresh way to interact with the image generator.
+* With DALL-E 3 on Bing, you can generate interesting AI images even with vague prompts. You can also refine and add new requests without restating the original description.
+
+ If you want to try DALL-E 3 but don't want to pay for a ChatGPT Plus subscription, there's an easy way around it. Microsoft Bing has a powerful DALL-E 3 integration, and right now, you can use it for free.
+
+## How to Access DALL-E 3 With Microsoft Bing
+
+![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
+
+ Bing is a search engine featuring an AI chat function and an AI Image Creator. Thanks to a partnership with OpenAI, Microsoft was the first company to integrate DALL-E 3 into its products. This means you can use DALL-E 3 for free using either of the features mentioned.
+
+1. Head to[Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) or the[Bing Image Creator](https://www.bing.com/create) to start generating images.
+2. Enter your question or prompt into the text box, then press enter on the keyboard. It will generate four image variations that you can choose from.
+3. If you're using Bing Chat, you can keep refining the image with follow-up questions. You don't need to restate your initial request either. Try a follow-up request like, "Can you redo the first image, this time using a more colorful palette?"
+4. To save an image, click on the one you like and press the**Download** button beneath the prompt.
+
+ There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
+
+## What Makes DALL-E 3 Special?
+
+![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
+
+ But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
+
+## How to Craft a Good DALLE-3 Prompt Using Bing
+
+ DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
+
+ Even when you type a vague description, your chances of generating an interesting image are still high. This is because DALL-E 3 interprets what you write and creates a prompt for you behind the scenes. What makes the system even more fun to use is the ability to keep adding more requests without having to restate the original description each time. This is quite a significant shift in how you can use DALL-E.
+
+ This is how it would pan out if we were[using the previous version of DALL-E](https://www.makeuseof.com/how-to-use-dall-e-2/) . We gave DALL-E 2 the following prompt: "What would New York City look like in 2100 if plants had taken over?"
+
+![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
+
+![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
+
+ Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
+
+![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
+
+ We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
+
+![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
+
+![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
+
+![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+## Limitations of DALL-E 3 and Bing
+
+ With no subscription fees or waitlist, you're probably wondering what the catch is.
+
+ If you're[using Bing Image Creator to create AI images](https://www.makeuseof.com/how-use-bing-image-creator-free/) , you are limited to 25 free "boost credits" that replenish each week. Boosts are used to generate an image within a timely manner—roughly 30 seconds—and when you run out, this can increase to 5 minutes.
+
+ Given that DALL-E 2 is no longer available for free, it's a small restriction in return for using DALL-E 3\. Plus, if you use Bing Chat, you won't be required to sign up.
+
+ Another change to DALL-E 3 is the increase in moderation and safety measures that some people might consider a limitation, such as "removing public figure names" from the prompt, as mentioned in the[DALL-E 3 research paper](https://cdn.openai.com/papers/DALL%5FE%5F3%5FSystem%5FCard.pdf) .
+
+ But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
+
+## Don't Wait to Try DALL-E 3; Access It Now With Bing
+
+ Head to Bing Chat to try DALL-E 3 for free. Each week, you get free boost credits that make it quick to generate an image. On top of that, you don't need to worry about engineering a prompt any longer, as DALL-E 3 can transform even the most vague request into an interesting AI-generated image.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elite-online-collection-of-video-downloader-tools/"><u>[New] In 2024, Elite Online Collection of Video Downloader Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-cutting-edge-game-recording-for-league-of-legends-lol-players/"><u>[Updated] 2024 Approved  Cutting-Edge Game Recording for League of Legends LoL Players</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-backward-movie-playback-on-iphones-for-2024/"><u>[Updated] Navigating Backward Movie Playback on iPhones for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-outstanding-10-screenshot-and-recording-titles-for-gamers-for-2024/"><u>[Updated] Outstanding 10 Screenshot and Recording Titles for Gamers for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-transforming-standard-tweets-into-hd-spectacles/"><u>[Updated] Transforming Standard Tweets Into HD Spectacles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-making-money-on-youtube-a-guide/"><u>2024 Approved  Making Money on YouTube  A Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-detection-systems-struggling-with-plagiarism-an-alarming-trend/"><u>AI Detection Systems Struggling with Plagiarism: An Alarming Trend</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolutionized-by-vector-data-structures/"><u>AI Revolutionized by Vector Data Structures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-skepticism-6-reasons-for-caution-in-absolute-beliefs/"><u>Artificial Intelligence Skepticism: 6 Reasons for Caution in Absolute Beliefs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-tool-for-managing-stress-a-comprehensive-guide/"><u>ChatGPT as a Tool for Managing Stress: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/choosing-the-perfect-surge-protector-for-your-gadgets/"><u>Choosing the Perfect Surge Protector for Your Gadgets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-mastery-using-chatgpt-9-essential-techniques-for-writers/"><u>Content Mastery Using ChatGPT: 9 Essential Techniques for Writers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>Earning Mastery  Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-and-local-set-up-gpt-4all-the-ai-chatbot-clone-of-chatgpt-on-windows-without-cost/"><u>Free & Local: Set Up GPT-4All, the AI Chatbot Clone of ChatGPT, on Windows Without Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-words-to-images-harnessing-the-power-of-dall-e-and-chatgpt-4-together/"><u>From Words to Images: Harnessing the Power of DALL-E and ChatGPT-4 Together</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-from-the-top-perspectives-of-10-worldwide-technology-visionaries-on-artificial-intelligence/"><u>Insights From the Top: Perspectives of 10 Worldwide Technology Visionaries on Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-outputs-with-onlyoffice-docspaces-innovative-use-of-chatgpt-for-efficiency/"><u>Maximize Your Outputs with ONLYOFFICE DocSpace's Innovative Use of ChatGPT for Efficiency</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/persuasion-mastery-writing-winning-proposals-with-chatgpt-assistance/"><u>Persuasion Mastery: Writing Winning Proposals with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/plan-on-the-go-leverage-these-seven-free-travel-planning-solutions-with-chatgpt-integration/"><u>Plan on the Go: Leverage These ^Seven^ FREE Travel Planning Solutions with ChatGPT Integration</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/secure-communication-made-easy-the-best-10-free-and-protected-video-conferencing-tools/"><u>Secure Communication Made Easy  The Best 10 Free and Protected Video Conferencing Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speeding-up-hr-processes-discover-5-cutting-edge-gpt-strategies-for-quick-wins/"><u>Speeding Up HR Processes: Discover 5 Cutting-Edge GPT Strategies for Quick Wins</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/staphylococcus-aureus/"><u>Staphylococcus Aureus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-completely-removing-your-presence-from-chatgpt/"><u>Step-by-Step Guide: Completely Removing Your Presence From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-life-applying-chatgpt-in-these-four-ways/"><u>Streamline Your Life: Applying ChatGPT in These Four Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/swift-solutions-to-overcome-streaming-problems-on-gpt/"><u>Swift Solutions to Overcome Streaming Problems on GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-is-now-with-microsoft-bing-and-its-revolutionary-ai-search-capabilities/"><u>The Future Is Now with Microsoft Bing and Its Revolutionary AI Search Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inside-scoop-on-twitters-latest-functionality-updates-and-linus-tech-tips-controversy/"><u>The Inside Scoop on Twitter's Latest Functionality Updates & Linus Tech Tips Controversy</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-insiders-guide-to-perfected-picture-hues/"><u>The Insider's Guide to Perfected Picture Hues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-intersection-of-gaming-giants-and-technology-advancamoes-in-microsofts-buyout-of-blizzard-podcast-highlight/"><u>The Intersection of Gaming Giants and Technology Advancamoes in Microsoft's Buyout of Blizzard [Podcast Highlight]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-behind-content-creation-how-companies-deploy-ai-tech/"><u>The Power Behind Content Creation: How Companies Deploy AI Tech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-techniques-for-optimal-steam-gameplay-capture/"><u>Top Techniques for Optimal Steam Gameplay Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-daily-routines-the-power-of-chatgpt-in-9-ways/"><u>Transform Daily Routines: The Power of ChatGPT in 9 Ways</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unlocking-creative-expression-with-simple-lenses-for-2024/"><u>Unlocking Creative Expression with Simple Lenses for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unveiling-the-best-screen-capture-videographers-of-2023/"><u>Unveiling the Best Screen Capture Videographers of 2023</u></a></li>
+</ul></div>

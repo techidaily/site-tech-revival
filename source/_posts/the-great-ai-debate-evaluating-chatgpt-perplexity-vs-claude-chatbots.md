@@ -1,7 +1,7 @@
 ---
 title: "The Great AI Debate: Evaluating ChatGPT, Perplexity, Vs. Claude Chatbots"
-date: 2024-08-27 13:31:50
-updated: 2024-08-29 10:56:28
+date: 2024-08-29T01:39:45.641Z
+updated: 2024-08-30T01:39:45.641Z
 tags:
   - cutting-edge
 categories:
@@ -49,6 +49,9 @@ Hannah Stryker / How-To Geek
 
  The Pro version gives you access to GPT-4 and Claude, too. It's important to note that there is no original Perplexity LLM. The platform uses preexisting LLMs, not its own.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ##  2\. Availability and Price
 
  ChatGPT is available in most countries worldwide, though it has been banned in North Korea, China, Iran, Cuba, Syria and Nepal. You can use ChatGPT for free, which gives you access to GPT-3.5, or you can use [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/). This premium version gives you access to OpenAI's latest LLM version, GPT-4, for $20 monthly.
@@ -57,10 +60,16 @@ Hannah Stryker / How-To Geek
 
  Perplexity is available in most countries worldwide, though it is not available in the EU. Perplexity's free version gives you access to GPT-3.5 and the Copilot search feature, while Perplexity Pro also gives you access to GPT-4 and Claude, and gives you more usage for Copilot, for $20 monthly or $200 annually.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  3\. Token Limits
 
 ![A person texting on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53216035228_58695ed0f7_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 Hannah Stryker / How-To Geek  
   
  On AI chatbot platforms, your input and output text is made up of tokens, which can be phrases, words, individual characters, segments of code, and more, depending on the LLM in use and its "tokenization" method. Since the number of tokens affects the computational costs for the platform, you typically have an input and output limit. These limits refer to the number of tokens the chatbot will process in your prompt and respond with in a single conversation, respectively.
@@ -83,6 +92,9 @@ Hannah Stryker / How-To Geek
 
  ChatGPT has shown that it can hallucinate in the past, as discussed in an [NCBI study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9939079/). Anthropic has also stated [on its own website](https://docs.anthropic.com/claude/docs/claude-is-hallucinating) that Claude can hallucinate. Therefore, whether you're using Claude or one of the GPT versions on Perplexity, it's important to remember that hallucination is possible.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  5\. Conversational Abilities
 
  LLMs are designed to interact with users in a human-like manner. This involves understanding context and nuance, keeping up with additional prompts or parameters, and responding with natural language. So, how do ChatGPT, Claude, and Perplexity measure up here?
@@ -95,6 +107,9 @@ Hannah Stryker / How-To Geek
 
 ![screenshot of chatgpt prompt response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-response-job.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
  ChatGPT gave a longer response with more bullet points and information. The language was very conversational and natural.
 
  Here are the results from Claude:
@@ -125,12 +140,18 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Claude chabot response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-calendar-response.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Claude gave a slightly longer code excerpt that provided the same result when tested.
 
  Here's Perplexity's response:
 
 ![Screenshot of Perplexity.ai prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-calendar-response.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Perplexity also provided a code excerpt that worked successfully when tested, again giving the same result.
 
 ###  Mathematics
@@ -153,10 +174,16 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Perplexity's response to algebraic equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-math-response.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
  Perplexity also gave the correct answer, as well as the solution process.
 
  It's important to note that no AI chatbot should be totally trusted with math equations, as they do have room for error. Check out our piece on [why you shouldn't use ChatGPT for mathematics](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/) to learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ##  Choosing an AI Chatbot Can Be Challenging
 
  There are so many AI chatbot platforms out there today that it can be difficult to choose the best one for you. In the end, selecting the right chatbot comes down to your budget, intended use, and location. Consider the factors above if you're trying to choose between ChatGPT, Claude, and Perplexity.
@@ -175,3 +202,70 @@ Hannah Stryker / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-xbox-x-screens-find-your-perfect-match-now/"><u>[New] 2024 Approved  Essential Xbox X Screens  Find Your Perfect Match Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-laptop-editing-avoiding-inshot-dependence/"><u>[New] Laptop Editing  Avoiding Inshot Dependence</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-blurring-the-focus-bokeh-wonders-in-stories/"><u>[Updated] Blurring the Focus  Bokeh Wonders in Stories</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-how-to-get-more-engagement-on-fb-video-content/"><u>[Updated] How to Get More Engagement on FB Video Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-oppo-a79-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Oppo A79 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-detection-systems-struggling-with-plagiarism-an-alarming-trend/"><u>AI Detection Systems Struggling with Plagiarism: An Alarming Trend</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolutionized-by-vector-data-structures/"><u>AI Revolutionized by Vector Data Structures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-skepticism-6-reasons-for-caution-in-absolute-beliefs/"><u>Artificial Intelligence Skepticism: 6 Reasons for Caution in Absolute Beliefs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-tool-for-managing-stress-a-comprehensive-guide/"><u>ChatGPT as a Tool for Managing Stress: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-mastery-using-chatgpt-9-essential-techniques-for-writers/"><u>Content Mastery Using ChatGPT: 9 Essential Techniques for Writers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-5-ai-powered-scripters-that-spark-imagination-in-writing/"><u>Discover 5 AI-Powered Scripters That Spark Imagination in Writing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-5-ai-tool-assisted-prompt-engineering-applications/"><u>Discover the Ultimate 5 AI Tool Assisted Prompt Engineering Applications</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-latest-geforce-rtx-3070-ti-drivers-for-win-10-8-and-7-systems-official-nvidia-release/"><u>Download Latest GeForce RTX 3070 Ti Drivers for Win 10, 8 & 7 Systems - Official NVIDIA Release</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excels-visualization-brilliance-chatgpt-counterpart-lacks-this/"><u>Excel's Visualization Brilliance: ChatGPT Counterpart Lacks This</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-and-local-set-up-gpt-4all-the-ai-chatbot-clone-of-chatgpt-on-windows-without-cost/"><u>Free & Local: Set Up GPT-4All, the AI Chatbot Clone of ChatGPT, on Windows Without Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-words-to-images-harnessing-the-power-of-dall-e-and-chatgpt-4-together/"><u>From Words to Images: Harnessing the Power of DALL-E and ChatGPT-4 Together</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-back-to-binge-watching-solved-issues-of-netflix-not-playing-properly-on-xbox/"><u>Get Back to Binge-Watching: Solved Issues of Netflix Not Playing Properly on Xbox</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-xiaomi-redmi-note-12-pro-4g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Xiaomi Redmi Note 12 Pro 4G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-note-12-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Xiaomi Redmi Note 12 Pro 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-a-non-syncing-gmail-account-a-comprehensive-guide/"><u>How to Fix a Non-Syncing Gmail Account: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/how-to-select-and-download-the-right-audio-for-your-video-for-2024/"><u>How to Select and Download the Right Audio for Your Video for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/humor-by-algorithm-assessing-chatgpts-ability-to-deliver-a-punchline/"><u>Humor by Algorithm: Assessing ChatGPT's Ability to Deliver a Punchline</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/impatient-for-a-direct-chat-with-chatgpt-on-your-computer-heres-why-you-shouldnt-overlook-open-source-substitutes/"><u>Impatient for a Direct Chat with ChatGPT on Your Computer? Here's Why You Shouldn’t Overlook Open Source Substitutes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-advanced-color-grading-strategies-using-luts-for-professional-videos-in-obs/"><u>In 2024, Advanced Color Grading Strategies Using LUTs for Professional Videos in OBS</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-crafting-captivating-youtube-thumbnails-on-smartphones/"><u>In 2024, Crafting Captivating YouTube Thumbnails on Smartphones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-infinix-smart-7-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Infinix Smart 7 Device SIM</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-monetizing-mastery-in-your-mind-the-no-ad-youtube-money-manual/"><u>In 2024, Monetizing Mastery in Your Mind  The No-Ad YouTube Money Manual</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlining-your-viewing-experience-6-effective-mac-strategies-for-netflix-screenshots/"><u>In 2024, Streamlining Your Viewing Experience  6 Effective Mac Strategies for Netflix Screenshots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-from-the-top-perspectives-of-10-worldwide-technology-visionaries-on-artificial-intelligence/"><u>Insights From the Top: Perspectives of 10 Worldwide Technology Visionaries on Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-outputs-with-onlyoffice-docspaces-innovative-use-of-chatgpt-for-efficiency/"><u>Maximize Your Outputs with ONLYOFFICE DocSpace's Innovative Use of ChatGPT for Efficiency</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/navigating-facebooks-terms-of-service-for-media-sharing-for-2024/"><u>Navigating Facebook's Terms of Service for Media Sharing for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-premiere-elements-not-cutting-it-discover-these-10-alternative-video-editors/"><u>New Premiere Elements Not Cutting It? Discover These 10 Alternative Video Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-chatbot-confusions-learn-these-6-techniques-for-accurate-ai-interpretations-through-skillful-prompt-design/"><u>Overcome Chatbot Confusions - Learn These 6 Techniques for Accurate AI Interpretations Through Skillful Prompt Design</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/persuasion-mastery-writing-winning-proposals-with-chatgpt-assistance/"><u>Persuasion Mastery: Writing Winning Proposals with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/plan-on-the-go-leverage-these-seven-free-travel-planning-solutions-with-chatgpt-integration/"><u>Plan on the Go: Leverage These ^Seven^ FREE Travel Planning Solutions with ChatGPT Integration</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/resolved-access-newly-patched-and-updated-wireless-network-adapter-drivers-for-seamless-internet-experience/"><u>Resolved! Access Newly Patched and Updated Wireless Network Adapter Drivers for Seamless Internet Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-excessive-cpu-consumption-in-phasmophobia-a-step-by-step-guide/"><u>Resolving Excessive CPU Consumption in Phasmophobia: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/seamless-incorporation-of-virtual-boards-in-web-conferencing-mobiledesktop-methods-for-2024/"><u>Seamless Incorporation of Virtual Boards in Web Conferencing  Mobile/Desktop Methods for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seeking-honesty-in-chatgpts-responses/"><u>Seeking Honesty in ChatGPT's Responses</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simplifying-chatgpt-interaction/"><u>Simplifying ChatGPT Interaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speeding-up-hr-processes-discover-5-cutting-edge-gpt-strategies-for-quick-wins/"><u>Speeding Up HR Processes: Discover 5 Cutting-Edge GPT Strategies for Quick Wins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-completely-removing-your-presence-from-chatgpt/"><u>Step-by-Step Guide: Completely Removing Your Presence From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-life-applying-chatgpt-in-these-four-ways/"><u>Streamline Your Life: Applying ChatGPT in These Four Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-office-work-a-guide-to-using-chatgpt-for-auto-generating-microsoft-word-documents/"><u>Streamlining Office Work: A Guide to Using ChatGPT for Auto-Generating Microsoft Word Documents</u></a></li>
+<li><a href="https://fox-that.techidaily.com/streamlining-photo-collections-a-guide-to-combining-identical-images-on-iphone-or-macos/"><u>Streamlining Photo Collections: A Guide to Combining Identical Images on iPhone or MacOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/swift-solutions-to-overcome-streaming-problems-on-gpt/"><u>Swift Solutions to Overcome Streaming Problems on GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-is-now-with-microsoft-bing-and-its-revolutionary-ai-search-capabilities/"><u>The Future Is Now with Microsoft Bing and Its Revolutionary AI Search Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inside-scoop-on-twitters-latest-functionality-updates-and-linus-tech-tips-controversy/"><u>The Inside Scoop on Twitter's Latest Functionality Updates & Linus Tech Tips Controversy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-intersection-of-gaming-giants-and-technology-advancamoes-in-microsofts-buyout-of-blizzard-podcast-highlight/"><u>The Intersection of Gaming Giants and Technology Advancamoes in Microsoft's Buyout of Blizzard [Podcast Highlight]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-poets-tool-leveraging-chatgpt-in-verses-writing/"><u>The Poet's Tool: Leveraging ChatGPT in Verses Writing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-behind-content-creation-how-companies-deploy-ai-tech/"><u>The Power Behind Content Creation: How Companies Deploy AI Tech</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-spotify-marketing-manual-strategies-and-tactics-for-2024/"><u>The Ultimate Spotify Marketing Manual  Strategies and Tactics for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-pitfalls-in-leveraging-chatgpt-for-crafting-your-content/"><u>Top 4 Pitfalls in Leveraging ChatGPT for Crafting Your Content</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-infinix-hot-40i-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Infinix Hot 40i Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-daily-routines-the-power-of-chatgpt-in-9-ways/"><u>Transform Daily Routines: The Power of ChatGPT in 9 Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trouble-with-chatgpt-5-effective-tactics-to-verify-its-up-and-running/"><u>Trouble with ChatGPT? 5 Effective Tactics to Verify It's Up and Running</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-black-boxes-an-insight-into-their-functioning/"><u>Understanding AI Black Boxes: An Insight Into Their Functioning</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-immutable-chatgpt-principle/"><u>Understanding the Immutable ChatGPT Principle</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-inspiration-exploring-the-top-5-ai-text-generators-for-writers/"><u>Unleash Inspiration: Exploring the Top 5 AI Text Generators for Writers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/win11s-disk-space-anomalies-troubleshooting-guide/"><u>Win11's Disk Space Anomalies - Troubleshooting Guide</u></a></li>
+</ul></div>

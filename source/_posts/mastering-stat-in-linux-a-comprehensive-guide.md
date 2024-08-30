@@ -1,7 +1,7 @@
 ---
 title: "Mastering 'Stat' In Linux: A Comprehensive Guide"
-date: 2024-08-27 12:21:47
-updated: 2024-08-29 11:25:13
+date: 2024-08-29T01:36:03.364Z
+updated: 2024-08-30T01:36:03.364Z
 tags:
   - desktop
 categories:
@@ -43,6 +43,9 @@ ls -lh ana.h
 
 ![ls -lh ana.h in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/7-4.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  From left to right, the information that ls provides is:
 
 * The very first character is a hyphen "-" and this tells us the file is a regular file and not a socket, symlink, or another type of object.
@@ -60,6 +63,10 @@ stat ana.h
 
 ![stat ana.h in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/10-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
  The information we get from `stat` is:
 
 * **File**: The name of the file. Usually, it is the same as the name we passed to `stat` on the command line, but It can be different if we're looking at a symbolic link.
@@ -78,6 +85,9 @@ stat ana.h
 * **Change**: The change timestamp. This is the time the file's attributes or contents were last changed. If you modify a file by setting new file permissions, the change timestamp will be updated (because the file attributes have changed), but the modified timestamp will not be updated (because the file contents were not changed).
 * **Birth**: Reserved to show the original creation date of the file, but this is not implemented in Linux.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Understanding the Timestamps
 
  The timestamps are timezone sensitive. The `-0500` at the end of each line shows that this file was created on a computer in a [Coordinated Universal Time](https://en.wikipedia.org/wiki/Coordinated%5FUniversal%5FTime) (UTC) timezone that is five hours ahead of the timezone of the current computer. So this computer is five hours behind the computer that created this file. In fact, the file was created on a UK timezone computer, and we're looking at it here on a computer in the US Eastern Standard time zone.
@@ -94,6 +104,9 @@ stat ana.c
 
 ![chnod +w ana.c in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/9-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  The change timestamp has been updated, but the modified one has not.
 
  The modified timestamp will only be updated if the contents of the file are changed. The change timestamp is updated for both content changes and attribute changes.
@@ -112,6 +125,10 @@ stat ana.?
 
 ![stat ana.? in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/3-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ##  Using stat to Report on Filesystems
 
 `stat` can report on the status of filesystems, as well as the status of files. The `-f` (filesystem) option tells `stat` to report on the filesystem that the file resides on. Note we can also pass a directory such as "/" to `stat` instead of a filename.
@@ -120,6 +137,9 @@ stat -f ana.c
 
 ![stat -f ana.c ina terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/4-3.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
  The information `stat` gives us is:
 
 * **File**: The name of the file.
@@ -140,6 +160,9 @@ stat -f ana.c
 * **Total**: The total count of inodes in the filesystem.
 * **Free**: The number of free inodes in the filesystem.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Dereferencing Symbolic Links
 
  If you use `stat` on a file that is actually a symbolic link, it will report on the link. If you wanted `stat` to report on the file that the link points to, use the `-L` (dereference) option. The file `code.c` is a symbolic link to `ana.c` . Let's look at it without the `-L` option:
@@ -156,8 +179,14 @@ stat -L code.c
 
 ![stat -L code.c  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/11-1.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  This is now showing the file details for the file pointed to by the symbolic link. But note that the filename is still given as `code.c`. This is the name of the link, not the target file. This happens because this is the name we passed to `stat` on the command line.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  The Terse Report
 
  The `-t` (terse) option causes `stat` to provide a condensed summary:
@@ -261,3 +290,45 @@ stat --printf="File %n is %s bytes, and is a %F\n" code.c ana/ana.?
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-transform-your-content-expert-tips-for-bokeh-on-social-media/"><u>[New] Transform Your Content  Expert Tips for Bokeh on Social Media</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-laying-foundations-for-fresh-content-first-timers-youtube-video-guide-mac-edition/"><u>[Updated] Laying Foundations for Fresh Content  First-Timer's Youtube Video Guide, Mac Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-memetic-magic-unlock-with-kapwing-creator/"><u>[Updated] Memetic Magic – Unlock with Kapwing Creator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beginner-friendly-artificial-intelligence-tools-the-ultimate-guide/"><u>Beginner-Friendly Artificial Intelligence Tools: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-the-ai-breakthroughs-demonstrated-by-apple-at-wwdc-2024/"><u>Comprehensive Guide to the AI Breakthroughs Demonstrated by Apple at WWDC 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/discover-instagrams-free-filter-options-with-smart-searching-techniques/"><u>Discover Instagram's FREE Filter Options with Smart Searching Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/facing-chatgpt-body-stream-issue-here-are-seven-effective-fixes-to-try-out/"><u>Facing ChatGPT Body Stream Issue? Here Are Seven Effective Fixes to Try Out</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-premium-to-free-how-gpt-4-opens-new-avenues-and-the-persistent-appeal-of-chatgpt-plus/"><u>From Premium to Free: How GPT-4 Opens New Avenues & The Persistent Appeal of ChatGPT Plus</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/guaranteeing-your-stream-uninterrupted-by-ads-on-fb-for-2024/"><u>Guaranteeing Your Stream Uninterrupted by Ads on FB for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-might-innovations-in-ai-such-as-chatgpt-challenge-existing-search-engine-hierarchies/"><u>How Might Innovations in AI, Such as ChatGPT, Challenge Existing Search Engine Hierarchies?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-choose-the-best-pc-build-for-gamers-important-considerations-and-options/"><u>How to Choose the Best PC Build for Gamers: Important Considerations and Options</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-apple-iphone-11-pro-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The Apple iPhone 11 Pro SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-meizu-21-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Meizu 21 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-arm-support-now-live-upgrade-your-filmora-x-experience/"><u>In 2024, ARM Support Now Live Upgrade Your Filmora X Experience</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-evolved-suite-of-windows-media-editors/"><u>In 2024, Evolved Suite of Windows Media Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/let-chatgpt-be-your-movie-and-show-guide-discover-what-to-watch-next/"><u>Let ChatGPT Be Your Movie and Show Guide: Discover What to Watch Next</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-stress-relief-a-guide-on-using-chatgpt-effectively/"><u>Mastering Stress Relief: A Guide on Using ChatGPT Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-top-10-ways-to-utilize-chatgpt-in-vs-code/"><u>Maximizing Productivity: Top 10 Ways to Utilize ChatGPT in VS Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-multilingual-conversations-tips-for-leveraging-chatgpts-language-abilities/"><u>Navigating Multilingual Conversations: Tips for Leveraging ChatGPT's Language Abilities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-video-chats-zooming-in-on-xbox/"><u>Navigating Video Chats  Zooming In on Xbox</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-iphone-hdr-photos-made-easy/"><u>Pro iPhone HDR Photos Made Easy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pushing-boundaries-beyond-the-original-turing-test/"><u>Pushing Boundaries: Beyond the Original Turing Test</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/reviewing-the-core-of-magix-photo-framework/"><u>Reviewing the Core of MAGIX Photo Framework</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-dall-e-3-exploring-the-latest-edit-tools-with-room-for-perfection/"><u>The Evolution of DALL-E 3: Exploring the Latest Edit Tools with Room for Perfection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-fundamentals-of-generative-ai-demystified/"><u>The Fundamentals of Generative AI Demystified</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-reasons-behind-sarah-silverman-joining-legal-battles-againnst-meta-and-openai/"><u>The Reasons Behind Sarah Silverman Joining Legal Battles Againnst Meta & OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-synergy-of-canva-and-gpt-for-design-freedom/"><u>The Synergy of Canva and GPT for Design Freedom</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-buying-and-using-tech-hardware-by-tomtech/"><u>The Ultimate Guide to Buying and Using Tech Hardware by TomTech</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-y56-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-substitutes-for-chatgpt-enhance-your-ai-conversations/"><u>Top 10 Substitutes for ChatGPT: Enhance Your AI Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-pdf-tasks-with-the-best-ai-tools-available/"><u>Transform Your PDF Tasks with the Best AI Tools Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpts-safety-measures/"><u>Understanding ChatGPT's Safety Measures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gpt-4-all-exploring-its-functionality/"><u>Understanding GPT-4 All: Exploring Its Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-with-usechamgext-gpt-copilot-a-comprehensive-guide/"><u>Unlocking Potential with UseChamgext GPT Copilot: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-dialogue-potential-the-threefold-use-of-chatgpt-wolfram-plugin/"><u>Unraveling Dialogue Potential: The Threefold Use of ChatGPT-Wolfram Plugin</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-6-ai-applications-in-note-taking-excellence/"><u>Unveiling the Top 6 AI Applications in Note-Taking Excellence</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-microsoft-video-editor-easily-edit-videos-in-windows-1087/"><u>Updated In 2024, Microsoft Video Editor Easily Edit Videos in Windows 10/8/7</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-whats-hot-the-best-ipad-video-editors-you-need-to-know/"><u>Updated In 2024, Whats Hot The Best iPad Video Editors You Need to Know</u></a></li>
+</ul></div>
