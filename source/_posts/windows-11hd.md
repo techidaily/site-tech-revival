@@ -1,7 +1,7 @@
 ---
 title: "無料で動画ファイルサイズを縮小する: Windows 11の手びねり・最新HDコンバート術"
-date: 2024-08-30 11:12:20
-updated: 2024-09-02 10:51:46
+date: 2024-09-01T19:06:19.144Z
+updated: 2024-09-02T19:06:19.144Z
 categories:
   - winxdvd
 thumbnail: https://thmb.techidaily.com/20a1161c2d60e760a9d2866e0269161f0abce5bf45e09881a1912be2c7963695.jpg
@@ -44,6 +44,12 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ## 2024 Best Ways to Freely Rip DVDs to MKV on Windows 10/11 & Mac
 
 | Pros                       | Cons                                                                                                                 | More Info                                                                             |                                                          |
@@ -58,6 +64,9 @@ Note: You can also rip copy-protected DVDs to MP4, MOV, AVI, WMV, 3GP, FLV, and 
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a11.png)1\. Ripping DVD will Remove DVD Copy Protections** 
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Similar to Blu-ray, DVD disc is also equipped with a variety of protections to prevent DVD content from illegal use. The most popular encryption techs include CSS encryption, Sony ARccOS encryption, RCE Region protection, Disney X-project DRM, region code etc. DVD rippers can bypass DVD copy protections and deliver a DRM-free file. But sometimes you may encounter errors while working with [DVD ripping freeware](https://tools.techidaily.com/winxdvd/products/) like MakeMKV, HandBrake and Freemake Video Converter. 
 
 **![](https://www.winxdvd.com/resource/../seo-img/general-img/a10.png)2\. DVD to MKV Backup can Reserves All DVD Content** 
@@ -79,6 +88,9 @@ Since MKV supports any type of video/audio tracks and subtitles inside, and is q
 
 [![](https://www.winxdvd.com/resource/../seoimg/win.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [![](https://www.winxdvd.com/resource/../seoimg/mac.png) Free Download](https://tools.techidaily.com/winxdvd/products/) [Free Download](https://tools.techidaily.com/winxdvd/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After downloading and installing the DVD to MKV ripper, follow the steps below to rip DVD to MKV on Mac.
 
 **Step 1\. Add the Source DVD** 
@@ -95,6 +107,9 @@ After the DVD content is fully imported, the ripper will bypass copy protection 
 
 ![Rip DVD to MKV without losing quality](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/dvd-to-mkv-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3\. Edit the MKV video (optional)**
 
  Click the Edit button, and then you'll be able to trim, crop, expand, and add external subtitle. For example, if the subtitles in the language you want is missing, you can click Subtitle> Enable subtitle > External subtitle file > "Add" to [add an external .srt file to DVD video](https://tools.techidaily.com/winxdvd/products/). 
@@ -121,10 +136,16 @@ Now let's download MakeMKV and learn how to convert DVD to MKV with MakeMKV.
 
 ![Extract DVD to MKV with MakeMKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/makemkv-open-dvd.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 **Step 2.** Select the titles, audios, and subtitles you want to preserve.
 
 ![Rip DVD to MKV with MakeMKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/makemkv-select-titles-audios-subtitles.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 **Step 3.** Specify an output folder to store the resulting MKV file.
 
 **Step 4.** Hit Make MKV button to begin ripping DVD to MKV. 
@@ -173,12 +194,18 @@ Now let's learn how to rip DVDs to MKV usingi VLC?
 
 ![VLC protected DVD to MKV](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/rip-chapters-off-dvd-vlc.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 3.** Click the Convert/Save button and then you'll need to select the output profile. Open the Profile dropdown menu and check if there is an MKV profile. By default, VLC will choose to rip DVDs to "Video - H.264 + MP3 (MP4)". If there is no MKV option, click the gear button next to it and under Encapsulation, choose MKV and save it. 
 
 **Step 4.** Choose an output destination folder and then click Start. VLC will then begin ripping DVDs to MKV. 
 
 ![Rip DVD to MKV with VLC](https://www.winxdvd.com/resource/../seo-img/rip-dvd-mp4/vlc-output.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6\. How to Rip DVD to MKV with Movavi Video Converter
 
 Movavi Video Converter is a versatile video converter which has the function to rip a DVD into MKV and various other formats. As a video converter, there are many tools to compress the video, adjust colors, insert effects, enhance the video quality, and more. You can rely on its reliable ripping performance. However, this DVD to MKV ripper doesn't support copy protections. And it you need to rip an unprotected DVD to MKV, there are many free alternatives. 
@@ -195,6 +222,12 @@ Now let's learn how to rip DVDs to MKV usingi Movavi Video Converter?
 
 ![rip DVDs to MKV Movavi](https://www.winxdvd.com/resource/../seo-img/dvd-ripper/movavi-700.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## In Conclusion
 
 DVD to MKV converters play a valuable role in the digital transformation of physical media. These converters provide users with a convenient and efficient way to convert DVD content into the widely supported MKV format, preserving both video and audio quality. The flexibility offered by MKV, including support for multiple audio and subtitle tracks, makes it a popular choice for users looking to create digital backups or enjoy their DVD content on various devices. Let's select the best fit DVD to MKV converter and start converting DVD to MKV right now!
@@ -204,7 +237,14 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
 * [6 Ways to Convert DVD to MP4 on Mac for Free](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Top 10 Free DVD Players for Windows 10/11](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
 * [Best Preset Settings for HandBrake DVD to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 * [\[2024\] How to Free Convert DVD Video\_TS to MP4](https://tools.techidaily.com/winxdvd/products/) ![](https://www.winxdvd.com/resource/../seoimg/icon1.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -220,3 +260,45 @@ DVD to MKV converters play a valuable role in the digital transformation of phys
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/fixed-overcome-constant-freezing-errors-while-playing-ghostwire-tokyo-for-pc-users/"><u>[Fixed] Overcome Constant Freezing Errors While Playing Ghostwire: Tokyo for PC Users!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-compreayers-must-have-top-10-free-passport-photo-tools/"><u>[New] A Compreayer's Must-Have  Top 10 Free Passport Photo Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-roadmap-for-success-mastering-the-art-of-fb-reel-production-for-2024/"><u>[New] The Roadmap for Success  Mastering the Art of FB Reel Production for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discovering-costless-software-for-streaming-sessions/"><u>[Updated] 2024 Approved  Discovering Costless Software for Streaming Sessions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-foundational-methods-to-improve-color-balance/"><u>[Updated] Foundational Methods to Improve Color Balance</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-friendly-vr-best-multiplayer-metaverse-delights/"><u>[Updated] Friendly VR  Best Multiplayer Metaverse Delights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices/"><u>[Updated] Red Carpet Rollouts  Top Picks for iPhone Filmmakers' Choices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-monetary-impact-of-mr-beast-for-2024/"><u>[Updated] The Monetary Impact of Mr. Beast for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-ending-echoes-reconnecting-audio-to-obs/"><u>2024 Approved  Ending Echoes  Reconnecting Audio to OBS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-exclusive-compilation-of-top-10-budget-friendly-photo-savers/"><u>2024 Approved  Exclusive Compilation of Top 10 Budget-Friendly Photo Savers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-content-generation-what-can-you-do-if-your-job-is-now-considered-automated/"><u>AI Content Generation: What Can You Do If Your Job Is Now Considered Automated?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-the-gap-comprehensive-steps-for-enabling-facetime-on-windows-systems/"><u>Bridging the Gap: Comprehensive Steps for Enabling FaceTime on Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-capturing-high-quality-audio-on-your-windows-11-pc/"><u>Complete Tutorial: Capturing High-Quality Audio on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/curiosity-unveiled-why-did-opera-introduce-a-browser-with-built-in-crypto-support/"><u>Curiosity Unveiled: Why Did Opera Introduce a Browser with Built-In Crypto Support?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/daily-bing-photography-for-windows-1er-theme-backdrop-tutorial/"><u>Daily Bing Photography for Windows 1Er Theme Backdrop Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-multitasking-organizing-your-workspace-with-cascaded-windows-on-windows-10/"><u>Effortless Multitasking: Organizing Your Workspace with Cascaded Windows on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/electric-dreams-on-budget-the-rivian-r2-suv-balances-affordability-with-electrifying-performance/"><u>Electric Dreams on Budget: The Rivian R2 SUV Balances Affordability with Electrifying Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-productivity-how-microsoft-copilot-revolutionizes-writing-with-smart-suggestions/"><u>Enhancing Productivity: How Microsoft Copilot Revolutionizes Writing with Smart Suggestions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-timeless-tunes-anew-through-siriusxms-infinite-music-service/"><u>Experience Timeless Tunes Anew Through SiriusXM's Infinite Music Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-evaluation-of-the-plugable-usb-c-dual-hdmi-docking-hub-essential-perks-for-pc-enthusiasts/"><u>Expert Evaluation of the Plugable USB-C Dual HDMI Docking Hub: Essential Perks for PC Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-future-of-vr-with-metas-upcoming-october-headset-launch/"><u>Explore the Future of VR with Meta's Upcoming October Headset Launch</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-decoding-the-top-5-transformative-social-updates/"><u>In 2024, Decoding the Top 5 Transformative Social Updates</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-step-by-step-guide-to-stunning-tiktok-beginnings-on-a-mac/"><u>In 2024, Step by Step Guide to Stunning TikTok Beginnings on a Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/longevity-of-tesla-power-units-exploring-battery-life-span/"><u>Longevity of Tesla Power Units: Exploring Battery Life Span</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-windows-11-a-comprehensive-walkthrough-of-application-updates/"><u>Mastering Windows 11: A Comprehensive Walkthrough of Application Updates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-d-link-pl-2000-a-hassle-free-setup-for-fast-and-stable-home-networking/"><u>Review of the D-Link PL 2000: A Hassle-Free Setup for Fast & Stable Home Networking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/review-of-the-jeep-grand-cherokee-4xe-exploring-its-ev-capabilities/"><u>Review of the Jeep Grand Cherokee 4Xe: Exploring Its EV Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/save-big-get-20-off-acronis-true-image-promo-codes-inside/"><u>Save Big: Get 20%% Off Acronis True Image - Promo Codes Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/security-breach-how-windows-updates-can-get-compromised-and-negate-protection-measures/"><u>Security Breach: How Windows Updates Can Get Compromised and Negate Protection Measures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-mastering-audio-recording-with-windows-11/"><u>Step-by-Step Guide: Mastering Audio Recording with Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-python-on-your-pc/"><u>Step-by-Step Guide: Setting Up Python on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-achieving-the-windows-10-aesthetic-in-windows-11-environment/"><u>Step-by-Step Tutorial on Achieving the Windows 10 Aesthetic in Windows 11 Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-legacy-of-ms-dos-40-from-1988-lives-on-as-open-source-software/"><u>The Legacy of MS-DOS 4.0 From 1988 Lives On as Open Source Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-for-burning-iso-images-onto-your-computer-windows-7-8-and-10/"><u>Ultimate Tutorial for Burning ISO Images Onto Your Computer (Windows 7, 8 & 10)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unbeatable-tech-bargains-shop-now-jbl-bar-700-headphones-fire-tablets-by-amazon-and-smart-video-doorbells/"><u>Unbeatable Tech Bargains - Shop Now JBL Bar 700 Headphones, Fire Tablets by Amazon & Smart Video Doorbells</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-new-productivity-microsoft-excels-latest-copilot-feature/"><u>Unleashing New Productivity: Microsoft Excel's Latest Copilot Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-microsoft-copilot-for-your-on-the-go-productivity-enhanced-support-in-mobile-word-powerpoint-and-excel-with-a-few-caveats/"><u>Unveiling Microsoft Copilot for Your On-the-Go Productivity: Enhanced Support in Mobile Word, PowerPoint, and Excel With a Few Caveats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-11-microsoft-enhances-file-sharing-features/"><u>Windows 11: Microsoft Enhances File Sharing Features</u></a></li>
+</ul></div>
