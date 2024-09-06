@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Versatility of NVIDIA’s AI Foundations: A User-Friendly Guide"
-date: 2024-09-01T19:28:01.026Z
-updated: 2024-09-02T19:28:01.026Z
+date: 2024-09-05T12:43:51.410Z
+updated: 2024-09-06T12:43:51.410Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,30 @@ excerpt: "This Article Describes Exploring the Versatility of NVIDIA’s AI Foun
 thumbnail: https://thmb.techidaily.com/c0239e66f547ea79139f20753e94bc761ce1a69ab941c719cf263cbdc3c5a7f2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Understanding Security Implications of Engaging with ChatGPT Technology
 
  In January 2023, just two months after launch, ChatGPT (Generative Pre-trained Transformer) became the fastest-growing application of all time, amassing more than 100 million users.
 
  OpenAI's advanced chatbot may have reinvigorated the public's interest in artificial intelligence, but few have seriously contemplated the potential security risks associated with this product.
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT: Security Threats and Issues
 
  The technology underpinning ChatGPT and other chatbots may be similar, but ChatGPT is in a category of its own. This is great news if you intend to use it as a kind of personal assistant, but worrying if you consider that threat actors also use it.
@@ -29,10 +47,22 @@ thumbnail: https://thmb.techidaily.com/c0239e66f547ea79139f20753e94bc761ce1a69ab
 
  This just underscores how important it is to[limit what you share with ChatGPT](https://www.makeuseof.com/shouldnt-trust-chatgpt-confidential-data/) , which collects a staggering amount of data by default. Tech behemoth Samsung learned this the hard way, when a group of employees who had been using the chatbot as an assistant accidentally leaked confidential information to it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Is ChatGPT a Threat to Your Privacy?
 
 ![ChatGPT logo on green background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-threat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Security and privacy are not one and the same](https://www.makeuseof.com/privacy-anonymity-security-mean/) , but they are closely related and often intersect. If ChatGPT is a security threat, then it is also a threat to privacy, and vice versa. But what does this mean in more practical terms? What are ChatGPT's security and privacy policies like?
 
  Billions of words were scraped from the internet to create ChatGPT's vast database. This database is in a continual state of expansion, since ChatGPT stores whatever users share. The US-based non-profit[Common Sense](https://privacy.commonsense.org/evaluation/ChatGPT) gave ChatGPT a privacy evaluation score of 61 percent, noting that the chatbot collects Personally Identifiable Information (PII), and other sensitive data. Most of this data is stored, or shared with certain third-parties.
@@ -40,16 +70,10 @@ thumbnail: https://thmb.techidaily.com/c0239e66f547ea79139f20753e94bc761ce1a69ab
  In any case, you should be careful when using ChatGPT, especially[if you use it for work](https://www.makeuseof.com/things-you-can-do-with-chatgpt) , or to process sensitive information. As a general rule of thumb, you should not share with the bot what you wouldn't like the public to know.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Addressing the Security Risks Associated With ChatGPT
 
@@ -60,7 +84,10 @@ thumbnail: https://thmb.techidaily.com/c0239e66f547ea79139f20753e94bc761ce1a69ab
  This will radically transform security as we know it. But as Malwarebytes also noted, ChatGPT and similar tools can be used by cybersecurity professionals as well; for example to look for bugs in software, or "suspicious patterns" in network activity.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Raising Awareness Is Key
 

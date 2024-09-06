@@ -1,7 +1,7 @@
 ---
 title: "AI's Influence on Software Development: Changing the Coding Landscape"
-date: 2024-09-01T19:21:04.079Z
-updated: 2024-09-02T19:21:04.079Z
+date: 2024-09-05T12:43:56.668Z
+updated: 2024-09-06T12:43:56.668Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  Although this feat signifies a technological milestone, it also blurs the line between reality and fantasy. AI images, text, and videos manufacture digital content that overshadows authentic experiences. Here are the ways AI creates an illusion of reality.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Some Treat AI-Generated Personas as Real People
 
 ![AI-Generated Virtual Girlfriend With Asian Features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-girl-virtual-gf.jpg)
@@ -29,6 +35,12 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
  Ironically, AI girlfriend and boyfriend apps worsen social isolation by perpetuating toxic beliefs about interpersonal relationships. Users want partners who’ll live up to their made-up AI personas. Some would even go as far as to marry their AI-generated companions and give up on human relationships altogether.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Chatbots Provide Fake Emotional Support
 
  It’s common to use generative AI chatbots for psychotherapy. AI platforms scrape mental health advice from their datasets and mimic human-like speech through LLMs. Their output is neutral and generic, yet many will explore AI tools rather than paying for psychotherapy sessions.
@@ -54,15 +66,15 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  What’s worse is that some victims fall into the delusion that they can form genuine connections with AI personas. The desire for companionship gets the best of them. They choose to overlook the fact that the strangers operating these personas couldn’t care less about them.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. AI Content Floods SERPs
 
 ![Empty Search Bar on Google Online](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/google-search-bar-online.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AI chatbots significantly impacted the content industry. Individual writers, marketing agencies, content mills, and even legit publications are exploring ways to hasten the writing process with AI. After all, advanced LLMs can produce a 500-word piece in under 15 seconds.
 
  There are[several ethical ways for writers to use AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) —the problem is that most creators want to churn out content fast. Obsessing over speed hurts quality. AI scrapes information from its training datasets; it doesn’t check facts or compare resources. The resulting output is often unoriginal and misleading.
@@ -70,7 +82,16 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  To make matters worse, many low-effort AI articles still rank high through advanced SEO techniques. Most don’t even notice which Google results are AI-generated. They could be reading and citing misleading, factually incorrect information without realizing it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 6\. Deepfakes Destroy Reputations
 
@@ -82,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 
 ![Person Scrolling Nonstop on Phone While in Bed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-in-bed-scrolling-phone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  AI models enable[virtual reality (VR) and augmented reality (AR)](https://www.makeuseof.com/tag/augmented-vs-virtual-reality-whats-difference/) technologies to provide a more immersive experience. Their hyper-realistic output thoroughly stimulates the senses. And as high-end VR/AR devices develop, their standard auditory, visual, and haptic cues will also improve.
 
  Although fascinating, immersing too often in extended reality distorts your natural senses. VR/AR platforms detach you from your tangible surroundings. Too much exposure to artificial sensory triggers will make it harder to separate reality from simulations.
@@ -94,7 +112,10 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
 [Using VR/AR devices for extended periods has several risks](https://www.makeuseof.com/ways-virtual-reality-bad-for-you/) , including eye strain, social isolation, and susceptibility to cyberattacks.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 8\. AI Business Systems Create Unrealistic Profit Expectations
 
@@ -105,8 +126,10 @@ thumbnail: https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee91166975
  AI isn’t the golden ticket to success. Misinformed entrepreneurs should ditch the false belief that replacing human workers with AI spikes profits. Adopting new systems could still lead to losses if you forego proper planning.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Drawing the Line Between Fantasy and Reality
 

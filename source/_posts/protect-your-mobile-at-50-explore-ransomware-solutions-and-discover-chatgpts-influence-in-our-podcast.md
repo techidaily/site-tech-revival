@@ -1,7 +1,7 @@
 ---
 title: "Protect Your Mobile at $50: Explore Ransomware Solutions and Discover ChatGPT’s Influence in Our Podcast"
-date: 2024-09-01T19:23:36.948Z
-updated: 2024-09-02T19:23:36.948Z
+date: 2024-09-05T12:43:54.729Z
+updated: 2024-09-06T12:43:54.729Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Protect Your Mobile at $50: Explore Ransomware 
 thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec34c261fc2115b1bb0464ace8.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Mobile Phone Is 50, Ransomware Decryption Explained, and ChatGPT Writes Our Podcast
 
  Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
@@ -25,66 +31,11 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
 
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
-## Shownotes
-
- This week, we chat about the following tech news that matters:
-
-* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
-* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
-* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
-  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
-
- We've got these explainers:
-
-* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
-* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
-* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
-
- We finish the show with the following recommendations:
-
-* [RoomGPT](http://https://www.roomgpt.io/)
-* [Booom AI Quiz](https://booom.ai/)
-* [HelloTalk](https://www.hellotalk.com/?lang=en)
-
- Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on [how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/).
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-## Shownotes
-
- This week, we chat about the following tech news that matters:
-
-* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
-* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
-* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
-  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
-
- We've got these explainers:
-
-* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
-* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
-* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
-
- We finish the show with the following recommendations:
-
-* [RoomGPT](http://https://www.roomgpt.io/)
-* [Booom AI Quiz](https://booom.ai/)
-* [HelloTalk](https://www.hellotalk.com/?lang=en)
-
- Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
-
-**SCROLL TO CONTINUE WITH CONTENT**
-
- For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on [how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/).
-
- You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Shownotes
 
@@ -116,7 +67,80 @@ thumbnail: https://thmb.techidaily.com/6816402dd23c56a105ec64bc0a33bec17942a9ec3
  You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we chat about the following tech news that matters:
+
+* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
+* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
+* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
+  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+ We've got these explainers:
+
+* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
+* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
+* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
+
+ We finish the show with the following recommendations:
+
+* [RoomGPT](http://https://www.roomgpt.io/)
+* [Booom AI Quiz](https://booom.ai/)
+* [HelloTalk](https://www.hellotalk.com/?lang=en)
+
+ Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on [how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/).
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Shownotes
+
+ This week, we chat about the following tech news that matters:
+
+* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
+* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
+* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
+  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+ We've got these explainers:
+
+* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
+* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
+* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
+
+ We finish the show with the following recommendations:
+
+* [RoomGPT](http://https://www.roomgpt.io/)
+* [Booom AI Quiz](https://booom.ai/)
+* [HelloTalk](https://www.hellotalk.com/?lang=en)
+
+ Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter: [@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and [@stegnersaurus](https://twitter.com/stegnersaurus), with your suggestions for future topics.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on [how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/).
+
+ You can subscribe to the Really Useful Podcast on [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2), [Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz), [Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast), [Player FM](https://player.fm/series/the-really-useful-podcast-2491856), or copy the [RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Shownotes
 

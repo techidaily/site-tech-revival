@@ -1,7 +1,7 @@
 ---
 title: "Mindful Machine Assistance: GPT in Therapeutic Use"
-date: 2024-09-01T19:24:04.331Z
-updated: 2024-09-02T19:24:04.331Z
+date: 2024-09-05T12:43:54.376Z
+updated: 2024-09-06T12:43:54.376Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,24 @@ excerpt: "This Article Describes Mindful Machine Assistance: GPT in Therapeutic 
 thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3b826346b76ee873a38b74bb.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Assessing the Truthfulness of Medical Insights From ChatGPT: A Look at Its Trustworthiness
 
  You might have an app on your phone or smartwatch that can monitor bodily metrics, track workouts, or help you meditate. But have you considered using AI technology to help with your health and fitness journey?
 
  ChatGPT is an AI language model that demonstrates the quickly growing popularity and accessibility of AI tools. However, can you trust this advanced technology when it comes to health and fitness information? It may be good at mimicking human writing, but there are some caveats you should be aware of before you start relying on it for health advice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -34,6 +46,12 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
 
  You could also use ChatGPT to generate workout plans based on your fitness level, goals, and even the type of equipment or time you have available. It may direct you to a[great yoga app](https://www.makeuseof.com/tag/10-yoga-apps-help-workout-anywhere/) or one of[the best workout apps to get in shape](https://www.makeuseof.com/tag/best-workout-apps/) .
@@ -43,7 +61,10 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
 
@@ -56,7 +77,16 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
 
@@ -68,7 +98,16 @@ thumbnail: https://thmb.techidaily.com/d1e396e3c497492ee5cb72e95e743dcb132cd92c3
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
 

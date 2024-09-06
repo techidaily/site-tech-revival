@@ -1,0 +1,201 @@
+---
+title: Real vs Fake ChatBot Scam Alert
+date: 2024-09-05T12:56:01.644Z
+updated: 2024-09-06T12:56:01.644Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Real vs Fake ChatBot Scam Alert
+excerpt: This Article Describes Real vs Fake ChatBot Scam Alert
+thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c11cab04cb22d5f5327eef01b.jpg
+---
+
+## Scam Alert: Fake GPT Programs May Lead to Privacy Breaches
+
+ Many people use ChatGPT for various legitimate uses, including answering questions, generating content, explaining complex concepts, and writing code. However, the limitations of the free version of the chatbot, like delayed responses, can be frustrating.
+
+**MUO VIDEO OF THE DAY**
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Malicious actors often exploit these limitations by encouraging users to download a supposedly premium version of ChatGPT for free. The fake chatbot may contain malware that can be used for cyberattacks, like data theft.
+
+ Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
+
+## 1\. chat-gpt-pc.online
+
+ Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
+
+ The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. openai-pc-pro.online
+
+ The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
+
+ The domain is promoted by “Chat GPT AI,” a popular ChatGPT-themed Facebook page, a page that frequently posts about ChatGPT and [OpenAI’s Jukebox](https://www.makeuseof.com/what-is-openai-jukebox-ai-music/). The posts often contain links to malicious domains, including openai-pc-pro.online.
+
+ The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. chat-gpt-pc.online
+
+ ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. chatgpt-go.online
+
+ The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
+
+## 5\. pay.chatgptftw.com
+
+![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
+
+ Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. ChatGPT1
+
+ The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 7\. AI Photo
+
+ “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 8\. Meterpreter Posing as “SuperGPT” App
+
+![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
+
+ SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+## 9\. Trojan-PSW.Win64.Fobo
+
+ Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
+
+ The Trojan targets Facebook, TikTok, and Google accounts, stealing logins and financial info, like ad spending and current balance. To achieve this, the perpetrators create social media groups resembling official OpenAI accounts or enthusiast communities, where they post download links for a purported ChatGPT desktop client.
+
+ If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
+
+ Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+## Protect Yourself From Malicious ChatGPT-Themed Apps
+
+ Malicious actors are using ChatGPT-themed mobile apps and desktop clients to spread malware on computing devices. These apps often pose as free versions of premium ChatGPT and are commonly promoted through social media and email campaigns.
+
+ Some malicious apps and domains include chatGPT1, AI photo, openai-pc-pro.online, and pay.chatgptftw.com. To protect against potential malware infections from such sources, be cautious when downloading third-party apps, keep your device updated, and consider using reputable antimalware software.
+
+**SCROLL TO CONTINUE WITH CONTENT**
+
+ Malicious actors often exploit these limitations by encouraging users to download a supposedly premium version of ChatGPT for free. The fake chatbot may contain malware that can be used for cyberattacks, like data theft.
+
+ Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-top-12-tactics-to-fix-and-make-your-vids-appear-on-fb-today/"><u>[New] In 2024, The Top 12 Tactics to Fix and Make Your Vids Appear on FB Today</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-luxury-on-wheels-a-compre-written-in-the-stars/"><u>[New] Luxury on Wheels - A Compre Written in the Stars</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-step-by-step-process-high-dynamic-range-hdr-portraiture/"><u>[New] Step-by-Step Process  High Dynamic Range (HDR) Portraiture</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlock-youtube-collaboration-a-guide-to-partnering-and-producing-together/"><u>[Updated] Unlock YouTube Collaboration  A Guide to Partnering and Producing Together</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-trust-chatgpt-with-your-personal-details-a-privacy-concern/"><u>Can You Trust ChatGPT With Your Personal Details - A Privacy Concern?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-unchanged-rejecting-dumbness-claims/"><u>ChatGPT Unchanged: Rejecting Dumbness Claims</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-vs-huggingchat-showdown-a-comprehensive-review-of-each-ai-assistants-capabilities/"><u>ChatGPT Vs. HuggingChat Showdown: A Comprehensive Review of Each AI Assistant’s Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-your-anxiety-with-chatgpts-guidance/"><u>Conquer Your Anxiety with ChatGPT's Guidance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-infiltration-despite-advanced-tech/"><u>Content Infiltration Despite Advanced Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-chatgpts-co-pilot-features-and-functionality-insights/"><u>Demystifying ChatGPT's Co-Pilot: Features and Functionality Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-hugging-face-understanding-its-role-in-ai-development/"><u>Demystifying Hugging Face: Understanding Its Role in AI Development</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-8-fitness-enhancements-by-smart-conversational-agents/"><u>Discover the Best 8 Fitness Enhancements by Smart Conversational Agents</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-for-setting-up-and-utilizing-nvidias-artificial-intelligence-chatbot-in-your-officehome-pc/"><u>Expert Tips for Setting Up and Utilizing NVIDIA's Artificial Intelligence Chatbot in Your Office/Home PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-idea-to-interaction-crafting-custom-web-apps-with-chatgpt-assistance/"><u>From Idea to Interaction: Crafting Custom Web Apps with ChatGPT Assistance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-oneplus-ace-2-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your OnePlus Ace 2 Face Lock?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-ensure-privacy-how-not-to-let-chatgpt-remember-our-talks/"><u>Guide to Ensure Privacy: How Not to Let ChatGPT Remember Our Talks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/hangout-history-capture-and-keep-for-2024/"><u>Hangout History  Capture & Keep for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-apple-iphone-11-pro-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Photos from Apple iPhone 11 Pro Max to other iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-quick-and-easy-skype-calls-to-mp3-files-free/"><u>In 2024, Quick & Easy Skype Calls to MP3 Files (Free)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-googles-breakthrough-introduction-to-palm-2-model/"><u>Inside Google's Breakthrough: Introduction to PaLM 2 Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-into-the-temporary-suspension-of-chatgpt-subscriptions-and-future-availability-predictions/"><u>Insights Into the Temporary Suspension of ChatGPT Subscriptions and Future Availability Predictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lack-of-awareness-in-ai-prose/"><u>Lack of Awareness in AI Prose</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/linear-bavarder-procedure-on-a-linux-device/"><u>Linear Bavarder Procedure on a Linux Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-deploying-intelligent-bots-using-agentgpt-through-any-browser-interface/"><u>Mastering the Art of Deploying Intelligent Bots Using AgentGPT Through Any Browser Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-tech-choices-with-ease-toms-computer-insights/"><u>Navigating Tech Choices with Ease: Tom's Computer Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-use-of-chatgpt-for-seamless-language-translation-solutions/"><u>Navigating the Use of ChatGPT for Seamless Language Translation Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpts-personalized-command-feature-what-can-you-achieve/"><u>Navigating Through ChatGPT's Personalized Command Feature – What Can You Achieve?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-7-whiteboard-explainer-videos-to-inspire-you/"><u>New 2024 Approved Best 7 Whiteboard Explainer Videos to Inspire You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/realize-creative-possibilities-with-openais-api-excellence/"><u>Realize Creative Possibilities with OpenAI's API Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefining-information-retrieval-experience-next-level-searches-with-microsoft-bing-and-ai-integration/"><u>Redefining Information Retrieval: Experience Next-Level Searches with Microsoft Bing and AI Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/romantic-betrayals-and-tech-crime-understanding-the-role-of-ai-in-love-hoaxes-a-closer-look-at-7-tactics/"><u>Romantic Betrayals & Tech Crime: Understanding the Role of AI in Love Hoaxes - A Closer Look at 7 Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simulating-dialogue-in-artificayer-intelligence/"><u>Simulating Dialogue in Artificayer Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-into-the-future-of-browsing-with-agentgpt/"><u>Step Into the Future of Browsing with AgentGPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-for-watching-dvd-movies-on-the-nintendo-wii-and-wii-u-consoles/"><u>Step-by-Step Tutorial for Watching DVD Movies on the Nintendo Wii & Wii U Consoles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-7-key-missteps-to-dodge-while-implementing-generative-ai-solutions/"><u>The 7 Key Missteps to Dodge While Implementing Generative AI Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-developers-path-to-dynamic-web-with-gpt/"><u>The Developer's Path to Dynamic Web with GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-strategies-leveraging-chatgpt-for-business-growth/"><u>Top 8 Strategies: Leveraging ChatGPT for Business Growth</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tormented-souls-on-pc-the-end-of-unwanted-interruptions-and-game-crashes/"><u>Tormented Souls on PC: The End of Unwanted Interruptions and Game Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-how-ai-manipulates-paperclip-efficiency/"><u>Understanding How AI Manipulates Paperclip Efficiency</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-huawei-nova-y71-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Huawei Nova Y71 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-access-registering-on-popular-communication-platforms-without-your-phone-number/"><u>Unlocking Access: Registering on Popular Communication Platforms without Your Phone Number</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-full-potential-of-windows-11s-5g-capability/"><u>Unlocking Full Potential of Windows 11'S 5G Capability</u></a></li>
+</ul></div>

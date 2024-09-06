@@ -1,0 +1,204 @@
+---
+title: "What Sets Auto-GPT Apart From Its Cousin, ChatGPT?: Insights Into Their Unique Functions"
+date: 2024-09-05T13:01:11.927Z
+updated: 2024-09-06T13:01:11.927Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes What Sets Auto-GPT Apart From Its Cousin, ChatGPT?: Insights Into Their Unique Functions"
+excerpt: "This Article Describes What Sets Auto-GPT Apart From Its Cousin, ChatGPT?: Insights Into Their Unique Functions"
+thumbnail: https://thmb.techidaily.com/4701af21fbd3236ee27b5d0a75fe2af600bece4b4b8021497e0ee7ed3f0b2671.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Can Computers Pass as Humans? Insights Into Beating the Turing Test
+
+ Is it possible for artificial intelligence to match human intelligence? It's a tricky question involving philosophy, psychology, computer science, and every topic. Whenever there's talk about human-level machine intelligence, the Turing Test is never too far behind.
+
+ In 2014, Internet journalists exploded in a frenzy of excitement when a London-based computer program named Eugene Goostman seemingly passed the Turing Test. In 2022 Google's LaMDA reportedly did the same, but what happened? Did they pass the test? What do artificial intelligence advancements mean for the Turing Test?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## What Is the Turing Test?
+
+![turing-test-what-is-it](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-what-is-it.png)
+
+ Originally called "The Imitation Game," the Turing Test was developed by Alan Turing. Despite its name, the Turing Test is not a true test—at least, not in the common sense of the word. It's more of a thought experiment. Nevertheless, Alan Turing was a highly influential mathematician who formalized many concepts that led to the birth of computer science.
+
+ The Turing Test is a set of guidelines meant to determine whether a machine is indistinguishable from a human. It tries to answer the question, "Can machines think?" Turing believed it was possible and designed something that could be resembled as a kind of game.
+
+Here is the standard interpretation of the Turing Test:
+
+* You are interrogating two people
+* Person A is a machine, whereas Person B is a human.
+* You can only communicate with them using text.
+* By asking questions, determine which one is a machine and which one is a human.
+
+ The standard game length for the test can range from a few minutes to several hours. The quality and content of the conversation are large factors in the duration. A fixed-duration test can also be administered; the standard duration is usually five minutes.
+
+ The conventional criteria for passing the test is subjective but, as a general understanding, requires the machine to fool at least 30% of all human interrogators. Turing predicted that any machine to do that could be "smart" enough to be labeled as a "thinking machine."
+
+![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Drawbacks of the Turing Test
+
+ Although the Turing Test aims to find if machines can think, there are some drawbacks.
+
+ The main drawback to the Turing Test is that a machine being indistinguishable from a human does not necessarily indicate intelligence. In other words, does the Turing Test prove a machine's ability to think for itself or a machine's ability to imitate human behavior? It's a subtle difference with huge implications. After all, a chatbot with enough lines of code could conceivably imitate human conversation without ever being truly intelligent. This brings up a subsequent question. Is external behavior enough to indicate internal thoughts?
+
+ Another major drawback to note is the lack of a control group. By definition, the Turing Test results are based on a group of interrogators, but not everyone is equal. Though Turing specifies that the criteria are only relevant to "average interrogators." The term "average" by definition is not specific, and therefore, different interrogators will yield varied and inconsistent results.
+
+ Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
+
+## Did Eugene Goostman or LaMBDA Pass the Turing Test?
+
+![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
+
+ In the last ten years, there have been two main claims that the Turing Test has been passed.
+
+### Eugene Goostman
+
+ In June 2014, a chatbot named Eugene Goostman claimed to have passed the Turing Test for the first time. Developed by a team of Ukranian programmers, the chatbot posed as a 13-year-old Ukranian boy and managed to convince 33% of a panel consisting of 30 human participants in a series of five-minute conversations.
+
+ Since 2014 there have been many speculations and controversies surrounding the claim. One of the main criticisms against Eugene Goostman was the deceptive lowering of Turing Test criteria. The developers claimed the computer to be a 13-year-old boy who does not natively speak English and lives far enough away from modern society to be ignorant of topics such as geography, pop culture, etc.
+
+ By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Google's LaMBDA
+
+ So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
+
+ In 2022 a Google engineer named Blake Lemoine claimed one of the company's artificial intelligence language models, known as[LaMDA (Language Models for Dialogue Applications)](https://www.makeuseof.com/what-is-google-lamda-ai/) , had successfully passed the Turing Test. Lemoine also claimed that LaMDA was sentient. He then went public with the information, sharing the text-based interactions between him and the AI language model, after which he was placed on paid leave and eventually fired, per[The Guardian](https://www.theguardian.com/technology/2022/jul/23/google-fires-software-engineer-who-claims-ai-chatbot-is-sentient) .
+
+ Lemoine gave particular focus to an instance where he asked: "What does the word 'soul' mean to you?" Google's LaMDA answered, "To me, the soul is a concept of the animating force behind consciousness and life itself."
+
+ Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Advancement of Computer Intelligence
+
+ In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
+
+ Computer intelligence focuses on deep learning technologies, natural language processing, reinforcement learning, generative adversarial networks, and edge computing with IoT integration. All of which have seen significant advancements in the past five years. These areas continue to evolve at an incredible rate thanks to computer intelligence being used to improve itself.
+
+ Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
+
+### ChatGPT
+
+ ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
+
+ Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## The Turing Test Has Not Been Definitively Passed
+
+ Artificial intelligence continues to grow, and although there have been several claims, there is still no definitive agreed industry agreement that the Turing Test has been beaten. This is largely due to the subjective nature of what constitutes "intelligence" and the limitations of the Turing Test parameters.
+
+ The Turing Test is believed by many to only encourage human imitation rather than true thinking intelligence. In fact, other AI tests have been designed in recent years that are more sophisticated and specific. Perhaps as artificial intelligence gets better at human imitation, the only true way to measure machine intelligence is to use a different test.
+
+ The Turing Test might be iconic, but maybe it's time that we shelve it and move on.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-bringing-up-the-height-editing-instagram-content-with-fcpx/"><u>[New] 2024 Approved  Bringing Up the Height  Editing Instagram Content with FCPX</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-extend-youtube-videography-per-requirement/"><u>[New] In 2024, Extend YouTube Videography Per Requirement</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-2023-shift-in-facebooks-video-presentation-style/"><u>[New] In 2024, The 2023 Shift in Facebook’s Video Presentation Style</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-mastering-minecrafts-geometric-forms-circular-and-spherical-creation-for-2024/"><u>[New] Mastering Minecraft's Geometric Forms  Circular & Spherical Creation for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-affordable-high-res-camera-options/"><u>[Updated] Affordable High-Res Camera Options</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-dissecting-metaverse-and-multimeva-what-sets-them-apart-insightful-guide-for-2024/"><u>[Updated] Dissecting Metaverse and Multimeva  What Sets Them Apart (Insightful Guide) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-download-instagram-highlights-in-2-ways/"><u>[Updated] In 2024, How to Download Instagram Highlights in 2 Ways?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/3windows-1011-dvd-mp4aviwmv/"><u>3最优秀的免费Windows 10/11 DVD转码器软件 - MP4、AVI、WMV格式选项</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-estrategias-expertas-para-comprimir-videos-voluminosos-para-una-excelente-experiencia-en-email/"><u>6 Estrategias Expertas Para Comprimir Vídeos Voluminosos Para Una Excelente Experiencia en Email</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4winxvideoai/"><u>動画をMP4に変換するWinxVideoAI - 高度な圧縮とオーディオエクストラクションテクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725290274057-ai4/"><u>自宅でできるAI顔交換動画テクニック：無料アプリ4選を紹介！</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-apple-iphone-14-plus-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>Best Apple iPhone 14 Plus & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-share-on-facebook-twitter-instagram-and-youtube/"><u>Connect and Share on Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descifrar-restricciones-de-region-de-dvd-para-conversiones-sin-limitaciones-en-windows-11-8-o-7/"><u>Descifrar Restricciones De Región De DVD Para Conversiones Sin Limitaciones en Windows 11, 8 O 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/die-13-must-have-freie-dvd-software-fur-nutzer-von-windows-1011-beste-picks/"><u>Die 13 Must-Have Freie DVD-Software Für Nutzer Von Windows 10/11 - Beste Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digiarty-software-inc-winxdvd-company-profile-overview/"><u>Digiarty Software Inc. (WinXDVD) Company Profile - Overview</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dive-into-freeware-for-precise-music-tempo-tracking-for-2024/"><u>Dive Into Freeware for Precise Music Tempo Tracking for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-gratis-il-migliore-software-dvd-copia-per-mac-pc-e-linux-versione-2020/"><u>Download Gratis: Il Migliore Software DVD Copia per Mac, PC E Linux - Versione 2020</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-realme-12-proplus-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Realme 12 Pro+ 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-methods-to-transform-your-dvd-into-a-mov-file-for-both-mac-and-pc-users/"><u>Easy Methods to Transform Your DVD Into a Mov File for Both Mac & PC Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-video-recording-guia-paso-a-paso-para-convertir-videos-en-dvd-con-nero-burning-rom/"><u>Easy Video Recording: Guía Paso a Paso Para Convertir Videos en DVD Con Nero Burning ROM</u></a></li>
+<li><a href="https://windows11.techidaily.com/eliminating-non-response-from-printmanagement-msc-errors/"><u>Eliminating Non-Response From 'Printmanagement' MSC Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-conversion-of-itunes-protected-m4p-files-into-mp3-format/"><u>Free Conversion of ITUNES Protected M4P Files Into MP3 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-detaille-pour-supprimer-la-restriction-de-region-sur-des-dvd-avec-windows-10-8-ou-7/"><u>Guide Détaillé Pour Supprimer La Restriction De Région Sur Des DVD Avec Windows 10, 8 Ou 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289687470-handbrake/"><u>HandBrakeの動作不良解消 - 最新修正ガイドとトラブルシューティング</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-fix-davinci-resolve-when-it-can-only-import-mp4-files-with-sound/"><u>How to Fix DaVinci Resolve When It Can Only Import MP4 Files With Sound</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-12-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone 12 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-resolve-iphone-visibility-problems-when-connected-to-a-windows-1011-desktop/"><u>How to Resolve iPhone Visibility Problems when Connected to a Windows 10/11 Desktop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-100-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor 100 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-clear-video-borders-streamline-webcam-footage/"><u>In 2024, Clear Video Borders  Streamline Webcam Footage</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-video-thumbnail-making-for-popular-content/"><u>In 2024, The Art of Video Thumbnail Making for Popular Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/instruttivo-su-come-inserire-sottotitoli-nei-tuoi-file-video-mp4/"><u>Instruttivo Su Come Inserire Sottotitoli Nei Tuoi File Video MP4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mejorar-la-fluidez-de-juego-con-interpolacion-de-frames-por-inteligencia-artificial-experimente-mejores-rendimientos-y-transiciones-sin-esfuerzo/"><u>Mejorar La Fluidez De Juego Con Interpolación De Frames Por Inteligencia Artificial - Experimente Mejores Rendimientos Y Transiciones Sin Esfuerzo</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revive-and-protect-scratched-discs-seamless-dvd-restoration-ensuring-original-quality-preservation/"><u>Revive & Protect Scratched Discs: Seamless DVD Restoration Ensuring Original Quality Preservation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-fixing-the-dark-display-problem-on-microsofts-latest-operating-systems/"><u>Step-by-Step Guide: Fixing the Dark Display Problem on Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-making-free-flv-files-from-dvds-on-pc-windows/"><u>Step-by-Step Tutorial: Making Free .FLV Files From DVDs on PC (Windows)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-remove-image-collections-on-iphones-models-up-to-iphone-15/"><u>Steps to Remove Image Collections on iPhones (Models Up to iPhone 15)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-premier-solution-for-crossing-over-content-on-ios-and-android-pcs-discover-the-ease-of-using-winx-mediatrans-to-transfer-images-audio-and-video-with-fin123/"><u>The Premier Solution for Crossing Over Content on iOS & Android PCs: Discover the Ease of Using WinX MediaTrans to Transfer Images, Audio, and Video with Finesse</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-guide-stay-ahead-in-snapchat-streaks-for-2024/"><u>The Ultimate Guide  Stay Ahead in Snapchat Streaks for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-complete-loss-of-volume-in-laptop-easy-fixes-applied/"><u>Troubleshooting Complete Loss of Volume in Laptop - Easy Fixes Applied</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-watching-vob-movies-across-platforms-including-windows-11-and-macos/"><u>Ultimate Guide: Watching VOB Movies Across Platforms Including Windows 11 and macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-kopieren-mit-iso-montage-eine-losung-fur-windows-11-8-und-7/"><u>WinX DVD Kopieren Mit ISO-Montage: Eine Lösung Für Windows 11, 8 Und 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxdvdand/"><u>WinXDVDで強化されたビデオ再生技術&ヒント集</u></a></li>
+</ul></div>

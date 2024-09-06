@@ -1,7 +1,7 @@
 ---
 title: "Mastering Claude 3: Insights Into Functionality & Utility"
-date: 2024-09-01T19:19:48.717Z
-updated: 2024-09-02T19:19:48.717Z
+date: 2024-09-05T12:43:57.619Z
+updated: 2024-09-06T12:43:57.619Z
 tags:
   - chatgpt
   - open-ai
@@ -33,8 +33,20 @@ The below image shows ChatGPT suggesting text corrections.
 
 ![Bing Chat Edits Paragraphs by Quillbot's Standards ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bing-chat-edits-text.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You’ll find many[reliable grammar checkers online](http://www.makeuseof.com/tag/best-grammar-checker/) , but full-suite plans often come with monthly subscriptions. Free accounts get limited checks. On Grammarly, users can’t even unlock advanced suggestions until they upgrade to a Premium plan.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Poorly Researched Articles Spread Misinformation
 
 [One of the biggest problems with ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) and Bing Chat, among other platforms, is that they don’t double-check facts. They merely present what they know. ChatGPT formulates answers from datasets, and Bing Chat runs search queries, but neither performs fact-checking.
@@ -43,14 +55,38 @@ The below image shows ChatGPT suggesting text corrections.
 
 ![ChatGPT Answering Question About Itself Wrong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-stating-incorrect-information.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Despite these limitations, some writers wholly depend on ChatGPT for topic research. They want quick, convenient answers. However, you can’t replace proper research with AI chatbot conversations. You’ll end up publishing incorrect information.
 
  Many shady AI writers actually draw flak for spreading misinformation. Only use chatbots for preliminary research. Ask them to break down complex subjects before diving into academic journals and scholarly papers.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Generic AI-Generated Articles Flood SERPs
 
 ![Google Analytics Google Search Results on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/google-search-results-on-smartphone.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Unfortunately, you’ll find AI content ranking on Google. AI writers use the time and effort they save to improve their SEO, boosting page visibility. Some of them even utilize backlinks to fake authoritativeness.
 
  SERPs (Search Engine Results Pages) are flooded with low-effort AI content that comprises generic, simplistic insights. They touch on topics but never explain them. Readers only gain a basic, surface-level understanding of subjects from these articles.
@@ -70,15 +106,15 @@ The below image shows Bing Chat’s keyword research on AI.
  Since Bing Chat wasn’t designed for SEO research, you must phrase your prompts properly. Don’t just say you need SEO analytics. Ask for specific data, like top-ranking LSI keywords, search volume analytics, and market trends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5\. Content Mills Publish AI-Generated Articles in Masses
 
 ![Asking ChatGPT to Write a 1,000 word Article on AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-writing-1-000-word-article.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Content mills have always prioritized quantity over quality. But with the availability of AI-driven chatbots, they further sped up the writing process at no extra cost. It’s common for them to publish hundreds of AI content daily.
 
  Most mills work around plagiarism and copyright infringement laws by hiring human editors. They pay chump change for quick, low-effort edits. Their sole purpose is to alter outputs so that their clients don’t flag them for plagiarism.
@@ -91,30 +127,32 @@ The below image shows Bing Chat’s keyword research on AI.
 
  But since they also use publicly available paraphrasing tools, Google still detects their template outputs. Their sites quickly lose authority afterwards. You can’t cheat the system. To produce original pieces with unique insights, research various official and non-official sources.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## 7\. More Articles Share Similar Angles
 
  AI chatbots produce template responses. They pull information from the exact datasets even if you regenerate responses several times. Take the below conversation as an example. This photo shows ChatGPT answering a general knowledge question about AI.
 
 ![ChatGPT Answering a Basic Question General Kowledge Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answers-general-knowledge-question-about-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We started a new chat and reused our prompt, but ChatGPT provided identical facts. It only rephrased its output.
 
 ![Trying to Get ChatGPT to Answer the Same Question About AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-answering-a-regenerated-question-about-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Since chatbots generate the same information, writers publishing AI-generated content end up sharing angles. Many even follow similar article structures.
 
  Ultimately, the lack of variation and originality triggers plagiarism offenses. Your site’s ranking will quickly drop, and visitors won’t bother reading your blogs if they’ve already seen them elsewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## 8\. AI Chatbots Commodify Subpar Content
 
  As content mills bombard readers with AI-generated pieces, other publications are forced to fight back. Even global media publishers invest in writing tools nowadays. Some use them ironically, while others churn out content to stay relevant.
@@ -124,9 +162,10 @@ The below image shows Bing Chat’s keyword research on AI.
  Also, AI writing tools are unsustainable.[Google](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t) prioritizes authoritative websites that publish well-researched articles—it might start cracking down on AI content soon. It already prohibits manipulating SERP rankings with AI, after all.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Do AI Chatbots Positively or Negatively Impact the Content Industry?
 

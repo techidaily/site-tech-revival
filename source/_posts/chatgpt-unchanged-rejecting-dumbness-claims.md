@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Unchanged: Rejecting Dumbness Claims"
-date: 2024-09-01T19:22:11.428Z
-updated: 2024-09-02T19:22:11.428Z
+date: 2024-09-05T12:43:55.808Z
+updated: 2024-09-06T12:43:55.808Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
  Whether you're looking to prioritize your to-do list, tackle a large project, or simply get through your day effectively, ChatGPT can offer personalized advice for your day-to-day activities and make the most of your time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Get Advice on How to Prioritize Your Tasks
 
  ChatGPT can advise you on common task prioritization methods, such as the Eisenhower Matrix, ABCD Method, and the MoSCoW Method. It can also help you choose the most suitable method based on your specific needs and goals.
@@ -27,6 +33,12 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![ChatGPT Eisenhower Matrix example prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-eisenhower-matrix-example-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  This approach is named for[U.S. President Dwight D. Eisenhower](https://www.presidency.ucsb.edu/documents/address-the-second-assembly-the-world-council-churches-evanston-illinois) , who once quoted a former college president's philosophy about time management in a speech.
 
  "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent," said Eisenhower.
@@ -37,10 +49,22 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![ChatGPT ABCD Method part one](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-one.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you have a list of pending tasks and don't know where to start, ChatGPT can take a guess at which ones are likely the most important using the ABCD Method. Even if you disagree with the app's initial sorting, it's a quick way to gauge your priorities.
 
 ![ChatGPT ABCD Method part two](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-two.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  As this example shows, the chatbot sorts your activities into assignments that require immediate attention (such as working your shift for the day), as well as those that can go on the back burner for a little while (such as returning a call to your doctor's office).
 
  When crafting your prompt, be as specific as possible, and don't hesitate to rephrase the question or regenerate your first response. In this case, list out every item on your to-do list if you like, and note which tasks are time-sensitive or otherwise critical.
@@ -61,6 +85,12 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![ChatGPT unnecessary email advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-unnecessary-email-advice.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For a more proactive take, the chatbot can also find ways to automate some of your routine tasks. For this example, we prompted ChatGPT to provide some automation ideas for a realtor.
 
 ![ChatGPT automation ideas for a realtor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-automation-ideas-for-a-realtor.jpg)
@@ -68,7 +98,16 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
  ChatGPT provided several tips in regard to email marketing, virtual tours, and property listing syndication services that can help realtors excel in their line of work while saving some time. Prompt the chatbot for some advice about time management in your own career for more specific tips.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Break Down a Large Project Into Manageable Sections
 
@@ -78,16 +117,10 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 
 ![ChatGPT decluttering prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-decluttering-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  The chatbot provided a series of tips for decluttering more efficiently. Many of them focused on speeding up the process, such as the advice to make rapid decisions about whether to keep or donate a particular item.
 
  The next time you have a large project to tackle, see whether ChatGPT can help you sort through the steps to make it more manageable and efficient. The chatbot just might offer the right piece of advice to help speed up the whole job.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Get Personalized Time-Saving Tips
 
  Prompt the bot to provide time-saving tips. Tailor the prompts to suit your specific needs (i.e., “provide time-saving tips for people with a long commute” or “provide time-saving tips for software developers”).
@@ -97,23 +130,13 @@ thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323
 ![ChatGPT procrastination prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-procrastination-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  The chatbot offered plenty of practical advice about eliminating unnecessary steps and visualizing the end result for motivation. Given the sheer amount of information that ChatGPT can pull from, it can likely suggest time-saving options for your situation, too. Remember to provide detailed, specific prompts to get the best advice.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Save Time With ChatGPT
 
  For the most part, AI technologies such as ChatGPT can help streamline your productivity and time management skills. Experiment with the chatbot to make the most of your time with a few simple prompts.

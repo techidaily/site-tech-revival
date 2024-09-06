@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Secrets of GPT-3: Expert Strategies for OpenAI Platform Use"
-date: 2024-09-01T19:24:39.617Z
-updated: 2024-09-02T19:24:39.617Z
+date: 2024-09-05T12:43:53.917Z
+updated: 2024-09-06T12:43:53.917Z
 tags:
   - chatgpt
   - open-ai
@@ -13,6 +13,18 @@ excerpt: "This Article Describes Unveiling the Secrets of GPT-3: Expert Strategi
 thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b36010696a635f2d59959383d55084.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ChatGPT Upgrades Unveiled: Enroll Now for the Cutting-Edge Plugin Platform
 
  ChatGPT, the language model developed by OpenAI, is set to introduce a new feature: plugins. These plugins enhance ChatGPT's capabilities by enabling it to access external tools and information not included in its training data, connecting the generative AI to the internet.
@@ -21,10 +33,22 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do ChatGPT Plugins Work?
 
 ![Monitor screen showing ChatGPT landing page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/monitor-screen-showing-chatgpt-landing-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ChatGPT plugins are software components integrated into[the ChatGPT platform](https://www.makeuseof.com/how-does-chatgpt-work/) . They provide ChatGPT with additional information, such as up-to-date news or data from proprietary sources, and enable ChatGPT to perform specific actions on behalf of users.
 
  Plugins can also help ChatGPT overcome some limitations of large language models, such as[AI "hallucinations"](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) or the inability to keep up with recent events.
@@ -33,10 +57,28 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 
  Then, ChatGPT could use these plugins to fetch relevant information and insert them into the email draft. It could also use the plugins to send emails, schedule a meeting, or update a task's status.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do You Sign Up for ChatGPT Plugins?
 
 ![chatgpt plugin page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-plugin-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Currently, the ChatGPT plugins feature is only available to ChatGPT Plus subscribers, and you have to join a waitlist to get access. You can[sign up for ChatGPT Plus](https://www.makeuseof.com/chatgpt-plus-subscription-worth-it/) by clicking on**Upgrade** **to** **Plus** on the left tab on the ChatGPT interface.
 
  Here are the steps for joining the waitlist after upgrading your ChatGPT account:
@@ -47,7 +89,10 @@ thumbnail: https://thmb.techidaily.com/5e974938dbb660ea80a93e16c035b60b79b360106
 4. Click**Join Waitlist** to submit the form.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Joining ChatGPT's Plugins Waitlist
 

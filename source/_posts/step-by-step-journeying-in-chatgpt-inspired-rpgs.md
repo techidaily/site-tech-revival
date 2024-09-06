@@ -1,7 +1,7 @@
 ---
 title: "Step by Step: Journeying in ChatGPT-Inspired RPGs"
-date: 2024-09-01T19:23:21.325Z
-updated: 2024-09-02T19:23:21.325Z
+date: 2024-09-05T12:43:54.942Z
+updated: 2024-09-06T12:43:54.942Z
 tags:
   - chatgpt
   - open-ai
@@ -21,6 +21,12 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![ChatGPT Writing Bio for LinkedIn](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-writing-bio-for-linkedin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  With 2,600 available characters, the**About** section of your LinkedIn profile is a great space to elaborate on your background, skills, passions, and future goals. View your LinkedIn bio as a concise summary of your professional background, skills, and aspirations.
 
  Give ChatGPT a list of all your winning qualities, or copy-paste your CV into it. Ask the chatbot to compose a professional bio using the information. Make sure you specify its maximum length.
@@ -29,10 +35,28 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
  When done, paste the bio into your LinkedIn**About** field. The more compelling it is, the higher your chances of getting an interview for that cool job you found on LinkedIn.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Write Job Descriptions
 
 ![Creating a Job Description on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/creating-a-job-description-on-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Instead of just listing what you did, learned, and achieved at each position, you could add a small, eloquent paragraph summarizing everything. It gives recruiters something more interesting to read that reflects your character better.
 
  Feed ChatGPT information about the job in question, and request a one-paragraph description of no more than 2,000 characters. You may need to edit the results or generate a new description in a different style or tone to satisfy your needs.
@@ -40,21 +64,33 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
  On your LinkedIn profile, what you should end up with under each job title are a few concise and easy-to-read lines. They should highlight what the position involved, why you enjoyed it, and how it contributed to your current skill set.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3\. Write Personalized Messages
 
 ![Writing a Professional Message on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/writing-a-professional-message-on-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Landing a job on LinkedIn involves exchanging a lot of messages. ChatGPT can write them for you. You’d then have personalized message templates for greeting recruiters, requesting job details, arranging interviews, and more.
 
  In each case, specify what the message is for, how the AI should express it, and what you want it to contain. For example, if you know your addressee's name, include it. If you're detailing your availability and have times and dates to share, ask ChatGPT to neatly list them.
 
  As always, check the chatbot’s results for errors or clunky phrasing. Most importantly, personalize the message templates you use in different interactions, making sure they fit naturally and benefit you as a job candidate.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Write Cover Letters
 
 ![Cover Letter Template Made With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/cover-letter-template-made-with-chatgpt.jpg)
@@ -69,13 +105,16 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![ChatGPT Instructions on Writing a Resume](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-instructions-on-writing-a-resume.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Similarly, if you give ChatGPT details about your employment and education history, professional qualities, and so on, it can quickly write out each section of your resume. You can paste everything into a single document.
 
  Something else ChatGPT can help you with when job hunting on LinkedIn is understanding what you should include in your resume or cover letter when applying for any job. The AI will break down what you need clearly and concisely. You just need to follow its instructions where applicable.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Prepare Answers for Interview Questions
 
 ![ChatGPT Answering Job Interview Question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-answering-job-interview-question.jpg)
@@ -87,19 +126,20 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
  Either way, you’ll be better prepared to face interviewers and outshine your competition for the LinkedIn job you want.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 7\. Plan and Edit Posts
 
 ![ChatGPT Suggests Structure for LinkedIn Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-suggests-structure-for-linkedin-post.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  There are[limits to writing content with AI chatbots](https://www.makeuseof.com/why-content-writers-cant-rely-ai-chatbots/) , such as monotonous language patterns, no fact-checking, and a risk of copyright infringement. So, only use ChatGPT to tweak articles or social media posts, not completely write them.
 
@@ -118,14 +158,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  When it comes to fact-checking, you’re better off relying on OpenAI’s premium package, as the free version’s database only consists of sources up to 2021\. It lacks the knowledge to correct anything involving concepts or events that occurred after that year.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 9\. Check Your Suitability for a Role
 
 ![ChatGPT Results to CV and Job Description Comparison Request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-results-to-cv-and-job-description-comparison-request.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To land a suitable job on LinkedIn, it’s best to target opportunities that match some or all of your skills. Even if an employer offers training, they’ll prefer candidates who already cover most of their requirements.
 
@@ -135,9 +181,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Don’t make career decisions solely based on ChatGPT’s advice; it’s a handy tool for working out your strengths, weaknesses, and opportunities to focus on.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## 10\. Keep Track of Information
 
 ![ChatGPT Analyzing Job Application Patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatgpt-analyzing-job-application-patterns.jpg)
