@@ -1,0 +1,150 @@
+---
+title: "Choosing Your Digital Sidekick: A Comparison of GitHub Copilot Vs. ChatGPT for Efficient Programming"
+date: 2024-09-11T19:39:20.842Z
+updated: 2024-09-12T19:39:20.842Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Choosing Your Digital Sidekick: A Comparison of GitHub Copilot Vs. ChatGPT for Efficient Programming"
+excerpt: "This Article Describes Choosing Your Digital Sidekick: A Comparison of GitHub Copilot Vs. ChatGPT for Efficient Programming"
+thumbnail: https://thmb.techidaily.com/f353031385ec13b27002aeb25b2433c7b7f2839e202aee43a31b71787185171a.jpg
+---
+
+## Anticipating ChatGPT for Your Local Setup? Here's a List of Impressive Free Software Picks
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+### Quick Links
+
+* [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
+* [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
+* [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Key Takeaways
+
+* OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
+* However, an open-source ChatGPT desktop version is available as an alternative.
+* The official version is slowly rolling out to users, but it's a slow process.
+
+ As part of its massive 2024 Spring Update, OpenAI revealed that a long-awaited ChatGPT desktop version was incoming.
+
+ Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
+
+ But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What Is the Open-Source ChatGPT Desktop Application?
+
+ ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
+
+[OpenAI's Spring Update launched GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) among a host of[other shiny new ChatGPT features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , wowing the world with its new capabilities.
+
+ The long-awaited desktop version was one of them—but intrepid ChatGPT users need to wait a little longer.
+
+ Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
+
+![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Install and Configure ChatGPT Desktop Application
+
+![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
+2. Download the applicable version for your operating system, then install it as per your operating system.
+3. Launch the ChatGPT Desktop Application.
+
+ Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
+
+![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## When Is the Official ChatGPT Desktop Version Launching?
+
+ The official ChatGPT Desktop app is already slowly rolling out to macOS users.
+
+ As with many of OpenAI's major updates, it takes time to filter through to the majority, and a Windows version will take longer still.
+
+ Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-precise-mac-photo-tips-mastering-five-quick-and-effective-methods/"><u>[Updated] In 2024, Precise Mac Photo Tips Mastering Five Quick and Effective Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discerning-superior-artificial-intelligence-which-reigns-supreme-chatgpt-plus-or-perplexity/"><u>Discerning Superior Artificial Intelligence: Which Reigns Supreme, ChatGPT Plus or Perplexity?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/enriched-video-presentation-implementing-lc-and-bb-on-social-platforms-for-2024/"><u>Enriched Video Presentation Implementing LC and BB on Social Platforms for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-steelseries-a-step-by-step-guide-to-repair-your-arctis-pro-mic/"><u>Fixing the Silent SteelSeries: A Step-by-Step Guide to Repair Your Arctis Pro Mic</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-from-top-10-international-technology-visionaries-on-artificial-intelligence/"><u>Insights From Top 10 International Technology Visionaries on Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-high-seas-with-chatgpt-plus-subscription/"><u>Navigating the High Seas with ChatGPT Plus Subscription</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revitalize-your-pc-with-our-expert-tips-for-a-quick-windows-11-reset-including-4-key-actions/"><u>Revitalize Your PC with Our Expert Tips for a Quick Windows 11 Reset (Including 4 Key Actions)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-distance-communication-effective-use-of-chatgpt-in-virtual-meetups/"><u>Revolutionizing Distance Communication: Effective Use of ChatGPT in Virtual Meetups</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/what-to-do-when-convert2mp3-crashes-the-leading-mp3-file-converters/"><u>What To Do When Convert2MP3 Crashes: The Leading MP3 File Converters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-claude-3-deserves-your-attention-4-superior-features-beating-out-chatgpt/"><u>Why Claude 3 Deserves Your Attention: 4 Superior Features Beating Out ChatGPT</u></a></li>
+</ul></div>
+

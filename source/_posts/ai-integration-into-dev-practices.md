@@ -1,0 +1,151 @@
+---
+title: AI Integration Into Dev Practices
+date: 2024-09-11T19:38:57.578Z
+updated: 2024-09-12T19:38:57.578Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes AI Integration Into Dev Practices
+excerpt: This Article Describes AI Integration Into Dev Practices
+thumbnail: https://thmb.techidaily.com/895e63c00991de11c3a5bb60d914f7ce63bcb7f1c27750a5c3c9cc5c0ae68538.jpg
+---
+
+## Speak Up! Your Guide to Interacting With ChatGPT Awaits
+
+ Have you ever imagined conversing with an AI that understands and can respond to you with your voice? OpenAI's open-source speech recognition system called "Whisper" allows you to speak to ChatGPT and get answers to your questions.
+
+ You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What You Need to Speak to ChatGPT
+
+ ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
+
+ To access ChatGPT's voice input feature on your phone, you'll need to download and install the official ChatGPT app for mobile devices. Once you sign in with your OpenAI account, you're all set to take advantage of the Whisper feature.
+
+![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
+
+![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
+
+![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Close
+
+ If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
+
+**Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
+
+## How to Send ChatGPT Prompts With Your Voice
+
+ Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
+
+ To send prompts in the ChatGPT app with your voice, follow these simple steps in the ChatGPT mobile app.
+
+1. On an iPhone, tap the**sound wave** icon on the right side of the text field at the bottom. On an Android device, tap the**microphone** button next to the text field.
+2. ChatGPT will immediately start recording your voice. So, start speaking.
+3. When you're done, hit**Tap to stop recording** and wait for ChatGPT to transcribe the recording.
+4. Tap the**Send** button next to the text field to send your prompt.
+
+![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
+
+![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Close
+
+ Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Talk to ChatGPT and Save Time
+
+ By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-basic-recorder-your-windows-10-companion/"><u>2024 Approved Basic Recorder - Your Windows 10 Companion</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-making-your-mark-with-instagram-videos/"><u>2024 Approved Making Your Mark with Instagram Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-versus-ai-the-battle-of-chatgpt-vs-huggingchat-for-top-notch-communication/"><u>AI Versus AI: The Battle of ChatGPT Vs. HuggingChat for Top-Notch Communication</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-sony-xperia-5-v-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Sony Xperia 5 V in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-ai-is-revolutionizing-dating-the-dark-side-of-tech-in-romance-frauds/"><u>How AI Is Revolutionizing Dating: The Dark Side of Tech in Romance Frauds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-detect-and-prevent-malicious-prompts-in-ai-applications/"><u>How to Detect and Prevent Malicious Prompts in AI Applications</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-infinix-hot-30i-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Infinix Hot 30i</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-wise-to-use-chatgpt-for-mobile-insights-and-considerations/"><u>Is It Wise to Use ChatGPT for Mobile? Insights and Considerations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-your-conversation-with-chatgpt-private-understanding-ai-confidentiality-concerns/"><u>Is Your Conversation with ChatGPT Private? Understanding AI Confidentiality Concerns</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/mastering-auto-play-on-fb-video-streams-for-2024/"><u>Mastering Auto-Play on FB Video Streams for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-ai-techniques-top-7-tips-that-work/"><u>Smart AI Techniques: Top 7 Tips That Work</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-beginners-roadmap-to-becoming-an-expert-in-prompts/"><u>The Beginner's Roadmap to Becoming an Expert in Prompts</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-guide-nier-replicant-remaster-wont-boot/"><u>Troubleshooting Guide: NieR Replicant Remaster Won't Boot</u></a></li>
+</ul></div>
+

@@ -1,0 +1,77 @@
+---
+title: "Expert Advice on Tech Gear: Navigating Through Tom's Hardware Wisdom"
+date: 2024-09-11T19:34:07.426Z
+updated: 2024-09-12T19:34:07.426Z
+tags:
+  - desktop
+categories:
+  - hardware
+thumbnail: https://thmb.techidaily.com/f1ae1ebf673254b46f0a821d8d5736e61a916c4eb6fabc72096593a99e32594f.png
+---
+
+## Revolutionize Your PC Experience with Maingear's Zero Motherboard Cables - Launches at High-End Prices Starting at Just $1,399
+
+Maingear has today announced the launch of its Zero Series of desktops featuring[MSI](https://www.tomshardware.com/tag/msi-microstar) Project Zero motherboards and cases. The Zero Series desktops feature[MG-RC hidden cables](https://www.tomshardware.com/desktops/gaming-pcs/maingear-patented-its-rear-connector-motherboard-design-in-2011-and-now-it-wants-to-make-mg-rc-an-industry-standard) which move the connectors and cables to the backside, helping to create a tidier build. Prices start at $1,399, with the most expensive model costing $3,929\. The Zero Series line-up comes after Maingear released just 50 Zero Limited Edition desktops, which are fundamentally similar.
+
+![Maingear's Zero Series desktop PC.](https://cdn.mos.cms.futurecdn.net/UvoT3pXRiwgoEGGyFgEjAE-320-80.jpg)
+
+ (Image credit: Maingear)
+
+ By default, the Zero desktops use Nvidia GPUs — many of which feature on our list[Best Graphics Cards for Gaming](https://www.tomshardware.com/reviews/best-gpus,4380.html) — and Intel CPUs (except for the Ruby model which uses an[AMD Ryzen 7 7800X3D](https://www.tomshardware.com/reviews/amd-ryzen-7-7800x3d-cpu-review) ). Customers can customize Zero Series PC if they so wish, though these units will apparently take longer to ship than stock configurations. Using the custom configurator you can easily build a $5,500 system, just in case you thought a $3,929 desktop was too cheap.
+
+ The Zero Series represents the first time Maingear has harnessed its MG-RC hidden cable technology in earnest. The OEM first patented what is now called MG-RC back in 2011, but didn't launch products based on it[until the Zero Limited Edition drop](https://www.tomshardware.com/desktops/gaming-pcs/maingear-patented-its-rear-connector-motherboard-design-in-2011-and-now-it-wants-to-make-mg-rc-an-industry-standard) , which only constituted 50 units. With the Zero Series, Maingear is finally taking MG-RC to the mainstream.
+
+ That's not to say Maingear was just sitting on its patent for all these years. Maingear wants to make MG-RC the industry standard layout for hidden cable builds. MSI is certainly on board with this standard. MSI has embraced[Project Zero motherboards and cases in its Zero Series](https://www.tomshardware.com/pc-components/motherboards/i-built-a-pc-with-msis-project-zero-motherboard-moving-all-the-ports-to-the-back-for-a-cleaner-quicker-build-with-better-airflow) and the parts can be bought individually. Gigabyte has also launched[motherboards and cases based on Maingear's patent](https://www.tomshardware.com/news/gigabyte-and-maingears-project-stealth-hides-all-of-the-cables-in-your-case) , which means two of the four major motherboard vendors are seemingly on board with the standard.
+
+ LATEST VIDEOS FROM tomshardware Tom's Hardware
+
+ While these PCs certainly look nice thanks to the lack of cables, compatibility will be something users have to consider. Because backside power and data plugs require clearance, MG-RC motherboards aren't compatible with most of the[best PC cases](https://www.tomshardware.com/reviews/best-pc-cases,4183.html) . Despite using off-the-shelf parts, upgrading or reusing hardware from a Zero Series PC might be similar to trying to reuse parts from an OEM prebuilt that isn't standard when it comes to form factor and connectors. That said, MG-RC compatible cases should be compatible with regular motherboards?
+
+ The Zero Series is available today at[Maingear's website](https://maingear.com/zero/) , with the cheapest configuration starting at $1,399, which is equipped with the RTX 4060, Core i5-14400F, 16GB of DDR5-5200MHz, and a 1TB PCIe 4.0 SSD.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
+
+ Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
+
+ Contact me with news and offers from other Future brands  Receive email from us on behalf of our trusted partners or sponsors
+
+ By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-guide-to-fb-video-repositories-windows-and-macos/"><u>[New] In 2024, Guide to FB Video Repositories Windows & macOS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>[Updated] Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-panoramic-shots-iphone-guide/"><u>[Updated] Capturing Panoramic Shots IPhone Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-easy-steps-to-record-skype-on-both-platforms/"><u>2024 Approved Easy Steps to Record Skype on Both Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/avoid-unsolicited-podcast-recommendations-on-spotify-app-for-2024/"><u>Avoid Unsolicited Podcast Recommendations on Spotify App for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engineering-chatbot-genius-crafting-custom-via-gpt-techniques/"><u>Engineering ChatBot Genius: Crafting Custom via GPT Techniques</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-zte-nubia-z60-ultra-phone-screen-by-drfone-android/"><u>How Can We Unlock Our ZTE Nubia Z60 Ultra Phone Screen?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-deeper-dive-into-high-definition-online-visibility/"><u>In 2024, A Deeper Dive Into High Definition Online Visibility</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-language-of-machine-learning-understanding-29-crucial-ai-concepts/"><u>Master the Language of Machine Learning: Understanding 29 Crucial AI Concepts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-animation-drawing-made-easy-top-7-software-solutions/"><u>New In 2024, Animation Drawing Made Easy Top 7 Software Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-art-from-ai-misuse-with-strong-copyright-laws-the-nightshade-effect-explained/"><u>Protect Your Art From AI Misuse with Strong Copyright Laws - The Nightshade Effect Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/set-up-an-inexpensive-ai-model-for-windows-users/"><u>Set Up an Inexpensive AI Model for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-day-using-auto-gtp-tech/"><u>Streamline Your Day Using Auto-GTP Tech</u></a></li>
+</ul></div>
+

@@ -1,0 +1,150 @@
+---
+title: Top 6 Common Pitfalls in Crafting ChatGPT Queries
+date: 2024-09-11T19:38:31.569Z
+updated: 2024-09-12T19:38:31.569Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: This Article Describes Top 6 Common Pitfalls in Crafting ChatGPT Queries
+excerpt: This Article Describes Top 6 Common Pitfalls in Crafting ChatGPT Queries
+thumbnail: https://thmb.techidaily.com/6095600b720da220ffffead1a4fc142237909794e0b00b8441f133e8ae3bdb81.jpg
+---
+
+## ChatGPT Desktop Still Coming Soon? Discover Exceptional Open Source Counterparts Now
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Quick Links
+
+* [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
+* [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
+* [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Key Takeaways
+
+* OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
+* However, an open-source ChatGPT desktop version is available as an alternative.
+* The official version is slowly rolling out to users, but it's a slow process.
+
+ As part of its massive 2024 Spring Update, OpenAI revealed that a long-awaited ChatGPT desktop version was incoming.
+
+ Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
+
+ But if you can't wait—like me!—you can try a free, open-source version instead.
+
+## What Is the Open-Source ChatGPT Desktop Application?
+
+ ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
+
+[OpenAI's Spring Update launched GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) among a host of[other shiny new ChatGPT features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , wowing the world with its new capabilities.
+
+ The long-awaited desktop version was one of them—but intrepid ChatGPT users need to wait a little longer.
+
+ Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
+
+![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## How to Install and Configure ChatGPT Desktop Application
+
+![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
+2. Download the applicable version for your operating system, then install it as per your operating system.
+3. Launch the ChatGPT Desktop Application.
+
+ Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
+
+![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## When Is the Official ChatGPT Desktop Version Launching?
+
+ The official ChatGPT Desktop app is already slowly rolling out to macOS users.
+
+ As with many of OpenAI's major updates, it takes time to filter through to the majority, and a Windows version will take longer still.
+
+ Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-captureit-all-the-complete-screen-recorder-hack/"><u>[New] CaptureIt All The Complete Screen Recorder Hack</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-streamers-guide-sharing-your-twitch-channel-on-fb-for-2024/"><u>[New] Streamer's Guide Sharing Your Twitch Channel on FB for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-maximize-your-obs-fb-integration-tips/"><u>[Updated] In 2024, Maximize Your OBS-FB Integration Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artistic-integrity-vs-tech-might-the-sarah-silverman-suit/"><u>Artistic Integrity Vs. Tech Might: The Sarah Silverman Suit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/autonomous-gpt-how-it-differs-from-conversational-ai-model-chatgpt/"><u>Autonomous GPT: How It Differs From Conversational AI Model, ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-your-data-safety-on-chatgpt-a-guide-to-opting-out-effectively/"><u>Ensuring Your Data Safety on ChatGPT: A Guide to Opting Out Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-vocabulary-unveiled-mastering-29-key-terms-in-artificial-intelligence/"><u>Essential Vocabulary Unveiled: Mastering 29 Key Terms in Artificial Intelligence</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-plus-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7 Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unmasked-ai-deep-dive-anti-vpn-action/"><u>Unmasked AI Deep Dive, Anti-VPN Action</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Navigating Generative AI's Textual Landscape for Business Use
-date: 2024-09-05T13:04:01.372Z
-updated: 2024-09-06T13:04:01.372Z
+date: 2024-09-11T19:23:43.472Z
+updated: 2024-09-12T19:23:43.472Z
 tags:
   - chatgpt
   - open-ai
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/1c9229fb0800113350dfae57f612d2aef9036646b
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Potential Risks of Generative AI to Spread Disinformation
 
  Generative AI poses many threats to people, like taking away jobs, more surveillance, and cyberattacks. And the[security problems with AI will get even worse](https://www.makeuseof.com/reasons-generative-ai-security-issues-will-worsen/) . But there's another worry: people can use it to spread lies. Deceptive individuals can use generative AI to share fake news through visual, auditory, or textual content.
@@ -39,22 +33,17 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -66,19 +55,21 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -90,6 +81,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -99,11 +97,12 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -123,20 +122,24 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,42 +150,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-insights-into-windows-superior-video-players/"><u>[New] Exclusive Insights Into Window's Superior Video Players</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-vital-top-5-compact-action-camera-selections/"><u>[New] In 2024, Vital Top 5 Compact Action Camera Selections</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-precise-video-queue-a-step-by-step-guide-to-creating-an-effective-playlist-on-youtube/"><u>[Updated] In 2024, Precise Video Queue  A Step-by-Step Guide to Creating an Effective Playlist on YouTube</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-seamless-twitch-content-upload-to-youtube-ready/"><u>[Updated] Seamless Twitch Content Upload to YouTube Ready</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-sites-like-famebit-where-you-can-find-youtube-sponsorships-for-2024/"><u>[Updated] Sites Like FameBit Where You Can Find YouTube Sponsorships for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-ultimate-mac-compatible-video-transcoder-superior-avchd-mkv-mov-mp4-format-conversion/"><u>1. Ultimate Mac-Compatible Video Transcoder: Superior AVCHD, MKV, MOV, MP4 Format Conversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai1080p8k/"><u>高精細映像への道 - AIを使った動画解像度アップテクニック（1080pから8K）</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-to-vr-travel-adventures/"><u>A Comprehensive Guide to VR Travel Adventures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-in-frame-creation-improve-performance-and-ensure-fluid-animation/"><u>Artificial Intelligence in Frame Creation: Improve Performance and Ensure Fluid Animation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/audio-service-halted-in-win-11-solution-provided/"><u>Audio Service Halted in Win 11, Solution Provided</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725290559257-blu-ray/"><u>Blu-Rayディスク用途：徹底解説!知識集め・再生手順・変換技術</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-de-formatos-video-convertir-vob-a-mp4-con-seguridad-anadida-en-windows-10-and-mac-os/"><u>Conversión De Formatos Vídeo: Convertir VOB a MP4 Con Seguridad Añadida en Windows 10 & Mac OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/die-top-5-besten-gratisk-mp3aac-player-fur-windows-und-macos-fuhrende-auswahl/"><u>Die Top 5 Besten Gratisk MP3/AAC-Player Für Windows Und macOS - Führende Auswahl</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725285123755-digiartydvd/"><u>Digiartyの公式ブログで新しいDVDコピーガイドを発表！</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-memory-vs/"><u>DVD Memory コンバータ - 無料利用可能か？ : 廉価版vsプレミアム版の違いと選択肢</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-steps-to-install-vlc-plugin-and-watch-dav-format-videos/"><u>Easy Steps to Install VLC Plugin & Watch DAV Format Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-advanced-quantum-hdr-methods/"><u>Exploring Advanced Quantum HDR Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-hevc-h265-codec-boost-your-videos-to-ultra-hd-quality-without-cost/"><u>Free HEVC H.265 Codec: Boost Your Videos to Ultra HD Quality without Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725286744738-handbrake/"><u>HandBrakeの日本語対応パッチが必要?最適な方法で日本語版を利用</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/los-top-ranking-reproductores-de-video-con-codec-h265-para-windows-11-y-mac-ultimo-modelo-2020/"><u>Los Top-Ranking Reproductores De Video Con Codec H.265 Para Windows 11 Y Mac - Último Modelo 2020</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725288793009-macdvd/"><u>Macでも成功しやすい高画質DVDライティング方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-screen-recording-essential-techniques-and-guidelines/"><u>Mastering the Art of Screen Recording: Essential Techniques & Guidelines</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/meilleurs-outils-logiciels-pour-compactage-video-et-reduction-des-tailles-de-fichiers/"><u>Meilleurs Outils Logiciels Pour Compactage Vidéo Et Réduction Des Tailles De Fichiers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/soluciones-rapidas-para-una-codificacion-eficiente-en-tiempo-real-con-hevch2numero-265/"><u>Soluciones Rápidas Para Una Codificación Eficiente en Tiempo Real Con HEVC/H.2número 265</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tech-support-qanda-winx-dvd-copy-software-troubleshooting-guide/"><u>Tech Support Q&A: WinX DVD Copy Software Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-streaming-exploring-advantages-and-limitations-of-av1-hevc-and-vvc-codecs/"><u>The Future of Streaming: Exploring Advantages & Limitations of AV1, HEVC, & VVC Codecs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-outstanding-4k-ultra-hd-video-players-for-pc-and-mac-reviews-and-downloads/"><u>Top 5 Outstanding 4K Ultra HD Video Players for PC and Mac: Reviews & Downloads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-mac-video-converter-apps-free-trials-and-in-depth-reviews/"><u>Top 7 Mac Video Converter Apps : Free Trials and In-Depth Reviews</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-images-into-ultra-high-definition-uhd-using-winxvideo-ai/"><u>Transform Images Into Ultra-High Definition (UHD) Using Winxvideo AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-enabling-mp4-support-in-windows-media-player/"><u>Troubleshooting Guide: Enabling MP4 Support in Windows Media Player</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-for-burning-dvd-discs-using-windows-11-illustrated-steps-inside/"><u>Ultimate Tutorial for Burning DVD Discs Using Windows 11 - Illustrated Steps Inside</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unearthing-the-roots-of-human-verbal-expression/"><u>Unearthing the Roots of Human Verbal Expression</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-creative-potential-with-expert-macro-video-cinematography-guidance/"><u>Unlock Creative Potential with Expert Macro Video Cinematography Guidance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/when-can-we-expect-to-get-windows-11-release-timeline-for-north-america-and-overseas-markets/"><u>When Can We Expect to Get Windows 11? Release Timeline for North America and Overseas Markets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-dvd-ripper-gold-herunterladen-fur-android-und-ios-gerate/"><u>WinX DVD Ripper Gold: Herunterladen Für Android Und iOS Geräte</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725287384183-winx-dvd-ripper/"><u>WinX DVD Ripperで文字変換の破損を直す方法</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725287818933-winxdvd/"><u>オンラインで安全買い求めるWinXビデオDVDチェンジャーパック</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-angled-artistry-elevating-youtube-video-editing-skills-for-2024/"><u>[New] Angled Artistry Elevating YouTube Video Editing Skills for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-a-chill-out-guide-selecting-inviting-winter-backgrounds/"><u>[New] In 2024, A Chill-Out Guide Selecting Inviting Winter Backgrounds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-interactive-escapes-top-10-virtual-accessories/"><u>[New] Interactive Escapes Top 10 Virtual Accessories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-advice-for-pc-users-easy-setup-and-best-practices-for-nvidias-cutting-edge-rtx-chatbot/"><u>Expert Advice for PC Users: Easy Setup & Best Practices for NVIDIA’s Cutting-Edge RTX Chatbot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-understanding-its-capabilities-and-applications-in-the-realm-of-generative-artificn-intelligence/"><u>Exploring ChatGPT: Understanding Its Capabilities & Applications in the Realm of Generative Artificn Intelligence</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-t2-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-drivers-in-windows-11-by-drivereasy-guide/"><u>How to use Device Manager to update drivers in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/large-language-models-face-off-which-reigns-supreme-bard-chatgpt-or-offline-alpaca/"><u>Large Language Models Face-Off: Which Reigns Supreme - Bard, ChatGPT or Offline Alpaca?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-tips-top-5-gpt-powered-tricks-to-streamline-routine-hr-operations/"><u>Quick Tips: Top 5 GPT-Powered Tricks to Streamline Routine HR Operations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722982170944-steam-remote-play-issues-heres-how-you-can-fix-them-now/"><u>Steam Remote Play Issues? Here's How You Can Fix Them Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-showdown-twitchs-challenge-to-youtubes-market/"><u>The Ultimate Showdown Twitch's Challenge to YouTube's Market</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-new-academic-insights-through-the-use-of-4-powerful-ai-research-tools/"><u>Unlock New Academic Insights Through the Use of 4 Powerful AI Research Tools</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-resize-and-reframe-how-to-crop-videos-in-avidemux-for-better-storytelling/"><u>Updated Resize and Reframe How to Crop Videos in Avidemux for Better Storytelling</u></a></li>
 </ul></div>
+

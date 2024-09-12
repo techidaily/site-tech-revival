@@ -1,0 +1,91 @@
+---
+title: "Unlocking Insights: Utilizing ChatGPT in Your Data Analytic Practices"
+date: 2024-09-11T19:32:00.277Z
+updated: 2024-09-12T19:32:00.277Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Unlocking Insights: Utilizing ChatGPT in Your Data Analytic Practices"
+excerpt: "This Article Describes Unlocking Insights: Utilizing ChatGPT in Your Data Analytic Practices"
+thumbnail: https://thmb.techidaily.com/d8f2922d20e310fe909f77a8d8b81c6fbacf60f301e5bf6586c75f1b0b08c5ac.jpeg
+---
+
+## Unlocking Secrets: $50 Mobile Phone Deal + Demystifying Ransomware Decryption Tactics
+
+ Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
+
+ For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
+
+ You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Shownotes
+
+This week, we chat about the following tech news that matters:
+
+* [ChatGPT banned in Italy over privacy concerns](https://www.bbc.co.uk/news/technology-65139406)
+* [Twitter's blue ticks disappear as Musk attacks NY Times](https://www.bbc.co.uk/news/technology-65156216)
+* [Mobile phone inventor made first call 50 years ago](https://www.bbc.co.uk/news/technology-65112048)  
+  * [The Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
+We've got these explainers:
+
+* [Can All Ransomware Be Decrypted?](https://www.makeuseof.com/can-all-ransomware-be-decrypted/)
+* [How to Fix Games That Won't Work in Windows](https://www.makeuseof.com/fix-games-not-working-windows/)
+* [Reasons to Use Office Online/Microsoft 365](https://www.makeuseof.com/tag/dont-pay-word-5-reasons-use-office-online/)
+
+We finish the show with the following recommendations:
+
+* [RoomGPT](http://https://www.roomgpt.io/)
+* [Booom AI Quiz](https://booom.ai/)
+* [HelloTalk](https://www.hellotalk.com/?lang=en)
+
+ Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-in-the-ring-with-video-recording-who-will-triumph-obs-or-bandicam/"><u>[New] 2024 Approved In the Ring with Video Recording Who Will Triumph, OBS or Bandicam?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-enhancing-photos-with-chronological-details/"><u>[New] In 2024, Enhancing Photos with Chronological Details</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-pioneering-your-path-to-viral-content-exquisite-templates-for-tiktok-videos/"><u>[New] In 2024, Pioneering Your Path to Viral Content Exquisite Templates for TikTok Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-demystifying-twitters-ad-formats-and-targeting-options-for-2024/"><u>[Updated] Demystifying Twitter's Ad Formats and Targeting Options for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ving-youtube-earnings-excellence-strategies-and-beyond-for-2024/"><u>Achieving YouTube Earnings Excellence - Strategies and Beyond for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/android-and-ios-tips-for-optimal-chatgpt-use/"><u>Android & iOS Tips for Optimal ChatGPT Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-intent-why-chatgpt-is-a-prime-target-for-cyber-attacks/"><u>Decoding the Intent: Why ChatGPT Is a Prime Target for Cyber Attacks?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-meditation-with-chatgpt-suggestions/"><u>Enhancing Meditation With ChatGPT Suggestions</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-130-music-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia 130 Music in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-vivo-v27-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Vivo V27 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-productivity-with-these-9-essential-chatgpt-plugins-ready-for-instant-use/"><u>Maximize Productivity with These 9 Essential ChatGPT Plugins, Ready for Instant Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-progress-discovering-the-top-5-promising-ai-hardware-breakthroughs/"><u>Pioneering Progress: Discovering the Top 5 Promising AI Hardware Breakthroughs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/precision-tools-enhancing-chatgpt-on-a-macos-device/"><u>Precision Tools: Enhancing ChatGPT on a macOS Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-headphone-and-speaker-connectivity-issues-in-windows-operating-systems-11-8-and-ebuild/"><u>Troubleshooting Headphone and Speaker Connectivity Issues in Windows Operating Systems: 11, 8 & Ebuild</u></a></li>
+</ul></div>
+

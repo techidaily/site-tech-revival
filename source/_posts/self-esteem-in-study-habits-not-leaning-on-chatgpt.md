@@ -1,0 +1,163 @@
+---
+title: "Self-Esteem in Study Habits: Not Leaning on ChatGPT"
+date: 2024-09-11T19:45:33.800Z
+updated: 2024-09-12T19:45:33.800Z
+tags:
+  - chatgpt
+  - open-ai
+categories:
+  - openAI
+  - chatgpt
+description: "This Article Describes Self-Esteem in Study Habits: Not Leaning on ChatGPT"
+excerpt: "This Article Describes Self-Esteem in Study Habits: Not Leaning on ChatGPT"
+thumbnail: https://thmb.techidaily.com/23c6d535c7ad4efdb52e10a3b68daec9ba5e42c7de8a668e1d922d4dde09167a.jpg
+---
+
+## Waiting on ChatGPT's Release? Don't Miss This Outstanding Open Source App Alternative
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Quick Links
+
+* [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
+* [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
+* [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### Key Takeaways
+
+* OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
+* However, an open-source ChatGPT desktop version is available as an alternative.
+* The official version is slowly rolling out to users, but it's a slow process.
+
+ As part of its massive 2024 Spring Update, OpenAI revealed that a long-awaited ChatGPT desktop version was incoming.
+
+ Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
+
+ But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## What Is the Open-Source ChatGPT Desktop Application?
+
+ ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
+
+[OpenAI's Spring Update launched GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) among a host of[other shiny new ChatGPT features](https://www.makeuseof.com/chatgpt-new-features-spring-update/) , wowing the world with its new capabilities.
+
+ The long-awaited desktop version was one of them—but intrepid ChatGPT users need to wait a little longer.
+
+ Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
+
+![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+## How to Install and Configure ChatGPT Desktop Application
+
+![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
+2. Download the applicable version for your operating system, then install it as per your operating system.
+3. Launch the ChatGPT Desktop Application.
+
+ Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
+
+![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## When Is the Official ChatGPT Desktop Version Launching?
+
+ The official ChatGPT Desktop app is already slowly rolling out to macOS users.
+
+ As with many of OpenAI's major updates, it takes time to filter through to the majority, and a Windows version will take longer still.
+
+ Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-laughter-loops-in-musical-landscape/"><u>[New] 2024 Approved Laughter Loops in Musical Landscape</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-professional-gamers-toolkit-advanced-recording-tactics/"><u>[New] Professional Gamers' Toolkit Advanced Recording Tactics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-maximizing-youtube-clicks-with-imagery/"><u>2024 Approved Maximizing YouTube Clicks with Imagery</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-the-apple-watch-with-gps-and-the-cellular-model-which-one-suits-you-best/"><u>Comparing the Apple Watch with GPS and the Cellular Model: Which One Suits You Best?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/defeating-the-netiosys-bluescreen-menace-in-windows-systems/"><u>Defeating the NETIO.SYS Bluescreen Menace in Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-openais-bug-bounty-initiative-a-guide-to-joining-the-ranks-of-security-researchers/"><u>Discovering OpenAI's Bug Bounty Initiative: A Guide to Joining the Ranks of Security Researchers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminating-faults-the-six-no-goes-of-ai-chatting/"><u>Eliminating Faults: The Six No-Goes of AI Chatting</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-fix-for-your-intel-wireless-ac-3160-quick-driver-update-steps/"><u>Get the Latest Fix for Your Intel Wireless-AC 3160: Quick Driver Update Steps!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-watch-fandango-at-home-on-apple-tv/"><u>How to Watch Fandango at Home on Apple TV</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/iphone-users-rejoice-chatgpt-now-available/"><u>IPhone Users Rejoice! ChatGPT Now Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-job-search-with-chatgpt-the-6-essentials-explained-for-modern-workers/"><u>Revolutionize Your Job Search with ChatGPT: The 6 Essentials Explained for Modern Workers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-substitutes-for-chatgpt-in-auto-coding-software-solutions/"><u>Top 7 Substitutes for ChatGPT in Auto-Coding Software Solutions</u></a></li>
+</ul></div>
+

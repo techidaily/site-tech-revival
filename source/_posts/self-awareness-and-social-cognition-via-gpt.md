@@ -1,7 +1,7 @@
 ---
 title: Self-Awareness and Social Cognition via GPT
-date: 2024-09-05T12:58:53.710Z
-updated: 2024-09-06T12:58:53.710Z
+date: 2024-09-11T19:28:09.276Z
+updated: 2024-09-12T19:28:09.276Z
 tags:
   - chatgpt
   - open-ai
@@ -13,12 +13,6 @@ excerpt: This Article Describes Self-Awareness and Social Cognition via GPT
 thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5f4531d4ca28b88dc8e90d86.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Decoding Ransomware: How Mobile Phones Can Help with Free Decryption Tools at Just $50
 
  Our weekly tech podcast for technophobes brings you the latest tech news that will affect you and some tips and tricks to help you get better results from your electronics.
@@ -28,11 +22,18 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Shownotes
 
 This week, we chat about the following tech news that matters:
@@ -56,14 +57,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -74,35 +72,18 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-edge-selecting-the-best-mobile-and-desktop-video-editors/"><u>[New] 2024 Approved  Instagram Edge  Selecting the Best Mobile & Desktop Video Editors</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-build-funny-images-kapwings-meme-studio/"><u>[Updated] Build Funny Images  Kapwing’s Meme Studio</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-how-to-use-phantom-slow-motion-camera-for-2024/"><u>[Updated] How to Use Phantom Slow Motion Camera for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-conversations-unleashed-assessing-the-superiority-of-chatgpt-vs-bings-latest-innovation/"><u>AI Conversations Unleashed: Assessing the Superiority of ChatGPT Vs. Bing's Latest Innovation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-legal-influence-unveiled/"><u>ChatGPT's Legal Influence Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-your-digital-sidekick-snapchats-my-ai-vs-chatgpt/"><u>Choosing Your Digital Sidekick: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquering-anxiety-effective-techniques-using-chatgpt/"><u>Conquering Anxiety: Effective Techniques Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/da-vincis-dynamic-duo-ai-and-artists-in-harmony/"><u>Da Vinci's Dynamic Duo – AI and Artists in Harmony</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diving-into-auto-gpt-vs-chatgpt-key-differences-explained/"><u>Diving Into Auto-GPT Vs. ChatGPT: Key Differences Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-chatgpts-performance-decline-debunking-the-myth-insights-from-openai/"><u>Does ChatGPT's Performance Decline? Debunking the Myth: Insights From OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-five-key-drivers-for-chatgpts-record-breaking-adoption-and-growth/"><u>Exploring Five Key Drivers for ChatGPT’s Record-Breaking Adoption and Growth</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-limitations-why-does-chatgpt-struggle-with-self-detection-of-generated-text/"><u>Exploring the Limitations: Why Does ChatGPT Struggle with Self-Detection of Generated Text?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-pixels-to-plot-an-excursion-in-chatgpt-rpgs/"><u>From Pixels to Plot: An Excursion in ChatGPT RPGs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-mobile-conversations-with-voicegpt-your-ultimate-guide-for-android-users/"><u>Mastering Mobile Conversations with VoiceGPT – Your Ultimate Guide for Android Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-professional-communication-utilizing-chatgpt-for-complex-workplace-emails/"><u>Mastering Professional Communication: Utilizing ChatGPT for Complex Workplace Emails</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-choices-find-your-fit-at-toms-hardware/"><u>Mastering Technology Choices: Find Your Fit at Tom's Hardware</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-with-ease-into-ai-enhanced-bing-setup-guide/"><u>Navigate with Ease Into AI-Enhanced Bing: Setup Guide</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-top-10-mac-video-tag-editors-for-effortless-organization/"><u>New Top 10 Mac Video Tag Editors for Effortless Organization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/privacy-expertise-with-proton-vpn-plugin-for-browsers/"><u>Privacy Expertise with Proton VPN Plugin for Browsers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-tech-gpt-enhancements-for-home-productivity/"><u>Smart Tech: GPT Enhancements for Home Productivity</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-wizardry-of-word-ai-enhanced-content-creation/"><u>The Wizardry of Word: AI-Enhanced Content Creation</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-strategies-leveraging-the-power-of-chatgpt-with-wolfram-alpha-integration/"><u>Top Strategies: Leveraging the Power of ChatGPT with Wolfram Alpha Integration</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/transform-your-android-footage-with-stunning-time-lapse-videos/"><u>Transform Your Android Footage with Stunning Time-Lapse Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-paperwork-into-intelligence-chatgpts-fourfold-path/"><u>Transforming Paperwork Into Intelligence: ChatGPT's Fourfold Path</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transparency-in-interaction-link-distribution-for-gpt-assisted-dialogues/"><u>Transparency in Interaction: Link Distribution for GPT-Assisted Dialogues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-top-5-pioneering-ai-processor-technologies/"><u>Unveiling the Top 5 Pioneering AI Processor Technologies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-13-simplified-pathways-to-cash-outdoors-reddit-community/"><u>[New] 2024 Approved 13 Simplified Pathways to Cash Outdoors Reddit Community</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-curated-collection-of-the-best-9-cross-device-video-calls-androidiphone/"><u>[New] In 2024, Curated Collection of the Best 9 Cross-Device Video Calls (Android/iPhone)</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-razr-40-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-xiaomi-redmi-k70-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Xiaomi Redmi K70 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chronicle-of-innovation-the-dawn-of-artificial-intelligence-an-historical-overview/"><u>Chronicle of Innovation: The Dawn of Artificial Intelligence – An Historical Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-restrictions-7-reasons-behind-the-ineffectiveness-of-current-chatgpt-jailbreaking-tactics/"><u>Exploring Restrictions: 7 Reasons Behind the Ineffectiveness of Current ChatGPT Jailbreaking Tactics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-strategies-for-online-video-photo-effects-implementation/"><u>Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-bandicam-review-enhancing-your-computer-with-effective-recording-techniques/"><u>In 2024, Bandicam Review Enhancing Your Computer with Effective Recording Techniques</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-magic-6-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor Magic 6 Phone Network-Ready</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomms-revolutionary-chips-in-laptops-how-the-snapdragon-x-series-powers-dell-xps-13-plus-with-extended-battery-life-at-half-price-of-intel-models/"><u>Qualcomm's Revolutionary Chips in Laptops: How the Snapdragon X Series Powers Dell XPS 13 Plus with Extended Battery Life at Half Price of Intel Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/triad-tactics-for-chatgpts-coexistence-with-wolframalpha/"><u>Triad Tactics for ChatGPT's Coexistence with WolframAlpha</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/whos-listening-unraveling-the-mysteries-behind-the-dead-internet-phenomenon/"><u>Who's Listening? Unraveling the Mysteries Behind the 'Dead Internet' Phenomenon</u></a></li>
 </ul></div>
+
