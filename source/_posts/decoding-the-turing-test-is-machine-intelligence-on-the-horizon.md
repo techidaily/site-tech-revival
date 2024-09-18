@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Turing Test: Is Machine Intelligence on the Horizon?"
-date: 2024-09-11T19:45:04.005Z
-updated: 2024-09-12T19:45:04.005Z
+date: 2024-09-11T22:46:53.703Z
+updated: 2024-09-18T09:06:27.896Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -38,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -60,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -74,19 +47,6 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -99,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -128,14 +88,17 @@ thumbnail: https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-from-amateurs-to-pros-transformative-steps-in-gopro-timelapses/"><u>[Updated] From Amateurs to Pros Transformative Steps in GoPro Timelapses</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-balancing-bandwidth-for-obs-streams/"><u>[Updated] In 2024, Balancing Bandwidth for OBS Streams</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tune-into-unparalleled-music-video-watching-best-android-vids-for-you/"><u>[Updated] Tune Into Unparalleled Music Video Watching Best Android Vids for You</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-step-by-written-by-a-language-model-ai-i-can-help-rewrite-the-paragraph-into-an-academic-style-but-please-note-that-my-responses-may-not-have-/"><u>2024 Approved Step-By Written by a Language Model AI. I Can Help Rewrite the Paragraph Into an Academic Style, but Please Note that My Responses May Not Have the Same Depth as Those Written by Subject Matter Experts. Here Is a Revised Version </u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-ai-verification-applications-for-teachers-lecturers-and-bosses-to-spot-fake-gpt-content/"><u>Essential AI Verification Applications for Teachers, Lecturers, and Bosses to Spot Fake GPT Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-secure-is-the-chatgpt-platform-from-cybersecurity-perspectspective/"><u>How Secure Is the ChatGPT Platform From Cybersecurity Perspectspective?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/increase-output-reduce-stress-working-smart-with-ai-companion-gpt/"><u>Increase Output, Reduce Stress: Working Smart with AI Companion GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-with-your-ubuntu-terminal-a-step-by-step-guide/"><u>Integrating ChatGPT with Your Ubuntu Terminal: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-xiaomi-14-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Xiaomi 14 Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-symphony-of-sounds-in-every-snapchat-story-for-2024/"><u>[New] Symphony of Sounds in Every Snapchat Story for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-piecing-together-a-unique-tiktok-outro-elements/"><u>[Updated] In 2024, Piecing Together A Unique TikTok Outro Elements</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-webcam-choices-for-peak-performance-in-all-your-zoom-meetings/"><u>[Updated] Prime Webcam Choices for Peak Performance in All Your Zoom Meetings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-datasafe-experts-assessment/"><u>2024 Approved DataSafe Experts Assessment</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-identifying-the-best-no-cost-video-calling-apps-iosandroid/"><u>2024 Approved Identifying the Best No-Cost Video Calling Apps (iOS/Android)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-humorhub-imagery-mememagic-inc/"><u>In 2024, HumorHub Imagery MemeMagic Inc</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/new-bee-lc-41-one-of-the-best-bluetooth-headsets-under-20/"><u>New Bee LC-41: One of the Best Bluetooth Headsets Under $20</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-communications-with-apples-advanced-pq3-shield-against-quantum-decryption-threats/"><u>Secure Your Communications with Apple's Advanced PQ3 Shield Against Quantum Decryption Threats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-the-process-how-to-effectively-transcode-from-dolby-truehd-to-eac-3/"><u>Streamlining the Process: How To Effectively Transcode From Dolby TrueHD to EAC-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-the-most-effective-skype-call-recorders-for-pc-mac-and-smartphones/"><u>The Ultimate Guide to the Most Effective Skype Call Recorders for PC, Mac, and Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-vob-file-conversion-tools-streamlining-your-media-with-easy-online-and-offline-solutions/"><u>Top VOB File Conversion Tools: Streamlining Your Media with Easy Online and Offline Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-tier-m4r-editors-unveiled-streamline-your-ringtones-and-mp3s-like-a-pro/"><u>Top-Tier M4R Editors Unveiled: Streamline Your Ringtones and MP3s Like a Pro</u></a></li>
 </ul></div>
 

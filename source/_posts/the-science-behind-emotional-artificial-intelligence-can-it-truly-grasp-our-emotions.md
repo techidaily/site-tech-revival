@@ -1,7 +1,7 @@
 ---
 title: The Science Behind Emotional Artificial Intelligence – Can It Truly Grasp Our Emotions?
-date: 2024-09-11T19:48:23.626Z
-updated: 2024-09-12T19:48:23.626Z
+date: 2024-09-13T00:25:41.267Z
+updated: 2024-09-18T01:47:33.913Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -38,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -54,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -68,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -87,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -116,13 +88,17 @@ thumbnail: https://thmb.techidaily.com/211db9f13ec1073ddec092ae09ea49a02164e4f7a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-essential-manual-to-operating-streamlabs-obs/"><u>[Updated] 2024 Approved The Essential Manual to Operating Streamlabs OBS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725290060321-ai-windowsmac/"><u>免費 AI 影片加強工具列表：最佳Windows和Mac版本之選</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-broadcasts-using-manycams-live-video-platform-and-digital-webcam-technology/"><u>Enhance Your Broadcasts Using ManyCam's Live Video Platform & Digital Webcam Technology</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia Lock Screen Password</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-pro-top-manycam-alternatives-for-virtual-camera-solutions/"><u>Live Streaming Pro - Top ManyCam Alternatives for Virtual Camera Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-with-manycam-professional-virtual-webcam-and-software-solutions/"><u>Live Streaming with ManyCam: Professional Virtual Webcam and Software Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/manycam-pro-premium-live-broadcast-tools-and-virtual-camera-experience/"><u>ManyCam Pro: Premium Live Broadcast Tools and Virtual Camera Experience</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-essential-adobe-premiere-hotkeys-to-boost-productivity/"><u>New In 2024, Essential Adobe Premiere Hotkeys to Boost Productivity</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-dive-deep-accessing-facebooks-story-vault-for-2024/"><u>[New] Dive Deep Accessing Facebook's Story Vault for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-screen-savvy-secure-your-captures-chromebooks-top-4-techniques-for-2024/"><u>[Updated] Screen Savvy Secure Your Captures - Chromebook's Top 4 Techniques for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029981736-iphone/"><u>異常な音量で動画記録したい場合、iPhoneの原因と対処技術</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5pya6ygp44gq5yuv55s75b2i5byp44go44ox44op44od44oi44ov44kp44o844og44gu6yg45a6a44gr5b2556ul44gk5o6i57si5oim55wl/"><u>最適な動画形式とプラットフォームの選定に役立つ探索戦略</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-11-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 11 Pro 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-10-non-browser-based-screen-capture-tools-for-your-pc/"><u>Best 10 Non-Browser Based Screen Capture Tools for Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-video-format-converter-from-dvd-to-avi-on-pc-optimized-for-windows-10-and-11-in-2e24/"><u>Best Video Format Converter From DVD to AVI on PC: Optimized for Windows 10 and 11 in 2E24</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-color-correction-advanced-techniques-for-lut-applications/"><u>In 2024, Maximizing Color Correction Advanced Techniques for LUT Applications</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-honor-x9a-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor X9a FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029169188-webm/"><u>WEBMにおける音響・視覚処理の新たな二段階方式</u></a></li>
 </ul></div>
 

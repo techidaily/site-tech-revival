@@ -1,7 +1,7 @@
 ---
 title: "Microsoft ChatGPT Vs. Google Gemini AI: Who Leads in Smart Conversations?"
-date: 2024-09-11T19:40:38.132Z
-updated: 2024-09-12T19:40:38.132Z
+date: 2024-09-12T02:47:13.591Z
+updated: 2024-09-18T11:26:36.099Z
 tags:
   - chatgpt
   - open-ai
@@ -20,30 +20,10 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
 * [How to Hide ChatGPT Chats on Your iPhone](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-your-iphone)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -65,24 +45,18 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
 
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
 2. Select**Settings** from the context menu.
@@ -91,20 +65,14 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
- Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
-
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
 
 ## How to Hide ChatGPT Chats on Your iPhone
 
@@ -117,27 +85,27 @@ thumbnail: https://thmb.techidaily.com/0232d564f9edec1eb792bb4bc9c0ce9205dc45825
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to View Your Hidden Chats in the ChatGPT App
 
@@ -149,13 +117,6 @@ Close
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
@@ -184,12 +145,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-tips-for-easy-youtube-thumbnail-acquisition-zero-price/"><u>2024 Approved Quick Tips for Easy YouTube Thumbnail Acquisition – Zero Price</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-s18-pro-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo S18 Pro</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-soundmax-drivers-for-windows-computers/"><u>Download & Install SoundMAX Drivers for Windows Computers</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-using-manycam-cutting-edge-livestream-tech-and-remote-cam-devices/"><u>Transform Your Broadcasts Using ManyCam: Cutting-Edge Livestream Tech & Remote Cam Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-top-tier-live-video-and-webcam-technology/"><u>Transform Your Broadcasts with ManyCam - Top-Tier Live Video and Webcam Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-choice-in-live-video-software-and-virtual-cam-tech/"><u>Transform Your Broadcasts with ManyCam – The Leading Choice in Live Video Software and Virtual Cam Tech</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masterful-motivational-webcast-maker/"><u>[New] Masterful Motivational Webcast Maker</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-steps-for-effective-screen-capture-in-adobe-captivity/"><u>[Updated] Essential Steps for Effective Screen Capture in Adobe Captivity</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-sims-chronicles-unplugged-innovative-techniques-to-recording-without-reliance-on-video/"><u>2024 Approved Sims Chronicles Unplugged Innovative Techniques to Recording Without Reliance on Video</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-strategies-improve-prompt-engineering-through-key-web-based-applications/"><u>Advanced Strategies: Improve Prompt Engineering Through Key Web-Based Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-books-with-intelligence-the-best-5-ai-recommendation-services-for-avid-readers/"><u>Explore Books with Intelligence: The Best 5 AI Recommendation Services for Avid Readers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-crucial-is-being-polite-to-your-virtual-helpers-including-chatgpt-alexa-and-siri/"><u>How Crucial Is Being Polite to Your Virtual Helpers Including ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-filtering-work-in-ai-chatbots-and-why-should-you-care/"><u>How Does Filtering Work in AI Chatbots and Why Should You Care?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-leveraging-preview-capabilities-on-a-mac/"><u>In 2024, The Ultimate Guide to Leveraging Preview Capabilities on a Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/irecorder-the-screen-recording-standard-for-2024/"><u>IRecorder The Screen Recording Standard for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-access-the-role-of-vpn-technology/"><u>Navigating ChatGPT Access: The Role of VPN Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-to-ai-find-your-mentors-in-these-top-9-groups/"><u>New to AI? Find Your Mentors in These Top 9 Groups</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-effortless-installation-of-ft232r-usb-uart-drivers-for-all-users/"><u>Quick & Effortless Installation of FT232R USB UART Drivers for All Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-imagination-11-ai-driven-techniques-to-build-captivating-book-characters/"><u>Unleash Your Imagination: 11 AI-Driven Techniques to Build Captivating Book Characters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlock-immediate-advantages-with-ios-153-update-without-delay/"><u>Unlock Immediate Advantages with iOS 15.3 - Update Without Delay</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-10-best-free-os-agnostic-video-solutions/"><u>Unveiling the 10 Best Free OS-Agnostic Video Solutions</u></a></li>
 </ul></div>
 

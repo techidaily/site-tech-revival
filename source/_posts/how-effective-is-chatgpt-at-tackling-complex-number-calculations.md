@@ -1,7 +1,7 @@
 ---
 title: How Effective Is ChatGPT at Tackling Complex Number Calculations?
-date: 2024-09-11T19:47:43.649Z
-updated: 2024-09-12T19:47:43.649Z
+date: 2024-09-15T21:54:31.696Z
+updated: 2024-09-17T18:28:37.251Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Can ChatGPT Solve Arithmetic and Algebra Problems?
 
  Before attempting to have ChatGPT solve any complex problems, it’s important to determine whether it understands the fundamentals. One user went viral for finding that ChatGPT would respond with eight when asked what five plus two equals—but as time passes, it’s likely that such basic errors have been fixed.
@@ -41,32 +34,11 @@ thumbnail: https://thmb.techidaily.com/97bffd7aabaab6ce88cfb81baf09f210aa957590a
 
 ![asking chatgpt to solve 8 divided by 1 plus 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![asking chatgpt to solve 5 divided by 6 minus 2 divided by 8](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-2.jpg)
 
 ![Asking chatgpt to solve 1.195 minus 1.128](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![asking chatgpt to solve 2.98 minus 4 divided by 13](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/arithmetic-4-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -82,19 +54,6 @@ Close
 
 ![asking chatgpt to solve a quadratic equation where x squared plus six times x plus 8 equals zero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/algebra-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
 ## Can ChatGPT Solve Geometry and Trigonometry Problems?
@@ -109,19 +68,6 @@ Close
 
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Interestingly, ChatGPT was exceedingly quick to walk back its confident response to the inscribed angle problem as soon as it was asked for an explanation. This is even though it was plainly stated that points A, B, and C all lie on the circumference of the circle, with the clear implication that the inscribed angle theorem would apply to the problem.
@@ -134,13 +80,6 @@ Close
 
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
 
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
@@ -148,19 +87,6 @@ Close
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
 
 Close
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can ChatGPT Solve Calculus Problems?
 
@@ -174,39 +100,19 @@ Close
 
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
 
 Close
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is ChatGPT Accurate at Solving Math Problems?
@@ -214,6 +120,13 @@ Close
  Overall, ChatGPT is accurate at solving math problems. It is highly capable of answering and explaining questions from a broad assortment of topics in math. The main issue that ChatGPT faces is that it isn’t as capable of correcting false assumptions and misunderstandings—and in some cases, it can affirm mistakes without being prompted to do so.
 
  That doesn’t make ChatGPT a bad tool for solving math problems. In many cases, ChatGPT serves as a reliable and accurate time-saver—and it’s completely free to use. The mistakes made by ChatGPT don’t condemn it, but they do serve as a reminder that you need to[use the right techniques when working with ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) and double-check its answers.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT’s Equation Solving Limitations
 
@@ -223,13 +136,6 @@ Close
 * ChatGPT always answers confidently. If you aren’t familiar enough with math to discern when it gives an incorrect answer but rely on it for learning, you may develop serious misunderstandings about concepts in math over time.
 * ChatGPT bends to the will of the user. Regardless of whether you intend to manipulate its answers, it may offer incorrect information to appease you if something in your response triggers it.
 * ChatGPT may not pick up on inherent errors in the information that you give it. You should reconsider using ChatGPT for math if you aren’t familiar enough with a concept because it may simply reinforce your misunderstanding.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Use ChatGPT Carefully When Solving Math Problems
 
@@ -252,18 +158,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-xr-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone XR iCloud Lock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-data-leaks-understanding-botnet-vulnerabilities/"><u>Avoiding Data Leaks: Understanding Botnet Vulnerabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypass-pitfalls-with-expert-advice-on-avoiding-6-key-chatgpt-mistakes/"><u>Bypass Pitfalls with Expert Advice on Avoiding 6 Key ChatGPT Mistakes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-for-developing-persuasive-business-proposals-that-close-deals/"><u>ChatGPT Secrets for Developing Persuasive Business Proposals That Close Deals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/child-friendly-gpt-interactions-the-essential-5-tips/"><u>Child-Friendly GPT Interactions: The Essential 5 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-6-affordable-replacements-for-openai-sora-that-offer-free-trials/"><u>Discover 6 Affordable Replacements for OpenAI Sora That Offer Free Trials</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-tecno-camon-30-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Tecno Camon 30 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-samsung-galaxy-xcover-7-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Samsung Galaxy XCover 7 Without PUK Codes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-hybrid-graphics-issue-with-intellnvidia-on-windows-1e0/"><u>Resolving Hybrid Graphics Issue with Intell/Nvidia on Windows 1E0</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-conversion-from-dall-es-webp-images-to-png-jpg/"><u>Seamless Conversion From DALL-E's WebP Images to PNG, JPG</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-undetected-device-issues-with-bluetooth-in-windows-11/"><u>Troubleshooting Guide: Resolving Undetected Device Issues with Bluetooth in Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-stop-deathloop-from-crashing-on-your-computer/"><u>Troubleshooting Guide: Stop Deathloop From Crashing on Your Computer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-craft-clearer-crisper-youtube-videos-with-quality-tools-for-2024/"><u>[New] Craft Clearer, Crisper YouTube Videos with Quality Tools for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-maximizing-visibility-on-twitter-campaigns/"><u>[Updated] Maximizing Visibility on Twitter Campaigns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm6zplust5rwb44oj44op44oe44ov44oq44o844oa44km44oz44ot44o844oj44k144kk44oi44oi44od44ox5o6o6jam44cn/"><u>「韓流ドラマフリーダウンロードサイトトップ推薦」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-adventure-at-a-glance-comparing-gopros-hero5-b-and-session/"><u>2024 Approved Adventure at a Glance Comparing GoPro's Hero5 B & Session</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-enigma-exchange-where-anonymity-meets-digital-riches-2023-edition/"><u>2024 Approved The Enigma Exchange Where Anonymity Meets Digital Riches, 2023 Edition</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1726228001654-m1vavi-movavi/"><u>線上免費變更影片格式：由M1V改成AVI - Movavi視頻轉框器指南</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-video-converter-for-playstation-portable-ensure-compatibility-with-psp-friendly-formats/"><u>Best Video Converter for PlayStation Portable: Ensure Compatibility with PSP-Friendly Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clipchamp-on-windows-11-how-to-free-trim-videos-without-compression/"><u>ClipChamp on Windows 11: How to Free Trim Videos Without Compression</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-the-highest-quality-kodi-fpps-and-plug-ins-for-xbmc-19-and-18/"><u>Comprehensive Guide to the Highest Quality Kodi FPPs and Plug-Ins for XBMC 19 and 18</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-unique-iphone-alerts-a-comprehensive-tutorial-on-converting-m4a-to-m4r-formats/"><u>Creating Unique iPhone Alerts: A Comprehensive Tutorial on Converting M4A to M4R Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-the-latest-update-convert-your-videos-to-gifs-with-wonderfox-v11/"><u>Download the Latest Update: Convert Your Videos to GIFs with WonderFox V1.1!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-streamlined-process-chromeandroidios-tiktok-posting/"><u>In 2024, Streamlined Process Chrome/Android/iOS TikTok Posting</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win-dash.techidaily.com/logitech-m525-keyboard-drivers-and-software-installation-guide/"><u>Logitech M525 Keyboard: Drivers & Software Installation Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-honor-x50-gt-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Honor X50 GT Screen | Dr.fone</u></a></li>
 </ul></div>
 

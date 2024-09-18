@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Twitter's Latest Features: Ax Gestures & Custom Emojis"
-date: 2024-09-11T19:47:02.413Z
-updated: 2024-09-12T19:47:02.413Z
+date: 2024-09-16T18:51:53.851Z
+updated: 2024-09-18T03:31:19.586Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,34 +44,13 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
 
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ability to Create Custom GPTs
 
  GPT-4 Turbo’s arrival is big news, but what you’ll perhaps find more exciting is the ability GPTs feature. In its simplest form, custom GPTs allow you to create mini versions of ChatGPT customized for specific purposes. ​I knocked up an example of an extremely basic custom GPT in seconds, asking the model to help me in Football Manager 2024.
 
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -93,19 +65,19 @@ Close
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT’s Evolution Continues
@@ -129,16 +101,13 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/total-war-troy-stability-problems-fixed-for-seamless-gaming-experience-on-pc/"><u>'Total War: Troy' Stability Problems Fixed for Seamless Gaming Experience on PC</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-enhancing-your-feed-with-new-instagram-filters/"><u>[New] 2024 Approved Enhancing Your Feed with New Instagram Filters</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-dive-into-action-footage-selecting-top-notch-cams-addons/"><u>[Updated] In 2024, Dive Into Action Footage Selecting Top-Notch Cams Addons</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-diving-into-the-essence-of-verified-instagramselfies/"><u>[Updated] In 2024, Diving Into the Essence of Verified Instagramselfies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-confidentiality-at-risk-insights-into-neural-model-inversion-attacks/"><u>Chatbot Confidentiality at Risk? Insights Into Neural Model Inversion Attacks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-productivity-seamlessly-discover-how-onlyoffice-docspace-leverages-chatgpt/"><u>Enhancing Productivity Seamlessly: Discover How ONLYOFFICE DocSpace Leverages ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-utilize-chatgpt-for-tailored-car-modification-advice-and-support/"><u>How to Utilize ChatGPT for Tailored Car Modification Advice and Support</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-simple-strategies-for-stellar-sports-highlights/"><u>In 2024, Simple Strategies for Stellar Sports Highlights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-vector-databases-on-advancing-ai-technology/"><u>The Impact of Vector Databases on Advancing AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-even-if-you-dont-have-an-account-discover-5-methods/"><u>Unlock the Power of ChatGPT Even If You Don't Have an Account - Discover 5 Methods</u></a></li>
-<li><a href="https://windows11.techidaily.com/unseen-steps-eliminating-security-qanda-for-windows-11-admin/"><u>Unseen Steps: Eliminating Security Q&A for Windows 11 Admin</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-of-wmv-videos-to-mp4-ideal-techniques-for-windows-macos-and-cloud-solutions/"><u>Effortless Conversion of WMV Videos to MP4: Ideal Techniques for Windows, MacOS & Cloud Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-techniques-for-music-videos-make-them-mp4s-or-mp3s-with-these-tips/"><u>Effortless Conversion Techniques for Music Videos - Make Them MP4s or MP3s with These Tips!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-on-burning-dvds-with-handbrake-proven-techniques-inside/"><u>Expert Tips on Burning DVDs with Handbrake - Proven Techniques Inside!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-realme-gt-neo-5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Realme GT Neo 5 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlocking-youtubes-hidden-gems-keyword-research/"><u>In 2024, Unlocking YouTube's Hidden Gems Keyword Research</u></a></li>
+<li><a href="https://discover-help.techidaily.com/top-6-key-elements-impacting-video-clarity-and-performance-resolution-data-transfer-speed-frames-per-second-compression-ratio-color-information/"><u>Top 6 Key Elements Impacting Video Clarity & Performance: Resolution, Data Transfer Speed, Frames Per Second, Compression Ratio, Color Information</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day/"><u>Ultimate Collection 20 Chuckle-Inducing Detention Cell Photos for a Better Day</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-huawei-nova-y91-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Huawei Nova Y91 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

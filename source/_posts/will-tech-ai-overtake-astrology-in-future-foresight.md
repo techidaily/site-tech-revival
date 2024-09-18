@@ -1,7 +1,7 @@
 ---
 title: Will Tech AI Overtake Astrology in Future Foresight?
-date: 2024-09-11T19:47:54.238Z
-updated: 2024-09-12T19:47:54.238Z
+date: 2024-09-12T04:40:53.480Z
+updated: 2024-09-17T20:43:19.919Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is a Vector Database?
 
  A vector database is a way to store information through the use of vectors. Unlike the usual form of databases that organize data as tabulated lists, vector databases organize data through high-dimensional vectors. These vectors can then be represented in mathematical space as vector embeddings.
@@ -41,31 +34,11 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
@@ -88,21 +61,34 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -110,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -126,19 +105,6 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 * **Milvus** : An open-source vector platform built with similarity search and AI applications in mind. It provides quick and efficient indexing and search capabilities for high-dimensional vectors. In addition, Milvus supports multiple indexing algorithms and offers SDKs for various programming languages.
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of Vector Databases
 
@@ -161,17 +127,20 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-10-strategies-for-educators-starting-their-own-youtube-series-for-2024/"><u>[Updated] 10 Strategies for Educators Starting Their Own YouTube Series for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-strategies-to-thrive-on-snapchat-as-a-business-entity/"><u>[Updated] Strategies to Thrive on Snapchat as a Business Entity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-efficiency-top-7-amazing-benefits-of-using-chatgpt-in-the-office/"><u>Boost Your Efficiency: Top 7 Amazing Benefits of Using ChatGPT in the Office</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-open-issues-windows-11s-mail-and-calendar-hiccup/"><u>Fixing Open Issues: Windows 11'S Mail & Calendar Hiccup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/forza-horizon-4-bootup-problems-expert-fixes-and-solutions/"><u>Forza Horizon 4 Bootup Problems : Expert Fixes & Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-expert-mac-animation-saver/"><u>In 2024, Expert Mac Animation Saver</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-farm-frenzy-the-ultimate-group-game-guide-for-farms/"><u>In 2024, Farm Frenzy The Ultimate Group Game Guide for Farms</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-whats-different-about-vegaspro-since-its-launch/"><u>In 2024, What's Different About VegasPro Since Its Launch?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/lock-your-oppo-reno-11-pro-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Oppo Reno 11 Pro 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-efficiency-with-these-8-innovative-uses-for-auto-gpt/"><u>Maximize Efficiency with These 8 Innovative Uses for Auto-GPT</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tailoring-your-canvas-a-guide-to-erasing-background-elements-for-2024/"><u>Tailoring Your Canvas A Guide to Erasing Background Elements for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-hugging-face-its-purpose-and-applications/"><u>Understanding Hugging Face: Its Purpose & Applications</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlock-words-full-potential-with-easy-speech-to-text-features-for-2024/"><u>[New] Unlock Word's Full Potential with Easy Speech-to-Text Features for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd8pc/"><u>無料DVDコンバータソフト8つ選び！PCに驚きの取り込み経由</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/discover-the-top-9-free-online-tools-to-craft-your-logo/"><u>Discover the Top 9 Free Online Tools to Craft Your Logo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-access-free-dreamy-slumber-nighttime-videos-now-available-for-sharing-on-social-platforms/"><u>Easy Access: Free 'Dreamy Slumber' Nighttime Videos, Now Available for Sharing on Social Platforms!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-changing-video-captions-without-altering-the-original-file/"><u>Easy Guide: Changing Video Captions Without Altering the Original File</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-to-enjoy-mkv-movies-and-more-on-your-xbox-360-console/"><u>Easy Steps to Enjoy MKV Movies and More on Your Xbox 360 Console</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-converting-the-carrie-tv-series-from-dvds-onto-your-ipad-screen-with-simple-steps/"><u>Guide: Converting the Carrie TV Series From DVDs Onto Your iPad Screen with Simple Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-the-ultimate-guide-to-saving-your-favorite-youtube-videos-on-ipad-using-top-video-extraction-tools/"><u>Guide: The Ultimate Guide to Saving Your Favorite YouTube Videos on iPad Using Top Video Extraction Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-days-gone-pc-version-installation-issues-a-step-by-step-guide/"><u>How To Fix 'Days Gone' PC Version Installation Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-navigate-and-access-contents-of-a-ts-file-efficiently-your-ultimate-step-by-step-manual/"><u>How to Navigate and Access Contents of a .TS File Efficiently - Your Ultimate Step-by-Step Manual</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/simultaneous-screen-and-camera-capture-guide-for-2024/"><u>Simultaneous Screen & Camera Capture Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tips-for-faster-ppt-video-engagement/"><u>Tips for Faster PPT Video Engagement</u></a></li>
+<li><a href="https://facebook.techidaily.com/whatsapp-extends-timeline-for-privacy-update-announcement/"><u>WhatsApp Extends Timeline for Privacy Update Announcement</u></a></li>
 </ul></div>
 

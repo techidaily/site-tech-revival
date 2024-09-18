@@ -1,7 +1,7 @@
 ---
 title: "Unearthing Claude 2: Its Purpose & Impact"
-date: 2024-09-11T19:44:02.434Z
-updated: 2024-09-12T19:44:02.434Z
+date: 2024-09-14T04:26:18.831Z
+updated: 2024-09-18T03:34:45.933Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/d31c6f93e50a0d4cef2f6b0259a76d22bb0769d48
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -66,20 +59,23 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-introduce-natural-photo-smear-in-ps/"><u>[New] Introduce Natural Photo Smear in PS</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-unveiling-simple-techniques-for-amazing-slow-motion-footage-in-android/"><u>[New] Unveiling Simple Techniques for Amazing Slow-Motion Footage in Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/binary-bonds-cybercrimes-romantic-ruse/"><u>Binary Bonds: Cybercrime's Romantic Ruse</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-newest-add-ons-a-quick-registration-guide/"><u>ChatGPT's Newest Add-Ons: A Quick Registration Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-broadcasts-with-manycams-cutting-edge-live-video-tools-and-webcam-emulation-technology/"><u>Elevate Your Broadcasts with ManyCam's Cutting-Edge Live Video Tools & Webcam Emulation Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-broadcasts-with-manycam-top-ranked-live-video-and-remote-webcam-software/"><u>Enhance Your Broadcasts with ManyCam: Top-Ranked Live Video and Remote Webcam Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycams-advanced-video-editing-tools-and-virtual-webcams/"><u>Enhance Your Online Presence with ManyCam's Advanced Video Editing Tools & Virtual Webcams</u></a></li>
-<li><a href="https://techtrends.techidaily.com/explained-what-is-wi-fi-calling-and-how-it-works/"><u>Explained: What Is Wi-Fi Calling and How It Works</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode without Computer?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/maximize-performance-install-new-nvidia-game-ready-graphics-card-drivers-for-pc/"><u>Maximize Performance: Install New NVIDIA Game Ready Graphics Card Drivers for PC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/raucous-revelations-top-10-scenarios-for-comedy-driven-videography-for-2024/"><u>Raucous Revelations Top 10 Scenarios for Comedy-Driven Videography for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/strategies-to-unblock-full-capacity-windows/"><u>Strategies to Unblock Full Capacity (Windows)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-strategies-for-integrating-chatgpt-into-academic-life/"><u>Top 5 Strategies for Integrating ChatGPT Into Academic Life</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unleash-your-inner-influencer-9-essential-instagram-steps/"><u>Unleash Your Inner Influencer 9 Essential Instagram Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-of-chatgpt-across-languages/"><u>Unveiling the Potential of ChatGPT Across Languages</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-10-free-recording-apps-for-slack-chats/"><u>[Updated] 2024 Approved Best 10 Free Recording Apps for Slack Chats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mobile-friendly-video-posts-on-twitter-excluding-retweets/"><u>[Updated] Mobile-Friendly Video Posts on Twitter Excluding Retweets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-how-to-listen-to-podcasts-on-your-iphone/"><u>2024 Approved How To Listen to Podcasts on Your iPhone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>2024 Approved Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-v30-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/captivate-with-crafted-cost-free-comic-templates-for-2024/"><u>Captivate with Crafted, Cost-Free Comic Templates for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-strategies-to-tackle-office-errors-a-winos-approach/"><u>Efficient Strategies to Tackle Office Errors: A WinOS Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-5-on-the-horizon-four-major-features-awaited-by-tech-enthusiasts/"><u>GPT-5 on the Horizon: Four Major Features Awaited by Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagine-the-kitchen-7-chatgpt-assisted-cooking-strategies/"><u>Reimagine the Kitchen: 7 ChatGPT-Assisted Cooking Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/stealthy-gpt-conversation-archiving-strategies/"><u>Stealthy GPT Conversation Archiving Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-chatbot-content-filtering-impacts-on-users/"><u>Understanding AI Chatbot Content Filtering: Impacts on Users</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

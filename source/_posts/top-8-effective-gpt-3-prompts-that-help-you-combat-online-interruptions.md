@@ -1,7 +1,7 @@
 ---
 title: Top 8 Effective GPT-3 Prompts That Help You Combat Online Interruptions
-date: 2024-09-11T19:44:11.754Z
-updated: 2024-09-12T19:44:11.754Z
+date: 2024-09-13T16:43:00.810Z
+updated: 2024-09-17T22:25:58.182Z
 tags:
   - chatgpt
   - open-ai
@@ -50,19 +50,6 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 ![Searching Sellers of Writing Services on Fiverr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fiverr-writing-services.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  AI has come a long way from spitting incoherent text. ChatGPT runs on advanced language models that produce natural, human-like phrases free of typos and grammatical errors. It already writes better than most inexperienced writers.
 
  Because of these advancements, gurus preach that content writers should start relying on ChatGPT. Some even advise automating the entire writing process.
@@ -71,23 +58,9 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 **Tip:** You don’t have to ditch ChatGPT altogether.[Writers can use AI responsibly](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) for topic research, idea generation, and simple coding.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Caption Writing
 
 ![Editing the Caption on an Instagram Post](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/instagram-post-captions.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Users often write captions as an afterthought. They obsess over uploading the perfect post so much that they overlook other crucial elements. Some just bombard their captions with hashtags.
 
@@ -104,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
  You can share your personal preferences. But don’t sell e-books of workout regimens, diets, and supplement recommendations unless you have the necessary certifications.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Coding Websites
@@ -119,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
  If you need to launch a website but don’t have any experience, use[no-code site builders](https://www.makeuseof.com/best-code-free-website-creators/) . They use drag-and-drop editors. Instead of manually typing source code, you can drag around page elements.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Email Marketing
@@ -131,46 +104,33 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 ![Sales Email for Cars on Gmail](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gmail-email-sales.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While ChatGPT can quickly write multiple sales emails, don’t expect positive results. Generic, sales-y templates yield low conversion rates.[Radicati](https://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf) reports that consumers send and receive 120+ emails daily—they’ll automatically ignore low-effort promotions. Some might even flag your account as spam.
 
  Instead of sending AI-generated pitches en masse, write personalized emails that address pain points and propose viable solutions. You should know what the market wants.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Creating and Selling Prompts
 
 ![Searching for ChatGPT Prompts on Github](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/github-chatgpt-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The way you phrase your prompts affects ChatGPT’s responses. Straightforward questions trigger basic answers, but clever phrasing and precise instructions maximize language models.
 
  Let’s say you want to learn about AI. The below photo shows what ChatGPT says if you ask the question outright.
 
 ![ChatGPT Explains the Meaning of AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-ai-explanation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Meanwhile, the below image demonstrates how additional instructions change ChatGPT’s output.
 
@@ -180,18 +140,18 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 ![Requesting ChatGPT to Bypass Restrictions and Make Predictions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_as_dan_prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Although ChatGPT supposedly can’t make predictions, the DAN prompt allowed it to bypass restrictions and state unverified claims, as you can see below.
 
 ![ChatGPT Making Predictions About Unsure Instances](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt_making_predictions.jpg)
 
  Since most people are new to AI chatbots, few can craft precise instructions. Users need skilled prompt engineers. They’ll pay for working, up-to-date prompts, which you can sell on[GitHub](https://github.com/) repositories, Reddit threads, and social media sites.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Explore Responsible Ways to Make Money With AI
 
@@ -214,20 +174,16 @@ thumbnail: https://thmb.techidaily.com/f6b66ac253e72b1db3b7035e49bd4e3f144338d6a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-building-a-successful-livestream-empire-youtube-edition/"><u>[New] 2024 Approved Building a Successful Livestream Empire YouTube Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>[New] Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-secure-practices-for-storing-video-conversations/"><u>2024 Approved Secure Practices for Storing Video Conversations</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-budget-pcie-40-motherboards-for-amd-users-the-comprehensive-review-of-b550-chipset-candidates/"><u>Best Budget PCIe 4.0 Motherboards for AMD Users: The Comprehensive Review of B550 Chipset Candidates</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-drivers-hp-officejet-pro-8610-compatible-with-windows-1087xpvista/"><u>Download & Update Drivers: HP Officejet Pro 8610 Compatible with Windows 10/8/7/XP/Vista</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycam-the-ultimate-live-video-solution-and-fake-webcam-tool/"><u>Enhance Your Online Presence with ManyCam - The Ultimate Live Video Solution and Fake Webcam Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycams-advanced-live-stream-and-virtual-cam-tech/"><u>Enhance Your Online Presence with ManyCam's Advanced Live-Stream and Virtual Cam Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-professional-live-streaming-features-of-manycam/"><u>Enhance Your Online Presence: Professional Live Streaming Features of ManyCam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-broadcasts-with-manycams-innovative-webcam-solutions/"><u>Enhancing Your Broadcasts with ManyCam's Innovative Webcam Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-manycam-installation-and-update-guide/"><u>Getting Started with ManyCam: Installation & Update Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-on-broadcasting-to-facebook-live-using-manycam-tips-and-troubleshooting/"><u>Guide on Broadcasting to Facebook Live Using ManyCam: Tips & Troubleshooting</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-7-plus-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 7 Plus Activation Lock</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-iphone-11-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock on Apple iPhone 11 Pro Max or iPad?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23-tactical-edition-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23 Tactical Edition Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-cam-pro-the-ultimate-multiplecam-alternative-for-seamless-online-broadcasts/"><u>Live Cam Pro: The Ultimate MultipleCam Alternative for Seamless Online Broadcasts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-the-world-of-digital-color-grading/"><u>[New] Exploring the World of Digital Color Grading</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unraveling-the-potential-of-aurora-hdr-tech/"><u>[Updated] In 2024, Unraveling the Potential of Aurora HDR Tech</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-how-many-viewer-thumbs-up-equals-money-youtube-tips/"><u>2024 Approved How Many Viewer Thumbs Up Equals Money? YouTube Tips</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/creative-holiday-fun-engaging-christmas-projects-for-children-and-learners/"><u>Creative Holiday Fun: Engaging Christmas Projects for Children & Learners</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-house-flipper-2-keeps-crashing-on-pcs/"><u>Effective Fixes for When House Flipper 2 Keeps Crashing on PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-conversion-from-m4v-to-mp4-on-windows-a-step-by-step-guide/"><u>Free Conversion From M4V to MP4 on Windows - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-tools-for-transforming-opus-audio-files-into-wav-format-top-3-picks/"><u>Free Tools for Transforming Opus Audio Files Into WAV Format: Top 3 Picks</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nize-body-and-mind-through-these-top-10-yogis-videos-for-2024/"><u>Harmonize Body and Mind Through These Top 10 Yogis' Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movhevc/"><u>MOVファイルとのHEVCコードチェンジ: 効率的なビデオエンコード・デコード手法</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-comprehensive-guide-advanced-avs-sound-editing-tools-and-comparative-analysis/"><u>New In 2024, Comprehensive Guide Advanced AVS Sound Editing Tools and Comparative Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-to-seamless-downloads-of-aerobic-workout-videos/"><u>Simple Steps to Seamless Downloads of Aerobic Workout Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Guide: Setting up Auto-GPT Automation"
-date: 2024-09-11T19:48:24.939Z
-updated: 2024-09-12T19:48:24.939Z
+date: 2024-09-16T16:07:53.249Z
+updated: 2024-09-17T16:10:49.669Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Create a Presentation From Scratch With ChatGPT
 
  Before diving into creating a presentation with ChatGPT, let's go over the steps involved. We'll use a combination of two AI tools to make this presentation.
@@ -42,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
  Of course, like most other[AI presentation tools](https://www.makeuseof.com/tools-use-ai-to-make-presentation/) , the free version of SlidesAI has limitations. You can only create three presentations per month, and the text for each presentation is limited to 2500 characters. You can purchase a paid plan to extend these limits.
 
  Once you've generated the presentation, all that is left is to make some final changes and export the presentation to any format you like. If you want to create a PowerPoint slideshow with AI, you can follow these same steps and then export the slideshow to PowerPoint.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Generate the Presentation Text With ChatGPT
 
@@ -62,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
 ![A sample conversation with ChatGPT to generate text for a presentation.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-presentation-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you have provided the information, ChatGPT will generate the presentation text for you. You can edit and refine the text to meet your needs and preferences. It's best to remove the structural phrases, such as the slide numbers and the image descriptions. Keep only the main text.
 
  If you'll be using the free version of SlidesAI, it's important to note that there are limits on the number of characters and slides. Specifically, the free version has a limit of 2500 characters and can generate no more than ten slides. You can adjust your prompt or edit the ChatGPT output if you need to work within these limits.
@@ -81,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Go to Google Slides.
 2. Create a blank presentation.
 3. Go to the**Extensions** menu.
@@ -97,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -112,6 +77,14 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 2. Go to SlidesAI and then click**Generate Slides** .  
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
@@ -120,37 +93,31 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like[adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/) .
 
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
 
@@ -188,18 +155,17 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-decoding-battery-selection-elevate-your-drones-flight-for-2024/"><u>[New] Decoding Battery Selection Elevate Your Drone's Flight for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-do-prompt-injection-attacks-compromise-ai-systems-an-exploration/"><u>How Do Prompt Injection Attacks Compromise AI Systems? An Exploration</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-13-pro-max-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 13 Pro Max Stuck On Activation Lock?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-live-broadcasts-with-manycam-your-essential-guide-to-remote-webcams-and-video-editing-applications/"><u>Master Live Broadcasts with ManyCam: Your Essential Guide to Remote Webcams and Video Editing Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-your-livestreams-discover-the-power-of-manycam-for-high-quality-virtual-webcams/"><u>Master Your Livestreams: Discover the Power of ManyCam for High-Quality Virtual Webcams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-your-online-presence-using-manycams-advanced-webcam-features/"><u>Master Your Online Presence Using ManyCam's Advanced Webcam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/multicam-pro-advanced-live-broadcast-technology-with-virtual-camera-capabilities/"><u>MultiCam Pro: Advanced Live Broadcast Technology with Virtual Camera Capabilities</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-in-2024-users-guide-how-to-create-photo-talking-videos-with-the-best-tools/"><u>New In 2024, Users Guide How To Create Photo Talking Videos With the Best Tools?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-vr-hurdles-effective-solutions-to-fix-phasmophobia-errors/"><u>Overcoming VR Hurdles: Effective Solutions to Fix Phasmophobia Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-with-manycam-premium-live-video-solution/"><u>Real-Time Streaming with ManyCam: Premium Live Video Solution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-with-manycam-ultimate-livestream-and-virtual-camera-solution/"><u>Real-Time Streaming with ManyCam: Ultimate Livestream and Virtual Camera Solution</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/top-12-real-time-youtube-subscriber-trackers-for-2024/"><u>Top 12 Real-Time YouTube Subscriber Trackers for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/understanding-the-widget-toolbar-functionality-in-win11/"><u>Understanding the Widget Toolbar Functionality in Win11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-integrated-sound-and-vision-workspace/"><u>[New] 2024 Approved Integrated Sound & Vision Workspace</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maximizing-memory-storing-snapshots-in-photo-albums-from-snapchat/"><u>[New] 2024 Approved Maximizing Memory Storing Snapshots in Photo Albums From Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unleash-your-potential-with-these-free-online-channels-for-fine-artists/"><u>[New] In 2024, Unleash Your Potential with These Free Online Channels for Fine Artists</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-from-noob-to-pro-selecting-webcams-that-make-a-difference-in-youtube-livestreams/"><u>[Updated] 2024 Approved From Noob to Pro Selecting Webcams That Make a Difference in YouTube Livestreams</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-boosting-zoom-performance-on-chrome-devices/"><u>[Updated] Boosting Zoom Performance on Chrome Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028865259-windows-media-player/"><u>効果的な手順でWindows Media Playerでファイル変換実現 - 全容解説</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/resolving-persistent-valheim-pc-crashes-tips-and-troubleshooting-steps/"><u>Resolving Persistent Valheim PC Crashes - Tips and Troubleshooting Steps</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-hot-30i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Hot 30i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028592580-wonderfox/"><u>WonderFoxエンコーダで効率的に動画エンコーディングの仕組みと技術</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028216086-dvd/"><u>マスタリングDVD音楽コピー技術：コピー保護システムの克服</u></a></li>
 </ul></div>
 

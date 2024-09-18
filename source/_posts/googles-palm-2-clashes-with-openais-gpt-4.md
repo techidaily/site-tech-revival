@@ -1,7 +1,7 @@
 ---
 title: Google's PaLM 2 Clashes with OpenAI's GPT-4
-date: 2024-09-11T19:46:32.031Z
-updated: 2024-09-12T19:46:32.031Z
+date: 2024-09-13T22:12:41.803Z
+updated: 2024-09-18T02:34:26.517Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 ![Programming codes on computer screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/markus-spiske-jg8nlwlrztm-unsplash-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One of the most exciting upgrades PaLM 2 brings to Bard AI is its support for over 20 programming languages, including Python, JavaScript, Fortran, C++, Verilog, and Prolog. As a result, the AI chatbot will now write, debug, and modify code in different computer languages; you only need to prompt it with any of the language instructions.
 
  PaLM 2's support for different programming languages is powered by massive training data, which includes GitHub code repositories. So you can ask Bard to debug a line of code in Python, and it will rightly do so while explaining the error in the code. This is beneficial, especially if you are[learning programming concepts and skills](https://www.makeuseof.com/coding-and-programming-basics/) .
@@ -47,29 +40,9 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Better Logic and Reasoning
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
 
@@ -79,22 +52,21 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
 
  According to[Google](https://blog.google/technology/health/ai-llm-medpalm-research-thecheckup/) , Med-PaLM 2 can provide answers to medical exam problems at the expert level of a doctor, with an accuracy level of 85%. As of the time of writing, Google is opening up Med-PaLM 2 to a closed group of Google Cloud customers for testing and feedback.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Sec-PaLM 2
@@ -108,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
  With this, it can understand and generate security-related text and code in different languages and formats.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Third-Party Extension Support
@@ -127,16 +99,10 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.
@@ -164,20 +130,21 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-tv-everything-you-need-to-know/"><u>[Updated] 2024 Approved YouTube TV - Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-ultimate-routine-personalize-your-youtube-shorts-image-credits/"><u>[Updated] Ultimate Routine Personalize Your YouTube Shorts Image Credits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-streamlined-audiovisual-sequencing-in-audacity/"><u>2024 Approved Streamlined Audiovisual Sequencing in Audacity</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-the-ultimate-pathway-to-prominence-on-youtube-channel-showcase/"><u>2024 Approved The Ultimate Pathway to Prominence on YouTube Channel Showcase</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-search-precision-opt-for-perplexity-ai/"><u>Elevate Search Precision – Opt for Perplexity AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/future-of-ai-with-gpt-5-predicting-launch-and-unveiling-specs/"><u>Future of AI with GPT-5: Predicting Launch and Unveiling Specs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-navigate-gpt-4-all-and-unveil-its-working-principles/"><u>How to Navigate GPT-4 All and Unveil Its Working Principles?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-sony-xperia-5-v-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Sony Xperia 5 V FRP</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-restoring-your-hidden-snap-content/"><u>In 2024, Restoring Your Hidden Snap Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-simplify-your-social-media-uploading-multiple-photos-and-vids-on-ig/"><u>In 2024, Simplify Your Social Media Uploading Multiple Photos and Vids on IG</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-driving-mercedes-fuses-chatgpt-and-voice-technology/"><u>Intelligent Driving: Mercedes Fuses ChatGPT & Voice Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimize-chatgpt-usage-explore-the-five-best-approaches-for-custom-command-application/"><u>Optimize ChatGPT Usage: Explore the Five Best Approaches for Custom Command Application</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-the-problem-when-modern-warfare-chat-feature-stops-working/"><u>Resolving the Problem When Modern Warfare Chat Feature Stops Working</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-remote-collaboration-the-role-of-chatgpt-in-virtual-teams/"><u>Streamlining Remote Collaboration: The Role of ChatGPT in Virtual Teams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-conversational-ai-with-these-tips-for-using-chatgpt-effectively/"><u>Unlock the Power of Conversational AI with These Tips for Using ChatGPT Effectively</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pro-free-ending-makers-ranked-1-6/"><u>[Updated] Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4-tablespoons-unsalted-butter-at-room-temperature/"><u>4 Tablespoons Unsalted Butter, at Room Temperature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoid-format-mishaps-seamlessly-adding-videos-into-adobe-premiere-pro/"><u>Avoid Format Mishaps: Seamlessly Adding Videos Into Adobe Premiere Pro</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-unending-enter-password-interruptions-in-windows/"><u>Avoiding Unending Enter Password Interruptions in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-game-disruptions-top-fixes-for-phasmophobias-crash-problems/"><u>Beat Game Disruptions: Top Fixes for Phasmophobia's Crash Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beginners-tutorial-successfully-creating-a-duplicate-dvd-at-home/"><u>Beginner's Tutorial: Successfully Creating a Duplicate DVD at Home</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-mp3-search-engines-of-the-year-find-and-download-your-top-tracks-with-ease/"><u>Best MP3 Search Engines of the Year: Find and Download Your Top Tracks with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-examination-of-dvd-copying-laws-and-regulations/"><u>Comprehensive Examination of DVD Copying Laws and Regulations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-utilizing-zune-video-converter-factory-pro-effectively/"><u>Comprehensive Guide to Utilizing Zune Video Converter Factory Pro Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-videos-from-still-photos-with-top-3-mobile-apps/"><u>Creating Videos From Still Photos with Top 3 Mobile Apps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-intel-82579v-graphics-card-up-to-date-free-driver-download-now/"><u>Get Your Intel 82579V Graphics Card Up-to-Date: Free Driver Download Now</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/harnessing-the-power-of-followers-for-impactful-advertising-campaigns/"><u>Harnessing the Power of Followers for Impactful Advertising Campaigns</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Oppo Find N3 Flip</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Tecno Spark 20 Pro | Dr.fone</u></a></li>
 </ul></div>
 

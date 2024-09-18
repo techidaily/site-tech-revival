@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Improvements: How Google's Advanced PaLM 2 Enhances Bard AI Capabilities"
-date: 2024-09-11T19:45:50.184Z
-updated: 2024-09-12T19:45:50.184Z
+date: 2024-09-16T21:44:36.826Z
+updated: 2024-09-17T18:50:02.225Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -48,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -70,19 +44,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -90,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -109,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -138,18 +92,19 @@ thumbnail: https://thmb.techidaily.com/c87e4361abb95b1b3e6d15b8361dd54c75321c1ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-mastering-desktop-merging-images-seamlessly/"><u>[New] 2024 Approved Mastering Desktop Merging Images Seamlessly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-the-potential-storing-insta-media-on-your-phone-for-2024/"><u>[New] Unlocking the Potential Storing Insta Media on Your Phone for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-the-ultimate-laptop-and-mobile-roadmap-for-old-facebook-stories/"><u>[Updated] In 2024, The Ultimate Laptop & Mobile Roadmap for Old Facebook Stories</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-television-transformation-via-social-media-platforms-like-fb-live/"><u>[Updated] Television Transformation via Social Media Platforms Like FB Live</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/confidentiality-concerns-when-using-tools-such-as-chatgpt-online/"><u>Confidentiality Concerns When Using Tools Such as ChatGPT Online</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eliminating-error-code-0x80070141-making-unreachable-devices-connectable/"><u>Eliminating Error Code 0X80070141: Making Unreachable Devices Connectable</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS iOS System? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-creativity-discover-6-ways-to-utilize-chatgpt-for-your-written-works/"><u>Mastering Creativity: Discover 6 Ways to Utilize ChatGPT for Your Written Works</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-unravel-the-creative-potential-of-adobe-after-effects-for-precise-motion-synchronization-learn-how-to-use-track-matte-and-tracking-with-a-simple/"><u>New In 2024, Unravel the Creative Potential of Adobe After Effects for Precise Motion Synchronization. Learn How to Use Track Matte and Tracking with a Simple Alternative</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ransomware-explained-podcasts-aided-by-budget-phones/"><u>Ransomware Explained: Podcasts Aided by Budget Phones</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/shutter-speed-supreme-the-ultimate-camera-guide-for-slow-videos/"><u>Shutter Speed Supreme The Ultimate Camera Guide for Slow Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-windows-chatgpt-capacity-full-issue-a-step-by-step-guide/"><u>Solving Windows' 'ChatGPT Capacity Full' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ocam-screen-recorder-review-and-alternative/"><u>[New] 2024 Approved OCam Screen Recorder Review and Alternative</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-guide-to-professional-fbx-game-capture/"><u>[Updated] The Complete Guide to Professional FBX Game Capture</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-se-2022-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone SE (2022) without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/web-teamszoom/"><u>悄々としたWebミーティングの記録: Teams・Zoom用隠密ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-oversight-how-and-by-whom/"><u>AI Oversight: How & By Whom?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/compiling-top-iphone-video-apps/"><u>Compiling Top iPhone Video Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/forza-horizon-n5-troubleshooting-lag-problems-solutions-at-your-fingertips/"><u>Forza Horizon N5 - Troubleshooting Lag Problems: Solutions at Your Fingertips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-xs-max-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone XS Max iCloud Activation Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-accessing-high-quality-flac-music-on-ios-platforms/"><u>Step-by-Step Tutorial: Accessing High-Quality FLAC Music on iOS Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-solution-for-stability-finding-and-fixing-glitches-in-robocop-rogue-city-on-windowsmac/"><u>The Ultimate Solution for Stability: Finding & Fixing Glitches in RoboCop: Rogue City on Windows/Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-4-twitter-apps-for-efficiently-tracking-and-engaging-with-hashtags/"><u>Top 4 Twitter Apps for Efficiently Tracking and Engaging with Hashtags</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-essential-tools-for-creating-professional-youtube-videos-desktop-and-online-solutions/"><u>Top 7 Essential Tools for Creating Professional YouTube Videos: Desktop and Online Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-troubleshooting-steps-solving-the-video-cannot-be-uploaded-to-instagram-issue/"><u>Ultimate Troubleshooting Steps: Solving the 'Video Cannot Be Uploaded to Instagram' Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webmogg/"><u>WebMファイルからオーディオを取り出し、Ogg形式にリニア化する手順</u></a></li>
 </ul></div>
 

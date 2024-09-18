@@ -1,7 +1,7 @@
 ---
 title: Counteracting Vanishing ChatGPT Logs
-date: 2024-09-11T19:47:12.917Z
-updated: 2024-09-12T19:47:12.917Z
+date: 2024-09-11T09:24:18.638Z
+updated: 2024-09-18T09:21:10.158Z
 tags:
   - chatgpt
   - open-ai
@@ -40,31 +40,11 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
 
@@ -80,19 +60,6 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -104,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/18c9dd2cba19f0ecf97513cafd5088c9e4acab9c6
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
@@ -118,14 +85,14 @@ We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -137,16 +104,16 @@ We did manage to get a response from Bard by rewording the prompt.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is Best for You: Bing Chat or Google Bard?
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
@@ -159,13 +126,6 @@ We did manage to get a response from Bard by rewording the prompt.
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -188,17 +148,16 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/create-mesmerizing-graphics-discover-8-inspiring-dall-e-3-text-prompts/"><u>Create Mesmerizing Graphics: Discover 8 Inspiring DALL-E 3 Text Prompts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-gaming-again-pathfinder-glitches-resolved-for-seamless-pc-playthroughs/"><u>Get Gaming Again - Pathfinder Glitches Resolved for Seamless PC Playthroughs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-unlimited-access-use-chatgpt-from-any-location-with-the-power-of-chatgpt-everywhere/"><u>Getting Unlimited Access: Use ChatGPT From Any Location with the Power of ChatGPT Everywhere</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oneplus-ace-3-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Ace 3</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-into-the-crypto-realm/"><u>Integrating ChatGPT Into the Crypto Realm</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-top-10-video-editing-online-makers-is-worth-your-attention-for-2024/"><u>New Top 10 Video Editing Online Makers Is Worth Your Attention for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-integrating-siri-and-chatgpt-in-ios/"><u>The Ultimate Guide to Integrating Siri & ChatGPT in iOS</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-top-10-budget-friendly-options-premium-free-podcast-players-for-modern-smartphones/"><u>Updated 2024 Approved Top 10 Budget-Friendly Options Premium-Free Podcast Players for Modern Smartphones</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-in-2024-top-mobile-playlists-discovering-the-ultimate-melodies-for-your-android-device/"><u>Updated In 2024, Top Mobile Playlists Discovering the Ultimate Melodies for Your Android Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-sets-auto-gpt-apart-from-its-cousin-chatgpt-insights-into-their-unique-functions/"><u>What Sets Auto-GPT Apart From Its Cousin, ChatGPT?: Insights Into Their Unique Functions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-framefinder-focus-top-recording-software-of-2023-for-2024/"><u>[Updated] FrameFinder Focus Top Recording Software of 2023 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-playthroughs-with-precision-and-flair/"><u>[Updated] In 2024, Capturing Playthroughs with Precision and Flair</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-premium-choices-in-video-capture-tools-for-websites-for-2024/"><u>[Updated] Premium Choices in Video Capture Tools for Websites for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-a14-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy A14 5G? Try These Fixes</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming/"><u>In 2024, Mastering Live Broadcasts Your Step-by-Step Guide to Discord Streaming</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/page-not-located-discover-whats-missing-at-wonderfox-updated-title/"><u>Page Not Located: Discover What's Missing at WonderFox - Updated Title</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/playing-mts-videos-on-your-pc-a-comprehensive-guide/"><u>Playing MTS Videos on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-implementing-audio-tracks-on-your-mkv-files/"><u>Quick Guide: Implementing Audio Tracks on Your MKV Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-adobe-media-encoder-issues-fixing-missing-software-and-aegis-dynamic-link-server-error/"><u>Resolving Adobe Media Encoder Issues: Fixing Missing Software & Aegis Dynamic Link Server Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safely-rip-and-convert-wonderfox-dvds-for-apple-devices-enjoy-hd-content-on-your-iphone-ipad-or-apple-tv-without-losing-quality/"><u>Safely Rip & Convert WonderFox DVDs for Apple Devices: Enjoy HD Content on Your iPhone, iPad, or Apple TV without Losing Quality</u></a></li>
 </ul></div>
 

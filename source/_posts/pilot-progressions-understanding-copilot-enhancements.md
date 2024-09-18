@@ -1,7 +1,7 @@
 ---
 title: "Pilot Progressions: Understanding CoPilot Enhancements"
-date: 2024-09-11T19:41:52.707Z
-updated: 2024-09-12T19:41:52.707Z
+date: 2024-09-12T18:20:43.893Z
+updated: 2024-09-18T00:13:56.237Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
 ![ChatGPT Writing the Intro and Body of an Article About Ai](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-writing-and-article-about-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Although convenient, we advise against submitting AI content. ChatGPT merely scrapes and rephrases information from datasets—its output likely contains plagiarized text. Your employer can fire you for plagiarism if you carelessly use them in your articles.
 
  Explore[responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
@@ -47,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
  However, using ChatGPT this way is deceitful—it doesn’t have enough context to assess your employees accurately. You’ll definitely get fired for submitting erroneous ratings. Workers might even file lawsuits against you depending on the gravity of the situation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Asking ChatGPT to Draft Legal Documents and Contracts
 
 ![Person Highlighting Parts of a Contract in Green](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/highilighting-parts-of-contract.jpg)
@@ -63,19 +49,6 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
  Considering these privacy guidelines, uploading legal paperwork onto ChatGPT violates the non-disclosure agreement between you and your employer. You’ll likely get fired and sued if you get caught.
 
  Moreover, ChatGPT can only customize its output to an extent. Carelessly trusting the generic contracts it drafts might cause legal complications down the road. Run all your paperwork through the appropriate professionals.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Using ChatGPT to Generate Reports and Insights
 
@@ -88,15 +61,22 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Composing Emails on ChatGPT
 
@@ -104,29 +84,28 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
  Like automated AI replies, workers rarely get fired for sending ChatGPT-generated emails. It just makes them look unprofessional. Use AI to generate writing prompts and create outlines, but you should still compose messages yourself.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Doing Research and Analyses on ChatGPT
 
  Many companies encourage using ChatGPT for research purposes. It’s a powerful chatbot that scours vast datasets comprising various subjects.[Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) reports that OpenAI fed the platform 300 billion words, while ChatGPT Plus has access to real-time information online. It can help you explore any topic under the sun.
 
  You won’t get fired if you research responsibly. As with any other online resource, it’s best to verify information multiple times before presenting it. Compare data from other sources. Solely relying on ChatGPT’s output puts you at risk of spreading misinformation, a potentially career-ending mistake.
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Using Code Snippets Written by ChatGPT
 
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
 
@@ -140,20 +119,13 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
 ![ChatGPT Editing Paragraph Based on AP Styleguide](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-acting-as-an-editor.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Analyzing Financial Charts on ChatGPT
@@ -187,15 +159,14 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-srt-conversion-masterclass-direct-route-to-sub-for-2024/"><u>[Updated] SRT Conversion Masterclass Direct Route to SUB for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-keep-it-lighthearted-a-straightforward-guide-to-posting-gifs-on-instagram/"><u>2024 Approved Keep It Lighthearted A Straightforward Guide to Posting GIFs on Instagram</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-loneliness-with-the-help-of-chatgpts-support/"><u>Navigating Loneliness with the Help of ChatGPT's Support</u></a></li>
-<li><a href="https://techtrends.techidaily.com/schneller-und-sicherer-datentransfer-winx-mediatrans-benutzerhandbuch-fur-die-einfache-migration-von-musik-videos-und-fotos/"><u>Schneller Und Sicherer Datentransfer: WinX MediaTrans - Benutzerhandbuch Für Die Einfache Migration Von Musik, Videos Und Fotos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-students-edge-integrating-chatgpt-for-superior-research-techniques-and-essay-writing/"><u>The Student's Edge: Integrating ChatGPT for Superior Research Techniques & Essay Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-top-7-upgrades-to-googles-bard-by-leveraging-palm-2-technology/"><u>The Top 7 Upgrades to Google's Bard by Leveraging PaLM 2 Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-7-web-tools-to-sharpen-your-skills-in-precise-and-engaging-prompt-design/"><u>The Ultimate List of 7 Web Tools to Sharpen Your Skills in Precise and Engaging Prompt Design</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-why-do-cybercriminals-focus-on-chatgpt-usernames/"><u>Unraveling the Mystery: Why Do Cybercriminals Focus on ChatGPT Usernames?</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/unveiling-the-latest-in-technology-with-toms-gear-insights/"><u>Unveiling the Latest in Technology with Tom's Gear Insights</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-get-your-meme-on-top-10-apps-for-creating-viral-content-for-2024/"><u>Updated Get Your Meme On Top 10 Apps for Creating Viral Content for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-engagement-the-5-key-strategies-for-influencers-today/"><u>[Updated] 2024 Approved Mastering Instagram Engagement The 5 Key Strategies for Influencers Today</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-11-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-upload-and-upgrade-your-horizons-in-igtvs-format/"><u>In 2024, How to Upload & Upgrade Your Horizons in IGTV's Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maintaining-veracity-in-ai-replies-employing-six-strategic-techniques/"><u>Maintaining Veracity in AI Replies: Employing Six Strategic Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-9gag-for-making-memes-a-step-by-step-guide/"><u>Mastering 9GAG for Making Memes A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/testing-and-tips-for-the-google-wireless-nest-doorbell-battery-version/"><u>Testing & Tips for the Google Wireless Nest Doorbell (Battery Version)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-gpt-powered-strategies-to-streamline-routine-human-resources-duties/"><u>Top 5 GPT-Powered Strategies to Streamline Routine Human Resources Duties</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-productivity-potentials-top-8-uses-for-automated-gpt-technology/"><u>Unlock Productivity Potentials: Top 8 Uses for Automated GPT Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-behind-the-turing-test-and-future-implications-for-ai/"><u>Unraveling the Mystery Behind the Turing Test & Future Implications for AI</u></a></li>
 </ul></div>
 

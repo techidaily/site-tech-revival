@@ -1,7 +1,7 @@
 ---
 title: Demystifying Spreadsheet Complexities with ChatGPT-Excel
-date: 2024-09-11T19:42:21.281Z
-updated: 2024-09-12T19:42:21.281Z
+date: 2024-09-14T07:47:57.571Z
+updated: 2024-09-18T10:52:59.283Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Murder Mystery Mayhem](https://www.makeuseof.com/best-chatgpt-games-to-play/#murder-mystery-mayhem)
@@ -39,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
  Bored of using ChatGPT for programming, chatting, and learning? It's time to start using it for gaming instead.
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
@@ -61,19 +47,6 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -84,6 +57,19 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -91,19 +77,6 @@ Close
 Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
@@ -114,16 +87,10 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -135,13 +102,6 @@ Close
 Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
@@ -184,20 +144,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-tune-up-your-social-media-videos-for-maximum-impact/"><u>[New] 2024 Approved Tune Up Your Social Media Videos for Maximum Impact</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-an-athletic-channel-on-apple-hardware/"><u>[Updated] In 2024, Creating an Athletic Channel on Apple Hardware</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-how-to-secure-free-fcp-software/"><u>[Updated] In 2024, How to Secure Free FCP Software</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-mastering-stills-extraction-in-windows-11-photos/"><u>[Updated] In 2024, Mastering Stills Extraction in Windows 11 Photos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-the-ultimate-list-8-ranked-android-video-tile-maker-options-freepaid/"><u>[Updated] In 2024, The Ultimate List #8 Ranked Android Video Tile Maker Options (Free/Paid)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fix-frozen-mobile-youtube-videos-on-multiple-devices/"><u>2024 Approved Fix Frozen Mobile YouTube Videos on Multiple Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-assistance-enhanced-transforming-pdf-access-for-chatgpt-users/"><u>AI Assistance Enhanced: Transforming PDF Access for ChatGPT Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-neural-network-model-inversion-be-a-security-risk-for-your-chatbot-communications/"><u>Can Neural Network Model Inversion Be a Security Risk for Your Chatbot Communications?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-14-plus-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From iPhone 14 Plus</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-nokia-105-classic-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Nokia 105 Classic</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-self-regulation-through-chatgpt-a-guide-to-boosting-ei/"><u>Mastering Self-Regulation Through ChatGPT: A Guide to Boosting EI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-iphone-chatgpt-woes-with-our-expert-guide-of-9-effective-fixes/"><u>Solving iPhone ChatGPT Woes with Our Expert Guide of 9 Effective Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-drives-into-dialogues-mercedes-vehicle-voice-tech/"><u>Transforming Drives Into Dialogues: Mercedes Vehicle Voice Tech</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-education-perks-get-final-cut-pro-at-a-fraction-of-the-cost/"><u>Updated In 2024, Education Perks Get Final Cut Pro at a Fraction of the Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-about-using-ai-generated-content-in-instant-messages-insights-and-concerns/"><u>Why You Should Think Twice About Using AI-Generated Content in Instant Messages: Insights and Concerns</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-gameplay-modifications-in-terraria/"><u>[Updated] In 2024, Ultimate Gameplay Modifications in Terraria</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/anthropic-ai-accessing-claude-3-prompts/"><u>Anthropic AI: Accessing Claude 3 Prompts</u></a></li>
+<li><a href="https://games-able.techidaily.com/claim-your-spot-in-the-starfield-early-access-lottery/"><u>Claim Your Spot in the Starfield Early Access Lottery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-ai-upgrade-now-for-these-9-amazing-features-in-chatgpt-plus/"><u>Discover the Power of AI: Upgrade Now for These 9 Amazing Features in ChatGPT Plus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-electronics-with-toms-hardware-insights/"><u>Exploring the World of Electronics with Tom's Hardware Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fb-vids-effortless-mp4-extraction-at-your-fingertips/"><u>In 2024, FB Vids Effortless MP4 Extraction at Your Fingertips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-steps-to-running-llama-2-locally-on-your-device/"><u>In-Depth Steps to Running Llama 2 Locally on Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-operate-the-nvidia-rtx-powered-conversational-ai-bot-on-pc/"><u>Steps to Operate the NVIDIA RTX-Powered Conversational AI Bot on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essentials-of-claude-ai-and-its-value-for-enhanced-digital-solutions/"><u>The Essentials of Claude AI and Its Value for Enhanced Digital Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-key-aspects-you-should-evaluate-before-choosing-an-ai-chatbot-platform/"><u>Top 7 Key Aspects You Should Evaluate Before Choosing an AI Chatbot Platform</u></a></li>
 </ul></div>
 

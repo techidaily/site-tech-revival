@@ -1,7 +1,7 @@
 ---
 title: Top 7 Digital Resources Enhancing Prompt Engineering Abilities
-date: 2024-09-11T19:42:39.889Z
-updated: 2024-09-12T19:42:39.889Z
+date: 2024-09-14T22:29:38.302Z
+updated: 2024-09-18T07:42:16.341Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
 
  Here's how it works. Once you install the extension and open ChatGPT, you'll see a bar under the usual dialog box for queries and prompts. Toggle the**Search the Web** button to activate WebChatGPT and select parameters. You can ask it to search for up to 10 results, set how far back it'll search for links (day, week, month, year), and set a region.
@@ -46,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
  You can customize the default revised prompt that WebChatGPT uses, but as a new user, we wouldn't suggest that. Once you're more accustomed to using this extension, feel free to look into options that improve your queries
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. ChatGPT Prompt Genius
 
@@ -78,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
@@ -101,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
@@ -108,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
@@ -133,10 +119,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Perplexity AI
@@ -150,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
  While the tool summarizes the information in a neat manner, it ends the answers with a quick mention of the best, legitimate sources. And while there's still a possibility of fault here (you'd still need to rely on the sources that Perplexity provides), we believe it's much better than going in blind with the usual, source-less responses you'd otherwise gotten from ChatGPT.
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
 
@@ -179,21 +158,14 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-winning-the-game-with-a-strong-video-game-youtube-presence/"><u>[New] 2024 Approved Winning the Game with a Strong Video Game Youtube Presence</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-a-flash-of-stardom-video-examination/"><u>[New] In 2024, A Flash of Stardom - Video Examination</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-revolutionizing-video-quality-on-tiktok/"><u>[Updated] 2024 Approved Revolutionizing Video Quality on TikTok</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-prime-picks-leading-mac-recording-software-for-2024/"><u>[Updated] Prime Picks Leading Mac Recording Software for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-adaptation-uploading-your-horizon-content-to-instagram-tv-for-2024/"><u>[Updated] The Art of Adaptation Uploading Your Horizon Content to Instagram TV for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-sound-of-success-tailoring-audio-for-instagram-content-for-2024/"><u>[Updated] The Sound of Success Tailoring Audio for Instagram Content for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-101-the-complete-guide-to-living-better/"><u>ChatGPT 101: The Complete Guide to Living Better</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/enhance-visual-impact-with-photoshops-dynamic-motion-blur-methodology/"><u>Enhance Visual Impact with Photoshop's Dynamic Motion Blur Methodology</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-high-quality-audio-recording-with-these-top-5-windows-11-tips/"><u>In 2024, Unlock High-Quality Audio Recording with These Top 5 Windows 11 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-future-of-employment-with-ais-rise-is-your-job-at-risk/"><u>Navigating the Future of Employment with AI's Rise – Is Your Job at Risk?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-hurdles-refining-google-news-content-delivery-and-securing-top-tier-mobile-internet-access-on-holidays/"><u>Overcoming ChatGPT Hurdles, Refining Google News Content Delivery & Securing Top-Tier Mobile Internet Access on Holidays</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ten-tips-to-perfect-your-gpt-dialogue-experience/"><u>Ten Tips to Perfect Your GPT Dialogue Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-chatgpt-questions-for-enhanced-concentration-and-minimal-distraction/"><u>Top 8 ChatGPT Questions for Enhanced Concentration & Minimal Distraction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-artificial-intelligence-distinguishing-between-strong-and-weak-ai/"><u>Understanding Artificial Intelligence: Distinguishing Between Strong and Weak AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-efficiency-the-6-point-edge-of-the-chatgpt-app-over-the-web-interface/"><u>Unlocking Efficiency: The 6-Point Edge of the ChatGPT App Over the Web Interface</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-five-innovative-apple-podcast-options/"><u>[New] Five Innovative Apple Podcast Options</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-solutions-for-tackling-overloaded-hard-drive-space-on-windows-11/"><u>Comprehensive Solutions for Tackling Overloaded Hard Drive Space on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-secure-is-the-conversation-on-chatgpt-platforms-an-in-depth-look-at-privacy-issues/"><u>How Secure Is the Conversation on ChatGPT Platforms – An In-Depth Look at Privacy Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/install-and-optimize-microsoft-copilot-on-your-mac-easily/"><u>Install and Optimize Microsoft Copilot on Your Mac Easily</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-network-needs-for-natural-growth-in-youtube-numbers-for-2024/"><u>Navigating Network Needs for Natural Growth in Youtube Numbers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-freelance-writing-with-chatgpt-key-dos-and-donts/"><u>Navigating the World of Freelance Writing with ChatGPT: Key Dos and Don'ts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/roccat-gaming-mouse-manager-free-download-now/"><u>Roccat Gaming Mouse Manager - Free Download Now!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/splitcam-breakdown-best-or-not-amongst-recorders-in-2024/"><u>SplitCam Breakdown Best or Not Amongst Recorders, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gpt-bot-reasons-behind-website-restrictions/"><u>Understanding GPT-Bot: Reasons Behind Website Restrictions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Twitter Scams Battle and Metasig's Rising Significance
-date: 2024-09-11T19:45:41.651Z
-updated: 2024-09-12T19:45:41.651Z
+date: 2024-09-12T06:19:46.906Z
+updated: 2024-09-17T23:05:10.333Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 * [How to Use DuckDuckGo's AI Chat](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#how-to-use-duckduckgo-39-s-ai-chat)
 * [What Are DuckDuckGo's AI Chat Limitations?](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#what-are-duckduckgo-39-s-ai-chat-limitations)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * DuckDuckGo AI Chat offers anonymous access to popular chatbots, protecting user privacy.
@@ -43,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
  AI-powered tech is everywhere, but using it often comes with a hidden cost: your privacy. AI tech companies typically collect and store user data, including any personal information you share, to train their AI models and improve output, be that an AI chatbot, image generator, or otherwise.
 
  Now, privacy-focused search engine DuckDuckGo has stepped up to provide an alternative, and its AI Chat offers anonymous access to a host of generative AI chatbots.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is DuckDuckGo AI Chat?
 
@@ -61,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
  It's a novel idea. Other services combine multiple AI chatbots into a single tool, but DuckDuckGo's AI Chat will make it easier for users to use some of the best AI chatbots while maintaining some privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How DuckDuckGo AI Chat Keeps Your Chats Private
 
  Privacy is a rare commodity in the digital era, more so when it comes to interacting with AI chatbots. Generative AI chatbots are data-hungry, as they rely on large data sets to continuously train and improve their language models. For instance, ChatGPT stores your chat history for as long as you have an account.
@@ -78,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
 ![duckduckgo-ai-privacy-measures](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-privacy-measures.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In addition to anonymizing your chats, the company states that it has agreements with model providers that prevent them from using your conversations to develop or train their models and delete your chat history within 30 days. This allows you to engage with AI chatbots without worrying about being identified, making it ideal for sensitive conversations or discussing personal information.
 
 ## How to Use DuckDuckGo's AI Chat
@@ -93,20 +65,14 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
 ![DuckDuckGo's AI welcome dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduck-ai-chat.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can pick a different chat model at any time by clicking the name of the current model on the left of the screen and selecting another model from the list. Click****Start New Chat** to begin a conversation with the selected model. The DuckDuckGo AI Chat has a familiar interface, so if you have used other chatbots before, you will find it easy to use. Like other AI chatbots, you can ask questions, summarize text, compose emails, and more.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are DuckDuckGo's AI Chat Limitations?
 
@@ -119,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 ![duckduckgo-ai-internet-access-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-internet-access-1.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One common limitation with large language models is that they sometimes generate plausible but inaccurate responses, also[known as AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . While the generative AI integrations from Anthropic, Mistral, and Meta are relatively up-to-date and recent developments, ChatGPT 3.5 Turbo is a little older and is known to suffer issues.
@@ -146,17 +112,18 @@ thumbnail: https://thmb.techidaily.com/ae43e169f6c755c4c2193b461c421a8ddcf3ffe94
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>[New] In 2024, The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-optimize-video-flows-5-steps-for-expert-cutting-and-lengthening-of-vimeo-content/"><u>[Updated] 2024 Approved Optimize Video Flows 5 Steps for Expert Cutting & Lengthening of Vimeo Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastering-green-screen-filming-essential-techniques/"><u>[Updated] Mastering Green Screen Filming Essential Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-navigating-numbers-a-comprehensive-triad-strategy-for-monitoring-your-youtube-profitability/"><u>2024 Approved Navigating Numbers A Comprehensive Triad Strategy for Monitoring Your YouTube Profitability</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-nokia-c110-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia C110 Fingerprint Lock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/flights-frontier-comparing-basic-to-advanced-copilots/"><u>Flight's Frontier: Comparing Basic to Advanced CoPilots</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fcps-ultimate-editing-aid-best-10-plug-ins/"><u>In 2024, FCP's Ultimate Editing Aid Best 10 Plug-Ins</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-asus-rog-phone-7-ultimate-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Asus ROG Phone 7 Ultimate Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-search-top-6-uses-of-chatgpt-in-finding-a-new-job/"><u>Revolutionize Your Search: Top 6 Uses of ChatGPT in Finding a New Job</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stay-safe-from-these-5-insidious-chatgpt-related-scams/"><u>Stay Safe From These 5 Insidious ChatGPT-Related Scams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-persuasion-writing-winning-proposals-using-chatgpt-technology/"><u>The Ultimate Guide to Persuasion: Writing Winning Proposals Using ChatGPT Technology</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cut-screen-claims-is-splitcam-supreme-for-2024/"><u>Cut Screen Claims Is SplitCam Supreme for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Samsung has native HEVC support?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/enhancing-zoom-video-clarity-user-guide-for-2024/"><u>Enhancing Zoom Video Clarity User Guide for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-insights-on-mastering-cloud-gaming-with-xbox-game-pass-ultimate/"><u>Essential Insights on Mastering Cloud Gaming with Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-best-in-class-pc-vr-headsets/"><u>Explore the Best-In-Class PC VR Headsets</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-iphone-screen-mirroring-eliminates-the-need-for-ios-apps-on-your-mac/"><u>How iPhone Screen Mirroring Eliminates the Need for iOS Apps on Your Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preserving-high-quality-outputs-a-guide-to-lossless-video-trimming-in-windows-11/"><u>Preserving High-Quality Outputs: A Guide to Lossless Video Trimming in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ripper-version-11-transform-your-wonderfox-dvd-collection-into-mobile-movies-now-available/"><u>Ripper Version 1.1: Transform Your WonderFox DVD Collection Into Mobile Movies - Now Available!</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-tutorial-on-transforming-avi-video-clips-to-mp4-using-the-power-of-ffmpeg/"><u>Simple Tutorial on Transforming AVI Video Clips to MP4 Using the Power of FFmpeg</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-efficiently-cutting-videos-using-adobe-premiere-pro/"><u>Step-by-Step Guide to Efficiently Cutting Videos Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-videots-to-high-quality-mp4-files/"><u>Step-by-Step Guide: Converting Video_ts to High-Quality MP4 Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-downloading-your-favorite-youtubes-using-the-power-of-vlc/"><u>Step-by-Step Guide: Downloading Your Favorite YouTubes Using the Power of VLC</u></a></li>
 </ul></div>
 

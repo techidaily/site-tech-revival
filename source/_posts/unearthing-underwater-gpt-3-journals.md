@@ -1,7 +1,7 @@
 ---
 title: Unearthing Underwater GPT-3 Journals
-date: 2024-09-11T19:41:10.873Z
-updated: 2024-09-12T19:41:10.873Z
+date: 2024-09-12T11:43:50.914Z
+updated: 2024-09-18T01:14:21.955Z
 tags:
   - chatgpt
   - open-ai
@@ -32,30 +32,9 @@ thumbnail: https://thmb.techidaily.com/49f07ba1564e1ad5829085791d56fbd558cd9b6be
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -76,36 +55,15 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -126,16 +84,27 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-practices-recording-on-ios-devices/"><u>[New] In 2024, Best Practices Recording on iOS Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-streamlining-short-form-content-leading-edits-for-iosandroid/"><u>[Updated] 2024 Approved Streamlining Short-Form Content Leading Edits for iOS/Android</u></a></li>
-<li><a href="https://win-forum.techidaily.com/engage-on-the-web-interacting-through-facebook-tweeting-with-twitter-posting-on-instagram-and-broadcasting-on-youtube/"><u>Engage On the Web: Interacting Through Facebook, Tweeting with Twitter, Posting on Instagram & Broadcasting on Youtube</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-meizu-21-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Meizu 21 Pro? Try These Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-f25-pro-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo F25 Pro 5G?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-redmi-12-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-tap-into-chatgpts-potential-top-7-reasons/"><u>How to Tap Into ChatGPT's Potential: Top 7 Reasons</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-superb-online-stores-where-to-find-and-purchase-youtube-ringtones/"><u>In 2024, Superb Online Stores Where to Find & Purchase YouTube Ringtones?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-bypass-6-critical-prompt-mistakes-for-better-ai-interaction/"><u>Mastering ChatGPT: Bypass 6 Critical Prompt Mistakes for Better AI Interaction</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-switch-it-up-the-best-face-swap-apps-for-iphone-and-android-users/"><u>New In 2024, Switch It Up The Best Face Swap Apps for iPhone and Android Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-savvy-users-manual-to-leveraging-chatgpt-technology-on-both-android-and-ios-platforms/"><u>The Savvy User's Manual to Leveraging ChatGPT Technology on Both Android and iOS Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-secrets-how-to-save-your-google-conversations/"><u>[New] 2024 Approved Unveiling Secrets How to Save Your GooGle Conversations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-unlocking-youtube-secrets-to-effective-screen-recording-for-2024/"><u>[New] Unlocking YouTube Secrets to Effective Screen Recording for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-win-11-guide-to-storing-mov-files-effectively/"><u>[Updated] Win 11 Guide to Storing .mov Files Effectively</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-blueprint-for-capturing-compelling-powerpoint-presentations/"><u>2024 Approved The Blueprint for Capturing Compelling PowerPoint Presentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-trust-what-chatgpt-says/"><u>Can We Trust What ChatGPT Says?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystified-artificial-intelligence/"><u>Demystified Artificial Intelligence</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-setup-hp-officejet-5740-driver-download-instructions/"><u>Effortless Setup: HP OfficeJet 5740 Driver Download Instructions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/how-to-fix-obs-camera-not-working-for-2024/"><u>How to Fix OBS Camera Not Working for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-capture-the-best-moments-select-6-top-ranked-short-video-download-tools/"><u>In 2024, Capture the Best Moments Select 6 Top-Ranked Short Video Download Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Device</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pinpoint-problematic-video-card-in-crashes/"><u>Pinpoint Problematic Video Card in Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-best-software-preserve-export-and-distribute-your-chatgpt-interactions/"><u>The Best Software: Preserve, Export, & Distribute Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/threefold-mastery-in-dialogue-unleashing-power-with-chatgpt-and-wolfram-alpha/"><u>Threefold Mastery in Dialogue: Unleashing Power with ChatGPT & Wolfram Alpha</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-truthgpt-the-revolutionary-ai-project-backed-by-elon-musk/"><u>Unveiling TruthGPT: The Revolutionary AI Project Backed by Elon Musk</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-may-want-to-forego-a-gpt-phone-app/"><u>Why You May Want to Forego a GPT Phone App</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

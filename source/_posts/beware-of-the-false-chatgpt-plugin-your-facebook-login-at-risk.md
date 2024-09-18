@@ -1,7 +1,7 @@
 ---
 title: "Beware of the False ChatGPT Plugin: Your Facebook Login at Risk!"
-date: 2024-09-11T19:48:54.486Z
-updated: 2024-09-12T19:48:54.486Z
+date: 2024-09-12T23:16:58.129Z
+updated: 2024-09-17T17:44:24.005Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Scammers are using Google's generative AI tool, Bard, to infect users with malware and steal login credentials.
@@ -37,49 +30,21 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Google Bard?
 
 [Google Bard](https://bard.google.com/chat) was launched in March 2023 and is Google's answer to[OpenAI's ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . While offering similar functionalities, it doesn't perform as extensively as ChatGPT—which is what scammers have been exploiting to infect devices with malware.
 
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
  The key issue is that Google Bard is only available in browsers and requires a Google account. So, don't be tempted to install an app advertised as Google Bard, as it's malware that Google is taking legal action to take down.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why You Shouldn't Download the Google Bard App
 
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -94,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
@@ -121,17 +86,15 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nnovating-with-youtube-studio-editor-for-next-gen-videos-for-2024/"><u>[New] Innovating with YouTube Studio Editor for Next-Gen Videos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-swift-recording-pro-with-voice-commentary-feature/"><u>[New] Swift Recording Pro with Voice Commentary Feature</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-apex-legends-mastery-exploring-single-platform-potential/"><u>[Updated] 2024 Approved Apex Legends Mastery Exploring Single Platform Potential</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-ultimate-battle-of-digital-universes-metaverse-vs-omniverse/"><u>[Updated] 2024 Approved The Ultimate Battle of Digital Universes Metaverse Vs. Omniverse</u></a></li>
-<li><a href="https://win-blog.techidaily.com/achieving-stable-connection-with-steam-servers-after-recent-fix/"><u>Achieving Stable Connection with Steam Servers After Recent Fix</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dialogue-dissection-gpt-vs-bingbots-10-key-dichotomies/"><u>Dialogue Dissection: GPT Vs. BingBot's 10 Key Dichotomies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-artificial-steps-ai-accelerating-cybercrime/"><u>Five Artificial Steps: AI Accelerating Cybercrime</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/github-copilot-versus-chatgpt-which-one-wins-for-coding-excellence/"><u>GitHub Copilot Versus ChatGPT - Which One Wins for Coding Excellence?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-issues-with-scavengers-game-crashes-on-pc-platforms/"><u>Resolving Issues with Scavengers Game Crashes on PC Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-leveraging-chamois-to-design-engrossing-fantastical-settings/"><u>The Ultimate Strategy: Leveraging Chamois to Design Engrossing Fantastical Settings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-showdown-of-ai-conversationalists-chatgpt-vs-bing-chat-battle/"><u>Ultimate Showdown of AI Conversationalists: ChatGPT Vs. Bing Chat Battle!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-youtube-buffering-busted-stream-uninterrupted-new-techniques/"><u>[New] 2024 Approved YouTube Buffering Busted - Stream Uninterrupted (New Techniques)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-optimal-settings-for-recording-movs-on-windows-11-systems/"><u>[Updated] Optimal Settings for Recording MOVs on Windows 11 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028112547-mp3/"><u>簡単に学べるMP3曲のループ編集テクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029359181-bilibili/"><u>Bilibili動画のダウンロードと保存がうまくいかない方法：修正手順</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-optimal-methods-for-converting-arf-archives-into-accessible-formats/"><u>Comprehensive Guide: Optimal Methods for Converting ARF Archives Into Accessible Formats</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/improving-corporate-performance-how-ai-and-advanced-automation-contribute-to-successful-outcomes/"><u>Improving Corporate Performance: How AI and Advanced Automation Contribute to Successful Outcomes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-samsung-galaxy-xcover-7-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Samsung Galaxy XCover 7? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-facebook-call-recording-a-step-by-step-guide/"><u>Mastering Facebook Call Recording A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030231975-pc/"><u>PCを使った音楽再生と録音 - 初心者向けガイド</u></a></li>
 </ul></div>
 

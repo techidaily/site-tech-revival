@@ -1,7 +1,7 @@
 ---
 title: Six Effective Techniques for Amplifying Personal Productivity at Home Using ChatGPT
-date: 2024-09-11T19:47:35.768Z
-updated: 2024-09-12T19:47:35.768Z
+date: 2024-09-13T00:19:27.916Z
+updated: 2024-09-17T23:49:55.707Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 ![ChatGPT workout plan for beginners prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-beginners-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the first prompt, I asked ChatGPT to create a workout plan for beginners. The basic workout plan it generated allotted time for cardio, resistance training, warm-ups, and cool-downs.
 
  For the most part, it looks like a solid plan that you might find on any[beginner-friendly workout app](https://www.makeuseof.com/best-beginner-workout-apps-fitness-newbies/) , such as the J&J Official 7 Minute Workout. There's even a note at the end to increase your duration slowly over time and stay hydrated, which is excellent advice for any athlete.
@@ -48,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
  In this instance, ChatGPT responded to the prompt with a standard list of exercises that would work well for many people. If you're interested in a simple, straightforward fitness routine, then its suggestions are legitimate.
 
 ![ChatGPT workout plan for advanced athletes prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-workout-plan-for-advanced-athletes-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Meanwhile, a second plan for more seasoned athletes follows a similar format, including plenty of examples for cardio, core, and resistance training. Each section includes many options.
 
@@ -76,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
  As someone who has recovered from a fair share of sports injuries, this is the same kind of advice I received from physicians and physical therapists when returning to activities. Again, nothing can replace personalized advice from a healthcare provider, but the chatbot gets the broad strokes correct and advises caution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How ChatGPT Creates Running Plans
 
 ![ChatGPT running plan question screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-running-plan-question-screenshot.jpg)
@@ -90,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
  Next, I prompted the chatbot to create a running plan. It responded with several questions about my current fitness level, as well as overall training goals, to generate a more detailed response.
 
 ![ChatGPT 10K running plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-10k-running-plan-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I responded to the questions in order, and it provided a multi-week plan. The plan is actually pretty solid, even taking potential injuries into account, but it didn't get into more granular details like pacing.
 
@@ -106,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 ![ChatGPT Boston qualifier prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-boston-qualifier-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, there is some level of self-awareness with ChatGPT's advice on this topic (if you can say such a thing about AI technology). For instance, if you ask it to create a running plan that will help you qualify for the Boston Marathon, then it directs you to find an online plan that already addresses this ambition. It's a huge, years-long goal, even for many talented runners, and the app rightly doesn't attempt to offer a pat response.
 
  While ChatGPT provides adequate training plans for runners, there are many free resources for running plans online that offer much more detail. In time, however, it's likely the chatbot will be able to provide more in-depth plans that take pacing, heart rate zones, and more information into account.
@@ -120,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 ## Strength Training Plans From ChatGPT
 
 ![ChatGPT strength training prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-strength-training-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Likewise, ChatGPT’s general strength training plan is also pretty dependable, calling for bodyweight exercises like squats and push-ups as well as dumbbell rows. It’s similar to what you might find from[top strength-training apps](https://www.makeuseof.com/best-weightlifting-apps/) .
 
@@ -132,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
  If you ever need to double-check the way to perform a certain exercise, or simply try out a new series of strength workouts, then ChatGPT is a helpful resource. The simple, straightforward responses and training plans offer a lot of information for beginner and more experienced athletes looking to increase their strength. Just be sure to verify the information with reputable sources before you take ChatGPT's advice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## It's Possible to Use ChatGPT to Help With Your Fitness Goals
@@ -157,17 +123,17 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rasping-the-essence-of-your-youtube-community/"><u>[New] Grasping the Essence of Your YouTube Community</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-immersion-in-metaverse-leading-hmds-reviewed/"><u>[Updated] Immersion in Metaverse Leading HMDs Reviewed</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-smile-with-these-top-funny-tiktok-videos-and-jokes/"><u>[Updated] In 2024, Smile with These Top Funny TikTok Videos and Jokes</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-fortune-in-focus-5-best-maps-for-treasures/"><u>2024 Approved Fortune in Focus 5 Best Maps for Treasures</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-pathway-to-get-your-hands-on-movie-maker-6/"><u>2024 Approved Pathway to Get Your Hands on Movie Maker 6</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-magic-of-unique-ai-design-microsofts-copilot-insights/"><u>Discover the Magic of Unique AI Design: Microsoft's Copilot Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-the-chatgpt-mobile-app-surpasses-the-web-version-6-key-reasons-why/"><u>How the ChatGPT Mobile App Surpasses the Web Version: 6 Key Reasons Why!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g14-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G14 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-motorola-moto-g24-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G24 Phone without Google Account?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligence-level-unaltered-chatgpt-reaffirmed/"><u>Intelligence Level Unaltered: ChatGPT Reaffirmed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-fixes-for-total-war-warhammer-iii-continuous-crashes/"><u>PC Troubleshooting: Fixes for Total War: Warhammer III Continuous Crashes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-ai-on-traditional-college-papers/"><u>The Impact of AI on Traditional College Papers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-captures-of-apples-hd-display-shots-under-156-characters-for-2024/"><u>[New] Top Captures of Apple's HD Display Shots (Under 156 Characters) for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-classic-crimson-codec/"><u>[Updated] Classic Crimson Codec</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-the-vr-future-latest-trends/"><u>[Updated] Unveiling the VR Future Latest Trends</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-your-stalled-igfxem-module-now/"><u>Fix Your Stalled iGFXem Module Now</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-hp-officejet-pro-8600-windows-compatible-printing-software/"><u>Get the Latest HP Officejet Pro 8600 Windows-Compatible Printing Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-apple-iphone-15-pro-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c300-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Nokia C300 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c32-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C32 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-creation-suite-crafting-your-own-ringtones-animated-gifs-and-split-screen-content/"><u>Ultimate Creation Suite: Crafting Your Own Ringtones, Animated GIFs & Split-Screen Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-image-protection-wonderfox-photo-watermark-the-top-choice-for-speed-and-unmatched-quality/"><u>Ultimate Image Protection: WonderFox Photo Watermark – The Top Choice for Speed & Unmatched Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-secrets-of-ass-format-tips-on-opening-and-editing/"><u>Unlocking the Secrets of ASS Format: Tips on Opening and Editing</u></a></li>
 </ul></div>
 

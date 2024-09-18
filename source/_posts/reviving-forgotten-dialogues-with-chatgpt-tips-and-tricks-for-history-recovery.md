@@ -1,7 +1,7 @@
 ---
 title: "Reviving Forgotten Dialogues with ChatGPT: Tips and Tricks for History Recovery"
-date: 2024-09-11T19:43:41.147Z
-updated: 2024-09-12T19:43:41.147Z
+date: 2024-09-12T08:06:23.047Z
+updated: 2024-09-17T17:55:17.358Z
 tags:
   - chatgpt
   - open-ai
@@ -30,19 +30,6 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. chat-gpt-pc.online
 
  Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
@@ -57,29 +44,9 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
@@ -95,41 +62,35 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
- SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
 <!-- affiliate ads begin -->
-<span id="1993651">
+<span id="1975562">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -142,16 +103,10 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
@@ -181,21 +136,18 @@ thumbnail: https://thmb.techidaily.com/8ff8906f51872923e9c5692da8760464bdd1f9c3e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-elevate-video-production-mastering-obs-on-android/"><u>[New] 2024 Approved Elevate Video Production Mastering OBS on Android</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-prime-10-terraria-game-enhancements/"><u>[New] 2024 Approved Prime 10 Terraria Game Enhancements</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-conquer-youtube-with-creator-studio-a-comprehensive-guide/"><u>[New] Conquer YouTube with Creator Studio A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-intensive-assessment-the-ultimate-guide-to-bublcam-360/"><u>[New] Intensive Assessment The Ultimate Guide to Bublcam 360</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-choosing-your-first-camera-the-2024-bestseller-list/"><u>[Updated] Choosing Your First Camera The 2024 Bestseller List</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-elevate-your-driving-pleasure-with-essential-sj4000-gear/"><u>[Updated] Elevate Your Driving Pleasure with Essential SJ4000 Gear</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-final-cut-pro-x-mastery-crafting-instagrams-desired-format/"><u>2024 Approved Final Cut Pro X Mastery Crafting Instagram's Desired Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-language-models-ranked-google-bard-microsofts-chatgpt-and-the-independent-alternative-alpaca-compared/"><u>Best Language Models Ranked: Google Bard, Microsoft's ChatGPT, and the Independent Alternative Alpaca Compared</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/digital-distortion-techniques-and-applications/"><u>Digital Distortion Techniques and Applications</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-hp-deskjet-285510-pc-printer-driver-software-for-windows-systems/"><u>Download & Install HP DeskJet 2^855^10^ PC Printer Driver Software for Windows Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-titans-clash-evaluating-chatgpt-against-microsofts-bing-chat/"><u>Generative AI Titans Clash: Evaluating ChatGPT Against Microsoft's Bing Chat</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligence-level-unaltered-chatgpt-reaffirmed/"><u>Intelligence Level Unaltered: ChatGPT Reaffirmed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-2-unveiled-discover-its-purpose-and-practical-use-cases/"><u>Llama 2 Unveiled: Discover Its Purpose and Practical Use Cases</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strategies-to-utilize-ai-for-cognitive-behavioral-practices/"><u>Strategies to Utilize AI for Cognitive Behavioral Practices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-ai-on-traditional-college-papers/"><u>The Impact of AI on Traditional College Papers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-strategies-for-crafting-ideal-prompts-with-chatgpt-for-optimal-ai-responses/"><u>Top 5 Strategies for Crafting Ideal Prompts with ChatGPT for Optimal AI Responses</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/apex-6-goliaths-large-scale-nlp-masters-revealed/"><u>Apex 6 Goliaths: Large-Scale NLP Masters Revealed</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/examining-the-financial-success-strategies-of-t-series-on-youtube-for-2024/"><u>Examining the Financial Success Strategies of T-Series on YouTube for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/facing-trouble-with-chatgpt-follow-these-steps-to-check-its-availability-now/"><u>Facing Trouble with ChatGPT? Follow These Steps to Check Its Availability Now</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-se-2020-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone SE (2020) and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-magic-6-lite-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor Magic 6 Lite Location | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-your-workout-tips-for-crafting-superior-chatgpt-queries/"><u>Maximizing Your Workout: Tips for Crafting Superior ChatGPT Queries</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-motorola-moto-g-stylus-2023-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Motorola Moto G Stylus (2023) Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-best-online-strategies-and-tools-for-mastering-prompt-engineering/"><u>The Best Online Strategies and Tools for Mastering Prompt Engineering</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-note-taking-skills-into-a-pros-game-with-chatgpt-strategies/"><u>Transforming Note-Taking Skills Into a Pro's Game with ChatGPT Strategies</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-choices-from-toms-perspective/"><u>Unveiling Top Hardware Choices From Tom's Perspective</u></a></li>
 </ul></div>
 

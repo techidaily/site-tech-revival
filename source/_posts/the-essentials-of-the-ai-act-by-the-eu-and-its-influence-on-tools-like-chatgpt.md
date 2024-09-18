@@ -1,7 +1,7 @@
 ---
 title: The Essentials of the AI Act by the EU and Its Influence on Tools Like ChatGPT
-date: 2024-09-11T19:47:40.966Z
-updated: 2024-09-12T19:47:40.966Z
+date: 2024-09-12T00:59:08.460Z
+updated: 2024-09-18T03:55:23.465Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently, making it like a personal assistant that can automate most of your tasks.
@@ -36,19 +29,6 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
  AI technology is accelerating fast, and we're moving towards artificial general intelligence that could change everything. We're not there yet, but ChatGPT-4 is widely considered the most advanced AI model.
 
  Well, there is a new kid on the block that makes it even easier to use GPT-4: Auto-GPT. How does it work? And can you use it without GPT-4?
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is Auto-GPT?
 
@@ -60,29 +40,9 @@ thumbnail: https://thmb.techidaily.com/ccdf50131a6b9e5675eea00d8176eeb8be6c7d559
 
  Basically, Auto-GPT is like your personal assistant that can automate most of your tasks, and there are already several[practical ways you can put Auto-GPT to use](https://www.makeuseof.com/ways-you-can-use-auto-gpt/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Do You Access Auto-GPT on Your PC?
 
 ![A grey laptop and a phone on a table](https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For starters, you can access Auto-GPT using Windows, MacOS, or Linux. You also need an OpenAI API account before you start.
 
@@ -92,37 +52,16 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 2. Download[Auto-GPT source code](http://github.com/Significant-Gravitas/Auto-GPT) from GitHub.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Extract the ZIP archive and copy the Auto-GPT folder to your preferred location.
 4. Search for the ".env" file in the folder, right-click it, and select**Open with Notepad.**
 5. Visit your OpenAI account, and on the top right of your screen, click**Personal** and select**View** **API keys** . This should take you to the[OpenAI API keys page](https://platform.openai.com/account/api-keys) while you're signed in.  
 ![OpenAI home page showing Personal section with View API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/openai-home-page.jpg)
 6. Copy your secret API keys from Open AI. If you don't have API keys, click on**Create new secret key** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot showing blurred out OpenAI API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/api-keys.jpg)
 7. Replace the "your-openai-api-key" text in the ".env.template" file with the API keys.  
 ![A notepad showing blurred out OpenAI key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/notepad.jpg)
 8. Create a free account on[pinecone.io](https://www.pinecone.io/) . Once you've signed in to your account, select**API Keys** and click**Create API Key** . However, it's not mandatory you use pinecone.io to install Auto-GPT—if you're put on a waiting list, you can skip to step 12.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 9. After naming and creating the new API key on Pinecone, copy the**Key Value** and paste it to replace "your-pinecone-api-key—this is on the third line under "PINECONE" on the ".env" file you've opened using Notepad.
 10. On the pinecone.io account, copy the details under**Environment** and paste it on the ".env." file next to PINECONE\_ENV—it should replace "your-pinecone-region".  
@@ -136,28 +75,15 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/weldom.jpg)
 15. Once you've launched Auto-GPT on your computer, the API will prompt you to give it a name and specific goals. For instance, you can define its role and tell it to analyze the stock market and save the report on a file.
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, Auto-GPT will ask for your permission to start—you can approve it by pressing "Y" and the Enter key. Alternatively, you can press "y-(number of actions)". More succinctly, if you want Auto-GPT to perform ten actions without seeking your authorization, you can press "Y-10" and hit**Enter** .
 
  If you want to stop an ongoing task quickly, you can utilize the**Ctrl + C** keyboard shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Auto-GPT Benchmarking Tool
@@ -179,6 +105,13 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
 Once it's done, you can copy or save the information.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Auto-GPT 3.5 API vs. Auto-GPT 4 API
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
@@ -198,10 +131,16 @@ Once it's done, you can copy or save the information.
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In retrospect, Auto-GPT with either GPT-3.5 or GPT-4 API can automate some of your tasks with simple defined goals. Of course, Auto-GPT with GPT-4 API has the edge over GPT-3.5 because it's more accurate and better at making sense of images. Here are the[key differences between GPT-4 and GPT 3.5 explained](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) .
@@ -211,19 +150,6 @@ Once it's done, you can copy or save the information.
  Even though Auto-GPT with GPT-4 API performs better than Auto-GPT-3.5, you can still use Auto-GPT 3.5 to complete tasks autonomously. For example, I prompted Auto-GPT with GPT-3.5 API to search the internet for the best laptops on the market and give me a report with pros and cons.
 
 ![auto-gpt with gpt 3.5 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-3-5-output-example.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, I prompted Auto-GPT with GPT-4 API with the same goals, and it gave me a report.
 
@@ -236,6 +162,13 @@ Once it's done, you can copy or save the information.
  However, according to its developers, Auto-GPT is not yet polished enough to completely rely on it without counter-checking the information—even if you're using GPT-4 API. It could also be expensive if you don't limit its token usage. Therefore, we recommend you terminate its connection after a task is complete.
 
  Besides that, Auto-GPT's developers acknowledge that Auto-GPT is experimental and may not be ideal for real-world situations.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Auto-GPT Is a Game Changer
 
@@ -256,19 +189,20 @@ Once it's done, you can copy or save the information.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-from-blank-canvas-to-biggest-hit-mastering-youtube-thumbnail-sizes/"><u>[New] In 2024, From Blank Canvas to Biggest Hit Mastering YouTube Thumbnail Sizes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-meme-magic-sprinkle-hilarity-with-simple-steps-for-2024/"><u>[New] Meme Magic Sprinkle Hilarity with Simple Steps for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-capturing-waves-how-to-record-internet-radios-step-by-step/"><u>2024 Approved Capturing Waves How To Record Internet Radios Step-by-Step</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-hidden-gem-alert-find-out-which-are-the-top-6-games-to-play-within-this-platform/"><u>ChatGPT Hidden Gem Alert! Find Out Which Are the Top 6 Games to Play Within This Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/counterfeit-chronicles-detecting-computer-generated-writing/"><u>Counterfeit Chronicles: Detecting Computer-Generated Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engage-gpt-leveraging-bash-for-openais-chatbot/"><u>Engage GPT: Leveraging Bash for OpenAI's Chatbot</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-officejet-pro-8740-drivers-for-seamless-printing-on-windows-11-10-and-8/"><u>Get the Latest HP OfficeJet Pro 8740 Drivers for Seamless Printing on Windows 11, 10 & 8</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-150-2023-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Nokia 150 (2023) Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-nvidias-chat-with-rtx-ai-chatbot-on-your-computer/"><u>How to Use Nvidia's Chat With RTX AI Chatbot on Your Computer</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oppo-f23-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Oppo F23 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-spark-20c-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Spark 20C FRP?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-world-of-computing-exploring-toms-hardware-findings/"><u>Unlocking the World of Computing: Exploring Tom's Hardware Findings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/up-to-date-chatgpt-impact-for-all/"><u>Up-to-Date ChatGPT Impact for All</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-android-no-fee-communication-tools-ranked-best/"><u>[New] Android No-Fee Communication Tools Ranked Best</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-pexels-tips-for-visual-explorers/"><u>[New] Quick Pexels Tips for Visual Explorers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-mastering-vr-travel-a-step-by-step-guide/"><u>[Updated] 2024 Approved Mastering VR Travel A Step-by-Step Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-realme-c55-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Realme C55 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-benefits-of-the-dell-g5-5090-a-premium-budget-option-with-abundant-features-and-upgrades/"><u>Exploring the Benefits of the Dell G5 #5090 – A Premium Budget Option With Abundant Features and Upgrades</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gopro7/"><u>GoPro動画改良フリー製品トップ7:パソコンユーザーが高く評価する編集ソフト・サイト</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-effortlessly-duplicate-videos-from-facebook-top-2-tricks/"><u>How To Effortlessly Duplicate Videos From Facebook: Top 2 Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-enable-australian-free-iptv-and-live-television-on-your-kodi-device-using-the-iptv-au-plugin-comprehensive-tutorial/"><u>How to Enable Australian Free IPTV and Live Television on Your Kodi Device Using the IPTV AU Plugin – Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-overcome-errors-in-your-google-drive-file-downloading-process-a-guide-with-14-strategies/"><u>How To Overcome Errors in Your Google Drive File Downloading Process: A Guide With 14 Strategies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/jpg-to-mp4-video-conversion-top-online-and-desktop-tools/"><u>JPG to MP4 Video Conversion: Top Online & Desktop Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kodi-could-not-connect-to-repository-issue-here-are-your-fixes/"><u>Kodi 'Could Not Connect to Repository' Issue? Here Are Your Fixes!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-film-synopsis-must-know-points/"><u>Short Film Synopsis Must-Know Points!</u></a></li>
+<li><a href="https://facebook.techidaily.com/unlocking-efficiency-with-facebook-shortcut-settings/"><u>Unlocking Efficiency with Facebook Shortcut Settings</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-s-hottest-explainer-video-creation-platforms-revealed/"><u>Updated In 2024, S Hottest Explainer Video Creation Platforms Revealed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of AI Language Models at OpenAI: Analyzing the Advancements From GPT-1 Up to GPT-4"
-date: 2024-09-11T19:45:00.006Z
-updated: 2024-09-12T19:45:00.006Z
+date: 2024-09-10T18:56:01.946Z
+updated: 2024-09-18T09:33:57.266Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Availability
 
  To use[Notion AI](https://www.notion.so/product/ai) , you must first sign up for a Notion account. You can use the feature with a free plan, but you must purchase Notion AI as an add-on. For users with a free membership, Notion AI costs $10 per month.
@@ -38,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
  When buying Notion AI as a premium subscriber, you’ll pay $10 per month if you pay monthly for your normal paid Notion plan. If you have an annual subscription, Notion AI will cost $8 per month instead.
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Drafting Ideas
 
@@ -54,40 +40,13 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Notion AI also lets you draft social media posts, press releases, blog posts, and more.
 
  When using ChatGPT, you can also generate ideas for your projects. After signing in to your account, you can ask the bot to come up with a list of different things that you can then research further.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Creating Summaries of Existing Pages
 
@@ -107,21 +66,22 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 
 ![Question Asked in ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/question-asked-in-chatgpt.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also use ChatGPT to find out which movements are most frequently used in certain exercise regimens, along with things to do on your travels and more. However, you should double-check the accuracy of everything you see; as ChatGPT mentions, the feature sometimes has inaccuracies.
 
  When using Notion AI, you can ask the tool to explain certain parts of the text on your pages. But in terms of finding answers to random questions you may have, it’s not really designed for that.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Translation
@@ -130,16 +90,16 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 
 ![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
 
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Stability
 
@@ -156,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 [Notion AI](https://www.makeuseof.com/what-is-notion-ai-improve-productivity/) has a feature called**Find action items** ; once you select this, the tool will generate a list of things that it perceives as necessary to-dos. After seeing the initial list of options, you can ask Notion AI to expand it if needed.
 
 ![Notion Create To-Do List AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-create-to-do-list-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
 
@@ -187,21 +140,18 @@ thumbnail: https://thmb.techidaily.com/2a48b2247fe4fccf62c26b321b73686dd63d342e8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-the-blueprint-for-tiktok-profitability-mastering-filmmaker-funds/"><u>[New] The Blueprint for TikTok Profitability – Mastering Filmmaker Funds</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-infinix-smart-7-hd-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-exploring-av1s-superiority-over-vp9/"><u>2024 Approved Exploring AV1's Superiority Over VP9</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dialogue-dissection-gpt-vs-bingbots-10-key-dichotomies/"><u>Dialogue Dissection: GPT Vs. BingBot's 10 Key Dichotomies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Spark 20C? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-artificial-steps-ai-accelerating-cybercrime/"><u>Five Artificial Steps: AI Accelerating Cybercrime</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/github-copilot-versus-chatgpt-which-one-wins-for-coding-excellence/"><u>GitHub Copilot Versus ChatGPT - Which One Wins for Coding Excellence?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-microsoft-database-file-missing-dll-msstdfmtdll-issues/"><u>How To Resolve Microsoft Database File - Missing DLL (Msstdfmt.dll) Issues</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-f14-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy F14 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimize-capture-smooth-screenshots-with-dell-models/"><u>In 2024, Optimize Capture Smooth Screenshots with Dell Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-character-creation-with-these-11-powerful-chatgpt-phrases-for-authors/"><u>Master the Art of Character Creation with These 11 Powerful ChatGPT Phrases for Authors</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/revamping-ai-interactions-googles-gemini-vs-chatgpts-performance/"><u>Revamping AI Interactions – Google’s Gemini Vs. ChatGPT's Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-workflow-with-ai-best-practices-for-using-chatgpt-without-compromising-privacy/"><u>Secure Workflow with AI: Best Practices for Using ChatGPT without Compromising Privacy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-leveraging-chamois-to-design-engrossing-fantastical-settings/"><u>The Ultimate Strategy: Leveraging Chamois to Design Engrossing Fantastical Settings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-showdown-of-ai-conversationalists-chatgpt-vs-bing-chat-battle/"><u>Ultimate Showdown of AI Conversationalists: ChatGPT Vs. Bing Chat Battle!</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/workshops-and-webinars/"><u>Workshops and Webinars</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-iphone-and-ipads-best-video-player-compilation-top-10/"><u>[New] 2024 Approved IPhone & iPad's Best Video Player Compilation (Top 10)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-firefoxs-premier-capture-tools-roundup-for-2024/"><u>[New] Firefox's Premier Capture Tools Roundup for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-apowersoft-unveils-new-pc-screen-capture-tech/"><u>[New] In 2024, Apowersoft Unveils New PC Screen Capture Tech</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-compreranstive-approach-to-high-fidelity-recording-no-mic-necessary-for-2024/"><u>A Compreranstive Approach to High-Fidelity Recording, No Mic Necessary for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-guide-to-streaming-discord-conversations-obs-plus-other-options-explored/"><u>A Guide to Streaming Discord Conversations: OBS Plus Other Options Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adobedvdmp4mov/"><u>Adobeアプリケーションを使用したDVDからMP4/MOVへの効率的なリッピングと変換</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-the-value-of-winx-dvd-ripper-is-this-software-a-game-changer-for-you/"><u>Assessing the Value of WinX DVD Ripper: Is This Software a Game-Changer for You?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-viewing-experience-awaits-blu-ray-discs-versus-dvd-and-digital-file-options/"><u>Best Viewing Experience Awaits: Blu-Ray Discs Versus DVD and Digital File Options</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-100-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-civi-3-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Civi 3.</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-connectivity-modifier-fb-stories-backup-tool/"><u>In 2024, Connectivity Modifier FB Stories Backup Tool</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-xiaomi-redmi-12-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Xiaomi Redmi 12 Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-updates-for-canon-pixma-mg2522-software-drivers-how-to-get-them/"><u>Latest Updates for Canon Pixma MG2522 Software Drivers - How to Get Them</u></a></li>
 </ul></div>
 

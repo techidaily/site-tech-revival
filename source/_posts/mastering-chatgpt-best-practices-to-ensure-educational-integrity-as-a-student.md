@@ -1,7 +1,7 @@
 ---
 title: "Mastering ChatGPT: Best Practices to Ensure Educational Integrity as a Student"
-date: 2024-09-11T19:45:07.305Z
-updated: 2024-09-12T19:45:07.305Z
+date: 2024-09-11T18:22:45.892Z
+updated: 2024-09-17T16:43:16.220Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![Screenshot of response to PDF query on the US constitution](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-response-to-pdf-query-on-the-us-constitution.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 ## 2\. Copy Text From the PDF
@@ -53,27 +46,7 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -90,25 +63,18 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
@@ -117,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
@@ -144,16 +110,16 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-revealing-the-secrets-accessing-forgotten-youtube-vids/"><u>[New] Revealing the Secrets Accessing Forgotten YouTube Vids</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-vives-discomfort-follow-these-motion-sickness-fixes/"><u>[New] Vive's Discomfort? Follow These Motion Sickness Fixes</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-flavorful-feeds-top-tiktok-food-influencers-for-2024/"><u>[Updated] Flavorful Feeds Top TikTok Food Influencers for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unidentified-user-strategies-for-accessing-instagram-stories-on-desktopmobile-for-2024/"><u>[Updated] Unidentified User Strategies for Accessing Instagram Stories on Desktop/Mobile for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dall-e-3-embraces-editing-power-but-more-refinement-is-needed-for-perfection/"><u>DALL-E 3 Embraces Editing Power, but More Refinement Is Needed for Perfection</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/into-immersion-youtubes-best-vr-content/"><u>Dive Into Immersion YouTube's Best VR Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-with-ai-the-guide-to-using-chatgpt-for-auto-generating-documents-in-microsoft-word/"><u>Maximizing Efficiency with AI: The Guide to Using ChatGPT for Auto-Generating Documents in Microsoft Word</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-files-are-unwatchable-on-g54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV files are unwatchable on G54 5G</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/practicality-meets-elegance-with-the-new-asus-s15-oled/"><u>Practicality Meets Elegance with the New Asus S15 OLED</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-communication-uncover-3-chatbot-privacy-pitfalls/"><u>Secure Communication? Uncover 3 Chatbot Privacy Pitfalls</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlock-vivo-v30-lite-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo V30 Lite 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-igtv-broadcasts-to-facebook-explained/"><u>[New] 2024 Approved IGTV Broadcasts to Facebook Explained</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unmasked-story-watching-a-guide-to-anonymous-instagram-stories-accessibility-pcandroidios/"><u>[New] In 2024, Unmasked Story Watching A Guide to Anonymous Instagram Stories Accessibility [PC/Android/iOS]</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instas-tunes-ownership-and-legalities/"><u>[Updated] 2024 Approved Insta's Tunes Ownership & Legalities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/radi/"><u>無料で簡単に、RADIこの聴取録画手引き</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tailoring-your-headline-for-job-searches/"><u>In 2024, Tailoring Your Headline for Job Searches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphoneandriod/"><u>IPhone・Andriodデバイスに最適！有料配信ライブを成功させる録画技術</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-digital-realm-with-wonderfoxs-comprehensive-e-guides-and-breaking-stories/"><u>Navigating the Digital Realm with WonderFox's Comprehensive E-Guides & Breaking Stories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-tips-for-securely-acquiring-terrifying-movie-downloads/"><u>Quick Tips for Securely Acquiring Terrifying Movie Downloads</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-your-screen-three-strategies-to-slow-youtube-videos-down-57-chars/"><u>Quiet Your Screen Three Strategies to Slow YouTube Videos Down (57 Chars)</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ling-the-financial-dynamics-of-youtube-shorts/"><u>Unveiling the Financial Dynamics of YouTube Shorts</u></a></li>
 </ul></div>
 

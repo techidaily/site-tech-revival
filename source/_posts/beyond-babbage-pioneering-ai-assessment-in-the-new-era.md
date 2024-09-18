@@ -1,7 +1,7 @@
 ---
 title: "Beyond Babbage: Pioneering AI Assessment in the New Era"
-date: 2024-09-11T19:44:14.396Z
-updated: 2024-09-12T19:44:14.396Z
+date: 2024-09-10T17:10:47.355Z
+updated: 2024-09-18T07:44:29.926Z
 tags:
   - chatgpt
   - open-ai
@@ -38,29 +38,9 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -71,13 +51,6 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -93,10 +66,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -107,13 +80,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -121,13 +87,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -139,6 +98,13 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -161,17 +127,15 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-no-more-ads-convert-fb-videos-to-1080p720p-mp4-online-for-free/"><u>[New] 2024 Approved No More Ads? Convert FB Videos to 1080P/720p MP4 Online for Free</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-embrace-classic-gaming-leading-ps3-tools-for-pcs-for-2024/"><u>[New] Embrace Classic Gaming Leading PS3 Tools for PCs for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-master-video-cropping-for-unique-instagram-visuals/"><u>[New] Master Video Cropping for Unique Instagram Visuals</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-the-perfect-panel-of-playback-with-youtube/"><u>[Updated] In 2024, Crafting the Perfect Panel of Playback with YouTube</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oneplus-11r-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your OnePlus 11R</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-motorola-razr-40-ultra-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Razr 40 Ultra? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-with-manycam-professional-virtual-camera-app/"><u>Live Streaming Mastery with ManyCam: Professional Virtual Camera App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-pro-manycam-top-choice-in-virtual-cam-and-broadcast-software/"><u>Live Streaming Pro - ManyCam: Top Choice in Virtual Cam and Broadcast Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/optimize-your-avis-quick-conversion-to-gif-on-windows-and-macos-via-filmora-app-for-2024/"><u>Optimize Your AVIs Quick Conversion to GIF on Windows & macOS via Filmora App for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-app-manycam-professional-live-video-editing-and-virtual-backgrounds/"><u>Real-Time Streaming App: ManyCam - Professional Live Video Editing and Virtual Backgrounds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-discover-manycam-ultimate-livestream-camera-app/"><u>Real-Time Streaming: Discover ManyCam - Ultimate Livestream Camera App</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-speech-to-text-translation-in-microsoft-office-suite-word-for-2024/"><u>Seamless Speech-to-Text Translation in Microsoft Office Suite (Word) for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-key-to-captivating-audiences-crafting-fb-slideshows/"><u>[New] The Key to Captivating Audiences Crafting FB Slideshows</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-live-stream-tech-showdown-soft-vs-hardscape-winners/"><u>[Updated] 2024 Approved Live Stream Tech Showdown Soft vs Hardscape Winners</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-master-the-art-of-recording-lol-discover-3-essential-tips/"><u>[Updated] 2024 Approved Master the Art of Recording LOL - Discover 3 Essential Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-video-gameplay-fixing-stutter-issues-with-game-v-on-pc/"><u>Enhancing Video Gameplay: Fixing Stutter Issues with Game V on PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crashing-problems-in-yakuza-6-the-song-of-life-on-windowspc/"><u>Resolving Crashing Problems in Yakuza 6: The Song of Life on Windows/PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tsmp4/"><u>TSファイルを無傷でMP4にアップグレードする究極ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-mastering-vro-file-playback-using-top-converters/"><u>Ultimate Guide: Mastering VRO File Playback Using Top Converters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-professional-level-hd-video-editing-tools-secure-your-factory-pro-application-now-for-an-exceptional-discount-of-70/"><u>Unlock Professional-Level HD Video Editing Tools: Secure Your Factory Pro Application Now for an Exceptional Discount of 70%</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-users-handbook-transforming-ts-videos-to-xvid-with-easy-methods/"><u>Windows Users' Handbook: Transforming TS Videos to Xvid with Easy Methods</u></a></li>
 </ul></div>
 

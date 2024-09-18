@@ -1,7 +1,7 @@
 ---
 title: Protecting Prose From Pseudo-Penned Pages by Algorithms
-date: 2024-09-11T19:45:11.284Z
-updated: 2024-09-12T19:45:11.284Z
+date: 2024-09-12T00:15:15.430Z
+updated: 2024-09-18T07:56:53.509Z
 tags:
   - chatgpt
   - open-ai
@@ -23,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/7240c2e9a6abc552c14c05c0954b803ce022aaf37
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1\. Mixing Topics In a Single Chat Session
 
@@ -64,19 +57,6 @@ You could use:
 
  The second set of prompts will produce much more detailed information and relevant responses.
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Being Overly Specific With Your Instructions
 
  Although it might appear beneficial to provide highly detailed prompts, this strategy isn't always optimal. Detailed instructions indeed offer ChatGPT a clear direction for generating responses. However, excessive detail can unintentionally confine ChatGPT's responses to an overly narrow context, potentially leading to less accurate responses and hallucinations.
@@ -88,10 +68,10 @@ You could use:
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -107,10 +87,10 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -122,15 +102,28 @@ You could use:
 ![ChatGPT Prompt without example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/prompt-without-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Without examples, the jokes ChatGPT came up with weren't particularly rib-cracking. The overall response wasn't quite enticing as well.
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
@@ -140,23 +133,9 @@ You could use:
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
@@ -187,18 +166,20 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-13-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi 13 Ultra Activity | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-how-to-and-where-download-unboxing-video-background-music/"><u>2024 Approved How To & Where Download Unboxing Video Background Music</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-infinix-smart-8-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-examining-the-advantages-and-disadvantages/"><u>ChatGPT Plus: Examining the Advantages and Disadvantages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-lags-chatgpt-4-versus-its-predecessor-gpt-35/"><u>Exploring the Lags: ChatGPT-4 Versus Its Predecessor GPT-3.5</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/first-steps-in-ai-development-the-9-tools-you-need-to-know-about/"><u>First Steps in AI Development: The 9 Tools You Need to Know About</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/head-to-head-comparison-of-leading-120mm-aio-cpu-cooling-solutions-from-be-quiet-corsair-cooler-master-and-enermax/"><u>Head-to-Head Comparison of Leading 120MM AIO CPU Cooling Solutions From Be Quiet, Corsair, Cooler Master & Enermax</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-13-pro-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 13 Pro Max with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-nokia-c02-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Nokia C02 Phone Network-Ready</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintain-silence-on-secrets-not-with-gpt-assistance/"><u>Maintain Silence on Secrets, Not with GPT Assistance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-diy-innovation-with-the-upcoming-arrival-of-gpt-navigate-through-ais-next-giant-leap/"><u>Transforming DIY Innovation with the Upcoming Arrival of GPT-Navigate Through AI's Next Giant Leap.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-and-improving-content-through-chatgpt-integration/"><u>Unleashing Creativity and Improving Content Through ChatGPT Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-chatgpt-isnt-the-right-choice-for-personal-medical-advice/"><u>Why ChatGPT Isn't the Right Choice for Personal Medical Advice</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ensuring-effective-monetization-strategies-for-yt-channels-for-2024/"><u>[New] Ensuring Effective Monetization Strategies for YT Channels for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-tips-achieving-crisp-focus-during-online-conferences/"><u>[New] Professional Tips Achieving Crisp Focus During Online Conferences</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-secrets-to-keeping-online-interactions-safe/"><u>[New] Secrets to Keeping Online Interactions Safe</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-2023/"><u>最新技術によるDVDコピーガード解除: 2023年優れたソフトウェアガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/corrected-error-unresponsive-buttons-on-keyboard/"><u>Corrected Error: Unresponsive Buttons on Keyboard</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-10c-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark 10C Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-unpublished-youtube-footage-strategies-for-finding-secret-videos-by-others-and-yourself/"><u>Discover Unpublished YouTube Footage: Strategies for Finding Secret Videos by Others and Yourself</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-compatibility-with-ps5-can-you-watch-your-favorite-movies/"><u>DVD Compatibility with PS5: Can You Watch Your Favorite Movies?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-and-effective-techniques-for-setting-up-einthusan-kodi-addon-a-comprehensive-tutorial/"><u>Easy and Effective Techniques for Setting up Einthusan Kodi Addon: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-conversion-tactics-how-to-change-your-mp4-files-into-flv-video-type/"><u>Easy Conversion Tactics: How to Change Your MP4 Files Into FLV Video Type</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-to-adding-bandcamp-streaming-feature-in-kodi/"><u>Easy Guide to Adding Bandcamp Streaming Feature in Kodi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>In 2024, Capturing Every Moment Unveiling 5 Exceptional Streamer Webcams</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/navigating-tech-world-easily-with-toms-innovation-hub/"><u>Navigating Tech World Easily with Tom's Innovation Hub</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/path-profile-picture-dimensions-for-2024/"><u>Path Profile Picture Dimensions for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/subtitle-tips-for-instagram-tv-storytelling-for-2024/"><u>Subtitle Tips for Instagram TV Storytelling for 2024</u></a></li>
 </ul></div>
 

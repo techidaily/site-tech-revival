@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Installation of Auto-GPT: Download & Setup Process Explained"
-date: 2024-09-11T19:45:32.502Z
-updated: 2024-09-12T19:45:32.502Z
+date: 2024-09-16T23:53:15.821Z
+updated: 2024-09-18T05:22:42.174Z
 tags:
   - chatgpt
   - open-ai
@@ -38,25 +38,11 @@ thumbnail: https://thmb.techidaily.com/39537ef670f74abdd3937163bf686c62a000d8146
 
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After Installing Python, you can download Auto-GPT from GitHub.
 
 **Download** :[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT/releases/tag/v0.4.7) (Free)
 
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Step 2: Configure Auto-GPT
 
@@ -87,13 +73,6 @@ pip install -r requirements.txt
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Congratulations! You have successfully Installed Auto-GPT.
 
 ## How to Use Auto-GPT
@@ -114,16 +93,16 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
@@ -135,13 +114,6 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
 
  After every action of the AI, you can also provide your feedback to help the AI with its task.
@@ -149,10 +121,10 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
@@ -161,22 +133,15 @@ After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
@@ -192,13 +157,6 @@ After making the recipe, our AI has now completed its task.
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -221,16 +179,18 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-leveraging-the-power-of-visual-storytelling-in-fb-covers/"><u>[New] In 2024, Leveraging the Power of Visual Storytelling in FB Covers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-standout-methods-for-fb-ad-visualization/"><u>[Updated] In 2024, Standout Methods for FB Ad Visualization</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>[Updated] No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/all-inclusive-insight-understanding-openai-inside-out/"><u>All-Inclusive Insight: Understanding OpenAI Inside Out</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/app-vs-website-the-unmatched-benefits-of-using-chatgpt-offline/"><u>App vs Website: The Unmatched Benefits of Using ChatGPT Offline</u></a></li>
-<li><a href="https://win-dash.techidaily.com/best-practices-for-downloading-asus-chipset-drivers-on-windows-pcs/"><u>Best Practices for Downloading ASUS Chipset Drivers on Windows PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-advanced-language-models-like-chatgpt-outperform-star-signs-in-foreseeing-your-future/"><u>Can Advanced Language Models Like ChatGPT Outperform Star Signs in Foreseeing Your Future?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deploy-low-cost-locally-executed-chatgpt-clone-on-pc/"><u>Deploy Low-Cost, Locally Executed ChatGPT Clone on PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/experiencing-tardy-sms-notifications-on-iphone-discover-9-reliable-remedies-now/"><u>Experiencing Tardy SMS Notifications on iPhone? Discover 9 Reliable Remedies Now</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-facebook-favorites-top-8-androidiphone-apps-for-social-popularity/"><u>In 2024, Facebook Favorites Top 8 Android/iPhone Apps for Social Popularity</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-infinix-hot-30i-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Infinix Hot 30i to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-sound-shift-secrets-revealed-uncover-the-best-voice-recorder-changer-apps/"><u>[Updated] 2024 Approved Sound Shift Secrets Revealed Uncover the Best Voice Recorder Changer Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/altering-game-console-tones-ps5ps4-guide/"><u>Altering Game Console Tones PS5/PS4 Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-mkv-cutting-tools-2023-edition-no-cost/"><u>Best MKV Cutting Tools 2023 Edition (No Cost!)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-to-amplify-videosaudio-on-pc-mastering-ffmpeg-volume-controls/"><u>Easy Guide to Amplify Videos/Audio on PC: Mastering FFmpeg Volume Controls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-transferring-videos-to-ios-devices-like-the-iphone-ipad-and-ipod/"><u>Easy Guide: Transferring Videos to iOS Devices Like the iPhone, iPad & iPod</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-conversion-of-mxf-files-to-mov-format-across-windows-macos-and-cloud-services/"><u>Efficient Conversion of MXF Files to MOV Format Across Windows, macOS, & Cloud Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-the-top-3-methods-for-converting-avi-to-mp3-format/"><u>Effortless Guide: The Top 3 Methods for Converting AVI to MP3 Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-starfield-glitchy-noise-fixed-stutter-and-discontinuous-audio-problems/"><u>Eliminate Starfield Glitchy Noise - Fixed Stutter and Discontinuous Audio Problems</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-v30-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo V30? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-milestones-unveiling-top-sources-for-harmonious-opens/"><u>Melodic Milestones Unveiling Top Sources for Harmonious Opens</u></a></li>
 </ul></div>
 

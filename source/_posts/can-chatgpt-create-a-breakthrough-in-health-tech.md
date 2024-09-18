@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT Create a Breakthrough in Health Tech?
-date: 2024-09-11T19:48:41.216Z
-updated: 2024-09-12T19:48:41.216Z
+date: 2024-09-16T04:14:37.100Z
+updated: 2024-09-17T19:40:11.260Z
 tags:
   - chatgpt
   - open-ai
@@ -28,19 +28,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The [ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to [totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -48,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -70,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -84,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -103,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -132,17 +92,19 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-top-8-android-collaboration-platforms/"><u>[Updated] 2024 Approved Ultimate Guide to Top 8 Android Collaboration Platforms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/a-dive-into-technology-insta360s-one-x2-showcased/"><u>A Dive Into Technology - Insta360's One X2 Showcased</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-communicators-contrasted-insights-on-gpt-and-bing/"><u>AI Communicators Contrasted: Insights on GPT & Bing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-vs-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic Vs 2 Phone? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-fix-windows-update-failure-error-0x80240017-effectively/"><u>Expert Tips to Fix Windows Update Failure (Error 0X80240017) Effectively</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-gionee-f3-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Gionee F3 Pro Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-redefine-video-communication-with-your-webcam/"><u>In 2024, Redefine Video Communication with Your Webcam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatbot-dialogue-address-and-rectify-six-typical-chatgpt-glitches/"><u>Mastering Chatbot Dialogue: Address and Rectify Six Typical ChatGPT Glitches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-unlock-the-meanings-behind-29-important-concepts/"><u>Navigating the World of AI: Unlock the Meanings Behind 29 Important Concepts</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-discover-the-8-most-compelling-soundscapes-for-youtube-debut-videos/"><u>New Discover the 8 Most Compelling Soundscapes for YouTube Debut Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-movie-magic-on-your-device-top-10-trailer-apps-for-iphone-and-ipad/"><u>New In 2024, Movie Magic on Your Device Top 10 Trailer Apps for iPhone and iPad</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-realme-c51-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme C51 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-integrate-sound-and-sight-web-studio/"><u>[New] Integrate Sound & Sight Web Studio</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-top-rated-mp3-to-ogg-file-converter-software-for-pc-users/"><u>1. Top-Rated MP3 to OGG File Converter Software for PC Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-icicle-impressions-2022s-olympic-skaters/"><u>2024 Approved Icicle Impressions 2022'S Olympic Skaters</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/6-methods-for-switching-from-apple-iphone-8-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>6 Methods for Switching from Apple iPhone 8 Plus to Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-driver-upgrade-for-amd-ryzen-5-5-seamlessly-optimize-your-device-amd-ryzen-5-2500u-drivers-update-guide/"><u>Effortless Driver Upgrade for AMD Ryzen 5 5: Seamlessly Optimize Your Device - AMD Ryzen 5 2500U Drivers Update Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p55tfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P55TFRP Lock</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/meilleurs-outils-dextraction-video-librement-accessibles-guide-exhaustif-des-utilitaires-premium-windows-11-2023/"><u>Meilleurs Outils D'Extraction Vidéo Librement Accessibles: Guide Exhaustif Des Utilitaires Premium Windows 11 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026411717-mp4/"><u>MP4動画字幕編集ソフト - 簡単に埋め込み、削除、抽出が可能</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028739840-pciphoneandroid/"><u>PC、iPhone、Androidでのストリーミングビデオダウンロード手順</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resident-evil-village-pc-issues-heres-how-to-resolve-the-persistent-game-crashing-problem/"><u>Resident Evil Village PC Issues? Here's How to Resolve the Persistent Game Crashing Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-repair-tips-for-nonfunctional-corsair-void-headset-mic/"><u>Step-by-Step Repair Tips for Nonfunctional Corsair Void Headset Mic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-free-tools-convert-avi-videos-into-3gp-format-fast-guide/"><u>Top Rated FREE Tools: Convert AVI Videos Into 3GP Format - Fast Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-avcoder-software-ultimate-guide-for-converting-dvds-to-avi-on-windows-10-and-11/"><u>Top-Rated AVCoder Software: Ultimate Guide for Converting DVDs to AVI on Windows 10 & 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026655062-windows/"><u>Windows上でのスクリーンキャプチャ不具合原因および解決方法の詳細ガイド</u></a></li>
 </ul></div>
 

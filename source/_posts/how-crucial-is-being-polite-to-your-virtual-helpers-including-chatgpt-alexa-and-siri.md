@@ -1,7 +1,7 @@
 ---
 title: How Crucial Is Being Polite to Your Virtual Helpers Including ChatGPT, Alexa, and Siri?
-date: 2024-09-11T19:46:23.405Z
-updated: 2024-09-12T19:46:23.405Z
+date: 2024-09-14T11:32:48.845Z
+updated: 2024-09-18T06:47:03.919Z
 tags:
   - chatgpt
   - open-ai
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 ## 1\. WebChatGPT
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
 
@@ -61,19 +54,6 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -91,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -106,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -131,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
@@ -145,16 +118,16 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -185,18 +158,19 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-the-secrets-to-profitable-facebook-animation-strategies/"><u>[New] 2024 Approved Unveiling the Secrets to Profitable Facebook Animation Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-optimal-energy-solutions-for-gopro-hero5-certified-and-third-party/"><u>[New] Optimal Energy Solutions for GoPro Hero5 Certified & Third-Party</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-windowed-wonders-a-filmmakers-editing-software-compilation/"><u>[Updated] 2024 Approved Windowed Wonders A Filmmaker's Editing Software Compilation</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-online-presence-mastering-youtube-edits-in-premiere/"><u>2024 Approved Elevate Your Online Presence Mastering YouTube Edits in Premiere</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battling-chatgpt-with-intelligence-google-unveils-its-own-ai-bard/"><u>Battling ChatGPT with Intelligence: Google Unveils Its Own AI - Bard</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-steps-to-successfully-set-up-local-llama-2/"><u>Complete Guide: Steps to Successfully Set Up Local Llama 2</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/cookiebot-enabled-analytics-solutions/"><u>Cookiebot-Enabled Analytics Solutions</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-broadcasts-using-manycam-top-choice-for-professional-virtual-webcams-and-recording-apps/"><u>Enhance Your Broadcasts Using ManyCam: Top Choice for Professional Virtual Webcams and Recording Apps</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-hues-the-ultimate-guide-to-color-enhancement-11-steps-for-2024/"><u>Ideal Hues The Ultimate Guide to Color Enhancement (11 Steps) for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-se-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and iPhone SE The Right Way</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-magic-behind-machine-learning-insights-unraveling-openais-shap-e-tool/"><u>The Magic Behind Machine Learning Insights: Unraveling OpenAI's Shap-E Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-tips-for-integrating-chatgpt-into-your-vs-code-workflow/"><u>Top 10 Tips for Integrating ChatGPT Into Your VS Code Workflow</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-horizontal-or-vertical-crafting-the-best-fb-video-posts/"><u>[New] 2024 Approved Horizontal or Vertical Crafting the Best FB Video Posts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-navigating-the-aspect-ratio-maze-for-twitter-media/"><u>[New] 2024 Approved Navigating the Aspect Ratio Maze for Twitter Media</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-download-and-convert-youtube-twittersongs-videos-to-mp3/"><u>2024 Approved How to Download and Convert YouTube Twittersongs (Videos) to MP3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-free-artificial-intelligence-services-similar-to-sora/"><u>6 Free Artificial Intelligence Services Similar to Sora</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-reno-8t-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Oppo Reno 8T</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-realme-11-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme 11 Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267962837-cookiebot-technology-empowering-your-digital-marketing-strategy/"><u>Cookiebot Technology - Empowering Your Digital Marketing Strategy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-visual-interest-utilizing-secondary-footage-wisely/"><u>Enhancing Visual Interest Utilizing Secondary Footage Wisely</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-poco-f5-pro-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Poco F5 Pro 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-wmv-files-to-crisp-clear-gifs/"><u>Ultimate Guide: Converting WMV Files to Crisp, Clear GIFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-for-quick-and-effective-aac-file-modifications-in-windows-environments/"><u>Ultimate Tutorial for Quick and Effective AAC File Modifications in Windows Environments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-on-hd-to-dvd-conversion-preserve-your-movies-in-optimum-quality/"><u>Ultimate Tutorial on HD to DVD Conversion - Preserve Your Movies in Optimum Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/viber-pc/"><u>Viber PC上での通話記録技術：ステップバイステップガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-8-dvd-2/"><u>Windows 8 で DVD 再生の新手法: 効率的な方法2通り</u></a></li>
 </ul></div>
 

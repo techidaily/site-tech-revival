@@ -1,7 +1,7 @@
 ---
 title: Seamless Integration of Bing AI Chat in Android Keyboard Settings
-date: 2024-09-11T19:44:38.907Z
-updated: 2024-09-12T19:44:38.907Z
+date: 2024-09-11T01:52:50.235Z
+updated: 2024-09-17T19:14:03.449Z
 tags:
   - chatgpt
   - open-ai
@@ -57,25 +57,11 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -88,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/c89ca4d2db8c8241f93b3a96e44489938109c01f6
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
@@ -99,10 +85,10 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
@@ -113,40 +99,13 @@ Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
@@ -156,7 +115,21 @@ Here's the source screenshot.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
 
@@ -179,16 +152,20 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-propel-your-youtube-presence-upwards-by-thousands/"><u>[New] 2024 Approved Propel Your YouTube Presence Upwards by Thousands</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-to-secure-youtube-channels-audible-content-for-2024/"><u>[New] How to Secure YouTube Channels' Audible Content for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-no-more-buffering-choose-from-our-top-15-youtube-playlist-downloads/"><u>[New] No More Buffering? Choose From Our Top 15 YouTube Playlist Downloads</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-mov-file-management-on-modern-windows-10/"><u>[Updated] Mastering .mov File Management on Modern Windows 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-fixing-the-application-unable-to-start-correctly-error-in-adobe-0xc0000022/"><u>Comprehensive Guide to Fixing the 'Application Unable to Start Correctly' Error in Adobe (0xC0000022)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-expert-video-editing-and-remote-webcams-with-manycam/"><u>Enhance Your Online Presence: Expert Video Editing and Remote Webcams with ManyCam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-streams-with-manycam-top-virtual-camera-and-recording-tool/"><u>Enhance Your Streams with ManyCam: Top Virtual Camera and Recording Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-world-of-professional-streaming-with-manycam-your-ultimate-livestream-camera-and-effects-suite/"><u>Explore the World of Professional Streaming with ManyCam - Your Ultimate Livestream Camera and Effects Suite</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-nokia-c02-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Nokia C02 Face Lock?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-live-video-solutions-with-manycam-the-definitive-virtual-webcam-experience/"><u>Innovative Live Video Solutions with ManyCam – The Definitive Virtual Webcam Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-stream-mastery-made-easy-discover-the-power-of-manycams-virtual-cam-features/"><u>Live Stream Mastery Made Easy: Discover the Power of ManyCam's Virtual Cam Features</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-comparative-analysis-the-leading-edge-with-active/"><u>[Updated] 2024 Approved Comparative Analysis The Leading Edge with Active</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-making-a-mark-with-square-video-formats-using-imovie-and-instagram/"><u>[Updated] In 2024, Making a Mark with Square Video Formats Using iMovie and Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-tecno-pop-8-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Tecno Pop 8 PC | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-spark-20-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Spark 20 to Roku | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-tricks-to-prevent-fb-video-advertisements-on-screen/"><u>In 2024, Tricks to Prevent FB Video Advertisements on Screen</u></a></li>
+<li><a href="https://extra-support.techidaily.com/into-the-virtual-epoch-analyzing-present-state-and-ahead-for-2024/"><u>Into the Virtual Epoch Analyzing Present State and Ahead for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-best-iphone-options-for-adding-water-marks-for-2024/"><u>Navigating the Best iPhone Options for Adding Water Marks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-a-pirates-life-for-me-add-on-on-kodi-access-an-endless-library-of-films-and-series/"><u>Step-by-Step Guide: Setting Up the 'A Pirate's Life For Me' Add-On on Kodi - Access an Endless Library of Films and Series</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-trimming-extended-footage-for-your-instagram-story-with-zero-quality-degradation/"><u>Step-by-Step Tutorial on Trimming Extended Footage for Your Instagram Story with Zero Quality Degradation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-2024-freemium-video-transcoding-apps-for-movies-compare-windows-mac-and-web-based-solutions/"><u>Top 2024 Freemium Video Transcoding Apps for Movies: Compare Windows, Mac and Web-Based Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-for-transforming-mpeg-content-into-advanced-h264-format/"><u>Top Strategies for Transforming MPEG Content Into Advanced H.264 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranked-avcam-video-editor-from-dvd-to-avi-ideal-choice-for-windows-11-users/"><u>Top-Ranked AVCam Video Editor From DVD to AVI: Ideal Choice for Windows 11 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-issues-why-cant-i-watch-my-mov-videos-on-plex-and-how-to-solve-it/"><u>Troubleshooting Issues: Why Can't I Watch My MOV Videos on Plex and How to Solve It?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-detailed-steps-to-extract-data-from-your-dvd-on-windows-and-mac/"><u>Ultimate Guide: Detailed Steps to Extract Data From Your DVD on Windows & Mac</u></a></li>
 </ul></div>
 

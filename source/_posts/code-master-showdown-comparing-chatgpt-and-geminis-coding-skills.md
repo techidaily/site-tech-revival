@@ -1,7 +1,7 @@
 ---
 title: "Code Master Showdown: Comparing ChatGPT and Gemini's Coding Skills"
-date: 2024-09-11T19:41:16.207Z
-updated: 2024-09-12T19:41:16.207Z
+date: 2024-09-12T10:59:31.087Z
+updated: 2024-09-18T10:14:50.745Z
 tags:
   - chatgpt
   - open-ai
@@ -22,29 +22,9 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -70,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
  By default, Google collects your conversations and your general location based on your IP address, your feedback, and usage information. This information is stored in your Google account for up to 18 months. Although you can pause saving your Bard activity, you should be aware that "to help with quality and improve our products, human reviewers read, annotate, and process your Bard conversations."
@@ -88,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
@@ -111,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
@@ -134,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Writing Code?
@@ -147,13 +120,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
 
@@ -194,14 +160,17 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-excellent-sound-devices-for-video-blogs/"><u>[New] In 2024, Excellent Sound Devices for Video Blogs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-speech-clarity-achieved-by-googles-advanced-conversion/"><u>[New] Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deciphering-the-best-youtube-video-trackers-for-success/"><u>[Updated] In 2024, Deciphering the Best YouTube Video Trackers for Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-and-seo-evolution-reshaping-website-accessibility-for-tomorrows-internet-users/"><u>AI and SEO Evolution: Reshaping Website Accessibility for Tomorrow's Internet Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ceo-exit-at-artific-intelligence-pioneer-openai-is-chatgpts-evolution-in-jeopardy/"><u>CEO Exit at Artific Intelligence Pioneer, OpenAI; Is ChatGPT's Evolution in Jeopardy?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/escalating-risks-an-insight-into-the-growing-threats-in-generative-artificial-intelligence-safety/"><u>Escalating Risks: An Insight Into the Growing Threats in Generative Artificial Intelligence Safety</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oppo-find-x7-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Oppo Find X7 Phone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updated-drivers-for-canon-mp250-download-tutorial-and-step-by-step-update-guide/"><u>Updated Drivers for Canon MP250: Download Tutorial and Step-by-Step Update Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/videotwit2mp4-simple-conversion-for-2024/"><u>VideoTwit2MP4 Simple Conversion for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-reddit-poster-canvas-ratio-for-2024/"><u>[New] Reddit Poster Canvas Ratio for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-building-brand-loyalty-through-emotional-fb-video-storytelling/"><u>[Updated] 2024 Approved Building Brand Loyalty Through Emotional FB Video Storytelling</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-ending-vertical-scrolling-glitches-in-windows-10/"><u>Diagnosing and Ending Vertical Scrolling Glitches in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-the-full-potential-of-ai-dialogues-chrome-gpt-upgrade/"><u>Harness the Full Potential of AI Dialogues – Chrome GPT Upgrade</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-xiaomi-redmi-13c-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi 13C Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-vivo-y55s-5g-2023-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Vivo Y55s 5G (2023) Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-tecno-pova-6-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Tecno Pova 6 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-scheduling-made-simple-utilizing-chatgpt-to-optimize-your-day/"><u>Smart Scheduling Made Simple: Utilizing ChatGPT to Optimize Your Day</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-chatgpt-copilot-plugin-uncovering-its-functions-and-uses-in-detail/"><u>The ChatGPT Copilot Plugin: Uncovering Its Functions & Uses in Detail</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-browser-experience-7-essential-chatgpt-extensions-for-optimized-ai-engagement/"><u>Transform Browser Experience: 7 Essential ChatGPT Extensions for Optimized AI Engagement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uncovering-potential-breaches-in-user-privacy-by-chatgpt/"><u>Uncovering Potential Breaches in User Privacy by ChatGPT</u></a></li>
 </ul></div>
 

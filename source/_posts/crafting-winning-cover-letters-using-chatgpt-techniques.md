@@ -1,7 +1,7 @@
 ---
 title: Crafting Winning Cover Letters Using ChatGPT Techniques
-date: 2024-09-11T19:43:05.627Z
-updated: 2024-09-12T19:43:05.627Z
+date: 2024-09-15T01:35:53.285Z
+updated: 2024-09-17T21:15:03.293Z
 tags:
   - chatgpt
   - open-ai
@@ -19,19 +19,6 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -71,16 +58,10 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
@@ -92,10 +73,10 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -106,13 +87,6 @@ Close
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
  Now, download the Cyber Syndicate cartridge (as an image; it's not really a cartridge file) by hovering over the image and selecting**Download** .
@@ -122,13 +96,6 @@ Close
 Close
 
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
@@ -141,19 +108,6 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -184,18 +138,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ranking-the-leading-audio-modifying-mobile-apps/"><u>[New] 2024 Approved Ranking the Leading Audio-Modifying Mobile Apps</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-ultimate-cheat-sheet-for-using-movie-maker-on-win11/"><u>[New] 2024 Approved The Ultimate Cheat Sheet for Using Movie Maker on Win11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-stabilizing-shots-best-4k-gimbals-reviewed/"><u>[New] Stabilizing Shots Best 4K Gimbals Reviewed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-up-your-game-expert-tips-for-tiktok-editing/"><u>[New] Step Up Your Game Expert Tips for TikTok Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleashing-windows-11s-full-visual-potential-with-automatic-hdr-mode/"><u>[New] Unleashing Windows 11'S Full Visual Potential with Automatic HDR Mode</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-best-15-video-cameras-to-elevate-your-vlogging-game/"><u>[Updated] 2024 Approved Best 15 Video Cameras to Elevate Your Vlogging Game</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-complete-blueprint-for-screen-capture-excellence-with-adobe-captivity/"><u>[Updated] 2024 Approved The Complete Blueprint for Screen Capture Excellence with Adobe Captivity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/balancing-technological-tide-with-creative-tradition/"><u>Balancing Technological Tide with Creative Tradition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-giants-in-ai-conversation-top-10-distinctions-between-chatgpt-and-microsofts-bing-ai/"><u>Comparing Giants in AI Conversation: Top 10 Distinctions Between ChatGPT and Microsoft's Bing AI</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/diagnosing-ink-and-paper-feed-issues-in-hp/"><u>Diagnosing Ink and Paper Feed Issues in HP</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovate-text-with-style-at-openais-custom-ai-gpt-store/"><u>Innovate Text With Style at OpenAI’s Custom AI GPT Store</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/open-secrets-mechanical-keyboards-unveiled/"><u>Open Secrets: Mechanical Keyboards Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/poetic-creation-with-ai-how-to-pen-a-book-using-chatgpt/"><u>Poetic Creation with AI: How to Pen a Book Using ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-securely-sharing-video-on-youtube-with-settings/"><u>[New] In 2024, Securely Sharing Video on YouTube with Settings</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-smart-tips-for-creating-time-lapses-on-samsung-devices/"><u>[New] Smart Tips for Creating Time-Lapses on Samsung Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-cutting-clout-not-content-efficient-video-length-reduction/"><u>[Updated] In 2024, Cutting Clout, Not Content Efficient Video Length Reduction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-chatgpt-enterprise-to-standard-models-insights-on-innovation-and-value-added/"><u>Comparing ChatGPT Enterprise to Standard Models - Insights on Innovation and Value Added</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-9-simple-tricks-with-chatgpt-for-everyday-convenience/"><u>Discover the 9 Simple Tricks with ChatGPT for Everyday Convenience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-wonders-of-gpt-4-universal-access-unveiled/"><u>Discover the Wonders of GPT-4: Universal Access Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-advice-on-tech-gear-navigating-through-toms-hardware-wisdom/"><u>Expert Advice on Tech Gear: Navigating Through Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-flat-to-fantastic-animated-text-transformations/"><u>From Flat to Fantastic Animated Text Transformations</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-deep-dive-into-youtubes-latest-monetization-policy/"><u>In 2024, A Deep Dive Into YouTube's Latest Monetization Policy</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-geforce-x0001-problem-codes-on-w10w11-systems/"><u>Remedying GeForce X0001 Problem Codes on W10/W11 Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/secure-your-smartphone-lifespan-expert-tips-for-fixing-swift-iphone-battery-percentage-changes/"><u>Secure Your Smartphone Lifespan: Expert Tips for Fixing Swift iPhone Battery Percentage Changes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-science-of-deforestation-and-climate-interaction/"><u>The Science of Deforestation and Climate Interaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-challenge-gpt-against-huggingface/"><u>The Ultimate Challenge: GPT Against HuggingFace</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Charting New Territories in AI Dialogue Systems: Post-ChatGPT Developments and Prospects"
-date: 2024-09-11T19:40:51.944Z
-updated: 2024-09-12T19:40:51.944Z
+date: 2024-09-15T19:13:25.598Z
+updated: 2024-09-18T04:02:15.003Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -51,19 +44,6 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -71,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/98f34ca3fe8cce60e4b7bdc2a18ea2c36cd4a116d
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
@@ -94,16 +67,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
@@ -111,10 +78,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115939/19272" target="_top" id="2115939">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115939" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115939/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
@@ -139,16 +106,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -171,18 +138,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-6-devices-for-flawless-film-translation/"><u>[Updated] Ultimate 6 Devices for Flawless Film Translation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-communicators-contrasted-insights-on-gpt-and-bing/"><u>AI Communicators Contrasted: Insights on GPT & Bing</u></a></li>
-<li><a href="https://discover-great.techidaily.com/explore-the-leading-alternatives-to-midjourney-both-free-and-paid-options-ranked/"><u>Explore the Leading Alternatives to Midjourney – Both Free and Paid Options, Ranked!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-recurring-obs-issues-on-windows-11-and-windows-1n-comprehensive-guide/"><u>How to Resolve Recurring OBS Issues on Windows 11 and Windows 1N - Comprehensive Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-corpse-comic-connoisseur/"><u>In 2024, Corpse Comic Connoisseur</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatbot-dialogue-address-and-rectify-six-typical-chatgpt-glitches/"><u>Mastering Chatbot Dialogue: Address and Rectify Six Typical ChatGPT Glitches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/microsofts-acquisition-of-blizzard-insights-on-ai-generated-art-and-multilingual-technology-podcast-review/"><u>Microsoft's Acquisition of Blizzard: Insights on AI-Generated Art & Multilingual Technology - Podcast Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-ai-unlock-the-meanings-behind-29-important-concepts/"><u>Navigating the World of AI: Unlock the Meanings Behind 29 Important Concepts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/no-more-monetary-barriers-the-best-use-of-copilot-for-a-free-gpt-4-turbo/"><u>No More Monetary Barriers: The Best Use of Copilot for a Free GPT-4 Turbo</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ripper-elite-ultra-conversion-instantanea-a-formatos-digitales-en-windows-11-con-velocidad-e-inteligencia-superiores/"><u>Ripper Elite Ultra: Conversión Instantánea a Formatos Digitales en Windows 11 Con Velocidad E Inteligencia Superiores</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/the-final-act-of-severing-tiktok-ties-temporarily/"><u>The Final Act of Severing TikTok Ties Temporarily</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-ultimate-list-best-screencasting-apps-free/"><u>The Ultimate List Best Screencasting Apps (Free)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-firefox-recording-tools-and-extensions-for-2024/"><u>[New] Firefox Recording Tools & Extensions for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-avoiding-common-nocturnal-photography-errors/"><u>[Updated] In 2024, Avoiding Common Nocturnal Photography Errors</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-itel-a70-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-realme-v30-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Realme V30 Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-social-engagement-with-ai-the-chatgpt-guide-to-crafting-compelling-posts/"><u>Boost Your Social Engagement with AI: The ChatGPT Guide to Crafting Compelling Posts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-down-grok-ai-insights-intentions-and-investment-from-elon/"><u>Breaking Down Grok AI: Insights, Intentions & Investment From Elon</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bringing-gpt-into-your-terminal-how-to-run-chatgpt-on-ubuntu-using-shellscripts/"><u>Bringing GPT Into Your Terminal: How to Run ChatGPT on Ubuntu Using ShellScripts</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/comprehensive-guide-for-free-video-translator-downloading-for-2024/"><u>Comprehensive Guide for Free Video Translator Downloading for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-review-of-the-samsung-galaxy-tab-s7plus-the-ultimate-high-end-android-device/"><u>Comprehensive Review of the Samsung Galaxy Tab S7+: The Ultimate High-End Android Device</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-logitech-c920-software-for-windows-11-free-download-and-installation-steps/"><u>Get the Latest Logitech C920 Software for Windows 11 - Free Download & Installation Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-implement-codegpt-features-efficiently-in-your-vscode-workspace/"><u>How to Implement CodeGPT Features Efficiently in Your VSCode Workspace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/implementing-chatgpt-into-your-workflows-for-enhanced-productivity/"><u>Implementing ChatGPT Into Your Workflows for Enhanced Productivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-best-practices-to-ensure-educational-integrity-as-a-student/"><u>Mastering ChatGPT: Best Practices to Ensure Educational Integrity as a Student</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-prose-from-pseudo-penned-pages-by-algorithms/"><u>Protecting Prose From Pseudo-Penned Pages by Algorithms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-process-of-removing-old-gpt-chats/"><u>Unveiling the Process of Removing Old GPT Chats</u></a></li>
 </ul></div>
 

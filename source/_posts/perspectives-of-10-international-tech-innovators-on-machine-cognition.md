@@ -1,7 +1,7 @@
 ---
 title: Perspectives of 10 International Tech Innovators on Machine Cognition
-date: 2024-09-11T19:41:04.260Z
-updated: 2024-09-12T19:41:04.260Z
+date: 2024-09-12T19:19:33.571Z
+updated: 2024-09-18T02:10:39.527Z
 tags:
   - chatgpt
   - open-ai
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
  In this week's podcast, we look at what Twitter's canceling of classic verification means, and explore how the Linus Tech Tips YouTube channel was hacked. Plus, we explain what Trojan malware is, and the biggest problems with OpenAI and ChatCPT.
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -61,15 +54,23 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-seamless-integration-of-obs-studio-with-android-tech/"><u>[New] Seamless Integration of OBS Studio with Android Tech</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlock-facebook-ad-success-with-these-3-adapted-writing-techniques/"><u>[Updated] In 2024, Unlock Facebook Ad Success with These 3 Adapted Writing Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/20-words-and-phrases-that-work-magic-in-your-marketing-for-2024/"><u>20 Words and Phrases That Work Magic in Your Marketing for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/avoid-buying-extra-tools-learn-to-open-your-iphones-sim-by-yourself/"><u>Avoid Buying Extra Tools - Learn to Open Your iPhone's SIM by Yourself</u></a></li>
-<li><a href="https://app-tips.techidaily.com/cant-access-the-itunes-store-try-these-7-techniques-for-a-quick-fix/"><u>Can't Access the iTunes Store? Try These 7 Techniques for a Quick Fix!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dialogue-dissection-gpt-vs-bingbots-10-key-dichotomies/"><u>Dialogue Dissection: GPT Vs. BingBot's 10 Key Dichotomies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-artificial-steps-ai-accelerating-cybercrime/"><u>Five Artificial Steps: AI Accelerating Cybercrime</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/github-copilot-versus-chatgpt-which-one-wins-for-coding-excellence/"><u>GitHub Copilot Versus ChatGPT - Which One Wins for Coding Excellence?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-gpt-my-bot-a-guide-for-learning-games-and-art/"><u>Mastering GPT-My Bot: A Guide for Learning Games & Art</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/secure-workflow-with-ai-best-practices-for-using-chatgpt-without-compromising-privacy/"><u>Secure Workflow with AI: Best Practices for Using ChatGPT without Compromising Privacy</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-curls-and-contours-creating-a-personalized-beauty-channel/"><u>[New] Crafting Curls and Contours Creating a Personalized Beauty Channel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-next-gen-samsung-gear-360-finding-your-perfect-replacement/"><u>2024 Approved The Next Gen Samsung Gear 360 - Finding Your Perfect Replacement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-your-own-fantasy-world-with-the-power-of-chatgpt-an-ultimate-how-to-guide/"><u>Building Your Own Fantasy World with the Power of ChatGPT: An Ultimate How-To Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deploying-ai-agents-with-agentgpt-a-comprehensive-guide-from-your-web-browser/"><u>Deploying AI Agents with AgentGPT: A Comprehensive Guide From Your Web Browser</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excel-mastery-boosted-by-these-chatgpt-methods/"><u>Excel Mastery Boosted by These ChatGPT Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-ais-landscape-boons-banes-and-balances/"><u>Exploring AI's Landscape: Boons, Banes, and Balances</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-your-internet-to-blame-or-is-nintendos-service-actually-down/"><u>Is Your Internet to Blame, or Is Nintendo's Service Actually Down?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-tension-gpts-assistance-guide/"><u>Overcoming Tension: GPT’s Assistance Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reliable-fixes-for-optimizing-apple-pencil-sync-and-connections/"><u>Reliable Fixes for Optimizing Apple Pencil Sync and Connections</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-samsung-galaxy-a23-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Samsung Galaxy A23 5G to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

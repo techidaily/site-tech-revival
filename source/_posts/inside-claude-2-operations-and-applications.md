@@ -1,7 +1,7 @@
 ---
 title: "Inside Claude 2: Operations and Applications"
-date: 2024-09-11T19:46:10.184Z
-updated: 2024-09-12T19:46:10.184Z
+date: 2024-09-17T08:12:01.088Z
+updated: 2024-09-17T18:56:37.985Z
 tags:
   - chatgpt
   - open-ai
@@ -32,42 +32,15 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Screenshot of ShareGPT Share Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-sharegpt-share-screen.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Clicking this button opens up a new tab with a custom URL containing a complete export chat record. This can then be shared with whoever you need.
 
 ![Screenshot of ShareGPT URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-sharegpt-url.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Overall, we found this to be simple but effective. If you want a no-frills and easy-to-use way of sharing your ChatGPT conversations, this ticks all the boxes.
 
  Although this is a Google Chrome extension, it also installs on Microsoft Edge. The installation was quick and simple. We installed it on both Edge and Chrome without any problems.
 
 **Download** :[ShareGPT](https://chrome.google.com/webstore/detail/sharegpt-share-your-chatg/daiacboceoaocpibfodeljbdfacokfjb) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Export ChatGPT Conversation
 
@@ -79,51 +52,17 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Screenshot of ChatGPT conversation for Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-for-notion.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the chat is ready to export, you can access Export ChatGPT from the extensions drop-down from your browser (usually located to the right of the address bar). This brings up the dialog box shown below.
 
 ![Screenshot of Export ChatGPT dialog box](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-export-chatgpt-dialog-box.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You will need to link your Notion account to the app, but this was easy. We found that the process was automatic if you had your Notion account open on the same browser.
 
 ![Screenshot of ChatGPT conversation imported into Notion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-chatgpt-conversation-imported-into-notion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Overall, if you are a Notion user, this delivers on all its promises. If you aren't a Notion user, there are probably better options. However, again it was simple to install on Microsoft Edge and Google Chrome.
 
 **Download** :[Export ChatGPT Conversation](https://chrome.google.com/webstore/detail/export-chatgpt-conversati/clgidpflecgaaabfcmdmkcgebpbadgoc) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. ChatGPT Export and Share
 
@@ -139,13 +78,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 4. Enable developer mode by switching the appropriate toggle switch. The picture below shows this in Microsoft Edge; Chrome users will find it at the top right of the page.  
 ![Screenshot of Edge Extensions Page ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-edge-extensions-page.jpg)
 5. Install the extension by clicking the**Load unpacked** button and selecting the folder where you extracted the files. ChatGPT Export and Share should now be activated.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Installing ChatGPT Export and Share on Firefox
 
@@ -164,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
  Apart from that, this simple tool allows you to export your ChatGPT conversations as a PDF, weblink, or PNG file. Simple to use, with no bells and whistles, but there are easier-to-install tools that do the same function.
 
 **Download** :[ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf/releases/tag/1.3.4) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. ChatGPT Prompt Genius
 
@@ -186,9 +125,29 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 ![Screenshot of Prompt Genius URL for sharing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-prompt-genius-url-for-sharing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Overall, this tool was easy to install and worked exactly as intended. If you want to easily share your work and[improve your prompting techniques](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) at the same time, ChatGPT Prompt Genius might be the tool for you.
 
 **Download** :[ChatGPT Prompt Genius](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo/related) (Free)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Simplifying Sharing Your ChatGPT Conversations
 
@@ -211,18 +170,17 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-financial-race-between-dailymovement-and-youtube-channels/"><u>[New] The Financial Race Between DailyMovement and YouTube Channels</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-the-tapestry-of-tech-loom-recording-explained/"><u>[New] The Tapestry of Tech Loom Recording Explained</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-professional-picture-editing-hacks-how-to-add-text-with-precision/"><u>[Updated] In 2024, Professional Picture Editing Hacks How to Add Text with Precision</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-charting-the-course-of-youtube-success-through-social-blade-analysis/"><u>2024 Approved Charting the Course of YouTube Success Through Social Blade Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-standard-tokens-expanding-chatgpt-capabilities/"><u>Beyond Standard Tokens: Expanding ChatGPT Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-artificebotics-how-strong-and-weak-ai-stand-apart/"><u>Decoding Artificebotics: How Strong and Weak AI Stand Apart</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/excel-and-chatgpt-taming-spreadsheets-with-ai/"><u>Excel & ChatGPT: Taming Spreadsheets with AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-the-power-of-free-ai-top-sora-competitors-you-shouldnt-ignore/"><u>Experience the Power of Free AI: Top Sora Competitors You Shouldn't Ignore</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-on-forcing-your-windows-10-pc-to-properly-power-down-and-restart/"><u>Expert Tips on Forcing Your Windows 10 PC to Properly Power Down and Restart</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-benefits-and-drawbacks-of-chatgpt-plus-a-comprehensive-review/"><u>Exploring the Benefits and Drawbacks of ChatGPT Plus: A Comprehensive Review</u></a></li>
-<li><a href="https://fox-access.techidaily.com/from-dull-to-dynamic-an-in-depth-guide-to-hue-mastery/"><u>From Dull to Dynamic An In-Depth Guide to Hue Mastery</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-openai-losing-its-grip-on-managing-chatgpt-effectively/"><u>Is OpenAI Losing Its Grip on Managing ChatGPT Effectively?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-stand-out-with-style-ios-and-androids-best-apps-for-adding-stickers/"><u>[Updated] Stand Out with Style IOS and Android's Best Apps for Adding Stickers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-virtual-worlds-for-corporate-growth-and-innovation/"><u>[Updated] Virtual Worlds for Corporate Growth and Innovation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-simply-spearheading-your-start-in-every-device-you-use/"><u>2024 Approved Simply Spearheading Your Start, in Every Device You Use</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/active-screen-capture-pro-does-it-reign-supreme-for-2024/"><u>Active Screen Capture Pro Does It Reign Supreme for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/augmented-reality-excellence-mastering-the-use-of-spark-ar-luts-for-2024/"><u>Augmented Reality Excellence Mastering the Use of Spark AR LUTs for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-the-new-geforce-rtx-3090-windows-driver-enhance-your-gaming-experience/"><u>Download the New GeForce RTX 3090 Windows Driver: Enhance Your Gaming Experience!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-convert-your-dvds-into-high-definition-wmv-files-with-this-easy-windows-method/"><u>Efficiently Convert Your DVDs Into High-Definition WMV Files with This Easy Windows Method</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-transforming-flv-files-into-mp4-with-vlc/"><u>Effortless Conversion: Transforming FLV Files Into MP4 with VLC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-ears-the-ultimate-guide-to-recording-sounds-with-windows-n-11/"><u>Effortless Ears: The Ultimate Guide to Recording Sounds with Windows N 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-how-to-divide-an-mkv-file-into-chapters-with-ease/"><u>Effortless Guide: How to Divide an MKV File Into Chapters with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-techniques-for-speedy-mov-to-mkv-video-file-conversion/"><u>Effortless Techniques for Speedy MOV to MKV Video File Conversion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/srt-fundamentals-explored-in-detail-and-clarity/"><u>SRT Fundamentals Explored in Detail and Clarity</u></a></li>
 </ul></div>
 

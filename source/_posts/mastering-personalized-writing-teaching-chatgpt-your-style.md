@@ -1,7 +1,7 @@
 ---
 title: "Mastering Personalized Writing: Teaching ChatGPT Your Style"
-date: 2024-09-11T19:43:32.451Z
-updated: 2024-09-12T19:43:32.451Z
+date: 2024-09-14T05:16:11.173Z
+updated: 2024-09-17T16:35:03.554Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 * [What Is ChatGPT's GPT Mentions Feature?](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#what-is-chatgpt-39-s-gpt-mentions-feature)
 * [How to Use the GPT Mentions Feature](https://www.makeuseof.com/how-to-use-gpt-mentions-in-chatgpt-conversation/#how-to-use-the-gpt-mentions-feature)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -56,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/df387578e472d57cf1ae89d5517c348af827dd00d
 
 So, how can you use this?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use the GPT Mentions Feature
 
  If you're using a few custom GPTs in separate conversations, you'll now see the pop-up below displayed above your chat text box.
@@ -70,16 +56,10 @@ So, how can you use this?
 ![screenshot of GPT mentions feature window on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mention-1.png)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It's super easy to use GPT Mentions, so let's delve into an example of when it would be helpful.
@@ -88,22 +68,15 @@ So, how can you use this?
 
 ![screenshot of chatgpt beta mentions feature being used in desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-mentions-chat.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now, you're chatting with Canva until you click "X" on the**Talking to Canva** tab that will appear above the chat text box.
 
 ![screenshot of active canva chat using beta gpt mentions feature on desktop browser](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-canva-talking.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can talk to the Canva GPT while mentioning the above conversation you've already had with Consensus. Simply ask Canva to create a graphic introducing the research Consensus provided, and the GPT will get to work providing you with something useful.
@@ -125,16 +98,10 @@ So, how can you use this?
 ![screenshot of alltrails gpt being used in chatgpt on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-alltrails-result.png)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now, we have hotels, flights, and trails for our trip all in one chat!
@@ -156,15 +123,15 @@ Now, we have hotels, flights, and trails for our trip all in one chat!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-click-reward-spectrum-for-2024/"><u>[Updated] The Ultimate Click Reward Spectrum for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-oversight-4-tech-savvy-checkpoints-for-professionals/"><u>ChatGPT Oversight: 4 Tech-Savvy Checkpoints for Professionals</u></a></li>
-<li><a href="https://some-skills.techidaily.com/enhanced-security-protonpass-introduces-shared-login-feature/"><u>Enhanced Security: ProtonPass Introduces Shared Login Feature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-ai-assistance-for-wellness-8-must-have-chatgpt-extensions/"><u>Harness AI Assistance for Wellness: 8 Must-Have ChatGPT Extensions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hassle-free-installation-instructions-for-chatgpt-on-linux/"><u>Hassle-Free Installation Instructions for ChatGPT on Linux</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-honor-magic-v2-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor Magic V2 Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-zte-axon-40-lite-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uncovering-9-critical-risks-when-using-ai-as-a-surrogate-for-professional-mental-health-guidance/"><u>Uncovering 9 Critical Risks When Using AI as a Surrogate for Professional Mental Health Guidance</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-top-hardware-secrets-the-toms-hardware-way/"><u>Unveiling Top Hardware Secrets - The Tom's Hardware Way</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-steps-for-clear-ipad-recording/"><u>[Updated] Essential Steps for Clear iPad Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-unveiling-the-secrets-to-flawless-lenovo-screen-recordings/"><u>2024 Approved Unveiling the Secrets to Flawless Lenovo Screen Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-the-conceptual-equivalence-between-the-internet-and-an-inclusive-non-commercialized-library-system/"><u>Dissecting the Conceptual Equivalence Between the Internet and an Inclusive, Non-Commercialized Library System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-chatgpt-to-develop-a-regular-meditation-habit/"><u>How to Use ChatGPT to Develop a Regular Meditation Habit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-the-benefits-turning-on-auto-hdr-in-windows-11/"><u>In 2024, Explore the Benefits Turning On Auto HDR in Windows 11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-system-sounds-for-ws11-guide-to-audio-driver-update/"><u>Optimize System Sounds for WS11: Guide to Audio Driver Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-email-game-5-no-cost-ai-solutions-featuring-chatgpt-for-elite-communication-and-quick-summaries/"><u>Revolutionize Your Email Game: 5 No-Cost AI Solutions Featuring ChatGPT for Elite Communication and Quick Summaries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-chatgpt-to-navigate-tricky-business-correspondence-a-guide-to-professional-email-mastery/"><u>Utilizing ChatGPT to Navigate Tricky Business Correspondence: A Guide to Professional Email Mastery</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oppo-find-x7-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Oppo Find X7? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

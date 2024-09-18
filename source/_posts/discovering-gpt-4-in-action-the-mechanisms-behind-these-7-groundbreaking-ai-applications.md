@@ -1,7 +1,7 @@
 ---
 title: "Discovering GPT-4 in Action: The Mechanisms Behind These 7 Groundbreaking AI Applications"
-date: 2024-09-11T19:47:27.932Z
-updated: 2024-09-12T19:47:27.932Z
+date: 2024-09-17T11:32:51.030Z
+updated: 2024-09-17T16:39:12.572Z
 tags:
   - chatgpt
   - open-ai
@@ -20,19 +20,6 @@ thumbnail: https://thmb.techidaily.com/67c52f8f8d1e1c526acfd18d30076a8ec8c694652
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * ChatGPT sign-ups are currently closed due to a surge in usage after OpenAI's recent Dev Day event, causing strain on their servers.
@@ -43,19 +30,6 @@ Want to sign up to ChatGPT? Well, you're too late.
 
  OpenAI CEO Sam Altman has officially revealed that sign-ups for the leading generative AI tool are closed—at least, they are for now. However, with no specific time frame set for when ChatGPT sign-ups will resume, it's anyone's guess as to how long potential new users will have to wait.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Are ChatGPT Sign-Ups Closed?
 
  ChatGPT has experienced an enormous surge in usage since OpenAI's ChatGPT Dev Day on November 6, 2023.
@@ -63,13 +37,6 @@ Want to sign up to ChatGPT? Well, you're too late.
  OpenAI used its Dev Day to reveal the latest round of updates to ChatGPT,[including GPT-4 Turbo](https://www.makeuseof.com/chatgpts-latest-update-explained/) , an upgraded LLM, and its[new custom GPTs option](https://www.makeuseof.com/how-use-create-a-gpt-to-create-a-customized-version-of-chatgpt/) . Both have proved instant hits with existing users, and with social media feeds chocked full of exciting ChatGPT content, more people than ever want a piece of the AI pie.
 
  The sudden uptick in users exploring the new tools and people jumping to use ChatGPT placed considerable strain on OpenAI's servers—leading the company to close its subscriptions until the situation is under control.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Will ChatGPT Subscriptions Open Again?
 
@@ -82,16 +49,10 @@ Want to sign up to ChatGPT? Well, you're too late.
  If you want to be first in the queue when ChatGPT subscriptions resume, head to the[ChatGPT Sign-Up page](https://chat.openai.com/auth/login?ref=upstract.com) , enter your details and await an email.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is a Victim of Its Own Success
@@ -115,16 +76,16 @@ Still, it certainly won't be long until it changes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-essential-hashtag-analyzers-facebook-twitter-and-instagram-edition/"><u>[Updated] In 2024, Essential Hashtag Analyzers Facebook, Twitter & Instagram Edition</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-best-sites-to-download-free-slideshow-templates/"><u>10 Best Sites to Download Free Slideshow Templates</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/all-you-need-to-know-about-mega-greninja-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chronicle-of-innovation-the-dawn-of-artificial-intelligence-an-historical-overview/"><u>Chronicle of Innovation: The Dawn of Artificial Intelligence – An Historical Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-restrictions-7-reasons-behind-the-ineffectiveness-of-current-chatgpt-jailbreaking-tactics/"><u>Exploring Restrictions: 7 Reasons Behind the Ineffectiveness of Current ChatGPT Jailbreaking Tactics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-pro-streamers-choice-the-top-5-gaming-webcams-to-own/"><u>In 2024, Pro Streamer's Choice The Top 5 Gaming Webcams to Own</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/merge-skype-and-zoom-easy-techniques-for-effective-communication-for-2024/"><u>Merge Skype and Zoom Easy Techniques for Effective Communication for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-seamless-transition-from-browser-to-agent-gpt/"><u>The Seamless Transition: From Browser to Agent GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/triad-tactics-for-chatgpts-coexistence-with-wolframalpha/"><u>Triad Tactics for ChatGPT's Coexistence with WolframAlpha</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whos-listening-unraveling-the-mysteries-behind-the-dead-internet-phenomenon/"><u>Who's Listening? Unraveling the Mysteries Behind the 'Dead Internet' Phenomenon</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-11-best-color-correction-and-color-grading-tutorial/"><u>[New] 2024 Approved 11 Best Color Correction and Color Grading Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaining-ground-on-the-groundswell-of-online-viewers/"><u>[Updated] 2024 Approved Gaining Ground on the Groundswell of Online Viewers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-edit-your-video-with-youtube-studio-editor-for-2024/"><u>[Updated] How to Edit Your Video with YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-switching-audiosubtitles-in-mkv-files-without-remux/"><u>Effortless Guide: Switching Audio/Subtitles in MKV Files Without Remux</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevating-your-professional-image-with-high-quality-ppt-recordings/"><u>Elevating Your Professional Image with High-Quality PPT Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-funniest-sites-akin-to-cartooncrazy-your-comprehensive-list/"><u>Exploring the Funniest Sites Akin to CartoonCrazy - Your Comprehensive List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gif9gif/"><u>GIF分析ツールトップ9品評！効果的にGIFを分解するテクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-seamlessly-installing-kodi-version-189-onto-your-fire-tv-stick-in-depth-instructions-for-a-smooth-experience/"><u>Guide to Seamlessly Installing Kodi Version 18.9 Onto Your Fire TV Stick – In-Depth Instructions for a Smooth Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-must-have-gear-for-road-trip-documentaries/"><u>In 2024, Must-Have Gear for Road Trip Documentaries</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-financial-race-between-dailymovement-and-youtube-channels/"><u>In 2024, The Financial Race Between DailyMovement and YouTube Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-speed-the-complete-handbook-on-srt-to-txt-transformation/"><u>In 2024, Unlock Speed The Complete Handbook on SRT to TXT Transformation</u></a></li>
 </ul></div>
 

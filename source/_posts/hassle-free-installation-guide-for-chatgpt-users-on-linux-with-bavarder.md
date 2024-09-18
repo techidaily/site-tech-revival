@@ -1,7 +1,7 @@
 ---
 title: Hassle-Free Installation Guide for ChatGPT Users on Linux with Bavarder
-date: 2024-09-11T19:47:08.963Z
-updated: 2024-09-12T19:47:08.963Z
+date: 2024-09-16T00:08:48.726Z
+updated: 2024-09-18T06:27:01.252Z
 tags:
   - chatgpt
   - open-ai
@@ -25,19 +25,6 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
 * [How to Hide ChatGPT Chats on Your iPhone](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-your-iphone)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI's ChatGPT allows users to hide their chats easily from the sidebar.
@@ -58,18 +45,18 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
 
 ![Accessing ChatGPT settings on the web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/accessing-chatgpt-settings-on-the-web.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Click on your OpenAI account name in the bottom-left corner of the ChatGPT page.
 2. Select**Settings** from the context menu.
@@ -79,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Hide ChatGPT Chats on Your iPhone
 
@@ -91,27 +85,7 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
@@ -131,40 +105,21 @@ Close
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -190,13 +145,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-understanding-the-mechanism-for-personalizing-social-media-visuals/"><u>[New] Understanding the Mechanism for Personalizing Social Media Visuals</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-transform-your-digital-works-into-blockchain-treasures-with-these-tools/"><u>[Updated] 2024 Approved Transform Your Digital Works Into Blockchain Treasures with These Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-get-the-most-of-gpts-browser-betas/"><u>How to Get the Most of GPT's Browser Betas</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-8-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 8?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-distance-communication-effective-use-of-chatgpt-in-virtual-meetups/"><u>Revolutionizing Distance Communication: Effective Use of ChatGPT in Virtual Meetups</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/strategies-for-sustaining-viewer-interest-in-online-events/"><u>Strategies for Sustaining Viewer Interest in Online Events</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unsighted-cddvd-in-win11-solution-found/"><u>Unsighted CD/DVD in Win11, Solution Found</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-claude-3-deserves-your-attention-4-superior-features-beating-out-chatgpt/"><u>Why Claude 3 Deserves Your Attention: 4 Superior Features Beating Out ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-invisible-force-behind-non-existent-fb-videos/"><u>[New] In 2024, The Invisible Force Behind Non-Existent FB Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-nine-quick-fixes-for-facebook-live-problems/"><u>[New] Nine Quick Fixes for Facebook Live Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028559356-dvdmp4/"><u>「高解像度で美しいビジュアル保存 - DVDからMP4への完璧なコンバートガイド」</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertly-designed-batteries-for-gopro-hero5-black/"><u>2024 Approved Expertly Designed Batteries for GoPro Hero5 Black</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-essential-guide-fast-tracking-subtitle-creation-for-your-fb-posts/"><u>2024 Approved The Essential Guide Fast-Tracking Subtitle Creation for Your FB Posts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/groundbreision-of-top-8-free-video-call-software-for-companies/"><u>Groundbreision of Top 8 Free Video Call Software for Companies</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027852331-mts/"><u>MTS形式トラブルシューティング: スムーズな再生のヒントと対策</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-bring-your-videos-to-life-top-rated-1080p-video-editors/"><u>New 2024 Approved Bring Your Videos to Life Top-Rated 1080P Video Editors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-oneplus-nord-n30-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-how-to-perfectly-capture-voice-commands-across-pcs-laptops-tablets-and-smartphones/"><u>Ultimate Guide: How to Perfectly Capture Voice Commands Across PCs, Laptops, Tablets, & Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-transforming-your-dvds-vob-content-into-wmv-with-windows-tools/"><u>Ultimate Tutorial: Transforming Your DVD's VOB Content Into WMV with Windows Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-aac-and-mp3-sound-quality-analysis-and-how-to-convert-mp3-to-aac/"><u>Understanding AAC and MP3 - Sound Quality Analysis & How to Convert MP3 to AAC</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/vivavideo-app-analysis-in-depth-insights/"><u>VivaVideo App Analysis In-Depth Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/watching-youku-video-content-abroad-compatible-with-firefox-chrome-android-and-ios-devices/"><u>Watching Youku Video Content Abroad - Compatible with FireFox, Chrome, Android & iOS Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028905237-wavpcm/"><u>WAVファイルエラー解決:リニアPCM非対応時におすすめの手順</u></a></li>
 </ul></div>
 

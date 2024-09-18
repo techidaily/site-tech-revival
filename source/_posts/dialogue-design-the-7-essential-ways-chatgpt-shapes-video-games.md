@@ -1,7 +1,7 @@
 ---
 title: "Dialogue Design: The 7 Essential Ways ChatGPT Shapes Video Games"
-date: 2024-09-11T19:43:39.815Z
-updated: 2024-09-12T19:43:39.815Z
+date: 2024-09-11T20:01:59.978Z
+updated: 2024-09-18T05:59:27.988Z
 tags:
   - chatgpt
   - open-ai
@@ -20,24 +20,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Hide ChatGPT Chats on the Web](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-the-web)
 * [How to Hide ChatGPT Chats on Your iPhone](https://www.makeuseof.com/how-to-hide-chatgpt-conversations/#how-to-hide-chatgpt-chats-on-your-iphone)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 * Hidden chats can be accessed through ChatGPT's settings menu. Anyone can view them as they're not locked behind a password.
 
  Some of your conversations with ChatGPT may be more private than others. Fortunately, OpenAI makes it easy to archive your chats and hide conversations from plain sight. Whether you use ChatGPT on the web or your smartphone, it's simple to hide those AI chats.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Hide ChatGPT Chats on the Web
 
@@ -65,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to View Your Hidden ChatGPT Chats on the Web
 
@@ -86,14 +58,14 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Hide ChatGPT Chats on Your iPhone
 
@@ -106,27 +78,20 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
 ![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to View Your Hidden Chats in the ChatGPT App
 
@@ -139,7 +104,21 @@ Close
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
 
@@ -166,16 +145,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/approved-step-by-step-crafting-professional-valorant-thumbnails-for-youtube/"><u>2024 Approved Step-by-Step Crafting Professional Valorant Thumbnails for Youtube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-magic-of-unique-ai-design-microsofts-copilot-insights/"><u>Discover the Magic of Unique AI Design: Microsoft's Copilot Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-a-broken-tablet-display-8-tips-for-reviving-the-touchscreen/"><u>Fix a Broken Tablet Display: 8 Tips for Reviving the Touchscreen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-the-chatgpt-mobile-app-surpasses-the-web-version-6-key-reasons-why/"><u>How the ChatGPT Mobile App Surpasses the Web Version: 6 Key Reasons Why!</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to Android? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/jujutsu-kaisen-making-waves-tiktok-edition/"><u>Jujutsu Kaisen Making Waves TikTok Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-ethical-use-of-chatgpt-in-mental-coaching-safety-tips-and-strategies-for-professionals/"><u>Navigating the Ethical Use of ChatGPT in Mental Coaching: Safety Tips and Strategies for Professionals</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/les-profits-and-partnerships-joining-a-youtube-mcn-for-2024/"><u>Profiles, Profits & Partnerships Joining a YouTube MCN for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/regaining-exclusive-snap-privacy-for-2024/"><u>Regaining Exclusive Snap Privacy for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stay-alert-understanding-the-recent-twitter-fraud-craze-metas-trustworthy-badge-launch-and-chatgpt-4-demystified/"><u>Stay Alert! Understanding the Recent Twitter Fraud Craze, Meta's Trustworthy Badge Launch, and ChatGPT-4 Demystified</u></a></li>
-<li><a href="https://win11.techidaily.com/unleashing-the-power-of-java-sdk-on-windows-11/"><u>Unleashing the Power of Java SDK on Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-engaging-audiences-writing-compelling-titles-and-descriptions-for-youtube-for-2024/"><u>[New] Engaging Audiences Writing Compelling Titles and Descriptions for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-boosting-watch-time-and-reducing-churn-on-youtube-the-ultimate-list-of-methods/"><u>[New] In 2024, Boosting Watch Time and Reducing Churn on YouTube The Ultimate List of Methods</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-an-impactful-waterway-teaser/"><u>[Updated] In 2024, Crafting an Impactful Waterway Teaser</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-exploring-the-metaverse-meme-landscape/"><u>[Updated] In 2024, Exploring the Metaverse Meme Landscape</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoid-these-pitfalls-smart-strategies-for-choosing-alternatives-to-chatgpt-in-the-mac-ecosystem/"><u>Avoid These Pitfalls: Smart Strategies for Choosing Alternatives to ChatGPT in the Mac Ecosystem</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/detailed-breakdown-navigating-with-google-maps-on-the-ios-platform/"><u>Detailed Breakdown: Navigating with Google Maps on the iOS Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-for-overcoming-chatgpt-authentication-errors/"><u>Expert Tips for Overcoming ChatGPT Authentication Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4-no-cost-full-power-six-key-advantages-that-make-chatgpt-plus-a-worthy-investment/"><u>GPT-4: No Cost, Full Power? Six Key Advantages That Make ChatGPT Plus a Worthy Investment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-downloading-and-updating-the-latest-toshiba-satellite-driver-for-windows-users/"><u>Guide: Downloading & Updating the Latest Toshiba Satellite Driver for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hades-pc-game-stability-issues-resolved-smooth-gaming-experience-guaranteed/"><u>Hades PC Game Stability Issues Resolved: Smooth Gaming Experience Guaranteed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-proven-methods-for-minimizing-ai-misinterpretations-with-targeted-prompts/"><u>Six Proven Methods for Minimizing AI Misinterpretations with Targeted Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-sign-up-on-chatgpt-telegram-whatsapp-without-needing-a-mobile-number/"><u>Step-by-Step Guide: Sign Up on ChatGPT, Telegram, WhatsApp without Needing a Mobile Number</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/troubleshooting-instagram-video-glitches-proven-techniques-and-advice/"><u>Troubleshooting Instagram Video Glitches: Proven Techniques and Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-are-ai-powered-conversational-agents-becoming-more-popular/"><u>Why Are AI-Powered Conversational Agents Becoming More Popular?</u></a></li>
 </ul></div>
 

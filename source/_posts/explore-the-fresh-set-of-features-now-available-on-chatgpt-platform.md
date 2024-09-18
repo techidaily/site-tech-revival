@@ -1,7 +1,7 @@
 ---
 title: Explore the Fresh Set of Features Now Available on ChatGPT Platform
-date: 2024-09-11T19:43:51.779Z
-updated: 2024-09-12T19:43:51.779Z
+date: 2024-09-12T07:02:39.851Z
+updated: 2024-09-18T04:52:46.593Z
 tags:
   - chatgpt
   - open-ai
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude AI: Common-Sense and Logical Reasoning
 
  There's an intriguing contrast when working with AI chatbots. On one hand, they can whiz through complex tasks that humans may labor over for days to solve. On the other hand, they sometimes grapple with elementary problems that require just a bit of common-sense or logical reasoning. So, we tested both ChatGPT and Claude AI to see which AI chatbot was better at common sense and logical reasoning tasks.
@@ -51,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 ![ChatGPT Answers Trick Question-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-answers-trick-question-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT was able to immediately spot the trick--you can't bury survivors because they aren't dead. Claude AI, on the other hand, seemed to understand that it was a trick question but failed to spot the most common-sense issue that you don't bury survivors.
 
  Instead, it over-analyzed the question and came to the conclusion that there would be "no survivors to bury" because crashing from Mars to Earth would be fatal. It is not the answer we expected, but if you look at things from a different angle, there is some truth to it.
@@ -67,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
  On this task, we give it to ChatGPT, but we can't totally rule out Claude AI's approach. For our final task on this metric, we asked both chatbots how many apples would be left on an apple tree after five and 10 days respectively if we started with 10 apples and five of them got sliced while still on the tree. ChatGPT said there'd still be 10 apples left.
 
 ![ChatGPT birds commonsense logic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-birds-commonsense-logic.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Claude AI, on the other hand, gave a more common-sense response by recognizing that the five sliced apples are likely to rot.
 
@@ -89,23 +62,9 @@ thumbnail: https://thmb.techidaily.com/c44e4e5c600145f0a206a8e58618f5b19fc163e0b
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
@@ -114,13 +73,6 @@ ChatGPT also cracked the problem as well.
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
@@ -138,22 +90,15 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
@@ -173,16 +118,10 @@ ChatGPT also cracked the problem as well.
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -210,16 +149,20 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevating-your-shopping-vlogs-advanced-editing-techniques/"><u>[Updated] 2024 Approved Elevating Your Shopping Vlogs Advanced Editing Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-cushy-comfort-best-idle-pc-games-for-2024/"><u>[Updated] Cushy Comfort Best Idle PC Games for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-viditech-review/"><u>2024 Approved Ultimate VidiTech Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-perfection-a-deep-dive-into-apeaksofts-technology/"><u>Capturing Perfection A Deep Dive Into Apeaksoft's Technology</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-nvidia-graphics-drivers-compatible-with-windows-11-7-and-8/"><u>Download NVIDIA Graphics Drivers: Compatible with Windows 11, 7 & 8</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-asus-rog-phone-7-ultimate-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Asus ROG Phone 7 Ultimate to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/innovative-hubs-of-affordable-visual-content-sources-for-2024/"><u>Innovative Hubs of Affordable Visual Content Sources for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/new-features-and-enhancements-in-the-latest-version-of-copernic-desktop-search/"><u>New Features & Enhancements in the Latest Version of Copernic Desktop Search</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reinstating-disappeared-chatgpt-interactions/"><u>Reinstating Disappeared ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-harnessing-your-gpt-bot-for-board-game-mastery-and-creative-image-generation/"><u>Step-by-Step Guide to Harnessing Your GPT Bot for Board Game Mastery and Creative Image Generation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-effective-strategies-harnessing-the-power-of-auto-gpt/"><u>Top 8 Effective Strategies: Harnessing the Power of Auto-GPT</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-seamlessly-reorganize-video-playlists-on-yt/"><u>[New] 2024 Approved How to Seamlessly Reorganize Video Playlists on YT</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-utilizing-zero-cost-clocks/"><u>2024 Approved The Ultimate Guide to Utilizing Zero-Cost Clocks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/6-best-nft-makers-for-artists-to-unleash-imagination/"><u>6 Best NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-magic-6-lite-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor Magic 6 Lite FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adapt-innovate-and-conquer-mastering-professional-growth-in-an-artificially-intelligent-world-discover-how/"><u>Adapt, Innovate & Conquer: Mastering Professional Growth in an Artificially Intelligent World - Discover How!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-blunders-navigating-the-nuances-of-using-generative-ai-tools-avoid-these-errors/"><u>Bypassing Blunders: Navigating the Nuances of Using Generative AI Tools (Avoid These Errors)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-personal-security-disconnecting-from-chatgpt-when-needed/"><u>Ensuring Personal Security: Disconnecting From ChatGPT When Needed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-chatgpt-a-beacon-of-accurate-information-or-a-conduit-for-misinformation/"><u>Evaluating ChatGPT: A Beacon of Accurate Information or a Conduit for Misinformation?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-evaluation-of-seatechs-portable-usb-blue-ray-burner-inconsistent-output-quality/"><u>Expert Evaluation of SeaTech's Portable USB Blue-Ray Burner - Inconsistent Output Quality</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-generative-ai-an-informed-parents-guide-to-utilizing-chatgpt/"><u>Mastering Generative AI: An Informed Parent's Guide to Utilizing ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-sensitive-information-using-custom-gpts/"><u>Safeguarding Sensitive Information Using Custom GPTs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/selecciona-el-capturador-ideal-de-pantalla-para-tu-pc-con-windows-1087-guia-completa-para-grabar-toda-su-pantalla/"><u>Selecciona El Capturador Ideal De Pantalla Para Tu PC Con Windows (10/8/7): Guía Completa Para Grabar Toda Su Pantalla</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/smooth-volume-reduction-a-system-friendly-approach-for-2024/"><u>Smooth Volume Reduction A System-Friendly Approach for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-your-discussions-sharing-methods-for-ai-conversations/"><u>Unlocking Your Discussions: Sharing Methods for AI Conversations</u></a></li>
 </ul></div>
 

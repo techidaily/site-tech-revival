@@ -1,7 +1,7 @@
 ---
 title: "Improving AI Communication Skills: Master These 7 Prompting Tactics for ChatGPT"
-date: 2024-09-11T19:40:54.639Z
-updated: 2024-09-12T19:40:54.639Z
+date: 2024-09-15T22:01:02.187Z
+updated: 2024-09-17T21:46:29.533Z
 tags:
   - chatgpt
   - open-ai
@@ -28,35 +28,9 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
 
@@ -67,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Image Prompting
@@ -83,22 +57,15 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
@@ -111,6 +78,13 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
@@ -122,13 +96,6 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google's AI Endgame Is Gemini
 
@@ -151,19 +118,21 @@ thumbnail: https://thmb.techidaily.com/b815cea54066fecbfdb8d09a425aaf17a53c85016
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-convert-your-room-into-a-professional-studio-via-vlc/"><u>[New] 2024 Approved Convert Your Room Into a Professional Studio via VLC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-pioneering-tools-for-modern-gameplay-recording-for-2024/"><u>[New] Pioneering Tools for Modern Gameplay Recording for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-zoom-session-division-for-starters-for-2024/"><u>[New] Zoom Session Division for Starters for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-the-potential-threats-and-opportunities-of-chatgpt-for-seo-practices/"><u>Assessing the Potential Threats and Opportunities of ChatGPT for SEO Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-msi-afterburner-to-recognize-your-gpu-in-windows-11/"><u>Fixing the Issue: How to Get MSI Afterburner to Recognize Your GPU in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-embed-chatgpt-into-your-windows-application-seamlessly/"><u>How to Embed ChatGPT Into Your Windows Application Seamlessly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-under-100-hd-cams-for-adventure-and-action/"><u>In 2024, Best Under $100 HD Cams for Adventure and Action</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-with-claude-2-functions-features-and-uses-explained/"><u>Mastering AI with Claude 2: Functions, Features, and Uses Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-privacy-email-change-with-protonbrowser-plugin/"><u>Navigate Privacy: Email Change with ProtonBrowser Plugin</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-incorporating-sound-effects-into-presentations-with-powerpoint-strategies-for-both-windows-and-apple-systems/"><u>New Incorporating Sound Effects Into Presentations with PowerPoint Strategies for Both Windows and Apple Systems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-issues-with-unrecognized-or-invalid-driver-installations-on-pcs/"><u>Resolving Issues With Unrecognized or Invalid Driver Installations on PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-ranked-list-of-top-5-ai-prompt-design-courses-online/"><u>Ultimate Guide: Ranked List of Top 5 AI Prompt Design Courses Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whats-next-after-gpt-4-speculations-surrounding-the-upcoming-gpt-5-release/"><u>What's Next After GPT-4? Speculations Surrounding the Upcoming GPT-5 Release</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/email-protected-download-windows-compatible-drivers-now/"><u>[Email Protected]: Download Windows Compatible Drivers Now!</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-beneath-the-surface-a-deeper-look-at-snapchat-emojis/"><u>[New] In 2024, Beneath the Surface A Deeper Look at Snapchat Emojis</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-photographic-perfection-in-the-palm-of-your-hands-online-for-2024/"><u>[New] Photographic Perfection in the Palm of Your Hands Online for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>[Updated] Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/building-brand-loyalty-crafting-striking-fb-videos-for-2024/"><u>Building Brand Loyalty Crafting Striking FB Videos for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-prompt-creation-with-these-7-essential-digital-resources/"><u>Elevate Your Prompt Creation with These 7 Essential Digital Resources</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enthralling-e-artistry-ai-creations-by-gpt-insights/"><u>Enthralling E-Artistry: AI Creations by GPT Insights</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-reviews-by-toms-gadgets-your-source-for-top-notch-hardware-choices/"><u>Expert Reviews by Tom's Gadgets: Your Source for Top-Notch Hardware Choices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-misses-human-touch-in-creativity-and-expression/"><u>How ChatGPT Misses Human Touch in Creativity and Expression</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-windows-movie-maker-for-efficient-video-projects-in-windows-8/"><u>In 2024, Navigating Windows Movie Maker for Efficient Video Projects in Windows 8</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-3-vs-gpt-4-showdown-determining-the-superior-ai/"><u>Llama 3 Vs. GPT-4 Showdown: Determining the Superior AI</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-best-free-video-cutting-software-for-mp4-files-for-2024/"><u>New Best Free Video Cutting Software for MP4 Files for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-gaming-ais-role-in-game-development/"><u>The Future of Gaming: AI's Role in Game Development</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-effective-conversational-cues-with-chatgpt-to-combat-online-interruptions/"><u>Top 8 Effective Conversational Cues with ChatGPT to Combat Online Interruptions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-creative-process-with-microsofts-ai-image-visionary/"><u>Transform Your Creative Process with Microsoft’s AI Image Visionary</u></a></li>
 </ul></div>
 

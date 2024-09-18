@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Walkthrough: Setting Up the Autonomous GPT Module on Ubuntu Linux"
-date: 2024-09-11T19:45:48.914Z
-updated: 2024-09-12T19:45:48.914Z
+date: 2024-09-14T02:44:31.631Z
+updated: 2024-09-17T21:53:41.332Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/b025fc7ab394893f7e8a7b25d81a217b766fc055b
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -66,14 +59,26 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-seek-all-sharing-in-a-group-chat-via-messenger/"><u>[Updated] 2024 Approved Seek All Sharing in a Group Chat via Messenger</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-minecraft-geometries-circular-and-spherical-designs-for-2024/"><u>[Updated] Mastering Minecraft Geometries Circular & Spherical Designs for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-faceoff-who-wins-in-features-and-performance-googles-bard-or-microsoftcups-bing-chat/"><u>AI Faceoff: Who Wins in Features and Performance - Google's Bard or Microsoft'cups Bing Chat?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-dungeons-and-dragons-heroes-with-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Crafting Dungeons & Dragons Heroes with ChatGPT & DALL-E: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-picks-best-text-animation-and-tracking-software-2023-for-2024/"><u>Expert Picks Best Text Animation and Tracking Software 2023 for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-g-stylus-5g-2023-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto G Stylus 5G (2023) Face Lock?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mac-subtitle-editing-made-easy-top-subtitle-edit-alternatives/"><u>Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-openai-api-insights-and-strategies-for-successful-integration/"><u>Navigating the World of OpenAI API: Insights and Strategies for Successful Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-hacks-exploring-the-risks-and-benefits/"><u>Understanding ChatGPT Hacks: Exploring the Risks & Benefits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-transforming-your-media-expertise-in-itunes-recordings/"><u>[New] 2024 Approved Transforming Your Media Expertise in iTunes Recordings</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-stills-extraction-in-windows-11-photos-for-2024/"><u>[New] Mastering Stills Extraction in Windows 11 Photos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-selecting-the-ideal-360-cameras-for-videography/"><u>[New] Selecting the Ideal 360° Cameras for Videography</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-ultimate-guide-adding-snapchat-to-your-mac/"><u>[Updated] Ultimate Guide Adding Snapchat to Your Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030006099-xvideos/"><u>「最新！フリーでクオリティ高いXVideosコンテンツ保存方法一手引き」</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027996685-dvd/"><u>信頼性の高い最強DVDコピーツール：プレミアムバージョンをお薦め</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028207506-usb/"><u>映像コンテンツをUSBメモリに移動する手順</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-visual-synopsis-creator/"><u>Audio Visual Synopsis Creator</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-youtube-profits-studio-tips-for-all-gadgets/"><u>In 2024, Mastering YouTube Profits Studio Tips for All Gadgets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030092633-pc/"><u>PC上での曲や音楽ファイルへのダウンロードと録音方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028645904-pc/"><u>PCで静止画をアニメーションに変換する専門のガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-11mp4/"><u>Windows 11でシンプルにMP4動画連結技術</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

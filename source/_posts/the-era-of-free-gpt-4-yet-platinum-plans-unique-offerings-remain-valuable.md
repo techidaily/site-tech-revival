@@ -1,7 +1,7 @@
 ---
 title: The Era of Free GPT-4! Yet, Platinum Plan's Unique Offerings Remain Valuable
-date: 2024-09-11T19:42:42.491Z
-updated: 2024-09-12T19:42:42.491Z
+date: 2024-09-15T02:03:13.847Z
+updated: 2024-09-17T18:21:39.171Z
 tags:
   - chatgpt
   - open-ai
@@ -55,35 +55,21 @@ thumbnail: https://thmb.techidaily.com/448df8bc8afab05ea77afff59f75ded3f6194317b
 
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Retain Access to GPT-4 Turbo
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
@@ -92,22 +78,15 @@ thumbnail: https://thmb.techidaily.com/448df8bc8afab05ea77afff59f75ded3f6194317b
 
  You must have a Plus subscription to create custom GPTs. Paying will let you [build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
@@ -124,16 +103,16 @@ thumbnail: https://thmb.techidaily.com/448df8bc8afab05ea77afff59f75ded3f6194317b
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -158,15 +137,17 @@ thumbnail: https://thmb.techidaily.com/448df8bc8afab05ea77afff59f75ded3f6194317b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unraveling-the-secrets-to-gently-fading-audio-in-audacity/"><u>[Updated] 2024 Approved Unraveling the Secrets to Gently Fading Audio in Audacity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-comparing-cosmic-universes-metaverse-vs-multiverse-explained/"><u>2024 Approved Comparing Cosmic Universes Metaverse vs Multiverse Explained</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/best-linux-screen-capture-software-ranked-for-2024/"><u>Best Linux Screen Capture Software Ranked for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dall-e-3s-recent-update-includes-edit-tools-yet-performance-and-usability-call-for-improvement/"><u>DALL-E 3'S Recent Update Includes Edit Tools: Yet Performance and Usability Call for Improvement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-engagement-personalized-gpt-construction/"><u>Elevate Engagement: Personalized GPT Construction</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-repair-image-id-0x80780119-on-windows-os/"><u>How To Repair Image ID: 0X80780119 on Windows OS</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-6-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 6 Plus to PC | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-auto-gtp-in-everyday-tasks/"><u>Leveraging Auto-GTP in Everyday Tasks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-accurate-user-persona-development/"><u>Leveraging ChatGPT for Accurate User Persona Development</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723862803448-revolutionize-your-viewing-experience-premium-quality-156-1080p-ips-monitor-never-seen-such-a-low-price-before-at-just-6599/"><u>Revolutionize Your Viewing Experience: Premium Quality 15.6 1080P IPS Monitor - Never Seen Such a Low Price Before at Just $65.99</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-whispering-through-screens-a-private-story-journey/"><u>[New] Whispering Through Screens A Private Story Journey</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-luts-ranked-top-10-in-photoshop-and-lightroom/"><u>[Updated] Best LUTs Ranked Top 10 in Photoshop & Lightroom</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-youtube-monetization-a-focus-on-short-video-profits/"><u>[Updated] Unlock YouTube Monetization A Focus on Short Video Profits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-demystifying-ps4s-capture-features-a-comprehensive-walkthrough/"><u>2024 Approved Demystifying PS4's Capture Features A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-turings-evaluation-chances-of-victory/"><u>Demystifying Turing's Evaluation: Chances of Victory?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-apps-for-archiving-and-sharing-your-chatgpt-dialogue-history/"><u>Essential Apps for Archiving & Sharing Your ChatGPT Dialogue History</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fixing-the-issue-how-to-stop-wallpaper-engine-from-crashing-on-windows-11-and-10/"><u>Fixing the Issue: How to Stop Wallpaper Engine From Crashing on Windows 11 & 10</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-10t-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme 10T 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-melody-of-affection-greatest-love-songs-to-sweeten-a-proposal/"><u>In 2024, Melody of Affection Greatest Love Songs to Sweeten a Proposal</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-sound-pop-issues-on-windows-step-by-step-troubleshooting-tips/"><u>Solving Sound Pop Issues on Windows: Step-by-Step Troubleshooting Tips</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/roadmap-to-monetization-mastery-the-straightforward-strategy-for-analyzing-youtube-earnings/"><u>Your Roadmap to Monetization Mastery The Straightforward Strategy for Analyzing YouTube Earnings</u></a></li>
 </ul></div>
 

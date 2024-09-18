@@ -1,7 +1,7 @@
 ---
 title: "Discovering ChatGPT's Interpreter: 6 Essential Tasks"
-date: 2024-09-11T19:41:02.900Z
-updated: 2024-09-12T19:41:02.900Z
+date: 2024-09-17T09:56:07.040Z
+updated: 2024-09-18T04:23:14.811Z
 tags:
   - chatgpt
   - open-ai
@@ -48,40 +48,13 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
 
  In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
 
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Create and Edit Videos
 
@@ -103,19 +76,6 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
 ## 3\. Create and Modify Audio Files
@@ -131,16 +91,10 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 * Overlay an audio file with another audio
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Read, Edit and Create Documents
@@ -170,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Extract Text from Images (Optical Character Recognition)
@@ -203,18 +157,21 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-comparative-study-of-premium-video-services-for-2024/"><u>[New] Comparative Study of Premium Video Services for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-15-facebook-videograbber-add-ons-compatible-with-firefox/"><u>[New] In 2024, Top 15 Facebook Videograbber Add-Ons, Compatible with FireFox</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-designing-a-youtube-subscription-shortcut-url/"><u>[Updated] 2024 Approved Designing a YouTube Subscription Shortcut URL</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essence-of-podcast-marketing-creating-effective-feeds/"><u>[Updated] The Essence of Podcast Marketing Creating Effective Feeds</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/charting-the-course-from-scale-to-submillions-in-youtube/"><u>Charting the Course From Scale to Submillions in Youtube</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-motorola-edge-40-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Motorola Edge 40 Pro Is Unlocked</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-gpt-into-daily-life-against-loneliness/"><u>Integrating GPT Into Daily Life Against Loneliness</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-enhancement-top-international-films/"><u>Language Enhancement: Top International Films</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-get-rid-of-filmora-watermark-with-or-without-subscription/"><u>New In 2024, Get Rid of Filmora Watermark With or Without Subscription</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ins-and-outs-of-ai-based-prompt-injection-exploits-an-elucidation/"><u>The Ins and Outs of AI-Based Prompt Injection Exploits: An Elucidation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-leveraging-chamois-to-design-engrossing-fantastical-settings/"><u>The Ultimate Strategy: Leveraging Chamois to Design Engrossing Fantastical Settings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-showdown-of-ai-conversationalists-chatgpt-vs-bing-chat-battle/"><u>Ultimate Showdown of AI Conversationalists: ChatGPT Vs. Bing Chat Battle!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-distinctive-features-between-copilot-and-copilot-pro-is-an-upgrade-worth-it/"><u>Unveiling The Distinctive Features Between Copilot & Copilot Pro - Is An Upgrade Worth It?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-5-alternatives-to-bandicam-for-pro-mac-users/"><u>[Updated] 2024 Approved Top 5 Alternatives to Bandicam for Pro Mac Users</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-key-techniques-for-smooth-screen-sharing-on-mobiledesktop/"><u>[Updated] Key Techniques for Smooth Screen Sharing on Mobile/Desktop</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-practical-guide-to-swapping-gender-representation-online-from-basics-to-expertise/"><u>[Updated] Practical Guide to Swapping Gender Representation Online From Basics to Expertise</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-look-at-iphones-top-watermarking-software-choices/"><u>2024 Approved In-Depth Look at iPhone's Top Watermarking Software Choices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-boundaries-top-8-ai-trends/"><u>Beyond Boundaries: Top 8 AI Trends</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-samsung-galaxy-a24-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Samsung Galaxy A24 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-these-6-cost-free-alternatives-to-openais-sora-ai-technology/"><u>Discover These 6 Cost-Free Alternatives to OpenAI's Sora AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-tool-or-trap-for-disinformation/"><u>Generative AI: Tool or Trap for Disinformation?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v29-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V29 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-creative-thinking-generating-topics-using-mind-maps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Topics Using Mind Maps & ChatGPT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/starting-strong-scripts-for-initial-impact-for-2024/"><u>Starting Strong Scripts for Initial Impact for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-setup-for-an-unrestricted-conversational-ai-hosting-freedomgpt-on-microsofts-os/"><u>Step-by-Step Setup for an Unrestricted Conversational AI: Hosting FreedomGPT on Microsoft's OS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-vimeo-record-features-for-2024/"><u>The Ultimate Guide to Vimeo Record Features for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unearthing-claude-2-its-purpose-and-impact/"><u>Unearthing Claude 2: Its Purpose & Impact</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-teachers-should-welcome-ai-in-the-classroom-discover-eight-compelling-reasons/"><u>Why Teachers Should Welcome AI in the Classroom: Discover Eight Compelling Reasons</u></a></li>
 </ul></div>
 

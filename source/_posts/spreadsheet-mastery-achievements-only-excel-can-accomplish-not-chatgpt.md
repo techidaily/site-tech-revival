@@ -1,7 +1,7 @@
 ---
 title: "Spreadsheet Mastery: Achievements Only Excel Can Accomplish, Not ChatGPT"
-date: 2024-09-11T19:43:46.395Z
-updated: 2024-09-12T19:43:46.395Z
+date: 2024-09-13T02:03:06.289Z
+updated: 2024-09-17T20:30:18.922Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/8c77eb31aaf68af03a18e4ba7fcc0097815c2ee3f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -63,34 +56,15 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -106,19 +80,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -139,16 +100,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
@@ -156,16 +111,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Temporary Chat
@@ -193,17 +142,18 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[New] 2024 Approved Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/lash-the-size-efficient-techniques-for-reducing-youtube-video-lengths-for-2024/"><u>[New] Slash the Size Efficient Techniques for Reducing YouTube Video Lengths for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-streamlined-approach-to-add-linktree-in-tiktok-about-section/"><u>2024 Approved Streamlined Approach to Add Linktree in TikTok About Section</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/beauty-behind-the-screen-color-correction-insights/"><u>Beauty Behind the Screen Color Correction Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-hidden-gem-alert-find-out-which-are-the-top-6-games-to-play-within-this-platform/"><u>ChatGPT Hidden Gem Alert! Find Out Which Are the Top 6 Games to Play Within This Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-nvidias-chat-with-rtx-ai-chatbot-on-your-computer/"><u>How to Use Nvidia's Chat With RTX AI Chatbot on Your Computer</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a34-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A34 5G</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone XS Max</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-diy-vlog-or-video/"><u>New How to Make a DIY Vlog or Video</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unsupported-app-packages-on-windows-xp/"><u>Troubleshooting Unsupported App Packages on Windows XP</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-world-of-computing-exploring-toms-hardware-findings/"><u>Unlocking the World of Computing: Exploring Tom's Hardware Findings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/up-to-date-chatgpt-impact-for-all/"><u>Up-to-Date ChatGPT Impact for All</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bellylaugh-beats-top-choices-for-laughable-ringtone-downloads/"><u>[New] BellyLaugh Beats Top Choices for Laughable Ringtone Downloads</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-effortless-rearrangement-of-your-personalized-lists-for-2024/"><u>[Updated] Effortless Rearrangement of Your Personalized Lists for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-integrating-microsofts-bing-ai-into-your-android-keyboard/"><u>Easy Steps: Integrating Microsoft's Bing AI Into Your Android Keyboard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-new-edit-function-in-dall-e-3-promising-start-with-more-to-be-perfected/"><u>Exploring the New Edit Function in DALL-E 3: Promising Start with More to Be Perfected</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/key-adjustments-needed-in-the-chatgpt-plugin-ecosystem/"><u>Key Adjustments Needed in the ChatGPT Plugin Ecosystem</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-healthier-meal-prep-with-assistance-from-chatgpt/"><u>Mastering Healthier Meal Prep with Assistance From ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/resolving-file-exceeds-maximum-size-limit-fixing-storage-overflow-issues/"><u>Resolving 'File Exceeds Maximum Size Limit': Fixing Storage Overflow Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-something-went-wrong-issue-when-restoring-or-refreshing-windows-10-a-comprehensive-guide/"><u>Resolving the 'Something Went Wrong' Issue When Restoring or Refreshing Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/simplified-hdr-strategies-for-photography-novices-for-2024/"><u>Simplified HDR Strategies for Photography Novices for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/skyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-free-alternatives-to-openais-sora-ai-model/"><u>Top 6 Free Alternatives to OpenAI's Sora AI Model</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-language-top-8-free-and-accurate-srt-translators/"><u>Unlocking Language Top 8 Free & Accurate SRT Translators</u></a></li>
 </ul></div>
 

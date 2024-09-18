@@ -1,7 +1,7 @@
 ---
 title: Potential Consequences for Using ChatGPT During Work Hours
-date: 2024-09-11T19:45:52.947Z
-updated: 2024-09-12T19:45:52.947Z
+date: 2024-09-12T21:42:20.590Z
+updated: 2024-09-18T11:06:03.874Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -55,6 +48,19 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. chatgpt-go.online
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
@@ -63,55 +69,35 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -122,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -157,16 +136,20 @@ thumbnail: https://thmb.techidaily.com/8da75a920197365538cecf50a6a02f169af5b1bab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-entry-point-not-found-error-in-windows/"><u>[FIXED] Entry Point Not Found Error in Windows</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-5-live-stream-video-recorders-for-remote-sessions-for-2024/"><u>[New] Essential 5 Live Stream Video Recorders for Remote Sessions for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-the-full-potential-of-iphone-7-screen-save/"><u>2024 Approved Unlocking the Full Potential of iPhone 7 Screen Save</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-efficiency-how-chatgpt-can-transform-time-management/"><u>Boosting Efficiency: How ChatGPT Can Transform Time Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-of-the-galaxy-watch-series-an-in-depth-guide-to-the-new-features-and-benefits-of-the-galaxy-watch-active-samsung-galaxy-watch-active139/"><u>Exploring the Evolution of the Galaxy Watch Series: An In-Depth Guide to the New Features and Benefits of the Galaxy Watch Active 지속성 Samsung의 Galaxy Watch Active 2</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/friend-to-friend-xbox-one-gameshare-setup-and-best-practices/"><u>Friend-to-Friend Xbox One Gameshare Setup and Best Practices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gemini-unleashed-1m-tokens-redefine-market-value/"><u>Gemini Unleashed - $1M Tokens Redefine Market Value</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo Y78 5G</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/oculus-quest-launches-multilingual-voice-assistant-mondly/"><u>Oculus Quest Launches Multilingual Voice Assistant Mondly</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/unlocking-enhanced-gaming-with-free-nvidia-3d-vision-drivers-for-windows-devices/"><u>Unlocking Enhanced Gaming with Free Nvidia 3D Vision Drivers for Windows Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-achieve-perfect-screen-captures-on-the-mi-11-lite-for-2024/"><u>[New] Achieve Perfect Screen Captures on the Mi 11 Lite for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-spotting-instagrams-newly-deactivated-accounts/"><u>[New] Spotting Instagram's Newly Deactivated Accounts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-monetization-tracker-tool-for-online-videos/"><u>[Updated] Monetization Tracker Tool for Online Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-iphone-videos-time-lapse-masterclass/"><u>Elevate iPhone Videos Time-Lapse Masterclass</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-entry-into-openais-exclusive-gpt-shop-your-ultimate-guide/"><u>Immediate Entry Into OpenAI's Exclusive GPT Shop: Your Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-dvd-ripping-a-step-by-step-guide-to-extracting-and-renaming-titles-correctly/"><u>Mastering DVD Ripping: A Step-by-Step Guide to Extracting and Renaming Titles Correctly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpeg-dashhls-chrome-firefox/"><u>MPEG-DASH/HLSファイルのダウンロード - Chrome, Firefox方法ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pandorasoundcloud/"><u>PandoraやSoundCloudのサブスクリプトされた音楽を保存する方法</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors-for-2024/"><u>Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-step-by-step-tutorial-creating-animated-gifs-from-images-using-your-computer/"><u>Simple Step-by-Step Tutorial: Creating Animated GIFs From Images Using Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-how-to-download-your-own-youtube-videos-with-privacy/"><u>Simple Steps: How to Download Your Own YouTube Videos with Privacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-transforming-flac-files-into-aac-format-across-pc-mac-and-online-services/"><u>Simple Steps: Transforming FLAC Files Into AAC Format Across PC, Mac & Online Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-adding-images-to-your-youtube-videos-as-an-engaging-picture-slideshow/"><u>Step-by-Step Guide: Adding Images to Your YouTube Videos as an Engaging Picture Slideshow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-mpeg-videos-to-mp4-format-across-different-systems-latest-techniques/"><u>Step-by-Step Guide: Converting MPEG Videos to MP4 Format Across Different Systems – Latest Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-mastering-vob-to-mp4-with-handbrake/"><u>Ultimate Guide: Mastering VOB to MP4 with HandBrake</u></a></li>
 </ul></div>
 

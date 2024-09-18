@@ -1,7 +1,7 @@
 ---
 title: "Enhancing User Experience: 5 Desired Feature Enhancements for ChatGPT's Plugins Hub"
-date: 2024-09-11T19:43:45.032Z
-updated: 2024-09-12T19:43:45.032Z
+date: 2024-09-10T22:33:45.489Z
+updated: 2024-09-18T11:44:46.260Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. WebChatGPT
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As impressive as ChatGPT's answers are, it's still limited. If you know[how ChatGPT works](https://www.makeuseof.com/how-does-chatgpt-work/) , you'll know that it isn't scraping the internet for the latest information about any topic or news. The AI works on older data and doesn't search the internet. WebChatGPT is an innovative workaround for this problem that adds web search results to ChatGPT.
 
@@ -78,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
@@ -107,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Talk-to-ChatGPT
 
  ChatGPT is currently a text-only AI app where the prompts and the answers are written. But Google Chrome offers some excellent voice commands and text-to-speech features. Talk-to-ChatGPT bridges this gap to let you issue prompts by talking to your computer and having the ChatGPT answers read aloud by AI.
@@ -125,22 +111,15 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -152,10 +131,10 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
@@ -179,14 +158,20 @@ thumbnail: https://thmb.techidaily.com/96d4e4e3696a3d428399dbec4c54090942565cd5b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-nextgen-flawless-frame-processor-windowsmac/"><u>[New] 2024 Approved NextGen Flawless Frame Processor (Windows/Mac)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/counterfeit-chronicles-detecting-computer-generated-writing/"><u>Counterfeit Chronicles: Detecting Computer-Generated Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engage-gpt-leveraging-bash-for-openais-chatbot/"><u>Engage GPT: Leveraging Bash for OpenAI's Chatbot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/find-your-next-must-read-explore-the-best-artificially-intelligent-book-recommenders-online/"><u>Find Your Next Must-Read: Explore the Best Artificially Intelligent Book Recommenders Online</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-to-resolve-issues-with-realtek-network-adapters-on-windows-systems/"><u>Guide to Resolve Issues with Realtek Network Adapters on Windows Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leverage-these-8-beneficial-applications-of-auto-gpt-for-streamlined-operations/"><u>Leverage These 8 Beneficial Applications of Auto-GPT for Streamlined Operations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/swift-mpeg2-conversion-for-dvds-streamlined-process-of-mono-track-backups-from-dvd/"><u>Swift MPEG2 Conversion for DVDs: Streamlined Process of Mono-Track Backups From DVD</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ultimate-mpeg-fixer-expertly-restore-broken-and-corrupted-videos/"><u>Ultimate MPEG Fixer: Expertly Restore Broken and Corrupted Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-crucial-aspects-when-elevating-your-4k-cinematography/"><u>[New] Crucial Aspects When Elevating Your 4K Cinematography</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-identifying-excellent-video-production-experts/"><u>[New] In 2024, Identifying Excellent Video Production Experts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-expert-tips-for-optimal-color-grading-using-luts-in-adobe-premiere-pro/"><u>[Updated] Expert Tips for Optimal Color Grading Using LUTs in Adobe Premiere Pro</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-gentle-guidance-to-good-slumber-top-asmr-pros-for-2024/"><u>[Updated] Gentle Guidance to Good Slumber Top ASMR Pros for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-career-planning-unveiling-top-strategies/"><u>ChatGPT in Career Planning: Unveiling Top Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-advancements-understanding-googles-novel-palm-2-and-its-impact-on-future-of-ai-based-linguistic-processing/"><u>Decoding the Advancements: Understanding Google's Novel PaLM 2 and Its Impact on Future of AI-Based Linguistic Processing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-potential-8-creative-ways-to-utilize-auto-gpt-tools/"><u>Discover the Potential: 8 Creative Ways to Utilize Auto-GPT Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-integrate-chatgpt-into-your-mobile-life-for-both-ios-and-android-enthusiasts/"><u>How to Seamlessly Integrate ChatGPT Into Your Mobile Life – For Both iOS and Android Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-honor-x50-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Honor X50 FRP Bypass Instantly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-14-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 14 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-openai-struggling-to-maintain-authority-over-chatgpt/"><u>Is OpenAI Struggling to Maintain Authority Over ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-ai-image-generation-with-dall-e-and-gpt-4/"><u>Mastering the Art of AI Image Generation with DALL-E and GPT-4</u></a></li>
+<li><a href="https://driver-install.techidaily.com/next-level-sound-instructions-for-scarletts-6i6-upgrade/"><u>Next Level Sound: Instructions for Scarlett's 6I6 Upgrade</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-connection-errors-in-minecrafts-lan-play-mode/"><u>Resolving Connection Errors in Minecraft's 'LAN Play Mode'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-artificial-intelligence-tools-boosting-creative-writing/"><u>Top 5 Artificial Intelligence Tools Boosting Creative Writing</u></a></li>
 </ul></div>
 

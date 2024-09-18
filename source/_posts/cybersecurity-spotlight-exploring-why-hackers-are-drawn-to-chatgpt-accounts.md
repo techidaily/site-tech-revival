@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity Spotlight: Exploring Why Hackers Are Drawn to ChatGPT Accounts"
-date: 2024-09-11T19:41:47.321Z
-updated: 2024-09-12T19:41:47.321Z
+date: 2024-09-12T00:43:46.883Z
+updated: 2024-09-18T03:00:43.062Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is Perplexity AI, and What Can You Do With It?](https://www.makeuseof.com/perplexity-ai-best-ai-powered-google-search-tool/#what-is-perplexity-ai-and-what-can-you-do-with-it)
@@ -41,56 +34,17 @@ thumbnail: https://thmb.techidaily.com/95716cb061a5dae526d57500a8951c520e1cad5f6
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
 
  Unlike traditional search engines that rely on keyword matching and link analysis, Perplexity AI understands the context and intent behind your queries. It provides not just a list of links but a comprehensive answer with links to cited sources.
 
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Perplexity AI Instead of Google Search
 
 ![perplexity app home screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-home-screenshot.jpg)
 
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
@@ -103,10 +57,10 @@ Close
  Perplexity is free to use. However, you can upgrade to its Pro plan ($20/month) for access to additional features, such as unlimited access to its more powerful AI models like OpenAI's GPT-4, Anthropic's Claude 3 Opus and Sonnet, and Mistral's Large, plus support for images and files, and better support.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can Perplexity AI Replace Google?
@@ -118,10 +72,16 @@ Close
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
@@ -145,20 +105,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-earn-big-start-small-top-13-profit-strategies-in-reddit-land/"><u>[New] Earn Big, Start Small Top 13 Profit Strategies in Reddit Land</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-budget-conscious-obs-tweaks-and-tricks/"><u>[New] In 2024, Budget-Conscious OBS Tweaks and Tricks</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-merits-of-sns-hdr-vs-its-industry-contenders/"><u>[Updated] The Merits of SNS HDR Vs. Its Industry Contenders</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-miniature-motorcade-matchups/"><u>2024 Approved Miniature Motorcade Matchups</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-there-safety-concerns-associated-with-using-chatgpt/"><u>Are There Safety Concerns Associated with Using ChatGPT?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/crack-up-compilation-the-most-funny-tiktok-joke-threads-for-2024/"><u>Crack-Up Compilation The Most Funny TikTok Joke Threads for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-best-7-chatgpt-extensions-for-google-chrome-to-transform-how-you-use-ai-in-browsers/"><u>Explore the Best 7 ChatGPT Extensions for Google Chrome to Transform How You Use AI in Browsers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-ai-what-sets-public-ai-aside-from-private-and-personal-variants/"><u>Exploring the World of AI: What Sets Public AI Aside From Private and Personal Variants?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-6s-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 6s Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-infuse-laughter-into-content-use-kapwing/"><u>In 2024, Infuse Laughter Into Content - Use Kapwing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-building-effective-daily-meditation-practices/"><u>Leveraging ChatGPT for Building Effective Daily Meditation Practices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protective-measures-against-openais-web-scraping-bots-preserving-the-integrity-of-your-site/"><u>Protective Measures Against OpenAI’s Web Scraping Bots: Preserving the Integrity of Your Site</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-language-models-introducing-palm-2-by-google/"><u>The Evolution of Language Models: Introducing PaLM 2 by Google</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-rise-of-populism-and-authoritarian-regimes-in-democratic-nations-suggests-history-may-not-have-reached-its-end-point-yet/"><u>The Rise of Populism and Authoritarian Regimes in Democratic Nations Suggests History May Not Have Reached Its End Point Yet</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-reverse-your-videos-with-the-best-online-tools/"><u>Updated In 2024, Reverse Your Videos with the Best Online Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-seamless-photo-editing-incorporating-text-onto-images-on-pcs-and-macs/"><u>[New] 2024 Approved Seamless Photo Editing Incorporating Text Onto Images on PCs & Macs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illustration-revolution-adding-depth-to-text-with-3d/"><u>[New] Illustration Revolution Adding Depth to Text with 3D</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-concept-to-creation-crafting-youtube-video-splits/"><u>[Updated] 2024 Approved From Concept to Creation Crafting YouTube Video Splits</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-premieres-role-in-your-youtube-creation-process/"><u>2024 Approved Premiere's Role in Your YouTube Creation Process</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-streaming-video-evaluation-report/"><u>2024 Approved Streaming Video Evaluation Report</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-lead-to-unemployment-assessing-the-consequences-across-various-work-situations/"><u>Can ChatGPT Lead to Unemployment? Assessing the Consequences Across Various Work Situations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-i-get-responses-with-different-sizes-in-gpt-based-systems/"><u>Can I Get Responses with Different Sizes in GPT-Based Systems?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-e13-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto E13 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/selecting-your-ideal-chatgpt-experience-browsing-or-browser-plugin-compared/"><u>Selecting Your Ideal ChatGPT Experience: Browsing or Browser Plugin Compared</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/symbols-as-economic-prophets/"><u>Symbols as Economic Prophets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-complete-insight-into-what-you-must-know-about-openai/"><u>The Complete Insight Into What You Must Know About OpenAI</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-the-curious-player-for-2024/"><u>The Ultimate Guide for the Curious Player for 2024</u></a></li>
 </ul></div>
 

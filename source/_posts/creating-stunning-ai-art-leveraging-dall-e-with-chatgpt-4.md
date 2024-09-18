@@ -1,7 +1,7 @@
 ---
 title: "Creating Stunning AI Art: Leveraging DALL-E with ChatGPT-4"
-date: 2024-09-11T19:47:07.681Z
-updated: 2024-09-12T19:47:07.681Z
+date: 2024-09-14T11:31:52.647Z
+updated: 2024-09-17T23:35:42.068Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -52,19 +45,6 @@ And here is the final result:
 
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Calendar Cover Artwork
 
  You can[make a printable calendar with Canva](https://www.makeuseof.com/tag/make-your-own-calendar-using-canva/) and other apps, but that doesn’t mean you can’t use DALL-E 3 to generate the front cover artwork. Whether you want to gift someone your calendar or use it yourself, try using this prompt.
@@ -78,23 +58,10 @@ I asked DALL-E 3:
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 A Birthday Card Cover
@@ -107,13 +74,6 @@ This was the result:
 
 ![DALL-E 3 Birthday Card Prototype With Typos Etc.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-prototype.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, DALL-E 3 gave me a birthday card cover. However, it also added other objects that I didn’t want—such as a background and stencils. There were also spelling inaccuracies.
 
 So, I tried the following prompt instead:
@@ -124,22 +84,15 @@ Okay, so that didn’t go to plan…
 
 ![DALL-E 3 Birthday Card Error in Text and Design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card-error.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You have to be very specific with your prompts. I was relatively happy with the final result (below), but my prior prompts were perhaps too vague. I did, however, explicitly tell DALL-E 3 to correct the spelling.
 
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Desktop Wallpapers
@@ -177,10 +130,16 @@ Close
 ![DALL-E 3 AI Art Cover in Square Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-ai-art-cover.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 Social Media Cover Banners
@@ -196,16 +155,17 @@ I used the following prompt:
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8 Photo Album Covers
@@ -239,17 +199,15 @@ Below is a prompt I tried for a photo album cover:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capturing-tomorrow-today-leading-video-cams/"><u>[New] Capturing Tomorrow Today – Leading Video Cams</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-audio-selection-tips-for-impactful-unboxing-clips/"><u>[New] In 2024, Audio Selection Tips for Impactful Unboxing Clips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-rapid-capture-sounds-alongside-images/"><u>[New] In 2024, Rapid Capture Sounds Alongside Images</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-learn-to-convert-your-vids-into-music-on-instagram-today/"><u>[Updated] 2024 Approved Learn to Convert Your Vids Into Music on Instagram Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discerning-superior-artificial-intelligence-which-reigns-supreme-chatgpt-plus-or-perplexity/"><u>Discerning Superior Artificial Intelligence: Which Reigns Supreme, ChatGPT Plus or Perplexity?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-livestreams-discover-manycams-powerful-software-for-virtual-webcams/"><u>Enhance Your Livestreams: Discover ManyCam's Powerful Software for Virtual Webcams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/excel-vs-chatgpt-discover-the-3-unique-advantages-of-using-excel/"><u>Excel Vs. ChatGPT: Discover the 3 Unique Advantages of Using Excel</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-7-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y56-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y56 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insights-from-top-10-international-technology-visionaries-on-artificial-intelligence/"><u>Insights From Top 10 International Technology Visionaries on Artificial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-high-seas-with-chatgpt-plus-subscription/"><u>Navigating the High Seas with ChatGPT Plus Subscription</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-solving-fps-drop-problems-in-dota-2-with-windows-11-update/"><u>Understanding and Solving FPS Drop Problems in Dota 2 with Windows 11 Update</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-practices-in-adobe-captivate-for-videos/"><u>[New] 2024 Approved Best Practices in Adobe Captivate for Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-from-light-to-shadow-premiere-pro-transitions/"><u>[New] 2024 Approved From Light to Shadow Premiere Pro Transitions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-add-music-to-instagram-story-withwithout-sticker-for-2024/"><u>[New] How to Add Music to Instagram Story [With/Without Sticker] for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-secrets-to-preventing-photo-app-problems-in-windows-11/"><u>[Updated] 2024 Approved Secrets to Preventing Photo App Problems in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-5/"><u>「快適な無料編集ツール5種類選びました！」 - おすすめの5つのオーディオ編集ソフトウェア</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yuv55s75yaf5a6544gr5zci44kp44gb44gf6ieq55sx44gq5yih44kk5yplusw44kk5pa55rov/"><u>動画内容に合わせた自由な切り取り方法</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/from-monochrome-to-masterpiece-pro-photo-hue-harmony-for-2024/"><u>From Monochrome to Masterpiece Pro Photo Hue Harmony for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029383368-mp4windows-10/"><u>MP4ビデオの自動回転に役立つ無料ツール：Windows 10環境での使用ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030630712-pc/"><u>PCとスマートフォンのビデオで音削除手順</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/simplicity-meets-entertainment-the-ultimate-guide-to-the-singing-machine-sml385btbk-karaoke-kit/"><u>Simplicity Meets Entertainment: The Ultimate Guide to the Singing Machine SML385BTBK Karaoke Kit</u></a></li>
 </ul></div>
 

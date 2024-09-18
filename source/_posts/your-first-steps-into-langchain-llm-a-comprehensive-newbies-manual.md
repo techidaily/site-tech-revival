@@ -1,7 +1,7 @@
 ---
 title: "Your First Steps Into LangChain LLM: A Comprehensive Newbie's Manual"
-date: 2024-09-11T19:40:45.435Z
-updated: 2024-09-12T19:40:45.435Z
+date: 2024-09-17T00:12:35.298Z
+updated: 2024-09-18T03:11:29.400Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Understanding How ChatGPT Works
 
 ![a robot with a brain representing artificial intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/artificial-intelligence.jpg)
@@ -51,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
  However, once OpenAI realized these ethical problems, the company scrambled to enact rules to stop the chatbot from generating responses that promote illegal, controversial, or unethical actions. For instance, the latest ChatGPT version will refuse to answer any direct prompt about bomb-making or how to cheat in an examination.
@@ -70,23 +56,9 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
 ![How to cheat in an exams by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-cheat-in-an-exams.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  But if you jailbreak ChatGPT using specially-crafted prompts, it will give you tips on cheating on an exam using concealed notes.
 
 ![How to smuggle a hidden notes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/how-to-smuggle-a-hidden-notes.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here's another example: we asked the vanilla ChatGPT an unethical question, and OpenAI's safeguards stopped it from answering.
 
@@ -108,13 +80,6 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 ![Robot Machine Technology](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/robot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ideally, OpenAI wants to plug as many ethical loopholes as possible to prevent[ChatGPT from becoming a cybersecurity threat](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) . However, for every safeguard it employs, ChatGPT tends to become a bit less valuable. It's a dilemma.
 
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
@@ -122,16 +87,10 @@ It even wrote a classic Nigerian Prince email scam when asked.
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
@@ -155,15 +114,17 @@ It even wrote a classic Nigerian Prince email scam when asked.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-advanced-techniques-for-high-quality-youtube-content/"><u>[Updated] 2024 Approved Advanced Techniques for High-Quality YouTube Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-miniature-drones-unveiled-top-10-list-ready/"><u>[Updated] Miniature Drones Unveiled Top 10 List Ready</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-realme-11x-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Realme 11X 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-expert-video-editing-and-remote-webcams-with-manycam/"><u>Enhance Your Online Presence: Expert Video Editing and Remote Webcams with ManyCam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-streams-with-manycam-top-virtual-camera-and-recording-tool/"><u>Enhance Your Streams with ManyCam: Top Virtual Camera and Recording Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-world-of-professional-streaming-with-manycam-your-ultimate-livestream-camera-and-effects-suite/"><u>Explore the World of Professional Streaming with ManyCam - Your Ultimate Livestream Camera and Effects Suite</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-video-editing-on-a-shoestring-best-software/"><u>In 2024, Video Editing on a Shoestring Best Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-live-video-solutions-with-manycam-the-definitive-virtual-webcam-experience/"><u>Innovative Live Video Solutions with ManyCam – The Definitive Virtual Webcam Experience</u></a></li>
-<li><a href="https://win-forum.techidaily.com/master-the-art-of-windows-11-driver-updates-with-revouninstaller/"><u>Master the Art of Windows 11 Driver Updates with RevoUninstaller</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-software-for-photo-to-video-conversion/"><u>[New] Ideal Software for Photo-to-Video Conversion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nnovative-tips-to-create-effective-free-video-advertisements-on-youtube-for-2024/"><u>[New] Innovative Tips to Create Effective Free Video Advertisements on YouTube for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-acid-pro-alternatives-the-ultimate-review-series/"><u>[Updated] 2024 Approved ACID Pro Alternatives The Ultimate Review Series</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-walkthrough-setting-up-the-autonomous-gpt-module-on-ubuntu-linux/"><u>Comprehensive Walkthrough: Setting Up the Autonomous GPT Module on Ubuntu Linux</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-how-you-can-get-gpt-4-at-no-cost-top-strategies-inside/"><u>Discover How You Can Get GPT-4 at No Cost – Top Strategies Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diy-fix-for-chatgpt-error-tackling-the-plugin-service-interaction-challenge/"><u>DIY Fix for ChatGPT Error: Tackling the Plugin Service Interaction Challenge</u></a></li>
+<li><a href="https://discover-best.techidaily.com/harness-the-power-of-cookiebot-advanced-tracking-solutions-at-your-fingertips/"><u>Harness the Power of Cookiebot: Advanced Tracking Solutions at Your Fingertips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-oppo-a1x-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Oppo A1x 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-x9a-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor X9a FRP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-emerging-cybersecurity-developments-insights-and-forecasts/"><u>Top 7 Emerging Cybersecurity Developments: Insights & Forecasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-5-strategies-to-experience-gpt-4s-power-for-zero-dollars/"><u>Unlock 5 Strategies to Experience GPT- 4'S Power for Zero Dollars</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/why-wont-my-backspace-key-work-uncover-common-problems-and-fixes/"><u>Why Won't My Backspace Key Work? Uncover Common Problems & Fixes</u></a></li>
 </ul></div>
 

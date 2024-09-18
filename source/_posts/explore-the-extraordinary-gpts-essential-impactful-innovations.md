@@ -1,7 +1,7 @@
 ---
 title: "Explore the Extraordinary: GPT's Essential, Impactful Innovations"
-date: 2024-09-11T19:46:45.221Z
-updated: 2024-09-12T19:46:45.221Z
+date: 2024-09-17T10:23:38.362Z
+updated: 2024-09-18T03:06:32.695Z
 tags:
   - chatgpt
   - open-ai
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 ![Split image into quadrants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/split-image-into-quadrants.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this other example, we uploaded an image and asked ChatGPT to blur out the face in the picture.
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
@@ -79,23 +72,9 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
@@ -111,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Read, Edit and Create Documents
 
  File handling is undoubtedly one of Code Interpreter's strongest suits. The capabilities of the Code Interpreter extend far beyond just processing image, audio and video files.
@@ -124,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
  Think of any twist you can encounter in real life usage. If it involves creating or reading from documents of any kind, there's a good chance the Code Interpreter plugin will be able to deal with it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Write and Analyze Code
@@ -144,25 +130,11 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -185,16 +157,18 @@ thumbnail: https://thmb.techidaily.com/5a4d47d2bc28159ccd90a432752164871c06ebbca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-cant-see-cursor-only-sony-a6400-glitch/"><u>[Updated] 2024 Approved Can't See, Cursor Only - Sony A6400 Glitch</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-step-into-mobile-entertainment-funimates-apk-pathway/"><u>[Updated] 2024 Approved Step Into Mobile Entertainment Funimate's APK Pathway</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-achieve-cinematic-quality-with-sims-4-recordings/"><u>[Updated] Achieve Cinematic Quality with Sims 4 Recordings</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-rapid-rendering-sounds-with-visuals/"><u>[Updated] Rapid Rendering Sounds with Visuals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-versus-ai-the-battle-of-chatgpt-vs-huggingchat-for-top-notch-communication/"><u>AI Versus AI: The Battle of ChatGPT Vs. HuggingChat for Top-Notch Communication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-ai-is-revolutionizing-dating-the-dark-side-of-tech-in-romance-frauds/"><u>How AI Is Revolutionizing Dating: The Dark Side of Tech in Romance Frauds</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-samsung-galaxy-a15-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Samsung Galaxy A15 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-wise-to-use-chatgpt-for-mobile-insights-and-considerations/"><u>Is It Wise to Use ChatGPT for Mobile? Insights and Considerations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-ai-techniques-top-7-tips-that-work/"><u>Smart AI Techniques: Top 7 Tips That Work</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-12plus-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme 12+ 5G Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-potential-the-sixfold-impact-of-chatgpt-on-smartwatch-technology/"><u>Unleashing Potential: The Sixfold Impact of ChatGPT on Smartwatch Technology</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-rejuvenated-dialogue-ideas-to-hook-listeners/"><u>[Updated] Rejuvenated Dialogue Ideas to Hook Listeners</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-your-creative-potential-with-windows-11-movie-maker/"><u>2024 Approved Unlock Your Creative Potential with Windows 11 Movie Maker</u></a></li>
+<li><a href="https://techtrends.techidaily.com/asus-unveils-the-first-ever-gaming-desktop-pc-the-rog-nuc-with-core-ultra-9-processors-and-rtx-letech-rtx-4070-graphics-available-from-1629/"><u>Asus Unveils the First-Ever Gaming Desktop PC - The ROG NUC with Core Ultra 9 Processors and RTX Letech RTX 4070 Graphics, Available From $1,629.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-guide-changing-your-apple-id-password-in-2020/"><u>Complete Guide: Changing Your Apple ID Password in 2020</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/github-copilot-vs-chatgpt-determining-the-superior-ai-tool-for-coding/"><u>GitHub Copilot Vs. ChatGPT: Determining the Superior AI Tool for Coding</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-identifying-top-video-capturing-tools-for-win11/"><u>In 2024, Identifying Top Video Capturing Tools for Win11</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-step-by-step-tutorial-troubleshooting-and-fixing-patreon-video-downloads/"><u>Ultimate Step-by-Step Tutorial: Troubleshooting and Fixing Patreon Video Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-how-to-get-and-use-youtube-go-on-windows-and-mac-computers/"><u>Ultimate Tutorial: How To Get and Use YouTube Go on Windows & Mac Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/watching-h264-encoded-videos-on-windows-media-player-a-step-by-step-guide/"><u>Watching H.264 Encoded Videos on Windows Media Player: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-1011-macmp3wav/"><u>Windows 10/11, Mac用のMP3からWAVへ自由な変換ツール：ベストプラクティスと無料サイトリファレンス</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/working-around-limitations-managing-unsupported-video-types-on-lightworks-platform/"><u>Working Around Limitations: Managing Unsupported Video Types on Lightworks Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-10-dvd-mpeg-4-mkv-avi-wmv/"><u>ダイナミックなWindows 10 DVDコピーツール集 - MPEG-4, MKV, AVI, WMVへの最適化</u></a></li>
 </ul></div>
 

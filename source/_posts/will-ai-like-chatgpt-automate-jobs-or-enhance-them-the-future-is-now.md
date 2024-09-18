@@ -1,7 +1,7 @@
 ---
 title: Will AI Like ChatGPT Automate Jobs or Enhance Them? The Future Is Now
-date: 2024-09-11T19:43:49.086Z
-updated: 2024-09-12T19:43:49.086Z
+date: 2024-09-17T12:11:42.907Z
+updated: 2024-09-18T07:05:49.921Z
 tags:
   - chatgpt
   - open-ai
@@ -20,25 +20,11 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,19 +37,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -80,15 +53,22 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -97,20 +77,6 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -135,20 +101,17 @@ thumbnail: https://thmb.techidaily.com/d24bf389d1254603d8aad9f86f16f5f0cd9be072e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-innovative-techniques-to-enhance-your-obs-broadcasts-android-for-2024/"><u>[New] Innovative Techniques to Enhance Your OBS Broadcasts (Android) for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-diversifying-audience-across-30plus-online-venues/"><u>[Updated] 2024 Approved Diversifying Audience Across 30+ Online Venues</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-eliminating-oculus-sickness-key-tactics/"><u>[Updated] Eliminating Oculus Sickness Key Tactics</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-rapid-methods-for-capturing-digital-conference-sessions-for-2024/"><u>[Updated] Rapid Methods for Capturing Digital Conference Sessions for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-prime-top-5-virtual-reality-drones/"><u>2024 Approved Prime Top 5 Virtual Reality Drones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-data-leaks-understanding-botnet-vulnerabilities/"><u>Avoiding Data Leaks: Understanding Botnet Vulnerabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypass-pitfalls-with-expert-advice-on-avoiding-6-key-chatgpt-mistakes/"><u>Bypass Pitfalls with Expert Advice on Avoiding 6 Key ChatGPT Mistakes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-ai-be-a-friend-or-foe-to-psychological-care-exploring-the-effects-on-treatment-and-support-services/"><u>Can AI Be a Friend or Foe to Psychological Care? Exploring the Effects on Treatment and Support Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-for-developing-persuasive-business-proposals-that-close-deals/"><u>ChatGPT Secrets for Developing Persuasive Business Proposals That Close Deals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/child-friendly-gpt-interactions-the-essential-5-tips/"><u>Child-Friendly GPT Interactions: The Essential 5 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-6-affordable-replacements-for-openai-sora-that-offer-free-trials/"><u>Discover 6 Affordable Replacements for OpenAI Sora That Offer Free Trials</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-lively-film-reader-assessment/"><u>In 2024, Lively Film Reader Assessment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/master-recommendations-elite-ios-sound-artists/"><u>Master Recommendations Elite iOS Sound Artists</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-conversion-from-dall-es-webp-images-to-png-jpg/"><u>Seamless Conversion From DALL-E's WebP Images to PNG, JPG</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac-for-2024/"><u>[New] From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ultimate-rotation-video-mounting-for-2024/"><u>[Updated] Ultimate Rotation Video Mounting for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-iphone-landscape-mastery-tips-that-work-like-magic/"><u>2024 Approved IPhone Landscape Mastery Tips That Work Like Magic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-safety-of-user-conversations/"><u>ChatGPT: Safety of User Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clade-to-victory-beating-chatgpt-in-the-ai-arena/"><u>Clade to Victory: Beating ChatGPT in the AI Arena</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-the-integration-of-chatgpt-and-whisper-apis-transforms-business-potential/"><u>How the Integration of ChatGPT & Whisper APIs Transforms Business Potential</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-harness-the-power-of-chatgpt-on-macos-systems/"><u>How to Harness the Power of ChatGPT on macOS Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-google-pixel-8-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Google Pixel 8? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-new-horizons-the-7-pivotal-ways-ai-will-shape-employment-trends/"><u>Navigating New Horizons: The 7 Pivotal Ways AI Will Shape Employment Trends</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-the-maze-of-personal-style-and-business-identity-for-2024/"><u>Navigating the Maze of Personal Style & Business Identity for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-8-must-play-mobile-games-of-the-year/"><u>Top 8 Must-Play Mobile Games of the Year</u></a></li>
 </ul></div>
 

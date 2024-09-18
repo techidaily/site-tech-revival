@@ -1,7 +1,7 @@
 ---
 title: "Understanding ChatGPT's Custom Command Capability: Uses & Applications"
-date: 2024-09-11T19:42:06.158Z
-updated: 2024-09-12T19:42:06.158Z
+date: 2024-09-16T20:08:20.482Z
+updated: 2024-09-18T09:06:56.819Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
 ![Todo list app by Google's Gemini](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/todo-list-app-by-google-s-gemini.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I carried out a second test, this time asking both chatbots to recreate the Twitter (X.com) feed. ChatGPT produced a vintage-style Twitter feed with a functional tweeting feature. I could type into the text box, send a tweet, and have it loaded dynamically onto the page. It wasn't the Twitter feed I hoped for, but considering most of ChatGPT's training data is flooded with legacy Twitter code, the results are understandable.
 
 ![Twitter (X.com) feed clone by ChatGPT-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/twitter-x-com-feed-clone-by-chatgpt-1.png)
@@ -71,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
  Unfortunately, in this round, Google's Gemini wasn't able to provide functional code. It generated hundreds of lines of JavaScript code, but there were too many placeholders that needed to be filled in with missing logic. If you’re in a hurry, such placeholder-heavy code wouldn't be particularly helpful, as it would still require heavy development work. In such cases, it might be more efficient to write the code from scratch.
 
  I tried a few other basic coding tasks, and in all instances, ChatGPT's solution was clearly the better option.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Debugging and Error Detection
 
@@ -92,16 +71,10 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 ![Gemini fails to spot a logical error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gemini-fails-to-spot-a-logical-error.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  None of Gemini’s three attempts at solving the problem were accurate. I tried a similar problem six months ago with the same disappointing result; it seems Gemini has not improved in this area.
@@ -110,24 +83,18 @@ thumbnail: https://thmb.techidaily.com/cb833d2c06ebc2c32cdbed9ef9e234accd8f52067
 
 ![ChatGPT spots logical error in code](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-spots-logical-error-in-code.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Gemini also rewrote the code to fix the error:
 
 ![ChatGPT rewrites code to fix logical error](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-rewrites-code-to-fix-logical-error.png)
 
  After trying a few other bug-hunting and fixing tasks, ChatGPT was clearly better at the job. Gemini wasn't totally a lost cause, though. It was able to fix a lot of syntax errors I threw at it, but it struggled with complex errors, especially logical errors.
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Context Awareness
 
@@ -143,13 +110,6 @@ Gemini also rewrote the code to fix the error:
 
  Unfortunately, when I first tried Gemini (then called Bard) on the same project, it lost track of the project's context and failed to complete the app. Several rounds of updates later, I retested Gemini on the same project, and it seems to have deteriorated further. So, once again, in terms of context awareness, ChatGPT wins.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Problem-Solving
 
  At this point, Google's Gemini is lacking in a lot of ways. But can it finally score a win? Let's test its problem-solving abilities. Sometimes you just have a problem, but you aren't sure how to represent it programmatically, let alone how to solve it.
@@ -160,16 +120,22 @@ Here is the result from Google's Gemini:
 
 ![Gemini fails to make an optimized Javascript function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gemini-fails-to-make-an-optimized-javascript-function.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And here is the result from ChatGPT:
 
 ![ChatGPT attempts to create a function to count words in a text segment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-attempts-to-create-a-function-to-count-words-in-a-text-segment.png)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At first, both approaches look pretty solid. Gemini's approach even looks concise. However, ChatGPT's code takes a more robust and accurate approach to counting word occurrences in a text. It considers word boundaries and case sensitivity, handling punctuation properly, and giving more reliable results. Once again, ChatGPT is superior.
 
@@ -184,10 +150,10 @@ And here is the result from ChatGPT:
 ![ChatGPT agrees with Gemini's assessement of its abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-agrees-with-gemini-s-assessement-of-its-abilities.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now, while this seems quite normal, there's an interesting twist here. Throughout most of last year, Gemini (then Bard) always confidently asserted it could produce better code, was more efficient, and made fewer mistakes. Here is a screenshot from one of my tests in November 2023:
@@ -197,10 +163,10 @@ And here is the result from ChatGPT:
 It seems that Gemini is now a little more self-aware and modest!
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Programming Features
@@ -210,13 +176,6 @@ It seems that Gemini is now a little more self-aware and modest!
  ChatGPT offers an array of features that can streamline the programming process when using the chatbot. Useful additions like Memory and Custom GPT let you customize ChatGPT for your specific programming needs.
 
  For example, the Custom GPT feature can help you create specialized mini versions of ChatGPT for particular projects, by uploading relevant files. This makes tasks like debugging code, optimization, and adding new features much simpler. Overall, compared to Google's Gemini, ChatGPT includes more features that can enhance your programming experience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is in a League of Its Own
 
@@ -239,20 +198,18 @@ It seems that Gemini is now a little more self-aware and modest!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unveiling-the-most-effective-internet-tools-for-caption-perfection/"><u>[New] Unveiling the Most Effective Internet Tools for Caption Perfection</u></a></li>
-<li><a href="https://extra-information.techidaily.com/curiosity-commerce-the-ultimate-list-of-mystery-boxes-purchasers-hubs/"><u>Curiosity Commerce The Ultimate List of Mystery Boxes Purchasers' Hubs</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhancing-video-playback-with-ai-seamless-frame-insertion-for-higher-fps-and-fluid-motion/"><u>Enhancing Video Playback with AI: Seamless Frame Insertion for Higher FPS and Fluid Motion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/financial-forecast-through-emojis-lessons-from-the-activision-hack-scandal-and-preparing-for-an-ai-workforce-revolution-with-chatgpt-technologies/"><u>Financial Forecast Through Emojis, Lessons From the Activision Hack Scandal, and Preparing for an AI Workforce Revolution with ChatGPT Technologies</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-python-dll-error-what-to-do-when-you-cant-find-python24dll/"><u>Fixing Python DLL Error: What to Do When You Can't Find python24.dll</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-repair-a-non-functional-razer-kraken-microphone/"><u>How to Repair a Non-Functional Razer Kraken Microphone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-unbrick-a-dead-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-nearby-areas-for-an-immersive-roblox-experience/"><u>In 2024, Navigating Nearby Areas for an Immersive Roblox Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insights-into-googles-advanced-ai-an-examination-of-the-gemini-project/"><u>Insights Into Google's Advanced AI: An Examination of the Gemini Project</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-edit-flv-videos-like-a-pro-top-5-free-tools/"><u>New In 2024, Edit FLV Videos Like a Pro Top 5 Free Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/smooth-and-swift-windows-11s-updated-acer-drivers/"><u>Smooth and Swift: Windows 11'S Updated Acer Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-risks-of-relying-on-chatgpt-for-text-summarization-why-it-may-not-be-ideal/"><u>The Risks of Relying on ChatGPT for Text Summarization: Why It May Not Be Ideal</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-10-chatgpt-extensions-for-quick-and-easy-pdf-documentation/"><u>The Ultimate List of 10 ChatGPT Extensions for Quick and Easy PDF Documentation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-for-combining-gpt-3-with-python-programming/"><u>The Ultimate Walkthrough for Combining GPT-3 with Python Programming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-note-taking-game-with-powerful-chatgpt-techniques/"><u>Transform Your Note-Taking Game with Powerful ChatGPT Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-innovate-your-screenshots-unveiling-ezvides-screen-casting-features/"><u>[Updated] 2024 Approved Innovate Your Screenshots Unveiling EZvide's Screen Casting Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagrams-mirror-reflecting-true-selfie-essence/"><u>[Updated] 2024 Approved Instagram's Mirror Reflecting True Selfie Essence</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-best-editors-for-diy-dji-film-production-at-home/"><u>2024 Approved Best Editors for DIY DJi Film Production at Home</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-integration-into-dev-practices/"><u>AI Integration Into Dev Practices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-academia-are-conventional-essay-assignments-becoming-a-thing-of-the-past/"><u>ChatGPT and Academia: Are Conventional Essay Assignments Becoming a Thing of the Past?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/elevating-your-experiences-advanced-gopro-time-lapse-tactics-for-2024/"><u>Elevating Your Experiences Advanced GoPro Time-Lapse Tactics for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ending-the-hush-proven-methods-to-correct-lapsotp-speakers-not-producing-sound/"><u>Ending the Hush: Proven Methods to Correct Lapsotp Speakers Not Producing Sound</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-choose-vr-headset-in-2024-mobile-vr-or-tethered-vr/"><u>How to Choose VR Headset, In 2024 Mobile VR or Tethered VR?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-infinix-smart-7-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Infinix Smart 7 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/language-mastery-face-off-determining-the-best-between-chatgpt-and-google-translate-for-seamless-communication/"><u>Language Mastery Face-Off: Determining the Best Between ChatGPT and Google Translate for Seamless Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-20-chatgpt-conversations-on-github-examples/"><u>Leading 20 ChatGPT Conversations on GitHub Examples</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-gen-search-microsoft-upgrades-bing-with-ai-technology/"><u>Next-Gen Search: Microsoft Upgrades Bing with AI Technology</u></a></li>
 </ul></div>
 

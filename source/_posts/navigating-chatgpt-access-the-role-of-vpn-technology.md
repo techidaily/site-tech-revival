@@ -1,7 +1,7 @@
 ---
 title: "Navigating ChatGPT Access: The Role of VPN Technology"
-date: 2024-09-11T19:46:18.137Z
-updated: 2024-09-12T19:46:18.137Z
+date: 2024-09-16T16:09:19.744Z
+updated: 2024-09-17T20:09:43.795Z
 tags:
   - chatgpt
   - open-ai
@@ -22,23 +22,9 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What You Need to Know About AI Chatbots
 
 ![AI robot using a virtual touch screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/ai-robot-using-a-virtual-touch-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Artificial general intelligence has been a goal of computer scientists for decades, and AI has served as a mainstay for science fiction writers and moviemakers for even longer.
 
@@ -54,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -70,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
 
@@ -88,16 +60,22 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -112,16 +90,10 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
@@ -140,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -154,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/948ca341d15cde5d0f54616ed06f4255209470f04
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
 
@@ -194,21 +166,21 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-master-review-unveiling-the-full-potential-of-android-lightroom/"><u>[New] 2024 Approved Master Review Unveiling the Full Potential of Android Lightroom</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-free-guide-recording-youtube-videos-on-screencasts-for-2024/"><u>[Updated] Free Guide Recording YouTube Videos on Screencasts for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-tips-for-crafting-youtube-image-marketing/"><u>[Updated] In 2024, Essential Tips for Crafting YouTube Image Marketing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-visionvoice-tips-for-perfectly-sized-insta-posts-for-2024/"><u>[Updated] VisionVoice Tips for Perfectly Sized Insta Posts for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artistic-integrity-vs-tech-might-the-sarah-silverman-suit/"><u>Artistic Integrity Vs. Tech Might: The Sarah Silverman Suit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-showdown-unveiling-our-findings-on-le-chat-versus-chatgpt-from-mistral-ai/"><u>Chatbot Showdown: Unveiling Our Findings on Le Chat versus ChatGPT From Mistral AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-ai-assistant-how-to-determine-if-claude-or-chatgpt-fits-your-needs/"><u>Choosing the Right AI Assistant: How to Determine if Claude or ChatGPT Fits Your Needs</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-vocabulary-unveiled-mastering-29-key-terms-in-artificial-intelligence/"><u>Essential Vocabulary Unveiled: Mastering 29 Key Terms in Artificial Intelligence</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/game-smoothness-restored-how-to-stop-lag-and-increase-fps-in-black-ops-4/"><u>Game Smoothness Restored: How to Stop Lag & Increase FPS in Black Ops 4</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-asus-touchpad-driver-compatible-with-your-windows-11-laptop/"><u>How to Get the Latest ASUS Touchpad Driver Compatible with Your Windows 11 Laptop</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor Magic 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openai-and-sam-altman-a-ceo-exit-potential-effect-on-chatgpt-services/"><u>OpenAI and Sam Altman: A CEO Exit - Potential Effect on ChatGPT Services</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/sea-of-thieves-wont-launch-here-are-the-fixes-you-need-to-know/"><u>Sea of Thieves Won't Launch? Here Are the Fixes You Need to Know</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-communication-chatgpt-and-android/"><u>The Future of Communication - ChatGPT & Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unmasked-ai-deep-dive-anti-vpn-action/"><u>Unmasked AI Deep Dive, Anti-VPN Action</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-visual-clarity-for-remote-communications-with-ease/"><u>[New] Mastering Visual Clarity for Remote Communications with Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-5-best-live-streaming-webcamscameras-for-twitch/"><u>[New] Top 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023-comprehensive-grip-on-visualcutter-software-review/"><u>2023 Comprehensive Grip on VisualCutter Software Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iuwlleeuuplusoduplusmfsplusalveockuwgjeeunplusobmeociplusobnplusocgeobruodluodqeocpuoctuakgoihkplusocroocpooditrop6pmsbrnrzbjgavvj8i/"><u>動画・音楽を再生するためのブラウザ技術ガイド:解決策は？</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-anker-super-bright-headlamp-evaluation-sturdy-illumination-for-adventure/"><u>Comprehensive Anker Super Bright Headlamp Evaluation: Sturdy Illumination for Adventure</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-drivers-for-acer-computer-monitors/"><u>Download Drivers for Acer Computer Monitors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-reducing-bandwidth-by-streaming-audio-only-on-youtube/"><u>Effective Strategies for Reducing Bandwidth by Streaming Audio-Only on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-batch-upgrade-your-music-library-by-changing-shn-to-lossless-flac-format/"><u>Efficiently Batch Upgrade Your Music Library by Changing SHN to Lossless FLAC Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-dvd-to-mkv-conversion-for-users-of-windows-11-and-10-a-step-by-step-guide/"><u>Effortless DVD-to-MKV Conversion for Users of Windows 11 & 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-how-to-transform-your-m4v-files-into-mp3-format-on-a-windows-pc/"><u>Effortless Guide: How to Transform Your M4V Files Into MP3 Format on a Windows PC</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-y27-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-instant-music-downloads-master-the-quick-guide-to-securing-every-track-on-hearthisat-now/"><u>Free Instant Music Downloads! Master the Quick Guide to Securing Every Track on Hearthis.at Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-or-update-your-canon-mg3022-drivers-free-downloads-available-now/"><u>Install or Update Your Canon MG3022 Drivers - Free Downloads Available Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphoneipaddvd/"><u>IPhone/iPadでDVD音声ファイルを移動するための簡単ガイド</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-5-essential-factors-to-evaluate-when-shopping-for-a-health-monitoring-wristband/"><u>Top 5 Essential Factors to Evaluate When Shopping for a Health Monitoring Wristband</u></a></li>
 </ul></div>
 

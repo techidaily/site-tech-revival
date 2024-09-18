@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Academic Success: Tips on Proper Usage for Students"
-date: 2024-09-11T19:45:19.372Z
-updated: 2024-09-12T19:45:19.372Z
+date: 2024-09-12T08:43:24.823Z
+updated: 2024-09-18T12:10:34.952Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -55,36 +48,15 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
  With GPT-4 already adept at handling image inputs and outputs, improvements covering audio and video processing are the next milestone for OpenAI, and GPT-5 is a good place to start. Google is already making serious headway with this sort of multimodality with its Gemini AI model. It would be uncharacteristic of OpenAI not to respond. But, of course, don't take our word for it. In his[Unconfuse Me podcast](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/f0d6c3f0-00cc-4ab6-93cc-7f1d7fd3246e/Unconfuse-Me-with-Bill-Gates-episode-6-TGN-transcript.pdf) \[PDF transcript\], Bill Gates asked OpenAI CEO Sam Altman what milestones he foresaw for the GPT series in the next two years. His first answer? Video Processing.
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -94,22 +66,21 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. GPT Agents
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
@@ -125,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
  GPT Agents promises specialized expert bots coordinated by, hopefully, GPT-5 capable of self-prompting and tackling all subsets of a complex task autonomously. Emphasis on "self-prompting" and "autonomous."
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Less Hallucination
 
@@ -153,19 +131,20 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-optimizing-game-streams-through-ai-facial-recognition/"><u>[Updated] Optimizing Game Streams Through AI Facial Recognition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/declutter-digital-life-leaving-chatgpt-behind/"><u>Declutter Digital Life - Leaving ChatGPT Behind</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/discovering-the-many-forms-of-windows-movie-maker-for-2024/"><u>Discovering the Many Forms of Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-v29-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo V29 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/microsoft-edges-latest-unwanted-alert-understanding-windows-new-popup-feature/"><u>Microsoft Edge's Latest Unwanted Alert: Understanding Windows' New Popup Feature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-legal-hurdles-with-chatgpt-the-latest-evolution-of-google-news-feeds-and-secrets-to-enhanced-internet-access-on-the-go/"><u>Overcoming Legal Hurdles with ChatGPT, The Latest Evolution of Google News Feeds & Secrets to Enhanced Internet Access on the Go</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/paramount-8-chatgpt-directions-to-curtail-digital-diversion/"><u>Paramount 8 ChatGPT Directions to Curtail Digital Diversion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/prime-hash-monitoring-apps-for-social-media-giants-fb-tweetinsta-for-2024/"><u>Prime Hash Monitoring Apps for Social Media Giants (FB, Tweet/Insta) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-changing-dall-e-3-creations-from-webp-format-to-jpgpng/"><u>Simple Steps: Changing DALL-E ^3 Creations From WebP Format to JPG/PNG</u></a></li>
-<li><a href="https://win11.techidaily.com/taming-erratic-errors-from-wins-protection-suite/"><u>Taming Erratic Errors From WINS Protection Suite</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-90-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor 90 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-giant-llms-a-comprehensive-review/"><u>Top 6 Giant LLMs: A Comprehensive Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unlocking-the-secrets-of-successful-igtv-posts/"><u>Unlocking the Secrets of Successful IGTV Posts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unpacking-the-hazards-of-gpt-phone-apps/"><u>Unpacking the Hazards of GPT Phone Apps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-bridging-moments-a-kinemaster-guide-to-transitions/"><u>[New] 2024 Approved Bridging Moments A Kinemaster Guide to Transitions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-halting-real-time-recordings-on-qt-player/"><u>[New] In 2024, Halting Real-Time Recordings on QT Player</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-12-top-tier-cameras-that-will-transform-your-vlogging-experience-for-2024/"><u>[Updated] 12 Top-Tier Cameras That Will Transform Your Vlogging Experience for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-live-streaming-platforms-analyzing-obs-and-twitch-studio/"><u>[Updated] 2024 Approved Live Streaming Platforms Analyzing OBS and Twitch Studio</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-beginner-friendly-steps-to-record-your-mac-display-for-2024/"><u>[Updated] Beginner-Friendly Steps to Record Your Mac Display for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-meme-titans-reddit-and-twitters-biggest-sensations/"><u>[Updated] The Meme Titans Reddit & Twitter's Biggest Sensations</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-user-manual-how-to-activate-a-meta-oculus-quest-or-quest-2-device/"><u>Complete User Manual: How to Activate a Meta (Oculus) Quest or Quest 2 Device</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-on-iphone-8-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email On iPhone 8? Heres the Best Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-tips-how-to-switch-between-quicktime-and-other-video-formats-for-pcs-and-macbooks/"><u>Quick Tips: How to Switch Between QuickTime and Other Video Formats for PCs & MacBooks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rescuing-missing-content-with-wonderfoxs-innovative-search-solutions/"><u>Rescuing Missing Content with WonderFox's Innovative Search Solutions!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-guide-simple-steps-to-transforming-wma-files-into-wav-format/"><u>Seamless Guide: Simple Steps to Transforming WMA Files Into WAV Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-techniques-for-importing-mkv-content-in-sony-vegas-without-glitches/"><u>Seamless Techniques for Importing MKV Content in Sony Vegas without Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-cropping-videos-in-vlc-media-player/"><u>Step-by-Step Guide to Cropping Videos in VLC Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mka-files-into-aac-format-on-your-windows-pc/"><u>Step-by-Step Guide: Transforming MKA Files Into AAC Format on Your Windows PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-how-to-modify-and-convert-mov-video-files-in-windows-environments/"><u>Step-by-Step Tutorial: How to Modify and Convert MOV Video Files in Windows Environments</u></a></li>
 </ul></div>
 

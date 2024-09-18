@@ -1,7 +1,7 @@
 ---
 title: "Trustworthiness in Tech-Tips: Evaluating ChatGPT/Bard's Claims"
-date: 2024-09-11T19:45:28.531Z
-updated: 2024-09-12T19:45:28.531Z
+date: 2024-09-14T22:24:31.651Z
+updated: 2024-09-17T22:28:22.496Z
 tags:
   - chatgpt
   - open-ai
@@ -24,19 +24,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT's Potential for Improving Wellness
 
  When it comes to wellness information, there are several benefits of using an AI tool, such as ChatGPT:
@@ -46,31 +33,11 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 * The AI tool can tailor its advice to your specific circumstances. For instance, it allows you to set parameters and ask follow-up questions so that it can better understand your needs and goals, which can lead to more personalized recommendations.
 * ChatGPT is easy to use. If you can think and type, you can use ChatGPT. Eventually, as tech companies integrate these systems into voice assistants, you might not even need to do the typing! This makes ChatGPT accessible to people of varying ages and technical abilities.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Examples of How ChatGPT Can Be Used for Health and Fitness Advice
 
  There are several use cases for ChatGPT in the realm of health and wellness. For starters, you could use the AI tool to provide you with nutrition advice, including general recommendations on healthy eating habits.
 
 ![Screenshot of ChatGPT giving health advice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/screenshot-2023-02-09-at-1-48-14-pm.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It can also be used to generate advice on weekly meal plans based on your body type, sex, activity level, age, food preferences, and health goals (whether you want to lose weight, gain muscle, or something else).
 
@@ -79,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
  When it comes to sleeping better, the AI model can offer you tips and recommendations for improving sleep hygiene, such as helping you create a wind-down routine or offering advice on how to create a relaxing, sleep-inducing environment.
 
  You could also use ChatGPT to provide information on how to maintain a healthy lifestyle, including how to protect yourself from illness. Or you can ask it to make recommendations for cancer screenings based on your factors (e.g. age, sex, and family history).
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Limitations of Relying on ChatGPT for Health and Fitness Advice
 
@@ -98,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
  If you're going to use ChatGPT as one source of health and fitness advice, there are some tips and tricks you can follow to improve the quality of information you receive.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tips and Tricks for Improving Relevance of Health and Fitness Recommendations
@@ -114,10 +74,10 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 * **Be specific** . The information provided by ChatGPT will be as specific as you ask it to be. For instance, if you ask it simple, single-sentence questions such as, "How can I lose weight?" you'll get general responses. However, if you figure out how to focus the model with parameters and guidelines, it is more likely to provide the advice you can use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can You Use ChatGPT to Get Trustworthy Health Information?
@@ -143,20 +103,16 @@ thumbnail: https://thmb.techidaily.com/2ce87a986250d8398be45eae1ecaf9f012f12535b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-premium-templates-for-panzoid-introduction/"><u>[New] In 2024, Premium Templates for Panzoid Introduction</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>[New] Streaming GoPro on Social Platforms A Step-by-Step Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-detailed-evaluation-razer-kiyo-webcam/"><u>[Updated] Detailed Evaluation Razer Kiyo Webcam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-ai-for-mental-support-and-resilience-building/"><u>Assessing AI for Mental Support and Resilience Building</u></a></li>
-<li><a href="https://win11.techidaily.com/constructing-an-audio-experience-beyond-boundaries-in-windows-11/"><u>Constructing an Audio Experience Beyond Boundaries in Windows 11</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/effortless-editing-in-obs-studio-with-top-5-hacks-for-2024/"><u>Effortless Editing in OBS Studio with Top 5 Hacks for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exiting-the-gpt-world-now/"><u>Exiting the GPT World – Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-a-flawless-download-and-installation-of-age-of-empires-iv-on-mstpc/"><u>Expert Tips for a Flawless Download and Installation of Age of Empires IV on MSTPC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-code-interpretation-abilities-a-deep-dive-into-its-crucial-function/"><u>Exploring ChatGPT's Code Interpretation Abilities - A Deep Dive Into Its Crucial Function</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y100t-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y100t FRP Locks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-your-job-safe-from-chatgpt-and-gen-ai-takeover/"><u>Is Your Job Safe From ChatGPT and Gen AI Takeover?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-search-experience-with-perplexity/"><u>Revolutionize Your Search Experience with Perplexity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-elite-collection-of-top-artificial-intelligence-markets-for-innovative-content-creation/"><u>The Elite Collection of Top Artificial Intelligence Markets for Innovative Content Creation</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-review-of-mobvoi-ticwatch-pro-3-exploring-enhanced-tracking-with-gps-and-revolutionary-extended-screen-for-better-battery-life/"><u>The Ultimate Review of Mobvoi TicWatch Pro 3 – Exploring Enhanced Tracking with GPS and Revolutionary Extended Screen for Better Battery Life</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unraveling-the-imovie-video-edge-policy/"><u>[Updated] 2024 Approved Unraveling the iMovie Video Edge Policy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-great-educational-video-for-youtube-in-2024/"><u>[Updated] How to Make a Great Educational Video for YouTube, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-universal-video-concepts-the-10-simplest-ideas-everyone-can-execute/"><u>2024 Approved Universal Video Concepts The 10 Simplest Ideas Everyone Can Execute</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snipping-toolwindows-11/"><u>画面キャプチャのためにSnipping ToolでWindows 11: 基本操作ガイド</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/altered-captions-a-video-guide/"><u>Altered Captions A Video Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-stills-to-movies-a-pixiz-tutorial-for-photo-animators/"><u>From Stills to Movies A Pixiz Tutorial for Photo Animators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionary-apple-integration-introducing-native-av1-hardware-decode-capability/"><u>Revolutionary Apple Integration: Introducing Native AV1 Hardware Decode Capability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-integrating-misfit-mods-into-your-personalized-kodi-interface/"><u>Step-by-Step Tutorial on Integrating Misfit Mods Into Your Personalized Kodi Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-recording-streaming-content-via-vlc-software-and-exploring-comparable-substitutes/"><u>Step-by-Step Tutorial on Recording Streaming Content via VLC Software & Exploring Comparable Substitutes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-converting-3g2-media-files-to-mp4-and-additional-variants/"><u>The Ultimate Guide: Converting 3G2 Media Files to MP4 & Additional Variants</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-11x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 11X 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

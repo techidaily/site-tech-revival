@@ -1,7 +1,7 @@
 ---
 title: "Mastering Creative Thinking: Generating Topics Using Mind Maps & ChatGPT"
-date: 2024-09-11T19:44:07.764Z
-updated: 2024-09-12T19:44:07.764Z
+date: 2024-09-14T19:39:32.014Z
+updated: 2024-09-18T11:20:55.672Z
 tags:
   - chatgpt
   - open-ai
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
  Number five is purely for visual presentation reasons. If you don’t add this, your game is going to use the default ChatGPT font and presentation instead of looking like the image below.
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, this is more compact and easier to look at than the default look.
 
@@ -117,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -147,10 +133,16 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
@@ -179,13 +171,6 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -199,13 +184,6 @@ And finally, don’t forget to actually start the game:
 > Start Game.
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
@@ -314,10 +292,10 @@ And finally, don’t forget to actually start the game:
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is This the Beginning of Open-Ended Gaming?
@@ -341,19 +319,21 @@ And finally, don’t forget to actually start the game:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1-live-stream-with-manycam-professional-virtual-camera-and-screen-capture-tools/"><u>1. 'Live Stream with ManyCam: Professional Virtual Camera and Screen Capture Tools'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-best-free-screen-recording-apps-manycam-and-live-streaming-tools/"><u>1. Best Free Screen Recording Apps: ManyCam & Live Streaming Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-integrating-technology-effective-school-vid-eds/"><u>2024 Approved Integrating Technology Effective School Vid Eds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/capture-your-moments-with-manycam-ultimate-live-video-editing-tools-and-fake-webcam-solution/"><u>Capture Your Moments with ManyCam: Ultimate Live Video Editing Tools & Fake Webcam Solution</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/elevate-your-wheel-to-peak-performance-using-gpt/"><u>Elevate Your Wheel to Peak Performance Using GPT</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-craft-an-effortless-facebook-photo-mosaic-for-2024/"><u>How to Craft an Effortless Facebook Photo Mosaic for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-100-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-x-flip-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo X Flip Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-realizing-your-cinematic-dreams-the-art-of-perfect-sound-in-videos/"><u>In 2024, Realizing Your Cinematic Dreams The Art of Perfect Sound in Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-crafting-customized-manycam-eye-filters-with-adobe-photoshop/"><u>Step-by-Step Guide: Crafting Customized ManyCam Eye Filters with Adobe Photoshop</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-blueprint-to-rip-and-burn-cds-with-windows-media-player-for-2024/"><u>The Ultimate Blueprint to Rip & Burn Cds with Windows Media Player for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcast-with-manycam-the-ultimate-solution-for-virtual-webcams-and-streaming-tech/"><u>Transform Your Broadcast with ManyCam - The Ultimate Solution for Virtual Webcams and Streaming Tech</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-creative-sound-discover-free-voice-alterations-for-2024/"><u>Unlocking Creative Sound Discover Free Voice Alterations for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/virtucam-xt-next-gen-live-video-editing-with-virtual-background-technology/"><u>VirtuCam XT: Next-Gen Live Video Editing with Virtual Background Technology</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-zoom-meetings-made-effortless-with-top-5-transcribers-reviewed/"><u>[New] 2024 Approved Zoom Meetings Made Effortless with Top 5 Transcribers Reviewed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unleashing-creativity-essential-tips-for-canva-pros/"><u>[New] In 2024, Unleashing Creativity Essential Tips for Canva Pros</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-secret-to-youtube-dominance-unveiled-by-creative-studio-insights/"><u>[Updated] 2024 Approved The Secret to YouTube Dominance Unveiled by Creative Studio Insights</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-xiaomi-14-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Xiaomi 14 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-clarity-web-based-high-definition-recorders-for-2024/"><u>Capturing Clarity Web-Based High-Definition Recorders for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-special-role-in-enterprise-settings/"><u>ChatGPT's Special Role in Enterprise Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3s-new-edit-features-an-overview-of-improvements-and-areas-requiring-enhancement/"><u>DALL-E 3'S New Edit Features: An Overview of Improvements and Areas Requiring Enhancement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-benefits-using-chatgpt-as-your-go-to-source-for-wellness-advice/"><u>Discover the Benefits: Using ChatGPT as Your Go-To Source for Wellness Advice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/experience-next-gen-performance-from-lenovos-international-yoga-ai-mini-desktop-37l-capacity-innovative-intel-cpus-and-classic-thinkcentre-design-elegance.m108/"><u>Experience Next-Gen Performance From Lenovo's International Yoga AI Mini Desktop: 3.7L Capacity, Innovative Intel CPUs, and Classic ThinkCentre Design Elegance</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-epic-historical-combat-showdowns-the-top-7-games/"><u>In 2024, Epic Historical Combat Showdowns – The Top 7 Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-viewing-tweeting-in-high-definition-hd/"><u>In 2024, Maximizing Viewing Tweeting in High Definition (HD)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-asus-rog-phone-7-ultimate-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Asus ROG Phone 7 Ultimate FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-the-release-of-gpt-5-imminent-anticipating-its-official-debut-date/"><u>Is the Release of GPT-5 Imminent? Anticipating Its Official Debut Date</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-your-writing-process-integrating-chatgpt-into-microsoft-word/"><u>Simplify Your Writing Process: Integrating ChatGPT Into Microsoft Word</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/techniques-to-block-chatgpts-storage-of-conversations/"><u>Techniques to Block ChatGPT's Storage of Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-settle-for-less-when-you-can-have-an-excellent-open-source-option-instead-of-waiting-for-chatgpt-desktop/"><u>Why Settle for Less When You Can Have an Excellent Open Source Option Instead of Waiting for ChatGPT Desktop?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Building Fantasy Realms with Language Models
-date: 2024-09-11T19:43:19.069Z
-updated: 2024-09-12T19:43:19.069Z
+date: 2024-09-15T01:57:28.914Z
+updated: 2024-09-18T08:39:44.116Z
 tags:
   - chatgpt
   - open-ai
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ![Screenshot of Custom GPT Resume Maestro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/resume-maestro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I built a custom GPT called "Resume Maestro." Once it receives a job post description, it immediately comes up with a resume with the right professional details included. It captures everything from names and contact details to work experience, educational history, and achievements. It also writes a cover letter that isn't just tailored to the job post but also aligns with personal experiences relevant to the job. Better still, its output is immediately available for download as a PDF or Word file, all under ten seconds.
 
  How did I do it? I uploaded dozens of resumes and cover letters written in the past. I also added resources on writing the perfect cover letters and resumes. This was topped off by providing links to my portfolios and uploading samples of high-performing cover letters and resumes I found online. The result? My personal resume expert that spits out resumes and cover letters akin to what I'd write.
@@ -49,19 +42,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ![Screenshot of Custom GPT called Pidgin Hero](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/pidgin-hero-description-card.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the weeks following ChatGPT's release, we tested[ChatGPT's ability to translate text compared to Google Translate](https://www.makeuseof.com/chatgpt-vs-google-translate-which-is-better-at-translation/) . While Google's translation tool performed admirably against the massive power that is ChatGPT, it struggled with certain languages like Pidgin English, a widely spoken Creole in parts of West Africa. Although ChatGPT was better in this aspect, it also struggled as well.
 
  To improve translation capabilities for Pidgin, I created a custom GPT for Pidgin translation. How? I fed it dozens of expert Pidgin dictionaries and linguistic resources. After re-testing ChatGPT against Google Translate on Pidgin text, the results were striking—ChatGPT significantly outperformed Google Translate by nearly all metrics. This example highlights the power of building custom GPTs for specific translation tasks, irrespective of language. With the right training data, these customized chatbots can surpass even the best general translation tools. Fancy playing around with Pidgin?
@@ -72,27 +52,20 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ![Custom chatgpt screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-chatgpt-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It is no news that[ChatGPT can write code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . It could write code since the days of GPT-3.5 and has improved significantly with the arrival of GPT-4 and the GPT-4 Turbo. However, although the chatbot is quite adept at solving programming problems, it doesn't perform particularly well within the context of a single project since it has a limited context window and cannot soak up all the details of a project to provide a context-specific solution.
 
  You can deploy custom GPTs to solve this problem. Simply prompt the chatbot to create a specialized GPT that focuses on the programming languages used in your project, then upload your entire project files, including a detailed description of what you're trying to build. Whenever you run into a problem with the project, prompt the GPTs, and you'll get a much more precise and relevant solution than you'd get from your regular ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Personal Movie Recommender
 
 ![movie recommender Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/movie-recommender-custom-gpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Let's be honest, Netflix can be horrible at suggesting what to watch next. I asked classic ChatGPT to recommend some historical Korean TV shows. I wanted shows with themes of power, royalty, heroism, and war. The result was a mixed bag. Some options were strong, while others seemed randomly selected based on popularity rather than relevance.
 
@@ -114,16 +87,16 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 **Try this GPT** :[Dungeon Weaver](https://chat.openai.com/g/g-BRT1bAbjI-dungeon-weaver) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Personal Tutor
 
 ![Custom GPT for Abstract math tutoring](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-abstract-math-tutoring.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Custom GPT models offer exciting new ways to accelerate learning and preparation, whether you're a student prepping for exams, a professional gearing up for interviews, or anyone looking to upskill rapidly. Leveraging GPT-4's vast context window, you can create specialized GPTs that serve as expert tutors on specific subjects. Feed them textbooks, course materials, flashcards, and other learning resources from the field you want to master.
 
@@ -134,22 +107,15 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 **Try this GPT** :[Abstract Math Genius](https://chat.openai.com/g/g-wFmBbvdm0-abstract-math-genius) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Niche Tools for Work
 
 ![Custom GPT for Work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/custom-gpt-for-work.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Could custom GPTs improve your workflow or automate tasks in your job? For many roles, the answer is yes. Consider your typical work responsibilities and identify repetitive or time-consuming areas that could benefit from AI assistance.
 
@@ -180,20 +146,20 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-the-moment-methods-for-online-audio-recording/"><u>[New] 2024 Approved Capturing the Moment Methods for Online Audio Recording</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-from-novice-to-nexus-earning-the-status-as-a-validated-discord-partner-for-2024/"><u>[New] From Novice to Nexus Earning the Status as a Validated Discord Partner for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-live-stream-perfection-an-experts-take-on-webcams/"><u>[Updated] 2024 Approved Live Stream Perfection An Expert's Take on WebCams</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-unlock-focus-power-instagram-stories-magnification-hacks/"><u>[Updated] In 2024, Unlock Focus Power Instagram Stories' Magnification Hacks</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-deep-dive-into-rank-tracker-solutions-for-peak-success-on-youtube/"><u>2024 Approved Deep Dive Into Rank Tracker Solutions for Peak Success on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/alternatives-to-downloading-the-chatgpt-app-improving-your-phone-use-without-it/"><u>Alternatives to Downloading the ChatGPT App: Improving Your Phone Use Without It</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ce-engagement-top-12-tactics-for-youtube-success-for-2024/"><u>Enhance Engagement Top 12 Tactics for YouTube Success for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-superiority-of-microsoft-copilot-with-4-essential-reasons-to-switch-from-chatgpt/"><u>Exploring the Superiority of Microsoft Copilot with 4 Essential Reasons to Switch From ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-conversations-to-code-crafting-a-web-application-using-chatgpt/"><u>From Conversations to Code: Crafting a Web Application Using ChatGPT</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/how-to-watch-facebook-live-in-2024/"><u>How to Watch Facebook Live, In 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-stutter-and-collapse-fixing-ready-or-not-pc-issues/"><u>Overcoming Stutter and Collapse: Fixing 'Ready or Not' PC Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scam-or-not-decoding-bingchats-crypto-claims/"><u>Scam or Not? Decoding BingChat's Crypto Claims</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-battle-of-ai-assistants-which-one-reigns-supreme-gemini-advanced-vs-chatgpt-plus/"><u>The Battle of AI Assistants: Which One Reigns Supreme – Gemini Advanced Vs. ChatGPT Plus?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-rise-of-googles-gemini-and-its-battle-against-chatgpt/"><u>The Rise of Google's Gemini and Its Battle Against ChatGPT</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/wealth-accumulation-mr-beasts-journey-for-2024/"><u>Wealth Accumulation Mr. Beast's Journey for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-compelling-stories-for-online-video-platforms-for-2024/"><u>[Updated] Crafting Compelling Stories for Online Video Platforms for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-iphone-photo-illumination-tricks/"><u>[Updated] Pro Iphone Photo Illumination Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-proven-paths-to-owning-successful-monetized-youtubes/"><u>[Updated] Proven Paths to Owning Successful Monetized Youtubes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fps-fanatics-compendium-selecting-superior-extensions/"><u>2024 Approved FPS Fanatics' Compendium Selecting Superior Extensions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-companionship-with-chatgpt-strategies-for-overcoming-loneliness/"><u>Embrace Companionship with ChatGPT: Strategies for Overcoming Loneliness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excels-efficacy-in-numeric-crunching-exceeds-chatbot-capabilities/"><u>Excel's Efficacy in Numeric Crunching Exceeds Chatbot Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-windows-11-installation-has-failed/"><u>How to Fix “Windows 11 Installation Has Failed”</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-strategies-how-chatgpt-aids-your-journey-in-crafting-a-novel/"><u>Top 9 Strategies: How ChatGPT Aids Your Journey in Crafting a Novel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-the-future-of-web-queries-microsofts-bing-evolves-with-advanced-ai/"><u>Transforming the Future of Web Queries: Microsoft's Bing Evolves with Advanced AI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-attraction-what-makes-chatgpt-a-prime-target-for-cybercriminals/"><u>Understanding the Attraction: What Makes ChatGPT a Prime Target for Cybercriminals?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-chatgpts-creation-process-is-plagiarism-a-concern/"><u>Unveiling ChatGPT's Creation Process - Is Plagiarism a Concern?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/which-is-the-best-llm-analyzing-bard-chatgpt-and-offline-alpacas-capabilities/"><u>Which Is the Best LLM? Analyzing Bard, ChatGPT and Offline Alpaca's Capabilities</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crafting Your First Poetry Anthology with ChatGPT: A Step-by-Step Guide"
-date: 2024-09-11T19:44:31.049Z
-updated: 2024-09-12T19:44:31.049Z
+date: 2024-09-12T12:01:14.404Z
+updated: 2024-09-18T12:29:04.084Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is a Vector Database?
 
  A vector database is a way to store information through the use of vectors. Unlike the usual form of databases that organize data as tabulated lists, vector databases organize data through high-dimensional vectors. These vectors can then be represented in mathematical space as vector embeddings.
@@ -41,36 +34,15 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
 
@@ -79,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
@@ -96,22 +74,16 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
@@ -149,19 +121,18 @@ thumbnail: https://thmb.techidaily.com/021b386908d2aab9987f3431f9451636e6368aada
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-maximizing-video-success-on-youtube-long-term-creativity-commons-strategy/"><u>[New] 2024 Approved Maximizing Video Success on YouTube Long-Term Creativity Commons Strategy</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-funimate-video-mastery-a-comprehensible-guide/"><u>[New] Funimate Video Mastery A Comprehensible Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-determining-your-promotion-budget-on-youtube/"><u>2024 Approved Determining Your Promotion Budget on YouTube</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nokia-c110-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nokia C110 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-7-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 7?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-matches-mac-and-pc-video-decoders-freepaid/"><u>In 2024, Ideal Matches Mac & PC Video Decoders (FREE/PAID)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/real-time-streaming-with-manycam-ultimate-livestream-and-virtual-camera-solution/"><u>Real-Time Streaming with ManyCam: Ultimate Livestream and Virtual Camera Solution</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-ultimate-guide-to-avchd-video-editing-software-for-2024/"><u>The Ultimate Guide to AVCHD Video Editing Software for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-choices-in-live-streaming-tools-manycam-xsplit-broadcaster-zonescreen-webcam-emulator/"><u>Top Choices in Live Streaming Tools: ManyCam, XSplit Broadcaster, ZoneScreen Webcam Emulator</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-using-manycam-cutting-edge-livestream-tech-and-remote-cam-devices/"><u>Transform Your Broadcasts Using ManyCam: Cutting-Edge Livestream Tech & Remote Cam Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-top-tier-live-video-and-webcam-technology/"><u>Transform Your Broadcasts with ManyCam - Top-Tier Live Video and Webcam Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-choice-in-live-video-software-and-virtual-cam-tech/"><u>Transform Your Broadcasts with ManyCam – The Leading Choice in Live Video Software and Virtual Cam Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-online-presence-with-manycams-advanced-virtual-webcam-solutions/"><u>Transform Your Online Presence with ManyCam's Advanced Virtual Webcam Solutions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-step-by-step-tutorial-on-video-angles-using-vlc/"><u>[New] A Step-by-Step Tutorial on Video Angles Using VLC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-using-b-roll-to-enhance-cinematic-quality/"><u>[New] Using B-Roll to Enhance Cinematic Quality</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ideal-video-snapper-for-your-chromebook/"><u>[Updated] In 2024, Ideal Video Snapper For Your Chromebook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tips-for-a-smooth-transition-into-vr-worlds/"><u>[Updated] Tips for a Smooth Transition Into VR Worlds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-inside-out-a-thorough-examination-of-dji-phantom-4/"><u>2024 Approved Inside Out A Thorough Examination of DJI Phantom 4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-solutions-to-tackle-non-functioning-videos-on-tumblr/"><u>Effortless Solutions to Tackle Non-Functioning Videos on Tumblr</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-techniques-cropping-mp4-videos-using-your-pc-or-online-tools/"><u>Effortless Techniques: Cropping MP4 Videos Using Your PC or Online Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-video-conversion-tutorial-changing-wmv-file-type-to-mp4-using-the-handbrake-software/"><u>Effortless Video Conversion Tutorial: Changing WMV File Type to MP4 Using the HandBrake Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-separate-singing-voices-from-music-tracks-top-3-free-tools-and-techniques/"><u>Effortlessly Separate Singing Voices From Music Tracks: Top 3 FREE Tools & Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tips-on-opening-vob-format-videos-with-ease/"><u>Essential Tips on Opening VOB Format Videos with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flvto-understanding-its-safety-and-legality-a-comprehensive-guide/"><u>FLVTO: Understanding Its Safety & Legality - A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-fix-an-lg-k51-stylo-67-solutions-with-and-without-computer-assistance/"><u>How to Fix an LG K51, Stylo 6/7: Solutions with and without Computer Assistance</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Yuva 3 | Dr.fone</u></a></li>
 </ul></div>
 

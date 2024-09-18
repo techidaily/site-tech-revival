@@ -1,7 +1,7 @@
 ---
 title: "Dive Into HuggingChat: The Affordable, Public Domain Option Versus ChatGPT"
-date: 2024-09-11T19:47:21.318Z
-updated: 2024-09-12T19:47:21.318Z
+date: 2024-09-13T07:06:43.690Z
+updated: 2024-09-18T03:14:35.798Z
 tags:
   - chatgpt
   - open-ai
@@ -48,46 +48,13 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ![Blurring a face using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/blurring-a-face-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Apart from these editing tricks, you can also extract relevant metadata from an image as well. You can specify the specific metadata you want to extract, or you can simply prompt ChatGPT to extract all relevant metadata from the attached image. That's not all. You can also create an image from scratch using the plugin.
 
  In the example below, we asked ChatGPT via the Code Interpreter to create a word cloud image containing the first names of the last 20 US presidents. It's not the best of examples, but it gives you an idea of what you can do.
 
 ![Word cloud created with ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/word-cloud-created-with-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Of course, you can ask it to change the background color or use a different font. There are a lot of ways you play around with images using the Code Interpreter plugin. If you are short of ideas, just upload an image and ask ChatGPT to tell you what tasks it can perform on the image.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Create and Edit Videos
 
@@ -105,29 +72,9 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ![Things you can do with a video using ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/things-you-can-do-with-a-video-using-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the example below, we asked ChatGPT to extract the audio from a small video file, and it did so in just a few seconds. The resulting audio file which was available for download was very crisp and clear.
 
 ![Extracting audio from a video file with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/extracting-audio-from-a-video-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While the Code Interpreter plugin can perform a lot of video-related operations, practical usage, at least for now, is quite limited due to the limited size of video it can handle. It's not very clear the maximum size of video files Code Interpreter can handle, but you'll typically run into memory issues with larger videos. For the best results, use smaller video files, with lower resolutions whenever possible.
 
@@ -142,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 * Adjust the sample rate, bit rate, or channels of an audio file
 * Trim an audio to a specific time range.
 * Overlay an audio file with another audio
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Read, Edit and Create Documents
 
@@ -169,24 +123,18 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
  Of course, when tested, the project worked flawlessly after it added the feature. It might run into obstacles sometimes, but undoubtedly, working with a large code base is one of the most useful functionalities of the Code Interpreter feature.
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Extract Text from Images (Optical Character Recognition)
 
  Have an image that contains text you need to copy? Code Interpreter can handle that with ease. Simply upload the image and ask ChatGPT to extract the text. It works great on screenshots, pictures of documents, images with superimposed text, and more.
 
  It can also handle distorted or blurry text as well as text in different fonts, sizes, styles, orientations, and colors. You could, say, ask ChatGPT to create an MS Word document from a scanned copy of a document you uploaded, and you'll get a result in seconds.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## A Powerful Tool at Your Fingertips
 
@@ -209,18 +157,19 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/1723209993082-fixed-ps4-nat-type-failed-step-by-step-guide/"><u>[Fixed] PS4 NAT Type Failed - Step by Step Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-enhancing-your-ig-presence-the-ultimate-tool-list/"><u>[New] 2024 Approved Enhancing Your IG Presence The Ultimate Tool List</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-deciphers-for-digital-content-creators-youtubes-keyword-techniques/"><u>[New] Deciphers for Digital Content Creators YouTube's Keyword Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unsubscribing-from-youtube-computer-and-mobile-techniques/"><u>[New] Unsubscribing From Youtube Computer & Mobile Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-proving-ground-8-outstanding-tablets-beyond-filmoras-borders/"><u>[Updated] Proving Ground 8 Outstanding Tablets Beyond Filmora's Borders</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-brief-overview-of-electric-car-evolution/"><u>A Brief Overview of Electric Car Evolution</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-tecno-spark-go-2023-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Tecno Spark Go (2023) via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-and-download-these-top-15-stunning-window-11-themes-for-free/"><u>Discover & Download These Top 15 Stunning Window 11 Themes for Free</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-chatgpt-effective-methods-for-response-refinement/"><u>Enhancing ChatGPT: Effective Methods for Response Refinement</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-from-ordinary-to-outstanding-making-effortless-slow-motion-videos-in-android/"><u>In 2024, From Ordinary to Outstanding Making Effortless Slow-Motion Videos in Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-a-guide-to-smarter-crypto-trading-tactics/"><u>Leveraging ChatGPT: A Guide to Smarter Crypto Trading Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-ai-enabled-microsoft-bing-application-on-your-android-device/"><u>Mastering the AI-Enabled Microsoft Bing Application on Your Android Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-eight-innovative-ways-to-utilize-auto-gpt-technology/"><u>Maximizing Productivity: Eight Innovative Ways to Utilize Auto-GPT Technology</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-most-valuable-maps-top-treasures-in-terraria/"><u>[Updated] In 2024, Most Valuable Maps Top Treasures in Terraria</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-up-your-content-quality-with-these-8-mirrorless-cams/"><u>[Updated] Step Up Your Content Quality with These 8 Mirrorless Cams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-sync-splice-and-spruce-pro-video-editing-in-one-tool-for-2024/"><u>[Updated] Sync, Splice & Spruce Pro Video Editing in One Tool for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-learn-the-basics-mastering-the-playback-of-wav-audio-files/"><u>1. Learn the Basics: Mastering the Playback of WAV Audio Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-steps-for-downloading-high-quality-video-content-from-youtube/"><u>1. Steps for Downloading High-Quality Video Content From YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition/"><u>2024 Approved Artisan's Nexus Reports In-Depth Studio Scrutiny, 2023 Edition</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-detailed-evaluation-gopro-silver-hero4/"><u>2024 Approved Detailed Evaluation GoPro Silver Hero4</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-your-yearly-list-prime-free-video-editing-software/"><u>2024 Approved Your Yearly List Prime Free Video Editing Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026731758-wav/"><u>音源データをWAVに変換する簡単ガイド：初心者用</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-innovative-solutions-for-compliant-website-tracking/"><u>Cookiebot: Innovative Solutions for Compliant Website Tracking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sharpen-your-viewing-experience-mastering-camera-focus-online/"><u>In 2024, Sharpen Your Viewing Experience Mastering Camera Focus Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-windows-8-flv-video-editor-simplify-your-video-editing-process/"><u>Updated Windows 8 FLV Video Editor Simplify Your Video Editing Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/vod-vod/"><u>VODレコード作成ガイド - ベストなVOD再生デバイスと使い方</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/zero-cost-access-to-your-own-custom-ringtones-discover-3-hands-on-strategies-today/"><u>Zero-Cost Access to Your Own Custom Ringtones: Discover 3 Hands-On Strategies Today!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Harness the Power of AI Writing Assistant: Microsoft Copilot Setup on Mac"
-date: 2024-09-11T19:41:05.567Z
-updated: 2024-09-12T19:41:05.567Z
+date: 2024-09-16T16:45:47.985Z
+updated: 2024-09-18T07:26:28.505Z
 tags:
   - chatgpt
   - open-ai
@@ -19,19 +19,6 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -62,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
@@ -76,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/afda68c97ad8ab431f217d1a649d9d5c1081b7b5e
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
 ![Claude escapes cliche writing example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-escapes-cliche.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides cliché, ChatGPT, more than Claude, tends to fall victim to the sporadic use of joining words like "in conclusion," "as a result," and a tendency for unnecessary emphasis where emphatic words like "undisputed, critical, unquestionable, must" etc., are used.
 
@@ -98,13 +71,6 @@ And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
 ## 2 Claude Offers Multimodality for Free
@@ -112,19 +78,19 @@ And here's Claude's take:
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Larger Context Window
@@ -166,16 +132,18 @@ And here's Claude's take:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-streamed-content-a-comprehensive-breakdown-for-2024/"><u>[Updated] Navigating Streamed Content A Comprehensive Breakdown for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advantages-of-using-the-chatgpt-desktop-version-a-comprehensive-comparison/"><u>Advantages of Using the ChatGPT Desktop Version: A Comprehensive Comparison</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-mixology-mastery-level/"><u>ChatGPT's Mixology Mastery Level?</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/how-to-use-emojis-on-windows-for-2024/"><u>How to Use Emojis on Windows for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-getting-acquainted-the-google-meet-pathway/"><u>In 2024, Getting Acquainted The Google Meet Pathway</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-v29-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo V29 Location | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-character-creation-with-these-11-powerful-chatgpt-phrases-for-authors/"><u>Master the Art of Character Creation with These 11 Powerful ChatGPT Phrases for Authors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-your-information-critical-insights-into-the-main-privacy-concerns-with-chatbots/"><u>Protecting Your Information: Critical Insights Into the Main Privacy Concerns with Chatbots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-end-of-easy-chatgpt-bypasses-exploring-7-reasons-for-their-ineffectiveness/"><u>The End of Easy ChatGPT Bypasses: Exploring 7 Reasons for Their Ineffectiveness</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/video-anonymity-tips-for-blurring-private-data-for-2024/"><u>Video Anonymity Tips for Blurring Private Data for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-seamless-online-media-dissemination-on-vimeo/"><u>2024 Approved Seamless Online Media Dissemination on Vimeo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-ancestry-revealing-its-historic-origins/"><u>AI Ancestry: Revealing Its Historic Origins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-options-chatgpt-with-internet-access-vs-chatgpt-add-ons-choosing-the-right-tool-for-your-needs/"><u>Comparing Options: ChatGPT with Internet Access Vs. ChatGPT Add-Ons - Choosing the Right Tool for Your Needs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/complete-activity-assessment-guide/"><u>Complete Activity Assessment Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-fresh-set-of-features-now-available-on-chatgpt-platform/"><u>Explore the Fresh Set of Features Now Available on ChatGPT Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-proficiency-of-chatgpt-in-solving-math-equations-and-problems/"><u>Exploring the Proficiency of ChatGPT in Solving Math Equations and Problems</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-12-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi 12 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-efficient-consumption-of-facebook-live-events-and-videos/"><u>In 2024, Efficient Consumption of Facebook Live Events & Videos</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-instagram-aesthetics-creating-charming-collages-for-2024/"><u>Mastering Instagram Aesthetics Creating Charming Collages for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-videopad-2023-review-a-top-notch-video-editing-solution-or-not-for-2024/"><u>New Videopad 2023 Review A Top-Notch Video Editing Solution or Not for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/synergizing-storytelling-with-ai-transforming-dandd-through-chatgpt-and-dall-e/"><u>Synergizing Storytelling with AI: Transforming D&D Through ChatGPT & DALL-E</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-ai-like-chatgpt-automate-jobs-or-enhance-them-the-future-is-now/"><u>Will AI Like ChatGPT Automate Jobs or Enhance Them? The Future Is Now</u></a></li>
 </ul></div>
 

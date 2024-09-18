@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Intelligence: Transcending the Classic Test"
-date: 2024-09-11T19:45:31.227Z
-updated: 2024-09-12T19:45:31.227Z
+date: 2024-09-15T02:00:28.056Z
+updated: 2024-09-18T06:37:56.499Z
 tags:
   - chatgpt
   - open-ai
@@ -40,25 +40,11 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
 
  If you haven't followed the latest in AI consumer tech, the course introduces you to today's most popular AI tools. First, you have GPT-related technologies like ChatGPT and its contender Bard from Google. You'll also learn how to create AI-generated images using DALL-E and Midjourney.
 
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
@@ -72,22 +58,15 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
@@ -98,34 +77,15 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
@@ -159,17 +119,19 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/rand-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>[New] Brand Consistency in Action Inserting Logos/Watermarks Into Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-audiophiles-guide-to-the-premier-8-4k-blu-rays/"><u>[New] In 2024, Audiophile's Guide to the Premier 8 4K Blu-Rays</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveil-the-best-of-history-top-10-youtube-channel-list/"><u>[Updated] Unveil the Best of History Top 10 YouTube Channel List</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-perfecting-iphones-hdr-shots/"><u>2024 Approved Step-by-Step Guide to Perfecting iPhone's HDR Shots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-conversational-giants-our-experience-with-mistral-ais-le-chat-versus-chatgpt/"><u>Comparing Conversational Giants: Our Experience with Mistral AI's Le Chat Versus ChatGPT</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-troubleshooting-for-error-4013-during-ios-device-restoration/"><u>Comprehensive Troubleshooting for Error 4013 During iOS Device Restoration</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-edge-video-cutting-techniques-to-boost-engagement-for-2024/"><u>Instagram Edge Video Cutting Techniques to Boost Engagement for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015851170-overcoming-problems-with-overwatchs-push-to-talk-feature-solutions-inside/"><u>Overcoming Problems with Overwatch's Push-to-Talk Feature – Solutions Inside!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/quick-fix-for-clearer-focus-in-google-meet/"><u>Quick Fix for Clearer Focus in Google Meet</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-infinix-hot-40i-by-fonelab-android-recover-data/"><u>Recover lost data from Infinix Hot 40i</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-eu-ai-directive-effects-on-gpt-like-models/"><u>The EU AI Directive: Effects on GPT-Like Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-expanding-horizon-of-chatgpt-7-notable-examples-from-the-wild/"><u>The Expanding Horizon of ChatGPT: 7 Notable Examples From the Wild</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-what-is-mukbang-and-how-to-make-mukbang-videos/"><u>[New] In 2024, What Is Mukbang and How to Make Mukbang Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-avatar-abstraction-artistry-sculpting-your-playful-image/"><u>[Updated] 2024 Approved Avatar Abstraction Artistry Sculpting Your Playful Image</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iuoajoayoowdjplusobqowjsoobruwujoespplusobquoctplusodsplusocrplusodrtog6auy5zob6loq44ot44oh44kq44gr44gk44gr44kl44oc44kk44k544kq44o844oq44o86yyy6zplusz44og4463/"><u>「映像と声の完璧なシンクロ: 高品質ビデオにおけるボイスオーバー録音テクニック」</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-win-11-gameplay-unveiling-the-ultimate-seven-steps/"><u>Boosting Win 11 Gameplay: Unveiling the Ultimate Seven Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-conversion-from-wav-to-aiff-files-easy-steps-for-windows-users/"><u>Fast Conversion From WAV to AIFF Files: Easy Steps for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-methods-for-converting-m4a-audio-tracks-to-mp3-effortlessly/"><u>Free Methods for Converting M4A Audio Tracks to MP3 Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-set-up-the-bandcamp-plugin-for-kodi-a-step-by-step-tutorial/"><u>How to Set Up the Bandcamp Plugin for Kodi: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hdr-quality-evaluating-luminances-performance/"><u>In 2024, HDR Quality Evaluating Luminance's Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-15-pro-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 15 Pro Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-guide-to-fast-and-hassle-free-scansnap-s510-drivers-installation/"><u>Latest Guide to Fast and Hassle-Free ScanSnap S510 Drivers Installation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-ig-story-with-melodic-elements-without/"><u>Transform Your IG Story with Melodic Elements (Without)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-how-to-flip-video-quickly-and-easily-for-2024/"><u>Updated How to Flip Video Quickly and Easily for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m4a-3/"><u>ベストの無料フラック・M4Aファイル変換ツール 3つを紹介</u></a></li>
 </ul></div>
 

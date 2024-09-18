@@ -1,7 +1,7 @@
 ---
 title: "AI Art Generation: How to Combine DALL-E with the Power of ChatGPT-4"
-date: 2024-09-11T19:48:34.100Z
-updated: 2024-09-12T19:48:34.100Z
+date: 2024-09-11T18:59:19.728Z
+updated: 2024-09-18T09:22:41.659Z
 tags:
   - chatgpt
   - open-ai
@@ -20,13 +20,6 @@ thumbnail: https://thmb.techidaily.com/3c7adb8361f107e7e2513d0c6a87960b8e0bf54d4
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -66,12 +59,22 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-audioarchive-compiler-download-playback-and-test/"><u>[New] 2024 Approved AudioArchive Compiler Download, Playback & Test</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/asy-ways-to-add-music-to-imovie-from-youtube-for-2024/"><u>[New] Easy Ways to Add Music to iMovie From YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-building-a-loyal-following-with-respectful-requests/"><u>[Updated] 2024 Approved Building a Loyal Following with Respectful Requests</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-stream-mastery-made-easy-discover-the-power-of-manycams-virtual-cam-features/"><u>Live Stream Mastery Made Easy: Discover the Power of ManyCam's Virtual Cam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-premium-virtual-webcam-solutions/"><u>Live Streaming Made Easy with ManyCam: Premium Virtual Webcam Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-professional-videocamera-and-webcast-software/"><u>Live Streaming Made Easy with ManyCam: Professional Videocamera and Webcast Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/redirect-to-file-explorer-using-the-onedrive-shortcut/"><u>Redirect to File Explorer Using the OneDrive Shortcut</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-future-of-sound-design-magix-music-makers-latest-upgrade/"><u>[New] The Future of Sound Design Magix Music Maker's Latest Upgrade</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-change-background-in-google-meet-on-laptop-and-mobile-devices-for-2024/"><u>[Updated] How to Change Background in Google Meet on Laptop and Mobile Devices for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027643475-fm/"><u>「高品質サウンドを実現するスタンドアローンFMレコーディングの専門ガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-free-guide-transforming-videos-into-audio-tracks-across-all-devices/"><u>1. Free Guide: Transforming Videos Into Audio Tracks Across All Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-ultimate-guide-techniques-for-successfully-combining-videos/"><u>1. Ultimate Guide: Techniques for Successfully Combining Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-harvesting-hours-of-hilarity-friends-farming-favorites/"><u>2024 Approved Harvesting Hours of Hilarity Friends' Farming Favorites</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-art-of-freezing-out-the-backdrop-in-your-design/"><u>2024 Approved Master the Art of Freezing Out the Backdrop in Your Design</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/effective-strategies-for-advertising-with-spotify/"><u>Effective Strategies for Advertising with Spotify</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-6-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 6</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476462821-unlock-the-secrets-to-restoring-sms-functionality-on-your-iphone-top-tips-revealed/"><u>Unlock The Secrets to Restoring SMS Functionality On Your iPhone - Top Tips Revealed</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Magic of AI: The 8 Ways It Merges Reality and Illusions Seamlessly"
-date: 2024-09-11T19:46:58.439Z
-updated: 2024-09-12T19:46:58.439Z
+date: 2024-09-11T03:59:08.962Z
+updated: 2024-09-18T00:47:06.379Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
 
 ![A Translate keyboard button ](https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574b036e27c98e637af2bd24e8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The primary purpose of translation is to convey the meaning of a speech written or spoken in one language using another language. Consequently, a good translation must not just swap the meaning of words between two languages but must convey the meaning of the entire body of text as a whole.
 
  It must also not just be a literal meaning of a speech but must communicate the meaning intended by the user while preserving the tone, cultural connotation, and context.
@@ -56,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/4cdd8afbaa8b657928993c65ff49e85d13ed57593
  Similarly, colloquialisms that involve proverbs, idioms, and wordplay can be problematic to translate.
 
  Since text translation is one of the[things ChatGPT can do impressively](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , we decided to compare how it stacks up against Google Translate. We selected some hard-to-translate text that featured common translation problems to compare the two tools.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Translating Colloquialisms
 
@@ -84,13 +70,6 @@ ChatGPT had a go at it:
 
 ![ChatGPT tries to translate a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And so did Google:
 
 ![Google translates a Filipino idiomatic expression](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino2.jpg)
@@ -102,19 +81,6 @@ And so did Google:
  ChatGPT had a go at it, but evidently, complex Malayalam text is not one of ChatGPT's strong points.
 
 ![ChatGPT malayalam translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chat.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Google, on the other hand, did fairly well.
 
@@ -142,24 +108,24 @@ Up next is a translation task in Filipino.
 
 ![Google translates filipino text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT, on the other hand, turned up: "The cure for a heartbroken woman is the affection of an understanding man."
 
 ![ChatGPT translate filipino](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Translating Creoles
@@ -176,16 +142,16 @@ Below is the source text:
 
 ![Google Translate Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-translate-pidgin-translation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Although not flawlessly, ChatGPT's interpretation was able to clearly convey the meaning and intent of the speaker. Considering the highly contextual nature of Pidgin English, the results are very impressive.
 
 ![ChatGPT Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-pidgin-translation.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Language Coverage
 
@@ -196,13 +162,6 @@ Below is the source text:
 ## Google Translate vs. ChatGPT: Which Translation Tool Is Better?
 
  It's hard to say with certainty. Both translation tools have their strong points. Google has been making massive investments in[Natural Language Processing (NLP)](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) . As a result, it outperforms ChatGPT in languages to which it has paid special attention. However, considering[how ChatGPT works and its training](https://www.makeuseof.com/how-does-chatgpt-work/) , it represents a unique and exciting approach to translation. Which of them should you use? Both tools are free, so feel free to experiment and settle for which one works for you.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT: An Emerging Translation Tool
 
@@ -225,17 +184,20 @@ Below is the source text:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-enhancing-virtual-collaborations-blending-zoom-with-skype-techniques/"><u>[Updated] Enhancing Virtual Collaborations Blending ZOOM with SKYPE Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-methods-for-youtube-to-mp4-conversion/"><u>2024 Approved Secure Methods for Youtube-to-MP4 Conversion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-5-tactics-to-record-gameplay-in-minecraft-via-macos/"><u>2024 Approved Top 5 Tactics to Record Gameplay in Minecraft via MacOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/agp-slots-reimagined-embracing-modern-gpus-for-legacy-systems-and-network-upgrades-learn-about-the-2-adapters-that-make-it-possible/"><u>AGP Slots Reimagined: Embracing Modern GPUs for Legacy Systems and Network Upgrades - Learn About the 2 Adapters That Make It Possible</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-capturing-tomorrow-today-leading-video-cams/"><u>In 2024, Capturing Tomorrow Today – Leading Video Cams</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-chromebooks-premium-free-video-capture-extensions/"><u>In 2024, Chromebook's Premium Free Video Capture Extensions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-perfecting-nature-pics-on-iphone-ultimate-photography-guide/"><u>In 2024, Perfecting Nature Pics on iPhone Ultimate Photography Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovation-showdown-ai-triumphs-revealed/"><u>Innovation Showdown: AI Triumphs Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-common-missteps-in-generative-ai-tool-utilization/"><u>Navigating the Common Missteps in Generative AI Tool Utilization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/participate-in-openais-bug-hunt-understand-the-eligibility-criteria-and-procedure/"><u>Participate In OpenAI's Bug Hunt - Understand the Eligibility Criteria & Procedure</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/step-by-step-guide-to-perfectly-pair-videos-and-stories-for-2024/"><u>Step-by-Step Guide to Perfectly Pair Videos and Stories for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/z-edges-cost-effective-z3plus-cam-in-depth-performance-insights/"><u>Z-Edge's Cost-Effective Z3+ Cam: In-Depth Performance Insights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-evasion-tactics-for-watching-instagram-stories-unattached-to-your-account/"><u>[Updated] In 2024, Evasion Tactics for Watching Instagram Stories Unattached to Your Account</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-futures-canvas-unveiling-6-pioneers-of-nft-artistry-for-2024/"><u>[Updated] The Future's Canvas Unveiling 6 Pioneers of NFT Artistry for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-rated-android-soundbanks/"><u>2024 Approved Best-Rated Android Soundbanks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-maximizing-media-flexibility-in-vlc-through-mp4-conversions/"><u>2024 Approved Maximizing Media Flexibility in VLC Through MP4 Conversions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/effortless-recording-of-netflix-a-step-by-step-guide-for-2024/"><u>Effortless Recording of Netflix A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-lenovo-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Lenovo</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nokia-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nokia Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-network-synergy-enhancing-story-sharing-for-2024/"><u>Social Network Synergy Enhancing Story Sharing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-aac-audio-files-to-mp3-format-using-itunes/"><u>Step-by-Step Guide: Converting AAC Audio Files to MP3 Format Using iTunes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-shrinking-your-pcs-screen-recordings-with-windows-tools/"><u>Step-by-Step Guide: Shrinking Your PC's Screen Recordings with Windows Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-enabling-proxies-in-kodi-across-fire-sticks-tv-boxes-and-mobile-boxes/"><u>Step-by-Step Tutorial for Enabling Proxies in Kodi Across Fire Sticks, TV Boxes, and Mobile Boxes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-setting-up-greased-lightning-cinema-add-on-in-kodi-leaia-and-krypton/"><u>Step-by-Step Tutorial: Setting Up Greased Lightning Cinema Add-On in Kodi (Leaia & Krypton)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-freeware-mkv-video-editors-compatible-with-both-windows-and-macos-systems/"><u>The Ultimate List of Freeware MKV Video Editors Compatible with Both Windows and macOS Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-method-for-effortless-dvd-ripping-with-strip-dvds-at-ease/"><u>Top Method for Effortless DVD Ripping with Strip DVDs at Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-dvd-to-avc-transcoding-software-compatible-with-windows-10-and-11-2024-edition/"><u>Top-Rated DVD to AVC Transcoding Software Compatible with Windows 10 & 11 - 2024 Edition</u></a></li>
 </ul></div>
 
