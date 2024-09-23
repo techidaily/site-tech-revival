@@ -1,7 +1,7 @@
 ---
 title: "Exploring Predictive AI: Its Method and Mechanics Unfolded"
-date: 2024-09-12T19:48:18.577Z
-updated: 2024-09-18T05:51:29.121Z
+date: 2024-09-21T22:12:41.542Z
+updated: 2024-09-22T21:02:46.336Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -52,20 +66,14 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
- Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -79,10 +87,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -133,19 +141,25 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-from-selfie-snaps-to-skincare-specials-establishing-your-youtube-brand/"><u>[New] 2024 Approved From Selfie Snaps to Skincare Specials Establishing Your YouTube Brand</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-constructing-compelling-channel-overviews/"><u>[New] In 2024, Constructing Compelling Channel Overviews</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-earhearer-live-sound-critique/"><u>[New] In 2024, EarHearer Live Sound Critique</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-realme-c55-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Realme C55 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-there-any-security-concerns-with-using-chatgpt/"><u>Are There Any Security Concerns with Using ChatGPT?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/blending-and-bonding-creating-unique-image-collages-for-2024/"><u>Blending and Bonding Creating Unique Image Collages for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-aspects-to-assess-before-opting-in-for-a-conversational-ai-bot-service/"><u>Critical Aspects to Assess Before Opting-In for a Conversational AI Bot Service</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-integration-of-chatgpt-into-linux-a-step-by-step-walkthrough-using-bavarder/"><u>Effortless Integration of ChatGPT Into Linux - A Step-by-Step Walkthrough Using Bavarder</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-storytelling-with-wevideos-online-video-editor-for-2024/"><u>Elevate Your Storytelling with WeVideos Online Video Editor for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-screen-capture-for-google-meet-talks/"><u>Mastering Screen Capture for GooGle Meet Talks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-content-wonders-with-canva-and-ai-insights/"><u>Quick Content Wonders with Canva and AI Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-creative-industries-with-chatgpt/"><u>Revolutionizing Creative Industries with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-maximum-potential-the-ultimate-5-guide-to-using-chatgpts-advanced-scripts/"><u>Unlocking Maximum Potential: The Ultimate 5 Guide to Using ChatGPT's Advanced Scripts</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-narzo-60-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme Narzo 60 Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-best-free-video-cutting-apps-your-go-to-list/"><u>[New] Best Free Video Cutting Apps Your Go-To List</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-content-maker-to-cash-magnet-youtubes-guide-to-ad-revenue/"><u>[New] In 2024, From Content Maker to Cash Magnet Youtube's Guide to Ad Revenue</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-leading-audio-transformation-software-listings-for-2024/"><u>[New] Leading Audio Transformation Software Listings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-premium-banners-no-cost-just-click/"><u>[Updated] 2024 Approved Get Premium Banners - No Cost, Just Click</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726220704962-dvdmp4-movavi/"><u>簡便快速DVD到MP4轉檔技巧教學 | 由Movavi解決方案</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gifmp42023/"><u>推薦超多功能的GIF到MP4轉化工具！2023年最新動態教學錄影帶 [高效選用方法]</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-in-class-meme-modification-software/"><u>Best in Class Meme Modification Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crear-videos-en-minutos-guia-expertos-para-usar-movavi-video-suite/"><u>Crear Videos en Minutos: Guía Expertos Para Usar Movavi Video Suite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargue-el-software-para-conversion-gratuita-de-formatos-avi-mkv-y-mp4-a-quicktime/"><u>Descargue El Software Para Conversión Gratuita De Formatos AVI, MKV Y MP4 a QuickTime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enregistrez-avec-succes-votre-prochaine-google-meet-un-guide-exhaustif-pour-tous-les-besoins/"><u>Enregistrez Avec Succès Votre Prochaine Google Meet ! Un Guide Exhaustif Pour Tous Les Besoins.</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-self-activating-power-cycles-in-windows-11-pcs-a-step-by-step-guide/"><u>Fixing Self-Activating Power Cycles in Windows 11 PCs: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-ultimate-dvd-copy-and-burn-utilities-for-windows-users-top-picks-for-win-11-8-and-7/"><u>Free Ultimate DVD Copy and Burn Utilities for Windows Users: Top Picks for WIN 11, 8 & 7</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nokia-130-music-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nokia 130 Music? Try These Fixes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-solved-how-to-transfer-from-apple-iphone-12-pro-max-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Solved How To Transfer From Apple iPhone 12 Pro Max to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-join-avi-files-for-free-top-10-reliable-avi-joiner-software/"><u>New 2024 Approved Join AVI Files for Free Top 10 Reliable AVI Joiner Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-guide-for-mac-users-compress-photos-in-jpg-format-while-maintaining-excellent-clarity/"><u>Quick Guide for Mac Users: Compress Photos in JPG Format While Maintaining Excellent Clarity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-obs-recording-guide-for-gaming-enthusiasts-for-2024/"><u>The Ultimate OBS Recording Guide for Gaming Enthusiasts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/udvikle-din-microsoft-windows-10-4-tekniker-for-skaermede-optimalisering/"><u>Udvikle Din Microsoft Windows 10 - 4 Tekniker for Skærmede Optimalisering</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726226804731-wma-m4v/"><u>WMA 및 M4V 파일을 원격으로 무료 전환 - 모바이비아</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tta-movavi/"><u>オンラインで無料: TTAファイルの簡単な変換方法 -Movavi</u></a></li>
 </ul></div>
 

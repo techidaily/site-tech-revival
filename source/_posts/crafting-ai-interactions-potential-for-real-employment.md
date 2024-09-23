@@ -1,7 +1,7 @@
 ---
 title: "Crafting AI Interactions: Potential for Real Employment?"
-date: 2024-09-12T21:49:58.738Z
-updated: 2024-09-18T02:55:25.289Z
+date: 2024-09-16T00:16:43.822Z
+updated: 2024-09-23T03:45:17.575Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
@@ -52,14 +59,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
- Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -72,19 +85,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -93,6 +93,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -100,6 +107,13 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -133,12 +147,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-pinnacle-of-hd-recording-expertly-curated-list-for-2024/"><u>[Updated] Pinnacle of HD Recording Expertly Curated List for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-revolutionizing-home-broadcasts-with-advanced-webcams/"><u>[Updated] Revolutionizing Home Broadcasts with Advanced WebCams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-assisted-serenity-how-chatgpt-can-help-you-create-and-sustain-a-regular-meditation-habit/"><u>AI-Assisted Serenity: How ChatGPT Can Help You Create and Sustain a Regular Meditation Habit</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-freedom-with-turbo-and-copilot-your-guide-to-gpt-4s-limitless-potential/"><u>Free Freedom with Turbo & Copilot: Your Guide to GPT-4's Limitless Potential</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-troubleshooting-6-widespread-auto-gpt-configuration-problems/"><u>Mastering the Art of Troubleshooting 6 Widespread Auto-GPT Configuration Problems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mp3tta/"><u>MP3への音質保持が完全なTTAファイル変換手順:初心者ガイド</u></a></li>
-<li><a href="https://extra-support.techidaily.com/standard-rgb-versus-srgb-standards-for-2024/"><u>Standard Rgb Versus Srgb Standards for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hit-the-floor-with-optimal-posting-hours/"><u>[New] In 2024, Hit the Floor with Optimal Posting Hours</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/as-principais-formulas-para-o-sucesso-em-producao-de-podcasts-editores-n1-a-n7-guia-completo/"><u>As Principais Fórmulas Para O Sucesso Em Produção De Podcasts: Editores Nº1 a Nº7 | Guia Completo</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/bite-sized-broadcasting-maintaining-quality-in-quick-posts-for-2024/"><u>Bite-Sized Broadcasting Maintaining Quality in Quick Posts for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-obs-screen-recorder-tutorial-mastering-capture-and-editing-techniques/"><u>Complete OBS Screen Recorder Tutorial: Mastering Capture & Editing Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-facile-transformez-votre-fichier-3gp-en-webm-gratuitement-en-ligne-avec-movavi/"><u>Conversion Facile : Transformez Votre Fichier 3GP en Webm Gratuitement En Ligne Avec MOVAVI</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-logitech-g510-mouse-drivers-compatible-with-windows-7-8-and-10/"><u>Download Logitech G510 Mouse Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/el-record-de-la-industria-en-2024-seleccionando-los-12-softwares-ideales-para-transformar-videos-a-alta-definicion/"><u>El Récord De La Industria en 2024: Seleccionando Los 12 Softwares Ideales Para Transformar Videos a Alta Definición</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g13-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G13 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-stop-motion-cinema-ranking-the-best-15/"><u>In 2024, Innovative Stop-Motion Cinema Ranking the Best 15</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/preventing-frequent-samurai-warriors-5-shutdowns-tips-and-tricks-for-a-smooth-gaming-experience-on-pc/"><u>Preventing Frequent Samurai Warriors 5 Shutdowns: Tips and Tricks for a Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-adding-soundtracks-to-facebook-stories-using-simple-tools/"><u>Step-by-Step Tutorial on Adding Soundtracks to Facebook Stories Using Simple Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-tu-archivos-m4a-en-formatos-flv-sin-coste-con-nuestro-conversor-online-gratis-y-eficiente-movavi/"><u>Transforma Tu Archivos M4A en Formatos FLV Sin Coste Con Nuestro Conversor Online Gratis Y Eficiente - Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleash-greater-potential-with-cookiebots-cutting-edge-tech/"><u>Unleash Greater Potential with Cookiebot's Cutting-Edge Tech</u></a></li>
+<li><a href="https://win-blog.techidaily.com/victory-over-launch-blockers-enjoy-resident-evil-village-without-delays/"><u>Victory over Launch Blockers: Enjoy Resident Evil Village Without Delays</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-k11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo K11 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flv-and-mov/"><u>フリーウェブベースのFLV & MOVファイルを容易に変換する - モバヴィ</u></a></li>
 </ul></div>
 

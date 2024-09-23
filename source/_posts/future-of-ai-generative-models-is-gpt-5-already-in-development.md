@@ -1,7 +1,7 @@
 ---
 title: Future of AI Generative Models - Is GPT-5 Already in Development?
-date: 2024-09-11T12:17:41.647Z
-updated: 2024-09-18T03:07:19.792Z
+date: 2024-09-21T07:21:05.235Z
+updated: 2024-09-22T20:35:25.864Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Drafting Ideas
 
  You’ll find many[online AI tools for content creation](https://www.makeuseof.com/best-online-ai-tools-content-creation/) , so how do Notion AI and ChatGPT compare in this respect? Notion AI has several tools to help you draft ideas for articles, videos, podcasts, and more.
@@ -39,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
  If you go to the Draft With AI section, for example, you’ll find an option called**Brainstorm ideas...** . When typing the subject you want to come up with topics for, you’ll receive a list of potential options.
 
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
@@ -52,11 +66,25 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 ![Blog Topics ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/blog-topics-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [You can do several useful things in Notion](https://www.makeuseof.com/useful-things-to-do-notion/) , such as making pages that enable you to organize all of your projects better. As you use the app more frequently, keeping your notes together will become more important— and you’ll also want to make what you’ve written easy for others to understand. Notion AI can help you in this respect.
 
  Notion AI quickly summarizes what your existing pages are about in a short paragraph; all you have to do is select the**Summarize** tool. It’s worth noting that this feature still felt a little rough around the edges when using it, so you may need to be more descriptive to ensure that you have a better summary.
 
 ![Notion AI Page Summary Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-page-summary.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
 
@@ -81,17 +109,10 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Stability
@@ -111,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![Notion Create To-Do List AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-create-to-do-list-ai.jpg)
 
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Notion AI and ChatGPT: Two Different Forms of Generative AI
 
@@ -140,16 +154,15 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enhance-visibility-editing-igtv-video-texts/"><u>[New] 2024 Approved Enhance Visibility Editing IGTV Video Texts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premier-5-video-screens-for-ps5-players/"><u>[New] Premier 5 Video Screens for PS5 Players</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-realistic-movement-rendering-for-images/"><u>[New] Realistic Movement Rendering for Images</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-pursuit-of-perfection-wincams-listed-here/"><u>[Updated] In Pursuit of Perfection WinCams Listed Here</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-master-guide-ultimate-tips-for-maximizing-mobizens-screen-capture/"><u>[Updated] Master Guide Ultimate Tips for Maximizing Mobizen's Screen Capture</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-unlocking-the-secrets-of-srt-editing-on-a-mac-for-2024/"><u>[Updated] Unlocking the Secrets of SRT Editing on a Mac for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-the-ultimate-chefs-sidekick-7-cooking-hacks-inside/"><u>ChatGPT: The Ultimate Chef's Sidekick - 7 Cooking Hacks Inside!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-refresh-your-iphone-15s-system/"><u>Easy Steps to Refresh Your iPhone 15'S System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-the-trustworthiness-of-ai-financial-advisors-chatgpt-vs-bard/"><u>Evaluating the Trustworthiness of AI Financial Advisors: ChatGPT Vs. Bard</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-turn-off-automatic-windows-11-update-installations-in-just-a-few-steps/"><u>How to Turn Off Automatic Windows 11 Update Installations in Just a Few Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguard-your-digital-assets-preventing-openai-and-similar-crawlers-from-web-harvesting/"><u>Safeguard Your Digital Assets: Preventing OpenAI and Similar Crawlers From Web Harvesting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-superior-tools-for-watching-fb-videos/"><u>[Updated] In 2024, Superior Tools for Watching FB Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-implementing-obs-virtual-cameras-a-complete-step-by-step-guide/"><u>Comprehensive Tutorial on Implementing OBS Virtual Cameras: A Complete Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-videography-advice-for-aspiring-business-owners-test-and-learn-now/"><u>Essential Videography Advice for Aspiring Business Owners - Test and Learn Now!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-msi-z370-a-pro-updates-free-driver-package-available-now/"><u>Get Your MSI Z370-A Pro Updates - Free Driver Package Available Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-paso-a-paso-sobre-como-convertir-mp3-a-aac-sin-coste-utiliza-el-servicio-en-linea-de-movavi/"><u>Guía Paso a Paso Sobre Cómo Convertir Mp3 a Aac Sin Coste: Utiliza El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-accelerate-mac-youtube-video-matching-aspect-ratio/"><u>In 2024, Accelerate Mac Youtube Video Matching Aspect Ratio</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-realme-gt-3-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Realme GT 3 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-mxf-mov/"><u>Movavi에서 MXF 영상을 무료로 MOV로 바꾸기 - 온라인 편리성 향상</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/sneak-peek-to-secrecy-how-to-create-hidden-stories-for-2024/"><u>Sneak Peek to Secrecy How to Create Hidden Stories for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-lost-data-restore-iphone-even-if-theres-no-backup/"><u>Unlocking Lost Data: Restore iPhone Even If There's No Backup</u></a></li>
 </ul></div>
 

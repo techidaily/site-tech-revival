@@ -1,7 +1,7 @@
 ---
 title: Why ChatGPT Fails to Review Its Own Words
-date: 2024-09-13T02:08:39.003Z
-updated: 2024-09-17T20:17:45.239Z
+date: 2024-09-20T08:51:06.150Z
+updated: 2024-09-23T04:23:30.456Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -60,6 +67,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -71,10 +85,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
@@ -82,10 +96,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
@@ -97,13 +111,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -142,16 +149,25 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-the-creme-de-la-creme-leading-makeup-personalities/"><u>[New] 2024 Approved The Crème De La Crème Leading Makeup Personalities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ios-guide-to-stunning-time-lapse-cinematography-for-2024/"><u>[Updated] IOS Guide to Stunning Time-Lapse Cinematography for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-honor-x9b-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Honor X9b</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-boundaries-top-8-ai-trends/"><u>Beyond Boundaries: Top 8 AI Trends</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-these-6-cost-free-alternatives-to-openais-sora-ai-technology/"><u>Discover These 6 Cost-Free Alternatives to OpenAI's Sora AI Technology</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-s24plus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy S24+ to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-creative-thinking-generating-topics-using-mind-maps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Topics Using Mind Maps & ChatGPT</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/securely-capturing-your-zoom-sessions-for-2024/"><u>Securely Capturing Your Zoom Sessions for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-setup-for-an-unrestricted-conversational-ai-hosting-freedomgpt-on-microsofts-os/"><u>Step-by-Step Setup for an Unrestricted Conversational AI: Hosting FreedomGPT on Microsoft's OS</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-at-your-fingertips-introducing-ai-in-bing-search/"><u>The Future at Your Fingertips: Introducing AI in Bing Search</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-tech-savvy-show-saviors-advanced-tv-capture-tips-for-2024/"><u>[New] Tech-Savvy Show Saviors Advanced TV Capture Tips for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-grow-to-1k-per-month-master-the-art-of-ig-popularity-for-2024/"><u>[Updated] Grow to 1K Per Month Master the Art of IG Popularity for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-capture-the-rhythm-rapid-tap-into-tiktok-videos/"><u>[Updated] In 2024, Capture the Rhythm Rapid Tap Into TikTok Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726219457631-2024/"><u>📊 2024新型最佳無償錄音軟件列表 - 功能性兼備推薦清單</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-testing-titans-in-depth-comparison-of-gopros-hero5b-and-session/"><u>2024 Approved Testing Titans In-Depth Comparison of GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/modempeg-movavi/"><u>在線無成本 MODE到MPEG改變器 - 利用 Movavi 專業服務</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieve-hassle-free-audio-upgrade-convert-flac-to-high-quality-aac-for-free-using-web-tools/"><u>Achieve Hassle-Free Audio Upgrade: Convert Flac to High-Quality Aac for Free Using Web Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-concevoir-un-diaporama-attrayant-utilisez-movavi-pour-les-etapes-de-creation/"><u>Comment Concevoir Un Diaporama Attrayant ? - Utilisez Movavi Pour Les Étapes De Création</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-convert-3gpp-videos-to-avi-your-step-by-step-guide-for-free/"><u>Effortlessly Convert 3GPP Videos to AVI - Your Step-by-Step Guide for Free!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-from-tga-to-gif-by-movavi-easy-and-reliable/"><u>Free Online Converter From TGA to GIF by Movavi - Easy and Reliable</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/gpt-and-bing-duels-for-ultimate-generative-chat-excellence/"><u>GPT and Bing Duels for Ultimate Generative Chat Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-complet-comment-enregistrer-vos-calls-videos-sur-whatsapp-a-la-fois-sur-ordinateur-et-mobile/"><u>Guide Complet: Comment Enregistrer Vos Calls Vidéos Sur WhatsApp À La Fois Sur Ordinateur Et Mobile</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-x50-gt-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor X50 GT Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pioneering-headsets-elevating-drone-use/"><u>In 2024, Pioneering Headsets Elevating Drone Use</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenlose-online-wandlung-von-mxf-in-wav-dateien-movavi/"><u>Kostenlose Online-Wandlung Von MXF in WAV-Dateien - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-image-converter-facili-passaggi-per-convertire-foto-in-jpg-png-e-altri-formati-digitali/"><u>Online Image Converter: Facili Passaggi per Convertire Foto in JPG, PNG E Altri Formati Digitali</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rewind-movies-the-android-guide-for-2024/"><u>Rewind Movies The Android Guide for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformar-flash-videos-swf-a-mpeg-gratis-en-internet-con-eficiencia/"><u>Transformar Flash Videos (SWF) a MPEG Gratis en Internet Con Eficiencia</u></a></li>
+<li><a href="https://driver-download.techidaily.com/troubleshooting-and-solving-260c-wireless-internet-adaptors-usb-driver-woes/"><u>Troubleshooting and Solving 260C Wireless Internet Adaptor's USB Driver Woes</u></a></li>
 </ul></div>
 

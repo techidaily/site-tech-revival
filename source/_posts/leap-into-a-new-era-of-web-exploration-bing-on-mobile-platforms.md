@@ -1,7 +1,7 @@
 ---
 title: "Leap Into a New Era of Web Exploration: Bing on Mobile Platforms"
-date: 2024-09-14T07:50:43.891Z
-updated: 2024-09-18T05:45:04.327Z
+date: 2024-09-18T06:37:18.365Z
+updated: 2024-09-23T11:21:00.376Z
 tags:
   - chatgpt
   - open-ai
@@ -52,7 +52,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -65,13 +79,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -79,6 +86,13 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -89,16 +103,10 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -133,16 +141,22 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-resolved-inaccessible-full-screen-obs-for-2024/"><u>[New] Resolved Inaccessible Full Screen OBS for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-echoai-creatives-harmonizing-image-edits/"><u>[Updated] EchoAI Creatives Harmonizing Image Edits</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-pioneering-storytelling-with-insta-and-youtube-fusion/"><u>[Updated] In 2024, Pioneering Storytelling with Insta & YouTube Fusion</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-screensnapper-showdown/"><u>[Updated] In 2024, ScreenSnapper Showdown</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-perfect-meeting-aesthetics-how-to-blur-video-backgrounds/"><u>2024 Approved Perfect Meeting Aesthetics How to Blur Video Backgrounds</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ovative-youtube-thumbnail-designers-for-aspiring-filmmakers/"><u>5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-role-in-blurring-reality-lines/"><u>AI's Role in Blurring Reality Lines</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-batch-designs-how-to-harness-the-power-of-canva-and-chatgpt-for-your-content-needs/"><u>Effortless Batch Designs: How to Harness the Power of Canva and ChatGPT for Your Content Needs</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/machine-mastery-comparing-translations-of-two-giants/"><u>Machine Mastery: Comparing Translations of Two Giants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-chatgpt-take-over-your-role-understanding-the-impact-of-generative-ai-on-careers/"><u>Will ChatGPT Take Over Your Role? Understanding the Impact of Generative AI on Careers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-make-the-most-of-your-youtube-watches-gif-magic-for-devices/"><u>[New] In 2024, How to Make the Most of Your YouTube Watches GIF Magic for Devices</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-iphone-time-lapse-magic-a-beginners-guide/"><u>[Updated] 2024 Approved IPhone Time-Lapse Magic A Beginner’s Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-a-plan-to-locate-breathtaking-photos-in-minutes-on-pexels/"><u>[Updated] Crafting a Plan to Locate Breathtaking Photos in Minutes on Pexels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-video-avancee-gratuite-rmvb-a-avi-via-lexpertise-de-movavi/"><u>Conversion Vidéo Avancée Gratuite : RMVB À AVI via L'expertise De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-rapida-e-senza-costi-trasforma-i-tuoi-file-mp4-in-wav-usando-il-servizio-online-di-movavi/"><u>Conversione Rapida E Senza Costi: Trasforma I Tuoi File MP4 in WAV Usando Il Servizio Online Di Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/correcting-windows-11-writable-memory-protection/"><u>Correcting Windows 11' Writable Memory Protection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/firing-your-tile/"><u>Firing Your Tile</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-reno-10-proplus-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Reno 10 Pro+ 5G FRP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-networked-video-streams-with-precision-using-vlc/"><u>In 2024, Navigating Networked Video Streams with Precision Using VLC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-newbies-pathway-to-stunning-photo-edits-in-ps/"><u>In 2024, Newbie's Pathway to Stunning Photo Edits in PS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/still-need-help-editing-your-video-learn-how-to-split-and-cut-videoclips-like-a-pro/"><u>Still Need Help Editing Your Video? Learn How to Split and Cut Videoclips Like a Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/subtle-screen-entry-sequence-for-2024/"><u>Subtle Screen Entry Sequence for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-20-no-cost-green-screen-editor-apps-for-professional-videography/"><u>Top 20 No-Cost Green Screen Editor Apps for Professional Videography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-archivo-mkv-a-formato-avi-gratuitamente-via-internet-con-movavi/"><u>Transforma Archivo MKV a Formato AVI Gratuitamente Vía Internet Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforma-tus-videos-flv-al-formato-asf-por-internet-sin-costo-alguno-guia-facil-y-eficaz-para-movavi/"><u>Transforma Tus Videos FLV Al Formato ASF Por Internet Sin Costo Alguno: Guía Fácil Y Eficaz Para Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transmetteur-video-enligne-transformez-votre-contenu-multimedia-au-format-mp4-mov-et-avi/"><u>Transmetteur Vidéo Enligne - Transformez Votre Contenu Multimédia Au Format MP4, MOV Et AVI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-mkv-file-format-and-how-to-open-mkv-files/"><u>Understanding the MKV File Format and How to Open .mkv Files</u></a></li>
 </ul></div>
 

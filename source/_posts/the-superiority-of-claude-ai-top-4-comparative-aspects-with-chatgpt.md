@@ -1,7 +1,7 @@
 ---
 title: "The Superiority of Claude AI: Top 4 Comparative Aspects with ChatGPT"
-date: 2024-09-12T11:22:21.988Z
-updated: 2024-09-18T04:22:39.610Z
+date: 2024-09-18T11:11:26.588Z
+updated: 2024-09-23T06:11:49.231Z
 tags:
   - chatgpt
   - open-ai
@@ -50,7 +50,22 @@ thumbnail: https://thmb.techidaily.com/7104eb033fbf632865800cb348d315fa27012665c
 2. Sample 2  
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
@@ -70,13 +85,26 @@ And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Claude Offers Multimodality for Free
@@ -94,13 +122,6 @@ And here's Claude's take:
  Whereas Claude has a 200k context window on its free and premium plans—a significant improvement from ChatGPT's 4k or 8k window.
 
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 More Messages Per Hour
 
@@ -131,19 +152,17 @@ And here's Claude's take:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-engaging-presentations-tips-for-uploading-youtube-videos-into-slides/"><u>[New] 2024 Approved Engaging Presentations Tips for Uploading YouTube Videos Into Slides</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harness-the-full-potential-of-your-youtube-content-using-wmm/"><u>[New] 2024 Approved Harness the Full Potential of Your YouTube Content Using WMM</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-top-10-fb-video-downloader-tools-firefox-compatible/"><u>[New] In 2024, Top 10 FB Video Downloader Tools, Firefox Compatible</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-premium-editing-tools-unveiled-youtube-edition/"><u>[Updated] Premium Editing Tools Unveiled YouTube Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-quick-tips-for-altering-video-speed-on-netflix-devices/"><u>[Updated] Quick Tips for Altering Video Speed on Netflix Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-chatgpt-enterprise-to-standard-models-insights-on-innovation-and-value-added/"><u>Comparing ChatGPT Enterprise to Standard Models - Insights on Innovation and Value Added</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-9-simple-tricks-with-chatgpt-for-everyday-convenience/"><u>Discover the 9 Simple Tricks with ChatGPT for Everyday Convenience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-wonders-of-gpt-4-universal-access-unveiled/"><u>Discover the Wonders of GPT-4: Universal Access Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-advice-on-tech-gear-navigating-through-toms-hardware-wisdom/"><u>Expert Advice on Tech Gear: Navigating Through Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-vivo-y200e-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Vivo Y200e 5G</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/pioneering-success-strategies-for-profitable-animation-in-fb-ads/"><u>Pioneering Success Strategies for Profitable Animation in FB Ads</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-90-gt-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor 90 GT with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-science-of-deforestation-and-climate-interaction/"><u>The Science of Deforestation and Climate Interaction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-challenge-gpt-against-huggingface/"><u>The Ultimate Challenge: GPT Against HuggingFace</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-smooth-operations-screen-recording-basics-for-lenovo-users/"><u>[New] 2024 Approved Smooth Operations Screen Recording Basics for Lenovo Users</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-future-ready-data-retention-selecting-excellent-cloud-providers/"><u>[New] Future-Ready Data Retention Selecting Excellent Cloud Providers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-prevent-these-8-key-mishaps-on-your-youtube-journey-for-2024/"><u>[Updated] Prevent These 8 Key Mishaps on Your YouTube Journey for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification/"><u>A Symphony of Sounds No-Cost Software for Personalized Voice Modification</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambia-archivos-mp2-a-formatos-wav-sin-costo-con-herramientas-online-de-conversion-gratuita-movavi/"><u>Cambia Archivos MP2 a Formatos WAV Sin Costo Con Herramientas Online De Conversión Gratuita - Movavi</u></a></li>
+<li><a href="https://fox-access.techidaily.com/compile-of-premier-iphone-camera-apps-for-pro-photographers-for-2024/"><u>Compile of Premier iPhone Camera Apps for Pro Photographers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-to-all-available-movavi-suite-ultimate-choice-for-business-software/"><u>Complete Guide to All Available Movavi Suite: Ultimate Choice for Business Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snizene-ceny-2024-s-movavi-vytahnuj-si-a-vypln-kody-pro-10-slevu/"><u>Snížené Ceny 2024 S Movavi: Vytahňuj Si a Vyplň Kódy Pro 10% Slevu!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-gratuit-et-paid-software-de-creation-de-cartes-anniversaire-comparatif/"><u>Top Gratuit Et Paid Software De Création De Cartes Anniversaire: Comparatif</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformation-libre-de-mpeg-en-gif-en-ligne-avec-movavi-guide-etape-par-etape/"><u>Transformation Libre De MPEG en GIF en Ligne Avec Movavi - Guide Étape Par Étape</u></a></li>
 </ul></div>
 

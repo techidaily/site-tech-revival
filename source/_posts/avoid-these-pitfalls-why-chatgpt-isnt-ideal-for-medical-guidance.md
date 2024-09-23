@@ -1,7 +1,7 @@
 ---
 title: "Avoid These Pitfalls: Why ChatGPT Isn't Ideal for Medical Guidance"
-date: 2024-09-16T08:37:59.779Z
-updated: 2024-09-18T06:06:00.359Z
+date: 2024-09-20T10:30:02.903Z
+updated: 2024-09-23T08:58:10.671Z
 tags:
   - chatgpt
   - open-ai
@@ -36,21 +36,35 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
  It was also speculated in the blog post that, once the attacker has accessed your data, they will "probably[sell it to the highest bidder](https://www.makeuseof.com/how-can-data-be-sold-dark-web/) as usual."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Thousands of Facebook Accounts May Have Been Compromised
 
  In this malicious campaign, thousands of Facebook accounts may have been successfully hijacked. In the aforementioned blog post, it was stated that there are "more than 2000 users installing this extension on a daily basis since its first appearance on 03/03/2023."
 
  On top of this, Tal wrote that each one of the individuals installing the add-on "gets his Facebook account stolen and probably this is not the only damage," suggesting that other consequences may arise from the extension's presence.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Malicious App Has Been Removed from Chrome
 
  Though thousands have downloaded this phony browser extension, it has now been taken down from the Google Chrome Store, preventing further attacks via Chrome-based downloads. It is not yet known exactly how many people have been affected by this campaign, but the number of installations is a definite concern.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Name Is Consistently Used by Scammers
@@ -72,17 +86,22 @@ Guardio took to Twitter to warn readers of the malicious campaign.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-social-media-syncing-made-simple-tweets-and-tiktoks/"><u>[New] 2024 Approved Social Media Syncing Made Simple Tweets and TikToks</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-newbies-guide-to-vlogging-gear-and-software-insights/"><u>[New] In 2024, Newbie's Guide to Vlogging Gear and Software Insights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ticklishtones-selecting-the-best-ringtones-for-smiles/"><u>[New] TicklishTones Selecting the Best Ringtones for Smiles</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevate-mobile-photographic-quality-accessory-selection-guide/"><u>2024 Approved Elevate Mobile Photographic Quality Accessory Selection Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030153363-3gpmovwav/"><u>3GP形式をMOV/WAVに簡単変換ガイド</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/budget-friendly-top-7-mac-apps-for-enhanced-tiktok-videos-for-2024/"><u>Budget-Friendly Top 7 Mac Apps for Enhanced TikTok Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-insights-into-using-a-youtube-downloader-tool-effectively/"><u>Comprehensive Insights Into Using a YouTube Downloader Tool Effectively</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-y100a-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo Y100A</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamlessly-switching-on-updated-widget-selection-interface-in-windows-11/"><u>Seamlessly Switching on Updated Widget Selection Interface in Windows 11</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-art-of-background-elimination-in-graphic-designs-for-2024/"><u>The Art of Background Elimination in Graphic Designs for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44kq44o844oh44kj44kq44oi44op44ow44or6kej5rg677yb44km44kp44o844kv44oe44oz44gn6zplusz5qw944o744ot44oh44kq5yan55sf44gu5zwp6agm44gm44gq44gp44gq44kl5pa55rov6zug.38/"><u>オーディオトラブル解決！ウォークマンで音楽・ビデオ再生の問題がなくなる方法集</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44k344ki44k44o844oi44o844oj44gn5yuv55s76kiy6yyy5qmf6io944ks5l255so44gx44gm5pig5yop44ks44kt44oj44ox44ob44oj44gz44kl5pa55rov/"><u>シアターモードで動画記録機能を使用して映像をキャプチャする方法</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-snap-worthy-success-logging-galaxy-gaming-stories-for-2024/"><u>[New] Snap-Worthy Success Logging Galaxy Gaming Stories for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-guide-to-crafting-an-instagram-enterprise-profile/"><u>[Updated] Step-by-Step Guide to Crafting an Instagram Enterprise Profile</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-zoom-setup-playbook/"><u>[Updated] The Ultimate Zoom Setup Playbook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-on-asmr-and-restful-nights/"><u>2024 Approved Expert Recommendations on ASMR & Restful Nights</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-pauses-and-hitches-tips-for-a-seamless-overwatch-gaming-experience/"><u>Eliminating Pauses and Hitches: Tips for a Seamless Overwatch Gaming Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-tricks-to-conquer-the-royal-match-challenge/"><u>Essential Tricks to Conquer the Royal Match Challenge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/high-quality-conversion-and-upload-sharing-iphone-footage-on-youtube-easily/"><u>High-Quality Conversion and Upload: Sharing iPhone Footage on YouTube Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-choose-the-right-website-for-your-mixtapes-and-boosting-your-download-numbers/"><u>How to Choose the Right Website for Your Mixtapes & Boosting Your Download Numbers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-realme-gt-5-240w-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Realme GT 5 (240W) Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/itunes-conversion-tutorial-how-to-change-mkv-files-into-compatible-itunes-format/"><u>ITunes Conversion Tutorial: How to Change MKV Files Into Compatible iTunes Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/line-t17260306955285/"><u>LINE経由で画質のロスなし、高解像度ビデオ送信</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-facebook-video-editing-step-by-step-strategies-for-viral-success/"><u>Master the Art of Facebook Video Editing: Step-by-Step Strategies for Viral Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-your-kodi-experience-with-pin-system-and-obtaining-access-codes-for-secure-addons/"><u>Mastering Your Kodi Experience with Pin System & Obtaining Access Codes for Secure Addons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4ps4/"><u>MP4ビデオがPS4で再生しない時の対策とエラー解決法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pciosandroid/"><u>PC/iOS/Androidで特定音声抽出不可能化：ビデオから取り除く方法</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977211194-seamless-compatibility-with-windows-cuarto-how-to-obtain-and-install-sandisk-drivers-now/"><u>Seamless Compatibility with Windows Cuarto: How To Obtain And Install SanDisk Drivers Now!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ultimate-iphone-video-editor-comparison-cameo-or-filmorago-for-2024/"><u>Ultimate iPhone Video Editor Comparison Cameo or FilmoraGo for 2024</u></a></li>
 </ul></div>
 

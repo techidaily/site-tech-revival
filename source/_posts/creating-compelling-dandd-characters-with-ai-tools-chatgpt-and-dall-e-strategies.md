@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-09-16T11:37:51.116Z
-updated: 2024-09-18T03:52:48.534Z
+date: 2024-09-17T09:37:24.798Z
+updated: 2024-09-23T01:46:18.534Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,19 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -45,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
  DALL-E 3's integrated editing tools now aim to fix issues within the same image without creating a new prompt. You highlight an area in the image you want to adjust, prompt DALL-E to make a specific change (such as "remove this" or "add this feature"), and it goes to work.
 
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, it's a mixed bag.
 
@@ -57,10 +77,10 @@ However, it's a mixed bag.
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing and Erasing
@@ -75,13 +95,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -89,6 +102,13 @@ Close
  I asked DALL-E to "create a 2:1 4k image of a human eye close up, be detailed," resulting in the following image:
 
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
@@ -103,13 +123,6 @@ Close
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
@@ -144,17 +157,25 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-individual-songs-to-a-cohesive-collection-building-your-youtube-playlist/"><u>[New] In 2024, From Individual Songs to a Cohesive Collection Building Your YouTube Playlist</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[New] Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-uniting-sections-smoothly-inshot-transition-essentials/"><u>[New] Uniting Sections Smoothly Inshot Transition Essentials</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-novice-to-expert-your-pathway-in-instagram-reels-for-2024/"><u>[Updated] From Novice to Expert Your Pathway in Instagram Reels for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-find-uplifting-faith-songs-for-smartphone-alerts/"><u>How to Find Uplifting Faith Songs for Smartphone Alerts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-download-speeds-in-utorrent-top-strategies-that-worked/"><u>Improving Download Speeds in uTorrent - Top Strategies That Worked</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/probing-the-dependability-of-zerogpt-tools-including-others/"><u>Probing the Dependability of ZeroGPT Tools, Including Others</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-non-functional-apps-on-your-samsung-television/"><u>Troubleshooting Tips: Resolving Issues with Non-Functional Apps on Your Samsung Television</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/video-sneak-peek-a-guide-to-preview-content-effectively/"><u>Video Sneak Peek: A Guide to Preview Content Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-10-m4a-to-mp3/"><u>Windows 10 用の M4A to MP3 フリーコンバイナー - ステップバイステップガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wmviphone/"><u>WMVファイルのiPhoneでのプレーヤー設定 - ステップバイステップガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/xmedia-recodemp4movm2ts/"><u>XMedia Recode：簡単ガイド！MP4/MOV/M2TS形式のビデオフォーマット変換法</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-optimal-techniques-recording-console-games-via-pc/"><u>[New] In 2024, Optimal Techniques Recording Console Games via PC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-enhance-learning-on-the-go-podcast-tips-and-tricks/"><u>2024 Approved Enhance Learning on the Go Podcast Tips & Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-virtuary-a-beginners-vocabulary-primer/"><u>2024 Approved Virtuary A Beginner’s Vocabulary Primer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-to-the-rescue-tips-for-climbing-the-ladder-to-your-dream-role/"><u>ChatGPT to the Rescue: Tips for Climbing the Ladder to Your Dream Role</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/directinputdll-troubleshooting-guide-resolve-common-microsoft-dll-problems-easily/"><u>DirectInput.dll Troubleshooting Guide - Resolve Common Microsoft DLL Problems Easily.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-chatgpt-plugins-for-superior-ai-prompts-and-responses-on-chrome/"><u>Discover the Best ChatGPT Plugins for Superior AI Prompts and Responses on Chrome</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/distinguishing-diverse-ai-usage-scenarios/"><u>Distinguishing Diverse AI Usage Scenarios</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-risk-are-alternative-chatgpt-plugins-secure-to-use/"><u>Evaluating the Risk: Are Alternative ChatGPT Plugins Secure to Use?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-generative-ai-on-modern-day-information-manipulation-techniques/"><u>Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-7-ways-people-are-using-chatgpt-today/"><u>Exploring the Impact: 7 Ways People Are Using ChatGPT Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-realtime-av-enthusiasts-community/"><u>In 2024, RealTime AV Enthusiasts Community</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/premium-gpts-role-in-achieving-language-excellence/"><u>Premium GPT's Role in Achieving Language Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prepare-to-impress-integrating-chatgpt-in-interview-practice/"><u>Prepare to Impress: Integrating ChatGPT in Interview Practice</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-premium-microphone-selection-for-your-podcast-for-2024/"><u>The Premium Microphone Selection for Your Podcast for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-trick-for-restoring-responsiveness-in-laptop-touchpad-scrolls/"><u>The Ultimate Trick for Restoring Responsiveness in Laptop Touchpad Scrolls</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-find-x6-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo Find X6 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-a38-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo A38 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-quintet-of-advanced-ai-processor-technologies/"><u>Unveiling the Quintet of Advanced AI Processor Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/yitian-710-by-alibaba-revolutionizing-speed-with-its-superior-arm-architecture-for-cloud-computing/"><u>Yitian 지테인 710 by Alibaba: Revolutionizing Speed with Its Superior ARM Architecture for Cloud Computing</u></a></li>
 </ul></div>
 

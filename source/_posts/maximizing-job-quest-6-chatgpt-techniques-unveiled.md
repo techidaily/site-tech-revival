@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Job Quest: 6 ChatGPT Techniques Unveiled"
-date: 2024-09-12T02:29:16.013Z
-updated: 2024-09-17T20:09:23.722Z
+date: 2024-09-21T16:39:11.925Z
+updated: 2024-09-23T01:57:30.670Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
@@ -66,9 +73,23 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -88,39 +109,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
@@ -144,20 +145,25 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-explore-the-best-9-online-platforms-featuring-advanced-3d-typography-for-2024/"><u>[New] Explore the Best 9 Online Platforms Featuring Advanced 3D Typography for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-foundations-of-effective-youtube-broadcasting/"><u>[Updated] 2024 Approved The Foundations of Effective YouTube Broadcasting</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-hearing-from-you-simple-windows-10-recorder-guide/"><u>[Updated] In 2024, Hearing From You Simple Windows 10 Recorder Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/designers-delight-incorporating-fonts-into-ae-projects/"><u>Designer's Delight Incorporating Fonts Into AE Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-perplexity-ai-the-ultimate-google-search-enhancer-waiting-on-your-discovery/"><u>Discover Perplexity AI: The Ultimate Google Search Enhancer Waiting on Your Discovery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diving-deep-into-cybersecurity-linus-tech-tips-demystifies-trojans-and-explores-social-media-checkmark-functionality/"><u>Diving Deep Into Cybersecurity: Linus Tech Tips Demystifies Trojans & Explores Social Media Checkmark Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-creative-possibilities-free-use-of-dall-e-3-with-microsoft-bing-for-imaginative-content-generation/"><u>Exploring Creative Possibilities: Free Use of DALL-E 3 with Microsoft Bing for Imaginative Content Generation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pros-and-cons-of-syma-x8c/"><u>In 2024, Pros and Cons of Syma X8C</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-synchronized-system-apple-watch-and-mac-unlocking/"><u>In 2024, Synchronized System Apple Watch and Mac Unlocking</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-guide-on-how-to-transform-your-flv-videos-into-high-quality-avi/"><u>Quick Guide on How to Transform Your FLV Videos Into High-Quality AVI</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restore-original-screen-aspect-ratio/"><u>Restore Original Screen Aspect Ratio</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-strategies-for-disguising-your-conversations-with-chatgpt-effortlessly/"><u>Smart Strategies for Disguising Your Conversations with ChatGPT Effortlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-perfect-game-session-6-ways-chatgpt-can-elevate-your-role-as-a-dm/"><u>The Perfect Game Session: 6 Ways ChatGPT Can Elevate Your Role as a DM</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/where-to-find-premium-ai-prompt-services-top-7-picks/"><u>Where to Find Premium AI Prompt Services - Top 7 Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-considering-claude-3-makes-sense-4-compelling-reasons-to-make-the-change-from-chatgpt/"><u>Why Considering Claude 3 Makes Sense: 4 Compelling Reasons to Make the Change From ChatGPT</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-transform-your-content-game-with-creator-studio-insight/"><u>[Updated] 2024 Approved Transform Your Content Game with Creator Studio Insight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225098840-aump3-movavi/"><u>網路上免費移轉AU到MP3 - 利用Movavi的音頻格式轉換器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversao-de-videos-para-formato-rmvb-online-livre-com-movavi/"><u>Conversão De Vídeos Para Formato RMVB Online Livre Com Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-cr2-raw-images-to-jpeg-format-with-ease-mastering-adobe-photoshop-and-lightroom-techniques/"><u>Convert CR2 RAW Images to JPEG Format with Ease: Mastering Adobe Photoshop & Lightroom Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-changing-aac-audio-files-into-flac-format-movavi/"><u>Free Online Conversion: Changing AAC Audio Files Into FLAC Format - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-media-file-converter-by-movavi-acesse-a-conversao-online-de-arquivos-mod-com-facilidade/"><u>Gratis Media File Converter by Movavi - Acesse a Conversão Online De Arquivos MOD Com Facilidade!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-magic5-ultimate-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor Magic5 Ultimate Phone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-v30t-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme V30T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-k70-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi K70 FRP Locks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-camon-20-premier-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Camon 20 Premier 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlocking-the-secrets-to-successful-rapid-subscribing-on-youtube/"><u>In 2024, Unlocking the Secrets to Successful Rapid Subscribing on YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rs-in-education-top-15-sci-yt-innovators/"><u>Leaders in Education Top 15 Sci-YT Innovators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nuze-online-translatoren-voor-apng-fiches-professioneel-en-gratis-met-movavi-konvertierer/"><u>Nuze Online Translatoren Voor APNG-Fiches: Professioneel en Gratis Met Movavi Konvertierer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sharpen-your-iphone-hdri-discover-the-top-4-fixes-for-premiere-pro-professionals-for-2024/"><u>Sharpen Your iPhone HDRI Discover the Top 4 Fixes for Premiere Pro Professionals for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/son-dogusa-icin-secilmis-teknikler-ucretlestirmeye-yanlislarin-onerisi-sabitleme-programi/"><u>Son Doğuşa İçin Seçilmiş Teknikler: Ücretleştirmeye Yanlışların Önerisi Sabitleme Programı</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-updated-method-to-bypass-honor-100-frp-by-drfone-android/"><u>The Updated Method to Bypass Honor 100 FRP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-strategies-for-efficient-video-compression-before-sending-via-email/"><u>Top 9 Strategies for Efficient Video Compression Before Sending via Email</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-mkv-videos-into-gif-format-over-the-internet-without-cost-a-guide-with-movavi-converter/"><u>Transform MKV Videos Into GIF Format Over the Internet Without Cost: A Guide with Movavi Converter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforme-sua-uniao-em-memoria-eterna-tecnicas-essenciais-para-um-foto-e-video-de-casamento-inesquecivel/"><u>Transforme Sua União Em Memória Eterna - Técnicas Essenciais Para Um Foto E Vídeo De Casamento Inesquecível!</u></a></li>
 </ul></div>
 

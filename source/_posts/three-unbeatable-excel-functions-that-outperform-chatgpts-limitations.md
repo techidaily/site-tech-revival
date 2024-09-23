@@ -1,7 +1,7 @@
 ---
 title: Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations
-date: 2024-09-17T02:33:03.327Z
-updated: 2024-09-18T08:19:13.400Z
+date: 2024-09-21T23:42:07.145Z
+updated: 2024-09-23T10:23:43.028Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### NVIDIA NeMo
 
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
@@ -54,15 +61,22 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## NVIDIA BioNeMo
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
@@ -76,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
@@ -109,19 +123,18 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-digital-extension-fb-stories-archive/"><u>[New] Digital Extension Fb Stories Archive</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-excellent-choice-for-capturing-professional-quality-on-youtube-for-2024/"><u>[New] Excellent Choice for Capturing Professional Quality on YouTube for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-ai-insights-into-advantages-threats/"><u>Dissecting AI: Insights Into Advantages, Threats</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/documentary-storytelling-from-idea-to-screenplay/"><u>Documentary Storytelling From Idea to Screenplay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-engaging-in-dialogue-enhance-chatgpts-learning-abilities/"><u>Does Engaging in Dialogue Enhance ChatGPT's Learning Abilities?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-realtek-hd-graphics-card-drivers-comprehensive-troubleshooting-guide/"><u>Fixing Realtek HD Graphics Card Drivers: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus Without Passcode?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-playbook-techniques-to-archive-your-unique-vr-adventures/"><u>In 2024, The Ultimate Playbook Techniques to Archive Your Unique VR Adventures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-techniques-for-creating-poems-en-masse-with-chatgpts-assistance/"><u>Innovative Techniques for Creating Poems En Masse With ChatGPT's Assistance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-the-google-bard-app-safe-uncovering-risks-of-malware-intrusion-avoid-installation/"><u>Is the Google Bard App Safe? Uncovering Risks of Malware Intrusion – Avoid Installation</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/preventing-graphics-overheating-crises-keeping-systems-running/"><u>Preventing Graphics Overheating Crises, Keeping Systems Running</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-common-reasons-for-voice-chat-malfunction-in-destiny-2-and-solutions/"><u>Solved: Common Reasons for Voice Chat Malfunction in Destiny 2 & Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-plus-value-proposition/"><u>Unlocking ChatGPT Plus Value Proposition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-obtaining-visual-assets/"><u>[New] Comprehensive Guide to Obtaining Visual Assets</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-perfect-pages-with-premieres-fade-techniques/"><u>[Updated] In 2024, Perfect Pages with Premiere's Fade Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-windows-animation-top-9-apps-for-high-quality-gif-capture-for-2024/"><u>[Updated] Mastering Windows Animation Top 9 Apps for High-Quality GIF Capture for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-archivos-mp3-al-formato-sin-costo-de-m4a-con-movavi-guia-gratuita-y-rapida/"><u>Convertir Archivos MP3 Al Formato Sin Costo De M4A Con Movavi - Guía Gratuita Y Rápida</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-wma-files-into-m4v-format-with-ease-moveavi/"><u>Free Online Converter: Transform WMA Files Into M4V Format with Ease - Moveavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-xiaomi-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Xiaomi ?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oneplus-11-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-huawei-nova-y91-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Huawei Nova Y91 to Protect Your Individual Information</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-never-compromise-on-security-try-our-list-of-top-10-secure-free-video-calling-apps/"><u>In 2024, Never Compromise on Security – Try Our List of Top 10 Secure, Free Video Calling Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mac-specs-veranderen-de-top-5-manieren-om-het-scherm-op-je-mac-te-laten-toenemen-movavi/"><u>Mac-Specs Veranderen! De Top 5 Manieren Om Het Scherm Op Je Mac Te Laten Toenemen - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macwindows/"><u>MacとWindowsの両方向けにファイル圧縮:最大限圧縮比達成ガイド</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/population-and-prevalence-of-french-speaking-societies/"><u>Population & Prevalence of French-Speaking Societies</u></a></li>
 </ul></div>
 

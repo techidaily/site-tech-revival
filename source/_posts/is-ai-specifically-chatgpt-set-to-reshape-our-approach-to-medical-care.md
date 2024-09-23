@@ -1,7 +1,7 @@
 ---
 title: Is AI, Specifically ChatGPT, Set to Reshape Our Approach to Medical Care?
-date: 2024-09-10T18:59:17.249Z
-updated: 2024-09-17T23:53:32.616Z
+date: 2024-09-18T20:33:52.103Z
+updated: 2024-09-23T06:48:01.456Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,29 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
 
@@ -60,9 +80,23 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
 
@@ -77,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  There are plenty of templates to choose from, and each can be customized. You can tell the AI what your business offers and what company you work for to get better results. From there, Presentations.AI handles the rest. From the template, the content of the slides, and everything in between, Presentations.AI will create your presentation for you.
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6.[ChatBA](https://www.chatba.com)
 
@@ -100,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.
@@ -111,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  You can also choose to include images, which the AI will choose from Pexels. These images are entirely free-to-use, and match the content of the slide decently enough. The presentations produced with MagicSlides are pretty good. The content is organized by dot points and feels natural.
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make a Presentation Like Never Before
 
@@ -138,19 +158,25 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-revolutionizing-storytelling-free-onlineoffline-animations/"><u>[Updated] In 2024, Revolutionizing Storytelling Free Online/Offline Animations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-visual-vibes-top-story-filter-rankings/"><u>[Updated] In 2024, Visual Vibes Top Story Filter Rankings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm5asn6kap5qih44gq44ot44oh44kq57eo6zug5oml6acg44ks44kk44oj44cn/"><u>「大規模なビデオ編集手順ガイド」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm44or44k944kz44oz5lik44gn6zplusz5qw944ov44kh44kk44or44ks44oq44ol44ki5yyw44gx44gm5lplusd5a2y44gz44kl5yq55p6c55qe44gq5oml6acg44cn/"><u>「パソコン上で音楽ファイルをリニア化して保存する効果的な手順」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/adobe-premiere-pro-step-by-step-guide-to-converting-your-edit-into-an-mp4-file/"><u>Adobe Premiere Pro: Step-by-Step Guide to Converting Your Edit Into an MP4 File</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-techniques-to-strengthen-bluetooth-signals-on-your-windows-laptop-or-pc/"><u>Advanced Techniques to Strengthen Bluetooth Signals on Your Windows Laptop or PC.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/androidavi/"><u>Android端末にてAvi動画ファイルの再生手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/anytime-anywhere-training-with-jillian-michaels-complete-copy-of-her-famous-dvd-programs/"><u>Anytime, Anywhere Training with Jillian Michaels' Complete Copy of Her Famous DVD Programs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-cosmic-leaps-effects-for-fiction-films/"><u>Crafting Cosmic Leaps Effects for Fiction Films</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-strategies-for-a-smooth-gaming-experience-in-team-fortress-2-no-more-crashes/"><u>Expert Strategies for a Smooth Gaming Experience in Team Fortress 2: No More Crashes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/get-down-under-with-aussie-slang-definitions/"><u>Get Down Under With Aussie Slang Definitions</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-resolving-common-issues-in-call-of-duty-black-ops-4/"><u>Step-by-Step Tutorial: Resolving Common Issues in Call of Duty Black Ops 4</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-x5-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/transforming-chat-frustrations-into-effective-google-meet-conversations-for-2024/"><u>Transforming Chat Frustrations Into Effective Google Meet Conversations for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ancient-roguelike-tactics-vs-innovative-approaches/"><u>[New] 2024 Approved Ancient Roguelike Tactics Vs. Innovative Approaches</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-identifying-top-video-capturing-tools-for-win11/"><u>[New] 2024 Approved Identifying Top Video Capturing Tools for Win11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-convert-youtube-twitter-videos-to-mp3-songs/"><u>[New] Guide to Convert YouTube Twitter Videos to MP3 Songs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-discover-hidden-audio-makers-6-stealthy-iosandroid-tools/"><u>[New] In 2024, Discover Hidden Audio Makers 6 Stealthy iOS/Android Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-comprehensive-guide-to-top-hashtag-analysis-tools-fbtwitterinsta/"><u>[Updated] 2024 Approved Comprehensive Guide to Top Hashtag Analysis Tools (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-lens-of-loom-perfecting-your-video-weave/"><u>2024 Approved Lens of Loom Perfecting Your Video Weave</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024-windows-11-8/"><u>2024年版 Windows 11用 ベスト無料動画編集アプリ トップ8推奨!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5asw6yoo6zplusz44ks5o6s6zmk44gx44gm44kv44oq44ki44gq55s75yop6yyy6kaw5pa55rov/"><u>外部音を排除してクリアな画像録視方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adaptable-video-format-shifter-smoothly-transition-from-any-video-type-to-flv-and-vice-versa/"><u>Adaptable Video Format Shifter: Smoothly Transition From Any Video Type to FLV and Vice Versa</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-encoding-videos-in-h2n5-using-handbrake/"><u>Comprehensive Tutorial: Encoding Videos in H.2n5 Using HandBrake</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdadobemp4mov/"><u>DVDコンテンツのAdobeソフトによるスムーズなMP4/MOVへの変換・再編集ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-methods-to-downloading-an-entire-soundcloud-playlist-onto-your-device/"><u>Easy Methods to Downloading an Entire SoundCloud Playlist Onto Your Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-convert-your-dvds-into-high-definition-wmv-files-with-this-easy-windows-method/"><u>Efficiently Convert Your DVDs Into High-Definition WMV Files with This Easy Windows Method</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-transforming-flv-files-into-mp4-with-vlc/"><u>Effortless Conversion: Transforming FLV Files Into MP4 with VLC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-ears-the-ultimate-guide-to-recording-sounds-with-windows-n-11/"><u>Effortless Ears: The Ultimate Guide to Recording Sounds with Windows N 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-how-to-divide-an-mkv-file-into-chapters-with-ease/"><u>Effortless Guide: How to Divide an MKV File Into Chapters with Ease</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-cover-video-introduction-size-format-and-time-for-2024/"><u>Facebook Cover Video Introduction, Size, Format & Time for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-audible-beats-to-written-notes-converting-your-spotify-lists-into-text-format/"><u>From Audible Beats to Written Notes: Converting Your Spotify Lists Into Text Format</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-perfecting-your-tone-techniques-for-zoom-podcast-sessions/"><u>In 2024, Perfecting Your Tone Techniques for ZOOM Podcast Sessions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-leading-7-android-apps-to-cut-out-intrusive-ads/"><u>In 2024, The Leading 7 Android Apps to Cut Out Intrusive Ads</u></a></li>
 </ul></div>
 

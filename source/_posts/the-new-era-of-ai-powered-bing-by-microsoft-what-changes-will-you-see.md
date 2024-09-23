@@ -1,7 +1,7 @@
 ---
 title: The New Era of AI-Powered Bing by Microsoft – What Changes Will You See?
-date: 2024-09-13T17:07:23.663Z
-updated: 2024-09-18T06:01:17.723Z
+date: 2024-09-19T18:16:36.613Z
+updated: 2024-09-22T16:51:56.050Z
 tags:
   - chatgpt
   - open-ai
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
@@ -75,19 +75,49 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
+
+ With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
+
+![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Limitations of DALL-E 3 and Bing
+
+ With no subscription fees or waitlist, you're probably wondering what the catch is.
+
+ If you're[using Bing Image Creator to create AI images](https://www.makeuseof.com/how-use-bing-image-creator-free/) , you are limited to 25 free "boost credits" that replenish each week. Boosts are used to generate an image within a timely manner—roughly 30 seconds—and when you run out, this can increase to 5 minutes.
+
+ Given that DALL-E 2 is no longer available for free, it's a small restriction in return for using DALL-E 3\. Plus, if you use Bing Chat, you won't be required to sign up.
+
+ Another change to DALL-E 3 is the increase in moderation and safety measures that some people might consider a limitation, such as "removing public figure names" from the prompt, as mentioned in the[DALL-E 3 research paper](https://cdn.openai.com/papers/DALL%5FE%5F3%5FSystem%5FCard.pdf) .
+
+ But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
 <!-- affiliate ads begin -->
 <span id="1542129">
@@ -101,22 +131,6 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
- With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
-
-![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
-
-## Limitations of DALL-E 3 and Bing
-
- With no subscription fees or waitlist, you're probably wondering what the catch is.
-
- If you're[using Bing Image Creator to create AI images](https://www.makeuseof.com/how-use-bing-image-creator-free/) , you are limited to 25 free "boost credits" that replenish each week. Boosts are used to generate an image within a timely manner—roughly 30 seconds—and when you run out, this can increase to 5 minutes.
-
- Given that DALL-E 2 is no longer available for free, it's a small restriction in return for using DALL-E 3\. Plus, if you use Bing Chat, you won't be required to sign up.
-
- Another change to DALL-E 3 is the increase in moderation and safety measures that some people might consider a limitation, such as "removing public figure names" from the prompt, as mentioned in the[DALL-E 3 research paper](https://cdn.openai.com/papers/DALL%5FE%5F3%5FSystem%5FCard.pdf) .
-
- But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
@@ -137,20 +151,15 @@ thumbnail: https://thmb.techidaily.com/5007fff59cf8da665a883eea8dc45d22315969cbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-vocal-customization-guide-for-sony-gaming-consoles/"><u>[New] In 2024, Vocal Customization Guide for Sony Gaming Consoles</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-hear-the-difference-explore-the-best-voice-changer-software-for-smartphones/"><u>[Updated] In 2024, Hear the Difference Explore the Best Voice Changer Software for Smartphones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-gpt-the-definitive-guide-on-making-it-available-for-all/"><u>Demystifying GPT-# - The Definitive Guide on Making It Available for All</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-spreadsheet-complexities-with-chatgpt-excel/"><u>Demystifying Spreadsheet Complexities with ChatGPT-Excel</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/engage-with-confidentiality-explore-the-power-of-duckduckgos-ai-driven-secure-chat-platform/"><u>Engage With Confidentiality: Explore the Power of DuckDuckGo’s AI-Driven Secure Chat Platform</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722961474406-get-the-newest-driver-update-for-hp-elitebook-8460p-on-a-windows-pc-no-hassle/"><u>Get the Newest Driver Update for HP EliteBook 8460P on a Windows PC – No Hassle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-on-your-ubuntu-system-through-shell-interface/"><u>How to Leverage ChatGPT on Your Ubuntu System Through Shell Interface</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-make-the-most-out-of-llama-2-tips-and-tricks/"><u>How to Make the Most Out of Llama 2: Tips & Tricks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gigabyte-totals-for-extended-video-playback/"><u>In 2024, Gigabyte Totals for Extended Video Playback</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-xiaomi-14-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Xiaomi 14 Pro FRP Bypass</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-image-generation-combining-dall-e-and-gpt-4-for-unique-creations/"><u>Mastering Image Generation: Combining DALL-E and GPT-4 for Unique Creations</u></a></li>
-<li><a href="https://article-posts.techidaily.com/pixel-perfection-for-those-just-starting-out-for-2024/"><u>Pixel Perfection for Those Just Starting Out for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/shield-your-site-deter-robotic-scrappers/"><u>Shield Your Site: Deter Robotic Scrappers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/three-way-clash-of-bots-creativity-analyzing-which-ai-excelled-with-the-same-challenge/"><u>Three-Way Clash of Bots' Creativity: Analyzing Which AI Excelled with the Same Challenge</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013259514-trouble-with-house-flipper-2-heres-how-to-resolve-pc-malfunctions-and-enjoy-gaming/"><u>Trouble with House Flipper 2? Here's How to Resolve PC Malfunctions and Enjoy Gaming!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-leverage-popular-tiktok-hashes-for-increased-interactions-for-2024/"><u>[New] Leverage Popular TikTok Hashes For Increased Interactions for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mov-mov/"><u>無障礙線上 MOV移動 - 便利式 MOV文件轉送服務</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-the-next-gen-google-tv-box-specs-pricing-and-release-gossip-revealed/"><u>All You Need to Know About the Next-Gen Google TV Box – Specs, Pricing, & Release Gossip Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-perfect-video-content-for-every-event-using-movavi/"><u>Crafting Perfect Video Content for Every Event Using Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-tools-transform-your-jpeg-images-without-fee/"><u>Free Online Conversion Tools - Transform Your JPEG Images without Fee</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-lg-bp350-evaluation-size-resolution-and-connectivity/"><u>In 2024, LG BP350 Evaluation - Size, Resolution, and Connectivity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s17e-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo S17e</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-obs-studio-a-comprehensive-breakdown-for-content-creators-and-streamers/"><u>Mastering OBS Studio: A Comprehensive Breakdown for Content Creators and Streamers</u></a></li>
 </ul></div>
 

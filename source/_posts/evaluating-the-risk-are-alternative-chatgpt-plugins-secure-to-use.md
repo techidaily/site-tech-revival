@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Risk: Are Alternative ChatGPT Plugins Secure to Use?"
-date: 2024-09-11T17:50:17.237Z
-updated: 2024-09-17T23:18:15.998Z
+date: 2024-09-20T12:38:05.300Z
+updated: 2024-09-23T12:03:50.944Z
 tags:
   - chatgpt
   - open-ai
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -77,6 +77,20 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -101,20 +115,20 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-mastering-professional-camera-spin-360-edition-2023-for-2024/"><u>[New] Mastering Professional Camera Spin 360° Edition, 2023 for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-resize-photos-on-an-iphone/"><u>[Updated] How to Resize Photos on an iPhone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-converting-zip-files-into-srt-subtitle-format-quickly/"><u>[Updated] In 2024, Converting ZIP Files Into SRT Subtitle Format Quickly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-jest-and-jibe-constructing-parody-videos/"><u>[Updated] Jest and Jibe Constructing Parody Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-youtube-to-flash-video-transcoder-no-costs-involved/"><u>Best Free YouTube-to-Flash Video Transcoder – No Costs Involved!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypassing-premiere-pros-unsupported-file-compression-issue/"><u>Bypassing Premiere Pro’s Unsupported File Compression Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-features-free-vs-pro-video-to-audio-converter-edition/"><u>Comparing Features: Free vs Pro - Video to Audio Converter Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-wmv-and-mp4-video-formats-and-tips-for-converting-wmv-videos-effectively/"><u>Comparing WMV and MP4 Video Formats & Tips for Converting WMV Videos Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficient-conversion-guide-transforming-fbr-files-from-bb-flashback-into-high-quality-mp4/"><u>Efficient Conversion Guide: Transforming FBR Files From BB FlashBack Into High-Quality MP4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-dvd-cloning-on-windows-10-a-step-by-step-tutorial-for-preserving-quality/"><u>Effortless DVD Cloning on Windows 10: A Step-by-Step Tutorial for Preserving Quality</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-fbs-flash-video-frontier/"><u>In 2024, FB's Flash Video Frontier</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maintaining-data-integrity-in-adaptive-chatgpt-systems/"><u>Maintaining Data Integrity in Adaptive ChatGPT Systems</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/navigating-chatgpts-extension-signup-procedure/"><u>Navigating ChatGPT's Extension Signup Procedure</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvdwinmac/"><u>ビデオデータを取得する：DVD用Win/Mac解説</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-workaround-twitter-videos-in-chrome-problem/"><u>[New] In 2024, Workaround Twitter Videos in Chrome Problem</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-set-up-your-windows-xp-professional-videography-tool/"><u>[New] Set Up Your Windows XP Professional Videography Tool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-concoct-chuckles-giphy-edition/"><u>[Updated] Concoct Chuckles - Giphy Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-unveiled-a-step-by-step-approach-to-formulating-compelling-proposals/"><u>ChatGPT Secrets Unveiled: A Step-by-Step Approach to Formulating Compelling Proposals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-15-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 15 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-tailored-ai-unveiling-the-new-features-of-chatgpts-recent-upgrade/"><u>Create Tailored AI: Unveiling the New Features of ChatGPT's Recent Upgrade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-advantages-why-chatgpt-is-your-choice-for-health-consultations/"><u>Discover the Advantages: Why ChatGPT Is Your Choice for Health Consultations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tips-leveraging-chatgpt-effectively-for-your-writing-gigs/"><u>Essential Tips: Leveraging ChatGPT Effectively for Your Writing Gigs</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-iphone-alarm-malfunctions-expert-tips-and-solutions/"><u>Fixing iPhone Alarm Malfunctions: Expert Tips & Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-nostalgic-handheld-gaming-to-cutting-edge-chatbots-and-building-a-winning-pc-rig/"><u>From Nostalgic Handheld Gaming to Cutting-Edge ChatBots & Building a Winning PC Rig</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-zte-lock-screen-password-by-drfone-android/"><u>How To Change ZTE Lock Screen Password?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-integrating-your-vimeo-videos-into-instagram/"><u>In 2024, Integrating Your Vimeo Videos Into Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-chatbot-engagement-through-precise-persona-development-techniques/"><u>Optimizing Chatbot Engagement Through Precise Persona Development Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scrutinizing-trust-in-zerogpt-and-its-detection-counterparts/"><u>Scrutinizing Trust in ZeroGPT & Its Detection Counterparts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-embracing-chatgpt-is-crucial-for-modern-employees-a-six-point-guide/"><u>Why Embracing ChatGPT Is Crucial for Modern Employees: A Six-Point Guide</u></a></li>
 </ul></div>
 

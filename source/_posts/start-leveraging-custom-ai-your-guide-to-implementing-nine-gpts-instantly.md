@@ -1,7 +1,7 @@
 ---
 title: "Start Leveraging Custom AI: Your Guide to Implementing Nine GPTs Instantly"
-date: 2024-09-16T18:28:26.086Z
-updated: 2024-09-18T04:50:04.177Z
+date: 2024-09-17T09:29:49.718Z
+updated: 2024-09-22T17:04:21.674Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
@@ -59,15 +66,22 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
@@ -90,10 +104,10 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
@@ -115,20 +129,18 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-beginners-essential-guide-to-youtube-video-editing-magic/"><u>[New] 2024 Approved Beginner’s Essential Guide to YouTube Video Editing Magic</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-analyzing-video-success-self-vs-rivals-in-the-youtube-arena-for-2024/"><u>[New] Analyzing Video Success Self Vs. Rivals in the YouTube Arena for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-compliance-in-recording-video-streams-on-youtube/"><u>[Updated] Compliance in Recording Video Streams on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-which-screen-recorder-reigns-supreme-obs-or-fraps/"><u>[Updated] Which Screen Recorder Reigns Supreme OBS or Fraps?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-entertainment-instantly-saving-movies-music-shows-offline-made-simple/"><u>Download Entertainment Instantly: Saving Movies, Music, Shows Offline Made Simple!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-guide-adding-the-athena-extension-to-your-kodi-for-instant-movie-and-show-access/"><u>Easy Guide: Adding the Athena Extension to Your Kodi for Instant Movie & Show Access</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-wwe-content-grabber-guide-to-free-downloading-wwe-footage-in-multiple-formats/"><u>Effortless WWE Content Grabber - Guide to Free Downloading WWE Footage in Multiple Formats</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/end-the-frustration-of-rainbow-six-siege-crashes-on-pc-with-these-effective-fixes/"><u>End the Frustration of 'Rainbow Six Siege' Crashes on PC with These Effective Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-transform-m2ts-files-into-ts-format-while-preserving-video-quality/"><u>How to Transform M2TS Files Into TS Format While Preserving Video Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-transform-youtube-content-into-mp3-files-quickly/"><u>How To Transform YouTube Content Into MP3 Files Quickly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-13-pro-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro with/without SIM Card</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/ideal-8-desktop-images-to-personalize-your-mbp-for-2024/"><u>Ideal 8 Desktop Images to Personalize Your MBP for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-media-format-transformation-reliable-technique-for-turning-flv-into-premium-mp3-soundtracks/"><u>Mastering Media Format Transformation: Reliable Technique for Turning FLV Into Premium MP3 Soundtracks</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-realme-c33-2023-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Realme C33 2023.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-webm-imports-expert-guide-on-fixing-adobe-media-encoder-glitches/"><u>Resolving WebM Imports: Expert Guide on Fixing Adobe Media Encoder Glitches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-started-streaming-learn-obs-for-youtube-now/"><u>[New] 2024 Approved Started Streaming? Learn OBS for Youtube Now!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-virtualblender-for-all-operating-systems/"><u>[New] In 2024, VirtualBlender for All Operating Systems</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-digital-splendor-on-youtube-the-hue-harmonization-way/"><u>[Updated] Digital Splendor on YouTube The Hue Harmonization Way</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-shortform-video-tweets-as-webm-sounds/"><u>[Updated] Shortform Video Tweets as WebM Sounds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-setting-up-the-sealteam6-plugin-on-kodi-nexus-and-matrix-systems/"><u>Easy Guide: Setting Up the SealTeam6 Plugin on Kodi - NeXus & Matrix Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-guide-efficiently-transforming-dsd-and-dvd-audio-to-optimal-flac-sound-quality/"><u>Expert Guide: Efficiently Transforming DSD and DVD-Audio to Optimal FLAC Sound Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-high-quality-sound-bite-resources-the-best-five-sites-you-should-visit/"><u>Free High-Quality Sound Bite Resources: The Best Five Sites You Should Visit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-songs-for-nothing-downloading-deezer-tunes-onto-pcs-and-smartphones/"><u>Get Songs for Nothing: Downloading Deezer Tunes Onto PCs and Smartphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/halloween-deals-blast-of-wonderfox-enjoy-discounts-up-to-70-in-october-spooktacular/"><u>Halloween Deals Blast of WonderFox: Enjoy Discounts up to 70% in October Spooktacular!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-x-fold-2-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo X Fold 2 Lock Screen Password?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 Pro Max</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-tecno-phantom-v-flip-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Tecno Phantom V Flip FRP Bypass</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-feedback-resolved/"><u>Nvidia RTX Feedback - Resolved</u></a></li>
 </ul></div>
 

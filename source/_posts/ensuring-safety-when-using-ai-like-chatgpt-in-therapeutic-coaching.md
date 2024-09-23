@@ -1,7 +1,7 @@
 ---
 title: Ensuring Safety When Using AI Like ChatGPT in Therapeutic Coaching
-date: 2024-09-13T11:15:01.999Z
-updated: 2024-09-17T22:18:28.630Z
+date: 2024-09-17T10:43:42.253Z
+updated: 2024-09-23T05:22:09.793Z
 tags:
   - chatgpt
   - open-ai
@@ -34,9 +34,23 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 
  For example, if you ask both models to complete a creative task like writing a poem using both English and French on each line of the poem,[ChatGPT powered by the latest GPT-4 model](https://www.makeuseof.com/how-to-use-gpt4/) will deliver better results. While GPT-4's response would use both languages on every line, GPT-3.5 would alternate between both languages instead, with each line using one language and the next using the other.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. GPT-4 vs. GPT-3.5: Image or Visual Inputs
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
@@ -48,33 +62,33 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 ![Image of Shield Representing Cybersecurity ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/behavior-based-safety-tips-featured-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While GPT-4 is not perfect, the measures it adopts to ensure safer responses are a welcomed upgrade from that of the GPT-3.5 model. With GPT-3.5, OpenAI took a more moderation-based approach to safety. In other words, some of the safety measures were more of an afterthought. OpenAI monitored what users did and the questions they asked, identified flaws, and tried to fix them on the go.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
 ​​​​​​
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
@@ -107,21 +121,17 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-mastering-tiktok-step-by-step-caption-techniques-for-2024/"><u>[New] Mastering TikTok Step-by-Step Caption Techniques for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-uniting-platforms-post-videos-across-twitter-and-tumblr/"><u>[New] Uniting Platforms Post Videos Across Twitter & Tumblr</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-gifs-from-youtube-detailed-step-by-step-guide-for-pcmobile/"><u>[Updated] 2024 Approved Crafting GIFs From YouTube Detailed Step-by-Step Guide for PC/Mobile</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-breaking-the-streak-code-proven-techniques/"><u>[Updated] In 2024, Breaking the Streak Code Proven Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/a-players-manual-to-overcome-graphics-hiccups-and-improve-flow-in-aoe-4-gaming/"><u>A Player's Manual to Overcome Graphics Hiccups and Improve Flow in AoE 4 Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-turings-evaluation-chances-of-victory/"><u>Demystifying Turing's Evaluation: Chances of Victory?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-chatgpt-tools-to-boost-your-productivity-in-vs-code/"><u>Discover the Ultimate ChatGPT Tools to Boost Your Productivity in VS Code</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-apps-for-archiving-and-sharing-your-chatgpt-dialogue-history/"><u>Essential Apps for Archiving & Sharing Your ChatGPT Dialogue History</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fixing-the-issue-how-to-stop-wallpaper-engine-from-crashing-on-windows-11-and-10/"><u>Fixing the Issue: How to Stop Wallpaper Engine From Crashing on Windows 11 & 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-chatbot-to-essential-tool-the-6-functional-layers-of-snapchats-my-ai-beyond-toy-status/"><u>From Chatbot to Essential Tool: The 6 Functional Layers of Snapchat's My AI Beyond Toy Status</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-on-windows-11107-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers on Windows 11/10/7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-intellectual-property-laws-for-ai-produced-artwork-who-gains-the-recognition/"><u>Navigating Through Intellectual Property Laws for AI-Produced Artwork: Who Gains the Recognition?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamlining-sound-recording-a-filmmakers-handbook-on-voice-overs/"><u>Streamlining Sound Recording A Filmmaker's Handbook on Voice-Overs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/system-safety-proven-ways-to-prevent-unauthorized-access/"><u>System Safety: Proven Ways to Prevent Unauthorized Access</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-creativity-with-anthropics-ai-store/"><u>Unlocking Creativity with Anthropic's AI Store</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-understanding-and-utilizing-windows-11-auto-hdr-functionality-for-2024/"><u>[New] Understanding and Utilizing Windows 11 Auto HDR Functionality for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-step-up-your-iphone-x7s-selfies-with-these-top-free-tools/"><u>[Updated] 2024 Approved Step Up Your iPhone X/7's Selfies with These Top Free Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-constructing-a-compelling-docu-script-a-stepwise-approach/"><u>[Updated] Constructing a Compelling Docu-Script A Stepwise Approach</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-raspberry-pi-artificial-intelligence-starter-pack-an-in-depth-analysis/"><u>Exploring the Raspberry Pi Artificial Intelligence Starter Pack: An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-m4a-audio-files-into-aac-format-with-ease/"><u>Free Online Converter: Transform M4A Audio Files Into AAC Format with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-completo-sobre-a-extensao-do-arquivo-ogg-tipos-e-solucoes-de-playback/"><u>Guia Completo Sobre a Extensão Do Arquivo Ogg - Tipos E Soluções De Playback</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unlocking-full-degree-potential-editing-strategies-with-adobe-premiere/"><u>In 2024, Unlocking Full Degree Potential Editing Strategies with Adobe Premiere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/masterclass-en-gestion-de-archivos-swf-guia-incomparable-sobre-programas-de-apertura-eficiente/"><u>Masterclass en Gestión De Archivos SWF: Guía Incomparable Sobre Programas De Apertura Eficiente</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-finnsgratiska-dvd-brandprogram-varor-med-windows-10-8-och-7/"><u>Top 6 Finnsgratiska DVD-Brändprogram Varor Med Windows 10, 8 Och 7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unfreezing-frozen-obs-stream-input/"><u>Unfreezing Frozen OBS Stream Input</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webm-movavi-webm/"><u>Webm 파일을 쉽게 원룰모진 구문 없이 오픈소스에서 무세워: Movavi WEBM 전환기</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hdfactory/"><u>フリーHDビデオコンバータFactory 成功設定完了！</u></a></li>
 </ul></div>
 

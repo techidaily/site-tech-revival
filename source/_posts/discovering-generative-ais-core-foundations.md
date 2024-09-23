@@ -1,7 +1,7 @@
 ---
 title: Discovering Generative AI's Core Foundations
-date: 2024-09-16T16:39:39.745Z
-updated: 2024-09-18T11:20:10.998Z
+date: 2024-09-20T18:50:03.471Z
+updated: 2024-09-22T17:56:48.623Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -66,10 +73,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -88,6 +95,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -100,10 +114,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -127,14 +141,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-grand-photographic-epic-weaver-toolset/"><u>[New] In 2024, Grand Photographic Epic Weaver Toolset</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lgs-cinematic-revolution-the-31mu97-b-monitor-breakdown-review/"><u>[Updated] LG’s Cinematic Revolution The 31MU97-B Monitor Breakdown Review</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unlock-image-potential-with-editors-essentials/"><u>[Updated] Unlock Image Potential with Editor's Essentials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/achieve-maximum-reach-on-twitter-with-smaller-videos-pcmobile-strategies-and-online-tools-updated-for-2-surveys-2024/"><u>Achieve Maximum Reach on Twitter with Smaller Videos - PC/Mobile Strategies and Online Tools (Updated for 2 Surveys 2024)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/apples-upcoming-release-the-newly-revamped-ipod-nano-6th-edition/"><u>Apple's Upcoming Release: The Newly Revamped iPod Nano, 6Th Edition</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-hot-30-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Hot 30 5G Phones with/without a PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nokia?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-xml-file-bible-for-fcpx-creators-for-2024/"><u>The XML File Bible for FCPX Creators for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chromevimeo/"><u>コツとヒント: Chromeを使ってVimeo動画を免費で保存する方法</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps-for-2024/"><u>[Updated] Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/cognitive-conundrums-top-11-gk-video-hubs-for-2024/"><u>Cognitive Conundrums Top 11 GK Video Hubs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-errors-when-d3dx933dll-is-missing/"><u>Diagnosing and Repairing Errors When d3dx9_33.dll Is Missing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fix-video-troubles-on-computers-with-these-proven-methods-top-8/"><u>Fix Video Troubles on Computers with These Proven Methods (Top 8)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flash-video-playback-on-various-ipads-ipad-air-mini-and-classic-versions/"><u>Flash Video Playback on Various iPads - iPad Air, Mini, and Classic Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-unlimited-downloads-of-films-tv-episodes-songs-for-on-the-go-entertainment/"><u>Get Unlimited Downloads of Films, TV Episodes, Songs for On-The-Go Entertainment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-play-and-convert-your-divx-videos-on-any-device/"><u>How to Play & Convert Your DivX Videos on Any Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transfer-your-dvd-content-onto-a-windows-pc-or-mac-step-by-step-guide/"><u>How to Transfer Your DVD Content Onto a Windows PC or Mac: Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 with a Broken Screen?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 13 mini?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prepping-zones-vr-setup-guide-with-oculus/"><u>In 2024, Prepping Zones VR Setup Guide with Oculus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-the-revolutionary-self-design-feature-customizing-your-own-moto-x-smartphone/"><u>Introducing the Revolutionary Self-Design Feature: Customizing Your Own Moto X Smartphone!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/outstanding-kobo-libra-assessment-exceptional-e-reader-performance-despite-subpar-color-screen/"><u>Outstanding Kobo Libra Assessment: Exceptional E-Reader Performance Despite Subpar Color Screen</u></a></li>
 </ul></div>
 

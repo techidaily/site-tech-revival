@@ -1,7 +1,7 @@
 ---
 title: Decoding 5 Ways AI Reinforces Illicit Online Techniques
-date: 2024-09-11T11:36:02.224Z
-updated: 2024-09-18T03:02:08.332Z
+date: 2024-09-17T11:10:06.456Z
+updated: 2024-09-23T03:59:06.613Z
 tags:
   - chatgpt
   - open-ai
@@ -62,7 +62,27 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -72,16 +92,16 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -110,10 +130,16 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -125,10 +151,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
@@ -148,17 +174,25 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-from-vision-to-viewers-step-by-step-guide-to-live-tv-screens-on-windows-pcs/"><u>[New] From Vision to Viewers Step-by-Step Guide to Live TV Screens on Windows PCs</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-quick-and-reliable-mp4-file-capture-tool/"><u>[Updated] In 2024, Quick & Reliable MP4 File Capture Tool</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-efficiency-in-advertising-post-facebook-algorithm-overhaul/"><u>2024 Approved Efficiency in Advertising Post-Facebook Algorithm Overhaul</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/affordable-cybersecurity-solve-ransomware-for-just-50-using-your-phone-plus-insights-from-chatgpt-in-our-latest-episode/"><u>Affordable Cybersecurity: Solve Ransomware for Just $50 Using Your Phone, Plus Insights From ChatGPT in Our Latest Episode</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/decoding-fbs-interface-how-to-find-just-watched-content/"><u>Decoding FB's Interface How To Find Just-Watched Content</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dont-fall-for-these-6-overhyped-chatgpt-tools-what-really-works/"><u>Don't Fall for These 6 Overhyped ChatGPT Tools – What Really Works?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/has-the-evolution-of-artificial-intelligence-outpaced-the-turing-test-learn-about-five-modern-alternatives-to-ai-assessment/"><u>Has the Evolution of Artificial Intelligence Outpaced the Turing Test? Learn About Five Modern Alternatives to AI Assessment</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-magicard-rio-pro-driver-software-for-windows-users-windows-10817/"><u>Latest Magicard Rio Pro Driver Software for Windows Users (Windows 10/8.1/7)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-communication-clarity-via-aptly-named-folders/"><u>Maximizing Communication Clarity via Aptly Named Folders</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-problems-with-non-functioning-clownfish-audio-adjusters/"><u>Solving the Problems with Non-Functioning Clownfish Audio Adjusters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-10-must-have-fitness-tracker-apps-for-your-training-regime/"><u>Top 10 Must-Have Fitness Tracker Apps for Your Training Regime</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-safe-mp4-extraction-from-youtube-videos/"><u>[Updated] Safe MP4 Extraction From YouTube Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlock-the-magic-of-capturing-youtube-content-the-no-cost-way/"><u>[Updated] Unlock the Magic of Capturing YouTube Content - The No-Cost Way</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-top-6-unobtrusive-applications-for-android-captures/"><u>2024 Approved Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227442060-voc-mp3-movavi/"><u>線上無付費 VOC 至 MP3 音頻改版 - 使用 Movavi 網站音頻編輯器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-unbiased-apowersoft-screen-recorder-software-evaluation/"><u>Comprehensive Guide: Unbiased Apowersoft Screen Recorder Software Evaluation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dai-primi-passi-al-pro-le-migliori-applicazioni-free-video-editor-disponibili-oggi-in-italia/"><u>Dai Primi Passi Al Pro: Le Migliori Applicazioni Free Video Editor Disponibili Oggi in Italia</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decouvrez-les-10-transformateurs-incontournables-pour-changer-vos-vhs-en-format-digitale/"><u>Découvrez Les 10 Transformateurs Incontournables Pour Changer Vos VHS en Format Digitale !</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-facil-para-insertar-subtitulos-en-su-pelicula-y-usar-archivos-srt/"><u>Guía Fácil Para Insertar Subtítulos en Su Película Y Usar Archivos SRT</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/guide-for-converting-drm-secured-dvds-into-various-codecs-such-as-avi-mp4-wmv-etc/"><u>Guide for Converting DRM-Secured DVDs Into Various Codecs Such as AVI, MP4, WMV Etc.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone SE (2022) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722970426355-keep-your-gigabyte-hardware-performing-download-the-right-ethernet-drivers-here/"><u>Keep Your Gigabyte Hardware Performing: Download the Right Ethernet Drivers Here!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/littlecapture-reviews-on-small-recorder-apps/"><u>LittleCapture Reviews on Small Recorder Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726224564868-movavi/"><u>Movavi의 비디오 발행 성공: 스카이프 녹음 최고의 제안</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-trasformare-file-mp3-in-au-senza-costi-con-movavi-guida-dettagliata-e-facilissima/"><u>Online Trasformare File MP3 in AU Senza Costi Con Movavi: Guida Dettagliata E Facilissima</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-guidelines-youtube-respect-and-usage-for-2024/"><u>Prime Guidelines YouTube Respect & Usage for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-eleven-techniques-for-removing-video-backdrops-without-using-a-green-screen/"><u>Top Eleven Techniques for Removing Video Backdrops Without Using a Green Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-gratuitement-un-fichier-pbm-en-image-jpeg-sur-la-plateforme-de-conversion-en-ligne-de-movavi/"><u>Transformez Gratuitement Un Fichier PBM en Image JPEG Sur La Plateforme De Conversion en Ligne De MOVAVI</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-high-quality-soccer-techniques-premium-hd-and-hdmp4-mobile-videos/"><u>Ultimate Guide to High-Quality Soccer Techniques: Premium HD and HDMP4 Mobile Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-for-the-common-valorant-graphic-driver-collapses-error/"><u>Ultimate Troubleshooting Guide for the Common 'Valorant Graphic Driver Collapses Error'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-mp3-mpg-moveavi/"><u>이미지 및 동영상에 대한 MP4 확장을 사용하여 원하시는 MP3 파일을 MPG로 자유롭게 변환하기 위해 MoveAVI를 사용합니다.</u></a></li>
 </ul></div>
 

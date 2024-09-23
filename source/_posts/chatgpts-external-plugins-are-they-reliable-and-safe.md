@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's External Plugins: Are They Reliable and Safe?"
-date: 2024-09-15T17:54:01.367Z
-updated: 2024-09-18T07:45:39.238Z
+date: 2024-09-20T22:16:25.278Z
+updated: 2024-09-22T20:38:11.438Z
 tags:
   - chatgpt
   - open-ai
@@ -46,9 +46,23 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### NVIDIA Picasso
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
@@ -69,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
@@ -82,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
@@ -109,12 +123,14 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-no-cost-yield-assessment-apps-for-videos/"><u>[Updated] No-Cost Yield Assessment Apps for Videos</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/advanced-docu-ai-techniques-mastering-smart-scanning-with-abbyy-and-pegasystems/"><u>Advanced Docu-AI Techniques: Mastering Smart Scanning with ABBYY & Pegasystems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-and-account-intrusions-are-bank-customers-in-danger-from-chat-based-bots/"><u>AI and Account Intrusions: Are Bank Customers in Danger From Chat-Based Bots?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-the-latest-ai-companion-app-experience-gpt-powered-conversations-for-free-on-windows/"><u>Download the Latest AI Companion App: Experience GPT-Powered Conversations for Free on Windows!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-toggle-the-past-the-twitch-live-trick/"><u>In 2024, Toggle the Past The Twitch Live Trick</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interact-using-ai-discover-the-best-6-apps-for-chatting-through-documents-and-pdfs-like-chatgpt/"><u>Interact Using AI: Discover the Best 6 Apps for Chatting Through Documents & PDFs Like ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/twitch-outage-checking-server-status-or-personal-connection/"><u>Twitch Outage: Checking Server Status or Personal Connection?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-naming-your-podcast-a-complete-guide-plus-list-of-over-50-creative-ideas/"><u>[New] Naming Your Podcast A Complete Guide + List of Over 50 Creative Ideas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726221386898-jpeggif-movavi/"><u>完全無料のオンライン画像編集:JPEGとGIFを効率良く変換する方法 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movaviwebmogv/"><u>用Movavi電子遊樂園轉換器，無縫連接WEBM至免費OGV流動維生</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-hidden-potential-top-10-enhancing-plug-ins/"><u>In 2024, Unlock Hidden Potential Top 10 Enhancing Plug-Ins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-youtubing-timetables-the-definitive-guide-to-optimal-video-publishing-times/"><u>Mastering YouTubing Timetables - The Definitive Guide to Optimal Video Publishing Times</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-video-editor-gratis-installazione-facile-e-download-assolutamente-sicuro/"><u>Movavi Video Editor Gratis - Installazione Facile E Download Assolutamente Sicuro</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/update-needed-confirm-d3d11-graphics-support-for-proper-engine-functionality/"><u>Update Needed: Confirm D3D11 Graphics Support for Proper Engine Functionality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-11-optimized-nvidia-geforce-rtx-3060-ti-driver-software-immediate-download/"><u>Windows 11-Optimized NVIDIA GeForce RTX 3060 Ti Driver Software [Immediate Download]</u></a></li>
 </ul></div>
 

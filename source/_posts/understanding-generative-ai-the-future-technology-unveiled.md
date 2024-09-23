@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: The Future Technology Unveiled"
-date: 2024-09-12T11:08:13.942Z
-updated: 2024-09-18T08:09:51.939Z
+date: 2024-09-21T04:28:26.945Z
+updated: 2024-09-23T03:33:45.904Z
 tags:
   - chatgpt
   - open-ai
@@ -34,15 +34,36 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
 
@@ -62,22 +83,21 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
@@ -115,18 +135,20 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-quick-tips-sending-tweets-content-via-whatsapp-app-for-2024/"><u>[New] Quick Tips Sending Tweets' Content via WhatsApp App for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-social-media-smarter-elevating-your-fb-page-ranking/"><u>[Updated] Social Media Smarter Elevating Your FB Page Ranking</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1-online-3gpp-file-converter-to-mp3-download-and-use-for-free-with-movavi/"><u>1. 'Online 3GPP File Converter to MP3: Download & Use for Free with Movavi'</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-14-plus-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 14 Plus</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/journey-to-blockchain-stardom-discover-the-top-7-generator-tools/"><u>Journey to Blockchain Stardom - Discover the Top 7 Generator Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-tips-how-to-switch-between-quicktime-and-other-video-formats-for-pcs-and-macbooks/"><u>Quick Tips: How to Switch Between QuickTime and Other Video Formats for PCs & MacBooks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rescuing-missing-content-with-wonderfoxs-innovative-search-solutions/"><u>Rescuing Missing Content with WonderFox's Innovative Search Solutions!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/samsung-galaxy-s24-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S24 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-guide-simple-steps-to-transforming-wma-files-into-wav-format/"><u>Seamless Guide: Simple Steps to Transforming WMA Files Into WAV Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-techniques-for-importing-mkv-content-in-sony-vegas-without-glitches/"><u>Seamless Techniques for Importing MKV Content in Sony Vegas without Glitches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-cropping-videos-in-vlc-media-player/"><u>Step-by-Step Guide to Cropping Videos in VLC Media Player</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mka-files-into-aac-format-on-your-windows-pc/"><u>Step-by-Step Guide: Transforming MKA Files Into AAC Format on Your Windows PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-seize-your-social-media-videos-top-extensions-and-downloaders-for-firefox-for-2024/"><u>[New] Seize Your Social Media Videos! Top Extensions and Downloaders for Firefox for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-5-frosty-yet-inviting-backdrops-for-your-vids/"><u>[Updated] 5 Frosty Yet Inviting Backdrops for Your Vids</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-combat-firefox-video-lag-with-these-techniques/"><u>[Updated] Combat Firefox Video Lag with These Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715860061174-updated-kiddos-best-gaming-delights-top-girls-adventures/"><u>[Updated] Kiddo's Best Gaming Delights - Top Girls' Adventures!</u></a></li>
+<li><a href="https://facebook.techidaily.com/establishing-a-visual-representation-on-fb/"><u>Establishing a Visual Representation on FB</u></a></li>
+<li><a href="https://media-tips.techidaily.com/live-stream-ufc-fight-night-293-watch-adesanya-take-on-strickland-from-anywhere/"><u>Live Stream UFC Fight Night 293: Watch Adesanya Take On Strickland From Anywhere!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/official-nvidia-quadro-driver-downloads-for-windows-10-latest-release-and-support-information/"><u>Official Nvidia Quadro Driver Downloads for Windows 10 - Latest Release & Support Information</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/palm-2-vs-gpt-4-unveiling-key-differences/"><u>PaLM 2 Vs. GPT-4: Unveiling Key Differences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-start-guide-activating-and-configuring-auto-gpt-on-ubuntu-systems/"><u>Quick Start Guide: Activating and Configuring Auto-GPT on Ubuntu Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-gt-neo-5-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme GT Neo 5</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-tecno-spark-10-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Tecno Spark 10 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-tech-how-openais-new-gpt-navigate-the-future-with-its-latest-ai-innovation/"><u>Transforming Tech: How OpenAI's New GPT-Navigate the Future with Its Latest AI Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unique-chatterbots-implementing-gpt-for-bespokel-models/"><u>Unique ChatterBots: Implementing GPT for Bespokel Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-stopping-siri-chatgpt-comparisons-helps-recognize-distinctive-qualities/"><u>Why Stopping Siri-ChatGPT Comparisons Helps Recognize Distinctive Qualities</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wi-fi-6ax201-connectivity-anomaly-addressed-now/"><u>Wi-Fi 6Ax201 Connectivity Anomaly - Addressed Now</u></a></li>
 </ul></div>
 

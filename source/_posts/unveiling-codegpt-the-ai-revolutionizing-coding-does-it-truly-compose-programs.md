@@ -1,7 +1,7 @@
 ---
 title: "Unveiling CodeGPT: The AI Revolutionizing Coding – Does It Truly Compose Programs?"
-date: 2024-09-15T07:15:01.137Z
-updated: 2024-09-18T09:50:17.855Z
+date: 2024-09-18T08:57:54.734Z
+updated: 2024-09-23T08:42:56.175Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 
 Here's a video of Altman's discussion below:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -60,6 +74,13 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
 
  Also, there's been underground talk about GPT models being able to process videos, much like GPT-4 models can take images as inputs. So, we could possibly have a model that can process text, images, sound, and videos.
@@ -67,10 +88,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -94,15 +115,24 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-focused-communication-tips-for-virtual-teams/"><u>[New] 2024 Approved Focused Communication Tips for Virtual Teams</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlock-android-games-funimate-pro-apk-deep-dive/"><u>2024 Approved Unlock Android Games - Funimate Pro APK Deep Dive</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-tools-for-transforming-opus-audio-files-into-wav-format-top-3-picks/"><u>Free Tools for Transforming Opus Audio Files Into WAV Format: Top 3 Picks</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-a15-4g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy A15 4G Lock Screen Password?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-whats-revolutionary-about-movavi-plus-video-editor/"><u>In 2024, What's Revolutionary About Movavi Plus Video Editor ?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movhevc/"><u>MOVファイルとのHEVCコードチェンジ: 効率的なビデオエンコード・デコード手法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-to-seamless-downloads-of-aerobic-workout-videos/"><u>Simple Steps to Seamless Downloads of Aerobic Workout Videos</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/switching-gpu-issues-nvidiaintel-on-win10-fixed/"><u>Switching GPU Issues: Nvidia/Intel on Win10 - Fixed!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-complete-step-by-step-tutorial-mastering-video-edits-on-snapchat/"><u>The Complete Step-by-Step Tutorial: Mastering Video Edits on Snapchat</u></a></li>
-<li><a href="https://win-blog.techidaily.com/victory-over-glitches-tips-and-solutions-for-a-smooth-diablo-3-gaming-experience/"><u>Victory over Glitches: Tips & Solutions for a Smooth Diablo 3 Gaming Experience</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pinnacle-of-funny-photo-artistry/"><u>[New] 2024 Approved Pinnacle of Funny Photo Artistry</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-access-all-areas-steps-for-securing-facebook-live-files/"><u>[New] Access All Areas Steps for Securing Facebook Live Files</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-stay-concentrated-how-to-tame-the-chatter-of-google-video-calls/"><u>[Updated] 2024 Approved Stay Concentrated How to Tame the Chatter of Google Video Calls</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-mastering-social-media-the-finest-6-reel-enhancing-apps/"><u>[Updated] Mastering Social Media The Finest 6 Reel-Enhancing Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-crafting-squares-for-viral-videos-in-a-social-media-world/"><u>2024 Approved Crafting Squares for Viral Videos in a Social Media World</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-quick-guide-to-video-cross-upload-twitter-and-tumblr/"><u>2024 Approved Quick Guide to Video Cross-Upload Twitter & Tumblr</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-uninterrupted-snapstreaks-achievable-or-impossible/"><u>2024 Approved Uninterrupted Snapstreaks Achievable or Impossible?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-gratuita-de-archivos-jpeg-a-linea-tecnica-rapida-y-sencilla-con-photolineconverter/"><u>Conversión Gratuita De Archivos JPEG a Línea - Técnica Rápida Y Sencilla Con PhotoLineConverter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-13-free-audio-software-tools-with-built-in-mic-for-recording-by-movavi/"><u>Discover the Ultimate 13 Free Audio Software Tools with Built-In Mic for Recording by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-omzetten-van-mpg-bestandjes-online-expertise-movavi/"><u>Gratis Omzetten Van MPG Bestandjes Online - Expertise Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-cost-cutting-in-cloud-storage-savings-guide-2024/"><u>Innovative Cost Cutting in Cloud Storage - Savings Guide 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-toolbox-effortlessly-transforming-m4v-videos-to-3g2-fit-for-mobile-playback-tips-by-movavi/"><u>Online Toolbox: Effortlessly Transforming M4V Videos to 3G2 Fit for Mobile Playback - Tips by Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-choosing-a-high-quality-resin-3d-printer-in-2n24/"><u>The Ultimate Guide to Choosing a High-Quality Resin 3D Printer in 2N24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-free-audio-production-tools-ideal-starter-packs-for-aspiring-musicians/"><u>Top 10 Free Audio Production Tools: Ideal Starter Packs for Aspiring Musicians</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-25-gratis-software-a-aplikace-pro-vyrobu-skladacku-do-roku-2024/"><u>Top 25 Grátis Software a Aplikace Pro Výrobu Skládačku Do Roku 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transform-your-online-presence-using-manycams-live-broadcasting-tools-and-fake-camera-features/"><u>Transform Your Online Presence Using ManyCam's Live Broadcasting Tools and Fake Camera Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-vos-donnees-sonores-avec-efficacite-decouvrez-loutil-convertisseur-audio-gratuit-de-moovavi/"><u>Transformez Vos Données Sonores Avec Efficacité: Découvrez L'outil Convertisseur Audio Gratuit De Moovavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/video-organizer-software-efficient-content-management-system/"><u>Video Organizer Software - Efficient Content Management System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/zasadni-pruspechy-pro-podporeni-nabozenstvi-v-videoprodukci/"><u>Zásadní Průspěchy Pro Podpoření Náboženství v Videoprodukci</u></a></li>
 </ul></div>
 

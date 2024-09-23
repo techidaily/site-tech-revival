@@ -1,7 +1,7 @@
 ---
 title: "AI Dialogue Duel: Does Claude Have The Edge?"
-date: 2024-09-13T18:04:34.952Z
-updated: 2024-09-17T23:41:07.402Z
+date: 2024-09-21T11:38:17.540Z
+updated: 2024-09-22T18:08:18.614Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/4c674686d1a033251a256acfde6c5f560acb7a06d
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -65,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/4c674686d1a033251a256acfde6c5f560acb7a06d
 ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
@@ -90,9 +104,23 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
 
@@ -103,13 +131,6 @@ ChatGPT also cracked the problem as well.
  ​​​​​​That said, we put both chatbots on two coding tasks. We asked ChatGPT and Claude AI to write functional code for a to-do list app. Starting with ChatGPT, the AI chatbot was able to deliver a functional to-do list app on the first attempt. We copy-pasted and ran it on a browser, and it worked perfectly without errors. Here's the output on a browser.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
@@ -122,13 +143,6 @@ ChatGPT also cracked the problem as well.
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -149,19 +163,18 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-essential-list-the-10-leading-vimeo-downloaders-web-for-2024/"><u>[Updated] Essential List The 10 Leading Vimeo Downloaders Web for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-notch-passport-pictures-create-and-save-with-our-free-tool/"><u>2024 Approved Top-Notch Passport Pictures - Create and Save with Our Free Tool</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/1725288845161-windowsmachd4k/"><u>锤炼视频质量，从Windows或Mac升级到HD与4K</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-determining-the-most-advanced-chatbot-between-chatgpt-microsoft-bings-answer-engine-and-google-bard/"><u>AI Showdown: Determining the Most Advanced Chatbot Between ChatGPT, Microsoft Bing's Answer Engine & Google Bard</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-strategies-to-address-and-repair-code-28-malfunctions-in-windows/"><u>Expert Strategies to Address and Repair Code 28 Malfunctions in Windows</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-llm-services-locally-weighing-benefits-against-drawbacks/"><u>Navigating LLM Services Locally: Weighing Benefits Against Drawbacks</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-best-free-dvd-playback-options-for-windows-10-updated-2023-for-2024/"><u>New Best Free DVD Playback Options for Windows 10 (Updated 2023) for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-missing-or-lost-mfplatdll-file-problems-a-detailed-tutorial/"><u>Overcoming Missing or Lost mfplat.dll File Problems: A Detailed Tutorial</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/realme-10t-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 10T 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/reinitializing-distro-and-catroot2-in-w11-a-step-by-step-guide/"><u>Reinitializing Distro & Catroot2 in W11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trustworthiness-in-tech-tips-evaluating-chatgptbards-claims/"><u>Trustworthiness in Tech-Tips: Evaluating ChatGPT/Bard's Claims</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-leveraging-chatgpt-features-in-your-vs-code-setup/"><u>Ultimate Guide: Leveraging ChatGPT Features in Your VS Code Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-ais-power-with-microsofts-bing-app-your-comprehensive-guide-for-android-devices/"><u>Unleash AI's Power with Microsoft's Bing App – Your Comprehensive Guide for Android Devices</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-chromebook-screenshot-hacks-in-four-steps/"><u>[New] In 2024, Chromebook Screenshot Hacks in Four Steps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-develop-engaging-facebook-visuals/"><u>[Updated] 2024 Approved Develop Engaging FACEbook Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-role-of-storytelling-in-presenting-market-research-findings/"><u>[Updated] The Role of Storytelling in Presenting Market Research Findings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6lplusf6ycf5a2m5lmg5aac5l2v5zyo6keg6akr5lit6lplusb6kgm6auy5pwi5ymq6l6ric0g556s6ze05psplus5asn5oqa5ben/"><u>迅速学习如何在视频中进行高效剪辑 - 瞬间放大技巧</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-failing-frontline-in-the-cyber-realm/"><u>A Failing Frontline in the Cyber Realm</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-guide-to-correcting-asus-pce-ac56-drivers-issues-on-windows-os-versions-10-8-and-n/"><u>Complete Guide to Correcting ASUS PCE-AC56 Drivers Issues on Windows OS Versions (10, 8 & N)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-pick-for-live-streaming-tools-our-top-8-picks-with-movavi-insights/"><u>Discover the Ultimate Pick for Live Streaming Tools – Our Top 8 Picks with Movavi Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-asus-rog-phone-8-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Asus ROG Phone 8 FRP Bypass</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-digital-screenshots-with-advanced-recording-applications/"><u>Mastering Digital Screenshots with Advanced Recording Applications</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-fixes-for-handling-issues-in-i2c-hid-communication-drivers/"><u>Step-by-Step Fixes for Handling Issues in I2C HID Communication Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/thank-you-users-discover-the-power-of-movavi-video-editor-after-installation/"><u>Thank You, Users! Discover the Power of Movavi Video Editor After Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-fall-guys-heres-how-to-stop-it-from-crashing-at-launch/"><u>Trouble with Fall Guys? Here’s How to Stop It From Crashing at Launch!</u></a></li>
 </ul></div>
 

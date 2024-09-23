@@ -1,7 +1,7 @@
 ---
 title: "Best Add-Ons: Enhance GPT Experience Within VS Code Interface"
-date: 2024-09-12T06:35:29.547Z
-updated: 2024-09-18T05:09:37.222Z
+date: 2024-09-15T22:33:14.754Z
+updated: 2024-09-23T08:54:51.243Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -37,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -50,13 +64,20 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -70,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -101,20 +115,20 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-securing-sound-speed-increase-in-the-digital-world-of-spotify/"><u>[New] 2024 Approved Securing Sound Speed Increase in the Digital World of Spotify</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-top-30-mobile-video-edits-using-dji-technology/"><u>[New] 2024 Approved Top 30 Mobile Video Edits Using DJi Technology</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/harting-a-course-to-riches-youtubes-monetary-milestones/"><u>[New] Charting a Course to Riches YouTube's Monetary Milestones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-mobile-to-hard-drive-best-online-and-os-x-exporters-for-instagram-videos/"><u>[Updated] From Mobile to Hard Drive Best Online and OS X Exporters for Instagram Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-high-performance-gpu-picks-for-quality-video-streaming-for-2024/"><u>[Updated] High-Performance GPU Picks for Quality Video Streaming for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/2024-approved-youtube-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>2024 Approved YouTube Video Animation Tools and Techniques for Efficient Gif Making</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/improving-text-through-gpt-usage/"><u>Improving Text Through GPT Usage</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-starting-with-the-basics-of-av1-codec/"><u>In 2024, Starting with the Basics of AV1 Codec</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpt-plus-a-comprehamoar-on-its-upsides-and-downsides/"><u>Navigating Through ChatGPT Plus: A Comprehamoar on Its Upsides and Downsides</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/paper-trail-points-to-unidentified-user/"><u>Paper Trail Points to Unidentified User</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-your-development-journey-with-a-chatgpt-web-app/"><u>Streamline Your Development Journey with a ChatGPT Web App</u></a></li>
-<li><a href="https://network-issues.techidaily.com/successful-saving-of-visual-preferences/"><u>Successful Saving of Visual Preferences</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/surprise-skill-unleashed-learn-the-art-of-engaging-with-chatgpt/"><u>Surprise Skill Unleashed: Learn the Art of Engaging with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-human-element-in-comprehensive-document-synopses/"><u>The Human Element in Comprehensive Document Synopses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-speedy-sprint-chatgpts-quintuple-edge/"><u>The Speedy Sprint: ChatGPT’s Quintuple Edge</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-10-capture-hardware-recommendations-for-online-videos-for-2024/"><u>[Updated] Essential 10 Capture Hardware Recommendations for Online Videos for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-elevate-your-videogame-experience-record-on-steam/"><u>[Updated] In 2024, Elevate Your Videogame Experience - Record on Steam</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-best-12-sports-streaming-sites-free-and-paid/"><u>2024 Approved Best 12 Sports Streaming Sites (Free & Paid)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/aprenda-como-alterar-o-zoom-no-movavi-passos-simples-e-completos/"><u>Aprenda Como Alterar O Zoom No Movavi: Passos Simples E Completos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capturar-aperto-na-microsoft-windows-as-16-ferramentas-mais-eficientes-para-gravacao-de-tela/"><u>Capturar Aperto Na Microsoft Windows # - As 16 Ferramentas Mais Eficientes Para Gravação De Tela</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-file-audio-m4a-in-formato-mp4-senza-costi-utilizzo-di-fastaudioconvert/"><u>Conversione File Audio M4A in Formato MP4 Senza Costi - Utilizzo Di FastAudioConvert</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/de-top-5-moglichkeiten-einen-perlenkollage-erstellt-zu-hoe/"><u>De Top 5 Möglichkeiten, Einen Perlenkollage Erstellt Zu Hoe</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descubra-os-apps-e-portais-mais-populares-para-fotografias-3x4-guia-completo/"><u>Descubra Os Apps E Portais Mais Populares Para Fotografias 3X4: Guia Completo</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-insert-captions-into-mx-player-a-complete-tutorial/"><u>Easily Insert Captions Into MX Player - A Complete Tutorial</u></a></li>
+<li><a href="https://solve-news.techidaily.com/enhance-your-ios-device-experience-with-essential-mac-apps-for-free-file-organization-and-movement/"><u>Enhance Your iOS Device Experience with Essential Mac Apps for Free File Organization and Movement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exceptional-uav-selection-for-optimal-gopro-footage/"><u>Exceptional UAV Selection for Optimal GoPro Footage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-speedy-resizing-your-youtube-videos-for-mac-view/"><u>In 2024, Speedy Resizing Your Youtube Videos for Mac View</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nyt-daily-puzzle-solutions-discover-answers-for-june-20th-edition-391/"><u>NYT Daily Puzzle Solutions: Discover Answers for June 20Th Edition, #391</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shotcut/"><u>Shotcut 影片編碎軟件: 真實用戶評估與卓越指導</u></a></li>
 </ul></div>
 

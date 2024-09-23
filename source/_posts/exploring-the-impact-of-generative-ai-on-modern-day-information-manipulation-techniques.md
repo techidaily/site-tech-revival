@@ -1,7 +1,7 @@
 ---
 title: Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques
-date: 2024-09-16T19:52:58.418Z
-updated: 2024-09-18T09:07:33.692Z
+date: 2024-09-18T20:31:03.229Z
+updated: 2024-09-23T11:15:30.474Z
 tags:
   - chatgpt
   - open-ai
@@ -52,6 +52,13 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -66,16 +73,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -87,16 +88,10 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -117,6 +112,13 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -139,21 +141,24 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ornate-asian-dwellings-for-your-next-build-off/"><u>[New] Ornate Asian Dwellings for Your Next Build-Off</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-rise-and-reality-of-magix-paintbox/"><u>2024 Approved The Rise and Reality of MAGIX Paintbox</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortlessly-save-tunepk-content-discover-the-four-best-download-techniques/"><u>Effortlessly Save Tune.pk Content: Discover the Four Best Download Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-or-professional-analyzing-the-benefits-of-youtube-converter-factories-which-is-right-for-you/"><u>Free or Professional? Analyzing the Benefits of YouTube Converter Factories - Which Is Right for You?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-quick-and-easy-steps-to-download-high-quality-ulozto-videos-at-no-cost/"><u>Guide: Quick & Easy Steps to Download High-Quality Ulozto Videos at No Cost</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-poco-c55-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Poco C55 Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-install-newest-kodi-version-on-your-windows-10-device-a-comprehensive-tutorial/"><u>How To Seamlessly Install Newest Kodi Version on Your Windows 10 Device - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Civi 3? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/master-character-creation-the-11-most-effective-ai-prompts/"><u>Master Character Creation: The 11 Most Effective AI Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-free-ios-video-editing-a-step-by-step-guide-with-iphone-video-converter-factory/"><u>Mastering Free iOS Video Editing: A Step-by-Step Guide with iPhone Video Converter Factory</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-time-manipulation-in-vlc-how-to-control-audiovideo-speed-precisely-for-enhanced-viewing-experience/"><u>Mastering Time Manipulation in VLC: How to Control Audio/Video Speed Precisely for Enhanced Viewing Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-video-compression-top-3-strategies-for-windows-11-users/"><u>Optimizing Video Compression: Top 3 Strategies for Windows 11 Users</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016566028-pc-microphone-silent-on-zoom-heres-how-you-can-rectify-the-problem/"><u>PC Microphone Silent on Zoom? Here's How You Can Rectify the Problem!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-webpage-not-displayed-error-in-internet-explorer/"><u>Resolving 'Webpage Not Displayed' Error in Internet Explorer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfect-your-skype-screen-record-with-obs-for-2024/"><u>[New] Perfect Your Skype Screen Record with OBS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quietude-creation-garageband-volume-control-methods/"><u>[New] Quietude Creation Garageband Volume Control Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-assemble-slide-decks-into-virtual-screenplays/"><u>[Updated] 2024 Approved Assemble Slide Decks Into Virtual Screenplays</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-circle-construction-in-minecraft-the-ultimate-guide/"><u>[Updated] 2024 Approved Circle Construction in Minecraft The Ultimate Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-the-maze-of-tiktoks-bulk-video-transfer/"><u>[Updated] 2024 Approved Navigating the Maze of TikTok's Bulk Video Transfer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-standard-to-personalized-installing-unique-ringtones-and-sounds-on-android/"><u>[Updated] From Standard to Personalized Installing Unique Ringtones & Sounds on Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-ai-explained-in-simple-terms/"><u>Artificial Intelligence (AI) Explained in Simple Terms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-zte-nubia-z60-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to ZTE Nubia Z60 Ultra Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-apple-iphone-se-2022-here-is-the-answer-drfone-by-drfone-virtual-ios/"><u>In 2024, Wondering the Best Alternative to Hola On Apple iPhone SE (2022)? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/insights-into-computing-with-tom-expert-hardware-analysis/"><u>Insights Into Computing with Tom - Expert Hardware Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/invest-in-a-phone-exploit-ransomware-knowledge/"><u>Invest in a Phone; Exploit Ransomware Knowledge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/llama-vs-gpt-4-showdown-determining-the-superior-ai/"><u>Llama vs GPT-4 Showdown: Determining the Superior AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-clear-communication-with-ai-reduce-hallucination-through-6-techniques/"><u>Mastering Clear Communication with AI: Reduce Hallucination Through 6 Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-multilingual-communication-a-guide-to-leveraging-chatgpt-for-accurate-language-translation/"><u>Maximizing Multilingual Communication: A Guide to Leveraging ChatGPT for Accurate Language Translation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/poetic-warriors-and-gpt-ewes-bards-ballad-battle-with-woolly-allies/"><u>Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-end-of-an-era-why-modern-chatgpt-jailbreaks-fail-insights-and-analysis/"><u>The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-fusion-frontier-eight-ways-artificial-intelligence-merges-real-with-unreal/"><u>The Fusion Frontier: Eight Ways Artificial Intelligence Merges Real with Unreal</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-is-here-gpt-4s-role-in-shaping-the-art-of-home-improvement/"><u>The Future Is Here: GPT-4's Role in Shaping the Art of Home Improvement</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-guide-to-choosing-top-8-free-srt-services-for-2024/"><u>The Ultimate Guide to Choosing Top 8 Free SRT Services for 2024</u></a></li>
 </ul></div>
 

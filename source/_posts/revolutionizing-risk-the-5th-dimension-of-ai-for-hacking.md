@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Risk: The 5Th Dimension of AI for Hacking"
-date: 2024-09-16T04:35:54.816Z
-updated: 2024-09-18T05:48:14.301Z
+date: 2024-09-20T12:09:40.069Z
+updated: 2024-09-23T01:49:44.877Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 * [How to Find the Best Custom GPTs in the GPT Store](https://ancheer.sjv.io/y96bgp)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -39,6 +46,19 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022\.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -60,20 +80,32 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
@@ -107,17 +139,22 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-record-your-mac-in-hd-no-fee/"><u>[New] 2024 Approved Record Your Mac in HD No Fee</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-avoiding-fuzzy-edges-in-picart-picture-processing/"><u>[New] Avoiding Fuzzy Edges in PicArt Picture Processing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-comprehensive-walkthrough-of-adding-text-to-instagram-clips-for-2024/"><u>[Updated] A Comprehensive Walkthrough of Adding Text to Instagram Clips for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-bets-incredible-back-to-school-discounts-in-2014/"><u>Best Bets: Incredible Back-to-School Discounts in 2014</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-in-the-virtual-world-your-step-by-step-meme-guide-for-2024/"><u>Crafting in the Virtual World Your Step-by-Step Meme Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-100-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 100 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-nokia-g22-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Nokia G22 Phone Screen?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reimagine-reality-techniques-for-astonishing-image-distortions/"><u>Reimagine Reality Techniques for Astonishing Image Distortions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-video-container-conversion-techniques-without-compromising-quality/"><u>Seamless Video Container Conversion Techniques Without Compromising Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-guide-transform-hevc-files-into-mp3s-using-your-computer/"><u>Simple Guide: Transform HEVC Files Into MP3s Using Your Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplify-your-video-editing-convert-dat-files-into-avi-quickly/"><u>Simplify Your Video Editing: Convert DAT Files Into AVI Quickly</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-itel-p55-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Itel P55 Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-comprehensive-look-at-slug-line-practices/"><u>[New] A Comprehensive Look at Slug Line Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-check-your-channels-revenue-flow/"><u>[Updated] 2024 Approved Check Your Channel's Revenue Flow</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-curb-automated-youtube-content-feeds/"><u>[Updated] 2024 Approved Curb Automated YouTube Content Feeds</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-new-horizons-windows-11s-latest-advances/"><u>[Updated] New Horizons Windows 11'S Latest Advances</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-soundtweetify-quick-audible-maker/"><u>[Updated] SoundTweetify Quick Audible Maker</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seomovavimpe/"><u>「オンラインでSEO最適化！MovaviのフリーMPE変換ツール」</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-in-depth-guide-obs-for-gamers/"><u>2024 Approved In-Depth Guide OBS for Gamers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>2024 Approved Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5b2x5yop5qplusu546h5qch5q2j55qe6auy5pwi5oqa6kgt44cq5b2x54mh5asn5bcp6kq5pw05oyh5y2x44cr/"><u>影像比率校正的高效技術【影片大小調整指南】</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/aiviwmv-movavi/"><u>AIVI到WMV免費在線轉換服務 - 使用Movavi電子轉档器簡單方便</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/asf-wav/"><u>ASF에서 WAV로 원하시는 모음은 여기에서 자유성 대리품을 제공하세요!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-versterkken-van-quicktime-bestandjes-online-met-movavi-zelfstandig-opslaan/"><u>Gratuit Versterkken Van QuickTime-Bestandjes Online Met Movavi - Zelfstandig Opslaan</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-mpg-wma-movavi/"><u>Online MPG WMA 무료 변환 소스 – Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-mov-files-into-mp4-using-vlc-media-player/"><u>Step-by-Step Guide: Transforming MOV Files Into MP4 Using VLC Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-top-rated-free-online-video-editing-tools-ideal-replacements-for-windows/"><u>The Ultimate List of Top-Rated Free Online Video Editing Tools: Ideal Replacements for Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-woes-fixing-persistent-crashes-in-world-of-tanks-blitz/"><u>Troubleshooting Woes: Fixing Persistent Crashes in 'World of Tanks Blitz'</u></a></li>
 </ul></div>
 

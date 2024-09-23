@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2024-09-13T04:52:53.563Z
-updated: 2024-09-18T00:58:49.514Z
+date: 2024-09-16T04:19:51.982Z
+updated: 2024-09-23T11:26:33.007Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -52,7 +59,27 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -65,13 +92,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -80,6 +100,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -87,13 +114,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -127,16 +147,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-channel-king-and-queen-academy-youtube-excellence-for-2024/"><u>[New] Channel King & Queen Academy YouTube Excellence for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-7-superior-mac-video-applications/"><u>2024 Approved 7 Superior Mac Video Applications</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/auditory-accents-integrating-tracks-into-video-on-modern-windows/"><u>Auditory Accents Integrating Tracks Into Video on Modern Windows</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-upgrade-is-it-justifiably-priced/"><u>ChatGPT Plus Upgrade – Is It Justifiably Priced?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demonstrating-gpts-real-world-value/"><u>Demonstrating GPT's Real-World Value</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-gpt-4-in-action-the-mechanisms-behind-these-7-groundbreaking-ai-applications/"><u>Discovering GPT-4 in Action: The Mechanisms Behind These 7 Groundbreaking AI Applications</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-performance-the-ultimate-list-of-8-smart-ai-chrome-plugins/"><u>Maximize Performance: The Ultimate List of 8 Smart AI Chrome Plugins</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/samsung-teases-artificial-intelligence-capabilities-for-legacy-galaxy-devices/"><u>Samsung Teases Artificial Intelligence Capabilities for Legacy Galaxy Devices</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/unraveling-zooms-secrets-mastery-of-screenshot-sharing-for-2024/"><u>Unraveling Zoom's Secrets Mastery of Screenshot Sharing for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-eliminating-common-glitches-in-windows-11s-photos-viewer/"><u>[Updated] Eliminating Common Glitches in Windows 11'S Photos Viewer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-snd/"><u>「変換は今日も、Movaviがお手伝いします – SNDオンラインフリーコンバータ」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mpeg-files-to-mp4-for-free-use-movavis-web-service/"><u>Convert MPEG Files To MP4 for Free - Use Movavi's Web Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-gratuitement-les-fichiers-mp3-en-format-oggv-par-le-web-solution-simplifiee-movavi/"><u>Convertir Gratuitement Les Fichiers MP3 en Format OGGV Par Le Web : Solution Simplifiée Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cracking-the-code-on-offline-your-guide-to-troubleshooting-find-my-iphone-problems/"><u>Cracking the Code on 'Offline': Your Guide to Troubleshooting Find My iPhone Problems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/cutting-edge-6-software-choices-for-effortless-background-erasing-for-2024/"><u>Cutting-Edge 6 Software Choices for Effortless Background Erasing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-wmv-video-format-transformation-into-vob-online-and-free-with-moveavi/"><u>Easy WMV Video Format Transformation Into VOB Online & Free with MoveAVI</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-resolve-issues-with-the-realtek-rtl8811au-device-driver/"><u>How to Resolve Issues with the Realtek RTL8811AU Device Driver</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-honor-v-purse-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Honor V Purse Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-auditory-allure-finding-perfect-background-sounds/"><u>In 2024, Auditory Allure Finding Perfect Background Sounds</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-quick-guide-saving-screen-share-dialogue/"><u>In 2024, Quick Guide Saving Screen Share Dialogue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/passo-a-passo-em-fazer-animacoes-stop-motion-conheca-as-melhores-dicas-tutorials-e-exemplos/"><u>Passo a Passo Em Fazer Animações Stop Motion - Conheça as Melhores Dicas, Tutorials E Exemplos!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-15-convertidores-de-sonido-libres-mas-efectivos-para-el-ano-2024-movavi/"><u>Top 15 Convertidores De Sonido Libres Más Efectivos Para El Año 2024 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/web-based-video-format-transformation-easily-switch-your-content-to-mp4-mov-avi-etc/"><u>Web-Based Video Format Transformation: Easily Switch Your Content to MP4, MOV, AVI, Etc.</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/windows-11-printer-nightmares-solutions-here/"><u>Windows 11 Printer Nightmares? Solutions Here</u></a></li>
 </ul></div>
 

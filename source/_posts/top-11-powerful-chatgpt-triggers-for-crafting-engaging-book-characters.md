@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2024-09-12T21:24:10.945Z
-updated: 2024-09-18T08:00:18.735Z
+date: 2024-09-21T04:45:06.341Z
+updated: 2024-09-23T12:38:20.545Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Sona is a "book-loving AI assistant" from one of our[favorite new book recommendation sites](https://www.makeuseof.com/new-book-recommendation-apps-sites/) , Read This Twice. Read This Twice collects which titles celebrities and influential personalities have said everyone should read, with rankings for the most commonly recommended reads.
@@ -43,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  You can write long and specific prompts, and Sona's recommendations improve if you add more details about what you're looking for. The results are a long scroll with two columns of recommendations, showing you the book cover, title, author, and description. Among the AI-powered book recommendation apps, it's the quickest way to browse the many suggested titles.
 
  However, in the results, Sona disappointingly doesn't rely on Read This Twice's core expertise by showing which books are recommended by someone influential. There is a workaround to that, though. If you register on the site, you'll be able to add these books to your personal library and go there to see who has promoted the book.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3.[Next Three Books](https://www.nextthreebooks.com/) (Web): Filter Book Recommendations by Type, Genre, Length, Style
 
@@ -67,19 +81,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Readow uses AI to recommend books based on what you've liked in the past](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-readow.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
  Most AI-powered book recommendation sites want to use the power of ChatGPT to let you write a simple sentence about what you're looking for, just like you would ask a friend. But figuring out the right prompt can be difficult if you're not used to this. If you're struggling with the other apps, try Readow.
@@ -97,15 +98,22 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 ![BooksAI can summarize a book without spoilers, or give a detailed summary broken down by chapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
 ![BooksAI uses ChatGPT to summarize any book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -118,13 +126,6 @@ Close
  BooksAI also gives you these summaries in nine languages and not just English, making it perfect for non-native speakers. The app also has lists of recommended readings from celebrities and influential minds.
 
 **Download:** BooksAI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030240/https://play.google.com/store/apps/details?id=com.books.ai.books%5Fai) |[iOS](https://apps.apple.com/us/app/booksai-ai-book-summaries/id6450773082) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Give Serendipity a Chance
 
@@ -145,21 +146,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-open-access-mindful-harmonies/"><u>[New] Open Access Mindful Harmonies</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-from-mobile-to-hard-drive-best-online-and-os-x-exporters-for-instagram-videos/"><u>2024 Approved From Mobile to Hard Drive Best Online and OS X Exporters for Instagram Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wrfmp4/"><u>簡単な手順でWRFをMP4にアップコンバートする方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027475280-dvdmp4/"><u>市販DVDから簡単MP4への変換ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027331772-gifgif/"><u>最新GIF解析ソフトウェアランキング：GIFを完璧に解きほぐす方法</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-11-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 11 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-troubleshooting-for-windows-10s-resolved-update-problem-code-0x80248007-explained/"><u>Comprehensive Troubleshooting for Windows 10’S [Resolved] Update Problem: Code 0X80248007 Explained</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/enhanced-personalization-with-the-latest-cookiebot-technology/"><u>Enhanced Personalization with the Latest Cookiebot Technology</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-15-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 15 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/leveraging-powerpoints-automatic-transcription-feature-for-2024/"><u>Leveraging PowerPoint’s Automatic Transcription Feature for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028433989-pc/"><u>PCで放送大学ラジオ番組録音テクニック</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/precision-in-production-5-advanced-methods-for-trimming-on-vimeo-platform-for-2024/"><u>Precision in Production 5 Advanced Methods for Trimming on Vimeo Platform for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winning-the-battle-againnst-patchy-playbacks-top-fixes-for-windows-11-audio-issues-updated-troubleshooting/"><u>Winning the Battle Againnst Patchy Playbacks: Top Fixes for Windows 11 Audio Issues, Updated Troubleshooting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wma-to-mp3-windows-1011/"><u>WMA to MP3に完璧な変換 - Windows 10/11ユーザ向けレシピ</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027823422-mp3/"><u>サンプリングレート変換:MP3音楽ファイルへの応用方法</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-images-erase-backdrops-with-canva-skills/"><u>[New] Transform Your Images Erase Backdrops with Canva Skills</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-crafting-immaculate-circular-and-spherical-shapes-in-minecraft/"><u>[Updated] Crafting Immaculate Circular and Spherical Shapes in Minecraft</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-preferred-screen-capture-tools-outside-gaming-world-for-2024/"><u>[Updated] Preferred Screen Capture Tools Outside Gaming World for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-instagrams-top-spot-in-minutes/"><u>2024 Approved Unlocking Instagram's Top Spot in Minutes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/art-of-ai-interaction-top-tutorials-for-commanders/"><u>Art of AI Interaction: Top Tutorials for Commanders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-large-language-models-showdown-bard-chatgpt-and-alpaca-compared/"><u>Best Large Language Models Showdown: Bard, ChatGPT & Alpaca Compared</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/checking-for-errors-with-chatgpt/"><u>Checking for Errors with ChatGPT?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-the-latest-geforce-rtx-2070-drivers-on-windows-10-64-bit/"><u>Download the Latest GeForce RTX 2070 Drivers on Windows 10 (64-Bit)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/efficient-recording-techniques-with-superbox-2-top-strategies/"><u>Efficient Recording Techniques with SuperBox: 2 Top Strategies</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-assessment-razers-hd-webcam-for-2024/"><u>Full Assessment Razer's HD Webcam for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-stream-the-upcoming-2abril-de-2024-olympics-from-home/"><u>How to Stream the Upcoming 2Abril De 2024) Olympics From Home</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/key-considerations-choosing-chatgpt-wisely-for-psychological-support/"><u>Key Considerations: Choosing ChatGPT Wisely for Psychological Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-personal-fitness-chatgpts-role-in-crafting-individual-exercise-routines/"><u>Revolutionizing Personal Fitness: ChatGPT's Role in Crafting Individual Exercise Routines</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-the-best-free-online-webm-video-compressor-options/"><u>Updated In 2024, The Best Free Online WebM Video Compressor Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Steer Clear of MacChatGPT: Safeguard Your Digital Life"
-date: 2024-09-16T01:44:14.536Z
-updated: 2024-09-18T08:54:55.799Z
+date: 2024-09-16T05:28:04.188Z
+updated: 2024-09-23T07:31:53.419Z
 tags:
   - chatgpt
   - open-ai
@@ -30,11 +30,25 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
  Although Google has filed a lawsuit to tackle the malware, the scammers are still up and running, and that's why you should avoid downloading anything like a "Google Bard app." It's malware waiting to infect your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Google Bard?
 
 [Google Bard](https://bard.google.com/chat) was launched in March 2023 and is Google's answer to[OpenAI's ChatGPT](https://www.makeuseof.com/what-is-chat-gpt-generative-ai-explained/) . While offering similar functionalities, it doesn't perform as extensively as ChatGPT—which is what scammers have been exploiting to infect devices with malware.
 
 ![A screenshot of the Google Bard chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/google-bard.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  There are many[ways to use Google Bard](https://www.makeuseof.com/how-to-use-google-bard/) . You can enter a prompt asking Google Bard to explain how something works, give you ideas for a project, and even write code for you.
 
@@ -45,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  On November 13, 2023, Google announced on its official blog,[The Keyword](https://blog.google/outreach-initiatives/public-policy/taking-legal-action-to-protect-users-of-ai-and-small-businesses/) , that it's filing a lawsuit and taking legal action against scammers said to be based in Vietnam. You can view the lawsuit complaint on[ Thomson Reuters \[PDF\]](https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf) .
 
 ![An image of AIGoogleBard's Facebook page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/aigooglebard-facebook-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit:[Google Bard Lawsuit Complaint](http://chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fingfx.thomsonreuters.com/gfx/legaldocs/jnpwwongbpw/GOOGLE%20BARD%20LAWSUIT%20complaint.pdf)
 
@@ -59,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
  Google has already submitted 300 takedown requests against these scammers since April 2023 and wants them prevented from registering future malicious domains and disabled with US domain registrars. Google hopes that providing appropriate legal action and cooperating with government officials will expose scammers and promote a safe space for users online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stick With Google Bard on Your Browser
@@ -86,16 +107,22 @@ thumbnail: https://thmb.techidaily.com/6286590c73c59b8d594cb0b2bcfeddcf75c266e1c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-ultimate-flashy-game-collection-quick-and-lightweight/"><u>[New] 2024 Approved Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-live-photo-complete-guide-how-to-use-it-on-iphone/"><u>[New] In 2024, Live Photo Complete Guide How to Use It on iPhone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-amplify-your-videos-impact-with-strategically-placed-time-markers/"><u>2024 Approved Amplify Your Video's Impact with Strategically Placed Time Markers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 12 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/crafting-time-lapses-with-your-ipad-easefully/"><u>Crafting Time-Lapses with Your iPad Easefully</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-to-trimming-introsoutros-from-your-video-content/"><u>Effortless Guide to Trimming Intros/Outros From Your Video Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-the-ultimate-thrill-at-wonderfoxs-terrifying-halloween-bash-the-2015-horror-giveaway-carnival/"><u>Experience the Ultimate Thrill at WonderFox’s Terrifying Halloween Bash - The 2015 Horror Giveaway Carnival!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-your-free-dvd-converter-app-for-windows-10-and-11-at-zero-charge/"><u>Get Your Free DVD Converter App for Windows 10 & 11 at Zero Charge!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-lava-yuva-3-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Lava Yuva 3 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-honor-magic-5-lite-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Honor Magic 5 Lite Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/portable-cd-technology-the-top-picks/"><u>Portable CD Technology: The Top Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-crop-companion-chronicles-best-agricultural-titles-with-pals/"><u>[New] Crop Companion Chronicles Best Agricultural Titles with Pals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-for-conquering-photo-and-video-importers-on-windows-10/"><u>[Updated] Pro-Tips for Conquering Photo & Video Importers on Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/digital-support-network-for-winx-dvd-maker-and-converter-applications-a-comprehensive-guide/"><u>Digital Support Network for WinX DVD Maker & Converter Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-user-experience-3-ways-to-boost-mouse-speed/"><u>Enhancing User Experience: 3 Ways to Boost Mouse Speed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-tips-on-burning-dvds-with-handbrake-proven-techniques-inside/"><u>Expert Tips on Burning DVDs with Handbrake - Proven Techniques Inside!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-how-to-add-a-countdown-timer-in-3-easy-steps-for-2024/"><u>FCPX Essentials How to Add a Countdown Timer in 3 Easy Steps for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-media-editing-suite-guidance-faq-insights-on-video-conversion-software/"><u>Free Media Editing Suite Guidance: FAQ Insights on Video Conversion Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-legal-ways-to-enjoy-1080p-movie-downloads-your-ultimate-resource-for-premium-quality-films-offline/"><u>Free, Legal Ways to Enjoy 1080P Movie Downloads: Your Ultimate Resource for Premium Quality Films Offline</u></a></li>
+<li><a href="https://driver-install.techidaily.com/get-gaomon-s620-drivers-installed-quickly/"><u>Get Gaomon S620 Drivers Installed Quickly</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-s17t-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo S17t? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphone-mp4/"><u>IPhone MP4ファイルプレーヤーが機能しないときの解決策</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lenovo-dvd2024/"><u>Lenovo DVD再生トラブルに直す2024年版ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-to-mp3-conversion-using-realplayer-a-comprehensive-guide/"><u>MP4 to MP3 Conversion Using RealPlayer - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-buzz-on-psphone-unveiling-fresh-gossip-and-insights-for-gamers/"><u>New Buzz on PSPhone: Unveiling Fresh Gossip and Insights for Gamers</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723202981193-operating-system-not-found-or-missing-operating-system-error-fixed/"><u>Operating System Not Found Or Missing Operating System Error Fixed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pcdiyandroid/"><u>PCでDIY：Android着信音になりきれる動画・音楽トラックの利用法</u></a></li>
 </ul></div>
 

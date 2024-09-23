@@ -1,7 +1,7 @@
 ---
 title: What Is NVIDIA's AI Foundations Customizable Generative AI Service and Who Can Use It?
-date: 2024-09-11T03:45:29.315Z
-updated: 2024-09-17T22:10:46.327Z
+date: 2024-09-16T21:38:14.882Z
+updated: 2024-09-22T17:05:00.981Z
 tags:
   - chatgpt
   - open-ai
@@ -42,7 +42,21 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Ability to Create Custom GPTs
 
@@ -65,19 +79,19 @@ Close
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT’s Evolution Continues
@@ -101,20 +115,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-patterned-pixels-looms-guide-to-screen-casting/"><u>[New] Patterned Pixels Loom's Guide to Screen Casting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-seamless-integration-streaming-your-favorite-tunes-on-foobar2000-via-youtube/"><u>1. Seamless Integration: Streaming Your Favorite Tunes on Foobar2000 via YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-real-value-of-selfie-verifications/"><u>2024 Approved The Real Value of Selfie Verifications?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726026542524-gif/"><u>複数のGIFアニメを連動させるスッキリ解決策</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030611664-iphone-youtube/"><u>楽しい iPhonE 着信音作り: 好きな YouTube 曲を使える手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027147927-iso/"><u>効果的にISOファイルを変更する方法 - ビデオ教材</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028851653-bgm/"><u>BGMの永遠な循環：ループするための製作テクニック</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-speed-difference-understanding-why-chatgpt-4-lags-behind-its-predecessor-chatgpt-35/"><u>Exploring the Speed Difference: Understanding Why ChatGPT-4 Lags Behind Its Predecessor, ChatGPT-3.5</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instagram-meets-tiktok-syncing-social-media-for-2024/"><u>Instagram Meets TikTok Syncing Social Media for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-video-invitation-essentials-top-apps-for-ios-and-android-users/"><u>New Video Invitation Essentials Top Apps for iOS and Android Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-on-disabling-full-windows-11-system-updates/"><u>Step-by-Step Tutorial on Disabling Full Windows 11 System Updates</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/king-earnings-potential-essential-view-numbers-for-2024/"><u>Unlocking Earnings Potential Essential View Numbers for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2024-t17260306955406/"><u>クロームキャストで映らない! 2024ユーチューブ動画見る方法</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet/"><u>[New] 2024 Approved Visual Simplification in Hybrid Workspaces with Zoom & Google Meet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-content-live-review-of-premium-obs-options/"><u>[Updated] Capturing Content Live Review of Premium OBS Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-effettuare-il-ripulitore-di-banda-nera-dai-tuoi-video-tutorial-dei-4-metodi-preferiti/"><u>1. Effettuare Il Ripulitore Di Banda Nera Dai Tuoi Video: Tutorial Dei 4 Metodi Preferiti</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-apple-m1-demystified-the-tech-leap-forward/"><u>2024 Approved Apple M1 Demystified The Tech Leap Forward</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhance-your-photos-with-top-insta-editors/"><u>2024 Approved Enhance Your Photos with Top Insta Editors</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-top-10-best-free-video-editors-for-ubuntu/"><u>2024 Approved Top 10 Best Free Video Editors for Ubuntu</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726233767477-mkvgif-movavi/"><u>費用不要なMKVからGIFへの自動変換 - Movaviを利用して簡単に</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726233774111-movaviflv/"><u>立即體驗Movavi線上免付費FLV轉檔服務</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726233742415-mp4gif/"><u>自動化MP4檔到GIF的無限制線上轉換器 - 簡便懶人包</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fire-stick-and-mobile-hotspots-made-easy-a-step-by-step-guide/"><u>Fire Stick and Mobile Hotspots Made Easy: A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-cr2-in-formato-tiff-online-senza-costi-movavi/"><u>Trasforma I Tuoi File CR2 in Formato TIFF Online Senza Costi - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-no-cost-split-screen-editing-software-navigating-options-for-seamless-onlineoffline-workflows/"><u>Ultimate List of No-Cost Split-Screen Editing Software: Navigating Options for Seamless Online/Offline Workflows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/vocmovavi/"><u>VOCファイルを変換するためのMovaviの完全無料オンラインツール - 今すぐ始めよう!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-to-avi-tutorial-plus-8-best-youtube-to-avi-converters-for-2024/"><u>YouTube to AVI Tutorial + 8 Best YouTube to AVI Converters for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726233767679-mkvmpeg-movavi/"><u>오픈 소스 내 아날로그에서 MKV/MPEG 영상 형식을 제공하는 무료 변환 도구 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726233756072-pbm-movavi/"><u>인터넷을 통해 PBM 편집기를 제공: 무료 바이트 스트림 변환 및 지원 - Movavi</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/1725288020186-winx-dvd/"><u>プロフェッショナルにWinX DVDコピーを始める: ライセンスキーの割引・無料手段・簡単登録ガイド</u></a></li>
 </ul></div>
 

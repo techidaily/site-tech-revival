@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Challenges: Understanding ChatGPT's 8 Key Obstacles"
-date: 2024-09-13T16:36:08.016Z
-updated: 2024-09-18T01:30:26.791Z
+date: 2024-09-17T23:12:01.248Z
+updated: 2024-09-23T04:11:21.124Z
 tags:
   - chatgpt
   - open-ai
@@ -62,6 +62,13 @@ thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
@@ -94,6 +101,13 @@ ChatGPT also cracked the problem as well.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Coding Skills
 
  Just like math skills, coding skills are another very important metric for judging the abilities of an AI chatbot. While the majority of users will probably never[use a chatbot for coding](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , there are significant underlying implications for a chatbot's abilities to write and understand code proficiently.
@@ -105,10 +119,10 @@ ChatGPT also cracked the problem as well.
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
@@ -124,10 +138,10 @@ ChatGPT also cracked the problem as well.
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
@@ -149,14 +163,17 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-securing-your-videos-against-unwanted-motion/"><u>[New] Securing Your Videos Against Unwanted Motion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-mastering-windows-media-player-for-cd-management/"><u>2024 Approved Step-by-Step Guide to Mastering Windows Media Player for CD Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/anthropic-ai-accessing-claude-3-prompts/"><u>Anthropic AI: Accessing Claude 3 Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-ai-upgrade-now-for-these-9-amazing-features-in-chatgpt-plus/"><u>Discover the Power of AI: Upgrade Now for These 9 Amazing Features in ChatGPT Plus</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1723808226276-enlisted-how-to-boost-fps-and-fix-lag/"><u>Enlisted – How to Boost FPS & Fix Lag</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-evaluation-of-the-super-flower-sf-550f14mp-power-supply-unit-insights-from-toms-hardware/"><u>In-Depth Evaluation of the Super Flower Sf-550F14mp Power Supply Unit: Insights From Tom’s Hardware</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-steps-to-running-llama-2-locally-on-your-device/"><u>In-Depth Steps to Running Llama 2 Locally on Your Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-photogs-cameras-the-top-entry-level-picks-of-24-for-2024/"><u>New Photog's Cameras The Top Entry-Level Picks of '24 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essentials-of-claude-ai-and-its-value-for-enhanced-digital-solutions/"><u>The Essentials of Claude AI and Its Value for Enhanced Digital Solutions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-master-management-with-our-12-best-tycoon-games-ever-crafted-for-2024/"><u>[New] Master Management with Our #12 Best Tycoon Games Ever Crafted for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unleash-new-sounds-top-7-voice-transformation-android-apps/"><u>[Updated] 2024 Approved Unleash New Sounds Top 7 Voice Transformation Android Apps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-proven-mac-screen-recording-programs-beyond-bandicaps-success/"><u>[Updated] Proven Mac Screen Recording Programs Beyond Bandicap's Success</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-image-timestamping-techniques-unveiled/"><u>2024 Approved Image Timestamping Techniques Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726218692809-mp3mpeg-movavi/"><u>在網路上免費MP3到MPEG格式轉換 - 利用Movavi影片編輯工具</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-gratuita-de-archivos-mp4-a-m4a-guia-paso-a-paso-con-movavi/"><u>Conversión Gratuita De Archivos MP4 a M4A: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crear-videos-de-desaceleracion-con-android-tus-primeros-cuatro-pases-guia-claro-y-facil/"><u>Crear Videos De Desaceleración Con Android: Tus Primeros Cuatro Pases - Guía Claro Y Fácil</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-poco-x6-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Poco X6 to iPad | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-11-high-definition-video-capture-tools-choosing-the-right-hd-recorder/"><u>Top 11 High-Definition Video Capture Tools: Choosing the Right HD Recorder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-le-tue-immagini-pbm-in-formato-jpg-senza-costi-con-movavi-online-la-soluzione-di-taglio-e-conversione-piu-semplice/"><u>Trasforma Le Tue Immagini PBM in Formato JPG Senza Costi Con Movavi Online: La Soluzione Di Taglio E Conversione Più Semplice!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-itel-p55-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Itel P55 Phone Network-Ready</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Artifice Intellect Contest: Determining the Ultimate Choice Between ChatGPT and Notion AI"
-date: 2024-09-16T00:30:06.071Z
-updated: 2024-09-18T06:40:40.824Z
+date: 2024-09-18T22:21:05.604Z
+updated: 2024-09-23T00:54:42.186Z
 tags:
   - chatgpt
   - open-ai
@@ -66,6 +66,19 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
@@ -73,6 +86,13 @@ ChatGPT also cracked the problem as well.
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
@@ -95,10 +115,16 @@ ChatGPT also cracked the problem as well.
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
@@ -111,24 +137,18 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
@@ -155,20 +175,24 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-get-free-stock-footage-from-these-4-youtube-channels-for-2024/"><u>[New] Get Free Stock Footage From These 4 YouTube Channels for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-collaboration-with-snap-camera-techniques/"><u>[Updated] Enhancing Collaboration with Snap Camera Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/flacmp3wav/"><u>高品質圧縮音楽を無料で入手: 洋楽FLAC・MP3・WAV</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-affordable-video-editing-software-perfect-picks-for-your-entry-level-computer/"><u>Best Affordable Video Editing Software: Perfect Picks for Your Entry-Level Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-replacements-for-animeultima-discover-the-ultimate-list-of-sites-to-stream-and-download-your-favorite-anime-without-cost/"><u>Best Replacements for AnimeUltima: Discover the Ultimate List of Sites to Stream & Download Your Favorite Anime Without Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/capture-and-save-your-beloved-vlive-performances-without-cost-learn-how-here/"><u>Capture and Save Your Beloved VLive Performances Without Cost - Learn How Here!</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/chinas-strategic-plan-elevating-state-run-supercomputing-power-to-300-exaflops-by-2025/"><u>China's Strategic Plan: Elevating State-Run Supercomputing Power to 300 ExaFLOPS by 2025</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-to-iso-conversion-guide-and-top-free-software-picks/"><u>DVD to ISO Conversion Guide & Top Free Software Picks!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-guide-top-imovie-mp4-converter-picks-and-smooth-transfer-tips/"><u>Effortless Guide: Top iMovie MP4 Converter Picks & Smooth Transfer Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/flvmp4mkvmp3/"><u>FLV形式の動画を効率的にMP4/MKV/MP3に変換するフリーソフトウェアガイド</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-post-production-using-luts-in-after-effects/"><u>In 2024, Simplifying Post Production Using LUTs in After Effects</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-samsung-galaxy-m34-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Samsung Galaxy M34? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/romers-exceptional-rechargeable-outdoor-flashlight-a-must-have-reviewed-luminary/"><u>Romer'#s Exceptional Rechargeable Outdoor Flashlight: A Must-Have Reviewed Luminary</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-apple-airtag-assessment-ultimate-tracking-device-for-ios-devices/"><u>Top Apple AirTag Assessment: Ultimate Tracking Device for iOS Devices</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-stay-focused-with-smart-youtube-channel-management-for-pc-and-phones/"><u>[New] 2024 Approved Stay Focused with Smart Youtube Channel Management for PC and Phones</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exclusive-review-of-top-mp4-players-for-2024/"><u>[New] Exclusive Review of Top MP4 Players for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-guide-to-perfect-portraits-with-background-blur/"><u>2024 Approved A Guide to Perfect Portraits with Background Blur</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-free-tools-make-screencapture-a-breeze-for-tv-lovers/"><u>2024 Approved Free Tools Make ScreenCapture a Breeze for TV Lovers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagram-enhancement-picture-posting-guide/"><u>2024 Approved Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snipping-toolwindows-11/"><u>画面キャプチャのためにSnipping ToolでWindows 11: 基本操作ガイド</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor .</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/elevate-video-quality-webcam-filming-made-simple-for-2024/"><u>Elevate Video Quality Webcam Filming Made Simple for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp38-flac/"><u>MP3変換機能付きお勧めフリーソフト8選: FLACからの変換ガイド</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-edit-like-a-pro-top-8-video-editing-apps-for-4k-proxy/"><u>New In 2024, Edit Like a Pro Top 8 Video Editing Apps for 4K Proxy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfect-video-blending-techniques-for-maintaining-ultimate-visual-clarity/"><u>Perfect Video Blending Techniques for Maintaining Ultimate Visual Clarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionary-apple-integration-introducing-native-av1-hardware-decode-capability/"><u>Revolutionary Apple Integration: Introducing Native AV1 Hardware Decode Capability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-integrating-misfit-mods-into-your-personalized-kodi-interface/"><u>Step-by-Step Tutorial on Integrating Misfit Mods Into Your Personalized Kodi Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-recording-streaming-content-via-vlc-software-and-exploring-comparable-substitutes/"><u>Step-by-Step Tutorial on Recording Streaming Content via VLC Software & Exploring Comparable Substitutes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-futures-canvas-unveiling-6-pioneers-of-nft-artistry-for-2024/"><u>The Future's Canvas Unveiling 6 Pioneers of NFT Artistry for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-converting-3g2-media-files-to-mp4-and-additional-variants/"><u>The Ultimate Guide: Converting 3G2 Media Files to MP4 & Additional Variants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-sound-capture-applications-compatible-with-windows-8-internal-and-usb-options/"><u>Top-Rated Sound Capture Applications Compatible with Windows 8: Internal and USB Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-mp4-playback-issues-on-google-drive-a-step-by-step-guide/"><u>Troubleshooting MP4 Playback Issues on Google Drive: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/understanding-the-implications-before-quitting-discord/"><u>Understanding the Implications Before Quitting Discord</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Copilot, Your Free Companion for GPT-4's Highest Outputs
-date: 2024-09-12T02:28:48.544Z
-updated: 2024-09-18T00:26:18.381Z
+date: 2024-09-18T19:04:35.475Z
+updated: 2024-09-23T01:36:03.983Z
 tags:
   - chatgpt
   - open-ai
@@ -53,6 +53,13 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
 
  If your generated content has attribution labels, like quotes with speaker names or songs with artist names, then remove the attributions from the end of the quotes and type or paste them into column B. Resize the columns as needed.
@@ -63,6 +70,13 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
  Label**A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In**B1** —and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
@@ -71,15 +85,36 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
 
  Depending on which spreadsheet software you’re using, saving might work differently. If you’re using Google Sheets, go to**File** \>**Download** \>**Comma Separated Values (.csv)** .
 
  For Microsoft Excel, go to**File** \>**Save as** ​​​​​​, and under File Format choose**CSV UTF-8 (Comma-delimited) (.csv)** ​​​​​​. But this could be different depending on which version of Microsoft Office you’re running.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Make Your Design in Canva
 
 ![Create a Design options in Canva.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-design-canva.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Head to[Canva](https://www.canva.com) and choose a size for your bulk designs. Whether you’re using a pre-made template, or designing from a blank page, make sure your design isn’t overcrowded and that there will be enough space for your text.
 
@@ -87,32 +122,18 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Select the**Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
 
@@ -121,10 +142,10 @@ It’s a very simple process, and you’ll want to do it again and again.
  If you want different designs for the same content, you can create more than one template design here. Select**Add a page** beneath your artboard to add a new design.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Bulk Create Your Content
@@ -149,18 +170,18 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After generation, your designs appear on their own page in a new tab. Scroll to view them all. If you applied Bulk Create to more than one design, you’ll have alternate designs for each set of text.
 
  Now comes the most laborious part of bulk creation. Go through each design to review and edit it. Although they’ve each been created under the same parameters, some text may not fit correctly or in aesthetically pleasing ways. Resize or move the text to best fit each design.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Save Your Bulk-Created Designs
 
@@ -191,17 +212,22 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-generator-for-imgur/"><u>2024 Approved Giggle Generator for Imgur</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagrams-most-reliable-grid-creation-tools-countdown-to-top-ten/"><u>2024 Approved Instagram's Most Reliable Grid Creation Tools, Countdown to Top Ten</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/darkest-dungeon-pc-stability-issues-resolved-no-more-frustrating-crashes/"><u>Darkest Dungeon Ⅱ PC Stability Issues Resolved: No More Frustrating Crashes!</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-c53-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme C53 Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-will-artificial-intelligence-impact-our-mental-wellness-boon-or-bane/"><u>How Will Artificial Intelligence Impact Our Mental Wellness: Boon or Bane?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 12</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-11-pro-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 11 Pro SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unearthing-underwater-gpt-3-journals/"><u>Unearthing Underwater GPT-3 Journals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-more-potential-in-ai-the-fourfold-advantage-of-choosing-claude-3-over-chatgpt/"><u>Unlock More Potential in AI: The Fourfold Advantage of Choosing Claude 3 Over ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-openai-exploring-possibilities-with-the-openapi/"><u>Unlocking the Power of OpenAI: Exploring Possibilities with the OpenAPI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-secrets-of-generative-ai-core-functions-and-commercial-usage-highlights/"><u>Unraveling the Secrets of Generative AI: Core Functions and Commercial Usage Highlights</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pro-gamers-audio-gold-5-essential-sound-devices/"><u>[Updated] In 2024, Pro Gamers' Audio Gold 5 Essential Sound Devices</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-poco-m6-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Poco M6 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rmvbmp3-movivi-avi/"><u>免費在線RMVB到MP3 格式化- MoviVi AVI转换器解析</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726226068646-mpeg/"><u>無料のオンライン動画MPEG変換 - ムーヴェイブィ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converti-video-mov-a-mp4-senza-costi-utilizzando-il-servizio-di-conversione-online-di-movavi/"><u>Converti Video MOV a MP4 Senza Costi Utilizzando Il Servizio Di Conversione Online Di Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-con-facilidad-y-gratuito-tutorial-paso-a-paso-para-cambiar-tus-archivos-de-audio-mp3-a-formatos-de-video-mov/"><u>Convertir Con Facilidad Y Gratuito: Tutorial Paso a Paso Para Cambiar Tus Archivos De Audio MP3 a Formatos De Video MOV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-omzetten-van-wav-naar-3gp-online-zoek-jij-voorbeelden/"><u>Gratis Omzetten Van WAV Naar 3GP Online - Zoek Jij Voorbeelden?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gravacao-simplificada-salvando-chamadas-de-video-do-messenger-por-meio-do-movavi-um-guia-detalhado/"><u>Gravação Simplificada: Salvando Chamadas De Vídeo Do Messenger Por Meio Do Movavi – Um Guia Detalhado</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-complet-comment-realiser-des-enregistrements-videos-haute-definition/"><u>Guide Complet: Comment Réaliser Des Enregistrements Vidéos Haute Définition</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-k11x-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo K11x Phones with/without a PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-real-time-tips-to-dominate-twitter-broadcasts/"><u>In 2024, Real-Time Tips to Dominate Twitter Broadcasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/navigating-minecraft-recording-top-5-techniques-for-mac-users-for-2024/"><u>Navigating Minecraft Recording Top 5 Techniques for Mac Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/tackling-sudden-system-resets-a-guide-for-windows-11-users/"><u>Tackling Sudden System Resets – A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-game-changer-in-portable-computing-asus-expertbook-p5-featuring-revolutionary-energy-efficiency-and-expandable-ram-up-to-32gb/"><u>The Game Changer in Portable Computing - ASUS ExpertBook P5 Featuring Revolutionary Energy Efficiency & Expandable RAM up to ^32GB</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-votre-fichier-asf-en-fichier-wav-gratuitement-sur-place-avec-movavi/"><u>Transformez Votre Fichier ASF en Fichier WAV Gratuitement - Sur Place Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-2024/"><u>최신 음성 유사 기술: TOP 8 음성 변조 프로그램 (2024년)</u></a></li>
 </ul></div>
 

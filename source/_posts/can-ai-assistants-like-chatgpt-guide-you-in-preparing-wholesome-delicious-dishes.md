@@ -1,7 +1,7 @@
 ---
 title: Can AI Assistants Like ChatGPT Guide You in Preparing Wholesome, Delicious Dishes?
-date: 2024-09-16T08:17:41.949Z
-updated: 2024-09-17T20:52:11.610Z
+date: 2024-09-15T17:58:37.580Z
+updated: 2024-09-22T22:24:57.627Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
  For phishing, it’s mostly about volume. ChatGPT can help boost phishing campaigns as it can quickly pump out huge amounts of natural-sounding texts that are tailored to specific audiences.
 
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
 
@@ -77,29 +98,25 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/our-guide-to-understanding-youtube-tvs-signature-features-for-2024/"><u>[New] Your Guide to Understanding YouTube TV's Signature Features for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-2023s-leading-pc-vr-headsets-revealed/"><u>[Updated] 2024 Approved 2023'S Leading PC VR Headsets Revealed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-investigating-storage-amounts-vids-on-64128gb-hardware/"><u>[Updated] 2024 Approved Investigating Storage Amounts Vids on 64/128GB Hardware</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-pioneering-film-making-skills-through-youtube-videos/"><u>[Updated] 2024 Approved Pioneering Film Making Skills Through YouTube Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-settled-evasive-behavior-of-shorts-content/"><u>[Updated] Settled Evasive Behavior of Shorts Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030153363-3gpmovwav/"><u>3GP形式をMOV/WAVに簡単変換ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029614184-pcdvd/"><u>PCでの市販DVDコピー手順 - ダウンロードから簡単ガイド</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/revolutionizing-slow-mo-top-8-video-speeders/"><u>Revolutionizing Slow Mo Top 8 Video Speeders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tips-for-deleting-cache-on-android-phones-and-tablets/"><u>Ultimate Tips for Deleting Cache on Android Phones and Tablets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029374752-movmp4/"><u>どうやったらオンラインでMOVファイルをMP4に変換するの？これがおすすめの方法！</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028735804-windows10/"><u>ビデオエディターでWindows10フォトを使い、エクスポートがうまくいかない場合の対策</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-push-boundaries-expert-advice-on-snapchat-zooms/"><u>[New] Push Boundaries Expert Advice on Snapchat Zooms</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-coordinating-zoom-meetings-with-iphone-android-and-computer-timelines/"><u>[Updated] Coordinating Zoom Meetings with iPhone, Android, and Computer Timelines</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-video-conferencing-excellence-8-1/"><u>[Updated] Windows Video Conferencing Excellence #8-1</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-the-download-of-your-youtube-playlist-today/"><u>2024 Approved Mastering the Download of Your YouTube Playlist Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-the-bots-does-claude-ai-surpass-chatgpt-in-dialogue-proficiency/"><u>Battle of the Bots: Does Claude AI Surpass ChatGPT in Dialogue Proficiency?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bringing-voice-to-mobile-androids-chatgpt-revolution/"><u>Bringing Voice to Mobile: Android's ChatGPT Revolution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-desktop-edge-features-that-elevate-it-above-the-website-version/"><u>ChatGPT's Desktop Edge: Features that Elevate It Above the Website Version</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cloaked-observer-of-facebook-snapshots/"><u>Cloaked Observer of Facebook Snapshots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquering-the-corporate-jungle-chatgpt-as-your-interview-coach/"><u>Conquering the Corporate Jungle: ChatGPT as Your Interview Coach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-forefront-ai-comparing-its-advantages-over-chatgpt/"><u>Exploring Forefront AI: Comparing Its Advantages Over ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-easy-steps-to-register-for-chatgpts-latest-plugin-extensions/"><u>Guide: Easy Steps to Register for ChatGPT’s Latest Plugin Extensions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-10plus-best-photo-to-cartoon-softwares/"><u>In 2024, 10+ Best Photo to Cartoon Softwares</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-70-lite-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor 70 Lite 5G Phone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/macx-dvd-video-converter-pro-pack-get-your-free-promo-code-and-save-big-on-professional-software/"><u>MacX DVD Video Converter Pro Pack: Get Your Free Promo Code & Save Big on Professional Software!</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-get-crystal-clear-videos-top-picks-for-resolution-enhancement-software-for-2024/"><u>New Get Crystal-Clear Videos Top Picks for Resolution Enhancement Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-6-gaming-picks-for-content-makers/"><u>Perfect 6 Gaming Picks for Content Makers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sarah-silverman-leads-fight-over-creative-control-vs-tech-companies/"><u>Sarah Silverman Leads Fight Over Creative Control Vs. Tech Companies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-llm-contenders-who-wins-between-bard-chatgpt-and-offline-alpaca-for-ultimate-efficiency/"><u>Top 3 LLM Contenders: Who Wins Between Bard, ChatGPT, and Offline Alpaca for Ultimate Efficiency?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-gpt4all-mechanics-explained/"><u>Unveiling GPT4All: Mechanics Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-choose-chatgpt-for-your-pc-explore-how-the-desktop-version-outshines-the-web-counterpart/"><u>Why Choose ChatGPT for Your PC? Explore How the Desktop Version Outshines the Web Counterpart</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Harnessing ChatGPT: 6 Essential Tips for a Dream DM Experience"
-date: 2024-09-10T21:19:03.075Z
-updated: 2024-09-17T21:08:58.978Z
+date: 2024-09-21T09:17:45.279Z
+updated: 2024-09-22T17:27:38.135Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
@@ -65,6 +72,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -82,10 +96,10 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -100,16 +114,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -133,20 +141,15 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-command-and-conquer-triumphant-tales-of-the-best-7-total-wars/"><u>[New] Command & Conquer Triumphant Tales of the Best 7 Total Wars</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-game-on-a-comprehensive-guide-to-xbox-one-captures/"><u>[New] Game On A Comprehensive Guide to Xbox One Captures</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-top-15-ff-extensions-for-easy-fb-video-download/"><u>[New] Top 15 FF Extensions For Easy FB Video Download</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-secure-insta-wealth-with-our-safest-and-most-effective-tips-for-2024/"><u>[Updated] Secure Insta Wealth with Our Safest & Most Effective Tips for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-special-role-in-enterprise-settings/"><u>ChatGPT's Special Role in Enterprise Settings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dall-e-3s-new-edit-features-an-overview-of-improvements-and-areas-requiring-enhancement/"><u>DALL-E 3'S New Edit Features: An Overview of Improvements and Areas Requiring Enhancement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-benefits-using-chatgpt-as-your-go-to-source-for-wellness-advice/"><u>Discover the Benefits: Using ChatGPT as Your Go-To Source for Wellness Advice</u></a></li>
-<li><a href="https://facebook.techidaily.com/fortifying-your-digital-interactions-facebooks-latest-upgrades-bring-stronger-privacy-with-new-chat-and-call-security-tools/"><u>Fortifying Your Digital Interactions: Facebook's Latest Upgrades Bring Stronger Privacy with New Chat and Call Security Tools</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-6-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 6 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-the-release-of-gpt-5-imminent-anticipating-its-official-debut-date/"><u>Is the Release of GPT-5 Imminent? Anticipating Its Official Debut Date</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-10-innovative-methods-revolutionizing-learning-languages/"><u>Mondly’s 10 Innovative Methods Revolutionizing Learning Languages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplify-your-writing-process-integrating-chatgpt-into-microsoft-word/"><u>Simplify Your Writing Process: Integrating ChatGPT Into Microsoft Word</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/techniques-to-block-chatgpts-storage-of-conversations/"><u>Techniques to Block ChatGPT's Storage of Conversations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-settle-for-less-when-you-can-have-an-excellent-open-source-option-instead-of-waiting-for-chatgpt-desktop/"><u>Why Settle for Less When You Can Have an Excellent Open Source Option Instead of Waiting for ChatGPT Desktop?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-elevate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>[New] 2024 Approved Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rmvb-mp4movavi/"><u>「限界なし！対応する全てのビデオフォーマットを無料でRMVB Mp4に簡単変換：MOVAVI」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-video-en-ligne-convertissez-votre-fichier-mp4-en-format-m4v-gratuitement-movavi/"><u>Conversion Vidéo en Ligne : Convertissez Votre Fichier MP4 en Format M4V Gratuitement - Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-camon-20-pro-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Camon 20 Pro 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavi-screencast-complete-guide-dicas-e-truques-para-uma-experiencia-perfeita/"><u>Movavi Screencast Complete Guide: Dicas E Truques Para Uma Experiência Perfeita</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/os-11-metodos-mais-eficazes-para-transformar-seus-filmes-swf-em-mp4-de-graca-um-guia-detalhado/"><u>Os 11 Métodos Mais Eficazes Para Transformar Seus Filmes SWF Em MP4 De Graça: Um Guia Detalhado</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resolving-lenovo-non-responding-touch-interface/"><u>Resolving Lenovo Non-Responding Touch Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/restauration-et-conversion-video-transformer-des-fichiers-rmvb-en-avi-sans-cout-solutions-de-movavi/"><u>Restauration Et Conversion Vidéo : Transformer Des Fichiers RMVB en AVI Sans Coût - Solutions De Movavi</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/ultimate-4k-video-quality-tips-mastering-the-perfect-frames-per-second/"><u>Ultimate 4K Video Quality Tips: Mastering the Perfect Frames per Second</u></a></li>
 </ul></div>
 

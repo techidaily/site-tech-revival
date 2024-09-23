@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Variations Among GPT-4, GPT-4Turbo, and GPT-Phi - An SEO Guide
-date: 2024-09-14T03:49:54.768Z
-updated: 2024-09-17T23:15:36.255Z
+date: 2024-09-20T09:03:40.945Z
+updated: 2024-09-23T01:27:05.737Z
 tags:
   - chatgpt
   - open-ai
@@ -46,13 +46,34 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. The Visual Turing Test
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to a research paper published on[PNAS](https://www.pnas.org/doi/10.1073/pnas.1422953112) , the visual Turing test can be used to identify if you're talking to a human or an AI using image questionaries. It works like the Turing test, but instead of answering questions using texts, participants are shown images and expected to answer simple questions while thinking like a human. However, the[visual Turing test is different from CAPTCHAs](https://www.makeuseof.com/tag/how-do-captchas-work/) since all the answers are correct—but to pass the test, the AI must process the images similarly to a human.
 
@@ -70,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 
 ![person using chatgpt on their laptop](https://thmb.techidaily.com/3681ab3fb1278f9c5e283b2684cc0a6da110630db6256e6386dbd78a8fb134b9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  How about the Turing test, but done in reverse? Instead of trying to find out if you're talking to a human, the objective of the[reverse Turing test](https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c) is to trick the AI into believing you're an AI. However, you also need another AI model to answer the same questions using text.
 
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
@@ -88,22 +102,15 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
 
@@ -126,19 +133,24 @@ thumbnail: https://thmb.techidaily.com/1e8ed7d03244990645b268803c3dbd7e538910f87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-efficiently-upload-and-render-youtube-videos-with-precision-for-2024/"><u>[New] Efficiently Upload and Render YouTube Videos with Precision for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-ultimate-guide-to-metaverse-headset-selection/"><u>[Updated] 2024 Approved The Ultimate Guide to Metaverse Headset Selection</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-xbox-recorders-handbook-for-gamers/"><u>[Updated] 2024 Approved The Xbox Recorder’s Handbook for Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-picks-best-hd-cameras-for-professional-twitch-streamers/"><u>2024 Approved Top Picks Best HD Cameras for Professional Twitch Streamers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality/"><u>In 2024, From Verbal to Written An Intensive Guide to Google Document Voice Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pcdiyandroid/"><u>PCでDIY：Android着信音になりきれる動画・音楽トラックの利用法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-easy-tips-for-moving-dvd-content-from-pc-to-iphone-77-plus-without-hitches/"><u>Quick & Easy Tips for Moving DVD Content From PC to iPhone 7/7 Plus Without Hitches</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-guide-on-extracting-audio-from-dvds-with-minimal-effort/"><u>Seamless Guide on Extracting Audio From DVDs with Minimal Effort</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamlessly-viewing-dvd-movies-with-windows-11-a-simple-walkthrough/"><u>Seamlessly Viewing DVD Movies with Windows 11 - A Simple Walkthrough</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y36i-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y36i</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sns5/"><u>SNSコンテンツ保管に適したインスタチャット・ビデオ保存サイトベスト5!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-combining-multiple-ac3-tracks-into-one-file-using-windows-software/"><u>Step-by-Step Guide: Combining Multiple AC3 Tracks Into One File Using Windows Software</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-pictureperfectionist-expert-guide-to-ig-size-settings/"><u>[Updated] 2024 Approved PicturePerfectionist Expert Guide to IG Size Settings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-exploring-the-depth-of-bandicams-recording-features-and-techniques/"><u>[Updated] In 2024, Exploring the Depth of Bandicam's Recording Features and Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-sound-system-advances-announced/"><u>[Updated] Sound System Advances Announced</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-itel-p40-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Xiaomi Redmi Note 12T Pro ?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-lava-storm-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Lava Storm 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-m2ts-video-playback-on-windows-discover-how-to-install-essential-codecs-effortlessly/"><u>Seamless M2TS Video Playback on Windows: Discover How to Install Essential Codecs Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamlessly-transform-xm-tracks-into-high-quality-mp3s-using-leading-xm-convertors/"><u>Seamlessly Transform XM Tracks Into High-Quality MP3s Using Leading XM Convertors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-m4a-files-into-captivating-m4r-iphone-ringtones/"><u>Step-by-Step Guide: Transforming M4A Files Into Captivating M4R iPhone Ringtones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-converting-mp4-videos-into-mp3-files-using-the-powerful-tool-ffmpeg/"><u>Step-by-Step Tutorial on Converting MP4 Videos Into MP3 Files Using the Powerful Tool, FFmpeg</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-transforming-different-types-of-videoaudio-files/"><u>Step-by-Step Tutorial on Transforming Different Types of Video/Audio Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/successfully-opening-vob-file-formats-with-windows-media-player-a-comprehensive-guide/"><u>Successfully Opening VOB File Formats with Windows Media Player: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-comprehensive-method-to-embed-media-files-into-your-word-projects/"><u>The Comprehensive Method to Embed Media Files Into Your Word Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10pc/"><u>Top 10推奨の無料/有料PCスクリーンショットツール</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-amazing-tools-to-transform-videos-intofrom-amv-format-seamlessly/"><u>Top 5 Amazing Tools to Transform Videos Into/From AMV Format Seamlessly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/untangling-tech-headaches-a-guide-to-correcting-helperdll-unavailable-errors/"><u>Untangling Tech Headaches: A Guide to Correcting 'Helper.DLL Unavailable' Errors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Xiaomi 13T? | Dr.fone</u></a></li>
 </ul></div>
 

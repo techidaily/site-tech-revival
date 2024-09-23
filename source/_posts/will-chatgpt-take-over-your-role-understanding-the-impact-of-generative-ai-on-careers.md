@@ -1,7 +1,7 @@
 ---
 title: Will ChatGPT Take Over Your Role? Understanding the Impact of Generative AI on Careers
-date: 2024-09-16T23:36:16.882Z
-updated: 2024-09-17T23:28:18.080Z
+date: 2024-09-18T09:55:41.379Z
+updated: 2024-09-22T17:45:01.933Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -50,13 +57,20 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -64,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -101,19 +115,22 @@ thumbnail: https://thmb.techidaily.com/a4a765e99a54a380752423d8d88b32966a3339aa9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-tech-for-live-video-recording-webcam-with-vlc/"><u>[New] Innovative Tech for Live Video Recording – Webcam with VLC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-step-by-step-tips-for-captivating-igtv-backgrounds/"><u>[Updated] In 2024, Step-By-Step Tips for Captivating IGTV Backgrounds</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-webcam-buying-simplified-the-best-10-options/"><u>[Updated] In 2024, Webcam Buying Simplified The Best 10 Options</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/jpeg-gif-5/"><u>最適な JPEG から GIF への無料変換ソフト5つをご紹介！</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fanstream/"><u>FanStream 動画の秘密裏の録画技術：ガジェット情報</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fast-and-simple-guide-to-ripping-dvds-on-windows-7/"><u>Fast & Simple Guide to Ripping DVDs on Windows 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/flac-to-m4a-3/"><u>FLAC to M4A フリーコンバーターソフトウェア 上位3選🔥</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-v29-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-zte-axon-40-lite-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from ZTE Axon 40 Lite to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-lava-blaze-pro-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-change-mp4-videos-into-mp3-format-using-handbrake/"><u>Is It Possible To Change MP4 Videos Into MP3 Format Using HandBrake?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3wav-mp3wav2024/"><u>MP3/WAV両方に対応 結合拡張MP3・WAVソフトウェア2024年版フリーダウンロード</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-v27-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo V27 Users</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/remium-viewership-the-ultimate-youtube-wealth-for-2024/"><u>[New] Premium Viewership The Ultimate YouTube Wealth for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capture-and-share-your-digital-world-effortlessly/"><u>[Updated] In 2024, Capture and Share Your Digital World Effortlessly</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-the-art-of-customizing-your-youtube-channel-url/"><u>[Updated] Mastering the Art of Customizing Your YouTube Channel URL</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebooks-blue-icon-decoding-its-meaning-in-chats/"><u>2024 Approved Facebook's Blue Icon Decoding Its Meaning in Chats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-rely-on-chatgpt-as-an-effective-proofreading-tool/"><u>Can You Rely on ChatGPT as an Effective Proofreading Tool?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-privacy-while-utilizing-ai-chatbots-like-chatgpt-at-work/"><u>Ensuring Privacy While Utilizing AI Chatbots Like ChatGPT at Work</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-upcoming-samsung-galaxy-z-fold-7-anticipated-launch-details-pricing-and-features/"><u>Exploring the Upcoming Samsung Galaxy Z Fold 7: Anticipated Launch Details, Pricing, and Features</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Tecno Spark 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-use-of-chatgpt-with-these-5-hidden-gems/"><u>Maximize Your Use of ChatGPT with These 5 Hidden Gems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-ai-with-the-power-of-vector-databases/"><u>Revolutionizing AI with the Power of Vector Databases</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplifying-your-chatgpt-sessions-advanced-techniques-in-folder-management/"><u>Simplifying Your ChatGPT Sessions: Advanced Techniques in Folder Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dawn-of-advanced-ai-gpt-4s-introduction/"><u>The Dawn of Advanced AI: GPT-4's Introduction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-importance-of-real-time-information-for-chatgpt-and-its-effect-on-users/"><u>The Importance of Real-Time Information for ChatGPT and Its Effect on Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-superiority-of-ios-in-chatgpt-world/"><u>Unveiling the Superiority of iOS in ChatGPT World</u></a></li>
 </ul></div>
 

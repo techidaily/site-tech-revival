@@ -1,7 +1,7 @@
 ---
 title: Top 5 Methods for Creating Tailored ChatGPT Commands
-date: 2024-09-16T02:34:40.366Z
-updated: 2024-09-17T19:06:33.373Z
+date: 2024-09-18T03:19:18.493Z
+updated: 2024-09-22T19:17:50.416Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
 
  While there are ChatGPT-focused extensions out there (such as Merlin and Enhanced ChatGPT), not every extension that you see on your browser's app store is safe. For example, a ChatGPT extension named "Chat GPT for Google" began spreading from device to device in March 2023\. But while spreading, the[phony ChatGPT extension was stealing thousands of users' Facebook information](https://www.makeuseof.com/fake-chatgpt-chrome-extension-steals-facebook-logins/) .
@@ -46,9 +53,23 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
  So, it's crucial that you verify the legitimacy of a ChatGPT extension before downloading it. Also keep an eye out for discrete differences in the names of extensions, as a malicious extension can be listed under a very similar name in order to trick users.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
 
@@ -60,25 +81,11 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There's been a lot of talk about AI and cybercrime in recent years, as many are concerned this technology may make it easier for malicious actors to scam and attack victims.
 
  This is by no means an unrealistic worry, as[ChatGPT can be used in malware creation](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) . It didn't take long after the launch of ChatGPT for illicit individuals to start writing malicious code using the popular tool. In early 2023, a form of[Python-based malware was allegedly created using ChatGPT](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , as stated in a hacking forum post.
 
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. ChatGPT Phishing Sites
 
@@ -91,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
  Alternatively, you may receive an email from a user claiming to be a ChatGPT staff member, stating that your ChatGPT account requires some form of verification. This email will likely include a link to a webpage where you can log into your account and complete the verification, or so the sender claims.
 
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know[how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Scams Are Worryingly Common
 
@@ -111,15 +125,22 @@ thumbnail: https://thmb.techidaily.com/58d6990fb1aba3befeda20029d053fd2dc8e67729
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-building-a-broadcast-brand-with-youtube-twitch-and-obs-for-2024/"><u>[Updated] Building a Broadcast Brand with YouTube, Twitch and OBS for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-navigating-video-uploads-on-youtube-a-comprehensive-tutorial/"><u>2024 Approved Navigating Video Uploads on YouTube A Comprehensive Tutorial</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streamlining-online-recording-of-webcamplusscreen/"><u>2024 Approved Streamlining Online Recording of Webcam+Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/jpeg-gif-5/"><u>最適な JPEG から GIF への無料変換ソフト5つをご紹介！</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/flac-to-m4a-3/"><u>FLAC to M4A フリーコンバーターソフトウェア 上位3選🔥</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-google-pixel-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-change-mp4-videos-into-mp3-format-using-handbrake/"><u>Is It Possible To Change MP4 Videos Into MP3 Format Using HandBrake?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3wav-mp3wav2024/"><u>MP3/WAV両方に対応 結合拡張MP3・WAVソフトウェア2024年版フリーダウンロード</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unmasked-story-watching-a-guide-to-anonymous-instagram-stories-accessibility-pcandroidios-for-2024/"><u>Unmasked Story Watching A Guide to Anonymous Instagram Stories Accessibility [PC/Android/iOS] for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-strategies-for-recording-and-saving-gameplay-on-ps4/"><u>[New] Advanced Strategies for Recording and Saving Gameplay on PS4</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-economic-estimation-funds-required-for-song-visualization/"><u>[Updated] In 2024, Economic Estimation Funds Required For Song Visualization</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pioneering-creativity-youtubes-playground-for-talent/"><u>[Updated] Pioneering Creativity YouTube's Playground for Talent</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5yag5rur44gr5yuv55s757eo6zug77ya5yih44kk5yplusw44kk55u057wq44gu44kz44oe44cn/"><u>「円滑に動画編集：切り取り直結のコツ」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029837360-pcdvd/"><u>「PCでDVD形式を変える:専門家が教える正しい方法」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029507902-windows-78/"><u>「Windows 7・8」ビデオファイルを静止画に変換する簡単な手法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44or44k944kz44oz5lik44gn57ch5y2y44gq44ot44oh44kq5yplusn6lui5lplusu5q2j44og44kv44ol44od44kv44cn/"><u>「パソコン上で簡単なビデオ反転修正テクニック」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44oe44kk44oq44k544oi44cn44oh44o844k44ks5ywo6yoo57ay576f44gx44gm44cb44ol44kz44ol44kz5yuv55s744gl44kj44oq44od44ob44gn5lplusd5a2y44gz44kl44og44kv44ol44od4465/"><u>「マイリスト」データを全部網羅して、ニコニコ動画からバッチで保存するテクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/3mp4aac/"><u>3無料ツールで簡単にMP4からAACへの変換ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avchd2/"><u>AVCHD映像パーツへの巧みな分割方法：2種類の選択肢</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-tv-screen-scenes-with-ease-your-ultimate-guide/"><u>Capturing TV Screen Scenes with Ease - Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1723808028853-gaming-without-glitches-boosting-your-fps-on-destiny-2s-beyond-light/"><u>Gaming Without Glitches - Boosting Your FPS on Destiny 2'S Beyond Light.</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/learn-to-purge-your-devices-youtube-content-easily-for-2024/"><u>Learn to Purge Your Device's YouTube Content Easily for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/restore-noise-to-silent-twitter-video-posts/"><u>Restore Noise to Silent Twitter Video Posts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/star-citizen-no-longer-causes-system-crashes-on-windows-fixed/"><u>Star Citizen No Longer Causes System Crashes on Windows - Fixed!</u></a></li>
+<li><a href="https://win-online.techidaily.com/trasforma-i-tuoi-file-flv-in-formato-asf-gratuitamente-online-utilizzando-il-servizio-di-movavi/"><u>Trasforma I Tuoi File FLV in Formato ASF Gratuitamente Online Utilizzando Il Servizio Di Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44gv44gplus44gw44gplus44gq44oh44oq44kk44k544gr5zci44kp44gb44gf44k544oi44oq44o844of44oz44kw5yuv55s75lplusd5a2y5pa55rov/"><u>さまざまなデバイスに合わせたストリーミング動画保存方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Clarifying Intellectual Property Rights: The Insider's Guide to Who Claims Copyright on AI Artistic Outputs"
-date: 2024-09-15T05:59:56.290Z
-updated: 2024-09-17T18:21:05.558Z
+date: 2024-09-16T08:26:24.248Z
+updated: 2024-09-23T12:10:04.656Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -48,9 +62,23 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -59,19 +87,6 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
  AI chatbots also present biased opinions since they've learned from humans, and, at times,[AI will hallucinate answers](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) and deliver them with confidence. However, we're still in the early days of AI adoption, and leading tech companies like OpenAI and Microsoft acknowledge that AI systems will improve with more user feedback. GPT-4 is testament to that improvement since it has safer responses than GPT 3.5,[among other differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Interact With AI How You Want
 
@@ -94,20 +109,22 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-ideal-matches-mac-and-pc-video-decoders-freepaid/"><u>[New] Ideal Matches Mac & PC Video Decoders (FREE/PAID)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-instant-mp3-download-from-facebook-vids-directly/"><u>2024 Approved Instant MP3 Download From Facebook Vids Directly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ai-movavi-ai-converter/"><u>線上免錢AI轉型工具 - Movavi AI Converter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chat-with-ai-like-never-before-the-ultimate-guide-to-efficiently-using-microsofts-innovative-chatgpt/"><u>Chat with AI Like Never Before: The Ultimate Guide to Efficiently Using Microsoft's Innovative ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-compelling-narratives-a-step-by-step-guide-to-harnessing-chatgpts-power/"><u>Crafting Compelling Narratives: A Step-by-Step Guide to Harnessing ChatGPT's Power</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demonstrating-gpts-real-world-value/"><u>Demonstrating GPT's Real-World Value</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-claude-2-functions-uses-and-advantages-revealed/"><u>Demystifying Claude 2: Functions, Uses, and Advantages Revealed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-into-huggingchat-the-affordable-public-domain-option-versus-chatgpt/"><u>Dive Into HuggingChat: The Affordable, Public Domain Option Versus ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-guide-downloading-and-setting-up-auto-gpt-with-ease/"><u>Expert Guide: Downloading and Setting Up Auto-GPT with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-tips-on-deep-cleaning-mechanical-keyboards-a-comprehensive-approach/"><u>Expert Tips on Deep Cleaning Mechanical Keyboards – A Comprehensive Approach</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-disabled-iphone-7ipad-without-computer-by-drfone-ios/"><u>How to Unlock Disabled iPhone 7/iPad Without Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-performance-the-ultimate-list-of-8-smart-ai-chrome-plugins/"><u>Maximize Performance: The Ultimate List of 8 Smart AI Chrome Plugins</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device-for-2024/"><u>New The Ultimate List of AVI Video Cutters Trim and Edit on Any Device for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/songful-learning-strategies-scientifically-proven-methods-for-languages/"><u>Songful Learning Strategies: Scientifically Proven Methods for Languages</u></a></li>
-<li><a href="https://fox-http.techidaily.com/unlocking-gopros-full-potential/"><u>Unlocking GoPro's Full Potential</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-timestamps-to-youtube-video-to-increase-views/"><u>[New] 2024 Approved How to Add Timestamps to YouTube Video to Increase Views</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-channel-identity-reimagined-best-name-generators-listed-for-2024/"><u>[New] Channel Identity Reimagined Best Name Generators Listed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-truth-behind-instas-video-selfie-authenticity-check/"><u>[Updated] 2024 Approved The Truth Behind Insta's Video Selfie Authenticity Check</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-crafting-compact-comforts-essential-mc-abodes-for-beginners/"><u>[Updated] Crafting Compact Comforts Essential MC Abodes for Beginners</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-realme-12-proplus-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Realme 12 Pro+ 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ace-titles-essentials-for-digital-marketing-success/"><u>Ace Titles Essentials for Digital Marketing Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-discover-10-key-contrasts-between-chatgpt-and-bings-cutting-edge-ai-assistant/"><u>AI Showdown: Discover 10 Key Contrasts Between ChatGPT and Bing’s Cutting-Edge AI Assistant</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c51-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-prompts-different-approaches-ranking-3-leading-chatbot-responses/"><u>Creative Prompts, Different Approaches: Ranking 3 Leading Chatbot Responses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-wonders-how-snapchats-my-ai-transcends-being-merely-fun-gadgetry/"><u>Exploring the Wonders: How Snapchat's My AI Transcends Being Merely Fun Gadgetry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/installation-guide-for-androids-chatgpt-widget/"><u>Installation Guide for Android's ChatGPT Widget</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-a-viable-tool-for-error-checking-written-material/"><u>Is ChatGPT a Viable Tool for Error-Checking Written Material?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-virtualdub-vs-other-video-editors-which-one-reigns-supreme-in-2024/"><u>New Virtualdub vs Other Video Editors Which One Reigns Supreme , In 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/simplifying-complexity-pythons-role-in-gpt-3/"><u>Simplifying Complexity: Python's Role in GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spoofing-chatbots-how-some-apps-mislead-and-compromise-users/"><u>Spoofing ChatBots: How Some Apps Mislead & Compromise Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-truth-about-using-ai-for-generating-legitimate-windows-11-keys/"><u>The Truth About Using AI for Generating Legitimate Windows 11 Keys</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-5-free-ai-utilities-for-creating-advanced-email-drafts-and-inbox-summaries-using-chatgpt-technology/"><u>Unlock the Power of 5 FREE AI Utilities for Creating Advanced Email Drafts and Inbox Summaries Using ChatGPT Technology</u></a></li>
 </ul></div>
 

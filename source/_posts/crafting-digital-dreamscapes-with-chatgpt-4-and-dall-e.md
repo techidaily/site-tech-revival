@@ -1,7 +1,7 @@
 ---
 title: Crafting Digital Dreamscapes with ChatGPT-4 and DALL-E
-date: 2024-09-14T22:00:19.318Z
-updated: 2024-09-18T11:10:54.605Z
+date: 2024-09-17T09:23:23.022Z
+updated: 2024-09-22T19:37:41.103Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 ![Rytr](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rytr.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re a beginner fiction writer or looking for a new story AI generator on a budget, this one is for you.[Rytr](https://rytr.me/) doesn’t come with many bells and whistles, but it gets the job done.
 
  It lets you pick from numerous tones, such as**awestruck** or**critical** , and can provide up to three variants. There are several use cases to help optimize the text, but for the fiction writer, the best one is the**Story Plot** .
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
  Besides this app, you should consider using[several creative writing apps](https://www.makeuseof.com/reasons-to-use-creative-writing-apps/) to improve your content quality.
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. ShortlyAI
 
@@ -74,28 +88,15 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
@@ -107,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
  But the most fun part of this software is the**Adventure Text Module** . With this feature, writing becomes almost like a game. Instead of just writing a prompt, you can instruct the software that the prompt is either**Do, Say, or Story** . It feels like a “build your own adventure” book, where everything is written in real-time.
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
@@ -129,17 +137,17 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-harness-the-power-of-gopro-studio-essential-editing-techniques/"><u>[New] 2024 Approved Harness the Power of GoPro Studio Essential Editing Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-steps-to-an-exceptional-youtube-closure-for-2024/"><u>[Updated] Steps to an Exceptional YouTube Closure for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-you-can-get-gpt-4-at-no-cost-top-strategies-inside/"><u>Discover How You Can Get GPT-4 at No Cost – Top Strategies Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diy-fix-for-chatgpt-error-tackling-the-plugin-service-interaction-challenge/"><u>DIY Fix for ChatGPT Error: Tackling the Plugin Service Interaction Challenge</u></a></li>
-<li><a href="https://win-forum.techidaily.com/efficiently-manage-your-pc-how-to-erase-windows-1/"><u>Efficiently Manage Your PC: How to Erase Windows 1</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-xiaomi-redmi-a2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Xiaomi Redmi A2 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-8t-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 8T 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-honor-100-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Honor 100 Pro Pattern Lock Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/rank-the-best-fb-video-downloaders-heres-how-for-2024/"><u>Rank the Best FB Video Downloaders - Here's How for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-emerging-cybersecurity-developments-insights-and-forecasts/"><u>Top 7 Emerging Cybersecurity Developments: Insights & Forecasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-5-strategies-to-experience-gpt-4s-power-for-zero-dollars/"><u>Unlock 5 Strategies to Experience GPT- 4'S Power for Zero Dollars</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-echoes-in-motion-mac-for-sound-artists-for-2024/"><u>[Updated] Echoes in Motion Mac for Sound Artists for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-list-mastering-youtubes-best-music-reaction-videos/"><u>2024 Approved The Ultimate List Mastering YouTube's Best Music Reaction Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-tutorial-smoothly-embedding-urls-on-instagram-feed/"><u>2024 Approved Tutorial Smoothly Embedding URLs on Instagram Feed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ape-m4a-movavi/"><u>免费在线APE M4A转换专业解决方案 - 利用Movavi视频编码器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227707425-asfwmvmovavi/"><u>ASF到WMV自由將綫下轉換的方法：利用Movavi 免費格式變更工具</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-of-mp3-to-au-format-with-movavi-instant-audio-file-transformation/"><u>Free Online Conversion of MP3 to AU Format with Movavi - Instant Audio File Transformation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-choosing-the-best-tiktok-video-editors-of-202-cuisine-finding-your-perfect-free-or-paid-tool/"><u>The Ultimate Guide to Choosing the Best TikTok Video Editors of 202 Cuisine: Finding Your Perfect Free or Paid Tool</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-how-to-overcome-paused-downloads-on-your-iphone-or-ipad/"><u>Troubleshooting Guide: How To Overcome Paused Downloads on Your iPhone or iPad</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-infinix-hot-40-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix Hot 40</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-5-best-free-iphone-video-rotators/"><u>Updated Top 5 Best Free iPhone Video Rotators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/f4v-avi-movavi/"><u>이제 사용자 친화적인 F4V-AVI 변환기가 새로운 Movavi 원격 바인딩에 추가됨!</u></a></li>
 </ul></div>
 

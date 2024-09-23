@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings"
-date: 2024-09-11T17:34:03.676Z
-updated: 2024-09-17T18:01:50.863Z
+date: 2024-09-18T02:27:56.302Z
+updated: 2024-09-23T00:38:46.163Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -65,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -79,15 +86,22 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
@@ -99,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -148,15 +162,25 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-ultimate-gopro-battle-hero5-black-vs-hero4-silver/"><u>[New] Ultimate GoPro Battle Hero5 Black vs Hero4 Silver</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-enhance-your-video-meetings-with-snap-shots-on-zoom-for-2024/"><u>[Updated] Enhance Your Video Meetings with Snap Shots on Zoom for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-crafting-top-instagram-videos/"><u>[Updated] Step-by-Step Crafting Top Instagram Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-transforming-social-media-nostalgia-how-to-edit-lookback/"><u>[Updated] Transforming Social Media Nostalgia How to Edit Lookback</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-turing-test-is-machine-intelligence-on-the-horizon/"><u>Decoding the Turing Test: Is Machine Intelligence on the Horizon?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unlocking-apowersofts-zero-cost-screen-recording/"><u>In 2024, Unlocking Apowersoft's Zero-Cost Screen Recording</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/smirk-sculptor-image-maker-for-2024/"><u>Smirk Sculptor Image Maker for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-top-5-limitations-of-using-chatgpt-for-analyzing-cryptocurrency-markets/"><u>The Top 5 Limitations of Using ChatGPT for Analyzing Cryptocurrency Markets</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-advanced-llms-the-leading-choices-in-natural-language-processing/"><u>Top 6 Advanced LLMs: The Leading Choices in Natural Language Processing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722969478330-win7-wifi-connection-troubles-discover-how-to-repair-your-network-adapter-drivers/"><u>Win7 WiFi Connection Troubles? Discover How to Repair Your Network Adapter Drivers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-beyond-staged-success-ten-truths-about-reels-on-instagram/"><u>[New] 2024 Approved Beyond Staged Success Ten Truths About Reels on Instagram</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-script-to-screenplay-expert-video-editing-insights/"><u>[New] In 2024, From Script to Screenplay Expert Video Editing Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-taking-your-filmed-artistry-on-a-journey-with-imovie-and-youtube/"><u>[New] In 2024, Taking Your Filmed Artistry on a Journey with iMovie & YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024pcdltop10/"><u>2024年の鍵を握る最強PCゲームフリーDL場所ランキングTOP10</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-itel-a05s-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Itel A05s System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/combine-sua-playlist-no-movavi-uma-abordagem-direta-e-pratica-para-melhorar-sua-experiencia-musical/"><u>Combine Sua Playlist No Movavi: Uma Abordagem Direta E Prática Para Melhorar Sua Experiência Musical</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-gratuite-de-fichiers-ogg-vers-mp4-sur-internet-avec-movavi-guide-complet/"><u>Conversion Gratuite De Fichiers OGG Vers MP4 Sur Internet Avec Movavi - Guide Complet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-au-files-to-mp4-format-at-no-cost-with-movavis-instant-converter/"><u>Convert AU Files to MP4 Format at No Cost with Movavi's Instant Converter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converti-file-mpe-in-formato-m4a-gratuitamente-online-con-movavi/"><u>Converti File MPE in Formato M4A Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-archivo-pef-a-formato-digital-de-forma-gratuita-con-movavi/"><u>Convertir Archivo PEF a Formato Digital De Forma Gratuita Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-of-snd-audio-files-easy-with-movavi/"><u>Free Online Conversion of SND Audio Files - Easy with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-cambia-archivo-wmv-a-formato-m4a-en-linea-con-movavi/"><u>Gratuito: Cambia Archivo WMV a Formato M4A en Línea Con Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-your-iphones-camera-functionality-addressing-7-frequent-concerns/"><u>How To Restore Your iPhone's Camera Functionality - Addressing 7 Frequent Concerns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimiser-la-qualite-dimages-avec-movavi-photo-editor-astuces-et-conseils/"><u>Optimiser La Qualité D'images Avec Movavi Photo Editor - Astuces Et Conseils</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/permanent-movie-subtitle-integration-a-step-by-step-guide-with-movavi/"><u>Permanent Movie Subtitle Integration: A Step-by-Step Guide with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/qt-mp4/"><u>QT ファイルを簡単にMP4に変換する:無料で行う方法</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-setup-tips-for-free-wacom-intuos-pro-drivers-on-windows-11-systems/"><u>Quick Setup Tips for [FREE] Wacom Intuos Pro Drivers on Windows 11 Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sketch-like-a-pro-top-10-drawing-apps-for-android-artists-for-2024/"><u>Sketch Like a Pro Top 10 Drawing Apps for Android Artists for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-review-of-minecraft-a-timeless-fun-for-everyone/"><u>The Definitive Review of Minecraft: A Timeless Fun for Everyone</u></a></li>
 </ul></div>
 

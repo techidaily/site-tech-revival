@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Potential of ChatGPT: The Perfect Co-Op for RPG Sessions"
-date: 2024-09-12T23:10:31.405Z
-updated: 2024-09-17T17:32:10.821Z
+date: 2024-09-16T23:20:31.050Z
+updated: 2024-09-23T08:28:43.225Z
 tags:
   - chatgpt
   - open-ai
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
@@ -77,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
@@ -91,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -107,13 +107,20 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -122,6 +129,13 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -148,17 +162,25 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-artistic-zoomers-handbook-a-filters-journey/"><u>[Updated] 2024 Approved The Artistic Zoomer's Handbook A Filters Journey</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-non-retweeting-video-tweets-from-your-phone/"><u>[Updated] Non-Retweeting Video Tweets From Your Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/aac-vs-m4a-aacm4a/"><u>AAC vs M4A: 主な相違点と高品質保持型AACからM4Aへの変換手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-15-movie-streaming-options-like-popcorn-time-top-choices-for-your-pc-and-mobile-viewing-pleasure/"><u>Best 15 Movie Streaming Options Like Popcorn Time: Top Choices for Your PC & Mobile Viewing Pleasure</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/browse-spongebobs-best-discover-two-cost-free-trustworthy-downloading-techniques/"><u>Browse SpongeBob's Best: Discover Two Cost-Free, Trustworthy Downloading Techniques</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/comparative-study-youtube-app-on-smartphone-platforms-for-2024/"><u>Comparative Study YouTube App on Smartphone Platforms for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/essential-troubleshooting-steps-what-to-do-when-airpods-go-missing/"><u>Essential Troubleshooting Steps: What to Do When AirPods Go Missing</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-personalization-made-easy-with-4-proven-methods/"><u>Facebook Personalization Made Easy with 4 Proven Methods</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/internet-aid-social-story-recorder/"><u>Internet Aid Social Story Recorder</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/movavi-3gp3g2/"><u>Movaviで応用: 無料で3GP形式から3G2への簡単なオンライン変換 - ビデオ変換ガイド</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/perfect-ending-for-youtubers-best-practices-and-pro-files-for-2024/"><u>Perfect Ending for YouTubers Best Practices and Pro Files for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44oh44k444k44or44ox44op44kk44oq44k344o85lplusd6k2377ya44ot44oh44kq57eo6zug44oe44o844or44ks5l244gj44gf5yq55p6c55qe44gq44oi44k244kk44kv5oqa6kgt/"><u>デジタルプライバシー保護：ビデオ編集ツールを使った効果的なモザイク技術</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-navigating-the-digital-landscape-without-interrupted-ads/"><u>[New] In 2024, Navigating the Digital Landscape Without Interrupted Ads</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mac-windows-vmx-substitute/"><u>[New] Mac-Windows VMX Substitute</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-expert-fixes-for-ps4-system-crashes-and-hangs/"><u>Beat the Glitch: Expert Fixes for PS4 System Crashes & Hangs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/can-you-still-get-the-moviebox-application-installed-on-your-iphone-or-ipad/"><u>Can You Still Get the MovieBox Application Installed on Your iPhone or iPad?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-convertir-facilmente-tus-videos-mp4-por-el-internet-sin-costo-paso-a-paso-con-movavi/"><u>Cómo Convertir Fácilmente Tus Vídeos MP4 Por El Internet Sin Costo, Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-gratuite-des-fichiers-ogg-en-mp3-sur-internet-movavi/"><u>Conversion Gratuite Des Fichiers OGG en MP3 Sur Internet - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-mp4-a-mjpeg-in-tempo-reale-nessun-costo-scaricare-il-servizio-on-demand/"><u>Conversione MP4 a MJPEG in Tempo Reale, Nessun Costo - Scaricare Il Servizio On-Demand</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversor-de-mts-para-mp4-em-segundo-plano-metodo-simples-e-rapidissimo/"><u>Conversor De MTS Para MP4 Em Segundo Plano - Método Simples E Rapidíssimo!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-gifs-to-webm-format-for-the-web-free-online-tool-by-movavi/"><u>Convert GIFs to WebM Format for the Web - FREE Online Tool by Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertitori-online-gratuito-per-filetti-mpeg-a-mp3-ottienilo-facilmente-con-movavi/"><u>Convertitori Online Gratuito per Filetti MPEG a MP3 - Ottienilo Facilmente Con Movavi.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-la-herramienta-para-convertir-archivos-m4v-a-formato-3gp-sin-costo-alguno/"><u>Descargar La Herramienta Para Convertir Archivos M4V a Formato 3GP Sin Costo Alguno</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descomprime-y-convierte-mpeg-a-avi-de-forma-facil-y-sin-gastos-con-nuestro-herramienta-online/"><u>Descomprime Y Convierte Mpeg a Avi De Forma Fácil Y Sin Gastos Con Nuestro Herramienta Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dts-movietoweb-t1726233817208227/"><u>DTS 오프로드 바이트를 비용 부과 없이 가상 격리의 안내 - MovieToWeb</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-and-free-aac-to-mp4-transformation-using-movavis-web-service/"><u>Effortless and Free AAC-to-MP4 Transformation Using Movavi's Web Service</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/innovating-your-teaching-with-interactive-screencasts/"><u>Innovating Your Teaching with Interactive Screencasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/live-your-dreams-insights-into-the-panasonic-hx-a1-cam-for-2024/"><u>Live Your Dreams Insights Into the Panasonic HX-A1 Cam for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-stuck-loading-screen-in-fifa-soccer-manager-2021-solutions-inside/"><u>Overcome the Stuck Loading Screen in FIFA Soccer Manager 2021 - Solutions Inside</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/xml-for-fcpx-beginners-and-beyond-a-comprehensive-resource-for-2024/"><u>XML for FCPX Beginners and Beyond A Comprehensive Resource for 2024</u></a></li>
 </ul></div>
 

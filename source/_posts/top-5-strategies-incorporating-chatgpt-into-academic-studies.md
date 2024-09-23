@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Strategies: Incorporating ChatGPT Into Academic Studies"
-date: 2024-09-14T17:08:45.885Z
-updated: 2024-09-18T09:37:59.237Z
+date: 2024-09-18T10:14:53.733Z
+updated: 2024-09-23T07:44:04.393Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
@@ -63,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
@@ -76,6 +90,19 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  ChatGPT can be friendly and[even make jokes](https://www.makeuseof.com/can-ai-make-us-laugh/) , but this is all based on the data it has been trained with. You could certainly call it a smart program, as it is highly advanced by today's standards, but it is not an all-knowing entity.
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
@@ -88,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  Once supply exceeds demand, prices drop. Now, the coin you bought is only worth $70\. The next day, it may be worth less, and this is all because of a traditional market issue.
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
 
@@ -115,21 +135,20 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-screen-shot-entire-page-view/"><u>[New] 2024 Approved Screen Shot Entire Page View</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-pioneering-strategies-in-instavid-world-design-an-optimal-marketing-approach/"><u>[Updated] 2024 Approved Pioneering Strategies in InstaVid World Design an Optimal Marketing Approach</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-videosnap-messenger-edition/"><u>[Updated] VideoSnap – Messenger Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gifavi/"><u>「無劣化」ビデオ作成: GIFをAVIフォーマットに移行する方法</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-deep-dive-into-instagrams-copyrighted-song-permissions/"><u>2024 Approved A Deep Dive Into Instagram's Copyrighted Song Permissions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-backswing-crafting-bundle/"><u>2024 Approved Backswing Crafting Bundle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/hd-1080p72p/"><u>高解像度ビデオをHDにダウンサイジング: 1080Pから72pへの変換手順</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-of-imposter-how-a-fraudulent-chatgpt-add-on-compromises-your-facebook-password-security/"><u>Beware of Imposter: How a Fraudulent ChatGPT Add-On Compromises Your Facebook Password Security</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-vidme-video-downloads-discovering-the-best-three-strategies-to-save-your-favorites/"><u>Effortless Vidme Video Downloads: Discovering the Best Three Strategies to Save Your Favorites!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enabling-and-streaming-h264-video-format-through-microsofts-media-player-tips-and-tricks/"><u>Enabling and Streaming H.2#64 Video Format Through Microsoft's Media Player - Tips & Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-smooth-streaming-on-kindle-fire-a-guide-to-video-format-supports-and-efficient-conversion-techniques/"><u>Ensuring Smooth Streaming on Kindle Fire: A Guide to Video Format Supports and Efficient Conversion Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-for-assembling-moving-image-mosaics-in-microsoft-windows/"><u>Expert Tips for Assembling Moving Image Mosaics in Microsoft Windows</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-tips-for-overcoming-valorants-voice-chat-malfunctions/"><u>Expert Tips for Overcoming Valorant's Voice Chat Malfunctions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-video-sticker-editing-adding-emojis-and-graphics-to-your-clips-on-any-device/"><u>Free Video Sticker Editing: Adding Emojis and Graphics to Your Clips on Any Device</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-lava-yuva-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Lava Yuva 2 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-15-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 15 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-resurrecting-lost-confidential-snapshots/"><u>[Updated] In 2024, Resurrecting Lost, Confidential Snapshots</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-footage-to-fortune-unveiling-the-secrets-of-sj-cam-s6/"><u>2024 Approved From Footage to Fortune Unveiling the Secrets of SJ-CAM S6</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beginning-with-bots-how-to-forge-a-professional-path-in-the-field-of-prompt-engineering/"><u>Beginning with Bots: How to Forge a Professional Path in the Field of Prompt Engineering</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-original-exploring-modern-substitutes-for-the-turing-test/"><u>Beyond the Original: Exploring Modern Substitutes for the Turing Test</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-efficiency-using-these-10-chatgpt-pdf-management-extensions/"><u>Boost Your Efficiency Using These 10 ChatGPT PDF Management Extensions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-apple-iphone-14-pro-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock Apple iPhone 14 Pro After Forgetting the Passcode?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-2-slowdown-solutions-boost-your-fps-in-windows-11-and-10-with-easy-fixes/"><u>Dota 2 Slowdown Solutions: Boost Your FPS in Windows 11 and 10 with Easy Fixes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/experience-next-level-interaction-top-10-innovative-ai-chatbots-for-superior-conversations/"><u>Experience Next-Level Interaction: Top 10 Innovative AI Chatbots for Superior Conversations</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817948147-fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won’t Turn On Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4-in-action-unveiling-the-mechanics-behind-these-7-innovative-applications/"><u>GPT-4 in Action: Unveiling the Mechanics Behind These 7 Innovative Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-easy-steps-to-activate-your-access-to-chatgpt-plugin-extensions/"><u>Guide: Easy Steps to Activate Your Access to ChatGPT Plugin Extensions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-honor-100-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Honor 100 Through Google Earth?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-challenges-understanding-chatgpts-8-key-obstacles/"><u>Navigating Through Challenges: Understanding ChatGPT's 8 Key Obstacles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steer-clear-of-these-6-bloatware-bot-extensions-save-time-and-money/"><u>Steer Clear of These 6 Bloatware Bot Extensions - Save Time & Money!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-instagrams-verification-process-essential-techniques-and-advice/"><u>Unlocking Instagram's Verification Process: Essential Techniques and Advice</u></a></li>
 </ul></div>
 

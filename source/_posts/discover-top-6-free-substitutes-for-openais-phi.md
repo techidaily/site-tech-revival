@@ -1,7 +1,7 @@
 ---
 title: Discover Top 6 Free Substitutes for OpenAI's Phi
-date: 2024-09-14T07:23:11.885Z
-updated: 2024-09-18T04:59:48.594Z
+date: 2024-09-17T23:03:41.250Z
+updated: 2024-09-23T08:10:18.088Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -37,6 +44,19 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -53,15 +73,28 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -70,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -101,14 +127,25 @@ thumbnail: https://thmb.techidaily.com/742c07b37bc56bb3aebc8573a3c5f52e5aeacf6ca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-thumbnail-insight-top-picks-for-maximizing-video-visibility/"><u>[Updated] 2024 Approved Thumbnail Insight Top Picks for Maximizing Video Visibility</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-entering-the-fullscreen-realm-choosing-a-cms/"><u>[Updated] In 2024, Entering the Fullscreen Realm Choosing a CMS</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unleash-the-past-sharing-snaps-from-your-camera-roll/"><u>[Updated] In 2024, Unleash the Past - Sharing Snaps From Your Camera Roll</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-user-testimonials-ios-vs-android-youtube-watching-habits/"><u>[Updated] In 2024, User Testimonials IOS vs Android YouTube Watching Habits</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ideal-echo-chamber-recorders/"><u>2024 Approved Ideal Echo Chamber Recorders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/audio-file-resampler-adjust-mp3-and-various-soundtrack-bitrates-easily/"><u>Audio File Resampler: Adjust MP3 and Various Soundtrack Bitrates Easily</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-beyond-reality-the-future-of-virtual-experiences/"><u>In 2024, Beyond Reality The Future of Virtual Experiences</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030092395-instagram/"><u>Instagram ストーリーのフルスクリーン動画記録方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/6/"><u>ベストのゲーム実況編集ソフトＬｅ電源6つ選! 完全無料とプロ仕様</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/1716069387240-new-a-stepwise-approach-for-creating-an-interactive-skype-conversation-among-users-from-multiple-operating-systems-for-2024/"><u>[New] A Stepwise Approach for Creating an Interactive Skype Conversation Among Users From Multiple Operating Systems. For 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-directly-syncing-your-tiktok-videos-with-facebook/"><u>[Updated] 2024 Approved Directly Syncing Your TikTok Videos with Facebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-ranked-top-picks-for-free-skype-tones/"><u>[Updated] Ranked Top Picks for Free Skype Tones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-top-tips-tuning-your-snapchat-videos-for-maximum-impact/"><u>2024 Approved Top Tips Tuning Your Snapchat Videos for Maximum Impact</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-data-erasure-on-1-mac-with-stellar-mobile-eraser-tool/"><u>Complete Data Erasure on 1 Mac with Stellar Mobile Eraser Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tips-on-opening-vob-format-videos-with-ease/"><u>Essential Tips on Opening VOB Format Videos with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flvto-understanding-its-safety-and-legality-a-comprehensive-guide/"><u>FLVTO: Understanding Its Safety & Legality - A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-global-perspective-inclusive-technology-review/"><u>In 2024, Global Perspective Inclusive Technology Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamlining-your-video-workflow-in-windows-11/"><u>In 2024, Streamlining Your Video Workflow in Windows 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/keyboardmouse-wake-issues-in-windows-11/"><u>Keyboard/Mouse Wake Issues in Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-audio-extraction-two-cost-free-methods-to-transform-dailymotion-content-into-crystal-clear-mp3-players/"><u>Master the Art of Audio Extraction: Two Cost-Free Methods to Transform Dailymotion Content Into Crystal Clear MP3 Players!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-continuous-sound-capture-in-windows-11-complete-tutorial/"><u>Mastering the Art of Continuous Sound Capture in Windows 11 - Complete Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-chrome-browsers-download-speeds-a-step-by-step-guide/"><u>Maximizing Chrome Browser's Download Speeds: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-dvdiso/"><u>MP4形式に簡単変換: DVD・ISOから字幕付きコピーガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4mpeg-2web/"><u>MP4ファイルをMPEG-2形式に高速変換できる信頼性の高いWebツール紹介</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-best-12-sports-streaming-sites-freeandpaid/"><u>New 2024 Approved Best 12 Sports Streaming Sites (Free&Paid)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/restore-corrupted-3gp-media-top-5-solutions-for-microsoft-operating-systems/"><u>Restore Corrupted .3Gp Media: Top 5 Solutions for Microsoft Operating Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamlessly-combining-videos-without-compromising-quality/"><u>Seamlessly Combining Videos Without Compromising Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simultaneous-gaming-and-listening-to-youtube-melodies-on-your-xbox-console/"><u>Simultaneous Gaming & Listening to YouTube Melodies on Your Xbox Console</u></a></li>
 </ul></div>
 

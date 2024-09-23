@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: GPT-4's Role in Shaping the Art of Home Improvement"
-date: 2024-09-17T02:25:07.549Z
-updated: 2024-09-18T04:35:26.196Z
+date: 2024-09-18T18:22:46.190Z
+updated: 2024-09-23T05:26:06.340Z
 tags:
   - chatgpt
   - open-ai
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
  Part of ChatGPT's Memory is the supposition you're talking to it about anything and everything. It gives an example of "You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat." That's cute, no doubt, but it's not the sort of information most folks are providing to ChatGPT regularly (at least, I assume not).
@@ -67,24 +74,31 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
  In response, OpenAI revealed ideas for[Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) , a mode that enables "a conversation with a blank slate." In Temporary Chat mode, ChatGPT won't be aware of any previous conversations or memory, but would still use your custom instructions if set. It's a little like Incognito or Private mode in a browser.
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Free Trial Invites
 
@@ -99,10 +113,16 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
@@ -122,17 +142,15 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-guide-for-srt-format-conversions/"><u>[New] Comprehensive Guide for SRT Format Conversions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-sharing-guide-for-tiktok-content/"><u>[New] In 2024, Twitter Sharing Guide for TikTok Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-on-basic-color-correction-in-photos/"><u>[Updated] Expert Tips on Basic Color Correction in Photos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-new-edit-function-in-dall-e-3-promising-start-with-more-to-be-perfected/"><u>Exploring the New Edit Function in DALL-E 3: Promising Start with More to Be Perfected</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-samsung-galaxy-f04-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Samsung Galaxy F04 to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-edge-40-neo-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Edge 40 Neo Through Google Earth?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/key-adjustments-needed-in-the-chatgpt-plugin-ecosystem/"><u>Key Adjustments Needed in the ChatGPT Plugin Ecosystem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-healthier-meal-prep-with-assistance-from-chatgpt/"><u>Mastering Healthier Meal Prep with Assistance From ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-wi-fi-connectivity-problems-for-microsoft-surface-owners/"><u>Overcoming Wi-Fi Connectivity Problems for Microsoft Surface Owners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-free-alternatives-to-openais-sora-ai-model/"><u>Top 6 Free Alternatives to OpenAI's Sora AI Model</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-tips-for-students-to-maximize-benefits-from-chatgpt-without-misuse/"><u>Top Tips for Students to Maximize Benefits From ChatGPT Without Misuse</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uick-launch-long-growth-the-10-best-youtube-business-channels-for-2024/"><u>[New] Quick Launch, Long Growth The 10 Best YouTube Business Channels for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/"><u>[Updated] In 2024, Evolutionary Tools Redefining the Art of Game Capture Beyond FBX</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secrets-unveiled-for-documenting-real-time-sports/"><u>[Updated] Secrets Unveiled for Documenting Real-Time Sports</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dng-movavi/"><u>線上簡便的DNG格式免費還原工具 – Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-sound-fidelity-what-sets-wav-apart-from-mp3-an-insightful-analysis-by-movavi/"><u>Comparing Sound Fidelity: What Sets WAV Apart From MP3? An Insightful Analysis by Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Poco F5 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-techniques-to-use-your-touch-screen-with-windows-absolutely-anything-11-and-make-it-work-flawlessly/"><u>Top 4 Techniques to Use Your Touch Screen with Windows Absolutely Anything! 11 and Make It Work Flawlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-top-10-no-cost-video-cropping-apps-of-the-year/"><u>Ultimate Guide: Top 10 No-Cost Video Cropping Apps of the Year</u></a></li>
 </ul></div>
 

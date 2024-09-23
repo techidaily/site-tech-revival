@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative Artificial Intelligence: How It Works and Who Is Implementing It?"
-date: 2024-09-16T01:56:39.256Z
-updated: 2024-09-18T08:33:07.180Z
+date: 2024-09-20T23:48:33.632Z
+updated: 2024-09-23T03:03:17.693Z
 tags:
   - chatgpt
   - open-ai
@@ -34,9 +34,29 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
@@ -56,31 +76,31 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
@@ -100,13 +120,6 @@ Here's how you can create your own personalized tests:
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -135,12 +148,24 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/omparative-assessment-youtube-vs-dailymention-for-2024/"><u>[New] Comparative Assessment YouTube Vs. DailyMention for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-transform-your-iphone-into-a-content-powerhouse-with-best-fb-video-downloaders-for-ios/"><u>2024 Approved Transform Your iPhone Into a Content Powerhouse with Best FB Video Downloaders for iOS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016504310-destiny-2-voice-chat-problems-heres-how-you-can-solve-them/"><u>Destiny 2 Voice Chat Problems? Here's How You Can Solve Them</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-8-chatgpt-extensions-for-your-fitness-routine/"><u>Discover the Best 8 ChatGPT Extensions for Your Fitness Routine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-the-accuracy-of-cgp-in-medicine/"><u>Evaluating the Accuracy of CGP in Medicine</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-do-i-schedule-a-screen-recording-for-2024/"><u>How Do I Schedule A Screen Recording for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openais-latest-innovation-the-transformative-gpt-n-artificial-intelligence-system/"><u>OpenAI's Latest Innovation: The Transformative GPT-N Artificial Intelligence System</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-frame-it-right-mastering-instagram-video-edges/"><u>[New] Frame It Right Mastering Instagram Video Edges</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-be-the-life-of-the-party-uploading-and-sharing-gifs-on-instagram-instant-guide-for-2024/"><u>[Updated] Be the Life of the Party Uploading & Sharing GIFs on Instagram [Instant Guide] for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-fading-out-sounds-effectively-using-lumafusion-for-2024/"><u>[Updated] Fading Out Sounds Effectively Using Lumafusion for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-instagram-videos-size-and-format-tips-for-2024/"><u>[Updated] Mastering Instagram Videos Size and Format Tips for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-tap-into-the-quickest-way-for-downloading-musically-videos/"><u>[Updated] Tap Into the Quickest Way for Downloading Musical.ly Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wmam4a-movavi/"><u>「免費WMA・M4A形式のオンライン音楽ファイル変換 - Movavi」</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-pathway-to-enlisting-world-class-cinematographers/"><u>2024 Approved Pathway to Enlisting World-Class Cinematographers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpeg3gpmovavi/"><u>免费在线将MPEG视频转化为3GP：如何利用Movavi编解码器</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-kivalasztott-hatarzokba-a-legjobb-ocakkal-szolo-tv-futarak-epitesekbe-movavi/"><u>A Kiválasztott Határzókba - A Legjobb Ócakkal Szóló TV Futárák Építésekbe - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-convertir-imagenes-tiff-a-jpg-sin-costo-utilizando-la-herramienta-de-movavi/"><u>Cómo Convertir Imágenes TIFF a JPG Sin Costo Utilizando La Herramienta De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creer-des-collages-de-photos-avec-movavi-guide-detaille-pour-telechargez-et-ajouter-votre-photographies-en-un-clic/"><u>Créer Des Collages De Photos Avec Movavi: Guide Détaillé Pour Téléchargez Et Ajouter Votre Photographies en Un Clic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/extracting-images-from-videos-a-comprehensive-guide-6-alternative-methods/"><u>Extracting Images From Videos - A Comprehensive Guide (6 Alternative Methods)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-online-transcoderen-van-wmv-naar-aac-met-movavi/"><u>Gratuit Online: Transcoderen Van WMV Naar AAC Met Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-realme-v30t-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Realme V30T To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-10-affordable-game-recording-solutions/"><u>In 2024, Top 10 Affordable Game Recording Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-smartphones-para-filmagem-de-video-em-2024-opcoes-atualizadas/"><u>Top 10 Smartphones Para Filmagem De Vídeo Em 2024 - Opções Atualizadas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transcodificar-archivos-mxf-a-mp4-de-forma-gratuita-con-movavi-online/"><u>Transcodificar Archivos MXF a MP4 De Forma Gratuita Con Movavi Online</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/free-qt-to-wmv-movavi/"><u>オンラインで行うFREE QT to WMV ビデオ変換: Movaviの使いやすいツール選び方</u></a></li>
 </ul></div>
 
