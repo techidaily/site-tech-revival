@@ -1,7 +1,7 @@
 ---
 title: "Exploring Predictive AI: Its Method and Mechanics Unfolded"
-date: 2024-09-21T22:12:41.542Z
-updated: 2024-09-22T21:02:46.336Z
+date: 2024-09-26T23:44:12.739Z
+updated: 2024-09-29T19:38:15.154Z
 tags:
   - chatgpt
   - open-ai
@@ -39,22 +39,15 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -66,14 +59,14 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -85,13 +78,6 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -109,6 +95,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -119,6 +112,19 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -139,5 +145,24 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-hobbyist-to-host-mac-sports-channel-creation/"><u>[New] 2024 Approved From Hobbyist to Host Mac Sports Channel Creation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-women-in-warfare-youtubes-elite-ten/"><u>[New] 2024 Approved Women in Warfare YouTube’s Elite Ten</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturewave-91-analysis-summary/"><u>[New] CaptureWave 9.1 Analysis Summary</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-weekly-must-see-elite-igtv-talents/"><u>[Updated] 2024 Approved Weekly Must-See Elite IGTV Talents</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-choosing-hdr-over-sdr-elevating-your-video-creation-process/"><u>2024 Approved Choosing HDR over SDR Elevating Your Video Creation Process</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-newest-tp-link-wifi-adapter-drivers-compatible-with-windows-1187/"><u>Download the Newest TP-Link WiFi Adapter Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-correctly-initialize-hardware-abstraction-layer-in-windows-10-and-fix-boot-failures/"><u>How to Correctly Initialize Hardware Abstraction Layer in Windows 10 and Fix Boot Failures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/lightning-fast-pro-movie-editor-advanced-encoding-with-cuda-technology-enabled/"><u>Lightning Fast Pro Movie Editor: Advanced Encoding With Cuda Technology Enabled!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-and-sensible-optimizing-chatgpt-for-professional-psychological-coaching/"><u>Secure and Sensible: Optimizing ChatGPT for Professional Psychological Coaching</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sharpen-your-interview-edge-chatgpts-role-in-practice/"><u>Sharpen Your Interview Edge: ChatGPT's Role in Practice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tailoring-your-own-ai-conversational-agent-with-gpt-technology-key-steps-unveiled/"><u>Tailoring Your Own AI Conversational Agent with GPT Technology - Key Steps Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-core-methods-to-implement-gpt-3-in-openai-realm/"><u>The Core Methods to Implement GPT-3 in OpenAI Realm</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-search-is-here-how-microsofts-ai-integration-will-reimagine-using-bing/"><u>The Future of Search Is Here: How Microsoft's AI Integration Will Reimagine Using Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-career-wave-exploring-7-major-ai-shifts-in-employment-landscapes/"><u>The Next Career Wave: Exploring 7 Major AI Shifts in Employment Landscapes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-premier-list-top-12-online-havens-for-free-photo-resources/"><u>The Premier List Top 12 Online Havens for FREE Photo Resources</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-tech-talk-microsoft-acquires-blizzard-diving-into-ai-artistry-and-cutting-edge-translation-tools-podcast/"><u>The Tech Talk: Microsoft Acquires Blizzard - Diving Into AI Artistry and Cutting-Edge Translation Tools [Podcast]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-7-extensions-for-supercharged-ai-conversations/"><u>The Ultimate 7 Extensions for Supercharged AI Conversations</u></a></li>
+</ul></div>
 
