@@ -1,7 +1,7 @@
 ---
 title: Crafting Effective Instructions for Bespoke ChatGPT Experience
-date: 2024-09-20T09:01:45.034Z
-updated: 2024-09-22T19:28:11.801Z
+date: 2024-09-28T18:33:34.546Z
+updated: 2024-10-05T02:38:13.784Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  Clearly, this isn't what's being reported so widely across the web – so what's really going on here?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do AI-Generated Windows 11 Keys Actually Work?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  Unsurprisingly, it turns out ChatGPT and Bard are providing default keys for Windows operating systems. With a default key, you can download, install and even upgrade to specific versions of Windows–but there’s a catch. Default keys cannot activate Windows 11 or any other version of the OS.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Even AI-Generated Activation Keys Work, They're a Bad Idea
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  Using free or[cheap Windows activation keys is risky business](https://www.makeuseof.com/risks-using-cheap-windows-activation-keys/) and raises several ethical questions. Above all, even if you manage to generate a working activation key with ChatGPT, it’s illegal to use it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don’t Believe Everything You Read Online
@@ -92,5 +92,22 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-affordable-cameras-for-effective-vloggers/"><u>[New] 2024 Approved Affordable Cameras for Effective Vloggers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-final-cut-pro-for-free/"><u>[Updated] How to Download Final Cut Pro for Free?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-creative-soundscapes-with-the-magix-music-studio-platinum/"><u>[Updated] In 2024, Creative Soundscapes with the Magix Music Studio Platinum</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-sculpting-your-online-presence-with-top-niche-creators/"><u>[Updated] Sculpting Your Online Presence with Top Niche Creators</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-exciting-vr-technologies-shaping-gaming/"><u>2024 Approved Exciting VR Technologies Shaping Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accessing-latest-web-and-plugin-innovations-via-chatgpt/"><u>Accessing Latest Web & Plugin Innovations via ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722186023609-ai-at-your-fingertnails-get-chatgpt-for-android-phones-today/"><u>AI at Your Fingertnails: Get ChatGPT for Android Phones Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-evolution-understanding-job-security-in-an-era-of-generative-models-like-chatgpt/"><u>AI Evolution: Understanding Job Security in an Era of Generative Models Like ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-chatgpt-and-ubuntus-terminal-advanced-tips-for-shell-integration/"><u>Bridging ChatGPT and Ubuntu's Terminal: Advanced Tips for Shell Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722051761268-decoding-ransomware-securing-your-mobile-at-50-plus-insights-from-the-chatgpt-powered-podcast/"><u>Decoding Ransomware: Securing Your Mobile at $50 - Plus Insights From the ChatGPT-Powered Podcast</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-magic-5-lite-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Magic 5 Lite Device</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/installing-canon-ip110-drivers-on-various-windows-versions-download-guide-and-tips/"><u>Installing Canon iP110 Drivers on Various Windows Versions: Download Guide and Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/schritt-fur-schritt-anleitung-zum-entinterlacing-von-filmmaterial-mit-handbrake/"><u>Schritt-Für-Schritt-Anleitung Zum Entinterlacing Von Filmmaterial Mit Handbrake</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-excellence-surpassing-ai-content-generators/"><u>Writing Excellence: Surpassing AI Content Generators</u></a></li>
+</ul></div>
 

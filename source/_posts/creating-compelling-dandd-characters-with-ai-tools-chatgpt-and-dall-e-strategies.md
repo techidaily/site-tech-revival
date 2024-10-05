@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-09-24T00:36:47.201Z
-updated: 2024-09-29T21:12:55.316Z
+date: 2024-09-28T01:03:24.978Z
+updated: 2024-10-05T05:24:45.320Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 However, it's a mixed bag.
@@ -75,6 +75,13 @@ Close
 
 Close
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -83,16 +90,16 @@ Close
 
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
 
@@ -106,13 +113,6 @@ Close
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding Text
 
  There isn't much to cover here. As said, generative AI generally struggles with text anyway, and adding text to an image is even more difficult. I prompted DALL-E to create a postcard from a British seaside, which it did, capturing the scene nicely. I then wanted to add the words "Sunny Beach" to the image, which it just couldn't handle. That is, until after around six or seven back-and-forth prompts reminding DALL-E what it needed to do, it created a whole new image with the required text. And accurate text, too; I'm not sure about the baby face in the sunshine, mind.
@@ -124,10 +124,16 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
@@ -151,20 +157,14 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-master-the-art-of-live-streaming-snapchat-videos/"><u>[New] 2024 Approved Master the Art of Live Streaming Snapchat Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-from-bystander-to-leader-in-the-world-of-insta-essential-tips-and-examples/"><u>[New] In 2024, From Bystander to Leader in the World of Insta Essential Tips & Examples</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-free-thumbnail-extract-from-youtube-videos-today-for-2024/"><u>[Updated] Free Thumbnail Extract From YouTube Videos Today for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-effortless-keyword-harvesting-explore-the-best-7-no-fee-tag-extractors/"><u>[Updated] In 2024, Effortless Keyword Harvesting Explore the Best 7 No-Fee Tag Extractors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-these-8-money-making-gigs-using-chatgpt-for-real-discover-the-truth-inside/"><u>Are These 8 Money-Making Gigs Using ChatGPT for Real? Discover the Truth Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoid-installing-google-bard-understand-why-it-could-be-harmful-software/"><u>Avoid Installing Google Bard – Understand Why It Could Be Harmful Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/bring-your-dells-non-functional-wireless-keyboard-back-to-life-with-these-tips/"><u>Bring Your Dell's Non-Functional Wireless Keyboard Back to Life with These Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cant-access-chatgpt-learn-how-to-effectively-confirm-its-operational-status/"><u>Can’t Access ChatGPT? Learn How to Effectively Confirm Its Operational Status</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/charting-the-course-for-ethical-ai-navigation/"><u>Charting the Course for Ethical AI Navigation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-add-ons-6-you-should-pass-on-for-more-efficient-workflows/"><u>ChatGPT Add-Ons: 6 You Should Pass On for More Efficient Workflows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-excellence-top-10-prompts-transforming-your-crypto-knowledge/"><u>ChatGPT Excellence: Top 10 Prompts Transforming Your Crypto Knowledge</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/daily-assistant-showdown-claude-or-chatgpt-the-premier-choice-for-your-routine-needs/"><u>Daily Assistant Showdown: Claude or ChatGPT - The Premier Choice for Your Routine Needs</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-to-get-people-to-subscribe-to-your-youtube-channel-for-2024/"><u>How to Get People to Subscribe to Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-instant-access-to-hd-facebook-feeds/"><u>In 2024, Instant Access to HD Facebook Feeds</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-solving-common-issues-in-iphone-remote-application/"><u>Troubleshooting Tips: Solving Common Issues in iPhone Remote Application</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-what-to-do-when-youtube-shorts-thumbnails-fail-to-appear/"><u>[Updated] In 2024, What to Do When YouTube Shorts Thumbnails Fail to Appear?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-mp4-to-avi-format-with-ease-movavi/"><u>Free Online Conversion: Transforming MP4 to AVI Format with Ease - Movavi</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-the-way-why-netgears-orbi-is-your-go-to-choice-for-reliable-wi-fi-performance/"><u>Leading the Way: Why Netgear's Orbi Is Your Go-To Choice for Reliable Wi-Fi Performance</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfect-podcast-summaries-strategies-and-case-studies-for-2024/"><u>Perfect Podcast Summaries Strategies & Case Studies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/persuasive-proposal-techniques-enhanced-by-chatgpt-for-higher-conversion-rates/"><u>Persuasive Proposal Techniques Enhanced by ChatGPT for Higher Conversion Rates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-preventing-chatgpt-from-storing-our-talks/"><u>Protecting Privacy: Preventing ChatGPT From Storing Our Talks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/should-you-level-up-to-copilot-pro-from-regular-copilot-heres-why/"><u>Should You Level Up to Copilot Pro From Regular Copilot? Here's Why</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-ways-to-sharpen-ai-reality-based-outputs/"><u>Six Ways to Sharpen AI Reality-Based Outputs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ifa-film-analysis-on-youtube-infographics-for-2024/"><u>Top FIFA Film Analysis on YouTube Infographics for 2024</u></a></li>
 </ul></div>
 

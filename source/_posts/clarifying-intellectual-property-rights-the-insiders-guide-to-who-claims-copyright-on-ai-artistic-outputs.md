@@ -1,7 +1,7 @@
 ---
 title: "Clarifying Intellectual Property Rights: The Insider's Guide to Who Claims Copyright on AI Artistic Outputs"
-date: 2024-09-16T08:26:24.248Z
-updated: 2024-09-23T12:10:04.656Z
+date: 2024-09-29T16:01:49.062Z
+updated: 2024-10-05T04:00:07.803Z
 tags:
   - chatgpt
   - open-ai
@@ -38,22 +38,15 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -63,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
@@ -74,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
@@ -87,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
  AI chatbots also present biased opinions since they've learned from humans, and, at times,[AI will hallucinate answers](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) and deliver them with confidence. However, we're still in the early days of AI adoption, and leading tech companies like OpenAI and Microsoft acknowledge that AI systems will improve with more user feedback. GPT-4 is testament to that improvement since it has safer responses than GPT 3.5,[among other differences](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Interact With AI How You Want
 
@@ -107,5 +107,21 @@ thumbnail: https://thmb.techidaily.com/3d2d7880df5db12ed56d9d21b8c44a69dd2fd9e87
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-conquering-competition-crafting-standout-youtube-advertising-banners/"><u>[New] 2024 Approved Conquering Competition Crafting Standout YouTube Advertising Banners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-quick-online-mp3-generator-from-fb-videos-2023-updates/"><u>[New] In 2024, Quick Online MP3 Generator From FB Videos, 2023 Updates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-craft-your-study-of-the-past-with-these-top-10-channels/"><u>[Updated] In 2024, Craft Your Study of the Past with These Top 10 Channels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-understanding-the-video-space-in-high-capacity-drives/"><u>[Updated] In 2024, Understanding the Video Space in High-Capacity Drives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-vidma-screen-recorder-unveiled-in-depth-review-insights/"><u>[Updated] Vidma Screen Recorder Unveiled In-Depth Review Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-photo-editing-unveiling-clear-images-with-photopea/"><u>2024 Approved Mastering Photo Editing Unveiling Clear Images with Photopea</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/alternatives-to-mp3boo-how-to-legally-download-music-in-various-formats-like-mp3-aac-and-flac/"><u>Alternatives to MP3boo: How to Legally Download Music in Various Formats Like MP3, AAC & FLAC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoiding-pitfalls-spotting-top-5-manipulative-practices-in-automated-conversations/"><u>Avoiding Pitfalls: Spotting Top 5 Manipulative Practices in Automated Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-the-brains-which-is-more-advanced-chatgpt-or-googles-bard/"><u>Battle of the Brains: Which Is More Advanced, ChatGPT or Google's Bard?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-language-skills-through-chatgpt-premium/"><u>Boosting Language Skills Through ChatGPT Premium</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-implementing-chatgpt-api-in-your-projects/"><u>Comprehensive Strategies for Implementing ChatGPT API in Your Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversational-conjurer-chatbot-aides-in-your-quest-for-the-perfect-dungeon/"><u>Conversational Conjurer: Chatbot Aides in Your Quest for the Perfect Dungeon</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cracking-down-on-fake-profiles-an-inside-look-at-new-strategies-against-twitter-hoaxes-meta-verification-rollout-and-the-power-of-chatgpt-4-explained/"><u>Cracking Down on Fake Profiles: An Inside Look at New Strategies Against Twitter Hoaxes, Meta Verification Rollout & The Power of ChatGPT-4 Explained</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-c33-2023-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme C33 2023 FRP Android 10/11/12/13</u></a></li>
+</ul></div>
 

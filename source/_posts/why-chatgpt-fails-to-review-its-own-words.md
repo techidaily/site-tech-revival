@@ -1,7 +1,7 @@
 ---
 title: Why ChatGPT Fails to Review Its Own Words
-date: 2024-09-28T18:47:55.518Z
-updated: 2024-09-29T17:31:06.613Z
+date: 2024-09-29T09:31:41.233Z
+updated: 2024-10-04T19:57:49.986Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -61,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -75,10 +81,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -94,13 +100,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -123,6 +122,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporary Chat
 
@@ -149,21 +155,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-a-comprehensive-review-of-lgs-digital-cinema-31mu97-b-monitor/"><u>[New] Behind the Scenes A Comprehensive Review of LG's Digital Cinema 31MU97-B Monitor</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-debating-on-the-significance-of-truthfulness-in-selfies/"><u>[New] In 2024, Debating on the Significance of Truthfulness in Selfies</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-finding-friends-films-and-snapshots-on-the-social-web/"><u>[Updated] 2024 Approved Finding Friends’ Films & Snapshots on the Social Web</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clear-views-combating-fog-in-gopro-photos-for-2024/"><u>Clear Views Combating Fog in GoPro Photos for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/comparing-chip-longevity-how-puget-unveils-intels-edge-over-amd-ryzen-in-cpu-durability-data-breakdown-by-experts/"><u>Comparing Chip Longevity: How Puget Unveils Intel's Edge Over AMD Ryzen in CPU Durability - Data Breakdown by Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/honteruss-quest-for-excellence-and-inspiration/"><u>Honterus's Quest for Excellence & Inspiration</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-apple-musics-role-in-professional-video-production/"><u>In 2024, Apple Music's Role in Professional Video Production</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solutions-for-the-missing-wireless-network-in-windows-11/"><u>Solutions for the Missing Wireless Network in Windows 11</u></a></li>
-<li><a href="https://win-forum.techidaily.com/speeding-up-the-launch-of-windows-11-a-comprehensive-guide-using-revouninstaller/"><u>Speeding Up the Launch of Windows 11: A Comprehensive Guide Using RevoUninstaller</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-ai-potential-setting-up-nvidias-chat-with-rtx-for-optimal-interaction/"><u>Unleashing AI Potential: Setting Up Nvidia's Chat with RTX for Optimal Interaction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-in-writing-discover-how-chatgpt-can-assist-on-9-levels/"><u>Unleashing Creativity in Writing: Discover How ChatGPT Can Assist on 9 Levels</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-a-simpler-existence-with-these-ninja-applications-of-chatgpt/"><u>Unlock a Simpler Existence with These Ninja Applications of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-superior-features-why-the-chatgpt-desktop-program-trumps-the-web-interface/"><u>Unlocking Superior Features: Why the ChatGPT Desktop Program Trumps the Web Interface</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-potential-a-closer-look-at-chatgpts-instruction-based-functionality/"><u>Unveiling the Potential: A Closer Look at ChatGPT's Instruction-Based Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-ai-is-an-ally-not-a-foe-8-reasons-teachers-can-benefit-from-its-integration/"><u>Why AI Is an Ally, Not a Foe: 8 Reasons Teachers Can Benefit From Its Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-chatgpt-be-a-game-changer-for-future-healthcare-solutions/"><u>Will ChatGPT Be a Game-Changer for Future Healthcare Solutions?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-skype-to-mp3-capturing-calls-at-no-charge/"><u>[New] 2024 Approved Skype to MP3 Capturing Calls at No Charge</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-dynamic-windows-top-9-essential-gif-recorder-programs-for-2024/"><u>[New] Dynamic Windows Top 9 Essential GIF Recorder Programs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-creating-a-captivating-instagram-cover-for-your-topics-highlight/"><u>[Updated] In 2024, Creating a Captivating Instagram Cover for Your Topics Highlight</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-solutions-to-decipher-muted-facebook-videos/"><u>[Updated] Solutions to Decipher Muted Facebook Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/comprehensive-giroptic-camera-experience-for-2024/"><u>Comprehensive Giroptic Camera Experience for 2024</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/effective-fixes-for-dealing-with-an-action-apps-critical-error-105-issue/"><u>Effective Fixes for Dealing With an Action! App's Critical Error 105 Issue</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elite-analysis-of-the-nomad-stand-one-max-review-the-quintessential-luscious-three-in-one-iphone-charging-station/"><u>Elite Analysis of the Nomad Stand One Max Review: The Quintessential Luscious Three-in-One iPhone Charging Station</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/feature-by-feature-comparison-who-wins-in-google-bard-vs-bing-chat-showdown/"><u>Feature-by-Feature Comparison: Who Wins in Google Bard Vs. Bing Chat Showdown?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-predictions-showdown-how-does-chatgpt-stack-up-against-traditional-horoscopes/"><u>Future Predictions Showdown: How Does ChatGPT Stack Up Against Traditional Horoscopes?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-pluses-vs-perplexities-ai-chatbot-showdown/"><u>GPT Pluses Vs. Perplexities: AI Chatbot Showdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-censorship-mechanisms-in-ai-chatbots-influence-communication/"><u>How Censorship Mechanisms in AI Chatbots Influence Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-the-eus-new-ai-legislation-influence-technologies-such-as-chatgpt/"><u>How Does the EU’s New AI Legislation Influence Technologies Such as ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-might-emerging-technologies-like-chatgpt-disrupt-the-current-search-engine-ecosystem/"><u>How Might Emerging Technologies Like ChatGPT Disrupt the Current Search Engine Ecosystem?</u></a></li>
+<li><a href="https://common-error.techidaily.com/ultimate-fixes-for-smoothing-out-your-minecraft-gaming-experience/"><u>Ultimate Fixes for Smoothing Out Your Minecraft Gaming Experience</u></a></li>
 </ul></div>
 

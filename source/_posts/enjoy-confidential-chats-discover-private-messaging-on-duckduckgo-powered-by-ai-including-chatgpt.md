@@ -1,7 +1,7 @@
 ---
 title: "Enjoy Confidential Chats: Discover Private Messaging on DuckDuckGo Powered by AI, Including ChatGPT"
-date: 2024-09-21T07:24:54.257Z
-updated: 2024-09-22T23:27:24.689Z
+date: 2024-09-30T19:40:05.635Z
+updated: 2024-10-04T18:13:51.627Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,16 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -59,6 +65,13 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -73,10 +86,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -87,13 +100,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -103,10 +109,10 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -139,5 +145,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-overcoming-obscured-viewing-fix-for-youtube/"><u>[New] In 2024, Overcoming Obscured Viewing Fix for Youtube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-ignite-conversations-tactics-for-facebook-impact/"><u>[Updated] 2024 Approved Ignite Conversations Tactics for Facebook Impact</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-tips-for-perfect-iptv-stream-snapping/"><u>[Updated] 2024 Approved Tips for Perfect IPTV Stream Snapping</u></a></li>
+<li><a href="https://some-tips.techidaily.com/grau-gmbhs-comprehensive-guide-to-professional-video-repair-techniques-and-tools/"><u>Grau GmbH's Comprehensive Guide to Professional Video Repair Techniques and Tools</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-quest-for-immersion-reviewing-benqs-ultra-hd-sw320/"><u>In 2024, The Quest for Immersion Reviewing BenQ's Ultra HD SW320</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/insightful-analysis-the-phenomenon-of-mixed-reality/"><u>Insightful Analysis The Phenomenon of Mixed Reality</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-lava-yuva-2-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Lava Yuva 2 Pro FRP Without Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-combining-chatgpt-and-google-docssheets-using-the-latest-ai-tools/"><u>The Ultimate Guide to Combining ChatGPT and Google Docs/Sheets Using the Latest AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/to-use-or-not-to-use-a-localized-legal-expert-system-weighing-your-options/"><u>To Use or Not to Use a Localized Legal Expert System? Weighing Your Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-free-open-source-tools-for-creating-images-with-artificial-intelligence/"><u>Top 5 Free, Open-Source Tools for Creating Images with Artificial Intelligence</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/transform-your-videos-with-a-robust-64-bit-editor-for-windows/"><u>Transform Your Videos with a Robust 64-Bit Editor for Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-game-with-a-sale-the-high-performance-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-for-only-199/"><u>Unleash Your Game with a Sale – The High-Performance Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor for Only $199</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-creativity-in-gaming-6-methods-for-using-chatgpt-as-your-co-writer/"><u>Unleashing Creativity in Gaming: 6 Methods for Using ChatGPT as Your Co-Writer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-superior-performance-the-benefits-of-using-the-chatgpt-desktop-app/"><u>Unlocking Superior Performance: The Benefits of Using the ChatGPT Desktop App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-your-chatgpt-top-4-causes-of-lockouts-and-solutions/"><u>Unlocking Your ChatGPT: Top 4 Causes of Lockouts and Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-microsofts-strategic-move-advanced-ai-upgrades-now-available-on-bing/"><u>Unveiling Microsoft's Strategic Move: Advanced AI Upgrades Now Available on Bing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-battle-between-bing-chat-and-google-bard-who-reigns-supreme-in-ai-conversations/"><u>Unveiling the Battle Between Bing Chat and Google Bard - Who Reigns Supreme in AI Conversations?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/who-holds-the-crown-in-ai-content-genesis-notion-or-chatgpt/"><u>Who Holds the Crown in AI Content Genesis? Notion or ChatGPT?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029335591-youtube/"><u>YouTube投稿用の高速ビデオ圧縮技術</u></a></li>
+</ul></div>
 

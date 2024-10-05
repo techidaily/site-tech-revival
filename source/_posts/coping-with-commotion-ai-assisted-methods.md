@@ -1,7 +1,7 @@
 ---
 title: "Coping with Commotion: AI-Assisted Methods"
-date: 2024-09-18T01:01:09.484Z
-updated: 2024-09-23T08:00:12.083Z
+date: 2024-09-28T19:21:34.334Z
+updated: 2024-10-04T20:05:29.744Z
 tags:
   - chatgpt
   - open-ai
@@ -34,57 +34,37 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  While it may seem easy to outsource everything to ChatGPT, you should merely use it as a starting point. It's critical to add your personality to any content that carries the brand of your business.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Generate Social Media Posts Out of Existing Content
 
 ![Use ChatGPT to Make  Social Media Posts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-make-social-media-posts.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve penned a blog but lack the copywriting flair for social media promotion, simply provide ChatGPT with your blog and let it craft the perfect social media post. You can also experiment with various tones to find the perfect match for your brand and audience.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Fill In Templates
 
 ![Use ChatGPT to Fill In Templates](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-fill-in-templates.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While businesses can employ automation tools that send messages based on actions like abandoned carts or website visits, they might be beyond the budget of small businesses. Don’t worry; ChatGPT can help populate your message templates. If you don’t have a template yet, you can ask ChatGPT to make one.
 
  Just copy and paste your template into ChatGPT, ensuring it has all the necessary placeholders. Supply it with all it needs to fill in the placeholders and let it fill in the template. Once ChatGPT finishes generating a personalized message for each customer, all that’s left for you to do is copy and send them to your customers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Make Text Excel-Friendly
 
 ![Use ChatGPT to Convert Text to Excel-Friendly Data-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-convert-text-to-excel-friendly-data-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Most inventory systems necessitate inputting data into an Excel sheet, which can become problematic if all your information is stored in your smart device’s notes or even in a more traditional format, such as handwritten records in a notebook. Transferring this data into an Excel sheet can be a laborious and time-consuming process.
 
@@ -106,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 * Obfuscate emails (for example, <contact@muo.com> to contact\[at\]muo\[dot\]com
 * Format numbers (for example, 60000 to 60,000)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Translate Languages
 
  Many businesses often interact with customers who speak different languages, especially as the business expands. Thankfully, ChatGPT can assist with language translation. Copy-paste the text and ask the AI tool to translate it into your native language. Simply input the text and request its translation into your preferred language. Also, if you’re unsure of a language, ChatGPT can help[identify unknown languages for you](https://www.makeuseof.com/tag/what-language-is-this-5-online-tools-to-identify-almost-every-unknown-language/) too.
@@ -117,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 ## 8\. Create FAQ Lists
 
 ![Ask ChatGPT to Create FAQs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ask-chatgpt-to-create-faqs.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Supply ChatGPT with details about your business, products, and target audience, and it can generate a list of FAQs tailored to your business. This can offer insights into what your customers are likely to inquire about. ChatGPT can also provide draft answers, leaving you to refine or correct them as needed.
 
@@ -137,5 +131,16 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-a-closer-look-at-huawei-p10s-security-measures/"><u>[New] A Closer Look at Huawei P10’s Security Measures</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-cutting-edge-tactics-for-grabbing-your-favorite-fb-vids-for-2024/"><u>[Updated] Cutting Edge Tactics for Grabbing Your Favorite FB Vids for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-swift-systems-for-securing-presentations/"><u>[Updated] In 2024, Swift Systems for Securing Presentations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imovie-harmony-blending-visuals-and-melodies/"><u>2024 Approved IMovie Harmony Blending Visuals and Melodies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-chatgpt-shared-urls-a-detailed-guide-on-their-operation/"><u>Exploring the World of ChatGPT Shared URLs – A Detailed Guide on Their Operation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expose-genuine-vs-impostor-chatbots-for-your-safety/"><u>Expose Genuine Vs. Impostor ChatBots for Your Safety</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-debuts-gemini-ai-is-it-a-worthy-rival-to-microsofts-chatgpt/"><u>Google Debuts Gemini AI - Is It a Worthy Rival to Microsoft's ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-sarah-silverman-and-fellow-creatives-are-challenging-openai-and-metas-use-of-ai-in-court/"><u>How Sarah Silverman and Fellow Creatives Are Challenging OpenAI and Meta's Use of AI in Court</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+</ul></div>
 

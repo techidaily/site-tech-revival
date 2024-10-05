@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2024-09-21T04:45:06.341Z
-updated: 2024-09-23T12:38:20.545Z
+date: 2024-09-29T05:03:20.087Z
+updated: 2024-10-04T18:43:38.350Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
  Sona is a "book-loving AI assistant" from one of our[favorite new book recommendation sites](https://www.makeuseof.com/new-book-recommendation-apps-sites/) , Read This Twice. Read This Twice collects which titles celebrities and influential personalities have said everyone should read, with rankings for the most commonly recommended reads.
@@ -52,15 +45,22 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  However, in the results, Sona disappointingly doesn't rely on Read This Twice's core expertise by showing which books are recommended by someone influential. There is a workaround to that, though. If you register on the site, you'll be able to add these books to your personal library and go there to see who has promoted the book.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[Next Three Books](https://www.nextthreebooks.com/) (Web): Filter Book Recommendations by Type, Genre, Length, Style
 
 ![Next Three Books suggests three titles from a ChatGPT prompt, and lets you filter results by genre, writing style, length, and type of book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-next-three-books.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -89,6 +89,13 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
  Whenever you add or remove a personal favorite, Readow will update the results with 30 book recommendations. You can like books from the recommendations to add them to your favorites or delete them from the recommendations to indicate to the AI that it shouldn't suggest similar titles.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.[BooksAI](https://booksai.app/) (Android, iOS): Got Recommendations? Read Spoiler-Free AI Summaries
 
 ![Search for a book or look through celebrity recommendations to generate a summary of any book with BooksAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-1.jpg)
@@ -97,22 +104,15 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![BooksAI can summarize a book without spoilers, or give a detailed summary broken down by chapters](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
 ![BooksAI uses ChatGPT to summarize any book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -144,5 +144,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-frame-perfection-top-10-tools-to-edge-your-instagram-content-for-2024/"><u>[New] Frame Perfection Top 10 Tools to Edge Your Instagram Content for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-elevate-farming-fun-with-these-top-7-stardew-valley-enhancements/"><u>2024 Approved Elevate Farming Fun with These Top 7 Stardew Valley Enhancements</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-xiaomi-redmi-note-12t-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Xiaomi Redmi Note 12T Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/determining-dominance-in-llm-technology-a-closer-look-at-google-bard-microsofts-chatgpt-and-offline-alpaca/"><u>Determining Dominance in LLM Technology: A Closer Look at Google Bard, Microsoft's ChatGPT and Offline Alpaca.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discerning-fact-from-fabricated-narratives-by-ai/"><u>Discerning Fact From Fabricated Narratives by AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ios-chatgpt-mobile-application-unlocking-ai-conversations-on-your-phone/"><u>Discover the iOS ChatGPT Mobile Application: Unlocking AI Conversations on Your Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-open-source-artificial-intelligence-image-creators/"><u>Discover the Ultimate List of Open-Source Artificial Intelligence Image Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-dungeons-and-dragons-boosting-gameplay-with-chatgpt/"><u>Elevating Dungeons & Dragons: Boosting Gameplay with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/empowered-parenting-with-ai-the-ultimate-chatgpt-and-generative-tech-roadmap-for-families/"><u>Empowered Parenting with AI: The Ultimate ChatGPT & Generative Tech Roadmap for Families</u></a></li>
+<li><a href="https://extra-information.techidaily.com/engaging-lessons-video-editing-skills-for-teachers/"><u>Engaging Lessons Video Editing Skills for Teachers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-social-content-creation-using-chatgpt-for-superior-results/"><u>Enhance Social Content Creation Using ChatGPT for Superior Results</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-google-bard-top-7-advantages-of-using-palm-2-technology/"><u>Enhancing Google Bard: Top 7 Advantages of Using PaLM 2 Technology</u></a></li>
+<li><a href="https://fox-links.techidaily.com/extensive-review-gopro-hero4-slr4-black-edition/"><u>Extensive Review GoPro Hero4 SLR4 Black Edition</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-top-30-beneath-the-surface-tips-for-optimized-windows-11/"><u>In 2024, Top 30 Beneath-the-Surface Tips for Optimized Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-the-hp-stream-14-navigating-trade-offs-for-an-economical-windows-experience/"><u>Inside the HP Stream 14 – Navigating Trade-Offs for an Economical Windows Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/kb3197954-windows-10-updates-not-working-solved/"><u>KB3197954: Windows 10 Updates Not Working [Solved]</u></a></li>
+</ul></div>
 

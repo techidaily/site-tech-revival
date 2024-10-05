@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Implementing and Operating Plug-Ins for ChatGPT"
-date: 2024-09-22T17:15:23.042Z
-updated: 2024-09-29T21:50:14.919Z
+date: 2024-10-01T07:27:13.003Z
+updated: 2024-10-04T17:06:43.676Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
@@ -77,10 +77,10 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summarizing Articles
@@ -101,18 +101,31 @@ This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 HuggingChat's summary looked like this:
 
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
@@ -124,16 +137,16 @@ HuggingChat's summary looked like this:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Shakespeare himself would be impressed with both of these!
 
@@ -149,13 +162,6 @@ Shakespeare himself would be impressed with both of these!
 
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is Best: HuggingChat or ChatGPT?
 
  As you can see from the tests, there is no easy answer. ChatGPT had a definite edge when summarizing articles, whereas HuggingChat had the advantage when you compare how current the training data is.
@@ -169,10 +175,10 @@ Shakespeare himself would be impressed with both of these!
  Ultimately, the choice between them will likely be driven more by user requirements than user preferences. As the tools are free and quick to access, checking both out is not a great hassle.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Are You a Hugger or a Chatter?
@@ -198,18 +204,24 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-boost-your-instagram-videos-watchability-and-speed/"><u>[New] In 2024, Boost Your Instagram Videos' Watchability and Speed</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-soar-your-viewership-to-over-a-thousand-in-weeks/"><u>[New] Soar Your Viewership to Over a Thousand in Weeks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings/"><u>[Updated] 2024 Approved Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-webcams-revolutionizing-podcast-recording/"><u>[Updated] Superior Webcams Revolutionizing Podcast Recording</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-premium-free-graphic-havens-a-comprehensive-guide-to-top-art-portals/"><u>2024 Approved Premium-Free Graphic Havens A Comprehensive Guide to Top Art Portals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-premium-convo-boost-chatgpt-plus-unveiled-at-20mo-us-only/"><u>AI's Premium Convo Boost: ChatGPT Plus Unveiled at $20/Mo (US-Only)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/augmenting-hr-workloads-gpts-role/"><u>Augmenting HR Workloads: GPT's Role</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-power-of-codegpt-a-revolutionary-tool-for-automated-coding/"><u>Exploring the Power of CodeGPT: A Revolutionary Tool for Automated Coding</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gemini-elite-vs-powered-chatgpt/"><u>Gemini Elite Vs. Powered ChatGPT</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-a18-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo A18</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oppo-a18-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A18 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pioneering-thought-machines-discovering-the-roots-of-artificletechnology/"><u>Pioneering Thought Machines: Discovering the Roots of Artificletechnology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smarter-scammers-exploring-7-ai-enabled-strategies-for-deceiving-hearts-online/"><u>Smarter Scammers? Exploring 7 AI-Enabled Strategies for Deceiving Hearts Online</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-spatial-realities-compared-the-meta-and-omni-experience/"><u>[New] 2024 Approved Spatial Realities Compared The Meta and Omni Experience</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-chuckles-and-chortles-reviewing-the-goofy-movie-on-vhs/"><u>[New] In 2024, 'Chuckles and Chortles' - Reviewing The Goofy Movie on VHS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-strategies-for-livestream-and-archiving-sports-action/"><u>[New] Top Strategies for Livestream & Archiving Sports Action</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-quick-look-at-grading-techniques-in-ps/"><u>2024 Approved A Quick Look at Grading Techniques in PS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-efficiency-with-chatgpt-a-guide-to-4-timely-management-techniques/"><u>Boosting Efficiency with ChatGPT: A Guide to 4 Timely Management Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-news-scam-proof-twitters-verified-journey/"><u>Breaking News! Scam-Proof Twitter's Verified Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-users-benefit-from-auto-gpt-without-leveraging-gpt-ns-advanced-features/"><u>Can Users Benefit From Auto-GPT Without Leveraging GPT-N's Advanced Features?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-api-explained-getting-started-with-ai-integration-effortlessly/"><u>ChatGPT API Explained: Getting Started with AI Integration Effortlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-dungeon-helper-discover-6-ways-to-master-online-adventures/"><u>ChatGPT as Your Dungeon Helper: Discover 6 Ways to Master Online Adventures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-speaks-up-openai-enhances-ai-with-audio-response-capabilities/"><u>ChatGPT Speaks Up: OpenAI Enhances AI with Audio Response Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-visionary-exploring-top-visual-computation-techniques/"><u>ChatGPT Visionary: Exploring Top Visual Computation Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-beyond-the-reach-of-openai/"><u>ChatGPT: Beyond the Reach of OpenAI?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-powerful-benefits-streamlining-life-through-nine-key-features/"><u>ChatGPT's Powerful Benefits: Streamlining Life Through Nine Key Features</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dynamic-color-balance-helper/"><u>Dynamic Color Balance Helper</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/akers-lounge-app/"><u>Filmmaker's Lounge App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-nokia-c32-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Nokia C32 Lock Screen Password</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-top-budget-friendly-sites-for-stunning-fx-on-videos/"><u>In 2024, Top Budget-Friendly Sites For Stunning FX on Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/leading-360-degree-pro-cams-2023-edition-review/"><u>Leading 360-Degree Pro Cams 2023 Edition Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-job-search-with-chatgpt-for-resumes/"><u>Transform Your Job Search with ChatGPT for Resumes</u></a></li>
 </ul></div>
 

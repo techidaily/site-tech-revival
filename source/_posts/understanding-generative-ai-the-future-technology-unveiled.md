@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: The Future Technology Unveiled"
-date: 2024-09-27T01:10:38.941Z
-updated: 2024-09-29T19:34:14.346Z
+date: 2024-10-03T19:10:46.386Z
+updated: 2024-10-05T05:46:35.767Z
 tags:
   - chatgpt
   - open-ai
@@ -40,23 +40,9 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
 
@@ -76,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How a Vector Database Works
@@ -87,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -98,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -107,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Milvus** : An open-source vector platform built with similarity search and AI applications in mind. It provides quick and efficient indexing and search capabilities for high-dimensional vectors. In addition, Milvus supports multiple indexing algorithms and offers SDKs for various programming languages.
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Future of Vector Databases
 
@@ -129,14 +129,22 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-earning-stream-start-small-see-big-on-youtube-for-2024/"><u>[New] Earning Stream Start Small, See Big on YouTube for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-bring-pics-into-action-blur-technique-for-2024/"><u>[Updated] Bring Pics Into Action Blur Technique for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/groundbreaking-advancements-in-ai-with-openais-new-game-changing-gpt-4-platform/"><u>Groundbreaking Advancements in AI with OpenAI's New Game-Changing GPT-4 Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-transfer-learning-enhance-artificial-intelligence/"><u>How Does Transfer Learning Enhance Artificial Intelligence?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-i-turned-ai-into-artistry-creating-a-podcast-script-using-chatgpt/"><u>How I Turned AI Into Artistry: Creating a Podcast Script Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/improving-outcomes-with-customized-user-profiles-a-guide-to-crafting-personas-in-chatgpt/"><u>Improving Outcomes with Customized User Profiles: A Guide to Crafting Personas in ChatGPT</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-perfected-podcasts-iphones-seamless-audio-download-routines/"><u>In 2024, Perfected Podcasts IPhone's Seamless Audio Download Routines</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-10-best-free-online-video-compressors-no-download/"><u>New 10 Best Free Online Video Compressors No Download</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/transform-your-viewership-with-immersive-360-livestreams-on-youtube-for-2024/"><u>Transform Your Viewership with Immersive 360° Livestreams on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-end-game-for-youtube-content-pros-secrets-and-templates/"><u>[New] In 2024, End Game for YouTube Content Pros' Secrets & Templates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-perfecting-audio-quality-a-no-mic-approach/"><u>[New] Perfecting Audio Quality A No-Mic Approach</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-yis-4k-capability-in-action-capture/"><u>2024 Approved Yi's 4K Capability in Action Capture</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-excellence-comprehensive-oneplus-nord-n1-revealed-review/"><u>Affordable Excellence: Comprehensive OnePlus Nord N1# Revealed Review</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/detect-and-eliminate-comprehensive-tips-for-finding-and-cleaning-your-phone-of-malicious-software/"><u>Detect & Eliminate: Comprehensive Tips for Finding and Cleaning Your Phone of Malicious Software</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-top-tier-language-mastery-with-mondly/"><u>Discovering Top-Tier Language Mastery with Mondly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-meets-talk-mercedes-innovative-vehicle-integration/"><u>Tech Meets Talk: Mercedes' Innovative Vehicle Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-frontier-of-tech-ai-grasping-the-spectrum-of-emotion/"><u>The Frontier of Tech: AI Grasping the Spectrum of Emotion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-insight-into-ai-hallucinations-tips-for-spotting-them-effectively/"><u>The Insight Into AI Hallucinations: Tips for Spotting Them Effectively</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-smart-8-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Smart 8 without backup.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-dall-es-creative-images-from-webp-to-pngjpg/"><u>Transforming DALL-E's Creative Images From WebP to PNG/JPG</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-gptbot-reasons-behind-website-restrictions/"><u>Understanding GPTBot: Reasons Behind Website Restrictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-top-three-privacy-threats-linked-with-using-chatbots/"><u>Understanding the Top Three Privacy Threats Linked with Using Chatbots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-top-5-strategies-for-usage-without-a-premium-sign-up/"><u>Unlocking ChatGPT: Top 5 Strategies for Usage Without a Premium Sign-Up</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-scholarship-success-with-artificial-intelligence-techniques/"><u>Unlocking Scholarship Success with Artificial Intelligence Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/windows-1011m4awav/"><u>Windows 10/11向けM4AからWAVへの自由ソフトウェア・サイトリコメンド：変換ガイド</u></a></li>
 </ul></div>
 

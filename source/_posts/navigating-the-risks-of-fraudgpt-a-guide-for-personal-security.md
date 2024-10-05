@@ -1,7 +1,7 @@
 ---
 title: Navigating the Risks of FraudGPT - A Guide for Personal Security
-date: 2024-09-19T19:24:29.481Z
-updated: 2024-09-23T11:45:15.998Z
+date: 2024-10-02T18:39:29.569Z
+updated: 2024-10-04T21:45:50.883Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,16 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Bing is a search engine featuring an AI chat function and an AI Image Creator. Thanks to a partnership with OpenAI, Microsoft was the first company to integrate DALL-E 3 into its products. This means you can use DALL-E 3 for free using either of the features mentioned.
@@ -52,22 +58,15 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Craft a Good DALLE-3 Prompt Using Bing
@@ -80,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 
 ![DALL-E 2 image of NYC and plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-image-of-nyc-and-plants.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When we asked if it could add animals to that image it just generated, it couldn't. Instead, it generated new images of just animals.
 
 ![DALL-E 2 prompt for animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-2-prompt-for-animals.jpg)
@@ -89,16 +95,16 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
@@ -114,10 +120,10 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Limitations of DALL-E 3 and Bing
@@ -149,5 +155,22 @@ thumbnail: https://thmb.techidaily.com/301435cf3ea55f363dd140eb1791346016416d415
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ow-algorithm-changes-shape-your-youtube-visibility-for-2024/"><u>[New] How Algorithm Changes Shape Your YouTube Visibility for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-visual-vanguard-the-top-videoviral-tweets/"><u>2024 Approved Visual Vanguard The Top #VideoViral Tweets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-8-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 8 Plus? | Stellar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-realme-c67-4g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Realme C67 4G without App | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-find-x6-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Find X6 Pro Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-realme-v30t-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Realme V30T Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tech-giant-metaputs-a-stop-to-its-next-gen-quest-pro-project-calls-off-work-on-quest-pro-2-zdnet-report/"><u>Tech Giant Metaputs a Stop to Its Next-Gen Quest Pro Project, Calls Off Work on Quest Pro 2 | ZDNET Report</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-x-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone X from iCloud</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-ways-to-install-and-enjoy-super-mario-run-on-your-windows-or-mac-computer/"><u>Top Ways to Install and Enjoy Super Mario Run on Your Windows or Mac Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-in-anthropics-prompt-store-using-the-new-claude-3-ai-technology/"><u>Unlocking Potential in Anthropic's Prompt Store Using the New Claude 3 AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-gpt-4-within-chatgpt-a-real-time-tutorial/"><u>Unlocking the Potential of GPT-4 Within ChatGPT – A Real-Time Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voicing-artifice-intelligence-how-chatgpt-revolutionizes-interaction-with-openai/"><u>Voicing Artifice Intelligence: How ChatGPT Revolutionizes Interaction with OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-chatgpt-ios-outshines-its-web-version-a-comparative-guide/"><u>Why ChatGPT iOS Outshines Its Web Version: A Comparative Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-chatgpt-isnt-a-doctor-5-critical-concerns-with-ai-medical-advice/"><u>Why ChatGPT Isn't a Doctor: 5 Critical Concerns with AI Medical Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-human-touch-still-beats-ai-messaging-solutions/"><u>Why Human Touch Still Beats AI Messaging Solutions</u></a></li>
+</ul></div>
 

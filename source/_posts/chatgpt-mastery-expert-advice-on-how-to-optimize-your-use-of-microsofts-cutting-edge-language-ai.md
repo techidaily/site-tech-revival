@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Mastery: Expert Advice on How to Optimize Your Use of Microsoft's Cutting-Edge Language AI"
-date: 2024-09-27T23:00:31.635Z
-updated: 2024-09-30T00:41:31.223Z
+date: 2024-09-29T18:00:01.739Z
+updated: 2024-10-05T05:26:31.099Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -50,16 +50,10 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -75,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -104,18 +98,16 @@ thumbnail: https://thmb.techidaily.com/f080364c9fd10c7a5fc9c9d8f37fc816490a2b544
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-maximize-your-snapchat-impact-with-mac-footage/"><u>[New] 2024 Approved Maximize Your Snapchat Impact with Mac Footage</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-minecraft-filming-101-from-start-to-finish-for-2024/"><u>[New] Minecraft Filming 101 From Start to Finish for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-change-name-in-google-meet-on-laptop-and-mobile-devices/"><u>[Updated] 2024 Approved How to Change Name in Google Meet on Laptop and Mobile Devices?</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-free-translation-top-8-choices-revealed/"><u>2024 Approved Mastering Free Translation Top 8 Choices Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/converting-social-media-audio-to-personalized-mobile-alerts/"><u>Converting Social Media Audio to Personalized Mobile Alerts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hiring-guide-locating-excellent-film-capturers/"><u>Hiring Guide Locating Excellent Film Capturers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-ensure-your-private-data-stays-confidential-with-adapted-gpt-models/"><u>How to Ensure Your Private Data Stays Confidential with Adapted GPT Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-restore-and-access-previous-chatgpt-interactions-efficiently/"><u>How to Restore and Access Previous ChatGPT Interactions Efficiently</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-teacher-created-videos-precision-in-cutting-and-splicing/"><u>In 2024, Teacher-Created Videos Precision in Cutting & Splicing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-techniques-to-generate-professional-photos-with-dall-e-and-gpt-4-combined/"><u>Innovative Techniques to Generate Professional Photos with DALL-E and GPT-4 Combined</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insight-into-how-businesses-are-restricting-ai-engagement-tools/"><u>Insight Into How Businesses Are Restricting AI Engagement Tools</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leading-news-aggregators-to-follow-our-expert-picks/"><u>Leading News Aggregators to Follow - Our Expert Picks!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/prevent-loss-of-vr-assets-as-meta-commences-oculus-account-purges-a-complete-guide-to-secure-yours-now-zdnet/"><u>Prevent Loss of VR Assets as Meta Commences Oculus Account Purges - A Complete Guide to Secure Yours Now | ZDNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/avigating-to-the-shadows-of-youtube-videos/"><u>[New] Navigating to the Shadows of YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-snappy-gaming-moments-with-these-top-5-recording-strategies-on-windows-11/"><u>[New] Snappy Gaming Moments with These Top 5 Recording Strategies on Windows 11</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-loop-videos-with-imovie/"><u>2024 Approved How to Loop Videos with iMovie</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-master-bartending-exploring-chatgpts-cocktail-making-abilities/"><u>Can AI Master Bartending: Exploring ChatGPT's Cocktail-Making Abilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-cryptos-10-unbeatable-initiating-queries-for-insightful-exchanges/"><u>ChatGPT and Cryptos: 10 Unbeatable Initiating Queries for Insightful Exchanges</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-microsofts-gpt-variants-differentiating-gpt-4-gpt-4-turbo-and-gpt-n/"><u>Decoding Microsoft's GPT Variants: Differentiating GPT-4, GPT-4 Turbo, and GPT-N</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-magic-understanding-how-these-7-apps-utilize-gpt-narratives-of-cutting-edge-ai-technology/"><u>Decoding the Magic: Understanding How These 7 Apps Utilize GPT-Narratives of Cutting-Edge AI Technology</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-obs-the-ultimate-tutorial-for-live-broadcasts/"><u>Mastering OBS The Ultimate Tutorial for Live Broadcasts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/speed-on-thin-ice-top-performances-from-the-olympics-for-2024/"><u>Speed on Thin Ice Top Performances From the Olympics for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-infinix-hot-30-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Infinix Hot 30 5G Phone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Lava Agni 2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

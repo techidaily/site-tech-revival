@@ -1,7 +1,7 @@
 ---
 title: AI-Generated Gems or Misleading Stones?
-date: 2024-09-22T22:41:12.890Z
-updated: 2024-09-29T21:28:11.743Z
+date: 2024-09-30T16:13:13.130Z
+updated: 2024-10-05T00:38:39.775Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 * [How to Find the Best Custom GPTs in the GPT Store](https://ancheer.sjv.io/y96bgp)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -41,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Access the GPT Store
@@ -66,35 +73,28 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -121,20 +121,22 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-recording-tech-evaluation-blueprint/"><u>[New] In 2024, Recording Tech Evaluation Blueprint</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-stitch-together-photographs-the-montage-masterclass/"><u>[New] Stitch Together Photographs The Montage Masterclass</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-low-end-pc-visual-data-harvesters/"><u>2024 Approved Low-End PC Visual Data Harvesters</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-most-popular-vr-game-experiences-on-oculus/"><u>2024 Approved The Most Popular VR Game Experiences on Oculus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-guidelines-for-ai-integration-in-writing-and-curation/"><u>7 Guidelines for AI Integration in Writing and Curation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/9-chatgpt-powered-tools-to-streamline-your-email-creation/"><u>9 ChatGPT-Powered Tools to Streamline Your Email Creation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/addressing-overflow-in-chatgpt-windows-use/"><u>Addressing Overflow in ChatGPT Windows Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-techniques-leveraging-gpt-references-to-elevate-any-conversation/"><u>Advanced Techniques: Leveraging GPT References to Elevate Any Conversation</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/bypassing-youtube-restrictions-secure-your-downloads-using-a-vpn-or-proxy/"><u>Bypassing YouTube Restrictions: Secure Your Downloads Using a VPN or Proxy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721978747018-chatgpt-desktop-not-out-yet-check-out-this-excellent-alternative-to-stay-ahead/"><u>ChatGPT Desktop Not Out Yet? Check Out This Excellent Alternative to Stay Ahead</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722030779456-connect-and-learn-new-android-app-chatgpt/"><u>Connect and Learn: New Android App, ChatGPT</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/precision-speed-control-for-elite-pc-users/"><u>Precision Speed Control for Elite PC Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unrestricted-zoom-encounters-using-movavi-how-to-set-them-up-easily/"><u>Unrestricted Zoom Encounters Using Movavi – How to Set Them Up Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/waiting-for-chatgpts-desktop-version-is-tough-heres-a-great-free-software-replacement/"><u>Waiting for ChatGPT's Desktop Version Is Tough – Here’s a Great, Free Software Replacement</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-record-screen-on-huawei-mate-10-20-p20-and-p10-using-a-built-in-recorder/"><u>[New] Record Screen On Huawei Mate 10, 20, P20 and P10 Using a Built-In Recorder</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-srt-simplified-a-practical-manual-for-xmlssattml-transformation-for-2024/"><u>[New] SRT Simplified A Practical Manual for XML/SSA/TTML Transformation for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-resolving-fb-message-app-video-not-sending-error-on-mobile-devices/"><u>[Updated] 2024 Approved Resolving FB Message App Video Not Sending Error on Mobile Devices</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-creative-potential-a-detailed-breakdown-of-photoshops-background-eraser-feature/"><u>[Updated] Unleash Creative Potential A Detailed Breakdown of Photoshop's Background Eraser Feature</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-transform-your-in-game-voice-and-sound-presence-naturally-expert-tips-for-free/"><u>2024 Approved How to Transform Your In-Game Voice and Sound Presence Naturally Expert Tips for FREE</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-webcams-for-podcast/"><u>Best Webcams for Podcast</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-motorola-edge-40-neo-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Motorola Edge 40 Neo has native HEVC support?</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-roblox-on-screen-stop-issues-on-windows-systems/"><u>Fixing Roblox On-Screen Stop Issues on Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-ais-insight-more-accurate-chatgpt-vs-traditional-astrology-forecasting/"><u>Is AI's Insight More Accurate: ChatGPT Vs. Traditional Astrology Forecasting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-multilingual-conversations-with-chatgpt-a-step-by-step-guide/"><u>Mastering Multilingual Conversations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-chatgpt-prompt-craft-errors-you-shouldnt-make/"><u>Mastering the Art of ChatGPT Prompt Craft: Errors You Shouldn't Make</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-usbasp-compatibility-on-windows-from-7-to-11-fixed/"><u>Mastering USBasp Compatibility on Windows From 7 to 11 [FIXED]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-how-freelancers-can-benefit-from-chatgpt-tools/"><u>Maximizing Productivity: How Freelancers Can Benefit From ChatGPT Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/multilingual-mastery-harnessing-the-power-of-chatgpt-beyond-english/"><u>Multilingual Mastery: Harnessing the Power of ChatGPT Beyond English</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-numbers-with-ai-is-chatgpt-a-reliable-resource-for-math-problems/"><u>Navigating Numbers with AI: Is ChatGPT a Reliable Resource for Math Problems?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/not-just-a-phase-disproving-global-cooling-claims/"><u>Not Just a Phase: Disproving Global Cooling Claims</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-security-alert-deceptive-chatgpt-extension-compromises-facebook-sign-ins/"><u>Online Security Alert: Deceptive ChatGPT Extension Compromises Facebook Sign-Ins!</u></a></li>
 </ul></div>
 

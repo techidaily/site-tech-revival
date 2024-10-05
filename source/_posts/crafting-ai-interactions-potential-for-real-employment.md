@@ -1,7 +1,7 @@
 ---
 title: "Crafting AI Interactions: Potential for Real Employment?"
-date: 2024-09-25T19:28:03.410Z
-updated: 2024-09-29T16:05:09.086Z
+date: 2024-10-03T07:02:22.347Z
+updated: 2024-10-04T19:28:38.737Z
 tags:
   - chatgpt
   - open-ai
@@ -52,13 +52,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -81,10 +88,10 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -94,13 +101,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -114,10 +114,16 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -141,24 +147,17 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-skyrocket-savings-on-clouds-compare-prices-s-lows/"><u>[Updated] In 2024, Skyrocket Savings on Clouds Compare Prices 'S Lows</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-the-ultimate-companion-for-your-vlogging-journey-top-12-cameras/"><u>2024 Approved The Ultimate Companion for Your Vlogging Journey - Top 12 Cameras</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/all-about-siriusxm-an-in-depth-guide-to-the-perfect-mix-of-sports-coverage-and-diverse-playlists/"><u>All About SiriusXM: An In-Depth Guide to the Perfect Mix of Sports Coverage & Diverse Playlists</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-camon-20-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Tecno Camon 20 Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-advanced-audio-segmentation-made-simple-a-premiere-guide/"><u>In 2024, Advanced Audio Segmentation Made Simple A Premiere Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oppo-a2-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Oppo A2 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y100i-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y100i Phone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mozilla-thunderbird-update-version-52-features-and-improvements/"><u>Mozilla Thunderbird Update: Version 52 Features and Improvements</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/outshining-gpt-claudes-four-unique-features-for-better-conversations/"><u>Outshining GPT: Claude's Four Unique Features for Better Conversations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-research-game-in-academia-using-these-n-ai-powered-approaches/"><u>Revolutionize Your Research Game in Academia Using These N AI-Powered Approaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-data-amidst-tailored-chatgpt-models/"><u>Securing Data Amidst Tailored ChatGPT Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speak-up-begin-your-journey-of-conversational-adventures-with-chatgpt-today/"><u>Speak Up! Begin Your Journey of Conversational Adventures with ChatGPT Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-battle-of-titans-how-googles-palm-2-stacks-up-against-openais-gpt-4-explained/"><u>The Battle of Titans: How Google's PaLM 2 Stacks Up Against OpenAI's GPT-4 Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ethical-boundaries-chatgpt-and-harmful-programming/"><u>The Ethical Boundaries: ChatGPT and Harmful Programming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-handyman-awakens-with-ai-breakthrough/"><u>The Handyman Awakens with AI Breakthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-ai-prompt-engineering-is-it-a-steady-and-lucrative-profession/"><u>The Ins and Outs of AI Prompt Engineering: Is It a Steady and Lucrative Profession?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-resolving-chatgpt-login-obstructions/"><u>The Ultimate Guide: Resolving ChatGPT Login Obstructions</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/1723262392834-uncover-top-hardware-reviews-and-specs-with-your-site-name-the-experts-choice-for-quality-equipment/"><u>Uncover Top Hardware Reviews and Specs with [Your Site Name] – The Experts' Choice for Quality Equipment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-on-windows-a-warning-about-the-impostor-malicious-software-lurking-online/"><u>'ChatGPT on Windows': A Warning About the Impostor Malicious Software Lurking Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-stunning-slideshow-for-social-sharing/"><u>[New] Stunning Slideshow for Social Sharing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-college-essays-balancing-innovation-with-tradition/"><u>ChatGPT and College Essays: Balancing Innovation with Tradition?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-crypto-trading-synergy-five-techniques-to-supercharge-your-investments/"><u>ChatGPT and Crypto Trading Synergy: Five Techniques to Supercharge Your Investments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-for-the-mindful-soul-developing-regular-rituals/"><u>ChatGPT for the Mindful Soul: Developing Regular Rituals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/convertir-imagenes-rw2-a-png-online-sin-coste-con-herramienta-de-gratuita-de-movavi/"><u>Convertir Imágenes RW2 a PNG Online Sin Coste Con Herramienta De Gratuita De Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-masterful-approaches-to-live-sports-video-capture/"><u>In 2024, Masterful Approaches to Live Sports Video Capture</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/reclaiming-your-social-media-presence-steps-to-password-reset-sans-emailphone/"><u>Reclaiming Your Social Media Presence: Steps to Password Reset Sans Email/Phone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/ultimate-guide-pny-elite-x-type-c-ssd-evaluation-ideal-for-seamless-mobile-data-transfer/"><u>Ultimate Guide: PNY Elite-X Type-C SSD Evaluation - Ideal for Seamless Mobile Data Transfer</u></a></li>
 </ul></div>
 

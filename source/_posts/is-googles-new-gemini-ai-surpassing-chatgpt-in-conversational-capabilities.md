@@ -1,7 +1,7 @@
 ---
 title: Is Google's New Gemini AI Surpassing ChatGPT in Conversational Capabilities?
-date: 2024-09-28T23:18:15.269Z
-updated: 2024-09-29T16:48:10.044Z
+date: 2024-10-04T11:23:55.702Z
+updated: 2024-10-04T18:41:45.236Z
 tags:
   - chatgpt
   - open-ai
@@ -26,19 +26,6 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -50,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -70,18 +50,31 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -92,10 +85,17 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -121,20 +121,18 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-visual-vanguard-revived-radeon/"><u>[New] In 2024, Visual Vanguard Revived Radeon</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1-free-guide-transforming-avi-files-into-imovie-editable-videos/"><u>1. Free Guide: Transforming AVI Files Into iMovie Editable Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/9-key-strategies-enhancing-personal-wellness-with-chatgpt/"><u>9 Key Strategies: Enhancing Personal Wellness with ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/doom-eternal-ultimate-fix-for-game-crash-problems-and-tips/"><u>DOOM Eternal - Ultimate Fix for Game Crash Problems and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-gaming-step-by-step-guide-to-boosting-fps-in-horizon-zero-dawn/"><u>Elevate Your Gaming: Step-by-Step Guide to Boosting FPS in Horizon Zero Dawn</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-7-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 with/without SIM Card</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/innovation-unbound-ais-impact-on-windows-tech-advances/"><u>Innovation Unbound: AI's Impact on Windows Tech Advances</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-anthropics-prompt-potential-via-claude-3/"><u>Maximizing Anthropic's Prompt Potential via Claude 3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721980755377-step-up-to-advanced-chatting-with-chatgpts-new-ios-app-now-available/"><u>Step Up to Advanced Chatting with ChatGPT's New iOS App – Now Available</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722124400599-tired-of-awaiting-chatgpt-desktop-embrace-this-robust-open-source-substitute-now/"><u>Tired of Awaiting ChatGPT Desktop? Embrace This Robust Open-Source Substitute Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722093836877-top-6-no-cost-ai-models-that-can-compete-with-the-power-of-phi-from-openai/"><u>Top 6 No-Cost AI Models That Can Compete with the Power of Phi From OpenAI</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleash-your-imagination-review-of-the-garmin-virb-ultra-30/"><u>Unleash Your Imagination Review of the Garmin VIRB Ultra 30</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-an-in-depth-guide-to-understanding-ai-black-boxes/"><u>Unveiling the Mystery: An In-Depth Guide to Understanding AI Black Boxes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whats-the-maximum-text-output-size-for-chatgpt/"><u>What's the Maximum Text Output Size for ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/worth-the-extra-cost-a-review-of-chatgpt-plus-benefits/"><u>Worth the Extra Cost? A Review of ChatGPT Plus Benefits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-premier-ios-tools-replicating-ps2-games-for-2024/"><u>[New] Premier iOS Tools Replicating PS2 Games for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-transforming-views-11-keys-to-thriving-in-facebook-video-marketing/"><u>[Updated] 2024 Approved Transforming Views 11 Keys to Thriving in Facebook Video Marketing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-effortless-background-watching-of-youtube-on-mobile-for-2024/"><u>[Updated] Effortless Background Watching of YouTube on Mobile for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-views-diy-strategies-for-youtube-success/"><u>[Updated] Maximizing Views DIY Strategies for YouTube Success</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-photo-magic-intro-to-snapseed-features/"><u>[Updated] Unlocking Photo Magic Intro to Snapseed Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-premier-alternative-activities-to-watching-sports/"><u>10 Premier Alternative Activities to Watching Sports</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-of-relying-on-ai-chatbots-for-windows-11-key-generation-explained/"><u>The Hidden Dangers of Relying on AI Chatbots for Windows 11 Key Generation Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-non-experts-guide-to-ai/"><u>The Non-Expert's Guide to AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-getting-started-with-microsoft-copilot-on-mac-osx/"><u>The Ultimate Walkthrough: Getting Started with Microsoft Copilot on Mac OSX</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-unexpected-suspension-of-chatgpt-in-italy-reasons-and-implications/"><u>The Unexpected Suspension of ChatGPT in Italy - Reasons and Implications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-20-essential-conversations-with-chatgpt-uncovered-gems-on-github/"><u>Top 20 Essential Conversations with ChatGPT: Uncovered Gems on GitHub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-frequent-chatgpt-issues-solutions-unveiled/"><u>Top 6 Frequent ChatGPT Issues: Solutions Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-the-crusader-kings-ii-unlaunched-problem/"><u>Troubleshooting Tips: Resolving the Crusader Kings II Unlaunched Problem</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2024-09-19T04:17:17.271Z
-updated: 2024-09-23T01:50:12.789Z
+date: 2024-09-30T19:44:23.199Z
+updated: 2024-10-05T00:01:28.077Z
 tags:
   - chatgpt
   - open-ai
@@ -51,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -73,22 +67,15 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -103,16 +90,16 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -129,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
@@ -171,5 +165,24 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-valheim-seeds-and-growth-techniques-for-2024/"><u>[New] Top Valheim Seeds & Growth Techniques for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-adjusting-obs-encoding-settings/"><u>[Updated] In 2024, Adjusting OBS Encoding Settings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-security-first-legitimate-tiktok-fan-buys/"><u>[Updated] Security First Legitimate TikTok Fan Buys</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-edge-40-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Motorola Edge 40 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-rapidly-resolve-persistent-control-program-errors/"><u>How To Rapidly Resolve Persistent Control Program Errors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-twitch-enthusiasts-recording-guidebook/"><u>In 2024, The Twitch Enthusiast's Recording Guidebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-magic-vs-2-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor Magic Vs 2 for Parents | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/new-release-hp-deskjet-3755-inkjet-mfp-drivers-compatible-with-windows-1087-free-downloads/"><u>New Release: HP DeskJet 3755 Inkjet MFP Drivers Compatible with Windows 10/8/7 – Free Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/starting-your-journey-a-step-by-step-guide-to-building-a-career-in-prompt-engineering/"><u>Starting Your Journey: A Step-by-Step Guide to Building a Career in Prompt Engineering</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-creating-a-website-application-using-chatgpt/"><u>Step-by-Step Guide: Creating a Website Application Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-on-clearing-out-chatgpt-interaction-logs/"><u>Step-by-Step Instructions on Clearing Out ChatGPT Interaction Logs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/storytelling-excellence-with-ai-harnessing-chatgpts-power/"><u>Storytelling Excellence with AI: Harnessing ChatGPT's Power</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/swift-solutions-for-chatgpt-issues-on-apple-devices/"><u>Swift Solutions for ChatGPT Issues on Apple Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-case-for-unchangeable-ai-language-mods/"><u>The Case for Unchangeable AI Language Mods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-calls-unveiling-top-6-breakthroughs-with-chatgpt-code/"><u>The Future Calls: Unveiling Top 6 Breakthroughs with ChatGPT Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-intersection-of-love-and-crime-how-ai-is-leveraged-in-7-notorious-romance-scam-schemes/"><u>The Intersection of Love and Crime: How AI Is Leveraged in 7 Notorious Romance Scam Schemes</u></a></li>
+</ul></div>
 

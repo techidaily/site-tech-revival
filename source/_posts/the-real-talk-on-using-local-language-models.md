@@ -1,7 +1,7 @@
 ---
 title: The Real Talk on Using Local Language Models
-date: 2024-09-22T23:45:50.221Z
-updated: 2024-09-29T17:31:55.666Z
+date: 2024-10-03T20:50:34.024Z
+updated: 2024-10-04T23:21:21.228Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
@@ -50,18 +57,18 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
  ChatGPT understood our prompt immediately and gave us a sentence in French. We then responded to that sentence, and the conversation kept going from there. Throughout this conversation, it critiqued our conversational skills and provided small suggestions.
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Learn Grammar and Syntax
 
@@ -71,23 +78,9 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
@@ -109,10 +102,10 @@ Here's how you can create your own personalized tests:
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
@@ -122,6 +115,13 @@ Here's how you can create your own personalized tests:
  You also get detailed explanations, examples, and cultural insights about the language and the people who speak it. Language apps can do this to some extent, but ChatGPT Plus is more versatile and flexible.
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
@@ -142,18 +142,18 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-audio-extraction-techniques-for-instagram-media/"><u>[New] In 2024, Audio Extraction Techniques for Instagram Media</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-ultimate-guide-7-prime-free-video-tag-extractors/"><u>[Updated] Ultimate Guide 7 Prime Free Video Tag Extractors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlock-creative-potentials-with-device-based-filters-for-videographers/"><u>[Updated] Unlock Creative Potentials with Device-Based Filters for Videographers</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-the-revolutionary-appeal-of-apples-m1-max-clip/"><u>2024 Approved The Revolutionary Appeal of Apple's M1 Max Clip</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/camslice-critique/"><u>CamSlice Critique</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/descubre-los-11-mejores-convertidores-gratuitos-mov-para-todos-sus-dispositivos-macwindowsen-linea/"><u>Descubre Los 11 Mejores Convertidores Gratuitos MOV Para Todos Sus Dispositivos: Mac/Windows/En Línea</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhanced-capabilities-exploring-how-the-chatgpt-desktop-version-surpasses-the-online-interface/"><u>Enhanced Capabilities: Exploring How the ChatGPT Desktop Version Surpasses the Online Interface</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-empathy-skills-using-chatgpt-effective-strategies-explored/"><u>Enhancing Empathy Skills Using ChatGPT: Effective Strategies Explored</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-writing-with-8-smart-ai-tools-for-authors/"><u>Enhancing Writing with 8 Smart AI Tools for Authors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-a-neural-network-model-inversion-attack-expose-your-chatbots-secrets/"><u>How Does a Neural Network Model Inversion Attack Expose Your Chatbot's Secrets?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-is-generative-ai-evolving-into-a-novel-means-of-spreading-false-information/"><u>How Is Generative AI Evolving Into a Novel Means of Spreading False Information?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-access-advanced-chatgpt-functions-in-the-beta-version-with-browser-integration/"><u>How To Access Advanced ChatGPT Functions in the Beta Version with Browser Integration</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-driver-conflicts-restoring-memory-shields-on-the-ftdibus-bus-system/"><u>Resolving Driver Conflicts: Restoring Memory Shields on the Ftdibus Bus System</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-zombification-extravaganza-8-epic-titles-ranked/"><u>[New] In 2024, Zombification Extravaganza - 8 Epic Titles Ranked</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-integrate-soundscape-into-premiere-pro-projects/"><u>[New] Integrate Soundscape Into Premiere Pro Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-brainstorming-techniques-leveraging-mind-mapping-and-artificial-intelligence-for-dynamic-idea-generation/"><u>Advanced Brainstorming Techniques: Leveraging Mind Mapping and Artificial Intelligence for Dynamic Idea Generation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assistants-showdown-snapchats-my-ai-against-chatgpt-making-the-right-choice-for-you/"><u>AI Assistants Showdown: Snapchat's My AI Against ChatGPT – Making the Right Choice for You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-growth-paving-way-for-more-hacking-opportunities/"><u>AI Growth: Paving Way for More Hacking Opportunities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-promises-and-perils-exploring-the-top-8-shortcomings-in-chatgpt/"><u>AI's Promises and Perils: Exploring the Top 8 Shortcomings in ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-5-catalysts-for-cybercriminal-success/"><u>Artificial Intelligence: 5 Catalysts for Cybercriminal Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-job-application-with-chatgpt-powered-resumes-expert-tips-and-tricks/"><u>Boost Your Job Application with ChatGPT-Powered Resumes: Expert Tips & Tricks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/comprehensive-guide-to-installing-alps-pointer-drivers/"><u>Comprehensive Guide to Installing Alps Pointer Drivers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-decoding-the-mechanics-of-subscriber-tracking/"><u>In 2024, Decoding the Mechanics of Subscriber Tracking</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-optimize-video-flows-5-steps-for-expert-cutting-and-lengthening-of-vimeo-content/"><u>In 2024, Optimize Video Flows 5 Steps for Expert Cutting & Lengthening of Vimeo Content</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-fix-optimizing-your-fortnite-mouse-sensitivity/"><u>The Complete Fix: Optimizing Your Fortnite Mouse Sensitivity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722970907491-updated-dell-wi-fi-connectivity-software-secure-your-download-now/"><u>Updated Dell Wi-Fi Connectivity Software: Secure Your Download Now</u></a></li>
 </ul></div>
 

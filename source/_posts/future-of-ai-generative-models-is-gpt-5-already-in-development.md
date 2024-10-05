@@ -1,7 +1,7 @@
 ---
 title: Future of AI Generative Models - Is GPT-5 Already in Development?
-date: 2024-09-22T18:27:34.905Z
-updated: 2024-09-29T20:00:32.505Z
+date: 2024-10-01T21:14:59.742Z
+updated: 2024-10-05T00:42:27.840Z
 tags:
   - chatgpt
   - open-ai
@@ -41,33 +41,19 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Notion AI also lets you draft social media posts, press releases, blog posts, and more.
 
  When using ChatGPT, you can also generate ideas for your projects. After signing in to your account, you can ask the bot to come up with a list of different things that you can then research further.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Creating Summaries of Existing Pages
 
@@ -80,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![Notion AI Page Summary Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-page-summary.jpg)
 
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Finding Answers to Questions
 
@@ -102,10 +95,17 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Stability
@@ -127,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
  You can also ask ChatGPT to create to-do lists, but you’ll have to provide it with enough context to make your list personalized. If you’ve already got information written somewhere, Notion AI is probably a better option for tasks of this nature.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Notion AI and ChatGPT: Two Different Forms of Generative AI
@@ -154,22 +154,14 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-essential-guide-to-preserving-screen-chats/"><u>[New] In 2024, Essential Guide to Preserving Screen Chats</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-most-reliable-free-screen-capture-apps-for-mac-for-2024/"><u>[New] The Most Reliable Free Screen Capture Apps for Mac for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/15-free-ai-solutions-for-email-efficiency-and-quality/"><u>15 Free AI Solutions for Email Efficiency and Quality</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pioneering-success-a-guide-to-prolific-youtubers-growth/"><u>2024 Approved Pioneering Success A Guide to Prolific Youtubers' Growth</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721998568514-discovering-ransomware-decryption-a-budget-friendly-guide-at-050-with-chatgpt-on-our-engaging-podcast/"><u>Discovering Ransomware Decryption: A Budget-Friendly Guide at $0.50 with ChatGPT on Our Engaging Podcast!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/elevating-your-gaming-the-xbox-recorder-playbook-for-2024/"><u>Elevating Your Gaming The Xbox Recorder Playbook for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovation-unleashed-leading-professionals-360cameras/"><u>Innovation Unleashed Leading Professionals’ 360°Cameras</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reactivating-obsolete-heat-management-policies-in-win/"><u>Reactivating Obsolete Heat Management Policies in Win</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-best-youtube-equipment-what-you-need-to-start-your-channel/"><u>The Best YouTube Equipment What You Need to Start Your Channel</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-techniques-for-jvmdll-not-present-error-messages/"><u>Troubleshooting Techniques for jvm.dll Not Present Error Messages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-secrets-to-openai-your-ultimate-guide/"><u>Unlock the Secrets to OpenAI: Your Ultimate Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-androids-journey-with-bing-and-ai/"><u>Unlocking the Potential: Android's Journey with Bing and AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unpacking-the-potential-how-do-these-7-breakthrough-apps-employ-gpt-n4-technology/"><u>Unpacking the Potential: How Do These 7 Breakthrough Apps Employ GPT-N4 Technology?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-gpt-3-features-for-openai-enthusiasts/"><u>Unraveling GPT-3 Features for OpenAI Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voicegpt-activation-on-android-harnessing-the-power-of-speech-controlled-ai/"><u>VoiceGPT Activation on Android: Harnessing the Power of Speech-Controlled AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-security-threats-does-chatgpt-pose-to-users/"><u>What Security Threats Does ChatGPT Pose to Users?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-pros-and-cons-of-syma-x8c-for-2024/"><u>[Updated] Pros and Cons of Syma X8C for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comment-savoir-les-plus-efficaces-des-methodes-denregistrement-decran-sur-iphone-11/"><u>Comment Savoir Les Plus Efficaces Des Méthodes D’Enregistrement D'écran Sur iPhone 11?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-personal-training-with-ai-how-chatgpt-can-shape-individual-fitness-plans/"><u>Enhancing Personal Training with AI: How ChatGPT Can Shape Individual Fitness Plans</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-artificial-intelligence-tools-for-modern-businesses/"><u>Essential Artificial Intelligence Tools for Modern Businesses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-the-power-of-chatgpt-strategies-for-composing-an-entire-poetry-book/"><u>Harnessing the Power of ChatGPT: Strategies for Composing an Entire Poetry Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205715143-how-to-recover-when-your-google-chrome-freezes-problem-solved/"><u>How To Recover When Your Google Chrome Freezes – Problem Solved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-support-solutions-how-to-link-chatgpt-capabilities-with-whatsapp-for-businesses/"><u>Innovative Support Solutions: How to Link ChatGPT Capabilities with WhatsApp for Businesses</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-art-of-screenshots-iphoneipad-video-recordings-explained/"><u>The Art of Screenshots IPhone/iPad Video Recordings Explained</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716465279013-youtube-profile-picture-templates-free-downloads/"><u>YouTube Profile Picture Templates – Free Downloads!</u></a></li>
 </ul></div>
 

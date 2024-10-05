@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Interaction: Creating Specialized AI with GPT"
-date: 2024-09-19T10:20:02.512Z
-updated: 2024-09-22T19:47:28.581Z
+date: 2024-10-02T09:28:05.799Z
+updated: 2024-10-04T17:41:22.931Z
 tags:
   - chatgpt
   - open-ai
@@ -36,51 +36,17 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -94,14 +60,43 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 2. If the document does not appear, use the file type dropdown box and select**PDF Files** from the options.  
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
@@ -128,5 +123,26 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-elevate-online-media-selecting-the-best-5-quality-boosters/"><u>[New] Elevate Online Media Selecting the Best 5 Quality Boosters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-prime-fb-videos-deciding-on-the-best-ten/"><u>[New] In 2024, Prime FB Videos Deciding on the Best Ten</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-iphone-and-ipad-podcast-recording-manual-for-interviews/"><u>[New] The Ultimate iPhone & iPad Podcast Recording Manual For Interviews</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-elite-workstations-for-peak-productivity/"><u>[Updated] 2024 Approved Elite Workstations for Peak Productivity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-climb-the-popularity-ladder-essential-youtube-seo-practices-uncovered-for-2024/"><u>[Updated] Climb the Popularity Ladder Essential YouTube SEO Practices Uncovered for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-practices-for-risk-free-application-of-chatgpt-in-mental-health-support/"><u>Best Practices for Risk-Free Application of ChatGPT in Mental Health Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-entertainment-top-6-ways-snapchats-my-ai-transforms-your-experience/"><u>Beyond Entertainment: Top 6 Ways Snapchat's My AI Transforms Your Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/blocking-access-from-robotic-scrappers-how-to-shield-your-site-from-openai-bots/"><u>Blocking Access From Robotic Scrappers: How to Shield Your Site From OpenAI Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-revolutionize-fortune-telling-with-chatgpts-predictive-abilities/"><u>Can AI Revolutionize Fortune Telling with ChatGPT's Predictive Abilities?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-depend-on-chatgpts-answers-exploring-the-ais-truthfulness-and-reliability/"><u>Can We Depend on ChatGPT's Answers? Exploring the AI’s Truthfulness and Reliability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plugin-sync-troubles-how-to-overcome-connection-errors/"><u>ChatGPT Plugin Sync Troubles: How to Overcome Connection Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-your-champion-a-side-by-side-evaluation-of-chatgpt-plus-vs-perplex3-in-the-ai-chatbot-arena/"><u>Choosing Your Champion: A Side-by-Side Evaluation of ChatGPT Plus Vs. Perplex^3 in the AI Chatbot Arena</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claim-the-future-how-claude-redefines-data-insights-and-solutions/"><u>Claim the Future: How Claude Redefines Data Insights and Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-strong-and-weak-ai-an-in-depth-look-at-what-sets-them-apart/"><u>Comparing Strong and Weak AI: An In-Depth Look at What Sets Them Apart</u></a></li>
+<li><a href="https://fox-place.techidaily.com/discover-stunning-destinations-remotely-top-virtual-tours-for-worldwide-adventures-at-home/"><u>Discover Stunning Destinations Remotely: Top Virtual Tours for Worldwide Adventures at Home</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-how-to-resurrect-the-non-functional-win-plus-p-feature-in-windows/"><u>Learn How to Resurrect the Non-Functional Win + P Feature in Windows.</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-future-of-audio-crafting-androids-most-innovative-digital-audio-workstations-for-todays-sound-engineers-for-2024/"><u>The Future of Audio Crafting Androids Most Innovative Digital Audio Workstations for Todays Sound Engineers for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-to-the-latest-free-windows-compatible-asrock-ab350-pro4-graphics-card-drivers/"><u>Update to the Latest: Free Windows-Compatible ASRock AB350 Pro4 Graphics Card Drivers</u></a></li>
+</ul></div>
 

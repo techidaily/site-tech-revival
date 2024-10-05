@@ -1,7 +1,7 @@
 ---
 title: What Is NVIDIA's AI Foundations Customizable Generative AI Service and Who Can Use It?
-date: 2024-09-26T19:01:15.633Z
-updated: 2024-09-29T16:55:35.275Z
+date: 2024-09-28T11:14:43.636Z
+updated: 2024-10-04T23:45:07.268Z
 tags:
   - chatgpt
   - open-ai
@@ -43,20 +43,13 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Ability to Create Custom GPTs
 
@@ -65,25 +58,25 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -97,6 +90,13 @@ Close
  You can build a custom GPT, or you can choose from a long list of hundreds of pre-built options to supercharge your prompting experience. Since they are optimized for particular functions, you can get even better responses than regular ChatGPT for niche uses. The[pre-built GPTs have already been primed](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) with specialized knowledge to supercharge performance for targeted prompting.
 
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
@@ -121,14 +121,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-golden-grounds-guided-the-finest-treasure-maps/"><u>[New] Golden Grounds Guided The Finest Treasure Maps</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-app-for-windows-enthusiasts/"><u>ChatGPT App for Windows Enthusiasts</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-poco-m6-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Poco M6 Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/selecting-between-standard-and-augmented-gpt-capabilities/"><u>Selecting Between Standard & Augmented GPT Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/shield-against-fraudgpt-critical-awareness-skills-for-cybersecurity/"><u>Shield Against FraudGPT: Critical Awareness Skills for Cybersecurity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stay-safe-online-the-false-chatgpt-extension-posing-a-risk-to-your-facebook-accounts/"><u>Stay Safe Online: The False 'ChatGPT' Extension Posing a Risk to Your Facebook Accounts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-your-ai-interactions-the-ultimate-guide-to-using-chatgpt-on-google-chrome/"><u>Streamline Your AI Interactions: The Ultimate Guide to Using ChatGPT on Google Chrome</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578445356-virtual-lingo-mondlys-breakthrough-ar-language-app/"><u>Virtual Lingo: Mondly's Breakthrough AR Language App</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-detailed-guide-to-using-firefoxs-picture-in-picture-mode/"><u>[New] 2024 Approved Detailed Guide to Using Firefox's Picture-in-Picture Mode</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>[New] An Easy Guide for How to Add Photos on Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-social-media-power-up-grouping-multiple-photos-and-vids-for-instagram-for-2024/"><u>[New] Social Media Power-Up Grouping Multiple Photos & Vids for Instagram for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-advanced-subtitle-tools-navigate-through-the-best-10-web-edits/"><u>[Updated] Advanced Subtitle Tools - Navigate Through the Best 10 Web Edits</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-building-brands-through-memes/"><u>[Updated] Building Brands Through Memes</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-11/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721846131283-experience-more-the-6-convenient-features-you-get-with-the-chatgpt-app-not-just-a-website/"><u>Experience More: The 6 Convenient Features You Get with the ChatGPT App, Not Just a Website</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-route-to-richer-tiktok-bios-a-guide-to-linktree-integration/"><u>In 2024, The Route to Richer TikTok Bios A Guide to Linktree Integration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reveal-hidden-configurations-unearth-missing-controls-in-win11/"><u>Reveal Hidden Configurations: Unearth Missing Controls in Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-potential-top-20-chatbot-prompts-for-gpt-on-github/"><u>Unlocking AI Potential: Top 20 Chatbot Prompts for GPT on GitHub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-7-innovative-solutions-beyond-openais-chatgpt-mobile-offerings/"><u>Unveiling 7 Innovative Solutions Beyond OpenAI's ChatGPT Mobile Offerings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-ais-potential-to-enrich-mental-wellness-strategies/"><u>Unveiling AI's Potential to Enrich Mental Wellness Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-gptzero-your-tool-for-identifying-ai-produced-content/"><u>Unveiling GPTZero: Your Tool for Identifying AI-Produced Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/weighing-up-should-i-choose-gptplus-membership/"><u>Weighing Up: Should I Choose GPT+ Membership?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-does-chatgpt-mean-a-journey-through-generative-ai/"><u>What Does ChatGPT Mean? A Journey Through Generative AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-relying-on-ai-bots-for-your-windows-11-license-isnt-a-smart-move/"><u>Why Relying on AI Bots for Your Windows 11 License Isn't a Smart Move</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-better-chatgpt-commands-as-a-fitness-lover-tips-and-techniques/"><u>Writing Better ChatGPT Commands as a Fitness Lover: Tips and Techniques</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-name-genius-mastering-branding-with-generators/"><u>YouTube Name Genius Mastering Branding with Generators</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Original: Exploring Modern Substitutes for the Turing Test"
-date: 2024-09-23T21:42:36.548Z
-updated: 2024-09-29T17:18:42.227Z
+date: 2024-10-02T19:15:51.420Z
+updated: 2024-10-05T08:20:07.167Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
  Healthier cooking options are just a simple prompt away. If you're already a fan of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) , such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
 
  More specific prompts like “design a healthy breakfast with adequate protein and vegetables” or “what's a healthy, vegetarian dinner with spices like turmeric and red pepper?” also provide appropriate recipes. Get as specific as you like with the prompts.
@@ -41,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 ![ChatGPT healthy breakfast options part 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-breakfast-options-part-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
@@ -67,28 +74,15 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 ![ChatGPT healthy meal for kids directions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-meal-for-kids-part-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Meanwhile, the prompt “please provide a healthy vegetable recipe as though you are an upscale professional chef” offers a recipe for Seared Asparagus with Lemon-Herb Gremolata. With plenty of fresh herbs for flavor, it's a delicious addition to any meal. Who knew the chatbot had such elegant taste?
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Does ChatGPT Provide Useful Nutritional Information?
 
@@ -121,18 +115,22 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-risk-free-strategies-for-youtube-to-mp4-file-conversion/"><u>[New] 2024 Approved Risk-Free Strategies for YouTube to MP4 File Conversion</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-the-art-of-downloading-fb-status-videos/"><u>[Updated] 2024 Approved Mastering the Art of Downloading Fb Status Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-pixiz-essentials-from-stills-to-moving-images/"><u>[Updated] 2024 Approved Pixiz Essentials From Stills to Moving Images</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-excellence-unleashed-top-tech-for-your-workspace/"><u>[Updated] In 2024, Excellence Unleashed - Top Tech For Your Workspace</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-speed-boost-for-vimeo-videos/"><u>[Updated] In 2024, Ultimate Speed Boost for Vimeo Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-unraveling-sharex-professional-perspectives-and-picks/"><u>[Updated] Unraveling ShareX Professional Perspectives & Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-llama-2-the-next-gen-large-language-model-for-innovative-uses/"><u>Exploring Llama 2: The Next-Gen Large Language Model for Innovative Uses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-innovative-world-of-gpt-4all-understanding-how-it-operates/"><u>Exploring the Innovative World of GPT-4All: Understanding How It Operates</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-preventing-misleading-outputs-in-ai-with-six-key-tactics/"><u>Guide: Preventing Misleading Outputs in AI with Six Key Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-ai-enhancing-excel-workflows-using-chatgpt/"><u>Harness the Power of AI: Enhancing Excel Workflows Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ideal-chatgpt-queries-to-propel-crypto-trading/"><u>Ideal ChatGPT Queries to Propel Crypto Trading</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-up-on-screen-let-chatgpt-help-you-choose/"><u>Next Up on Screen? Let ChatGPT Help You Choose!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-fixed-easily-accessible-shorts-on-youtube/"><u>[New] 2024 Approved Fixed Easily Accessible Shorts on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-skyrocket-visibility-mastering-google-analytics-for-youtubers/"><u>[New] In 2024, Skyrocket Visibility Mastering Google Analytics for YouTubers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-masterclass-guide-top-free-apps-for-iphone-and-ipad-edits-for-2024/"><u>[Updated] Masterclass Guide Top Free Apps for iPhone & iPad Edits for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-pathway-to-facebook-success-livestreaming-recorded-visual-narratives/"><u>[Updated] Pathway to Facebook Success Livestreaming Recorded Visual Narratives</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-unleashing-your-contents-potential-viral-short-tags/"><u>2024 Approved Unleashing Your Content’s Potential Viral Short Tags</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y100i-power-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-infinix-note-30-vip-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Infinix Note 30 VIP without App | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-pro-ultimate-2023-template-giveaway/"><u>In 2024, Premier Pro Ultimate 2023 Template Giveaway</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-how-not-to-save-conversations-with-chatgpt/"><u>Protecting Privacy: How Not to Save Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagining-coding-with-non-chatgpt-ai-innovations/"><u>Reimagining Coding with Non-ChatGPT AI Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scam-or-solution-delving-into-truthgpt-token/"><u>Scam or Solution? Delving Into TruthGPT Token</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-ai-chatting-on-ubuntu-how-to-connect-with-chatgpt-via-shell-command-line-interface/"><u>Seamless AI Chatting on Ubuntu: How to Connect with ChatGPT via Shell Command Line Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-ai-integration-for-windows-systems/"><u>Seamless AI Integration for Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-implementation-your-guide-to-using-chatgpt-plugin-tools/"><u>Seamless Implementation: Your Guide to Using ChatGPT Plugin Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-reading-assistance-top-5-ai-powered-apps-for-tailored-book-ideas/"><u>Smart Reading Assistance: Top 5 AI Powered Apps for Tailored Book Ideas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speedy-communication-made-easy-adding-bings-ai-to-your-android-device/"><u>Speedy Communication Made Easy: Adding Bing's AI to Your Android Device</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/step-by-step-handbrake-shortcut-guide-seamless-non-destructive-video-trimming-techniques/"><u>Step-by-Step HandBrake Shortcut Guide: Seamless Non-Destructive Video Trimming Techniques</u></a></li>
 </ul></div>
 

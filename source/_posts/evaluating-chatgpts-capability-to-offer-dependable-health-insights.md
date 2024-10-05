@@ -1,7 +1,7 @@
 ---
 title: Evaluating ChatGPT's Capability to Offer Dependable Health Insights
-date: 2024-09-18T10:13:12.970Z
-updated: 2024-09-22T21:48:02.039Z
+date: 2024-10-02T08:30:38.293Z
+updated: 2024-10-04T18:37:12.996Z
 tags:
   - chatgpt
   - open-ai
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6a
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ChatGPT also cracked the problem as well.
@@ -77,25 +77,11 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -112,15 +98,22 @@ ChatGPT also cracked the problem as well.
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
 
@@ -131,6 +124,13 @@ ChatGPT also cracked the problem as well.
  ​​​​​​That said, we put both chatbots on two coding tasks. We asked ChatGPT and Claude AI to write functional code for a to-do list app. Starting with ChatGPT, the AI chatbot was able to deliver a functional to-do list app on the first attempt. We copy-pasted and ran it on a browser, and it worked perfectly without errors. Here's the output on a browser.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
@@ -161,5 +161,24 @@ ChatGPT also cracked the problem as well.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-extensive-breakdown-gecata-tracking-device-assessment/"><u>[New] 2024 Approved Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-elevating-visuals-by-attaching-youtube-music-tracks/"><u>[New] Elevating Visuals by Attaching YouTube Music Tracks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-elevating-roi-by-mastering-the-craft-of-fb-animated-advertising/"><u>[Updated] Elevating ROI by Mastering the Craft of FB Animated Advertising</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-the-essential-tutorial-for-facebook-live-on-roku-tv/"><u>[Updated] The Essential Tutorial for Facebook Live on Roku TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-revolutionaries-clash-palm-2-versus-gpt-4/"><u>AI Revolutionaries Clash: PaLM 2 Versus GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-unique-narratives-with-chatgpt-techniques-for-developing-a-custom-style/"><u>Crafting Unique Narratives with ChatGPT: Techniques for Developing a Custom Style</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-motorola-razr-40-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Razr 40 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-xiaomi-14-pro-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Xiaomi 14 Pro to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oneplus-nord-n30-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on OnePlus Nord N30 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/preventing-gpt-from-keeping-tabs-on-your-dialogues/"><u>Preventing GPT From Keeping Tabs on Your Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prompt-engineering-career-path-is-it-legitimate-top-9-insights-to-evaluate/"><u>Prompt Engineering Career Path – Is It Legitimate? Top 9 Insights to Evaluate</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-how-you-find-information-perplexity-ai-takes-google-search-to-new-heights/"><u>Revolutionize How You Find Information: Perplexity AI Takes Google Search to New Heights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-career-documentation-the-ultimate-guide-to-building-resumes-with-chatgpt/"><u>Revolutionize Your Career Documentation: The Ultimate Guide to Building Resumes with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secret-strategies-to-protect-your-chatgpt-interactions-from-prying-eyes/"><u>Secret Strategies to Protect Your ChatGPT Interactions From Prying Eyes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spotlight-on-truthful-ios-chatbot-developments/"><u>Spotlight on Truthful iOS ChatBot Developments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-local-llama-2-installation/"><u>Step-by-Step Guide: Setting Up Local Llama 2 Installation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dawn-of-intuitive-bing-experience-via-ai/"><u>The Dawn of Intuitive Bing Experience via AI</u></a></li>
+</ul></div>
 

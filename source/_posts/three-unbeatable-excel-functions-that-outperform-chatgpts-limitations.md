@@ -1,7 +1,7 @@
 ---
 title: Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations
-date: 2024-09-23T00:11:02.319Z
-updated: 2024-09-29T19:24:34.275Z
+date: 2024-10-03T22:05:21.399Z
+updated: 2024-10-05T10:26:42.070Z
 tags:
   - chatgpt
   - open-ai
@@ -46,22 +46,15 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### NVIDIA Picasso
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
@@ -73,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
@@ -85,15 +78,22 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Who Can Use NVIDIA AI Foundations?
 
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
@@ -123,20 +123,24 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-pixel-perfection-your-guide-to-youtube-twitters-and-hd/"><u>[Updated] 2024 Approved Pixel Perfection Your Guide to YouTube, Twitters, and HD</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-achieve-professional-level-youtube-transcription-without-spending/"><u>[Updated] In 2024, Achieve Professional-Level YouTube Transcription Without Spending</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-8-best-popular-instagram-after-effects-templates/"><u>2024 Approved 8 Best Popular Instagram After Effects Templates</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-insta-meets-tiktok-connectors-handbook/"><u>2024 Approved Insta Meets TikTok Connector's Handbook</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/enhancing-media-workflow-the-rise-of-magix-vpx/"><u>Enhancing Media Workflow The Rise of Magix VPX</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-note-12t-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi Note 12T Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/is-picku-the-pinnacle-of-editing-excellence-on-android-devices/"><u>Is PickU The Pinnacle of Editing Excellence on Android Devices?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-new-normal-artificial-intelligence-transforming-developer-task-management/"><u>Navigating the New Normal: Artificial Intelligence Transforming Developer Task Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimize-your-diet-a-step-by-step-guide-to-planning-balanced-meals-via-chatgpt/"><u>Optimize Your Diet: A Step-by-Step Guide to Planning Balanced Meals via ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-routine-hr-responsibilities-discover-5-smart-prompt-strategies/"><u>Revolutionize Routine HR Responsibilities: Discover 5 Smart Prompt Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-mobile-internet-experience-with-bings-cutting-edge-ai-search-android-and-ios-compatible/"><u>Revolutionize Your Mobile Internet Experience with Bing's Cutting-Edge AI Search – Android & iOS Compatible</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-novels-characters-using-these-11-powerful-ai-prompt-techniques/"><u>Revolutionize Your Novel's Characters Using These 11 Powerful AI Prompt Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safeguard-digital-assets-block-ai-bots/"><u>Safeguard Digital Assets: Block AI Bots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/six-budget-friendly-artificial-intelligence-options/"><u>Six Budget-Friendly Artificial Intelligence Options</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-become-a-periscope-wizard-with-our-full-guidebook/"><u>[New] Become a Periscope Wizard with Our Full Guidebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-cost-efficient-guide-to-skype-calls-in-mp3/"><u>[New] In 2024, The Cost-Efficient Guide to Skype Calls in MP3</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-sustainable-filmmaking-aids-at-no-charge/"><u>[Updated] 2024 Approved Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-spectacular-scenes-from-snowspeedcross-22/"><u>2024 Approved Spectacular Scenes From Snowspeedcross '22</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-find-x7-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo Find X7 Ultra without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-dead-air-resolve-your-chromecast-audio-problem-today/"><u>Fixing Dead Air: Resolve Your Chromecast Audio Problem Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/improving-dall-e-3-with-new-editing-features-room-for-enhancement/"><u>Improving DALL-E 3 with New Editing Features: Room for Enhancement</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intelligent-response-engine-chatgpts-voice-emerges/"><u>Intelligent Response Engine: ChatGPT's Voice Emerges</u></a></li>
+<li><a href="https://win-able.techidaily.com/kodi-cant-connect-heres-your-solution-for-the-directory-information-failure/"><u>Kodi Can't Connect? Here's Your Solution for the Directory Information Failure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/legal-showdown-in-tech-world-how-sarah-silvermans-lawsuit-impacts-openai-meta/"><u>Legal Showdown in Tech World: How Sarah Silverman's Lawsuit Impacts OpenAI, Meta</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-microsoft-copilot-a-comprehensive-tutorial-for-mac-users/"><u>Mastering Microsoft Copilot: A Comprehensive Tutorial for Mac Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-power-of-gpt-3-on-openais-interactive-platform/"><u>Navigating the Power of GPT-3 on OpenAI's Interactive Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-edge-computing-with-on-device-ai-a-comprehensive-guide/"><u>Navigating the World of Edge Computing with On-Device AI: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-cyber-risks-is-google-bard-an-unsafe-download/"><u>Protect Yourself From Cyber Risks: Is Google Bard an Unsafe Download?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/relying-on-chatgpt-a-lifeline-or-a-misguidance-in-the-great-outdoors/"><u>Relying on ChatGPT: A Lifeline or a Misguidance in the Great Outdoors?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-the-no-write-allowed-message-in-win-os/"><u>Remedying the No Write Allowed Message in Win OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionary-dialogue-engine-anticipated-traits-of-gpt-5/"><u>Revolutionary Dialogue Engine: Anticipated Traits of GPT-5</u></a></li>
 </ul></div>
 

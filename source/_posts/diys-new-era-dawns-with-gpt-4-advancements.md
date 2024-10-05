@@ -1,7 +1,7 @@
 ---
 title: DIY's New Era Dawns With GPT-4 Advancements
-date: 2024-09-28T20:35:10.491Z
-updated: 2024-09-30T00:31:12.744Z
+date: 2024-10-01T23:44:12.814Z
+updated: 2024-10-04T16:50:48.873Z
 tags:
   - chatgpt
   - open-ai
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -66,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -83,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -112,18 +106,15 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-easy-steps-to-screen-recording-across-oses-and-devices/"><u>[New] In 2024, Easy Steps to Screen Recording Across OSes & Devices</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/asmr-mastery-in-action-strategies-for-dynamic-and-effective-videos/"><u>ASMR Mastery in Action Strategies for Dynamic and Effective Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722180030824-decoding-ransomware-how-mobile-phones-can-help-with-free-decryption-tools-at-just-50/"><u>Decoding Ransomware: How Mobile Phones Can Help with Free Decryption Tools at Just $50</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-resolving-pubgs-voice-chat-connectivity-issues/"><u>Effective Solutions for Resolving PUBG's Voice Chat Connectivity Issues</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/game-changing-tvs-for-ps5-and-xbox-series-x-enthusiasts/"><u>Game-Changing TVs for PS5 & Xbox Series X Enthusiasts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-premier-programs-to-transform-webcam-footage/"><u>In 2024, Premier Programs to Transform Webcam Footage</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-the-mix-incorporating-and-refining-music-into-canva-projects-for-2024/"><u>Master the Mix Incorporating & Refining Music Into Canva Projects for 2024</u></a></li>
-<li><a href="https://discover-community.techidaily.com/step-by-step-guide-converting-vob-files-to-mp4-format-on-pcs-windows-1011-and-macos/"><u>Step-by-Step Guide: Converting VOB Files to MP4 Format on PCs (Windows 10/11 and macOS)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/virtual-emotional-support-guidelines-for-chatgpt-use/"><u>Virtual Emotional Support: Guidelines for ChatGPT Use</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voice-activated-mastery-of-chatgpt-5-key-strategies/"><u>Voice Activated Mastery of ChatGPT – 5 Key Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-ai-chatbots-like-chatgpt-overtake-traditional-search-engine-functions/"><u>Will AI Chatbots Like ChatGPT Overtake Traditional Search Engine Functions?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-chatgpt-be-the-next-big-thing-in-advancing-global-health-systems/"><u>Will ChatGPT Be the Next Big Thing in Advancing Global Health Systems?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>[New] A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-obsudios-ultimate-guide-to-video-recording-with-obs/"><u>[New] In 2024, Obsudio's Ultimate Guide to Video Recording with OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expanding-youtube-audience-through-perpetual-creative-commons-for-2024/"><u>[Updated] Expanding YouTube Audience Through Perpetual Creative Commons for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-journey-through-colors-leading-tutorials-for-grading-and-correction/"><u>In 2024, A Journey Through Colors Leading Tutorials for Grading & Correction</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-x6-pro-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco X6 Pro Phone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c210-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C210 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-on-ubuntu-a-shell-command-approach/"><u>Unlock the Power of ChatGPT on Ubuntu - A Shell Command Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-chatbots-and-large-language-models-with-quoras-poe/"><u>Unlocking AI Chatbots & Large Language Models with Quora's POE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voice-interaction-now-possible-chatgpt-enhanced-by-openai-technology/"><u>Voice Interaction Now Possible: ChatGPT Enhanced by OpenAI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-firms-forbid-ai-conversations-five-critical-points/"><u>Why Firms Forbid AI Conversations: Five Critical Points</u></a></li>
 </ul></div>
 

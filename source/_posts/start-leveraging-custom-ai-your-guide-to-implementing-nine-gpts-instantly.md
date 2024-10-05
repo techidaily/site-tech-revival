@@ -1,7 +1,7 @@
 ---
 title: "Start Leveraging Custom AI: Your Guide to Implementing Nine GPTs Instantly"
-date: 2024-09-17T09:29:49.718Z
-updated: 2024-09-22T17:04:21.674Z
+date: 2024-09-29T09:27:16.818Z
+updated: 2024-10-05T11:04:02.249Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,23 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. AI Hallucinations and Potential Biases
 
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
 
@@ -46,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can certainly ask ChatGPT any number of questions about the crypto market, as well as use it for financial tips. But while this is possible, it may not be the best route to pursue.
 
@@ -65,23 +79,9 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Relies Heavily on Historical Data
 
 ![an old book open on a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/old-book-table.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We've already discussed ChatGPT's lack of real-time data, but it's also important to note that this chatbot heavily relies on historical data to satisfy prompts.
 
@@ -90,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  ChatGPT can be friendly and[even make jokes](https://www.makeuseof.com/can-ai-make-us-laugh/) , but this is all based on the data it has been trained with. You could certainly call it a smart program, as it is highly advanced by today's standards, but it is not an all-knowing entity.
 
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
 
@@ -102,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
  Once supply exceeds demand, prices drop. Now, the coin you bought is only worth $70\. The next day, it may be worth less, and this is all because of a traditional market issue.
 
  Because ChatGPT doesn't have access to real-time data, it cannot consider these kinds of macroeconomics when giving investment and trading advice. Nine out of ten times, this may not matter, but there's always a chance of receiving advice from ChatGPT when the tool itself hasn't considered all the necessary factors in its response.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is Revolutionary but Far From Perfect
 
@@ -127,5 +127,26 @@ thumbnail: https://thmb.techidaily.com/643f417ea21e236b7a77b1b03708fbc61c8fba5f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-counteract-bot-visitors-for-real-audience-growth/"><u>[Updated] 2024 Approved Counteract Bot Visitors for Real Audience Growth</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-iphone-hacks-for-minimalist-video-presentation/"><u>[Updated] In 2024, IPhone Hacks for Minimalist Video Presentation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-masterful-approaches-to-live-sports-video-capture/"><u>[Updated] In 2024, Masterful Approaches to Live Sports Video Capture</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/embracing-the-future-with-benq-sw320s-4k-display-technology/"><u>Embracing the Future with BenQ SW320's 4K Display Technology</u></a></li>
+<li><a href="https://video-capture.techidaily.com/get-free-juice-wrld-music-your-ultimate-downloading-resource/"><u>Get Free Juice Wrld Music: Your Ultimate Downloading Resource</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-cognitive-therapy-with-the-help-of-chatgpt/"><u>Mastering the Art of Cognitive Therapy with the Help of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-auto-gpt-setup-from-download-to-full-functionality/"><u>Navigating the Auto-GPT Setup: From Download to Full Functionality</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-add-a-professional-touch-free-video-watermark-software-for-2024/"><u>New Add a Professional Touch Free Video Watermark Software for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-group-discussions-with-ai-a-guide-to-using-chatgpt-in-virtual-meetings/"><u>Optimizing Group Discussions with AI: A Guide to Using ChatGPT in Virtual Meetings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rapidly-advancing-ai-the-emerging-cybersecurity-dilemma/"><u>Rapidly Advancing AI: The Emerging Cybersecurity Dilemma</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-up-your-online-research-ai-powered-bing-on-ios-and-android/"><u>Step Up Your Online Research: AI-Powered Bing on iOS and Android.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-building-and-tailoring-your-chatgpt-variant/"><u>Step-by-Step Guide: Building and Tailoring Your ChatGPT Variant</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/students-guide-effective-strategies-for-avoiding-misuse-of-chatgpt/"><u>Student's Guide: Effective Strategies for Avoiding Misuse of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/supercharge-your-interaction-5-unused-but-powerful-chatgpt-capabilities-revealed/"><u>Supercharge Your Interaction: 5 Unused But Powerful ChatGPT Capabilities Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-temptation-ais-role-in-romance-risk/"><u>Tech Temptation: AI's Role in Romance Risk</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-playback-3d-movies-on-vlc-and-fixing-vlc-wont-show-3d-errors/"><u>The Ultimate Guide to Playback 3D Movies on VLC & Fixing VLC Won't Show 3D Errors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/unbeatable-deals-discover-the-best-free-desktop-recorders-for-2024/"><u>Unbeatable Deals Discover the Best Free Desktop Recorders for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-quik-but-not-quick-enough-a-review-and-pc-alternatives-for-faster-video-editing-for-2024/"><u>Updated Quik, But Not Quick Enough? A Review & PC Alternatives for Faster Video Editing for 2024</u></a></li>
+</ul></div>
 

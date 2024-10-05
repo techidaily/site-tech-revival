@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: GPT-4's Role in Shaping the Art of Home Improvement"
-date: 2024-09-28T18:53:26.692Z
-updated: 2024-09-29T18:35:23.365Z
+date: 2024-09-29T09:33:58.954Z
+updated: 2024-10-04T16:36:04.323Z
 tags:
   - chatgpt
   - open-ai
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Personalized Responses
 
  ChatGPT's Custom Instructions give you greater control over how the AI chatbot responds to your inputs.[ChatGPT's custom instructions can range](https://www.makeuseof.com/best-ways-to-use-chatgpt-custom-instructions/) from in-depth information about your life, business, or otherwise, to simple instructions, such as making sure it only uses imperial measurements or always responds with your name.
@@ -51,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3 ChatGPT Memory and Temporary Chat
 
  ChatGPT Memory and Temporary Chat are two features launching together, aimed to give ChatGPT better recall—and a way to avoid that recall altogether.
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 [ChatGPT's Memory](https://help.openai.com/en/articles/8590148-memory-faq) allows you to set specific information it should always remember about you. But that's not all. Over time, its memory can improve, learn details about you to add to its memory, and deliver improved accuracy and performance based upon this.
 
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
@@ -74,31 +81,24 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
  In response, OpenAI revealed ideas for[Temporary Chat](https://help.openai.com/en/articles/8914046-temporary-chat-faq) , a mode that enables "a conversation with a blank slate." In Temporary Chat mode, ChatGPT won't be aware of any previous conversations or memory, but would still use your custom instructions if set. It's a little like Incognito or Private mode in a browser.
 
  Unfortunately, at the time of writing, Temporary Chat mode is only available to a small number of users, limiting the amount of people using it. However, when it arrives, it'll be a useful tool for those moments you want to ask ChatGPT a question but don't want it linked to your profile forever more.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Free Trial Invites
 
@@ -113,16 +113,10 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
@@ -142,21 +136,22 @@ thumbnail: https://thmb.techidaily.com/deaea135ad5d9b523c81b174542d97bf19684476e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-artistry-in-motion-compelling-selection-of-3d-animation-software/"><u>[New] Artistry in Motion Compelling Selection of 3D Animation Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-fcps-best-10-plug-ins-a-professionals-list/"><u>[New] FCP's Best 10 Plug-Ins A Professional's List</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-guide-perfect-your-youtube-video-looping-game/"><u>[Updated] 2024 Approved How-To Guide Perfect Your YouTube Video Looping Game</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-scratching-tool-for-chromeos-for-2024/"><u>[Updated] Efficient Scratching Tool for ChromeOS for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-android-resource-guide-to-download-videos-from-youtube/"><u>[Updated] The Ultimate Android Resource Guide to Download Videos From YouTube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-potential-gopro-karmas-journey/"><u>2024 Approved Unleashing Potential GoPro Karma's Journey</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-critical-blunders-to-steer-clear-of-with-generative-ai-technologies/"><u>7 Critical Blunders to Steer Clear of with Generative AI Technologies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-res-aerial-showdown-dji-vs-gopro-capture/"><u>High-Res Aerial Showdown DJi vs GoPro Capture</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-unleash-creativity-top-8-sites-offering-free-green-screen-footage-and-backgrounds/"><u>In 2024, Unleash Creativity Top 8 Sites Offering Free Green Screen Footage & Backgrounds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722095335140-ios-enthusiasts-rejoice-discover-how-to-install-and-use-chatgpt-now/"><u>IOS Enthusiasts Rejoice! Discover How to Install and Use ChatGPT Now!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-the-art-of-using-file-explorer-in-windows-10-a-beginners-guide/"><u>Master the Art of Using File Explorer in Windows 10 - A Beginner's Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-ultimate-efficiency-discover-why-perplexity-ai-is-your-top-choice-in-ai-enhanced-google-search/"><u>Unleash Ultimate Efficiency: Discover Why Perplexity AI Is Your Top Choice in AI-Enhanced Google Search</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-discreet-discussions-with-duckduckgo-ai-chat-beyond-just-chatgpt/"><u>Unlock the Power of Discreet Discussions with DuckDuckGo AI Chat – Beyond Just ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-ai-navigating-quoras-poes-for-chatbot-integration/"><u>Unlocking the Potential of AI: Navigating Quora's POEs for Chatbot Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-behind-elon-musks-bold-claims-exploring-the-revolutionary-concept-of-truthgpt/"><u>What Is Behind Elon Musk's Bold Claims? Exploring the Revolutionary Concept of TruthGPT!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-might-want-a-human-touch-instead-of-chatgpt-when-it-comes-to-summaries/"><u>Why You Might Want a Human Touch Instead of ChatGPT When It Comes to Summaries</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-key-commodities-for-your-company-8-indispensable-tools-that-cant-be-ignored/"><u>[New] 2024 Approved Key Commodities for Your Company 8 Indispensable Tools That Can’t Be Ignored</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-decoding-the-full-scope-of-obs-screen-recorder/"><u>2024 Approved Decoding the Full Scope of OBS Screen Recorder</u></a></li>
+<li><a href="https://driver-download.techidaily.com/enhance-your-gaming-updated-nvidia-geforce-210-drivers-for-windows-11/"><u>Enhance Your Gaming: Updated NVIDIA GeForce 210 Drivers for Windows 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-envy-5540-drivers-and-software-download-and-update-easily/"><u>HP Envy 5540 Drivers & Software Download and Update Easily</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-s24plus-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy S24+?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-multilingual-conversations-with-ai-tips-for-using-chatgpt-as-your-go-to-translator/"><u>Mastering Multilingual Conversations with AI: Tips for Using ChatGPT as Your Go-To Translator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-linkedin-employment-prospects-with-these-10-chatgpt-techniques/"><u>Maximize Your LinkedIn Employment Prospects with These 10 ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/meet-the-elite-six-ultimate-guide-to-todays-best-large-language-models/"><u>Meet the Elite Six: Ultimate Guide to Today's Best Large Language Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-chatgpt-enhancement-crafting-fully-personalized-ai-models-tailored-to-your-needs/"><u>New ChatGPT Enhancement: Crafting Fully Personalized AI Models Tailored to Your Needs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/premium-edition-of-gpt-your-companion-in-language-study/"><u>Premium Edition of GPT, Your Companion in Language Study</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/professional-audit-chatgpts-ai-precision-examined/"><u>Professional Audit: ChatGPT's AI Precision Examined</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/shunning-simple-slips-in-deep-learning-deployments/"><u>Shunning Simple Slips in Deep Learning Deployments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/skybound-choices-deciphering-copilots-upgraded-path/"><u>Skybound Choices: Deciphering CoPilot's Upgraded Path</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-risk-of-rain-2-game-crashes/"><u>Troubleshooting Tips: Resolving Risk of Rain 2 Game Crashes</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-14-pro-max-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 14 Pro Max without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
 </ul></div>
 

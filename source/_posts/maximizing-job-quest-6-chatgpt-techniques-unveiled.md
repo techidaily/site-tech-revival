@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Job Quest: 6 ChatGPT Techniques Unveiled"
-date: 2024-09-25T18:08:29.847Z
-updated: 2024-09-29T22:28:33.643Z
+date: 2024-10-03T09:53:17.230Z
+updated: 2024-10-05T03:14:50.323Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -52,23 +59,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -80,16 +73,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -101,6 +94,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -109,22 +109,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Temporary Chat
 
@@ -151,24 +145,24 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-unmasking-the-significance-of-snapchat-emojis-for-2024/"><u>[New] Unmasking the Significance of Snapchat Emojis for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-from-film-to-instagram-editing-tall-videos-on-fcpx/"><u>2024 Approved From Film to Instagram Editing Tall Videos on FCPX</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-transforming-your-media-expertise-in-itunes-recordings/"><u>2024 Approved Transforming Your Media Expertise in iTunes Recordings</u></a></li>
-<li><a href="https://article-files.techidaily.com/clearer-views-the-top-10-online-photo-fixes-for-2024/"><u>Clearer Views The Top 10 Online Photo Fixes for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/crafting-connectivity-with-metaverse-strategies-for-2024/"><u>Crafting Connectivity with Metaverse Strategies for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-nlps-role-versus-mls-role/"><u>Deciphering NLP's Role Versus ML's Role</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-llms-an-insight-into-how-large-language-models-function/"><u>Decoding LLMs - An Insight Into How Large Language Models Function</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-ai-conversational-agents-a-guide-to-9-common-misunderstandings/"><u>Demystifying AI Conversational Agents: A Guide to 9 Common Misunderstandings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digital-detection-delights-explore-4-innovative-ai-mystery-game-experiences-for-aspiring-investigators/"><u>Digital Detection Delights: Explore 4 Innovative AI Mystery Game Experiences for Aspiring Investigators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/duel-of-the-devices-github-copilot-vs-openais-gpt/"><u>Duel of the Devices: GitHub Copilot Vs. OpenAI's GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elons-explanation-grok-ai-functionality-relevance-and-associated-costs/"><u>Elon's Explanation: Grok AI Functionality, Relevance & Associated Costs</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-acer-display-performance-via-win11-updates/"><u>Enhance Acer Display Performance via Win11 Updates</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/essential-free-jpeg-to-gif-conversion-websites-ranked-for-2024/"><u>Essential Free JPEG to GIF Conversion Websites Ranked for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tools-for-educators-identifying-gpt-powered-content-created-by-students/"><u>Essential Tools for Educators: Identifying GPT-Powered Content Created by Students</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-influential-role-of-ai-chatbots-on-digital-content-creation-8-key-points/"><u>Exploring The Influential Role Of AI Chatbots On Digital Content Creation – 8 Key Points</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-avoidance-of-ai-in-keys-can-secure-your-windows-11-install/"><u>How Avoidance of AI in Keys Can Secure Your Windows 11 Install</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-six-steps-to-a-color-rich-photographic-world/"><u>In 2024, Six Steps to a Color-Rich Photographic World</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-timing-on-mobile-top-10-apps-for-couples-special-day-for-2024/"><u>Mastering Timing on Mobile Top 10 Apps for Couple's Special Day for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-elgoog-a-complete-user-guide-for-the-top-mirrored-site-online/"><u>Unveiling ElgooG: A Complete User Guide for the Top Mirrored Site Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ideal-echo-chamber-recorders/"><u>[New] 2024 Approved Ideal Echo Chamber Recorders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-disable-instagrams-igtv/"><u>[New] How to Disable Instagram's IGTV</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-highest-ranking-youtube-tracker-for-popular-video-insight-for-2024/"><u>[Updated] Highest-Ranking YouTube Tracker for Popular Video Insight for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-art-of-streaming-saved-media-easy-igtv-downloads-on-pc-and-mac/"><u>[Updated] In 2024, The Art of Streaming Saved Media Easy IGTV Downloads on PC & Mac</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-workflow-integrating-chatgpt-as-your-on-demand-professional-support/"><u>Boost Your Workflow: Integrating ChatGPT as Your On-Demand Professional Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-chatgpt-for-efficient-code-generation-7-exceptional-ai-alternatives/"><u>Bypass ChatGPT for Efficient Code Generation: 7 Exceptional AI Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-registration-on-chatgpt-explore-these-5-alternatives/"><u>Bypass Registration on ChatGPT? Explore These 5 Alternatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-ai-unveiled-discover-its-purpose-and-how-it-can-transform-your-experience/"><u>Claude AI Unveiled: Discover Its Purpose and How It Can Transform Your Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-the-next-gen-gpt-4s-leap-over-gpt-35/"><u>Comparing the Next Gen: GPT-4's Leap over GPT-3.5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cut-off-gpt-communication-now/"><u>Cut Off GPT Communication Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciding-the-best-conversationalist-a-comparison-between-gptplus-and-perplexity/"><u>Deciding the Best Conversationalist: A Comparison Between GPT+ and Perplexity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-nuances-how-does-gpt-4-diverge-from-its-cousins-gpt-4-turbo-and-phi/"><u>Decoding the Nuances: How Does GPT-4 Diverge From Its Cousins, GPT-4 Turbo & Phi?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-6-big-scale-natural-language-processors/"><u>Discover the Leading 6 Big-Scale Natural Language Processors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-detaching-devices-from-your-google-home-setup/"><u>Expert Tips for Detaching Devices From Your Google Home Setup</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-mouse-driver-replacement-in-win11-and-10/"><u>Navigating Mouse Driver Replacement in Win11 & 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-with-tom-comprehensive-hardware-analysis/"><u>Navigating the Digital World with Tom - Comprehensive Hardware Analysis</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unparalleled-20-anime-series-themes-for-2024/"><u>Unparalleled 20 Anime Series Themes for 2024</u></a></li>
 </ul></div>
 

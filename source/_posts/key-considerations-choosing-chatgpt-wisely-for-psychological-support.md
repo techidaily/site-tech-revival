@@ -1,7 +1,7 @@
 ---
 title: "Key Considerations: Choosing ChatGPT Wisely for Psychological Support"
-date: 2024-09-24T20:44:54.202Z
-updated: 2024-09-29T23:31:01.865Z
+date: 2024-09-29T10:19:45.495Z
+updated: 2024-10-04T22:18:12.912Z
 tags:
   - chatgpt
   - open-ai
@@ -40,15 +40,22 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
@@ -72,19 +79,6 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
 
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
@@ -92,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Popular Vector Databases
@@ -108,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Future of Vector Databases
@@ -135,24 +129,18 @@ thumbnail: https://thmb.techidaily.com/b3b1cb7d8c5c52c25843bc952abd6a00ab0cd811c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-advice-elevating-your-nba-live-viewing/"><u>[New] Expert Advice Elevating Your NBA Live Viewing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-screens-seamlessly-with-ezvid-video-maker/"><u>2024 Approved Capturing Screens Seamlessly with Ezvid Video Maker</u></a></li>
-<li><a href="https://win-answers.techidaily.com/age-of-empires-4-update-tackles-and-resolves-pc-gaming-interruptions/"><u>Age of Empires 4 Update Tackles and Resolves PC Gaming Interruptions</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-down-wi-fi-setup-barriers-filling-action-voids-on-pc/"><u>Breaking Down Wi-Fi Setup Barriers: Filling Action Voids on PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-chatgpt-the-introduction-of-vocal-responses-to-commands/"><u>Elevating ChatGPT: The Introduction of Vocal Responses to Commands</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-content-strategy-effective-tips-for-utilizing-chatgpt-in-projects/"><u>Elevating Content Strategy: Effective Tips for Utilizing ChatGPT in Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-support-with-ai-combining-chatgpt-and-whatsapp-features/"><u>Enhancing Support with AI: Combining ChatGPT and WhatsApp Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-forefront-ai-how-does-it-compare-with-chatgpt/"><u>Exploring Forefront AI: How Does It Compare with ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-who-qualifies-for-using-nvidias-adaptable-generative-ai/"><u>Exploring the Potential: Who Qualifies for Using NVIDIA's Adaptable Generative AI?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/full-disclosure-unveiling-all-about-google-podcasts-app/"><u>Full Disclosure Unveiling All About Google Podcasts App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-after-chatgpt-predicting-new-frontiers-in-smart-conversational-technology/"><u>Generative AI After ChatGPT - Predicting New Frontiers in Smart Conversational Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-activating-bing-ai-chat-feature-on-android-phones/"><u>Guide to Activating Bing AI Chat Feature on Android Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-ai-6-principles-to-propel-your-professional-life/"><u>Harnessing AI: 6 Principles to Propel Your Professional Life</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-enhances-everyday-living-a-nine-point-guide/"><u>How ChatGPT Enhances Everyday Living: A Nine-Point Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-places-to-procure-pixel-ringers-online/"><u>In 2024, Perfect Places to Procure Pixel Ringers Online</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/keyboard-malfunction-in-windows-11-heres-the-solution-to-unresponsive-characters/"><u>Keyboard Malfunction in Windows 11? Here's the Solution to Unresponsive Characters!</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-microsoft-store-glitch-0x80073d26-in-win11/"><u>Overcoming Microsoft Store Glitch 0X80073D26 in Win11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-deceptive-consequences-of-genuine-popularity-illusions/"><u>The Deceptive Consequences of Genuine Popularity Illusions</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-truth-an-in-depth-viber-out-review-guide/"><u>Unveiling the Truth: An In-Depth Viber Out Review Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixed-copy-and-paste-error-in-windows-11/"><u>[FIXED] Copy and Paste Error in Windows 11</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-transitioning-from-smartphone-to-watching-fb-videos-on-appletv/"><u>[New] In 2024, Transitioning From Smartphone to Watching FB Videos on AppleTV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-movieseries-recommender/"><u>ChatGPT as Your Personal Movie/Series Recommender</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-desktop-software-for-windows-is-a-myth-dont-fall-victim-to-malware/"><u>ChatGPT Desktop Software for Windows Is a Myth – Don't Fall Victim to Malware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-to-the-rescue-effective-strategies-for-troubleshooting-computer-issues/"><u>ChatGPT to the Rescue: Effective Strategies for Troubleshooting Computer Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-does-it-impose-text-length-restrictions-for-responses/"><u>ChatGPT: Does It Impose Text Length Restrictions for Responses?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-optimizing-vlc-for-maximum-efficiency-on-mac-for-2024/"><u>Expert Advice Optimizing VLC for Maximum Efficiency on Mac for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-best-mobile-film-and-picture-capture-tools-for-iphones-and-androids/"><u>In 2024, Best Mobile Film & Picture Capture Tools for iPhones & Androids</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-microsoft-store-eliminating-code-x80072f30-errors/"><u>Mastering the Microsoft Store: Eliminating Code X80072F30 Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ordered-adventure-through-dragon-ball-a-step-by-step-viewers-journey/"><u>Ordered Adventure Through Dragon Ball - A Step-by-Step Viewer's Journey</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-windows-11s-gpo-settings-quickly/"><u>Unlocking Windows 11'S GPO Settings Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstuck-your-watch-dogs-legion-from-endless-loading-complete-fix-guide/"><u>Unstuck Your Watch Dogs: Legion From Endless Loading - Complete Fix Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/wifi-rmvb-mpg-movavi/"><u>WiFi에서 RMVB를 MPG로 변환하기: 비용 없이 Movavi의 사전화 강조 접근 방식</u></a></li>
 </ul></div>
 

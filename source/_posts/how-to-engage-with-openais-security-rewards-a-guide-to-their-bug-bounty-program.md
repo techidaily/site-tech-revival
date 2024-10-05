@@ -1,7 +1,7 @@
 ---
 title: "How to Engage with OpenAI's Security Rewards: A Guide to Their Bug Bounty Program"
-date: 2024-09-24T20:32:11.537Z
-updated: 2024-09-29T22:33:14.927Z
+date: 2024-09-28T05:42:40.620Z
+updated: 2024-10-04T17:27:32.930Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/b40abdafc85906cdf8c505af7da6e2b6de5b2e388
 
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -48,25 +55,11 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
@@ -87,19 +80,19 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -109,6 +102,19 @@ Here, you must fill in the following information:
  These include server-side injection, server security misconfiguration,[cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage,[cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -131,24 +137,24 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ioneering-methods-to-develop-a-memorable-youtube-introduction-for-2024/"><u>[New] Pioneering Methods to Develop a Memorable YouTube Introduction for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-supercharge-your-video-subtitling-explore-leading-internet-tools-today/"><u>[New] Supercharge Your Video Subtitling Explore Leading Internet Tools Today</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-best-picks-the-leading-10-online-resources-for-vimeo-video-download/"><u>[Updated] In 2024, Best Picks The Leading 10 Online Resources for Vimeo Video Download</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-initiating-your-streaming-journey-youtube-registration-for-2024/"><u>[Updated] Initiating Your Streaming Journey YouTube Registration for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-payout-patterns-adsense-earnings-from-youtube-for-every-thousand-viewers-for-2024/"><u>[Updated] Payout Patterns AdSense Earnings From YouTube for Every Thousand Viewers for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-virtual-background-magic-a-streamers-guide-to-chroma-key/"><u>[Updated] Unveiling Virtual Background Magic A Streamer's Guide to Chroma Key</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/10-simplified-techniques-to-winrm-tool/"><u>10 Simplified Techniques to WinRM Tool</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-clearshot-suite-high-quality-windows/"><u>2024 Approved ClearShot Suite - High-Quality Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/challenging-the-notion-is-chatgpt-dumbing-down-or-remaining-intelligent/"><u>Challenging the Notion: Is ChatGPT Dumbing Down or Remaining Intelligent?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-showdown-can-claude-ai-surpass-chatgpts-capabilities/"><u>ChatBot Showdown: Can Claude AI Surpass ChatGPT's Capabilities?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbots-rising-the-transformation-of-digital-storytelling/"><u>Chatbots Rising: The Transformation of Digital Storytelling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-assistant-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Assistant: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-which-ai-chatbot-is-best-for-everyday-tasks/"><u>Claude Vs. ChatGPT: Which AI Chatbot Is Best for Everyday Tasks?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/configuring-codegpt-for-vs-code-enhancement/"><u>Configuring CodeGPT for VS Code Enhancement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dialoguehaltedgpt-seeking-subscription-revival/"><u>DialogueHaltedGPT: Seeking Subscription Revival</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-5-free-artificial-intelligence-tools-for-crafting-professional-correspondence-and-streamlining-your-inbox-using-chatgpt/"><u>Discover 5 Free Artificial Intelligence Tools for Crafting Professional Correspondence & Streamlining Your Inbox Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-googles-latest-gemini-ai-outperform-chatgpt-in-natural-language-processing-wars/"><u>Does Google's Latest Gemini AI Outperform ChatGPT in Natural Language Processing Wars?</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebooks-reputation-on-the-line-amid-tech-doubts/"><u>Facebook's Reputation on the Line Amid Tech Doubts</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-samsung-galaxy-a25-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Samsung Galaxy A25 5G Phone Screen?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/our-ultimate-cheat-sheet-for-seamlessly-looping-videos-on-youtube-for-2024/"><u>[New] Your Ultimate Cheat Sheet for Seamlessly Looping Videos on YouTube for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-is-aurora-revolutionary/"><u>[Updated] In-Depth Review Is Aurora Revolutionary?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-best-practices-for-sharing-visuals-in-ms-teams-with-snap-camera/"><u>2024 Approved Best Practices for Sharing Visuals in MS Teams with Snap Camera</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-ultimate-guide-of-hdr-photo-on-iphone-camera/"><u>2024 Approved The Ultimate Guide of HDR Photo on iPhone Camera</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2003-cannot-access-the-file-error-by-stellar-guide/"><u>Fixed Microsoft Excel 2003 Cannot Access the File Error</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/fl-studios-approach-to-cautious-sound-dimming/"><u>FL Studio's Approach to Cautious Sound Dimming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-infinite-frontier-the-best-sci-fi-films-that-redefine-universes/"><u>In 2024, Infinite Frontier The Best Sci-Fi Films That Redefine Universes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-microsoft-copilot-tips-and-tricks-to-craft-distinctive-ai-artwork/"><u>Mastering Microsoft Copilot: Tips and Tricks to Craft Distinctive AI Artwork</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-copilot-vs-chatgpt-discover-4-compelling-reasons-to-switch/"><u>Microsoft Copilot Vs. ChatGPT: Discover 4 Compelling Reasons to Switch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/narrative-crafting-via-chatgpt-text-games/"><u>Narrative Crafting via ChatGPT Text Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-fresh-twitter-conspiracies-the-inception-of-meta-verification-and-a-deep-dive-into-chatgpt/"><u>Navigating Through Fresh Twitter Conspiracies: The Inception of Meta Verification & A Deep Dive Into ChatGPT-</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-level-imagery-discovering-8-powerful-dall-e-3-creative-triggers/"><u>Next Level Imagery: Discovering 8 Powerful DALL-E 3 Creative Triggers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nourish-and-delight-ai-driven-culinary-techniques-youll-love/"><u>Nourish and Delight: AI-Driven Culinary Techniques You'll Love</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-boundaries-with-ease-accessing-chatgpt-from-any-corner-of-the-world-using-everywhere-app/"><u>Overcome Boundaries with Ease: Accessing ChatGPT From Any Corner of the World Using Everywhere App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-compatibility-woes-9-effective-ways-to-get-it-working-on-ios-devices/"><u>Overcoming ChatGPT Compatibility Woes: 9 Effective Ways to Get It Working on iOS Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pivot-your-passions-learning-designing-through-gpt-my-bots-mastery/"><u>Pivot Your Passions: Learning, Designing Through GPT-My Bots Mastery</u></a></li>
 </ul></div>
 

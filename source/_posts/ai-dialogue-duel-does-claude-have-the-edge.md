@@ -1,7 +1,7 @@
 ---
 title: "AI Dialogue Duel: Does Claude Have The Edge?"
-date: 2024-09-25T17:22:27.910Z
-updated: 2024-09-29T18:41:57.210Z
+date: 2024-09-27T21:54:47.552Z
+updated: 2024-10-04T20:55:41.897Z
 tags:
   - chatgpt
   - open-ai
@@ -75,19 +75,19 @@ ChatGPT also cracked the problem as well.
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
@@ -103,6 +103,13 @@ ChatGPT also cracked the problem as well.
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
@@ -124,13 +131,6 @@ ChatGPT also cracked the problem as well.
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
@@ -138,10 +138,10 @@ ChatGPT also cracked the problem as well.
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
@@ -163,22 +163,16 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-experts-choice-top-10-high-definition-screen-recorders/"><u>[New] In 2024, Expert's Choice Top 10 High-Definition Screen Recorders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>[Updated] 2024 Approved Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-enhance-watch-list-with-film-selections/"><u>[Updated] In 2024, Enhance Watch List with Film Selections</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-googleplus-virtuosos-snapchat-highlights/"><u>[Updated] In 2024, Google+ Virtuosos' Snapchat Highlights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transforming-flat-text-into-sculptable-3d-characters/"><u>[Updated] In 2024, Transforming Flat Text Into Sculptable 3D Characters</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-quality-control-best-free-lut-selections-and-links-reviewed/"><u>2024 Approved Quality Control Best Free LUT Selections & Links Reviewed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exposing-the-5-hidden-risks-of-using-advanced-language-models/"><u>Exposing the 5 Hidden Risks of Using Advanced Language Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-algorithms-to-amusement-the-evolution-of-game-design-with-ai/"><u>From Algorithms to Amusement: The Evolution of Game Design with AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/game-on-with-chatgpt-heres-a-roundup-of-the-best-6-games-available/"><u>Game On with ChatGPT! Here's a Roundup of the Best 6 Games Available</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-4-versus-gpt-n-variants-analyzing-the-key-differences-amongst-ai-models/"><u>GPT-4 Versus GPT-N Variants: Analyzing the Key Differences Amongst AI Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-palm-2-elevates-googles-bard-ai-discover-the-7-key-improvements/"><u>How PaLM 2 Elevates Google's Bard AI - Discover the 7 Key Improvements</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-spotify-uses-advanced-ai-tricks-to-enhance-user-experience-brilliantly/"><u>How Spotify Uses Advanced AI Tricks to Enhance User Experience Brilliantly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-run-chatgpt-locally-as-a-desktop-application/"><u>How to Run ChatGPT Locally as a Desktop Application</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-professional-meeting-aesthetics-blur-backgrounds-tips/"><u>In 2024, Professional Meeting Aesthetics Blur Backgrounds Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-workout-blueprinting-with-ai-partnership/"><u>Intelligent Workout Blueprinting with AI Partnership</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kickstarting-your-journey-in-the-field-of-prompt-engineering/"><u>Kickstarting Your Journey in the Field of Prompt Engineering</u></a></li>
-<li><a href="https://solve-news.techidaily.com/utilizing-cookiebot-technology-for-enhanced-online-analytics/"><u>Utilizing Cookiebot Technology for Enhanced Online Analytics</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sharpen-your-skills-with-these-essential-pixlr-tips/"><u>[Updated] Sharpen Your Skills with These Essential Pixlr Tips</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-8-iphone-accessories-elevate-your-selfies-today/"><u>2024 Approved Top 8 iPhone Accessories - Elevate Your Selfies Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-leap-forward-openais-innovative-gpt-4/"><u>AI Leap Forward: OpenAI's Innovative GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-redefining-creativitys-boundaries/"><u>Artificial Intelligence Redefining Creativity's Boundaries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-the-magic-of-merging-imagination-with-real-life/"><u>Artificial Intelligence: The Magic of Merging Imagination with Real Life</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/auto-gpt-vs-gpt-4-practical-value/"><u>Auto-GPT Vs. GPT-4: Practical Value?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-play-8t-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Play 8T Devices | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-creative-commons-rights-step-by-step-tutorial-for-2024/"><u>Navigating Creative Commons Rights Step-by-Step Tutorial for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-chatgpt-for-your-computer-instead-of-the-online-platform/"><u>Why Choose ChatGPT for Your Computer Instead of the Online Platform?</u></a></li>
 </ul></div>
 

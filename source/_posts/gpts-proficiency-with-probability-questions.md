@@ -1,7 +1,7 @@
 ---
 title: GPT's Proficiency with Probability Questions
-date: 2024-09-16T00:06:16.806Z
-updated: 2024-09-22T18:33:19.368Z
+date: 2024-09-28T07:51:36.044Z
+updated: 2024-10-04T20:15:09.128Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/7d3065fcdfe9db90286c449b10e38a4d31d450abe
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
  Aside from taking images as input, ChatGPT can also generate DALL-E images within the interaction.
@@ -53,21 +60,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
 
@@ -79,16 +87,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -99,13 +107,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Pairing this feature with ChatGPT's browsing and memory functionality allows for a highly versatile AI companion. This enhanced version of ChatGPT can now better assist you with shopping, planning, and organizing. GPT-4o's conversation functionality makes it possible to use ChatGPT as a hands-free assistant using voice commands, making it easier to interact with the AI while you're on the go or multitasking.
 
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Upgraded Code Analysis
 
@@ -118,13 +119,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Temporary Chat
 
@@ -149,5 +143,23 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-lenovo-quick-guide-effortless-screenshots/"><u>[New] In 2024, Lenovo Quick Guide Effortless Screenshots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-shooting-and-editing-slow-motion-content-for-instagram-for-2024/"><u>[Updated] The Art of Shooting and Editing Slow Motion Content for Instagram for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-inspiration-6-new-ways-to-write-with-gpt-3/"><u>AI Inspiration: 6 New Ways to Write With GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-productivity-and-ease-10-most-effective-ai-pdf-tools/"><u>Boost Productivity & Ease: 10 Most Effective AI PDF Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-group-discussions-by-incorporating-gpt-3/"><u>Boosting Group Discussions by Incorporating GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-siri-perfecting-iphone-conversations/"><u>ChatGPT and Siri: Perfecting iPhone Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-personal-linguist-tips-and-tricks-for-seamless-language-translation/"><u>ChatGPT as Your Personal Linguist: Tips and Tricks for Seamless Language Translation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-3-unveiled-exploring-its-capabilities/"><u>Claude 3 Unveiled: Exploring Its Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/code-companion-showdown-determining-superiority-between-github-copilot-and-chatgpt-for-developers/"><u>Code Companion Showdown: Determining Superiority Between GitHub Copilot and ChatGPT for Developers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/efficient-techniques-for-srt-files-on-twitter-facebook/"><u>Efficient Techniques for SRT Files on Twitter, Facebook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-hogwarts-legacy-on-windows/"><u>How to Fix the Out of Video Memory Error in Hogwarts Legacy on Windows</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-smart-7-hd-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Smart 7 HD Through Google Earth?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo Find X7 Ultra FRP</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-magic-6-lite-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor Magic 6 Lite Fingerprint Not Working Solutions</u></a></li>
+</ul></div>
 
