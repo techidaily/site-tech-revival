@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers in AI Security: How Do Prompt Injections Work?"
-date: 2024-10-01T09:56:22.534Z
-updated: 2024-10-04T19:21:45.538Z
+date: 2024-10-03T17:56:27.501Z
+updated: 2024-10-10T17:42:50.516Z
 tags:
   - chatgpt
   - open-ai
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
@@ -58,35 +51,41 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  However, all of these message rates are the best you will get. As ChatGPT becomes the crutch for more businesses and individuals, usage and availability will likely decline (temporarily) in the near future. Based on this, you'd likely want a Plus subscription to insure against crowded conditions.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Retain Access to GPT-4 Turbo
 
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
 
  OpenAI will allow Free users to access the GPT store and use custom GPTs as part of its free package. However, this allowance doesn't extend to the creation of custom GPTs.
 
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4 Generate Images With DALL-E
 
@@ -95,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -106,16 +112,16 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -140,24 +146,22 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-flipping-frames-innovative-techniques-for-backward-viewing-on-yt-for-2024/"><u>[New] Flipping Frames Innovative Techniques for Backward Viewing on YT for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-street-smart-showdown-top-hand-to-hand-video-games/"><u>[Updated] 2024 Approved Street Smart Showdown Top Hand-to-Hand Video Games</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-best-10-drones-for-high-quality-cinematography/"><u>[Updated] Best 10 Drones for High-Quality Cinematography</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-editing-pro-tips-for-aspiring-sports-video-makers-for-2024/"><u>[Updated] Editing Pro Tips for Aspiring Sports Video Makers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-bluetooth-remotes-and-controllers-for-easy-shooting/"><u>[Updated] In 2024, Bluetooth Remotes and Controllers for Easy Shooting</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capturing-the-cloud-proven-methods-for-perfecting-drones-in-post-production/"><u>2024 Approved Capturing the Cloud Proven Methods for Perfecting Drones in Post-Production</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-art-of-describing-your-podcast-with-flair/"><u>2024 Approved The Art of Describing Your Podcast with Flair</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/advanced-screen-recording-suite-for-windows-and-macos-for-2024/"><u>Advanced Screen Recording Suite for Windows & macOS for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-bridges-of-understanding-a-guide-to-ei/"><u>Building Bridges of Understanding: A Guide to EI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-wisdom-for-youths-top-5-strategies-for-safe-interaction/"><u>ChatBot Wisdom for Youths: Top 5 Strategies for Safe Interaction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-coach-techniques-to-develop-emotional-intelligence-skills/"><u>ChatGPT as Your Coach: Techniques to Develop Emotional Intelligence Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-unveiled-transform-your-ride-with-innovative-modification-strategies/"><u>ChatGPT Unveiled: Transform Your Ride with Innovative Modification Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clear-definitions-of-gaming-mice/"><u>Clear Definitions of Gaming Mice</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722898620763-comprehensive-solution-to-fix-d3dx941dll-not-found-mistake-quickly/"><u>Comprehensive Solution to Fix 'd3dx9_41.dll Not Found' Mistake Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-compelling-dandd-character-concepts-with-chatgpt-and-dall-e/"><u>Creating Compelling D&D Character Concepts with ChatGPT and DALL-E</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-mistakes-to-prevent-for-successful-deployment-of-genai-tools/"><u>Critical Mistakes to Prevent for Successful Deployment of GenAI Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cut-through-web-development-hurdles-with-fourfold-gpt-guidance/"><u>Cut Through Web Development Hurdles with Fourfold GPT Guidance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cybersecurity-concerns-identifying-why-chatgpt-is-a-hotspot-for-hacker-activities/"><u>Cybersecurity Concerns: Identifying Why ChatGPT Is a Hotspot for Hacker Activities</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-streamlining-your-filming-setup-the-beginners-companion/"><u>[New] Streamlining Your Filming Setup The Beginner's Companion</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-prime-facebook-extra-tools-secure-file-grabber-firefox-version/"><u>[Updated] In 2024, Prime Facebook Extra Tools Secure File Grabber, Firefox Version</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-editors-journey-mastering-the-art-of-youtube-cuts/"><u>[Updated] In 2024, The Editor's Journey Mastering the Art of Youtube Cuts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-speedy-windows-file-checkout-tutorial/"><u>2024 Approved Speedy Windows File Checkout Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/brief-blueprints-iphone-content-for-desktop/"><u>Brief Blueprints IPhone Content for Desktop</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-lava-blaze-curve-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-versions-unpacking-the-distinctions-between-gpt-4-gpt-4-turbo-and-gpt-n/"><u>Comparing Versions: Unpacking the Distinctions Between GPT-4, GPT-4 Turbo, and GPT-N</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-to-iphone-notes-recovery-regain-all-deleted-content/"><u>Complete Guide to iPhone Notes Recovery - Regain All Deleted Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-how-large-language-models-operate/"><u>Comprehensive Guide to How Large Language Models Operate</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-enabled-marketing-automation-for-optimal-conversions/"><u>Cookiebot-Enabled Marketing Automation for Optimal Conversions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-emotion-artificial-intelligence-grasp-human-sentiments-accurately/"><u>How Does Emotion Artificial Intelligence Grasp Human Sentiments Accurately?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-chatgpt-to-write-a-poem/"><u>How to Use ChatGPT to Write a Poem</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immediate-integration-guide-for-gpt-4-in-chatgpt-applications/"><u>Immediate Integration Guide for GPT-4 in ChatGPT Applications</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nubia-red-magic-8s-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nubia Red Magic 8S Pro to Outlook | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nvidias-custom-ai-foundations-demystified-who-can-benefit-from-this-generative-technology/"><u>NVIDIA's Custom AI Foundations Demystified – Who Can Benefit From This Generative Technology?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-technologies-shaping-the-future-of-ai-hardware-5-picks/"><u>Pioneering Technologies Shaping the Future of AI Hardware (5 Picks)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/which-artificial-intelligence-wins-an-in-depth-comparison-of-chatgpt-vs-microsoft-bing-vs-google-bard/"><u>Which Artificial Intelligence Wins? An In-Depth Comparison of ChatGPT Vs. Microsoft Bing Vs. Google Bard</u></a></li>
 </ul></div>
 

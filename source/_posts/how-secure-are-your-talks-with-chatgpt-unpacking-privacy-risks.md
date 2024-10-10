@@ -1,7 +1,7 @@
 ---
 title: How Secure Are Your Talks with ChatGPT – Unpacking Privacy Risks
-date: 2024-10-01T00:19:50.423Z
-updated: 2024-10-05T05:52:21.626Z
+date: 2024-10-03T17:28:19.619Z
+updated: 2024-10-10T18:38:45.822Z
 tags:
   - chatgpt
   - open-ai
@@ -36,22 +36,15 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  Ethical considerations aside, there are serious concerns that Open AI is violating the General Data Protection Regulation (GDPR), and other similar privacy laws. Due to these concerns,[Italy officially banned ChatGPT](https://www.makeuseof.com/why-has-italy-banned-chatgpt/) in March 2023, with the country's data protection authority accusing Open AI of violating user privacy with its data collection practices in more than one way.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT's Privacy Policy: What You Need to Know
 
 ![ChatGPT logo on dark purple background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-privacy-policy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  How much data does OpenAI collect from ChatGPT users directly, and how? The service's[privacy policy](https://openai.com/policies/privacy-policy) offers some answers.
@@ -64,16 +57,22 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the[FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
 
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
 
@@ -83,15 +82,28 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the[California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/) . So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is It Time to Regulate ChatGPT?
@@ -119,24 +131,24 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-crafting-captivating-content-the-role-of-captions-in-tiktok-for-2024/"><u>[New] Crafting Captivating Content The Role of Captions in TikTok for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-foremost-frame-starters-leading-16-youtube-videos-for-more-watchers/"><u>[Updated] Foremost Frame Starters Leading 16 YouTube Videos for More Watchers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-instant-recovery-of-vanished-visuals/"><u>[Updated] Instant Recovery of Vanished Visuals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-vids-in-verse-strategies-for-effective-twitter-video-downloads-for-2024/"><u>[Updated] Vids in Verse Strategies for Effective Twitter Video Downloads for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-google-unlock-without-password-by-drfone-android/"><u>5 Solutions For Google Unlock Without Password</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-giants-in-ai-the-critical-variances-between-gpt-4-and-gpt-35/"><u>Comparing Giants in AI: The Critical Variances Between GPT-4 and GPT-3.5.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dangers-dont-get-a-chatgpt-androidios-app/"><u>Dangers: Don't Get a ChatGPT Android/iOS App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detailed-insight-into-the-operation-of-shared-chatgpt-links/"><u>Detailed Insight Into the Operation of Shared ChatGPT Links</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/expert-approved-mkv-trimmers-for-mac-for-2024/"><u>Expert-Approved MKV Trimmers for Mac for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-started-with-discreet-communication-experience-duckduckgos-ai-and-alternatives/"><u>Get Started with Discreet Communication: Experience DuckDuckGo's AI & Alternatives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-started-with-gpt-ngpt-free-access-tactics-you-need/"><u>Get Started with GPT-nGPT - FREE Access Tactics You Need</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guarding-against-glossed-over-nuances-by-ai-summarization-tools/"><u>Guarding Against Glossed Over Nuances by AI Summarization Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-ai-top-10-chatgpt-and-vs-code-tactics/"><u>Harness the Power of AI: Top 10 ChatGPT & VS Code Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-chatgpt-for-individualized-exercise-plans/"><u>Harnessing ChatGPT for Individualized Exercise Plans</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-learning-chatgpt-can-advance-your-career-a-guide-for-job-hunters-and-employees/"><u>How Learning ChatGPT Can Advance Your Career: A Guide for Job Hunters & Employees</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-xr-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone XR with a Broken Screen?</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/master-the-tech-how-to-mirror-windows-on-your-android-smartphone-or-tablet/"><u>Master the Tech: How to Mirror Windows on Your Android Smartphone or Tablet</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/social-synergy-optimizing-your-facebook-linkedin-and-youtube-strategy/"><u>Social Synergy: Optimizing Your Facebook, LinkedIn, and YouTube Strategy</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-breathing-life-into-your-sound-a-comprehensive-guide-to-modifying-your-natural-voice-for-2024/"><u>Updated Breathing Life Into Your Sound A Comprehensive Guide to Modifying Your Natural Voice for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fb-content-ban-know-your-rights-when-videos-get-pulled/"><u>[New] FB Content Ban Know Your Rights When Videos Get Pulled</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-get-started-building-time-lapse-expertise-with-gopro-software/"><u>[New] How to Get Started Building Time-Lapse Expertise with GoPro Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-change-default-image-savings-in-os-x-for-2024/"><u>[Updated] Change Default Image Savings in OS X for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unlocking-classic-facebook-narratives-laptop-and-mobile-strategies/"><u>[Updated] In 2024, Unlocking Classic Facebook Narratives Laptop & Mobile Strategies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exceptional-book-video-examples/"><u>2024 Approved Exceptional Book Video Examples</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-lava-yuva-3-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Lava Yuva 3 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-in-comedy-plus-chronological-journey-from-early-laptops-to-advanced-vpns/"><u>Artificial Intelligence in Comedy + Chronological Journey From Early Laptops to Advanced VPNs</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-service-installation-issues-resolved-quick-fix-guide/"><u>BattlEye Service Installation Issues Resolved - Quick Fix Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-news-update-what-you-need-to-know-now/"><u>Google News Update: What You Need to Know Now!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-zero-30-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Zero 30 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lingo-uncovered-exploring-english-slang-and-its-origins/"><u>Lingo Uncovered: Exploring English Slang and Its Origins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-professional-communication-leveraging-chatgpt-for-crafting-tough-workplace-emails/"><u>Mastering Professional Communication: Leveraging ChatGPT for Crafting Tough Workplace Emails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-discovering-how-generative-ai-enhances-interaction-and-creativity/"><u>Navigating ChatGPT: Discovering How Generative AI Enhances Interaction and Creativity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reinventing-home-management-using-gpt-capabilities/"><u>Reinventing Home Management Using GPT Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-chatgpt-widget-into-your-android-device/"><u>Step-by-Step Guide: Integrating ChatGPT Widget Into Your Android Device</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-edgeplus-2023-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-enigma-of-reality-meets-fiction-8-intriguing-ways-artificial-intelligence-makes-it-happen/"><u>Unveiling the Enigma of Reality Meets Fiction: 8 Intriguing Ways Artificial Intelligence Makes It Happen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-role-of-ai-assistants-in-shaping-todays-content-generation-strategies/"><u>Unveiling the Role of AI Assistants in Shaping Today's Content Generation Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/your-first-steps-towards-smarter-searches-setting-up-on-the-bing-platform-with-ai-integration/"><u>Your First Steps Towards Smarter Searches: Setting Up on the Bing Platform with AI Integration</u></a></li>
 </ul></div>
 

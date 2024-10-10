@@ -1,7 +1,7 @@
 ---
 title: Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques
-date: 2024-09-28T20:20:58.286Z
-updated: 2024-10-05T02:30:49.905Z
+date: 2024-10-04T18:43:32.910Z
+updated: 2024-10-10T16:52:51.231Z
 tags:
   - chatgpt
   - open-ai
@@ -39,15 +39,22 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -60,10 +67,16 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
@@ -78,13 +91,6 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -114,10 +120,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -141,15 +147,14 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-framing-frontiers-cutting-edge-app-innovations-24/"><u>[New] Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-rapidly-rise-as-a-social-media-star-on-instagram/"><u>[New] In 2024, Rapidly Rise as a Social Media Star on Instagram</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-intenseflame-screen-recorders-for-2024/"><u>[New] IntenseFlame Screen Recorders for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-artificial-intelligence-the-role-of-ai-prompt-engineering-in-future-jobs/"><u>Exploring Artificial Intelligence: The Role of AI Prompt Engineering in Future Jobs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-predictive-ai-insights-into-its-inner-workings-and-capabilities/"><u>Exploring Predictive AI: Insights Into Its Inner Workings and Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-benefits-of-using-claude-artificial-intelligence-your-ultimate-guide/"><u>Exploring the Benefits of Using Claude Artificial Intelligence - Your Ultimate Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-divide-in-depth-analysis-of-gpt-and-berts-unique-capabilities/"><u>Exploring the Divide: In-Depth Analysis of GPT and BERT's Unique Capabilities</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-your-realme-v30-lock-screen-password-by-drfone-android/"><u>How to Reset your Realme V30 Lock Screen Password</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/securing-fb-videos-download-on-pcmac-systems-for-2024/"><u>Securing FB Videos Download on PC/Mac Systems for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-persistent-stutters-in-overwatch-gameplay/"><u>Troubleshooting Guide: Fixing Persistent Stutters in Overwatch Gameplay</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-excellence-on-the-screen-best-six-video-tools-for-big-sur/"><u>2024 Approved Excellence on the Screen Best Six Video Tools for Big Sur</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-logitech-brio-webcam-drivers-for-your-windows-11-8-or-7-device/"><u>Get the Logitech Brio Webcam Drivers for Your Windows 11, 8 or 7 Device</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-simplifying-the-process-sharing-tiktok-content-with-facebook/"><u>In 2024, Simplifying the Process Sharing TikTok Content with Facebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macos-ubuntu-users-welcome-protonpass-integration-expanding-secure-access-across-operating-systems/"><u>MacOS, Ubuntu Users Welcome ProtonPass Integration: Expanding Secure Access Across Operating Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-daily-productivity-a-complete-guide-to-managing-lifes-tasks-with-trello/"><u>Mastering Daily Productivity: A Complete Guide to Managing Life's Tasks with Trello</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-tech-terrain-avoiding-common-pitfalls-insights-on-8-beginner-errors-and-how-to-steer-clear/"><u>Navigating the Tech Terrain: Avoiding Common Pitfalls - Insights on 8 Beginner Errors and How to Steer Clear</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-data-avoid-the-whatsapp-disaster-that-deleted-five-years-of-memories/"><u>Protect Your Data: Avoid the WhatsApp Disaster That Deleted Five Years of Memories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/stardom-awaits-navigate-through-these-9-instagram-insights/"><u>Stardom Awaits! Navigate Through These 9 Instagram Insights</u></a></li>
 </ul></div>
 

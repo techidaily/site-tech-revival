@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: The Future Technology Unveiled"
-date: 2024-10-03T19:10:46.386Z
-updated: 2024-10-05T05:46:35.767Z
+date: 2024-10-06T18:16:56.614Z
+updated: 2024-10-10T17:13:01.713Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Vector Databases Help Boost AI
 
  Vector embeddings are important components in training various types of AI models. Having a specialized database that can store, index, and query vector embeddings is essential to maximize the benefits of using vector embeddings. Furthermore, vector databases boost your AI by being a fast, reliable, and scalable database that can continuously help grow and train an AI model.
@@ -61,22 +75,15 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Image and Video Analysis:** With video and image embedding models, AI models can be fine-tuned to work with images to find items that look similar to the query. This is currently being implemented in many online shopping apps and websites.
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How a Vector Database Works
 
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -84,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -102,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Future of Vector Databases
@@ -129,22 +129,19 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-end-game-for-youtube-content-pros-secrets-and-templates/"><u>[New] In 2024, End Game for YouTube Content Pros' Secrets & Templates</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-perfecting-audio-quality-a-no-mic-approach/"><u>[New] Perfecting Audio Quality A No-Mic Approach</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-yis-4k-capability-in-action-capture/"><u>2024 Approved Yi's 4K Capability in Action Capture</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/affordable-excellence-comprehensive-oneplus-nord-n1-revealed-review/"><u>Affordable Excellence: Comprehensive OnePlus Nord N1# Revealed Review</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/detect-and-eliminate-comprehensive-tips-for-finding-and-cleaning-your-phone-of-malicious-software/"><u>Detect & Eliminate: Comprehensive Tips for Finding and Cleaning Your Phone of Malicious Software</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/discovering-top-tier-language-mastery-with-mondly/"><u>Discovering Top-Tier Language Mastery with Mondly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tech-meets-talk-mercedes-innovative-vehicle-integration/"><u>Tech Meets Talk: Mercedes' Innovative Vehicle Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-frontier-of-tech-ai-grasping-the-spectrum-of-emotion/"><u>The Frontier of Tech: AI Grasping the Spectrum of Emotion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-insight-into-ai-hallucinations-tips-for-spotting-them-effectively/"><u>The Insight Into AI Hallucinations: Tips for Spotting Them Effectively</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-smart-8-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Smart 8 without backup.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-dall-es-creative-images-from-webp-to-pngjpg/"><u>Transforming DALL-E's Creative Images From WebP to PNG/JPG</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-gptbot-reasons-behind-website-restrictions/"><u>Understanding GPTBot: Reasons Behind Website Restrictions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-top-three-privacy-threats-linked-with-using-chatbots/"><u>Understanding the Top Three Privacy Threats Linked with Using Chatbots</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-chatgpt-top-5-strategies-for-usage-without-a-premium-sign-up/"><u>Unlocking ChatGPT: Top 5 Strategies for Usage Without a Premium Sign-Up</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-scholarship-success-with-artificial-intelligence-techniques/"><u>Unlocking Scholarship Success with Artificial Intelligence Techniques</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/windows-1011m4awav/"><u>Windows 10/11向けM4AからWAVへの自由ソフトウェア・サイトリコメンド：変換ガイド</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/onquering-the-fan-base-youtubes-pathway-to-more-followers/"><u>[New] Conquering the Fan Base YouTube's Pathway to More Followers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-rhythmripper-screen-recordings-review/"><u>[New] In 2024, RhythmRipper Screen Recordings Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-real-time-streaming-methods-for-facebook-video-uploads-for-2024/"><u>[New] Real-Time Streaming Methods for Facebook Video Uploads for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-step-into-the-future-elevate-your-gameplay-with-fbx-recorder/"><u>[Updated] In 2024, Step Into the Future Elevate Your Gameplay with FBX Recorder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/enhancing-engagement-tweeting-for-fb-exposure-for-2024/"><u>Enhancing Engagement Tweeting for FB Exposure for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-100-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor 100 Pro Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macbook-air-vs-macbook-pro-understanding-key-features-and-performance/"><u>MacBook Air vs MacBook Pro: Understanding Key Features & Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/making-mac-peripherals-play-nice-with-pcs-the-ultimate-guide-for-windows-users-adapting-keyboards-mice-and-trackpads/"><u>Making Mac Peripherals Play Nice with PCs: The Ultimate Guide for Windows Users Adapting Keyboards, Mice & Trackpads!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-task-management-transforming-microsoft-word-into-an-effective-bullet-journal-for-personal-goal-tracking/"><u>Mastering Task Management: Transforming Microsoft Word Into an Effective Bullet Journal for Personal Goal Tracking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-switch-top-6-essential-tips-for-transitioning-from-windows-to-linux-seamlessly/"><u>Mastering the Switch: Top 6 Essential Tips for Transitioning From Windows to Linux Seamlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-touch-utility-a-step-by-step-guide-for-linux-users/"><u>Mastering the Touch Utility: A Step-by-Step Guide for Linux Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/izing-success-a-guide-to-purchasing-youtube-content-for-2024/"><u>Monetizing Success A Guide to Purchasing YouTube Content for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-metaverse-awaits-gear-up-with-these-tools/"><u>The Metaverse Awaits Gear Up with These Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-asus-rt-ac88u-a-detailed-look-at-its-gaming-capabilities/"><u>Unveiling The Power of Asus RT-AC88U: A Detailed Look at Its Gaming Capabilities</u></a></li>
 </ul></div>
 

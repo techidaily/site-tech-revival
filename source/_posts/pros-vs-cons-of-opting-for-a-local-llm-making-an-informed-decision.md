@@ -1,7 +1,7 @@
 ---
 title: Pros Vs. Cons of Opting for a Local LLM – Making an Informed Decision
-date: 2024-10-02T22:04:20.376Z
-updated: 2024-10-04T22:25:23.858Z
+date: 2024-10-05T17:16:14.299Z
+updated: 2024-10-10T16:16:03.942Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -60,20 +60,13 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -85,6 +78,13 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -114,10 +114,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -141,17 +141,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-quick-and-fun-make-a-meme-with-kinemaster/"><u>[New] 2024 Approved Quick & Fun Make a Meme with KineMaster</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-step-by-step-turn-your-images-darker/"><u>[New] Step-by-Step Turn Your Images Darker</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-image-trimming-techniques-apples-ios-solutions/"><u>2024 Approved Image Trimming Techniques Apple's iOS Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-streaming-to-the-next-level-the-top-5-game-cameras-reviewed/"><u>2024 Approved Streaming to the Next Level The Top 5 Game Cameras Reviewed</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/editing-iphones-voice-memo-files-a-comprehensive-guide-with-inbuilt-and-external-software/"><u>Editing iPhone's Voice Memo Files: A Comprehensive Guide with Inbuilt and External Software</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-recovery-magic-no-backup-required-unveiling-the-secrets-with-stellar/"><u>IPhone Recovery Magic: No Backup Required! Unveiling the Secrets with Stellar</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-giants-how-facebook-stacks-up-against-twitter-instagram-and-youtube/"><u>Social Media Giants: How Facebook Stacks Up Against Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/these-4-ingenious-ai-storytellers-deserve-your-attention/"><u>These 4 Ingenious AI Storytellers Deserve Your Attention</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-7-methods-to-enhance-your-chatgpt-interactions/"><u>Top 7 Methods to Enhance Your ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-solutions-to-top-6-vehicle-ai-installation-problems/"><u>Unveiling Solutions to Top 6 Vehicle AI Installation Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/utilizing-chatgpt-for-professional-presentation-design/"><u>Utilizing ChatGPT for Professional Presentation Design</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-leading-6-fiscal-sensible-options-in-high-res-projection-for-2024/"><u>[New] Leading 6 Fiscal Sensible Options in High-Res Projection for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-tips-for-immaculate-nighttime-photography-for-2024/"><u>[New] Tips for Immaculate Nighttime Photography for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ais-expanding-footprint-in-misinformation/"><u>AI's Expanding Footprint in Misinformation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/all-about-asus-zephyrus-g14-a-detailed-review-on-how-it-redefines-no-compromise-gaming/"><u>All About Asus Zephyrus G14 - A Detailed Review on How It Redefines No-Compromise Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-and-strategies-for-overcoming-structural-failures-during-demolitions/"><u>Expert Tips and Strategies for Overcoming Structural Failures During Demolitions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-issues-top-2024-solutions-for-the-common-among-us-game-crashes/"><u>Fixing Persistent Issues: Top 2024 Solutions for the Common 'Among Us' Game Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-evolved-introducing-razers-v4-hot-swap-design/"><u>Gaming Evolved: Introducing Razer’s V4 Hot-Swap Design</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-oppo-reno-11-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Oppo Reno 11 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-through-chatgpts-body-stream-trouble-here-are-7-proven-solutions/"><u>Navigating Through ChatGPT's Body Stream Trouble? Here Are 7 Proven Solutions!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-perils-of-substituting-real-therapy-with-ai-assistance/"><u>The Hidden Perils of Substituting Real Therapy with AI Assistance</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-avi-video-reader-apps-for-macos-users/"><u>Top Rated AVI Video Reader Apps for macOS Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-workforce-dynamics-with-ai-innovations/"><u>Transforming Workforce Dynamics with AI Innovations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-rated-free-mkv-cutting-software/"><u>Updated In 2024, Top-Rated Free MKV Cutting Software</u></a></li>
 </ul></div>
 

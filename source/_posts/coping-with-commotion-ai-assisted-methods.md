@@ -1,7 +1,7 @@
 ---
 title: "Coping with Commotion: AI-Assisted Methods"
-date: 2024-09-28T19:21:34.334Z
-updated: 2024-10-04T20:05:29.744Z
+date: 2024-10-05T17:24:49.679Z
+updated: 2024-10-10T16:49:05.019Z
 tags:
   - chatgpt
   - open-ai
@@ -34,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  While it may seem easy to outsource everything to ChatGPT, you should merely use it as a starting point. It's critical to add your personality to any content that carries the brand of your business.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Generate Social Media Posts Out of Existing Content
 
 ![Use ChatGPT to Make  Social Media Posts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-make-social-media-posts.jpg)
 
  If you’ve penned a blog but lack the copywriting flair for social media promotion, simply provide ChatGPT with your blog and let it craft the perfect social media post. You can also experiment with various tones to find the perfect match for your brand and audience.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Fill In Templates
 
@@ -55,22 +55,29 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  Just copy and paste your template into ChatGPT, ensuring it has all the necessary placeholders. Supply it with all it needs to fill in the placeholders and let it fill in the template. Once ChatGPT finishes generating a personalized message for each customer, all that’s left for you to do is copy and send them to your customers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Make Text Excel-Friendly
 
 ![Use ChatGPT to Convert Text to Excel-Friendly Data-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/use-chatgpt-to-convert-text-to-excel-friendly-data-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Most inventory systems necessitate inputting data into an Excel sheet, which can become problematic if all your information is stored in your smart device’s notes or even in a more traditional format, such as handwritten records in a notebook. Transferring this data into an Excel sheet can be a laborious and time-consuming process.
 
  ChatGPT can help you move all your data into Excel seamlessly. If your data is in a text format, you can copy-paste it directly into ChatGPT. If your inventory is in a handwritten note,[scan the handwritten note and copy its text with OCR](https://www.makeuseof.com/tag/convert-handwriting-text-ocr/) .
 
  Paste the text into ChatGPT and instruct it to make columns based on your preference. Don’t forget to tell it to make the data easily copy-pastable into Excel.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Modify Text According to a Specified Format
 
@@ -87,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 * Format numbers (for example, 60000 to 60,000)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Translate Languages
@@ -104,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 ## 8\. Create FAQ Lists
 
 ![Ask ChatGPT to Create FAQs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ask-chatgpt-to-create-faqs.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Supply ChatGPT with details about your business, products, and target audience, and it can generate a list of FAQs tailored to your business. This can offer insights into what your customers are likely to inquire about. ChatGPT can also provide draft answers, leaving you to refine or correct them as needed.
 
@@ -133,14 +133,22 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-closer-look-at-huawei-p10s-security-measures/"><u>[New] A Closer Look at Huawei P10’s Security Measures</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-cutting-edge-tactics-for-grabbing-your-favorite-fb-vids-for-2024/"><u>[Updated] Cutting Edge Tactics for Grabbing Your Favorite FB Vids for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-swift-systems-for-securing-presentations/"><u>[Updated] In 2024, Swift Systems for Securing Presentations</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-imovie-harmony-blending-visuals-and-melodies/"><u>2024 Approved IMovie Harmony Blending Visuals and Melodies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-chatgpt-shared-urls-a-detailed-guide-on-their-operation/"><u>Exploring the World of ChatGPT Shared URLs – A Detailed Guide on Their Operation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expose-genuine-vs-impostor-chatbots-for-your-safety/"><u>Expose Genuine Vs. Impostor ChatBots for Your Safety</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/google-debuts-gemini-ai-is-it-a-worthy-rival-to-microsofts-chatgpt/"><u>Google Debuts Gemini AI - Is It a Worthy Rival to Microsoft's ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-sarah-silverman-and-fellow-creatives-are-challenging-openai-and-metas-use-of-ai-in-court/"><u>How Sarah Silverman and Fellow Creatives Are Challenging OpenAI and Meta's Use of AI in Court</u></a></li>
-<li><a href="https://win-forum.techidaily.com/mastering-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevate-your-learning-and-work-habits-top-ideas-for-combining-tasks-with-podcasts-for-2024/"><u>[New] Elevate Your Learning & Work Habits Top Ideas for Combining Tasks with Podcasts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-fine-tuning-your-audio-transitions-in-depth-insights-for-using-audacity/"><u>[New] In 2024, Fine-Tuning Your Audio Transitions In-Depth Insights for Using Audacity</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-your-quick-pathway-to-ipad-time-lapse-success-for-2024/"><u>[New] Your Quick Pathway to iPad Time-Lapse Success for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-jujutsu-kaisen-characters-in-the-world-of-tiktok-creatives/"><u>2024 Approved Jujutsu Kaisen Characters in the World of TikTok Creatives</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adapt-video-dimensions-anytime-anywhere/"><u>Adapt Video Dimensions Anytime, Anywhere</u></a></li>
+<li><a href="https://win-bits.techidaily.com/complete-step-by-step-tutorial-creating-custom-mp3-ringtones-on-your-iphone/"><u>Complete Step-by-Step Tutorial: Creating Custom MP3 Ringtones on Your iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-opportunities-and-security-concerns/"><u>Decoding AI: Opportunities & Security Concerns</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digital-charms-cybercriminals-ai-strategies/"><u>Digital Charms: Cybercriminals’ AI Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-chatgpt-on-your-android-device-today/"><u>Harness the Power of ChatGPT on Your Android Device Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mastering-lecture-capture-a-comprehensible-methodology-for-mac-users/"><u>In 2024, Mastering Lecture Capture A Comprehensible Methodology for Mac Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/interpreting-codegpt-could-it-be-the-next-programming-hero/"><u>Interpreting CodeGPT: Could It Be the Next Programming Hero?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-ai-with-chatgpt-to-compose-an-unforgettable-poetry-volume/"><u>Leveraging AI with ChatGPT to Compose an Unforgettable Poetry Volume</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-oriented-approach-for-enterprise-chatbots/"><u>Privacy-Oriented Approach for Enterprise ChatBots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-confidentiality-questions-surrounding-chatgpt/"><u>Understanding the Confidentiality Questions Surrounding ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-efficiency-with-google-sheets-top-14-capabilities-missed-in-microsoft-excel/"><u>Unlocking Efficiency with Google Sheets: Top 14 Capabilities Missed in Microsoft Excel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-shouldnt-overlook-chatgpt-plus-even-as-gpt-4-goes-gratis-6-key-reasons-explained/"><u>Why You Shouldn't Overlook ChatGPT Plus Even As GPT-4 Goes Gratis - 6 Key Reasons Explained</u></a></li>
 </ul></div>
 

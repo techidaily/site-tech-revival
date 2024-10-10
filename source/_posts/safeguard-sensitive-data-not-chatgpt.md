@@ -1,7 +1,7 @@
 ---
 title: Safeguard Sensitive Data, Not ChatGPT
-date: 2024-10-03T10:55:21.262Z
-updated: 2024-10-05T02:29:05.814Z
+date: 2024-10-08T18:06:52.352Z
+updated: 2024-10-10T17:17:20.236Z
 tags:
   - chatgpt
   - open-ai
@@ -38,28 +38,15 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  The app was swiftly taken off the Apple Store after several bad reviews. Was this plugin developed by the same person? We are not sure. But it sure has the same function—absolutely nothing.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Aaron Web Browser
 
 ![Aaron Web Browser on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/aaron-web-browser-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  “Built for scraping data from multiple website URLs.” This is the first sentence in the description for the plugin. One would think that the description accurately captures the plugin's capabilities, but upon closer inspection, it’s not entirely true. We tried to scrape data from 20 different URLs and only one went through.
@@ -81,22 +68,21 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
  Sure, it seems a bit unreasonable to expect a working text-to-app plugin that can spit out apps on demand. But in an era where chatbots can write code and where text-to-image and text-to-video are a thing, text-to-app is not that ridiculous of an expectation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. AI Agents
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
@@ -114,9 +100,23 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly[to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) . By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
@@ -143,21 +143,21 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-obtain-high-quality-unrestricted-photography/"><u>2024 Approved How To Obtain High-Quality, Unrestricted Photography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-optimize-playback-settings-in-snapchat-applications/"><u>2024 Approved How To Optimize Playback Settings in Snapchat Applications</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-x-imei-checker-by-drfone-ios/"><u>Best Free iPhone X IMEI Checker</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparative-tech-triumphs-gpt-vs-microsoftgoogles-innovations/"><u>Comparative Tech Triumphs: GPT Vs. Microsoft/Google's Innovations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cutting-edge-ai-imagery-with-no-license-fee/"><u>Cutting-Edge AI Imagery with No License Fee</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-how-ai-transforms-intellectual-property-laws/"><u>Decoding How AI Transforms Intellectual Property Laws</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-online-presence-the-dead-internet-theory-demystified-for-modern-users/"><u>Decoding Online Presence: The Dead Internet Theory Demystified for Modern Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detecting-artificial-intelligence-in-writing-with-gptzero-a-comprehensive-overview/"><u>Detecting Artificial Intelligence in Writing with GPTZero - A Comprehensive Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-future-of-web-browsing-with-ai-powered-microsoft-bing/"><u>Discover the Future of Web Browsing with AI-Powered Microsoft Bing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-14-ultra-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does 14 Ultra support AVCHD video?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-tech-game-the-top-9-reasons-to-go-for-chatgpt-plus-now/"><u>Elevate Your Tech Game: The Top 9 Reasons to Go for ChatGPT Plus Now</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-restore-your-turtle-beach-elite-70-mic-step-by-step-solutions/"><u>How To Restore Your Turtle Beach Elite 70 Mic - Step by Step Solutions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>In 2024, Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-cutting-edge-sound-isolation-for-video-content-a-comprehensive-overview-of-techniques/"><u>In 2024, Cutting-Edge Sound Isolation for Video Content A Comprehensive Overview of Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/legal-framework-the-fine-print-for-facebook-video-postings-for-2024/"><u>Legal Framework The Fine Print for Facebook Video Postings for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/tips-and-tricks-for-locating-recent-videos-youve-liked-for-2024/"><u>Tips & Tricks for Locating Recent Videos You've Liked for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unmarked-eyes-facebook-story-viewer/"><u>[New] 2024 Approved Unmarked Eyes Facebook Story Viewer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software/"><u>[New] Best Subtitle Converters Reviewed The Top 8 Win-OSX SBT to SRTS Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-video-realms-significant-post-vidcon-conclaves/"><u>[New] In 2024, Exploring Video Realms Significant Post-VidCon Conclaves</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-start-video-chatting-technique-for-snapchat-pros/"><u>[New] Quick-Start Video Chatting Technique for Snapchat Pros</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-scripting-a-riveting-movie-in-miniature/"><u>[New] Scripting a Riveting Movie-in-Miniature</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-fine-tuning-focus-on-youtube-threads/"><u>[Updated] 2024 Approved Fine-Tuning Focus on YouTube Threads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-really-earn-extra-income-with-these-8-chatgpt-side-businesses/"><u>Can You Really Earn Extra Income with These 8 ChatGPT Side Businesses?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-2-unveiled-discovering-its-functions-and-potential-uses/"><u>Claude 2 Unveiled: Discovering Its Functions and Potential Uses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-one-of-a-kind-ai-visuals-mastering-the-microsoft-copilot-image-maker/"><u>Creating One-of-a-Kind AI Visuals: Mastering the Microsoft Copilot Image Maker</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-and-deploy-any-of-these-8-cutting-edge-gpt-models-instantly/"><u>Discover and Deploy Any Of These 8 Cutting-Edge GPT Models Instantly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enjoy-a-trouble-free-avatar-journey-in-the-world-of-pandora-for-desktop-users/"><u>Enjoy a Trouble-Free Avatar Journey in the World of Pandora for Desktop Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-utilize-interactions-with-users-for-learning/"><u>How Does ChatGPT Utilize Interactions with Users for Learning?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-document-creation-using-our-list-of-10-best-chatgpt-plugins-for-pdfs/"><u>Simplify Document Creation Using Our List of 10 Best ChatGPT Plugins for PDFs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/alleled-video-intros-made-easy-with-online-tools-for-2024/"><u>Unparalleled Video Intros Made Easy with Online Tools for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/visionaries-unite-global-insights-on-ai-advancements/"><u>Visionaries Unite: Global Insights on AI Advancements</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-note-50-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme Note 50 Phone Network-Ready</u></a></li>
 </ul></div>
 

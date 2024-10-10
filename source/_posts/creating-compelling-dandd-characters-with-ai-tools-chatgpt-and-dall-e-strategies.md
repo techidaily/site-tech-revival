@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-09-28T01:03:24.978Z
-updated: 2024-10-05T05:24:45.320Z
+date: 2024-10-09T18:01:54.623Z
+updated: 2024-10-10T18:25:23.820Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI adds editing tools to DALL-E 3 in ChatGPT for inline adjustments.
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
  DALL-E 3's integrated editing tools now aim to fix issues within the same image without creating a new prompt. You highlight an area in the image you want to adjust, prompt DALL-E to make a specific change (such as "remove this" or "add this feature"), and it goes to work.
 
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 However, it's a mixed bag.
 
@@ -75,13 +75,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -91,15 +84,22 @@ Close
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
 
@@ -113,6 +113,13 @@ Close
 
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Adding Text
 
  There isn't much to cover here. As said, generative AI generally struggles with text anyway, and adding text to an image is even more difficult. I prompted DALL-E to create a postcard from a British seaside, which it did, capturing the scene nicely. I then wanted to add the words "Sunny Beach" to the image, which it just couldn't handle. That is, until after around six or seven back-and-forth prompts reminding DALL-E what it needed to do, it created a whole new image with the required text. And accurate text, too; I'm not sure about the baby face in the sunshine, mind.
@@ -122,19 +129,6 @@ Close
  Next up, I went for a birthday card. This time around, DALL-E added "Happy Birthday" without being prompted, which is fine, given the theme. So, I asked it to add the date of the birthday on the card. Again, it failed to add the date to the card, but after a few rounds of prompting, it created a new image featuring the requested date. In this case, adding the date myself would have been easier, especially if I wanted to keep the original image.
 
 Close
-
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
@@ -157,14 +151,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-what-to-do-when-youtube-shorts-thumbnails-fail-to-appear/"><u>[Updated] In 2024, What to Do When YouTube Shorts Thumbnails Fail to Appear?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-transforming-mp4-to-avi-format-with-ease-movavi/"><u>Free Online Conversion: Transforming MP4 to AVI Format with Ease - Movavi</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/leading-the-way-why-netgears-orbi-is-your-go-to-choice-for-reliable-wi-fi-performance/"><u>Leading the Way: Why Netgear's Orbi Is Your Go-To Choice for Reliable Wi-Fi Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfect-podcast-summaries-strategies-and-case-studies-for-2024/"><u>Perfect Podcast Summaries Strategies & Case Studies for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/persuasive-proposal-techniques-enhanced-by-chatgpt-for-higher-conversion-rates/"><u>Persuasive Proposal Techniques Enhanced by ChatGPT for Higher Conversion Rates</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-privacy-preventing-chatgpt-from-storing-our-talks/"><u>Protecting Privacy: Preventing ChatGPT From Storing Our Talks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/should-you-level-up-to-copilot-pro-from-regular-copilot-heres-why/"><u>Should You Level Up to Copilot Pro From Regular Copilot? Here's Why</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/six-ways-to-sharpen-ai-reality-based-outputs/"><u>Six Ways to Sharpen AI Reality-Based Outputs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ifa-film-analysis-on-youtube-infographics-for-2024/"><u>Top FIFA Film Analysis on YouTube Infographics for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-illuminated-influence-elevating-your-cinematic-presentations/"><u>[New] Illuminated Influence Elevating Your Cinematic Presentations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dancing-to-the-tune-youtubes-hottest-music-video-responses-23/"><u>[New] In 2024, Dancing to the Tune YouTube's Hottest Music Video Responses, '23</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-online-showdown-fb-live-yt-live-and-periscope-vs-spaces/"><u>[Updated] In 2024, Online Showdown FB LIVE, YT Live & Periscope Vs. Spaces</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-uncomplicated-method-fast-clearance-of-online-discussions/"><u>2024 Approved Uncomplicated Method Fast Clearance of Online Discussions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-100-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-105-classic-phone-by-drfone-android/"><u>How to Reset a Locked Nokia 105 Classic Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pyroptosis/"><u>Pyroptosis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revisiting-the-iphone-15-pro-max-a-comprehensive-review-6-months-on/"><u>Revisiting the iPhone 15 Pro Max - A Comprehensive Review 6 Months On</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/samsung-galaxy-s24-ultra-vs-pixel-9-pro-xl-showdown-deciding-on-the-supreme-android-phone/"><u>Samsung Galaxy S24 Ultra Vs. Pixel 9 Pro XL Showdown: Deciding on the Supreme Android Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/section-2a-explanation-of-tissue-necrosis-types/"><u>Section 2A: Explanation of Tissue Necrosis Types</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-month-review-of-the-galaxy-s2n-ultra-does-it-continue-to-reign-supreme-in-the-android-world/"><u>Six-Month Review of the Galaxy S2n Ultra - Does It Continue to Reign Supreme in the Android World?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-the-ipados-experience-with-just-three-simple-tweaks-from-apple/"><u>Transform the iPadOS Experience with Just Three Simple Tweaks From Apple!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/ultimate-picks-the-best-online-tools-for-downloading-vimeo-videos-for-2024/"><u>Ultimate Picks The Best Online Tools for Downloading Vimeo Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-copyright-demystified-key-principles-and-practices-for-2024/"><u>YouTube Copyright Demystified Key Principles and Practices for 2024</u></a></li>
 </ul></div>
 

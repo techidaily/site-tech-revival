@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2024-10-02T05:42:56.454Z
-updated: 2024-10-05T02:22:29.495Z
+date: 2024-10-03T16:32:26.878Z
+updated: 2024-10-10T17:19:17.360Z
 tags:
   - chatgpt
   - open-ai
@@ -39,21 +39,22 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -64,6 +65,13 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -78,13 +86,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -94,10 +95,10 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -107,13 +108,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -147,18 +141,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-digital-notepad-delight-photography-enhancers/"><u>[New] Digital Notepad Delight Photography Enhancers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-your-content-earning-through-evaluative-endeavors-online/"><u>[New] In 2024, Channel Your Content Earning Through Evaluative Endeavors Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-image-interpretation-8-ways-to-gain-edge/"><u>ChatGPT’s Image Interpretation: 8 Ways to Gain Edge</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-chatbots-can-claude-outshine-chatgpt-as-a-top-notch-communicator/"><u>Comparing Chatbots: Can Claude Outshine ChatGPT as a Top-Notch Communicator?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/concealed-communication-tactics-preserving-your-chatgpt-discussions-unseen/"><u>Concealed Communication Tactics: Preserving Your ChatGPT Discussions Unseen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-shared-links-in-chatgpt-functionality-and-mechanics-explained/"><u>Demystifying Shared Links in ChatGPT: Functionality & Mechanics Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-perfect-chatgpt-templates-for-crypto-enthusiasts/"><u>Discover the Perfect ChatGPT Templates for Crypto Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-claude-the-revolutionary-ai-tool-explained/"><u>Discovering Claude: The Revolutionary AI Tool Explained</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-motorola-defy-2-frp-by-drfone-android/"><u>Full Guide to Bypass Motorola Defy 2 FRP</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-sony-vaio-driver-software-installed-in-your-windows-system-today/"><u>Get the Latest Sony VAIO Driver Software Installed in Your Windows System Today!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-a25-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy A25 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/ultimate-index-downloading-your-preferred-chime-files/"><u>Ultimate Index Downloading Your Preferred Chime Files</u></a></li>
-<li><a href="https://win-blog.techidaily.com/van-welke-grunde-bij-onze-beslissing-kiezers-perspectief-over-movavi/"><u>Van Welke Gründe Bij Onze Beslissing: Kiezers Perspectief Over Movavi</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-create-captivating-cover-cinematics-for-2024/"><u>[New] Create Captivating Cover Cinematics for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-blur-background-of-your-youtube-video/"><u>[Updated] 2024 Approved How to Blur Background of Your YouTube Video</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-techniques-for-capturing-youtube-live-video-for-2024/"><u>[Updated] Best Techniques for Capturing YouTube Live Video for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-professional-content-creators-guide-studio-vs-beta-platform/"><u>[Updated] In 2024, Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-slide-by-slide-audio-integration-for-dynamic-ppts/"><u>[Updated] Slide-by-Slide Audio Integration for Dynamic PPTs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-online-tips-creating-title-magic/"><u>[Updated] Top Online Tips Creating Title Magic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-mastering-the-art-of-inquiry-a-step-by-step-guide-to-crafting-effective-questions/"><u>1. Mastering the Art of Inquiry: A Step-by-Step Guide to Crafting Effective Questions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-unlocking-the-secrets-how-to-bypass-drm-on-your-kindle-kpf-books-complete-guide/"><u>1. Unlocking the Secrets: How To Bypass DRM on Your Kindle KPF Books - Complete Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-kid-friendly-kindle-books-exclusive-holiday-discounts-and-deals-a-festive-guide-to-the-hottest-kids-gifts-in-2015/"><u>Best Kid-Friendly Kindle Books: Exclusive Holiday Discounts & Deals - A Festive Guide to the Hottest Kids' Gifts in 2015!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/combining-several-epub-books-into-one-seamless-file/"><u>Combining Several EPUB Books Into One Seamless File</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-x-fold-2-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo X Fold 2 using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-importing-ebooks-in-epub-format-onto-your-amazon-kindle-device/"><u>Step-by-Step Guide: Importing eBooks in ePub Format Onto Your Amazon Kindle Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-your-epub-files-into-plain-text-documents/"><u>Step-by-Step Guide: Transforming Your EPUB Files Into Plain Text Documents</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-google-pixel-8-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Google Pixel 8 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-still-images-into-expressive-animations-gif-for-2024/"><u>Transforming Still Images Into Expressive Animations (GIF) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-freeing-content-remove-drm-from-various-formats-like-epub-and-mobi/"><u>Ultimate Guide to Freeing Content: Remove DRM From Various Formats Like ePUB and MOBI</u></a></li>
 </ul></div>
 

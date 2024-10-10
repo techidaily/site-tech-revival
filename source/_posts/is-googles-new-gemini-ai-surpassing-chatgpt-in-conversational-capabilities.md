@@ -1,7 +1,7 @@
 ---
 title: Is Google's New Gemini AI Surpassing ChatGPT in Conversational Capabilities?
-date: 2024-10-04T11:23:55.702Z
-updated: 2024-10-04T18:41:45.236Z
+date: 2024-10-09T17:28:28.907Z
+updated: 2024-10-10T18:11:04.863Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -53,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -64,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -85,17 +92,10 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -121,18 +121,21 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-premier-ios-tools-replicating-ps2-games-for-2024/"><u>[New] Premier iOS Tools Replicating PS2 Games for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-transforming-views-11-keys-to-thriving-in-facebook-video-marketing/"><u>[Updated] 2024 Approved Transforming Views 11 Keys to Thriving in Facebook Video Marketing</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-effortless-background-watching-of-youtube-on-mobile-for-2024/"><u>[Updated] Effortless Background Watching of YouTube on Mobile for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maximizing-views-diy-strategies-for-youtube-success/"><u>[Updated] Maximizing Views DIY Strategies for YouTube Success</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-photo-magic-intro-to-snapseed-features/"><u>[Updated] Unlocking Photo Magic Intro to Snapseed Features</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-premier-alternative-activities-to-watching-sports/"><u>10 Premier Alternative Activities to Watching Sports</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-dangers-of-relying-on-ai-chatbots-for-windows-11-key-generation-explained/"><u>The Hidden Dangers of Relying on AI Chatbots for Windows 11 Key Generation Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-non-experts-guide-to-ai/"><u>The Non-Expert's Guide to AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-getting-started-with-microsoft-copilot-on-mac-osx/"><u>The Ultimate Walkthrough: Getting Started with Microsoft Copilot on Mac OSX</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-unexpected-suspension-of-chatgpt-in-italy-reasons-and-implications/"><u>The Unexpected Suspension of ChatGPT in Italy - Reasons and Implications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-20-essential-conversations-with-chatgpt-uncovered-gems-on-github/"><u>Top 20 Essential Conversations with ChatGPT: Uncovered Gems on GitHub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-frequent-chatgpt-issues-solutions-unveiled/"><u>Top 6 Frequent ChatGPT Issues: Solutions Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-the-crusader-kings-ii-unlaunched-problem/"><u>Troubleshooting Tips: Resolving the Crusader Kings II Unlaunched Problem</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-epic-escapades-10-roguelite-games-reviewed/"><u>[New] 2024 Approved Epic Escapades #10 Roguelite Games Reviewed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-exceptional-environments-the-best-screen-snapshots/"><u>[New] Exceptional Environments The Best Screen Snapshots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-content-generation-what-can-you-do-if-your-job-is-now-considered-automated/"><u>AI Content Generation: What Can You Do If Your Job Is Now Considered Automated?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chilly-champs-beijings-best-of-the-2022-games/"><u>Chilly Champs Beijing's Best of the 2022 Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/curiosity-unveiled-why-did-opera-introduce-a-browser-with-built-in-crypto-support/"><u>Curiosity Unveiled: Why Did Opera Introduce a Browser with Built-In Crypto Support?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-for-deleting-photographs-on-facebook-platform/"><u>Easy Instructions for Deleting Photographs on Facebook Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/electric-dreams-on-budget-the-rivian-r2-suv-balances-affordability-with-electrifying-performance/"><u>Electric Dreams on Budget: The Rivian R2 SUV Balances Affordability with Electrifying Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-productivity-how-microsoft-copilot-revolutionizes-writing-with-smart-suggestions/"><u>Enhancing Productivity: How Microsoft Copilot Revolutionizes Writing with Smart Suggestions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-future-of-vr-with-metas-upcoming-october-headset-launch/"><u>Explore the Future of VR with Meta's Upcoming October Headset Launch</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-drivers-for-your-hp-officejet-pro-cu8720-free-downloads-for-windows-users/"><u>Get the Latest Drivers for Your HP OfficeJet Pro Cu8720: Free Downloads for Windows Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-13ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 13/iPad/iPod</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y28-5g-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y28 5G Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/longevity-of-tesla-power-units-exploring-battery-life-span/"><u>Longevity of Tesla Power Units: Exploring Battery Life Span</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/make-every-instagram-story-a-visual-feast-multiply-your-images/"><u>Make Every Instagram Story a Visual Feast Multiply Your Images</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-piecing-together-digital-images/"><u>The Art of Piecing Together Digital Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-microsoft-copilot-for-your-on-the-go-productivity-enhanced-support-in-mobile-word-powerpoint-and-excel-with-a-few-caveats/"><u>Unveiling Microsoft Copilot for Your On-the-Go Productivity: Enhanced Support in Mobile Word, PowerPoint, and Excel With a Few Caveats</u></a></li>
 </ul></div>
 

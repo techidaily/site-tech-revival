@@ -1,7 +1,7 @@
 ---
 title: Microsoft and AI Merge for Next-Gen Bing Searches
-date: 2024-09-29T04:21:39.784Z
-updated: 2024-10-05T08:27:35.827Z
+date: 2024-10-08T18:33:08.406Z
+updated: 2024-10-10T16:35:35.834Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cost Savings
@@ -72,29 +72,29 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Publicly available AI chatbots have restricted customization due to security and censorship concerns. With a locally hosted AI assistant, you can fully customize the model for your specific needs. You can train the assistant on proprietary data tailored to your use cases, improving relevance and accuracy. For example, a lawyer could optimize their local AI to generate more precise legal insights. The key benefit is control over customization for your unique requirements.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Cons of Using Local LLMs
 
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
- Before you make the switch, there are some downsides to using a local LLM you should consider.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Before you make the switch, there are some downsides to using a local LLM you should consider.
 
 ### 1\. Resource Intensive
 
  To run a performant local LLM, you'll need high-end hardware. Think powerful CPUs, lots of RAM, and likely a dedicated GPU. Don't expect a $400 budget laptop to provide a good experience. Responses will be painfully slow, especially with larger AI models. It's like running cutting-edge video games—you need beefy specs for optimal performance. You may even need specialized cooling solutions. The bottom line is that local LLMs require an investment in top-tier hardware to get the speed and responsiveness you enjoy on web-based LLMs (or even improve on that). The computing demands on your end will be significant compared to using web-based services.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Slower Responses and Inferior Performance
 
@@ -103,10 +103,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  In short, unless you're rocking an absolute top-of-the-line setup (we're talking AMD Ryzen 5800X3D with an Nvidia RTX 4090 and enough RAM to sink a ship), the overall performance of your local LLM won't compare to the online generative AI chatbots you're used to.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Complex Setup
@@ -140,22 +140,24 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-deciding-on-apples-m1-laptops-air-or-pro-advantages/"><u>[New] 2024 Approved Deciding on Apple's M1 Laptops Air or Pro Advantages</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-terminology-trek-through-the-virtual-landscape-for-2024/"><u>[New] Terminology Trek Through the Virtual Landscape for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-decide-on-video-frames-per-second-comparing-30-vs-60-for-2024/"><u>[Updated] How to Decide on Video Frames Per Second? Comparing 30 Vs. 60 for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elaborate-inspection-gopro-silver-hero4-unit-test/"><u>Elaborate Inspection GoPro Silver HERO4 Unit Test</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-amd-radeon-rx-590-linux-mac/"><u>Get Your AMD Radeon RX 지킬 | 590를 Linux로, Mac로 실제 설치하기</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/grosse-videos-effizient-komprimieren-und-per-whatsapp-hochladen-keine-qualitatsreduzierung-mit-winxdvd-methode/"><u>Große Videos Effizient Komprimieren Und per WhatsApp Hochladen - Keine Qualitätsreduzierung Mit WinXDVD Methode</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-can-help-you-pick-the-perfect-movie-or-show-every-time/"><u>How ChatGPT Can Help You Pick the Perfect Movie or Show Every Time</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-ios-transforms-your-daily-chatgpt-routine/"><u>How iOS Transforms Your Daily ChatGPT Routine</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-oneplus-11r-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on OnePlus 11R Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/incorporating-chatgpt-into-your-teams-online-interactions-for-improved-communication/"><u>Incorporating ChatGPT Into Your Team's Online Interactions for Improved Communication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-trust-in-truthgpt-coin-justified/"><u>Is Trust in TruthGPT Coin Justified?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leapfrogging-over-chatgpt-with-new-tech/"><u>Leapfrogging Over ChatGPT with New Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-smart-health-focused-meal-prep-strategies/"><u>Leveraging ChatGPT for Smart, Health-Focused Meal Prep Strategies</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/librevid-x-version-10-reviewed-highlights-and-downsides/"><u>LibreVid X Version 10 Reviewed Highlights and Downsides</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/making-an-informed-decision-advantages-and-disadvantages-of-local-language-models/"><u>Making an Informed Decision: Advantages & Disadvantages of Local Language Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/modernizing-ai-assessment-are-there-up-to-date-alternatives-to-the-classic-turing-test/"><u>Modernizing AI Assessment: Are There Up-to-Date Alternatives to the Classic Turing Test?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-rated-free-avi-video-editor-options/"><u>New 2024 Approved Top-Rated Free AVI Video Editor Options</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essential-list-top-16-best-free-video-viewers/"><u>[New] Essential List Top 16 Best Free Video Viewers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-how-asmr-enhances-your-daily-life-learn-here/"><u>[Updated] In 2024, How ASMR Enhances Your Daily Life – Learn Here</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-resolved-faulty-obs-camera-for-2024/"><u>[Updated] Resolved Faulty OBS Camera for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-discovering-androids-premier-mobas-ranked/"><u>2024 Approved Discovering Android's Premier MOBAs Ranked</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-uncovering-individual-email-ids-safely/"><u>A Comprehensive Guide: Uncovering Individual Email IDs Safely</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-s18e-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo S18e Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-innovative-approach-to-difficult-workplace-communications/"><u>ChatGPT's Innovative Approach to Difficult Workplace Communications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/combat-high-response-times-in-co-op-gaming-strategies-for-faster-back-nblood-play/"><u>Combat High Response Times in Co-Op Gaming: Strategies for Faster Back nBlood Play</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-the-process-insight-into-ai-based-prompt-injection-cyberattacks/"><u>Demystifying the Process: Insight Into AI-Based Prompt Injection Cyberattacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175706517-dive-into-a-cool-experience-discover-the-revolutionary-sporty-active-chillers-by-frore-the-innovative-underwater-friendly-fanless-airjet-mini/"><u>Dive Into a Cool Experience - Discover the Revolutionary Sporty Active Chillers by Frore: The Innovative Underwater Friendly, Fanless AirJet Mini!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/examining-the-hidden-danger-ais-vulnerability-to-prompt-injection-techniques/"><u>Examining the Hidden Danger: AI's Vulnerability to Prompt Injection Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-keep-your-information-private-when-collaborating-with-chatgpt-on-business-tasks/"><u>How to Keep Your Information Private When Collaborating with ChatGPT on Business Tasks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-ai-driven-learning-pathways-with-gpt-plus/"><u>Innovative AI-Driven Learning Pathways with GPT Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-tools-that-outshine-chatgpt-for-self-coding-success/"><u>Innovative Tools That Outshine ChatGPT for Self-Coding Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/italys-recent-decision-to-halt-chatgpt-usage-instantly-explained/"><u>Italy's Recent Decision to Halt ChatGPT Usage Instantly Explained</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lut-enthusiasts-delight-free-bundles-with-dji-minis-and-air-2-for-2024/"><u>LUT Enthusiasts' Delight – Free Bundles with DJI Minis & Air 2 for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-motorola-razr-40-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Motorola Razr 40 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-how-these-10-specialized-gpt-models-excel-past-standard-chatgpt-features/"><u>Unlocking Potential: How These 10 Specialized GPT Models Excel Past Standard ChatGPT Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-language-of-ai-master-these-29-critical-terms-for-a-deeper-insight-into-machine-learning/"><u>Unlocking the Language of AI: Master These 29 Critical Terms for a Deeper Insight Into Machine Learning</u></a></li>
 </ul></div>
 

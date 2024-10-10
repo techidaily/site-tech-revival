@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Age of AI: The Genesis Story"
-date: 2024-10-02T22:00:57.320Z
-updated: 2024-10-04T19:51:48.447Z
+date: 2024-10-07T17:57:57.024Z
+updated: 2024-10-10T17:14:14.260Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do People Use ChatGPT?
 
  ChatGPT launched in November 2022, and it didn’t take long for people to experiment with how they might use it. For example, you can[use ChatGPT to do everything](http://www.makeuseof.com/things-you-can-do-with-chatgpt/) from telling pumpkin jokes to advising how to improve team collaboration or even writing marketing emails!
@@ -41,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Replace Programmers?
@@ -52,10 +59,16 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -73,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -88,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  There’s also an interesting Twitter thread where ChatGPT impressed by helping to diagnose a type of heart disease. However, others replied that the chatbot is good at faking expertise and provided several possible diagnoses. Someone with genuine medical expertise must review the responses and use their knowledge to gauge the chatbot’s accuracy.
 
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
 
@@ -115,24 +121,22 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-action-to-archive-screencast-review-essentials/"><u>[Updated] 2024 Approved Action to Archive Screencast Review Essentials</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-15-must-try-iphone-vr-apps-for-everyday-gamers/"><u>[Updated] 2024 Approved Top 15 Must-Try IPhone VR Apps for Everyday Gamers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-snapspectacular-high-quality-windowsmac-screenshots/"><u>[Updated] In 2024, SnapSpectacular High-Quality Windows/Mac Screenshots</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-hidden-facebook-data-and-protecting-yourself-online/"><u>2024 Approved Unveiling Hidden Facebook Data & Protecting Yourself Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-helpers-face-off-which-is-superior-claude-or-chatgpt-for-everyday-functions/"><u>AI Helpers Face-Off: Which Is Superior, Claude or ChatGPT, for Everyday Functions?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-there-any-restrictions-on-length-in-chatgpt-answers/"><u>Are There Any Restrictions on Length in ChatGPT Answers?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/boomerang-on-instagram-create-addictive-loop-videos-on-ig-for-2024/"><u>Boomerang on Instagram Create Addictive Loop Videos on IG for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bridging-the-gap-between-truth-and-dreams-through-ai-unveil-8-strategies/"><u>Bridging the Gap Between Truth and Dreams Through AI – Unveil 8 Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-giants-key-distinctions-between-googles-palm-2-and-ai-powerhouse-openais-gpt/"><u>Comparing Giants: Key Distinctions Between Google's PaLM 2 and AI Powerhouse, OpenAI's GPT-#</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/delete-your-active-chatgpt-account/"><u>Delete Your Active ChatGPT Account</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/determining-ai-generated-works-legal-stewards/"><u>Determining AI-Generated Works' Legal Stewards</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dissecting-the-synergy-and-conflict-between-chatgpt-and-creativity/"><u>Dissecting the Synergy & Conflict Between ChatGPT and Creativity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-fantasy-quests-integrating-chatgpt-into-your-dungeons-and-dragons-playstyle/"><u>Enhancing Your Fantasy Quests: Integrating ChatGPT Into Your Dungeons & Dragons Playstyle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fighting-algorithmic-infringement-artists-sue-openai-and-meta/"><u>Fighting Algorithmic Infringement: Artists Sue OpenAI and Meta</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-magic-5-pro-lock-screen-password-by-drfone-android/"><u>How To Change Honor Magic 5 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-8-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 8 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-through-gopros-burst-recording-options-for-2024/"><u>Navigating Through GoPro's Burst Recording Options for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-innovative-insights-a-curated-list-s-pivotal-social-media-and-marketing-podcasts/"><u>New In 2024, Innovative Insights A Curated List S Pivotal Social Media and Marketing Podcasts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-important-measures-to-adapt-music-tempoplay-on-spotify/"><u>[New] In 2024, Important Measures to Adapt Music Tempoplay on Spotify</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-viral-videos-and-lawfulness-pre-upload-copyright-verification/"><u>[New] In 2024, Viral Videos & Lawfulness Pre-Upload Copyright Verification</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-break-down-barriers-with-cost-free-vob-player/"><u>2024 Approved Break Down Barriers with Cost-Free VOB Player</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-top-free-screen-recorders-ranked-list/"><u>2024 Approved Explore the Top Free Screen Recorders Ranked List</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nubia-red-magic-8s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dissecting-luminances-role-in-hdr-imagery/"><u>Dissecting Luminance's Role in HDR Imagery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freedom-from-filmage-tiktok-videos-without-stickers-for-2024/"><u>Freedom From Filmage TikTok Videos Without Stickers for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-including-a-cover-letter-in-profile/"><u>In 2024, Including a Cover Letter in Profile</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-nord-n30-se-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Nord N30 SE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sun-flashes-a-grin-nasa-captures-rare-image-amid-solar-activity-rumors/"><u>Sun Flashes a Grin: NASA Captures Rare Image Amid Solar Activity Rumors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-rivian-r1t-unveiled-transforming-the-electric-pickup-market-with-style-and-functionality/"><u>The Rivian R1T Unveiled: Transforming the Electric Pickup Market with Style and Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-top-virtual-reality-innovations-a-historical-review-of-promising-tech-that-missed-its-mark/"><u>The Top Virtual Reality Innovations: A Historical Review of Promising Tech That Missed Its Mark</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-airdrops-how-they-work-in-the-cryptocurrency-world/"><u>Understanding Airdrops: How They Work in the Cryptocurrency World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-mechanics-of-evs-a-guide-to-how-electric-cars-function/"><u>Understanding the Mechanics of EVs: A Guide to How Electric Cars Function</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-enhanced-ai-capabilities-the-ultimate-list-of-premium-chatgpt-plus-plugins/"><u>Unlock Enhanced AI Capabilities: The Ultimate List of Premium ChatGPT Plus Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-deception-the-truthgpt-crypto-fraud-posing-as-a-neutral-bot/"><u>Unveiling the Deception: The TruthGPT Crypto Fraud Posing as a Neutral Bot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-excellence-how-the-oculus-quest-2-redefines-virtual-reality/"><u>Unveiling the Excellence: How the Oculus Quest 2 Redefines Virtual Reality</u></a></li>
 </ul></div>
 

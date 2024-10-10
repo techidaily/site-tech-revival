@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2024-10-03T08:59:32.337Z
-updated: 2024-10-05T11:25:56.241Z
+date: 2024-10-04T17:07:59.686Z
+updated: 2024-10-10T18:24:09.980Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -63,10 +63,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
@@ -74,10 +74,16 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
@@ -109,18 +115,22 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-monetizing-your-social-media-presence-snapchat-edition/"><u>[New] 2024 Approved Monetizing Your Social Media Presence Snapchat Edition</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-perfect-6-apps-for-private-android-video-capturing/"><u>[Updated] Perfect 6 Apps for Private Android Video Capturing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-streamlining-video-editing-in-obs-with-luts/"><u>[Updated] Streamlining Video Editing in OBS With LUTs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-in-therapy-leveraging-chatgpt-for-effective-cognitive-behavioral-strategies/"><u>AI in Therapy: Leveraging ChatGPT for Effective Cognitive Behavioral Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-attacks-on-banks-and-computers-how-safe-are-we-from-cybercriminals-using-tools-like-chatgpt/"><u>AI-Powered Attacks on Banks and Computers: How Safe Are We From Cybercriminals Using Tools Like ChatGPT?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-believe-everything-chatgpt-says-understanding-its-reliability/"><u>Can You Believe Everything ChatGPT Says: Understanding Its Reliability</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/charismatic-captions-instagrams-animated-text-guide-for-2024/"><u>Charismatic Captions Instagram's Animated Text Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-hacks-for-a-more-effortless-life-discover-9-tips/"><u>ChatGPT Hacks for a More Effortless Life: Discover 9 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgptvisionexplored-unveiling-the-most-effective-uses-of-visual-ai/"><u>ChaTgPtVisionExplored: Unveiling the Most Effective Uses of Visual AI</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-your-warzone-microphonevoice-chat-troubles-on-both-computer-and-console-systems/"><u>Overcome Your Warzone Microphone/Voice Chat Troubles on Both Computer and Console Systems</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-installation-of-razer-mice-on-win-os/"><u>Quick Installation of Razer Mice on Win OS</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-selection-top-performing-battery-backups-to-secure-your-systems-in-202/"><u>The Ultimate Selection: Top-Performing Battery Backups to Secure Your Systems in 202</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-power-of-the-netgear-nighthawk-x4-a-revolutionary-mesh-wi-fi-extender-compared/"><u>Unveiling the Power of the Netgear Nighthawk X4: A Revolutionary Mesh Wi-Fi Extender Compared</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mastering-video-and-screenshots-with-simple-steps/"><u>[New] 2024 Approved Mastering Video & Screenshots with Simple Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5pya5paw5lq65rcx5yuv55s75asj5oplusb44ki44ox44oq57s55lulic0g5yuv55s744oa44km44oz44ot44o844oj44k944ov44oi44ks6kmz44gx44gp6kej6kqs44cn/"><u>「最新人気動画変換アプリ紹介 - 動画ダウンロードソフトを詳しく解説」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-mastering-the-art-of-editing-on-youtube-a-complete-guide-using-youtubes-built-in-video-editor/"><u>1. Mastering the Art of Editing on YouTube: A Complete Guide Using YouTube's Built-In Video Editor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-creating-a-visual-statement-with-stellar-podcast-artwork/"><u>2024 Approved Creating a Visual Statement with Stellar Podcast Artwork</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macdvdavi-macx-dvd-to-avi-converter-macdvd/"><u>高速にMac用無料DVDをAVI変換する - 利用者から評判の良いMacX DVD to Avi Converter: MacでスムーズなDVDコンバートソフトウェア</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/compatible-video-file-types-a-comprehensive-guide-for-ipad-pro-and-mini-4-users/"><u>Compatible Video File Types: A Comprehensive Guide for iPad Pro and Mini 4 Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/full-breakdown-the-ultimate-dji-phantom-4-experience/"><u>Full Breakdown The Ultimate DJI Phantom 4 Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-resolve-mac-dvd-player-wont-open-problem-with-proven-techniques-for-a-100-success-rate/"><u>How to Resolve 'Mac DVD Player Won't Open' Problem with Proven Techniques for a 100% Success Rate</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-speed-settings-unveiled-customizing-your-snapchat-experience/"><u>In 2024, Speed Settings Unveiled Customizing Your Snapchat Experience</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fcp-or-lumafusion-the-pros-and-cons-of-each-video-editing-software/"><u>New 2024 Approved FCP or LumaFusion The Pros and Cons of Each Video Editing Software</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-scan-recorder-for-chrome-devices/"><u>Quick Scan Recorder for Chrome Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/strategies-for-sustaining-viewer-interest-in-online-events/"><u>Strategies for Sustaining Viewer Interest in Online Events</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>The Ultimate Shutter Showdown Best for Slow Motion Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-downloaded-file-management-software-of-2020-comprehensive-review/"><u>Top Downloaded File Management Software of 2020: Comprehensive Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-downloading-and-streaming-your-own-minecraft-adventures/"><u>Ultimate Guide: Downloading and Streaming Your Own Minecraft Adventures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-performance-comparison-gpu-vs-cpu-in-video-encoding-speeds/"><u>Ultimate Performance Comparison: GPU Vs. CPU in Video Encoding Speeds</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-and-secure-access-the-new-wireless-driver-software-today/"><u>Updated & Secure: Access the New Wireless Driver Software Today</u></a></li>
 </ul></div>
 
