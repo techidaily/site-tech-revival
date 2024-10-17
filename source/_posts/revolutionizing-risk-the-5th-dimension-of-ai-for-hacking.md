@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Risk: The 5Th Dimension of AI for Hacking"
-date: 2024-10-08T16:21:04.206Z
-updated: 2024-10-10T16:06:06.166Z
+date: 2024-10-14T18:31:57.305Z
+updated: 2024-10-16T16:52:12.709Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 * [How to Find the Best Custom GPTs in the GPT Store](https://ancheer.sjv.io/y96bgp)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -48,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Access the GPT Store
@@ -64,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
  On the left sidebar of the ChatGPT interface, you should see **Explore GPTs** instead of simply **Explore**. Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -81,18 +67,32 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
@@ -121,16 +121,20 @@ thumbnail: https://thmb.techidaily.com/c23fd39a2d5eab7804c8c0b256c287da5a7d97c2d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-closing-powerhouses-free-top-6-video-closers-for-2024/"><u>[New] Closing Powerhouses Free Top 6 Video Closers for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-innovators-defining-the-future-of-virtual-realms/"><u>[New] In 2024, Innovators Defining the Future of Virtual Realms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-ai-assistants-chatgpt-vs-gemini-in-coding-capabilities/"><u>Comparing AI Assistants: ChatGPT Vs. Gemini in Coding Capabilities</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/computing-evolution-adapting-to-the-power-of-16gb-ram/"><u>Computing Evolution: Adapting to the Power of 16GB RAM</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-advice-implementing-and-setting-up-llama-2-locally/"><u>Expert Advice: Implementing and Setting up Llama 2 Locally</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-a-local-llm-right-for-you-pros-and-cons-explored/"><u>Is a Local LLM Right for You? Pros and Cons Explored</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/is-your-apple-iphone-7-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your Apple iPhone 7 in Security Lockout? Proper Ways To Unlock</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-guide-to-a-distinctive-youtube-channel-url/"><u>Step-by-Step Guide to a Distinctive YouTube Channel URL</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-parents-handbook-understanding-chatgpt-and-the-world-of-generative-ai/"><u>Ultimate Parent's Handbook: Understanding ChatGPT & the World of Generative AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-your-creativity-chatgpt-as-a-tool-for-constructing-fictional-worlds/"><u>Unleash Your Creativity: ChatGPT as a Tool for Constructing Fictional Worlds</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-realme-v30t-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme V30T Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-setting-up-ai-agent-functionality-in-your-browser-using-agentgpt/"><u>Comprehensive Guide: Setting Up AI Agent Functionality in Your Browser Using AgentGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-push-for-enhanced-ai-governance-by-openais-ceo/"><u>Deciphering the Push for Enhanced AI Governance by OpenAI's CEO</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-together-top-metaverse-multiplayer-joints/"><u>Exploring Together Top Metaverse Multiplayer Joints</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fashion-finds-filled-with-fun-editing-for-hauls-for-2024/"><u>Fashion Finds Filled with Fun Editing for Hauls for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fraudgpt-unveiled-how-to-defend-yourself-from-this-hazardous-ai-chatbot/"><u>FraudGPT Unveiled: How to Defend Yourself From This Hazardous AI Chatbot</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/how-abbyy-powers-up-as-the-go-to-cognitive-tech-for-arsenal-womens-football-supporters/"><u>How ABBYY Powers Up as the Go-To Cognitive Tech for Arsenal Womens Football Supporters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-zte-nubia-flip-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From ZTE Nubia Flip 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-y100-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo Y100 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/mengatur-fotografi-yang-terlewat-tongsan-agak-kosong-alur-proses-5-cara-sederhana/"><u>Mengatur Fotografi Yang Terlewat Tongsan Agak Kosong: Alur Proses 5 Cara Sederhana</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-realm-of-ai-crafting-prompts-and-career-stability/"><u>Navigating the Realm of AI: Crafting Prompts & Career Stability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-email-hurdles-in-the-office-with-chatgpt-a-guide-to-better-written-communication/"><u>Overcoming Email Hurdles in the Office with ChatGPT: A Guide to Better Written Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smartphone-advancements-simplified-android-and-iphones-best-ai-apps/"><u>Smartphone Advancements Simplified: Android & iPhone's Best AI Apps</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-word-2000-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign Word 2000 documents online</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlocking-new-resolutions-potential/"><u>Unlocking New Resolutions' Potential</u></a></li>
 </ul></div>
 

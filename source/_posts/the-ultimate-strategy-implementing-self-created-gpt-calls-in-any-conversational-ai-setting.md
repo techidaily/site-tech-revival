@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting"
-date: 2024-10-03T18:42:35.969Z
-updated: 2024-10-10T18:32:41.164Z
+date: 2024-10-09T22:45:25.290Z
+updated: 2024-10-16T18:56:32.567Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  The length and tone of the responses also differed. The Bing Chat response was shorter and more restrained, not offering opinions on the problem or potential solutions.
 
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
 
@@ -58,14 +72,14 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Screenshot Bard  CO2 Levels with other drafts showing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-co2-levels-with-other-drafts-showing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Ease of Use
 
@@ -77,35 +91,22 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
  As both platforms are going through rapid development, the user experience will continue to improve.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
 
@@ -118,10 +119,10 @@ We did manage to get a response from Bard by rewording the prompt.
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
@@ -139,19 +140,6 @@ We did manage to get a response from Bard by rewording the prompt.
  Both tools are incredibly powerful and can generate intelligent answers to any prompt. But both have pros and cons, and the ultimate choice is likely to be decided by factors like user preferences and the desired output type.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Era of the Chatbot Is Upon Us
 
@@ -174,17 +162,16 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1-ultra-fast-audio-file-transformation-speedy-audible-aa-to-high-quality-mp3-conversion/"><u>1. Ultra-Fast Audio File Transformation: Speedy Audible AA to High-Quality MP3 Conversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparative-analysis-the-leading-online-epub-file-creators-a-review-of-the-best-5-options/"><u>Comparative Analysis: The Leading Online EPUB File Creators - A Review of the Best 5 Options</u></a></li>
-<li><a href="https://win-forum.techidaily.com/complete-guide-setting-up-and-enabling-the-revo-app-manager/"><u>Complete Guide: Setting Up & Enabling the Revo App Manager</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-bypassing-drm-protection-in-google-ebooks/"><u>Comprehensive Tutorial on Bypassing DRM Protection in Google eBooks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-ebooks-into-pdf-format-a-step-by-step-guide/"><u>Convert eBooks Into PDF Format: A Step-by-Step Guide</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/cookiebot-enhanced-experience/"><u>Cookiebot-Enhanced Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-to-using-gptzero-effectively-to-spot-ai-generated-writing-online/"><u>Guide to Using GPTZero Effectively to Spot AI-Generated Writing Online</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-blur-techniques-in-visual-editing/"><u>In 2024, Master Blur Techniques in Visual Editing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nubia Red Magic 9 Pro+</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-your-sluggish-pc-woes-a-guide-using-revo-uninstaller/"><u>Solving Your Sluggish PC Woes: A Guide Using Revo Uninstaller</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-echoenthusiast-auditory-review-exploration/"><u>[Updated] 2024 Approved EchoEnthusiast Auditory Review Exploration</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-transformative-camera-movements-your-guide-to-ken-burns-in-camtasa/"><u>[Updated] Transformative Camera Movements Your Guide to Ken Burns in Camtasa</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/human-resources-made-effortless-by-ai-prompts/"><u>Human Resources Made Effortless by AI Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/large-scale-language-models-unpacked/"><u>Large-Scale Language Models Unpacked</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6 Properly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-claude-3-insights-into-functionality-and-utility/"><u>Mastering Claude 3: Insights Into Functionality & Utility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-a-guide-to-writing-in-your-voice/"><u>Mastering GPT-3: A Guide to Writing in Your Voice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011066284-missing-football-manager-2022-update-this-easy-tip-has-it-covered/"><u>Missing Football Manager 2022 Update? This Easy Tip Has It Covered</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-yourself-from-the-threats-of-fraudgpt-tips-and-advice/"><u>Protecting Yourself From the Threats of FraudGPT - Tips & Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-strikethrough-text-feature-in-microsoft-excel/"><u>Step-by-Step Guide: Implementing Strikethrough Text Feature in Microsoft Excel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/toms-tech-insights-comprehensive-computer-hardware-guide/"><u>Tom's Tech Insights: Comprehensive Computer Hardware Guide</u></a></li>
 </ul></div>
 

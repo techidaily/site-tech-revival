@@ -1,7 +1,7 @@
 ---
 title: The Inner Mechanics of AI Black Boxes Explained
-date: 2024-10-05T18:31:37.860Z
-updated: 2024-10-10T17:31:08.186Z
+date: 2024-10-15T20:41:07.471Z
+updated: 2024-10-17T00:48:28.994Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
  ChatGPT has a wealth of games in its custom GPT store, covering everything from, RPGs and Dungeons and Dragons-style adventures, classic retro games, card games, quizzes, mysteries, and so much more.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1.[Murder Mystery Mayhem](https://chat.openai.com/g/g-82dEDeoN3-murder-mystery-mayhem)
 
  Let's start with one of the top-rated games on ChatGPT's custom GPT store. Murder Mystery Mayhem is a procedurally generated game where you play the role of a detective in the year 1925.
@@ -54,13 +47,6 @@ Close
 
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -71,6 +57,13 @@ Close
 
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -80,16 +73,10 @@ Close
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
@@ -101,10 +88,10 @@ Close
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
@@ -128,6 +115,13 @@ Close
  The custom GPT Cookie Clicker is decidedly different. You're still building up a cookie empire in a similar style, but because ChatGPT doesn't run automated commands and cannot keep the numbers ticking over like the original game, it requires more input.
 
  Still, if you're into idle games and want to try something different, it could be worth a try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
@@ -158,24 +152,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-top-downloader-apps-youtube-videos-on-android-compared/"><u>[New] 2024 Approved Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-ultimate-list-youtubes-premier-mp3-extractors/"><u>[Updated] Unveiling the Ultimate List YouTube's Premier MP3 Extractors</u></a></li>
-<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-communication-restrictions-unveiling-the-effects-on-personal-experience/"><u>AI Communication Restrictions: Unveiling the Effects on Personal Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beware-top-9-phony-chatgpt-virus-tools-that-could-compromise-your-privacy/"><u>Beware: Top 9 Phony ChatGPT Virus Tools That Could Compromise Your Privacy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-artifice-in-ai-text-generation/"><u>Decoding the Artifice in AI Text Generation</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/effortlessly-transform-your-vob-files-into-high-quality-mov-videos/"><u>Effortlessly Transform Your VOB Files Into High-Quality MOV Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-ais-reliability-chatgpt-style/"><u>Evaluating AI's Reliability - ChatGPT Style</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-primary-causes-for-companies-ban-on-chatgpt-platforms/"><u>Exploring the Primary Causes for Companies' Ban on ChatGPT Platforms</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-canon-mf4800-up-and-running-official-driver-downloads/"><u>Get Your Canon MF4800 Up and Running - Official Driver Downloads</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-huawei-nova-y71-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Huawei Nova Y71</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On ZTE Blade A73 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/neural-networks-defended-against-inversion/"><u>Neural Networks Defended Against Inversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/skyping-smarts-my-ai-versus-bings-chatbot/"><u>Skyping Smarts: My AI Versus Bing's Chatbot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sources-scrutinized-chatgpts-originality-assessment/"><u>Sources Scrutinized: ChatGPT’s Originality Assessment</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/speech-tuning-made-simple-on-sony-playstation-consoles/"><u>Speech Tuning Made Simple on Sony PlayStation Consoles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-signing-up-for-chatgpt-telegram-and-whatsapp-without-needing-your-mobile-number/"><u>Step-by-Step Guide: Signing Up for ChatGPT, Telegram & WhatsApp without Needing Your Mobile Number</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/streamline-your-content-5-efficient-ways-to-manipulate-vimeo-videos-for-2024/"><u>Streamline Your Content 5 Efficient Ways to Manipulate Vimeo Videos for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-100-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor 100 Pro Phone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-guide-to-the-best-5-book-tt-examples/"><u>[Updated] A Guide to the Best 5 Book TT Examples</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-halls-of-fame-on-reddit-celebrating-best-rated-threads-for-2024/"><u>[Updated] Halls of Fame on Reddit Celebrating Best-Rated Threads for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>2024 Approved Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-the-advantages-and-differences-of-chatgpt-enterprise-over-regular-versions/"><u>Comprehensive Guide to the Advantages and Differences of ChatGPT Enterprise over Regular Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-dialogue-with-chatgpt-and-macsynchrony/"><u>Enhancing Dialogue with ChatGPT & MacSynchrony</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/hasty-habits-presentation-file-recording/"><u>Hasty Habits Presentation File Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-rectify-live-dialogue-issues-with-gpt/"><u>How to Rectify Live Dialogue Issues with GPT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-progress-methods-for-moving-chatgpt-chats-elsewhere/"><u>Protect Your Progress: Methods for Moving ChatGPT Chats Elsewhere</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-2-believing-that-the-technology-would-lead-to-massive-job-losses-wrong-answer/"><u>Story 2: Believing that the Technology Would Lead to Massive Job Losses (Wrong Answer)</u></a></li>
 </ul></div>
 

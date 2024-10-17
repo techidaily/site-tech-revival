@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Risk: Are Alternative ChatGPT Plugins Secure to Use?"
-date: 2024-10-08T18:50:59.494Z
-updated: 2024-10-10T16:53:41.101Z
+date: 2024-10-10T16:20:52.488Z
+updated: 2024-10-16T17:34:35.717Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
@@ -65,20 +71,13 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
@@ -91,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -115,18 +121,24 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-captivating-images-mastering-the-art-of-motion-blur-in-ps/"><u>[Updated] In 2024, Captivating Images Mastering the Art of Motion Blur in PS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-ultimate-ff-downloader-suite-for-social-video-grabs/"><u>[Updated] In 2024, Ultimate FF Downloader Suite for Social Video Grabs</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-interactive-content-the-key-to-boosted-facebook-pages/"><u>2024 Approved Interactive Content The Key to Boosted Facebook Pages</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/detailed-breakdown-the-essence-of-hero4-black-for-2024/"><u>Detailed Breakdown The Essence of Hero4 Black for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-live-online-learning-captures/"><u>In 2024, Live Online Learning Captures</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/perfecting-physical-outputs-advanced-tips-on-print-preparation-in-photoshop/"><u>Perfecting Physical Outputs: Advanced Tips on Print Preparation in Photoshop</u></a></li>
-<li><a href="https://win11.techidaily.com/prevent-windows-management-app-collapses/"><u>Prevent Windows Management App Collapses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-fixes-to-overcome-sluggish-internet-speed/"><u>Quick Fixes to Overcome Sluggish Internet Speed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamlessly-transitioning-from-chrome-to-brave-a-simple-guide-to-enhanced-privacy/"><u>Seamlessly Transitioning From Chrome to Brave: A Simple Guide to Enhanced Privacy</u></a></li>
-<li><a href="https://review-topics.techidaily.com/smoke-detectors-heat-detectors-and-multi-criteria-detectors-are-the-primary-types-used-for-fire-detection/"><u>Smoke Detectors, Heat Detectors, and Multi-Criteria Detectors Are the Primary Types Used for Fire Detection.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speedy-presentations-made-simple-through-pechakucha/"><u>Speedy Presentations Made Simple Through PechaKucha</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-collective-decision-to-leave-facebook-and-the-tactics-that-might-persuade-us-to-return/"><u>The Collective Decision to Leave Facebook – And The Tactics That Might Persuade Us To Return</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-risks-why-using-google-and-facebook-to-log-in-may-not-be-ideal/"><u>The Hidden Risks: Why Using Google and Facebook to Log In May Not Be Ideal</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-get-more-from-instagram-reels-top-8-downloaders-at-no-cost-for-2024/"><u>[New] Get More From Instagram Reels - Top 8 Downloaders at No Cost for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-elite-11-auditorial-capture-devices-overview/"><u>[New] In 2024, Elite #11 Auditorial Capture Devices Overview</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-effortlessly-preserve-your-linkedin-content-with-the-best-6-apps/"><u>[Updated] Effortlessly Preserve Your LinkedIn Content with The Best 6 Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/odysee/"><u>「Odysee動画のダウンロードと保存手順ガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/handbrakeiso-to-mp4/"><u>無料ツールHandBrakeを使ったISO to MP4変換ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4/"><u>無損失でMP4ファイルの画像比率変更テクニック</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/animate-archive-the-top-choice-for-twitter-animated-enthusiasts/"><u>Animate Archive The Top Choice for Twitter Animated Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-contrast-between-privately-held-and-unlisted-content-on-youtube-platforms/"><u>Exploring the Contrast Between Privately-Held and Unlisted Content on YouTube Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/high-definition-dvd-ripping-tutorial-for-creating-wmv-format-videos-using-windows-software/"><u>High Definition DVD Ripping Tutorial for Creating WMV Format Videos Using Windows Software</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-apple-iphone-12-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your Apple iPhone 12 mini?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-combine-multiple-avi-files-in-windows-11-without-quality-degradation-top-3-methods/"><u>How to Seamlessly Combine Multiple AVI Files in Windows 11 Without Quality Degradation (Top 3 Methods)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-successfully-transfer-videos-from-facebook-to-your-youtube-channel/"><u>How To Successfully Transfer Videos From Facebook To Your YouTube Channel</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-xiaomi-redmi-12-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Xiaomi Redmi 12 FRP?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27e-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27e Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-unveiling-excellent-video-keywords-on-youtube/"><u>In 2024, Unveiling Excellent Video Keywords on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-tweeting-youtube-content-a-comprehensive-tutorial/"><u>Mastering the Art of Tweeting YouTube Content - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-release-wonderfox-image-transformer-v11-from-videos-to-still-images/"><u>New Release: WonderFox Image Transformer v1.1 - From Videos to Still Images</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/pixeled-harmony-healing-corrupted-hds/"><u>Pixeled Harmony: Healing Corrupted HDs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-xs-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone XS to PC or Mac | Stellar</u></a></li>
 </ul></div>
 

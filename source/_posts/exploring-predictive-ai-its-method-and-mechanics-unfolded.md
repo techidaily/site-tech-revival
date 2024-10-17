@@ -1,7 +1,7 @@
 ---
 title: "Exploring Predictive AI: Its Method and Mechanics Unfolded"
-date: 2024-10-03T18:34:38.778Z
-updated: 2024-10-10T17:41:36.616Z
+date: 2024-10-15T22:28:01.607Z
+updated: 2024-10-16T16:43:01.722Z
 tags:
   - chatgpt
   - open-ai
@@ -38,23 +38,9 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -66,13 +52,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
@@ -85,6 +78,13 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -114,10 +114,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -141,21 +141,19 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-capturing-games-in-plain-sight-choose-between-obs-and-shadowplay/"><u>[New] 2024 Approved Capturing Games in Plain Sight Choose Between OBS and ShadowPlay</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-cross-play-exclusivity-guide-in-apex-legends-games/"><u>[New] Cross-Play Exclusivity Guide in Apex Legends Games</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-android-freedom-the-most-popular-top-10-fb-video-extraction-tools/"><u>[New] In 2024, Android Freedom The Most Popular Top 10 FB Video Extraction Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-scholarly-studies-top-4-benefits-of-leveraging-artificnial-intelligence/"><u>Boosting Scholarly Studies: Top 4 Benefits of Leveraging Artificnial Intelligence</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211398342-computer-keeps-powering-down-heres-how-to-stop-it-from-turning-on-and-off-again/"><u>Computer Keeps Powering Down? Here's How to Stop It From Turning On and Off Again</u></a></li>
-<li><a href="https://discover-best.techidaily.com/cookiebot-enabled-enhance-your-websites-analytics-and-conversion-tracking/"><u>Cookiebot-Enabled: Enhance Your Website's Analytics and Conversion Tracking</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digital-support-strategies-ethical-use-of-gpt/"><u>Digital Support Strategies: Ethical Use of GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-6-ways-to-upgrade-your-living-with-ai/"><u>Discover the 6 Ways to Upgrade Your Living with AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-cryptocurrency-business-the-top-8-gpt-powered-messaging-solutions/"><u>Elevate Your Cryptocurrency Business: The Top 8 GPT-Powered Messaging Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-access-to-gpt-4-achieved-but-dont-discard-chatgpt-plus-just-yet-here-are-six-reasons-why/"><u>Free Access to GPT-4 Achieved, but Don't Discard ChatGPT Plus Just Yet – Here Are Six Reasons Why</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-the-power-of-next-gen-ai-free-advanced-gpt-4-enhancements-with-copilot-support/"><u>Harnessing the Power of Next-Gen AI: Free, Advanced GPT-4 Enhancements with Copilot Support</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-integral-rulebook-ensuring-harmonious-video-sharing/"><u>In 2024, Integral Rulebook Ensuring Harmonious Video Sharing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reigning-in-the-chaos-five-ways-to-tackle-no-mail-in-windows-11-mail-app/"><u>Reigning in the Chaos: Five Ways to Tackle No Mail in Windows 11 Mail App</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/steps-to-permanently-remove-your-chatgpt-profile/"><u>Steps to Permanently Remove Your ChatGPT Profile</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-top-11-innovative-sites-for-crafting-impactful-fb-cover-photos/"><u>[New] 2024 Approved Top 11 Innovative Sites for Crafting Impactful FB Cover Photos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-exploring-the-mystery-of-the-blue-video-symbol-on-fb-messages/"><u>[New] Exploring the Mystery of the Blue Video Symbol on FB Messages</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nderstanding-the-income-framework-that-supports-tseries-youtube-success-for-2024/"><u>[New] Understanding the Income Framework that Supports TSeries' Youtube Success for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-over-120-creative-snapchat-narratives-for-standout-personal-branding/"><u>[Updated] 2024 Approved Over 120 Creative Snapchat Narratives for Standout Personal Branding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-your-anxiety-with-chatgpts-guidance/"><u>Conquer Your Anxiety with ChatGPT's Guidance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-infiltration-despite-advanced-tech/"><u>Content Infiltration Despite Advanced Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-hugging-face-understanding-its-role-in-ai-development/"><u>Demystifying Hugging Face: Understanding Its Role in AI Development</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Does Airplane Mode Turn off GPS Location On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-se-2020-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-into-the-temporary-suspension-of-chatgpt-subscriptions-and-future-availability-predictions/"><u>Insights Into the Temporary Suspension of ChatGPT Subscriptions and Future Availability Predictions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simulating-dialogue-in-artificayer-intelligence/"><u>Simulating Dialogue in Artificayer Intelligence</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-bing-understanding-microsofts-implementation-of-ai-capabilities/"><u>The Evolution of Bing: Understanding Microsoft's Implementation of AI Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-strategies-leveraging-chatgpt-for-business-growth/"><u>Top 8 Strategies: Leveraging ChatGPT for Business Growth</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-dll-files-on-windows-solutions-for-common-issues/"><u>Troubleshooting Missing DLL Files on Windows - Solutions for Common Issues</u></a></li>
 </ul></div>
 

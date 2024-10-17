@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2024-10-03T16:32:26.878Z
-updated: 2024-10-10T17:19:17.360Z
+date: 2024-10-11T00:26:19.561Z
+updated: 2024-10-16T20:02:32.486Z
 tags:
   - chatgpt
   - open-ai
@@ -38,23 +38,9 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -67,13 +53,20 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -86,6 +79,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -95,10 +95,10 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -141,21 +141,16 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-create-captivating-cover-cinematics-for-2024/"><u>[New] Create Captivating Cover Cinematics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-blur-background-of-your-youtube-video/"><u>[Updated] 2024 Approved How to Blur Background of Your YouTube Video</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-best-techniques-for-capturing-youtube-live-video-for-2024/"><u>[Updated] Best Techniques for Capturing YouTube Live Video for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-professional-content-creators-guide-studio-vs-beta-platform/"><u>[Updated] In 2024, Professional Content Creator's Guide Studio Vs. Beta Platform</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-slide-by-slide-audio-integration-for-dynamic-ppts/"><u>[Updated] Slide-by-Slide Audio Integration for Dynamic PPTs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-online-tips-creating-title-magic/"><u>[Updated] Top Online Tips Creating Title Magic</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-mastering-the-art-of-inquiry-a-step-by-step-guide-to-crafting-effective-questions/"><u>1. Mastering the Art of Inquiry: A Step-by-Step Guide to Crafting Effective Questions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-unlocking-the-secrets-how-to-bypass-drm-on-your-kindle-kpf-books-complete-guide/"><u>1. Unlocking the Secrets: How To Bypass DRM on Your Kindle KPF Books - Complete Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-kid-friendly-kindle-books-exclusive-holiday-discounts-and-deals-a-festive-guide-to-the-hottest-kids-gifts-in-2015/"><u>Best Kid-Friendly Kindle Books: Exclusive Holiday Discounts & Deals - A Festive Guide to the Hottest Kids' Gifts in 2015!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/combining-several-epub-books-into-one-seamless-file/"><u>Combining Several EPUB Books Into One Seamless File</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-vivo-x-fold-2-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Vivo X Fold 2 using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-importing-ebooks-in-epub-format-onto-your-amazon-kindle-device/"><u>Step-by-Step Guide: Importing eBooks in ePub Format Onto Your Amazon Kindle Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transforming-your-epub-files-into-plain-text-documents/"><u>Step-by-Step Guide: Transforming Your EPUB Files Into Plain Text Documents</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-google-pixel-8-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Google Pixel 8 Pro Location | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transforming-still-images-into-expressive-animations-gif-for-2024/"><u>Transforming Still Images Into Expressive Animations (GIF) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-freeing-content-remove-drm-from-various-formats-like-epub-and-mobi/"><u>Ultimate Guide to Freeing Content: Remove DRM From Various Formats Like ePUB and MOBI</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cyberspace-celebs-top-youtube-personalities-by-views/"><u>[New] 2024 Approved Cyberspace Celebs Top YouTube Personalities by Views</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-elite-screen-recording-apps-of-2023-expert-picks/"><u>[New] 2024 Approved Elite Screen Recording Apps of 2023 - Expert Picks</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1-probleme-de-visualisation-avec-le-wd-my-passport-solutions-rapides-et-efficaces/"><u>1. Problème De Visualisation Avec Le WD My Passport : Solutions Rapides Et Efficaces</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-i-trust-ai-technology-like-chatgpt-with-designing-my-personalized-workouts-that-are-both-secure-and-efficient/"><u>Can I Trust AI Technology Like ChatGPT With Designing My Personalized Workouts That Are Both Secure And Efficient?</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/free-video-extraction-save-clips-from-godtube-as-mp4-or-mp3-files-for-windows-and-macos/"><u>Free Video Extraction: Save Clips From GodTube as MP4 or MP3 Files for Windows and macOS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-v30-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V30 to Protect Your Individual Information</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fast-tracking-your-creative-spark-with-google-images-art/"><u>In 2024, Fast-Tracking Your Creative Spark with Google Images Art</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovating-fictional-landscapes-using-chatai/"><u>Innovating Fictional Landscapes Using ChatAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-content-with-chatgpt-tips-to-elevate-creative-projects/"><u>Mastering the Art of Content with ChatGPT: Tips to Elevate Creative Projects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-ai-understanding-with-6-innovative-prompting-techniques-to-prevent-hallucinations/"><u>Optimizing AI Understanding with 6 Innovative Prompting Techniques to Prevent Hallucinations</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: Taking and Organizing Notes Like a Pro with ChatGPT"
-date: 2024-10-08T16:22:58.758Z
-updated: 2024-10-10T16:10:42.924Z
+date: 2024-10-14T20:46:35.495Z
+updated: 2024-10-16T21:49:17.336Z
 tags:
   - chatgpt
   - open-ai
@@ -63,10 +63,16 @@ After Installing Python, you can download Auto-GPT from GitHub.
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
@@ -104,10 +110,10 @@ Congratulations! You have successfully Installed Auto-GPT.
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
@@ -125,10 +131,10 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
@@ -138,10 +144,10 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
@@ -155,10 +161,10 @@ After making the recipe, our AI has now completed its task.
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
@@ -176,10 +182,10 @@ After making the recipe, our AI has now completed its task.
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
@@ -203,20 +209,24 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-crafting-your-own-android-ringtones-and-sounds/"><u>[New] Step-By-Step Crafting Your Own Android Ringtones and Sounds</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-tailor-made-video-hosting-on-vimeo-pick-your-perfect-level/"><u>[New] Tailor-Made Video Hosting on Vimeo Pick Your Perfect Level</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-battle-of-the-titans-gopro-hero4-black-versus-drift-ghost-s/"><u>2024 Approved Battle of the Titans GoPro Hero4 Black Versus Drift Ghost-S</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-12plus-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme 12+ 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-vision-and-sound-the-new-capabilities-of-the-google-assistant/"><u>AI-Powered Vision and Sound: The New Capabilities of the Google Assistant</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/alleged-security-flaw-chatgpt-accused-of-exposing-user-passwords-during-dialogue/"><u>Alleged Security Flaw: ChatGPT Accused of Exposing User Passwords During Dialogue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-versatile-chatgpt-profiles-adapted-for-diverse-events/"><u>Building Versatile ChatGPT Profiles Adapted for Diverse Events</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ces-202n4-spotlight-exploring-the-most-exceptional-technology-achievements-of-the-year/"><u>CES 202N4 Spotlight: Exploring the Most Exceptional Technology Achievements of The Year</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-samsung-galaxy-tab-s7plus-evaluation-the-ultimate-android-tablet/"><u>Comprehensive Samsung Galaxy Tab S7+ Evaluation: The Ultimate Android Tablet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-cryptocurrency-an-in-depth-look-at-what-is-apecoin/"><u>Demystifying Cryptocurrency: An In-Depth Look at What Is ApeCoin?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-most-sought-after-win7-recording-software-our-top-picks/"><u>Discover the Most Sought-After Win7 Recording Software - Our Top Picks!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-audio-alchemy-fusing-music-and-visuals-on-instagram/"><u>In 2024, Audio Alchemy Fusing Music and Visuals on Instagram</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-14-plus-i-do-get-answers-here-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 14 Plus i Do? Get Answers here</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/optimizing-nintendo-switch-controller-for-steam-games-for-2024/"><u>Optimizing Nintendo Switch Controller for Steam Games for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-truth-how-chatgpt-fascinates-with-insights-despite-its-persistent-misinformation/"><u>Unveiling the Truth: How ChatGPT Fascinates with Insights Despite Its Persistent Misinformation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-diy-instagram-videos-simple-steps-to-success/"><u>[Updated] 2024 Approved DIY Instagram Videos Simple Steps to Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-composing-an-alluring-cinematic-teaser-track/"><u>[Updated] Composing an Alluring Cinematic Teaser Track</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unleashing-vibrance-grading-secrets-in-ps/"><u>[Updated] Unleashing Vibrance Grading Secrets in PS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029981736-iphone/"><u>異常な音量で動画記録したい場合、iPhoneの原因と対処技術</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5pya6ygp44gq5yuv55s75b2i5byp44go44ox44op44od44oi44ov44kp44o844og44gu6yg45a6a44gr5b2556ul44gk5o6i57si5oim55wl/"><u>最適な動画形式とプラットフォームの選定に役立つ探索戦略</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/alphabet-awareness-swedens-pronunciation-path/"><u>Alphabet Awareness: Sweden's Pronunciation Path</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-10-non-browser-based-screen-capture-tools-for-your-pc/"><u>Best 10 Non-Browser Based Screen Capture Tools for Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-video-format-converter-from-dvd-to-avi-on-pc-optimized-for-windows-10-and-11-in-2e24/"><u>Best Video Format Converter From DVD to AVI on PC: Optimized for Windows 10 and 11 in 2E24</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-c67-4g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on C67 4G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-editing-skills-switch-to-our-pro-grade-video-converter-for-advanced-features/"><u>Elevate Your Editing Skills: Switch to Our Pro-Grade Video Converter for Advanced Features</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-live-play-with-professional-gear-lists-for-2024/"><u>Elevating Live Play with Professional Gear Lists for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-animated-magic-access-free-online-cartoon-shows-and-anime/"><u>Experience Animated Magic: Access Free Online Cartoon Shows & Anime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-and-easy-steps-to-transform-your-m4v-files-to-mkv-format/"><u>Fast and Easy Steps to Transform Your M4V Files to MKV Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/four-easy-and-powerful-techniques-to-transform-dv-files-into-mp4-format/"><u>Four Easy & Powerful Techniques to Transform DV Files Into MP4 Format</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/gopro-hero7-black-a-game-changer-for-adventurers/"><u>GoPro HERO7 Black - A Game-Changer for Adventurers!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722960200061-instant-upgrade-secure-the-newest-intel-thunderbolt-controller-program-with-this-quick-download-link/"><u>Instant Upgrade! Secure the Newest Intel Thunderbolt Controller Program with This Quick Download Link.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/manual-de-instruccion-para-el-programa-winxdvd-mejoras-y-optimizaciones/"><u>Manual De Instrucción Para El Programa WinXDVD: Mejoras Y Optimizaciones</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/transform-your-fb-vids-to-full-screen/"><u>Transform Your FB Vids to Full Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029169188-webm/"><u>WEBMにおける音響・視覚処理の新たな二段階方式</u></a></li>
 </ul></div>
 

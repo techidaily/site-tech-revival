@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Worst Plugins: Avoid These 6 Time-Wasters"
-date: 2024-10-04T16:00:42.940Z
-updated: 2024-10-10T18:29:25.161Z
+date: 2024-10-13T16:50:05.988Z
+updated: 2024-10-17T00:48:57.972Z
 tags:
   - chatgpt
   - open-ai
@@ -63,20 +63,13 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -86,15 +79,22 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
@@ -105,6 +105,13 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -112,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -130,6 +130,13 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -137,13 +144,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -162,17 +162,22 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-syncing-tiktok-content-with-twitter/"><u>[New] 2024 Approved Syncing TikTok Content with Twitter</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unleash-your-creativity-a-guide-to-30-video-inspirations/"><u>[New] 2024 Approved Unleash Your Creativity A Guide to 30 Video Inspirations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-video-builder-how-to-create-video-ads-for-free/"><u>2024 Approved YouTube Video Builder How to Create Video Ads for Free?</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-assistants-battle-which-provides-superior-experience-gemini-or-chatgpt-plus/"><u>AI Assistants Battle: Which Provides Superior Experience, Gemini or ChatGPT Plus?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-the-quest-for-data-security/"><u>ChatGPT and the Quest for Data Security</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harness-the-power-of-auto-gpt-with-these-8-essential-strategies/"><u>Harness the Power of Auto-GPT with These 8 Essential Strategies</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-for-the-vanguard-initialization-problem-on-valorant-gameplay/"><u>Quick Solutions for the Vanguard Initialization Problem on VALORANT Gameplay</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-browsing-ai-in-microsofts-bing/"><u>Revolutionizing Browsing: AI in Microsoft's Bing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/strategies-for-calmer-mobile-screen-captures/"><u>Strategies for Calmer Mobile Screen Captures</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-blur-faces-like-a-pro-best-free-apps-for-anonymous-media/"><u>Updated Blur Faces Like a Pro Best Free Apps for Anonymous Media</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-infinix-note-30-vip-racing-edition-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Infinix Note 30 VIP Racing Edition? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-techniques-for-capturing-high-quality-movies-on-all-os/"><u>[New] 2024 Approved Techniques for Capturing High-Quality Movies on All OS</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-twitch-facebook-synergy-broadcasting-tips-for-2024/"><u>[Updated] Twitch-Facebook Synergy Broadcasting Tips for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a25-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A25 5G has native MOV support?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-artistic-excellence-with-the-gaomon-pd15n-tablet-a-pen-display-reviewed/"><u>Exploring Artistic Excellence with the Gaomon PD15n Tablet – A Pen Display Reviewed</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-11-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme 11 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-xiaomi-redmi-note-12-4g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi Note 12 4G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-hot-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Hot 30 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 12?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-magnification-with-your-ios-devices-zooming-capabilities/"><u>Master the Art of Magnification with Your iOS Device's Zooming Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-streaming-with-manycam-premium-live-video-solution/"><u>Real-Time Streaming with ManyCam: Premium Live Video Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-streaming-with-manycam-ultimate-livestream-and-virtual-camera-solution/"><u>Real-Time Streaming with ManyCam: Ultimate Livestream and Virtual Camera Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-choices-in-live-streaming-tools-manycam-xsplit-broadcaster-zonescreen-webcam-emulator/"><u>Top Choices in Live Streaming Tools: ManyCam, XSplit Broadcaster, ZoneScreen Webcam Emulator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-using-manycam-cutting-edge-livestream-tech-and-remote-cam-devices/"><u>Transform Your Broadcasts Using ManyCam: Cutting-Edge Livestream Tech & Remote Cam Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-top-tier-live-video-and-webcam-technology/"><u>Transform Your Broadcasts with ManyCam - Top-Tier Live Video and Webcam Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-choice-in-live-video-software-and-virtual-cam-tech/"><u>Transform Your Broadcasts with ManyCam – The Leading Choice in Live Video Software and Virtual Cam Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-online-presence-with-manycams-advanced-virtual-webcam-solutions/"><u>Transform Your Online Presence with ManyCam's Advanced Virtual Webcam Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-streaming-game-with-manycam-advanced-live-video-and-fake-webcam-tech/"><u>Transform Your Streaming Game with ManyCam – Advanced Live Video and Fake Webcam Tech</u></a></li>
 </ul></div>
 

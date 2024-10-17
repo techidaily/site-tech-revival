@@ -1,7 +1,7 @@
 ---
 title: "Guide: Easy Steps to Activate Your Access to ChatGPT Plugin Extensions"
-date: 2024-10-05T16:37:30.900Z
-updated: 2024-10-10T17:41:33.961Z
+date: 2024-10-15T00:53:24.328Z
+updated: 2024-10-16T17:33:32.949Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. InstaCart
 
  The InstaCart ChatGPT plugin helps you express your meal planning needs in natural language and, in turn, get a "shoppable" list of the food items or ingredients that you need to prepare the meal in an instant. The plugin generates an InstaCart shopping list of all the ingredients you'll need to prepare a meal in its right quantity. With a few further clicks, you can get all the ingredients delivered to your doorstep.
@@ -53,15 +60,22 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
 ![Jollof Rice shopping list by InstaCart ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/jollof-rice-shopping-list-by-instacart-chatgpt-plugin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After we made a few adjustments, all the necessary ingredients were added to our shopping cart awaiting checkout.
 
@@ -81,14 +95,14 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 
 ![fact-checking with ChatGPT and Wolfram Alpha](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/fact-checking-with-chatgpt-and-wolfram-alpha.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wolfram was able to run the generated information against its database to check for accuracy.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. ChatWithPDF
 
@@ -102,14 +116,14 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Turns out another important use case is making sense of technical documents like this.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Video Insights
 
@@ -121,14 +135,14 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
-Yes, it was a spot-on description of the video if you're wondering.
-
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Yes, it was a spot-on description of the video if you're wondering.
 
 ## 7\. SceneXplain
 
@@ -138,16 +152,16 @@ Yes, it was a spot-on description of the video if you're wondering.
 
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To use the plugin, use a prompt like:
 
 Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg> or list all the objects you see in this image: <https://images.pexels.com/photos/7876708/pexels-photo-7876708.jpeg>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. There's An AI For That
 
@@ -157,25 +171,11 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. What to Watch
 
  If you are a fan of movies and TV shows, then the "What to Watch" plugin is one worth installing. Describe the kind of movies or TV shows you want, and it will bring up plausible suggestions. Unfortunately, one major setback is that it isn't hooked up to an updated movie database. When we prompted it for new movies, it failed to turn up any movie released after 2021.
 
  If your prompting skills aren't particularly strong, you'll find it useful. However, if you know your way around ChatGPT prompts, you might be better off using your own ChatGPT prompts, in which case we recommend checking out our comprehensive[guide on using ChatGPT to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Embrace ChatGPT Plugins
 
@@ -196,24 +196,21 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-ios-and-android-downloading-and-personalizing-whatsapp-tones/"><u>[Updated] IOS & Android Downloading & Personalizing WhatsApp Tones</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unified-iptv-streaming-framework/"><u>[Updated] Unified IPTV Streaming Framework</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-quick-scale-your-iphones-viewport/"><u>2024 Approved Quick Scale Your iPhone's Viewport</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/addressing-car-gpt-issues-6-common-hurdles-and-their-remedies/"><u>Addressing Car GPT Issues: 6 Common Hurdles and Their Remedies</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/best-free-youtube-intro-makers-to-create-awesome-intros-for-2024/"><u>Best Free YouTube Intro Makers to Create Awesome Intros for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bridging-minds-and-devices-chatgpt-on-android/"><u>Bridging Minds & Devices: ChatGPT on Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cut-the-clutter-organizing-chatgpt-exchanges-through-folders/"><u>Cut the Clutter: Organizing ChatGPT Exchanges Through Folders</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/find-your-favorite-with-these-top-5-iphone-podcast-services/"><u>Find Your Favorite with These Top 5 iPhone Podcast Services</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/flashback-forge-restoring-lost-photographs/"><u>Flashback Forge: Restoring Lost Photographs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-basics-to-expertise-a-developers-roadmap-for-combining-gpt-3-with-python-technology/"><u>From Basics to Expertise: A Developer's Roadmap for Combining GPT-3 with Python Technology</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-motorola-moto-g23-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Motorola Moto G23 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-networking-galore-places-for-youtube-affiliate-marketing/"><u>In 2024, Networking Galore Places for YouTube Affiliate Marketing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/installing-bavarder-linuxs-chatgpt-routine/"><u>Installing Bavarder: Linux's ChatGPT Routine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-working-in-prompt-engineering-feasible-understand-key-considerations/"><u>Is Working in Prompt Engineering Feasible? Understand Key Considerations</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-realignment-youtube-on-mac-display-ratio-for-2024/"><u>Quick Realignment YouTube on Mac Display Ratio for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/snapshot-vs-search-assistant-showdown-uncovering-8-major-contrasts-of-snapchat-and-bing-chat-on-skype/"><u>Snapshot Vs. Search Assistant Showdown: Uncovering 8 Major Contrasts of Snapchat and Bing Chat on Skype</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speak-the-language-of-ai-5-voice-controlled-chatgpt-tips/"><u>Speak the Language of AI: 5 Voice-Controlled ChatGPT Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stay-ahead-of-tech-trends-understanding-new-threats-on-twitter-the-launch-of-metas-verification-status-and-comprehensive-insights-into-chatgpt-4-technology.12/"><u>Stay Ahead of Tech Trends: Understanding New Threats on Twitter, The Launch of Meta's Verification Status, and Comprehensive Insights Into ChatGPT- 4 Technology</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-conquer-and-cease-the-unremovable-guide-to-youtube-shorts-for-2024/"><u>[New] Conquer & Cease The Unremovable Guide to Youtube Shorts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-vr-film-experiences-to-witness/"><u>[New] Key VR Film Experiences to Witness</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-choices-for-next-gen-vr-accessories-unveiled/"><u>[Updated] Top Choices for Next-Gen VR Accessories Unveiled</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-eliminate-background-music-from-your-mp4-videos/"><u>2024 Approved How to Eliminate Background Music From Your MP4 Videos</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-12-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 12 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-xiaomi-civi-3-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Xiaomi Civi 3 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/bypass-savevid-download-failures-easily-uncover-superior-video-download-options-today/"><u>Bypass SaveVid Download Failures Easily – Uncover Superior Video Download Options Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-ai-verification-applications-for-teachers-lecturers-and-bosses-to-spot-fake-gpt-content/"><u>Essential AI Verification Applications for Teachers, Lecturers, and Bosses to Spot Fake GPT Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-artificial-intelligence-vocabulary-uncover-the-meaning-of-key-ai-terms/"><u>Essential Artificial Intelligence Vocabulary: Uncover the Meaning of Key AI Terms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-secure-is-the-chatgpt-platform-from-cybersecurity-perspectspective/"><u>How Secure Is the ChatGPT Platform From Cybersecurity Perspectspective?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-tap-into-chatgpts-potential-top-7-reasons/"><u>How to Tap Into ChatGPT's Potential: Top 7 Reasons</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-podcast-scriptwriting-made-easy-techniques-and-illustrative-templates/"><u>In 2024, Podcast Scriptwriting Made Easy Techniques and Illustrative Templates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-with-your-ubuntu-terminal-a-step-by-step-guide/"><u>Integrating ChatGPT with Your Ubuntu Terminal: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-bypass-6-critical-prompt-mistakes-for-better-ai-interaction/"><u>Mastering ChatGPT: Bypass 6 Critical Prompt Mistakes for Better AI Interaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-savvy-users-manual-to-leveraging-chatgpt-technology-on-both-android-and-ios-platforms/"><u>The Savvy User's Manual to Leveraging ChatGPT Technology on Both Android and iOS Platforms</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tvkhny-vydv-2024-15plus-hkhvllt-l-mhvym-smrtfvnym-vmtsvt-mkh-zmn-hynm/"><u>תוכני וידאו 2024: 15+ הכוללת ل-מחשבים, סמארטפונים - באמצעות משך זמן חינם</u></a></li>
 </ul></div>
 

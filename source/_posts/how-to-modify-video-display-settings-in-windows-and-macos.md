@@ -1,7 +1,7 @@
 ---
 title: How to Modify Video Display Settings in Windows & macOS
-date: 2024-09-12 22:10:28
-updated: 2024-09-13 11:36:32
+date: 2024-10-10T19:58:49.273Z
+updated: 2024-10-16T20:50:11.117Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4599f50b602c6cf6fd2e770298cbc820ac519a960550c4309b2e36a11fd875c9.jpg
@@ -287,6 +287,19 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -306,6 +319,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
@@ -324,6 +344,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 ### Optez pour un SSD
@@ -333,6 +360,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -351,6 +385,13 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -455,6 +496,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -467,6 +515,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -510,6 +565,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -536,11 +598,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-best-value-for-money-selecting-the-leading-free-srt-services/"><u>[New] 2024 Approved Best Value for Money Selecting the Leading Free SRT Services</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-audience-engagement-excellence-spreading-stories-on-facebook/"><u>[New] Audience Engagement Excellence Spreading Stories on Facebook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dissecting-the-social-media-landscape-the-case-of-triller-and-tiktok/"><u>[Updated] 2024 Approved Dissecting the Social Media Landscape The Case of Triller & TikTok</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-insights-for-channel-expansion-for-2024/"><u>[Updated] Mastering YouTube Insights for Channel Expansion for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-mcn-your-comprehensive-youtube-creators-roadmap/"><u>2024 Approved Mastering MCN Your Comprehensive YouTube Creator's Roadmap</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/download-the-best-free-panoramic-video-player-software-for-windows-and-macos-ranked-1-to-4/"><u>Download the Best Free Panoramic Video Player Software for Windows and macOS, Ranked #1 to #4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-copia-e-cattura-gratis-con-software-dvd-ripper-2020-metodi-protezionati-sicuri/"><u>DVD Copia E Cattura Gratis Con Software DVD Ripper 2020 - Metodi Protezionati Sicuri</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exclusive-winx-dvd-ripper-pro-key-giveaway-unlock-top-tier-conversion-features/"><u>Exclusive WinX DVD Ripper Pro Key Giveaway: Unlock Top-Tier Conversion Features!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-k11x-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo K11x FRP In 3 Different Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenlose-video-downloads-aus-twitter-fur-pcs-iphones-and-android-gerate-einfache-anleitung/"><u>Kostenlose Video-Downloads Aus Twitter Für PCs, iPhones & Android Geräte – Einfache Anleitung</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-huawei-p60-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Huawei P60</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/meilleurs-outils-logiciels-pour-compactage-video-et-reduction-des-tailles-de-fichiers/"><u>Meilleurs Outils Logiciels Pour Compactage Vidéo Et Réduction Des Tailles De Fichiers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pc-dvd/"><u>PCおよびスマートフォン用 DVD再生ガイド - 簡単かつ迅速なプレイ方法を学ぶ！</u></a></li>
+<li><a href="https://windows11.techidaily.com/securely-uninstalling-windows-11-printers-without-errors/"><u>Securely Uninstalling Windows 11 Printers Without Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-perfectly-duplicating-your-dvds-using-a-mac-the-ultimate-4-method-techniques/"><u>Step-by-Step Guide: Perfectly Duplicating Your DVDs Using a Mac - The Ultimate 4 Method Techniques!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/topas-tecnicas-para-reducir-el-tamano-de-videos-grandes-y-facilitar-su-envio-por-correo-electronico/"><u>Topas Técnicas Para Reducir El Tamaño De Videos Grandes Y Facilitar Su Envío Por Correo Electrónico</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transformez-votre-fichier-flac-en-format-wma-sans-frais-tutorial-avec-movavi/"><u>Transformez Votre Fichier FLAC en Format WMA Sans Frais - Tutorial Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-enabling-mp4-support-in-windows-media-player/"><u>Troubleshooting Guide: Enabling MP4 Support in Windows Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tutorial-rapide-pour-convertir-des-fichiers-mkv-en-disques-dur-cd-avec-winx-dvd-creator-sur-les-systemes-dexploitation-windows/"><u>Tutorial Rapide Pour Convertir Des Fichiers MKV en Disques Dur CD Avec WinX DVD Creator Sur Les Systèmes D'Exploitation Windows</u></a></li>
+</ul></div>
+

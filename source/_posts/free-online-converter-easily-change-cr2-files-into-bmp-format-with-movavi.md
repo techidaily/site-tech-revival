@@ -1,7 +1,7 @@
 ---
 title: "Free Online Converter: Easily Change CR2 Files Into BMP Format with Movavi"
-date: 2024-09-12 10:40:32
-updated: 2024-09-13 12:38:44
+date: 2024-10-10T17:43:08.943Z
+updated: 2024-10-16T20:20:23.844Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b1ce76ae0c88b3d20df5b9c8f9615eeb430e607a937f57852fbde96fd0399adc.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -270,6 +277,19 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
 Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez dans votre client Steam et trouvez les options de mise à jour dans **Steam** \- **Paramètres** \- **Téléchargements**. Décochez la case **Autoriser les téléchargements pendant le jeu**.
@@ -298,6 +318,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -318,6 +345,13 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -337,6 +371,13 @@ Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation e
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
@@ -395,6 +436,13 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -410,6 +458,19 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -454,6 +515,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -536,11 +604,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-leading-the-charge-in-sustainable-filmmaking/"><u>[New] 2024 Approved Leading the Charge in Sustainable Filmmaking</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-become-a-pro-downloading-and-setting-up-vrecord-for-2024/"><u>[New] Become a Pro Downloading & Setting Up VRecord for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-prime-fb-video-converters-secure-mp4-downloads/"><u>[Updated] In 2024, Prime FB Video Converters Secure MP4 Downloads</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-the-compre-point-saving-twitter-exclusive-gifs-on-phones/"><u>[Updated] The Compre Point Saving Twitter-Exclusive Gifs on Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-official-winxvideo-ai-features-and-tech-specs-detailed-guide/"><u>1. Official WinXVideo AI Features and Tech Specs: Detailed Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-resolving-video-player-issues-a-step-by-step-guide-to-overcome-error-0xc00d36c4/"><u>1. Resolving Video Player Issues: A Step-by-Step Guide to Overcome Error 0xC00D36C4</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-ultimate-tips-for-instagram-video-reverse-playback/"><u>2024 Approved Ultimate Tips for Instagram Video Reverse Playback</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-youtubes-creative-commons-a-guide-for-videographers/"><u>2024 Approved YouTube’s Creative Commons A Guide for Videographers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-windows-software-top-3-dvd-ripping-tools-for-win10win11-fully-updated-and-free/"><u>Best Free Windows Software: TOP 3 DVD Ripping Tools for Win10/Win11, Fully Updated & Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converti-i-tuoi-dischi-da-disco-dvd-in-formato-digitale-con-questa-guida-semplice-per-sistemi-operativi-windowsmac/"><u>Converti I Tuoi Dischi Da Disco DVD in Formato Digitale Con Questa Guida Semplice per Sistemi Operativi Windows/Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/esempio-video-mp4-ruotare-il-contenuto-tra-90-180-e-270-mantenendo-intatta-la-definizione-originale/"><u>Esempio Video MP4: Ruotare Il Contenuto Tra 90°, 180° E 270° Mantenendo Intatta La Definizione Originale</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-k11x-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Oppo K11x PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-rewiring-windows-photo-viewer-on-windows-10-two-methods-explored/"><u>In 2024, Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lart-de-la-traduction-inserer-des-sous-titres-dans-vos-films-dvd/"><u>L'Art De La Traduction: Insérer Des Sous-Titres Dans Vos Films DVD</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/superare-i-limiti-impara-a-eliminare-la-protezione-sui-tuoi-filmati-disney/"><u>Superare I Limiti: Impara a Eliminare La Protezione Sui Tuoi Filmati Disney</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-x7b-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor X7b Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-conversores-h265hevc-opciones-inigualables-para-windows-mac-y-dispositivos-en-linea-en-2023/"><u>Top Conversores H.265/HEVC: Opciones Inigualables Para Windows, MAC Y Dispositivos en Línea en 2023</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-freeware-alternativen-zum-win32-disk-image-generator-gratis-herunterladen/"><u>Top Freeware: Alternativen Zum Win32 Disk Image-Generator - Gratis Herunterladen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-solutions-for-resolving-hulu-error-code-94-across-multiple-devices/"><u>Troubleshooting and Solutions for Resolving 'Hulu Error Code 94' Across Multiple Devices</u></a></li>
+</ul></div>
+

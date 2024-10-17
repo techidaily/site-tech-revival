@@ -1,7 +1,7 @@
 ---
 title: "Deciphering Distinctions: GPT-4 Vs. GPT-4x Versions Explained"
-date: 2024-10-04T18:26:03.779Z
-updated: 2024-10-10T16:29:17.558Z
+date: 2024-10-13T18:14:25.623Z
+updated: 2024-10-16T17:12:42.010Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
@@ -63,21 +63,22 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
@@ -87,34 +88,15 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -141,24 +123,20 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-game-streamers-for-your-watchlist/"><u>[New] 2024 Approved Essential Game Streamers for Your Watchlist</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-premium-fb-extra-tools-secure-file-grabber-enhanced-firefox-use/"><u>[New] 2024 Approved Premium FB Extra Tools Secure File Grabber, Enhanced Firefox Use</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-painters-touch-mastering-color-artistry/"><u>[Updated] In 2024, The Painter's Touch Mastering Color Artistry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-powered-resume-writing-unleashing-chatgpts-potential-for-professional-success/"><u>AI-Powered Resume Writing: Unleashing ChatGPT's Potential for Professional Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clarity-chatgpt-is-definitely-malware-for-win-users/"><u>Clarity: ChatGPT Is Definitely Malware for Win Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-professionalism-in-resume-crafting-chatgpt-techniques/"><u>Elevate Professionalism in Resume Crafting (ChatGPT Techniques)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-skills-a-list-of-7-must-use-internet-resources-for-expert-prompt-engineering/"><u>Elevate Your Skills: A List of 7 Must-Use Internet Resources for Expert Prompt Engineering</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enriched-expressions-boosting-artistic-output-via-chatgpt-expertise/"><u>Enriched Expressions: Boosting Artistic Output via ChatGPT Expertise</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978322419-get-your-m-audio-fast-track-driver-for-windows-11-7-8-and-81-today/"><u>Get Your M-Audio Fast Track Driver for Windows 11, 7, 8 and 8.1 Today</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionize-editing-the-secret-techniques-for-background-obliteration-in-affinity/"><u>In 2024, Revolutionize Editing The Secret Techniques for Background Obliteration in Affinity</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llamas-vs-ai-head-to-head-comparison-of-a-camelid-and-gpt-4/"><u>Llamas vs AI: Head-to-Head Comparison of a Camelid and GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-written-expression-with-chatgpt-six-key-approaches/"><u>Mastering Written Expression with ChatGPT: Six Key Approaches</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/prime-voice-activated-transcription-tools/"><u>Prime Voice-Activated Transcription Tools</u></a></li>
-<li><a href="https://driver-install.techidaily.com/reviving-your-printer-with-fresh-windows-71011-drivers/"><u>Reviving Your Printer with Fresh Windows 7/10/11 Drivers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/solving-obs-high-bitrate-issues/"><u>Solving OBS High Bitrate Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-how-gpt-4-is-revolutionizing-universal-ai-usage/"><u>Step by Step: How GPT-4 Is Revolutionizing Universal AI Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-to-individual-chatgpt-construction/"><u>Step-by-Step to Individual ChatGPT Construction</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-rated-password-safeguards-comparison-of-free-vs-premium-options/"><u>Top Rated Password Safeguards: Comparison of Free vs Premium Options</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-skyrocketing-engagement-on-igtv-with-smart-hash-tagging/"><u>[New] In 2024, Skyrocketing Engagement on IGTV with Smart Hash Tagging</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-step-into-fantasy-with-these-samsung-gear-vr-titles/"><u>[Updated] In 2024, Step Into Fantasy with These Samsung Gear VR Titles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-dvd-ripper-platinum5/"><u>『WinX DVD Ripper Platinum』5分使用期限超え？専門的な修正方法を学ぶ</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smart-tactics-to-jump-over-online-classroom-screens/"><u>2024 Approved Smart Tactics to Jump Over Online Classroom Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725285002267-disney-dvd/"><u>解锁并转换 Disney DVD，克服加密限制方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/h265-hevc4k8k/"><u>无限量提取H.265 HEVC编解码器：确保优雅播放4k和8k影片内容</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-2-troubleshooting-fixes-for-game-not-starting-and-endless-load-screens/"><u>Dota 2 Troubleshooting: Fixes for Game Not Starting & Endless Load Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-and-install-the-windows-11-media-codec-suite-easily/"><u>Download & Install the Windows 11 Media Codec Suite Easily</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-choosing-free-video-editing-software-on-iphone-and-ipad/"><u>In 2024, Choosing Free Video Editing Software on iPhone & iPad</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illustrate-like-a-pro-selecting-superior-vector-image-creators/"><u>In 2024, Illustrate Like a Pro Selecting Superior Vector Image Creators</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-poco-m6-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Poco M6 5G Device</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/is-it-secure-to-use-free-file-conversion-tools-online-insights-from-malwarefox/"><u>Is It Secure To Use Free File Conversion Tools Online? Insights From MalwareFox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4mp39/"><u>MP4をMP3へシームレスに変更！人気フリーソフトとウェブサイトベスト9選集</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-downscaling-4k-videos-to-full-hd-using-handbrake/"><u>Step-by-Step Guide: Downscaling 4K Videos to Full HD Using Handbrake</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshoot-handbrake-malfunctions-in-windows-11-discover-reliable-solutions-and-options/"><u>Troubleshoot HandBrake Malfunctions in Windows 11 – Discover Reliable Solutions & Options.</u></a></li>
 </ul></div>
 

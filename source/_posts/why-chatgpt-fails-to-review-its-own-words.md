@@ -1,7 +1,7 @@
 ---
 title: Why ChatGPT Fails to Review Its Own Words
-date: 2024-10-09T17:52:50.911Z
-updated: 2024-10-10T16:57:32.034Z
+date: 2024-10-13T22:00:35.452Z
+updated: 2024-10-16T18:00:11.977Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -49,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -62,19 +69,6 @@ thumbnail: https://thmb.techidaily.com/92ce41ef8b05767b09e5cccf1de47f0c1a1c9c1b0
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
@@ -95,10 +89,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
@@ -119,6 +113,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
@@ -126,13 +127,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -155,20 +149,24 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>[Updated] Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/crystalclear-conversion-high-res-format-for-2024/"><u>CrystalClear Conversion - High Res Format for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-grok-ai-elon-musks-latest-innovation-understanding-the-basics-and-pricing/"><u>Discovering Grok AI: Elon Musk's Latest Innovation - Understanding the Basics & Pricing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-setup-download-the-latest-version-of-your-ft232r-serial-adapter-drivers/"><u>Effortless Setup: Download the Latest Version of Your FT232R Serial Adapter Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-dos-and-donts-avoiding-errors-with-chatgpt-in-writing-articles/"><u>Essential Dos and Don'ts: Avoiding Errors with ChatGPT in Writing Articles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-artificial-intelligence-assistants-is-it-chatgpt-plus-or-perplexity-that-reigns-supreme/"><u>Evaluating Artificial Intelligence Assistants: Is It ChatGPT Plus or Perplexity That Reigns Supreme?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-reality-of-prompt-engineering-key-aspects-you-should-reflect-on/"><u>Exploring the Reality of Prompt Engineering: Key Aspects You Should Reflect On</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuit-wegwijzer-om-ts-in-wmv-te-konverteren-onlinelastig/"><u>Gratuit Wegwijzer Om TS in WMV Te Konverteren - Onlinelastig</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-hardware-reviews-by-tom-your-guide-to-the-latest-gear/"><u>In-Depth Hardware Reviews by Tom: Your Guide to the Latest Gear</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-f15-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy F15 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-on-how-to-repair-non-charging-ps5-controllers/"><u>Step-by-Step Guide on How to Repair Non-Charging PS5 Controllers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-writers-ally-9-key-benefits-of-leveraging-chatgpt-to-compose-your-novel/"><u>The Writer's Ally: 9 Key Benefits of Leveraging ChatGPT to Compose Your Novel</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-picks-selecting-the-ultimate-prebuilt-gaming-machine-tailored-to-you/"><u>Top Picks: Selecting the Ultimate Prebuilt Gaming Machine Tailored to You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-your-imagination-with-these-5-advanced-text-generation-ais/"><u>Unlock Your Imagination with These 5 Advanced Text Generation AIs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-continuous-connection-avoiding-streak-breakers-on-snapchat/"><u>[New] 2024 Approved Continuous Connection Avoiding Streak Breakers on Snapchat</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-advertising-for-profit-the-ultimate-vimeo-guidebook/"><u>[New] Mastering Advertising for Profit The Ultimate Vimeo Guidebook</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-round-the-houses-full-rotation-photography/"><u>[New] Round the Houses Full Rotation Photography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-dynamics-of-youtubes-creator-payments/"><u>[Updated] 2024 Approved The Dynamics of YouTube's Creator Payments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-the-giants-can-llama-3-outperform-gpt-4-in-language-understanding/"><u>Battle of the Giants: Can Llama 3 Outperform GPT-4 in Language Understanding?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/everyday-essentials-showdown-choosing-between-the-claude-and-chatgpt-applications-for-optimal-performance/"><u>Everyday Essentials Showdown: Choosing Between the Claude and ChatGPT Applications for Optimal Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-advanced-hands-free-driving-assistance-mercedes-benzs-latest-chatgpt-voice-feature/"><u>Experience Advanced Hands-Free Driving Assistance: Mercedes-Benz's Latest ChatGPT Voice Feature!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/five-pivotal-factors-that-set-gpt-4-and-gpt-35-apart/"><u>Five Pivotal Factors That Set GPT-4 and GPT-3.5 Apart</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-the-latest-samsung-m2020-drivers-fast-and-secure-downloads/"><u>Get the Latest Samsung M2020 Drivers - Fast and Secure Downloads</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/impassioned-orator-review-revision-hexadecimal-eight/"><u>Impassioned Orator Review - Revision Hexadecimal Eight</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-prime-mac-video-tools-apart-from-bandicam/"><u>In 2024, Prime Mac Video Tools Apart From Bandicam</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m14-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M14 5GFRP Lock</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-easy-video-flipping-tips-and-tricks-for-a-pro-look/"><u>New Easy Video Flipping Tips and Tricks for a Pro-Look</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722964673483-overcoming-intel-chipset-drivers-hurdles-csr85-and-a10-on-windows-systems-fixed/"><u>Overcoming Intel Chipset Drivers Hurdles: CSR85# and A10 on Windows Systems Fixed!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-art-of-memory-in-ai-how-to-retrieve-and-revive-lost-chatgpt-history/"><u>The Art of Memory in AI: How to Retrieve and Revive Lost ChatGPT History</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hidden-risks-of-outsourcing-text-summaries-to-chatgpt/"><u>The Hidden Risks of Outsourcing Text Summaries to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-frequent-chatgpt-issues-identification-and-solutions/"><u>Top 6 Frequent ChatGPT Issues: Identification & Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-bert-a-comparison-with-gpt-in-nlp/"><u>Understanding BERT: A Comparison with GPT in NLP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upholding-academic-standards-without-ai-help/"><u>Upholding Academic Standards Without AI Help</u></a></li>
 </ul></div>
 

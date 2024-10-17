@@ -1,7 +1,7 @@
 ---
 title: "Italy Prohibits ChatGPT: A Closer Look at the Sudden Ban"
-date: 2024-10-03T17:11:25.003Z
-updated: 2024-10-10T16:32:32.342Z
+date: 2024-10-15T00:50:35.030Z
+updated: 2024-10-17T00:04:16.225Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
  Explore[responsible ways of writing with AI](https://www.makeuseof.com/ways-to-use-ai-as-writer-editor/) instead. ChatGPT streamlines non-writing tasks, like researching topics, editing drafts, and analyzing reader personas.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Automating Employee Performance Reviews Through ChatGPT
@@ -68,28 +68,15 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 ![Copy-Pasting Message from ChatGPT to Slack](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-replying-to-message.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A study by[McKinsey & Company](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-social-economy) shows that employees spend 28 percent of the workweek answering and reading messages. To save time, you might consider automating some responses. ChatGPT can compose customized output based on the messages and instructions you input.
 
  Although you won’t get fired, you should still avoid sending ChatGPT-generated responses. They come across as rude and distant. You’ll elicit more favorable responses if you compose unique, personalized messages.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Composing Emails on ChatGPT
 
@@ -103,15 +90,22 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  You won’t get fired if you research responsibly. As with any other online resource, it’s best to verify information multiple times before presenting it. Compare data from other sources. Solely relying on ChatGPT’s output puts you at risk of spreading misinformation, a potentially career-ending mistake.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Using Code Snippets Written by ChatGPT
 
 ![Asking ChatGPT to Write a Sample Code Snippet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/sample-code-snippet-from-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT’s ability to code in various languages caught the attention of programmers worldwide. It can write an entire site’s code in seconds. Many programmers reduce their workload by offloading much of the coding process to ChatGPT.
@@ -120,18 +114,18 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
  Explore[ethical ways of using ChatGPT in programming](https://www.makeuseof.com/chatgpt-programming-practical-uses/) . Most employers are okay with their dev team researching algorithms, generating placeholders, and refracting snippets on AI tools, but you must write and edit codes manually.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Editing Articles and Papers With ChatGPT
 
  ChatGPT can help you edit drafts. Its sophisticated language model detects awkward sentences, grammatical errors, and even incoherent statements. Take the below conversation as an example. We asked for constructive criticism based on our preferred style guide and tonality.
 
 ![ChatGPT Editing Paragraph Based on AP Styleguide](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-acting-as-an-editor.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s not unethical for employees to edit with chatbots. But if you’re an editor who publishes articles edited by ChatGPT, you’ll likely get fired. Your employer pays you to correct drafts yourself. Just running them through AI-driven tools and platforms is unethical and violates your contract.
 
@@ -166,19 +160,14 @@ thumbnail: https://thmb.techidaily.com/503f764ce718cdd5118d7c5be0e25d96b4338086c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-thumbnail-theories-selecting-the-most-effective-youtube-fonts/"><u>[New] 2024 Approved Thumbnail Theories Selecting the Most Effective YouTube Fonts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-expert-tips-for-high-quality-minecraft-saves/"><u>[New] Expert Tips for High-Quality Minecraft Saves</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-youtube-traffic-outsmarting-automated-viewers/"><u>Boosting YouTube Traffic Outsmarting Automated Viewers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-fixes-for-run-as-user-permissions-problems/"><u>Essential Fixes for Run As User Permissions Problems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-honor-x50-gt-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Honor X50 GT to iPod | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-beyond-sharex-exploring-superior-tools/"><u>In 2024, Beyond-ShareX Exploring Superior Tools</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-poco-f5-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Poco F5 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-reinstalling-macos-via-factory-reset-on-macbooks-and-desktops/"><u>Step-by-Step Tutorial for Reinstalling macOS via Factory Reset on MacBooks and Desktops</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/substituting-characters-with-line-breaks-using-notepadplusplus/"><u>Substituting Characters With Line Breaks Using Notepad++</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/surprising-devices-operating-seamlessly-with-linux-uncover-the-hidden-gems/"><u>Surprising Devices Operating Seamlessly with Linux: Uncover the Hidden Gems!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/switching-browsers-made-easy-with-this-handy-plugin-no-more-safari/"><u>Switching Browsers Made Easy with This Handy Plugin - No More Safari!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/syncing-wsl-file-contents-between-linux-and-windows-a-step-by-step-guide/"><u>Syncing WSL File Contents Between Linux and Windows - A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/iphonedvd-t17260306948491/"><u>ダビング完了: ３通りのiPhoneにDVD画像転送方法紹介</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2023s-leading-twitvideos-the-years-hottest-tweets/"><u>[New] 2023'S Leading TwitVideos The Year's Hottest Tweets</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-rated-apps-for-instagrams-vertical-igtv-content-enhancement/"><u>[Updated] In 2024, Top-Rated Apps for Instagram's Vertical IGTV Content Enhancement</u></a></li>
+<li><a href="https://fox-place.techidaily.com/buy-aomei-thundergear-ultimate-sql-server-data-protection-software/"><u>Buy AOMEI ThunderGear - Ultimate SQL Server Data Protection Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/captivating-literary-book-trailers/"><u>Captivating Literary Book Trailers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-navigate-and-access-contents-of-a-ts-file-efficiently-your-ultimate-step-by-step-manual/"><u>How to Navigate and Access Contents of a .TS File Efficiently - Your Ultimate Step-by-Step Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-utilize-online-resources-efficiently-for-business-growth/"><u>How to Utilize Online Resources Efficiently for Business Growth</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-first-steps-in-filmmaking-mastering-key-camera-techniques/"><u>In 2024, First Steps in Filmmaking Mastering Key Camera Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kindle-fire-and-video-woes-effective-solutions-for-resolving-mkv-playback-problems/"><u>Kindle Fire and Video Woes: Effective Solutions for Resolving MKV Playback Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-m4a/"><u>MP3への変換 - M4Aファイル対応マガジン</u></a></li>
 </ul></div>
 

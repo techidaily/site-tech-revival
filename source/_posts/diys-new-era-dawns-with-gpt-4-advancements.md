@@ -1,7 +1,7 @@
 ---
 title: DIY's New Era Dawns With GPT-4 Advancements
-date: 2024-10-04T17:59:35.715Z
-updated: 2024-10-10T18:26:07.903Z
+date: 2024-10-12T17:17:35.737Z
+updated: 2024-10-16T16:57:14.438Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -60,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -77,10 +77,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -106,19 +106,22 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-how-to-meet-twitters-video-standards-aspect-ratio-matters/"><u>[New] 2024 Approved How to Meet Twitter's Video Standards Aspect Ratio Matters</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-masterful-methods-for-keeping-track-of-messenger-communications/"><u>[Updated] In 2024, Masterful Methods for Keeping Track of Messenger Communications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-innovation-examining-the-search-and-output-processes/"><u>AI Innovation: Examining the Search and Output Processes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-guide-in-personalizing-and-enhancing-vehicle-performance/"><u>ChatGPT as Your Guide in Personalizing and Enhancing Vehicle Performance</u></a></li>
-<li><a href="https://article-helps.techidaily.com/chromatic-choices-discover-the-best-5-screens-today-for-2024/"><u>Chromatic Choices Discover the Best 5 Screens Today for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-dandd-sessions-using-the-power-of-chatgpt/"><u>Elevate Your D&D Sessions Using the Power of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-secure-conversations-with-ai-discover-duckduckgo-chat-and-beyond/"><u>Explore Secure Conversations with AI: Discover DuckDuckGo Chat & Beyond</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-official-canon-mf8200c-software-for-your-pc-running-on-windows-781-or-10/"><u>Get the Official Canon MF8200C Software for Your PC Running on Windows 7/8.1 or 10</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-breaking-down-this-years-latest-tiktok-wave/"><u>In 2024, Breaking Down This Year's Latest TikTok Wave</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-lava-yuva-2-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Lava Yuva 2 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavipcx/"><u>Movaviのように、安全で簡単な無料ウェブベースのPCX画像変換ツール</u></a></li>
-<li><a href="https://win11.techidaily.com/tips-to-prevent-file-explorer-crashes-on-windows-11/"><u>Tips to Prevent File Explorer Crashes on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-chatgpt-in-different-languages-your-ultimate-resource/"><u>Unlocking the Power of ChatGPT in Different Languages – Your Ultimate Resource</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-step-by-step-guide-transforming-your-yt-gaming-content-with-hashtags/"><u>[New] 2024 Approved Step-by-Step Guide Transforming Your YT Gaming Content with Hashtags</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-swift-effective-methods-for-iphone-screen-recordings/"><u>[Updated] 2024 Approved Swift, Effective Methods for iPhone Screen Recordings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-streamlining-media-transfer-fb-video-to-whatsapp/"><u>[Updated] In 2024, Streamlining Media Transfer FB Video to WhatsApp</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-jump-to-youtube-affiliate-ranking-with-a-swift-10000-views/"><u>[Updated] Jump to YouTube Affiliate Ranking with a Swift 10,000 Views</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-privacy-concerns-is-your-confidential-info-at-risk/"><u>ChatGPT and Privacy Concerns: Is Your Confidential Info at Risk?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-ai-powered-tools-for-superior-note-management-and-creation/"><u>Discover the Best AI-Powered Tools for Superior Note Management & Creation</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-address-and-repair-d3dx-library-absence-including-d3dx940dll/"><u>How to Address and Repair D3DX Library Absence, Including d3dx9_40.dll</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-detect-when-an-ai-is-seeing-things-that-arent-there-spotting-ai-hallucinations/"><u>How to Detect When an AI Is Seeing Things That Aren't There: Spotting AI Hallucinations</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-here-we-are-going-to-go-through-the-process-of-getting-avidemux-running-on-your-system-and-cropping-some-video/"><u>In 2024, Here We Are Going to Go Through the Process of Getting Avidemux Running on Your System and Cropping some Video</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-simplify-media-handling-with-top-18-free-converters-for-windowsmacos-users/"><u>In 2024, Simplify Media Handling With Top 18 Free Converters For Windows/macOS Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-matters-in-ai-conversations/"><u>Privacy Matters in AI Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secrets-to-keeping-your-chatgpt-dialogues-confidential-no-deletes-required/"><u>Secrets to Keeping Your ChatGPT Dialogues Confidential, No Deletes Required</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-installing-and-leveraging-plugins-for-chatgpt-efficiently/"><u>The Ultimate Guide to Installing and Leveraging Plugins for ChatGPT Efficiently</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-inquiries-that-challenge-chatgpts-response-abilities/"><u>Top 7 Inquiries That Challenge ChatGPT's Response Abilities</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-picks-comprehensive-list-of-no-cost-webm-streaming-tools/"><u>Top Picks Comprehensive List of No-Cost WebM Streaming Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/untangling-utorrents-downloadpeer-connection-issues-a-comprehensive-guide/"><u>Untangling uTorrent's Download/Peer Connection Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-chatgpt-for-professional-cover-letter-writing/"><u>Utilizing ChatGPT for Professional Cover Letter Writing</u></a></li>
 </ul></div>
 

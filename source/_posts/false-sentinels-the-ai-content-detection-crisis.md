@@ -1,7 +1,7 @@
 ---
 title: "False Sentinels: The AI Content Detection Crisis"
-date: 2024-10-05T18:23:35.002Z
-updated: 2024-10-10T16:26:17.330Z
+date: 2024-10-10T19:24:47.810Z
+updated: 2024-10-16T22:21:59.342Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -52,28 +59,28 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Here, you must fill in the following information:
@@ -90,14 +97,14 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
- Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -106,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
  These include server-side injection, server security misconfiguration, [cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage, [cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -139,21 +139,18 @@ thumbnail: https://thmb.techidaily.com/3fd32f657ca906fd6ed8ec321bcb0a471e050e9fd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-premium-video-collaboration-software-guides/"><u>[New] Premium Video Collaboration Software Guides</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-film-assembly-station-for-2024/"><u>[Updated] Film Assembly Station for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ultimate-360-degree-gearing/"><u>[Updated] In 2024, Ultimate 360 Degree Gearing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-unlock-the-secrets-of-color-balance-in-gopro-videos-for-2024/"><u>[Updated] Unlock the Secrets of Color Balance in GoPro Videos for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-ethernet-driver-not-working-after-upgrade/"><u>Fixing Ethernet Driver Not Working After Upgrade</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-defy-2-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Defy 2 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-mastering-audio-recording-with-windows-11/"><u>Step-by-Step Guide: Mastering Audio Recording with Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-python-on-your-pc/"><u>Step-by-Step Guide: Setting Up Python on Your PC</u></a></li>
-<li><a href="https://fox-where.techidaily.com/step-by-step-strategies-to-spot-and-eradicate-bogus-av-protection-programs/"><u>Step-by-Step Strategies to Spot and Eradicate Bogus AV Protection Programs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-achieving-the-windows-10-aesthetic-in-windows-11-environment/"><u>Step-by-Step Tutorial on Achieving the Windows 10 Aesthetic in Windows 11 Environment</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-legacy-of-ms-dos-40-from-1988-lives-on-as-open-source-software/"><u>The Legacy of MS-DOS 4.0 From 1988 Lives On as Open Source Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-for-burning-iso-images-onto-your-computer-windows-7-8-and-10/"><u>Ultimate Tutorial for Burning ISO Images Onto Your Computer (Windows 7, 8 & 10)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unbeatable-tech-bargains-shop-now-jbl-bar-700-headphones-fire-tablets-by-amazon-and-smart-video-doorbells/"><u>Unbeatable Tech Bargains - Shop Now JBL Bar 700 Headphones, Fire Tablets by Amazon & Smart Video Doorbells</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-11-microsoft-enhances-file-sharing-features/"><u>Windows 11: Microsoft Enhances File Sharing Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-video-sharing-titans-ranking-vimeo-youtube-and-dailymotion/"><u>[New] In 2024, Video-Sharing Titans Ranking Vimeo, YouTube & Dailymotion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-nine-key-approaches-for-storing-mov-in-windows-environments/"><u>[Updated] 2024 Approved Nine Key Approaches for Storing .mov in Windows Environments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unleash-creativity-top-8-sites-offering-free-green-screen-footage-and-backgrounds/"><u>[Updated] In 2024, Unleash Creativity Top 8 Sites Offering Free Green Screen Footage & Backgrounds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-solutions-to-overcome-communication-glitches-between-chatgpt-and-third-party-plugins/"><u>Effective Solutions to Overcome Communication Glitches Between ChatGPT and Third-Party Plugins</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/exploring-premium-voice-alteration-software-without-pay-mastering-sound-changes-in-filmora-videos-for-2024/"><u>Exploring Premium Voice Alteration Software Without Pay Mastering Sound Changes in Filmora Videos for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-12-channel-online-video-broadcast-system-for-2024/"><u>Premier 12-Channel Online Video Broadcast System for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-motorola-edge-2023-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Motorola Edge 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-adding-the-xxx-o-dus-adult-plug-in-for-high-definition-erotica-streaming-on-kodi-versions-20-and-19/"><u>Step-by-Step Guide to Adding the XXX-O-DUS Adult Plug-In for High-Definition Erotica Streaming on Kodi Versions 20 & 19</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-no-cost-pc-and-web-ogv-file-transformation-tools/"><u>Top 10 No-Cost PC and Web OGV File Transformation Tools</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-ranking-options-for-phoenix-area-data-restoration-and-support-solutions/"><u>Top Ranking Options for Phoenix Area Data Restoration and Support Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranking-subtitle-editors-excellent-alternatives-to-winx-dvd-ripper/"><u>Top-Ranking Subtitle Editors: Excellent Alternatives to WinX DVD Ripper</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-content-with-the-new-release-of-wonderfox-dvd-ripper-for-ipad-version-20/"><u>Transform Your Content with the New Release of WonderFox DVD Ripper for iPad, Version 2.0!</u></a></li>
 </ul></div>
 

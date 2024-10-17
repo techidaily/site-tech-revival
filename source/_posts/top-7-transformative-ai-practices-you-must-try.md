@@ -1,7 +1,7 @@
 ---
 title: Top 7 Transformative AI Practices You Must Try
-date: 2024-10-05T16:01:10.371Z
-updated: 2024-10-10T17:00:34.758Z
+date: 2024-10-13T22:38:15.203Z
+updated: 2024-10-16T18:23:05.542Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -58,25 +72,18 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
- As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -86,15 +93,22 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
@@ -113,13 +127,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 ## 6 Upload Images or Files (if Available)
@@ -129,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  If you're using AI to create art, it's also a good idea to upload images that the AI tool can use as examples. Meanwhile, if you want to[use Photo AI](https://www.makeuseof.com/what-is-photo-ai/) or similar tools for pictures of yourself, uploading selfies, headshots, and other images will help you achieve what you want.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
@@ -162,21 +162,22 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-create-dramatic-effects-top-strategies-for-epic-gopro-videos/"><u>[New] Create Dramatic Effects Top Strategies for Epic GoPro Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-mend-iphones-facebook-video-displays/"><u>[Updated] In 2024, Mend iPhones' Facebook Video Displays</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-walkthrough-securing-your-iphone-information-by-syncing-with-an-outer-hard-drive-on-pcs-and-apple-computers/"><u>Complete Walkthrough: Securing Your iPhone Information by Syncing with an Outer Hard Drive on PCs and Apple Computers</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-performance-resurrecting-slow-excel-operations-on-windows/"><u>Enhance Performance: Resurrecting Slow Excel Operations on Windows</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-ricoh-mp-c3003-printer-up-and-running-with-latest-drivers/"><u>Get Your Ricoh MP C3003 Printer Up and Running with Latest Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/handbrake-enhancement-fix-restoring-full-title-display-for-improved-media-conversion-experience/"><u>HandBrake Enhancement Fix: Restoring Full Title Display for Improved Media Conversion Experience</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-easy-to-follow-steps-for-adding-vimeo-clips-to-ppts/"><u>In 2024, Easy-to-Follow Steps for Adding Vimeo Clips to PPTs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ipod-data-transfer-and-backup-guide-step-by-step-tutorial/"><u>IPod Data Transfer & Backup Guide - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-demystifying-pexels-your-comprehensive-guide-to-free-imagery/"><u>New 2024 Approved Demystifying Pexels Your Comprehensive Guide to Free Imagery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfektes-ubersetzen-von-iphono-bildern-auf-mac-ein-umfassender-leitfaden/"><u>Perfektes Übersetzen Von iPhono-Bildern Auf Mac: Ein Umfassender Leitfaden</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-guide-swift-recovery-of-your-iphone-using-icloud-without-a-time-consuming-process/"><u>Quick Guide: Swift Recovery of Your iPhone Using iCloud Without a Time-Consuming Process</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/solving-hd-content-disarray-in-handbrake-dvd-conversions-tips-and-tricks/"><u>Solving HD Content Disarray in HandBrake DVD Conversions: Tips and Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-shifting-media-files-between-a-mac-and-iphone-xsxr/"><u>Step-by-Step Instructions for Shifting Media Files Between a Mac and iPhone XS/XR</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-smart-portable-audio-system-yamahas-mcr-b020bl/"><u>The Smart, Portable Audio System: Yamaha's MCR-B020BL</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-converting-hd-dvd-iso-files-to-premium-avi-format-on-your-mac/"><u>Ultimate Guide: Converting HD DVD ISO Files to Premium AVI Format on Your Mac</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-effortless-video-trimming-on-mac-the-ultimate-guide-for-2024/"><u>Updated Effortless Video Trimming on Mac The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimal-recording-for-virtual-meetings-top-5-equipment-lists/"><u>[New] In 2024, Optimal Recording for Virtual Meetings Top 5 Equipment Lists</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-professional-acid-pro-analysis-and-substitutes/"><u>[New] Professional ACID Pro Analysis and Substitutes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-roundup-no-fee-videocalling-plus-live-desktop-share-for-2024/"><u>[New] Ultimate Roundup No-Fee Videocalling + Live Desktop Share for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-downloading-videos-directly-to-iphoneipad-youtubes-quick-guide/"><u>[Updated] Downloading Videos Directly to iPhone/iPad - YouTube's Quick Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-sharing-videos-on-tweet-no-retweets-just-phones-for-2024/"><u>[Updated] Sharing Videos on Tweet No Retweets, Just Phones for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4ae/"><u>高画質MP4へ変換・保存方法及び問題解決ステップ：AEツールを使って</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pc-10-windows-and-mac/"><u>最も優れたPC画面録画ソフト 10推薦 - Windows & Mac用</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/audio-file-resampler-adjust-mp3-and-various-soundtrack-bitrates-easily/"><u>Audio File Resampler: Adjust MP3 and Various Soundtrack Bitrates Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cut-trim-and-merge-videos-with-ease-unleash-your-creativity-by-turning-vlc-into-a-powerful-editor/"><u>Cut, Trim, and Merge Videos with Ease: Unleash Your Creativity by Turning VLC Into a Powerful Editor</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-solutions-to-restore-your-overwatch-voice-chat/"><u>Effortless Solutions to Restore Your Overwatch Voice Chat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-hd-quality-transform-your-dvds-with-top-of-the-line-upscaling-technology/"><u>Experience HD Quality: Transform Your DVDs with Top-of-the-Line Upscaling Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flacwma-windows/"><u>FLACからWMAへの変換手順 - Windowsプラットフォーム用ガイド</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/guide-to-accurate-transfer-of-camera-photos-to-social-media-apps-for-2024/"><u>Guide to Accurate Transfer of Camera Photos to Social Media Apps for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lossless-conversion-techniques-for-mkv-videos-keeping-quality-intact/"><u>Lossless Conversion Techniques for MKV Videos - Keeping Quality Intact</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-video-recording-with-windows-10-expert-tips-for-crystal-clear-results/"><u>Mastering Video Recording with Windows 10: Expert Tips for Crystal Clear Results</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-power-duo-boosting-earnings-on-facebook-and-instagram-together/"><u>The Power Duo: Boosting Earnings on Facebook & Instagram Together</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-av1-encoding-insights/"><u>Unlocking AV1 Encoding Insights</u></a></li>
 </ul></div>
 

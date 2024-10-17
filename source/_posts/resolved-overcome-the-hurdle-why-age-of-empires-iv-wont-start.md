@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Hurdle – Why Age of Empires IV Won't Start"
-date: 2024-10-03T18:10:30.201Z
-updated: 2024-10-10T18:07:47.858Z
+date: 2024-10-10T23:39:49.998Z
+updated: 2024-10-16T23:55:25.343Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 ![Fix 1 step 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-1-step-2.png)
 3. **Turn on** the toggle next to **Auto update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
 
@@ -79,10 +72,16 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 See if you can log in or not. if not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
@@ -92,19 +91,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. Click **[here](http://www.speedtest.net/)**  to access the official website of SPEEDTEST.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
@@ -118,13 +104,6 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
@@ -147,17 +126,25 @@ See if you can log in or not. if not, try the next fix, below.
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -180,25 +167,26 @@ See if you can log in or not. if not, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Driver-Easy-Scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
 
@@ -222,6 +210,13 @@ See if you can log in or not. if not, try the next fix, below.
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
 ### Fix 9: Change the DNS server
@@ -231,13 +226,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control** and press **Enter** to open the Control Panel.  
 ![Win + R to open control panel](https://images.drivereasy.com/wp-content/uploads/2018/10/control.jpg)
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
@@ -252,14 +240,21 @@ See if you can log in or not. if not, try the next fix, below.
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -296,18 +291,22 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/rafting-impactful-video-campaigns-for-startups-for-2024/"><u>[New] Crafting Impactful Video Campaigns for Startups for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-reversal-blueprint-swiftly-backward-apple-vids/"><u>[New] In 2024, Reversal Blueprint Swiftly Backward Apple Vids</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-streaming-success-starts-here-8-tips-for-beginners/"><u>[Updated] In 2024, Streaming Success Starts Here - 8 Tips for Beginners</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-pioneering-brands-spotlight-on-top-9-free-youtube-logos-craftors/"><u>2024 Approved Pioneering Brands Spotlight on Top 9 Free YouTube Logos Craftors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/adaptive-learning-how-ai-modifies-web-pages/"><u>Adaptive Learning: How AI Modifies Web Pages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-gig-success-with-these-chatgpt-techniques/"><u>Boost Your Gig Success with These ChatGPT Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-daily-efficiency-top-7-strategies-with-chatgpt/"><u>Boosting Daily Efficiency: Top 7 Strategies with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-deep-into-ai-vulnerability-dissecting-the-impact-of-prompt-injections/"><u>Dive Deep Into AI Vulnerability: Dissecting the Impact of Prompt Injections</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-get-and-set-up-your-usb-30-drivers-on-windows-systems/"><u>How to Get & Set Up Your USB 3.0 Drivers on Windows Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-t2x-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo T2x 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-s18e-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo S18e without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-hidden-gems-designing-stunning-engaging-puzzle-posts-for-2024/"><u>Instagram's Hidden Gems Designing Stunning, Engaging Puzzle Posts for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/zerogpt-and-its-shortcomings-unveiling-4-moments-of-ai-detection-tools-going-wrong/"><u>ZeroGPT and Its Shortcomings: Unveiling 4 Moments of AI Detection Tools Going Wrong</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-basics-of-windows-10-effortlessly/"><u>[New] Master the Basics of Windows 10 Effortlessly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-visual-tutorial-applying-filters-and-masks-in-meet-for-2024/"><u>[New] Step-by-Step Visual Tutorial Applying Filters & Masks in Meet for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-hyper-scape-crashing-on-pc/"><u>[Solved] Hyper Scape Crashing on PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-from-raw-footage-to-polished-perfection-an-essential-youtube-video-editing-guide/"><u>[Updated] From Raw Footage to Polished Perfection An Essential Youtube Video Editing Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/augmented-reality-interpolation-boost-fps-fur-fliessende-videotransitionen/"><u>Augmented Reality Interpolation: Boost FPS Für Fließende Videotransitionen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-end-user-license-terms-from-digiarty-for-winxdvd-product/"><u>Comprehensive End-User License Terms From Digiarty for WinXDVD Product</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-exceptional-ipad-promotions-get-more-for-less/"><u>Discover Exceptional iPad Promotions – Get More for Less!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-pova-5-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Pova 5 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-sites-unveiled-acquiring-personalized-ringtone-files-from-youtube/"><u>Leading Sites Unveiled Acquiring Personalized Ringtone Files From Youtube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-transition-moving-from-windows-xp-to-windows-10-while-preserving-your-data/"><u>Seamless Transition: Moving From Windows XP to Windows 10 While Preserving Your Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-embedding-subtitles-into-videos-with-vlc-software/"><u>Step-by-Step Instructions: Embedding Subtitles Into Videos with VLC Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-best-mobile-transfer-apps-of-2023-essential-downloads/"><u>The Ultimate Guide: Best Mobile Transfer Apps of 2023 - Essential Downloads!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshooting-a-noisy-dvd-player-effective-tips-for-quiet-operation-when-watching-movies/"><u>Troubleshooting a Noisy DVD Player: Effective Tips for Quiet Operation When Watching Movies</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-5-free-video-rotator-apps-for-iphone-users-2023-edition/"><u>Updated Top 5 Free Video Rotator Apps for iPhone Users 2023 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-is-my-dvd-so-blurry-a-guide-to-correcting-pixelated-video-quality-on-dvds/"><u>Why Is My DVD So Blurry? A Guide to Correcting Pixelated Video Quality on DVDs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-hd-mac-video-converter-pro-effortless-conversion-of-avchd-mkv-mov-and-mp4-formats/"><u>WinX HD Mac Video Converter Pro: Effortless Conversion of AVCHD, MKV, MOV & MP4 Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286252879-winxvideo-ai/"><u>WinxVideo AI - 高效智能螢幕录制与网络摄影解决方案</u></a></li>
 </ul></div>
 

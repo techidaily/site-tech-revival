@@ -1,7 +1,7 @@
 ---
 title: "Leap Into a New Era of Web Exploration: Bing on Mobile Platforms"
-date: 2024-10-05T18:05:56.515Z
-updated: 2024-10-10T16:49:18.761Z
+date: 2024-10-12T21:18:02.321Z
+updated: 2024-10-16T21:14:06.404Z
 tags:
   - chatgpt
   - open-ai
@@ -38,16 +38,16 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -61,13 +61,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -80,10 +73,16 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -94,6 +93,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -101,13 +107,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -119,6 +118,13 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -141,20 +147,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-tecno-camon-30-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Tecno Camon 30 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-leading-digital-background-switchers-shutterfix-excellence/"><u>2024 Approved Leading Digital Background Switchers ShutterFix Excellence</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-s23plus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy S23+ to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-inflexibility-in-gpt-customization/"><u>Demystifying the Inflexibility in GPT Customization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-how-to-access-chatgpt-on-ios-devices-with-their-latest-app-release/"><u>Explore How to Access ChatGPT on iOS Devices with Their Latest App Release</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-color-absence-issue-on-halo-infinite-screen/"><u>How to Resolve the Color Absence Issue on Halo Infinite Screen</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-x-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone X iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-a-comprehensive-guide-for-apple-enthusiasts/"><u>Leveraging ChatGPT: A Comprehensive Guide for Apple Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-chatgpts-impact-with-these-ultimate-browser-add-ons/"><u>Maximize ChatGPT's Impact with These Ultimate Browser Add-Ons</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-6-no-cost-dvd-disc-creation-programs-compatible-with-windows-11-8-and-7/"><u>Top 6 No-Cost DVD Disc Creation Programs Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-capabilities-in-chatgpt-tutorial-for-beta-web-navigation-tools/"><u>Unlocking Advanced Capabilities in ChatGPT: Tutorial for Beta Web Navigation Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/web-based-free-convertor-transform-audio-files-from-mp4-to-m4r-move-away-with-ease/"><u>Web-Based Free Convertor: Transform Audio Files From MP4 to M4R - Move Away with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whats-the-wordcharacter-threshold-for-gpt-3-responses/"><u>What's the Word/Character Threshold for GPT-3 Responses?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-are-new-sign-ups-closed-for-chatgpt-insights-and-expected-reopening-dates/"><u>Why Are New Sign-Ups Closed for ChatGPT? Insights and Expected Reopening Dates</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[New] 2024 Approved Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-pcandroid-tutorial-successful-facebook-video-sharing/"><u>[New] PC/Android Tutorial Successful Facebook Video Sharing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-comprehensible-guide-to-economical-webinars-on-youtube/"><u>[New] Your Comprehensible Guide to Economical Webinars on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-a54-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy A54 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-ai-like-chatgpt-be-lifesaving-during-a-wild-adventure/"><u>Can AI Like ChatGPT Be Lifesaving During a Wild Adventure?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cutting-edge-ai-hardware-unveiling-this-years-most-promising-innovations/"><u>Cutting-Edge AI Hardware: Unveiling This Year's Most Promising Innovations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-infinix-hot-40-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Infinix Hot 40 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722183115477-immediate-integration-how-to-harness-gpt-4-with-chatgpt-right-now/"><u>Immediate Integration: How to Harness GPT-4 with ChatGPT Right Now</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-final-word-on-vegaspro-2019/"><u>In 2024, The Final Word on VegasPro 2019</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-organization-a-guide-to-efficiently-handling-multiple-dialogues/"><u>Mastering ChatGPT Organization: A Guide to Efficiently Handling Multiple Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/redefining-therapeutic-practices-ais-role-revealed/"><u>Redefining Therapeutic Practices: AI’s Role Revealed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rethinking-ai-laws-the-call-from-openais-top-boss/"><u>Rethinking AI Laws: The Call From OpenAI's Top Boss</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-digital-muse-mastering-the-art-of-ai-assisted-poetry-compilation-using-chatgpt/"><u>The Digital Muse: Mastering the Art of AI-Assisted Poetry Compilation Using ChatGPT</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-realme-narzo-60-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Realme Narzo 60 5G Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

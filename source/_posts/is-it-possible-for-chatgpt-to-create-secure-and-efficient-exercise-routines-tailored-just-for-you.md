@@ -1,7 +1,7 @@
 ---
 title: Is It Possible for ChatGPT to Create Secure & Efficient Exercise Routines Tailored Just for You?
-date: 2024-10-03T18:31:21.076Z
-updated: 2024-10-10T17:47:16.238Z
+date: 2024-10-13T21:31:02.135Z
+updated: 2024-10-16T17:51:50.851Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -57,18 +64,18 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -79,23 +86,10 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -121,18 +115,20 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-a-list-ringtone-picks-for-adoring-tyrion-lannister-fans/"><u>[New] 2024 Approved A-List Ringtone Picks for Adoring Tyrion Lannister Fans</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-youtube-video-aspect-ratio-guide-optimal-upload-sizes/"><u>[New] 2024 Approved YouTube Video Aspect Ratio Guide Optimal Upload Sizes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-hashing-it-out-best-tags-to-transform-views-and-profit/"><u>[Updated] In 2024, Hashing It Out Best Tags to Transform Views & Profit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-overwatch-on-screen-recording-made-easy-for-2024/"><u>[Updated] Overwatch On-Screen Recording Made Easy for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-language-of-openai-tech/"><u>Deciphering the Language of OpenAI Tech</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/hurry-up-crafting-a-simple-google-photo-mosaic/"><u>Hurry Up! Crafting a Simple Google Photo Mosaic</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-motorola-razr-40-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Motorola Razr 40 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-12-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi 12 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-infinix-smart-8-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Infinix Smart 8 Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-6-titans-boundless-ai-model-landscape/"><u>Leading 6 Titans: Boundless AI Model Landscape</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/local-llm-advantages-and-drawbacks-a-quick-guide/"><u>Local LLM: Advantages & Drawbacks – A Quick Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/movavi-understanding-the-special-provisions-on-reversal-refund-policy/"><u>Movavi - Understanding the Special Provisions on Reversal Refund Policy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplifying-your-inbox-effective-strategies-with-chatgpt-for-responding-to-challenging-job-correspondence/"><u>Simplifying Your Inbox: Effective Strategies with ChatGPT for Responding to Challenging Job Correspondence</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unify-instagram-and-facebook-a-step-by-step-guide/"><u>[New] In 2024, Unify Instagram and Facebook A Step-by-Step Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-streamlining-the-process-of-making-smaller-images-tips-and-tricks-for-2024/"><u>[New] Streamlining the Process of Making Smaller Images Tips & Tricks for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-income-from-youtube-as-a-newbie/"><u>[Updated] 2024 Approved Unlocking Income From YouTube as a Newbie</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-leverage-phantoms-retrograde-footage-tech/"><u>[Updated] How to Leverage Phantom’s Retrograde Footage Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-faceoff-who-wins-in-features-and-performance-googles-bard-or-microsoftcups-bing-chat/"><u>AI Faceoff: Who Wins in Features and Performance - Google's Bard or Microsoft'cups Bing Chat?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/confidentiality-concerns-when-using-tools-such-as-chatgpt-online/"><u>Confidentiality Concerns When Using Tools Such as ChatGPT Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-dungeons-and-dragons-heroes-with-chatgpt-and-dall-e-a-step-by-step-guide/"><u>Crafting Dungeons & Dragons Heroes with ChatGPT & DALL-E: A Step-by-Step Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-from-your-iphone-15-pro-max-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID from Your iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-infinix-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Infinix Device SIM</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-oneplus-nord-n30-se-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to OnePlus Nord N30 SE Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-ultimate-virtual-reality-controller-guide/"><u>In 2024, Ultimate Virtual Reality Controller Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-creativity-discover-6-ways-to-utilize-chatgpt-for-your-written-works/"><u>Mastering Creativity: Discover 6 Ways to Utilize ChatGPT for Your Written Works</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-openai-api-insights-and-strategies-for-successful-integration/"><u>Navigating the World of OpenAI API: Insights and Strategies for Successful Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ransomware-explained-podcasts-aided-by-budget-phones/"><u>Ransomware Explained: Podcasts Aided by Budget Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-windows-chatgpt-capacity-full-issue-a-step-by-step-guide/"><u>Solving Windows' 'ChatGPT Capacity Full' Issue: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

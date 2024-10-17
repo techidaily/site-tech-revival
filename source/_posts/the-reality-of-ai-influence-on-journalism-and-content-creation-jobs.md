@@ -1,7 +1,7 @@
 ---
 title: The Reality of AI Influence on Journalism & Content Creation Jobs
-date: 2024-10-06T18:08:42.099Z
-updated: 2024-10-10T17:42:11.691Z
+date: 2024-10-12T18:33:50.619Z
+updated: 2024-10-16T22:17:34.591Z
 tags:
   - chatgpt
   - open-ai
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
@@ -61,50 +61,50 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
 
  Tome has a ton of features to make your own presentations from scratch, but where Tome really excels is in its AI features. At the bottom of the presentation generation interface, you can access a ton of AI features.
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
 
  As you might imagine, GPT\_PPT generates PowerPoint files. The results aren’t always the cleanest, and there’s no way to edit them from within the web page. Fortunately, you can always open them in PowerPoint to edit them yourself and tidy them up. If you already know some of[these advanced Microsoft PowerPoint features that everyone must know](https://www.makeuseof.com/advanced-microsoft-powerpoint-features/) , then making a stunning presentation out of them shouldn’t be hard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
 
  There are plenty of templates to choose from, and each can be customized. You can tell the AI what your business offers and what company you work for to get better results. From there, Presentations.AI handles the rest. From the template, the content of the slides, and everything in between, Presentations.AI will create your presentation for you.
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6.[ChatBA](https://www.chatba.com)
 
@@ -127,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Make a Presentation Like Never Before
@@ -152,24 +152,24 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-9-windows-gif-capture-tools-perfect-animation-preservation-for-2024/"><u>[New] Top 9 Windows GIF Capture Tools Perfect Animation Preservation for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-top-11-list-excellent-audio-devices/"><u>[New] Ultimate Top 11 List Excellent Audio Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-elevate-your-gameplay-stream-xbox-seamlessly-to-facebook/"><u>[Updated] 2024 Approved Elevate Your Gameplay Stream Xbox Seamlessly to Facebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-solutions-for-resolving-a-non-functioning-windows-tcalculator-on-your-pc/"><u>Easy Solutions for Resolving a Non-Functioning Windows tCalculator on Your PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-perform-a-clean-boot-in-windows-11/"><u>How to Perform a Clean Boot in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-set-up-your-brother-all-in-one-printer-on-modern-windows-platforms-vista-and-beyond/"><u>How to Set Up Your Brother All-in-One Printer on Modern Windows Platforms (Vista & Beyond)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-your-pcs-os-a-step-by-step-guide-to-finding-the-windows-11-build-version/"><u>Identifying Your PC's OS: A Step-by-Step Guide to Finding the Windows 11 Build Version</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-motion-clearer-captures-for-2024/"><u>Mastering Motion Clearer Captures for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcome-platform-unsupported-message-when-setting-up-intel-serial-io-drivers/"><u>Overcome 'Platform Unsupported' Message When Setting Up Intel Serial IO Drivers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photographic-privacy-key-steps-to-blur-facial-features-for-2024/"><u>Photographic Privacy Key Steps to Blur Facial Features for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solve-your-windows-11-creators-update-woes-overcoming-download-stalls-and-silent-screens/"><u>Solve Your Windows 11 Creators Update Woes: Overcoming Download Stalls & Silent Screens</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-disabling-quick-access-feature-on-windows-11/"><u>Step-by-Step Guide: Disabling Quick Access Feature on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-for-your-hp-envy-20-laptop/"><u>Step-by-Step Guide: Updating and Downloading Drivers for Your HP ENVY 20 Laptop</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-running-command-prompt-with-administrator-rights-in-win10881/"><u>Step-by-Step Tutorial: Running Command Prompt with Administrator Rights in Win10/8/8.1</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-rated-mp4-video-encoders-of-2023-a-comprehensive-guide-on-converting-your-videos/"><u>Top Rated MP4 Video Encoders of 2023: A Comprehensive Guide on Converting Your Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-successfully-resolved-battlefield-4-pc-boot-issues-demystified/"><u>Troubleshooting Successfully Resolved: Battlefield 4 PC Boot Issues Demystified</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbots-exploring-their-rise-in-digital-communication/"><u>Understanding AI Chatbots: Exploring Their Rise in Digital Communication</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unravel-media-complexity-transforming-xmlttml-into-srt-gold-for-2024/"><u>Unravel Media Complexity Transforming XML/TTML Into SRT Gold for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-image-quality-a-newbies-comprehensible-guide/"><u>Unveiling Image Quality A Newbie's Comprehensible Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>[New] A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-wallet-friendly-skies-cheapest-drones-to-fly-for-2024/"><u>[New] Wallet-Friendly Skies Cheapest Drones to Fly for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-master-class-adding-podcasts-to-instagram-features-for-2024/"><u>[Updated] Master Class Adding Podcasts to Instagram Features for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-insights-or-astrology-which-seeks-tomorrow-better/"><u>AI Insights or Astrology: Which Seeks Tomorrow Better?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-vulnerability-levels-in-chatgpt-systems/"><u>Assessing Vulnerability Levels in ChatGPT Systems</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/basic-framework-for-digital-story-fabrication/"><u>Basic Framework for Digital Story Fabrication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-adapt-and-improve-through-interaction-with-users/"><u>Can ChatGPT Adapt and Improve Through Interaction with Users?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-authorship-puzzle-determining-legal-owner-for-content-produced-through-ai-technologies/"><u>Deciphering the Authorship Puzzle: Determining Legal Owner for Content Produced Through AI Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/do-chatgpt-responses-have-a-character-or-word-limit/"><u>Do ChatGPT Responses Have a Character or Word Limit?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/emoji-free-tweet-evolution-linuss-unmasking-trojan-discourse-and-chatgpt-hurdles/"><u>Emoji-Free Tweet Evolution, Linus's Unmasking, Trojan Discourse, & ChatGPT Hurdles.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-nokia-c32-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Nokia C32 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quip-kernel-memomaker-suite/"><u>In 2024, Quip Kernel MemoMaker Suite</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-your-quick-guide-to-google-voice-call-history/"><u>In 2024, Your Quick Guide to Google Voice Call History</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/investigating-the-inertia-chatgpt-4-versus-swift-gpt-35/"><u>Investigating The Inertia: ChatGPT-4 Versus Swift GPT-3.5</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-viewer-discussions-on-youtube-for-2024/"><u>Mastering Viewer Discussions on YouTube for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pause-dont-compare-unveiling-ai-distinctions/"><u>Pause, Don't Compare: Unveiling AI Distinctions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-for-connecting-airpods-to-your-gaming-device-nintendo-switch/"><u>Step-by-Step Instructions for Connecting AirPods to Your Gaming Device, Nintendo Switch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-crypto-portfolio-insights-from-leveraging-chatgpt-for-trading-success/"><u>Transform Your Crypto Portfolio: Insights From Leveraging ChatGPT for Trading Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-the-power-of-beyerdynamics-mmx-200/"><u>Unlocking the Power of Beyerdynamic's MMX 200</u></a></li>
 </ul></div>
 

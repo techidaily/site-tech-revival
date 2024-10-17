@@ -1,7 +1,7 @@
 ---
 title: How Effective Is Watson in Handling Complex Arithmetic Issues?
-date: 2024-10-06T16:35:05.330Z
-updated: 2024-10-10T17:57:53.780Z
+date: 2024-10-13T18:33:20.850Z
+updated: 2024-10-16T17:11:39.568Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Real-Time Updates
 
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
@@ -45,10 +52,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of the biggest reasons ChatGPT is as popular as it is today is its ability to engage in conversations, similar to how a human would converse.
@@ -60,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Activation
@@ -78,23 +85,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Executing Basic Commands
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
 
@@ -105,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 ### Answering Your Questions
 
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
 
@@ -126,23 +126,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![OpenAI profile options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/openai-profile-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -159,9 +145,23 @@ Now:
 
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
@@ -184,24 +184,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-guide-to-essential-asmr-video-facts/"><u>[New] 2024 Approved A Guide to Essential ASMR Video Facts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-idea-infringement-instant-video-ban/"><u>[New] 2024 Approved Idea Infringement Instant Video Ban</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-navigating-instagram-trends-with-key-tags/"><u>[Updated] Navigating #Instagram Trends with Key Tags</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-optimal-viewing-solution-projector-or-tv-for-top-4k-quality/"><u>[Updated] Optimal Viewing Solution Projector or TV for Top 4K Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/automating-microsoft-word-docs-via-chatgpt-a-comprehensive-guide/"><u>Automating Microsoft Word Docs via ChatGPT - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-learning-how-chatgpt-benefits-5-key-areas-in-schools/"><u>Boosting Learning: How ChatGPT Benefits 5 Key Areas in Schools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-operations-of-gpt-4-all-a-comprehensive-guide/"><u>Demystifying the Operations of GPT-4 All – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-ai-communications-with-7-proven-tips-for-smarter-chatgpt-replies/"><u>Elevate AI Communications with 7 Proven Tips for Smarter ChatGPT Replies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-claude-ai-changes-the-game-for-users-understanding-its-value-and-uses/"><u>How Claude AI Changes the Game for Users: Understanding Its Value and Uses</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-love-in-song-ultimate-listening-guide-to-proposals/"><u>In 2024, Love in Song Ultimate Listening Guide to Proposals</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-catalog-of-remarkable-education-websites/"><u>In 2024, The Ultimate Catalog of Remarkable Education Websites</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-techniques-for-generating-custom-ai-images-using-microsoft-copilot/"><u>Innovative Techniques for Generating Custom AI Images Using Microsoft Copilot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-linkedin-with-chatgpt-10-key-tips-to-secure-a-job/"><u>Navigating LinkedIn With ChatGPT: 10 Key Tips to Secure a Job</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-complete-guide-to-solve-windows-pc-screen-trembling-in-google-chrome-expert-advice-from-2024/"><u>The Complete Guide to Solve Windows PC Screen Trembling in Google Chrome - Expert Advice From 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wd-ultrastar-transporter-high-capacity-briefcase-with-368tb-nvme-ssds-and-advanced-tech-128gb-ram-1kw-psu-and-intels-ice-lake-xeon/"><u>WD Ultrastar Transporter: High-Capacity Briefcase with 368TB NVMe SSDs & Advanced Tech - 128GB RAM, 1kW PSU & Intel's Ice Lake Xeon</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-ai-powered-plagiarism-checkers-are-failing-major-concerns-and-solutions/"><u>Why AI-Powered Plagiarism Checkers Are Failing: Major Concerns & Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-quick-cash-on-reddit-here-are-13-ways-for-new-users/"><u>[Updated] Quick Cash on Reddit? Here Are 13 Ways for New Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-the-top-8-instagram-ae-design-choices/"><u>2024 Approved Unveiling the Top 8 Instagram AE Design Choices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/iently-upload-and-render-youtube-videos-with-precision/"><u>Efficiently Upload and Render YouTube Videos with Precision</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-navigating-google-meet-profile-edit-laptopmobile/"><u>In 2024, Navigating Google Meet Profile Edit (Laptop/Mobile)</u></a></li>
+<li><a href="https://win-unique.techidaily.com/introduccion-completa-a-la-carpeta-de-respaldo-aomei-una-guia-invaluable-para-usuarios-e-it-professionals/"><u>Introducción Completa a La Carpeta De Respaldo AOMEI: Una Guía Invaluable Para Usuarios E IT Professionals</u></a></li>
+<li><a href="https://win11.techidaily.com/leveraging-google-nearby-to-link-devices-easily/"><u>Leveraging Google Nearby to Link Devices Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-oppo-a78-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Oppo A78 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-choice-in-live-broadcasting-tools-discover-manycam-and-online-cameras/"><u>Top Choice in Live Broadcasting Tools: Discover ManyCam & Online Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasting-with-manycam-the-ultimate-solution-for-online-presentations-virtual-backgrounds-and-live-video-software/"><u>Transform Your Broadcasting with ManyCam - The Ultimate Solution for Online Presentations, Virtual Backgrounds, and Live Video Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-professional-live-video-software-and-simulated-camera-technology/"><u>Transform Your Broadcasts with ManyCam: Professional Live Video Software & Simulated Camera Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-top-notch-live-video-software-for-seamless-online-presentations/"><u>Transform Your Broadcasts with ManyCam: Top-Notch Live Video Software for Seamless Online Presentations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-livestreams-with-manycam-the-ultimate-solution-for-online-video-production-and-virtual-camera-technology/"><u>Transform Your Livestreams with ManyCam - The Ultimate Solution for Online Video Production and Virtual Camera Technology</u></a></li>
+<li><a href="https://discover-able.techidaily.com/windows-10-srs-grade-automatic-backup-handling-made-ultra-easy/"><u>Windows 10 SRS-Grade Automatic Backup Handling Made Ultra Easy!</u></a></li>
 </ul></div>
 

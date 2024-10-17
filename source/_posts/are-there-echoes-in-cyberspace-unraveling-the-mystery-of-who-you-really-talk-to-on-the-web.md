@@ -1,7 +1,7 @@
 ---
 title: Are There Echoes in Cyberspace? Unraveling the Mystery of Who You Really Talk to on the Web
-date: 2024-10-07T18:17:11.013Z
-updated: 2024-10-10T18:33:47.170Z
+date: 2024-10-11T22:45:32.898Z
+updated: 2024-10-16T19:38:38.254Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
  Head over to the Jobs channel to[start a career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/) . Dozens of members need help writing prompts for generative AI tools, chatbots, and text-to-image systems.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2.[GitHub](https://github.com/)
@@ -57,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT has less rigid restrictions than other chatbots. For instance, Bing Chat automatically terminates conversations that go against its guidelines, while ChatGPT still responds. You can generate different outputs by rephrasing your prompts.
 
  The below image shows ChatGPT rejecting a request to portray a manga character.
@@ -76,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4.[ChatGPT Prompt Engineers](https://www.facebook.com/groups/706382050894862/)
 
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
@@ -84,22 +84,15 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
  We also like that the moderators proactively weed out spam marketers and shady ads. Many[crooks abuse ChatGPT to execute cyberattacks](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) nowadays. Even tech-savvy individuals could fall victim to them if they’re not careful. So minimize your exposure to scams altogether.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5.[Midjourney Prompt Tricks](https://www.facebook.com/groups/1192421464638601)
 
 ![A Facebook Group for Sharing Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/midjourney-prompts-facebook-group.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Midjourney ranks among the[most popular text-to-art generators online](https://www.makeuseof.com/ai-text-to-art-generators/) . Its sophisticated AI architecture was trained on much broader datasets, allowing it to generate more realistic elements.
@@ -114,27 +107,20 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 ![A Reddit Community for Sharing Prompt Design Tricks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-prompt-design.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  r/PromptDesign is a good place to master prompt engineering. Instead of sharing model-specific prompts, the group discusses ways users communicate with AI tools. Its members test various platforms regularly.
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7.[r/OpenAI](https://www.reddit.com/r/OpenAI/)
 
 ![Reddit Community for OpenAI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-reddit-community.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Most users know OpenAI for ChatGPT and Dall-E, but it actually carries various AI tools. They primarily cater to developers. Professionals use them to integrate LLMs into their systems or build AI-driven applications.
 
@@ -142,22 +128,29 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
  Most topics can get pretty technical. We suggest filtering the posts based on flair so that you can focus on one aspect of OpenAI at a time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8.[r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
 
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
 
  The group might be helpful if you prefer Stable Diffusion over Midjourney and Dall-E models. Study the system’s limits and capabilities. Users post various media forms, including 3D images, 2D portraits, and animations.
 
  Meanwhile, artists who prefer other text-to-image models could use the group for comparisons. See which system provides the best outputs. You might even find Stable Diffusion users testing your preferred art styles frequently.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
@@ -170,6 +163,13 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
  The admins are relatively active. Every few weeks, they upload relevant resources, like websites, PDFs, and tools. You can also connect with them for queries. Just don’t expect an immediate response unless you already have mutuals.
 
  Perhaps the only downside is the group gets plenty of spam. You might have to scroll through aggressive ads and campaigns before finding valuable content.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Connect With Fellow Professionals in the AI Industry
 
@@ -192,17 +192,20 @@ thumbnail: https://thmb.techidaily.com/5d29a63e1845651f830e0124c103033fe9ea8d7a1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-hues-in-action-implementing-color-schemes-properly/"><u>[New] Hues in Action Implementing Color Schemes Properly</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-edge-techniques-mastering-youtube-subtitlecc-additions/"><u>[Updated] In 2024, Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-picture-mosaic-concepts-illuminate-your-world/"><u>[Updated] Innovative Picture Mosaic Concepts Illuminate Your World</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-to-leverage-openais-apis-effectively/"><u>Discover How to Leverage OpenAI's APIs Effectively</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-avid-dnxhd-video-encoder-compatible-with-windows-1011-and-macos/"><u>Download Avid DNxHD Video Encoder: Compatible with Windows 10/11 & macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-functions-of-llama-2-a-comprehensive-guide/"><u>Exploring the Functions of Llama 2: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fitness-buffs-blueprint-advanced-techniques-in-writing-efficient-chatgpt-inquiries/"><u>Fitness Buffs' Blueprint: Advanced Techniques in Writing Efficient ChatGPT Inquiries</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-strategies-for-finding-and-forming-youtube-content-partnerships/"><u>In 2024, Strategies for Finding & Forming YouTube Content Partnerships</u></a></li>
-<li><a href="https://fox-search.techidaily.com/note-4-versus-iphone-6-plus-in-depth-comparison-between-apple-and-samsungs-flagships/"><u>Note 4 versus iPhone 6 Plus: In-Depth Comparison Between Apple and Samsung's Flagships</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-vector-databases-on-accelerating-ai-development-and-performance/"><u>The Impact of Vector Databases on Accelerating AI Development and Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-to-the-latest-nvidia-1080-drivers-for-seamless-performance-on-windows-11/"><u>Update to the Latest NVIDIA 1080 Drivers for Seamless Performance on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/which-is-more-advanced-analyzing-features-between-chatgpt-and-huggingfaces-huggingchat/"><u>Which Is More Advanced? Analyzing Features Between ChatGPT and HuggingFace's HuggingChat</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-youtube-timestamp-addition-for-desktop-and-mobile-devices/"><u>[New] Mastering YouTube Timestamp Addition for Desktop & Mobile Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-path-to-youtube-stardom-six-simple-steps-for-greater-visibility/"><u>[Updated] 2024 Approved Your Path to YouTube Stardom Six Simple Steps for Greater Visibility</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieve-crystal-clear-shots-expert-guide-to-zooming-on-snapchat/"><u>Achieve Crystal Clear Shots Expert Guide to Zooming on Snapchat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-2-explained-functions-and-features/"><u>Claude 2 Explained: Functions & Features</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/convertir-webm-a-formatos-de-video-sin-costo-guia-integral-con-movavi/"><u>Convertir Webm a Formatos De Video Sin Costo: Guía Integral Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-paid-access-to-chatgpt-justified/"><u>Is Paid Access to ChatGPT Justified?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-ai-crafting-captivating-presentations-via-chatgpt/"><u>Leveraging AI: Crafting Captivating Presentations via ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-connectivity-issues-make-your-iphone-compatible-with-itunes-and-finder-again/"><u>Overcoming Connectivity Issues - Make Your iPhone Compatible with iTunes & Finder Again</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/qualcomms-latest-innovation-snapdragon-4-gen-2-transforms-the-budget-phone-market/"><u>Qualcomm's Latest Innovation: Snapdragon 4 Gen 2 Transforms the Budget Phone Market</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-downloading-and-updating-mbox2-drivers-on-windows-systems/"><u>Step-by-Step Guide to Downloading and Updating MBox2 Drivers on Windows Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/stylish-selfies-with-iosandroid-the-leading-10-sticker-apps/"><u>Stylish Selfies with iOS/Android The Leading 10 Sticker Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-pause-on-chatgpt-subscriptions-diving-deeper-into-the-shutdown-and-predicting-revival/"><u>The Pause on ChatGPT Subscriptions - Diving Deeper Into the Shutdown & Predicting Revival</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-safe-strategies-for-children-using-chatgpt-a-parents-guide/"><u>Top 5 Safe Strategies for Children Using ChatGPT: A Parent's Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-privacy-pitfalls-a-closer-look-at-common-risks-in-chatbot-interactions/"><u>Unveiling Privacy Pitfalls: A Closer Look at Common Risks in Chatbot Interactions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/8avi2024/"><u>トップ8の無料AVIファイル変換ツール：2024年版専用最新リスト</u></a></li>
 </ul></div>
 

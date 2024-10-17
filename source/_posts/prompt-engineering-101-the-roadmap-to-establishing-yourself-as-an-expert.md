@@ -1,7 +1,7 @@
 ---
 title: "Prompt Engineering 101: The Roadmap to Establishing Yourself as an Expert"
-date: 2024-10-05T18:01:55.633Z
-updated: 2024-10-10T16:37:25.016Z
+date: 2024-10-10T23:15:03.875Z
+updated: 2024-10-16T17:54:35.769Z
 tags:
   - chatgpt
   - open-ai
@@ -44,25 +44,28 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-reviewing-ingenuity-moto-z2s-intelligent-evolution/"><u>[New] 2024 Approved Reviewing Ingenuity Moto Z2's Intelligent Evolution</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-pioneering-video-content-creation-via-google-trends-study/"><u>[Updated] Pioneering Video Content Creation via Google Trends Study</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-behind-the-scenes-to-the-best-free-meme-designs/"><u>2024 Approved Behind-The-Scenes to the Best FREE Meme Designs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-might-matrix-the-vital-variants/"><u>AI's Might Matrix: The Vital Variants</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/conversione-gratuita-immagine-webp-a-formato-jpg-online-con-movavi/"><u>Conversione Gratuita Immagine WebP a Formato JPG Online Con Movavi</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/enrich-video-narrative-with-slow-motion-on-iphone-for-2024/"><u>Enrich Video Narrative with Slow Motion on iPhone for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/essential-tips-sidestepping-the-six-biggest-chatgpt-prompt-errors/"><u>Essential Tips: Sidestepping the Six Biggest ChatGPT Prompt Errors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-jailbreaks-insights-and-considerations-for-users/"><u>Exploring ChatGPT Jailbreaks: Insights & Considerations for Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fraudgpt-exposed-how-to-defend-against-this-hazardous-chatbot-and-protect-your-data/"><u>FraudGPT Exposed: How to Defend Against This Hazardous Chatbot and Protect Your Data</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-defy-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Defy 2 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/peeling-back-layers-on-ais-vulnerability-to-prompt-injection/"><u>Peeling Back Layers on AI's Vulnerability to Prompt Injection</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-malicious-potential-5-uses-of-ai-by-digital-outlaws/"><u>Understanding the Malicious Potential: 5 Uses of AI by Digital Outlaws</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-how-to-share-youtube-link-on-instagram-story/"><u>[New] 2024 Approved How to Share YouTube Link on Instagram Story</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-master-your-youtube-identity-with-cool-titles/"><u>[New] 2024 Approved Master Your YouTube Identity with Cool Titles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-step-by-written-by-john-smith-phd/"><u>[Updated] 2024 Approved Step-By Written by John Smith, PhD</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/av1-contre-hevc-la-predominance-du-futur-des-codecs-video-expliquee/"><u>AV1 Contre HEVC : La Prédominance Du Futur Des Codecs Vidéo Expliquée!</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/clone-prozeduren-fur-das-kopieren-von-windows-server-2011-auf-eine-frische-festplatte-eine-anleitung-mit-zwei-methoden/"><u>Clone-Prozeduren Für Das Kopieren Von Windows Server 2011 Auf Eine Frische Festplatte: Eine Anleitung Mit Zwei Methoden</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdblu-ray-transcoding-showdown-deciding-between-handbrake-and-makemkv/"><u>DVD/Blu-Ray Transcoding Showdown: Deciding Between Handbrake and MakeMKV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725285800848-dvdiso/"><u>DVDへの高度なISO圧縮と書き込み - 最適なソフトウェアガイド</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-gopro-editing-the-top-15-color-luts-selection-guide/"><u>Essential GoPro Editing The Top 15 Color LUTs Selection Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guida-passo-passo-per-la-conversione-di-file-mkv-su-windows-e-mac/"><u>Guida Passo-Passo per La Conversione Di File MKV Su Windows E Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nokia-g42-5g-phone-by-drfone-android/"><u>How to Reset a Locked Nokia G42 5G Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-steps-to-adobe-audition-fade-in/"><u>In 2024, Steps to Adobe Audition Fade In</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ipaddvdtop5/"><u>IPad用ダウンロード無料DVDインポーター最新テクニック：お勧めのフリーアプリTOP5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/learn-how-to-effortlessly-rip-dvds-using-the-powerful-and-free-winx-software-perfectly-compatible-with-iphone-and-android-systems/"><u>Learn How to Effortlessly Rip DVDs Using the Powerful and Free WinX Software - Perfectly Compatible with iPhone & Android Systems!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/topo-4-estrategias-mais-eficazes-para-transferir-dvds-de-tv-em-202/"><u>Topo 4 Estratégias Mais Eficazes Para Transferir DVDs De TV Em 202</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

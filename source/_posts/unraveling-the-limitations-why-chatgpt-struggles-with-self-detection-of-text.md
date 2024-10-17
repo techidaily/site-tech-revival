@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Limitations: Why ChatGPT Struggles with Self-Detection of Text"
-date: 2024-10-09T16:49:37.591Z
-updated: 2024-10-10T16:18:58.332Z
+date: 2024-10-12T21:48:22.044Z
+updated: 2024-10-16T16:23:44.527Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ![prompthero website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-hero-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  PromptHero offers a fairly similar service to PromptBase. This prompt marketplace offers prompts for ChatGPT, Midjourney, Openjourney, and Stable Diffusion. These prompts can be used for all kinds of purposes, including photography, anime, architecture, fashion, interior design, logos, and icons. If you want a general browse, you can also take a look at PromptHero's Featured, Hot, New, and Top categories.
 
  PromptHero allows you to browse categories via the top menu bar, though you can also use the website's search engine for more specific results.
@@ -55,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
  PromptHero offers a premium version of its marketplace for $9 monthly. Without this premium subscription, you'll only be able to use 25 free prompt credits per month. With the subscription, your monthly prompt cap will be increased to 300.
 
  A particularly interesting feature offered by Prompt Hero is its Jobs section. This page lets you search for AI jobs, whether remote or in-house, which is great for those with skills in AI. You can use PromptHero to access the application portal for the job you desire, and you can also view the salary, contract term, or hourly rate.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3.[ChatX](https://chatx.ai/)
 
@@ -75,25 +75,31 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ![chat x chatgpt prompt generator screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Simply describe what you want the AI model to act as and produce, and you'll be provided with a text prompt to download for future use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[PromptSea](https://www.promptsea.io/)
 
 ![promptsea website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-sea-site.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  PromptSea isn't just an AI prompt marketplace but can certainly be used to find useful AI prompts. When you head to the PromptSea website, you won't be instantly met with the prompt marketplace. However, if you scroll down a little, you'll see a small number of featured AI prompts displayed. Click on the**Prompts** title, and you'll be taken to PromptSea's prompts platform. Here, you can find image prompts for ChatGPT, Midjourney, DALLE-2, Novel AI, Nightcafe, Jasper, and Niji Journey.
 
@@ -101,18 +107,25 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ![screenshot of promptsea product purchase page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-sea-buy.jpg)
 
- On PromptSea, you can pay for prompts using cryptocurrencies such as Tezos, Polygon, or BNB. You can't use traditional tenders, such as dollars or pounds, to pay for digital items on PromptSea. If you're not a fan of crypto or NFTs, you may want to opt for one of the other marketplaces listed here.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ On PromptSea, you can pay for prompts using cryptocurrencies such as Tezos, Polygon, or BNB. You can't use traditional tenders, such as dollars or pounds, to pay for digital items on PromptSea. If you're not a fan of crypto or NFTs, you may want to opt for one of the other marketplaces listed here.
 
 ## 5.[Etsy](https://www.etsy.com/uk/?ref=lgo)
 
 ![screenshot of promptsea website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-prompt-search.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You may know Etsy as the prime platform for unique and handmade gifts, fashion, and homeware. But did you know Etsy also sells some useful AI prompts?
 
@@ -145,13 +158,6 @@ So, how do you know what you're buying?
 
  Check out[AIPRM's plan information page](https://www.aiprm.com/blog/introducing-aiprm-premium-for-chatgpt/) to see what each tier offers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7.[FlowGPT](https://flowgpt.com/)
 
 ![screennshot of flowgpt website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/flow-gpt-site.jpg)
@@ -163,10 +169,10 @@ So, how do you know what you're buying?
  You can also create prompts on FlowGPT if you want to list your prompts for other users to access.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prompt Marketplaces Can Transform Your AI Chabot Experience
@@ -188,24 +194,15 @@ So, how do you know what you're buying?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-cut-to-style-using-inshot-for-elegant-video-transitions/"><u>[New] 2024 Approved Cut to Style Using Inshot for Elegant Video Transitions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-sorbet-snapshot-guide-a-thorough-examination-of-screen-recorder/"><u>[New] In 2024, Sorbet Snapshot Guide A Thorough Examination of Screen Recorder</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-how-to-produce-a-trending-solo-podcast-series/"><u>[Updated] How To Produce A Trending Solo Podcast Series</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leading-open-source-20-best-pubg-images/"><u>[Updated] Leading Open Source 20 Best PUBG Images</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-directors-toolkit-youtube-lessons-on-film-making-for-2024/"><u>[Updated] The Director's Toolkit YouTube Lessons on Film Making for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-itel-a60-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Itel A60 to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-exclusive-offers-the-best-deals-on-verizon-upgrades-this-month/"><u>Discover Exclusive Offers: The Best Deals on Verizon Upgrades This Month</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/explore-how-the-microsoft-surface-laptop-n4-sets-a-new-benchmark-in-computing/"><u>Explore How the Microsoft Surface Laptop N°4 Sets a New Benchmark in Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stablecoin-crypto-unveiling-paypals-revolutionary-approach-for-simplified-transactions/"><u>Stablecoin Crypto: Unveiling PayPal's Revolutionary Approach for Simplified Transactions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-off-roading-unveiled-a-deep-dive-into-the-jeep-recon-electric-vehicle/"><u>The Future of Off-Roading Unveiled: A Deep Dive Into the Jeep Recon Electric Vehicle</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-joy-of-virtual-reality-my-personal-journey-at-work/"><u>The Joy of Virtual Reality: My Personal Journey at Work</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-potential-crash-of-bitcoin-could-signal-positive-change/"><u>The Potential Crash of Bitcoin Could Signal Positive Change</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-essential-aesthetic-enhancers-for-optimizing-your-midjourney-creations/"><u>Top 10 Essential Aesthetic Enhancers for Optimizing Your MidJourney Creations</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/top-economical-live-capture-software-suite/"><u>Top Economical Live Capture Software Suite</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-unexpected-features-revealed-in-the-new-apple-vision-pro/"><u>Top Unexpected Features Revealed in the New Apple Vision Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-chatgpt-into-your-personal-study-assistant-a-guide-for-students/"><u>Transforming ChatGPT Into Your Personal Study Assistant: A Guide for Students</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/ultimate-6-film-repository-on-fb/"><u>Ultimate 6 Film Repository on Fb</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-phenomenon-of-meme-cryptocurrncies-a-comprehensive-guide/"><u>Understanding the Phenomenon of Meme Cryptocurrncies: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-fun-in-virtual-reality-explore-our-picks-for-the-best-3-quest-games-with-endless-entertainment/"><u>Unlocking the Fun in Virtual Reality: Explore Our Picks for the Best 3 Quest Games with Endless Entertainment!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-ultimate-checklist-for-video-praise-mastery/"><u>[New] 2024 Approved The Ultimate Checklist for Video Praise Mastery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exploring-premium-webcams-shoppers-insights/"><u>[Updated] Exploring Premium Webcams - Shopper's Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027914396-facebook/"><u>「不可解な Facebook 動画投稿エラーを解消する究極ガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026469677-mp4/"><u>「高品質ビデオフォーマッター：効果的にMP4の解像度を拡大してください！」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/youtube-6/"><u>「YouTubeで人気のビデオ効果 - 軽量化ソフトウェア6選おすすめ！」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027542014-flac320kbps-mp3/"><u>高音質変換！FLACから320kbps MP3へ、劣化が起きない最適方法</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 15 Pro</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/mavericks-os-x-the-best-way-to-edit-mp4-videos/"><u>Mavericks OS X The Best Way to Edit MP4 Videos</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-x90s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo X90S</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies
-date: 2024-10-09T16:05:16.439Z
-updated: 2024-10-10T17:10:41.879Z
+date: 2024-10-09T23:42:35.905Z
+updated: 2024-10-16T21:23:04.189Z
 tags:
   - chatgpt
   - open-ai
@@ -55,16 +55,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. ChatGPT Writer
@@ -94,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
@@ -105,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -124,22 +125,15 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -171,17 +165,18 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enhancing-follows-into-genuine-subscriptions/"><u>[New] 2024 Approved Enhancing Follows Into Genuine Subscriptions</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715860767791-updated-capture-every-detail-on-mac-free/"><u>[Updated] Capture Every Detail on Mac - Free!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-iconic-imagery-transforming-audio-into-visual-podcast-identity/"><u>[Updated] Iconic Imagery Transforming Audio Into Visual Podcast Identity</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-transform-your-images-into-dynamic-visual-stories-for-2024/"><u>[Updated] Transform Your Images Into Dynamic Visual Stories for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm5pya5paw44gu5yuv55s75asj5oplusb44oe44o844or77ya57eo6zug44cb6yyy55s744cb5zyn57iu5qmf6io95qplusu6lyd44cn/"><u>「最新の動画変換ツール：編集、録画、圧縮機能比較」</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-stealth-watch-instagram-stories-without-profile-links-pc-android-ios/"><u>2024 Approved Mastering Stealth Watch Instagram Stories Without Profile Links [PC, Android, iOS]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-aerobic-training-in-motion-access-premium-mp43gp-vids-at-no-cost/"><u>Best Aerobic Training in Motion: Access Premium MP4/3GP Vids at No Cost!</u></a></li>
-<li><a href="https://games-able.techidaily.com/costly-graphics-card-choice-my-nvidia-regret/"><u>Costly Graphics Card Choice: My NVIDIA Regret</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/discover-a-range-of-tiktok-cover-images/"><u>Discover a Range of TikTok Cover Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamlining-your-youtube-vids-for-igtv-adoption-for-2024/"><u>Streamlining Your YouTube Vids for IGTV Adoption for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-image-quality-the-distinction-between-2160p-and-4k-ultra-hd/"><u>Understanding Image Quality: The Distinction Between 2160P and 4K Ultra HD</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-high-definition-mkv-videos-on-apple-tv-no-converter-needed/"><u>Unlock the Potential of High-Definition MKV Videos on Apple TV – No Converter Needed!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-comprehensive-guide-to-samsungs-photographic-editing-app/"><u>[New] Comprehensive Guide to Samsung's Photographic Editing App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-recording-playbook-your-roblox-adventures-transformed/"><u>[New] In 2024, The Ultimate Recording Playbook Your Roblox Adventures, Transformed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-decoding-best-practices-navigating-through-top-9-free-logo-creators-for-2024/"><u>[Updated] Decoding Best Practices Navigating Through Top 9 Free Logo Creators for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/agp-slots-reimagined-embracing-modern-gpus-for-legacy-systems-and-network-upgrades-learn-about-the-2-adapters-that-make-it-possible/"><u>AGP Slots Reimagined: Embracing Modern GPUs for Legacy Systems and Network Upgrades - Learn About the 2 Adapters That Make It Possible</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-anticipating-innovations-in-next-gen-ai-and-bot-conversational-technologies/"><u>Beyond ChatGPT - Anticipating Innovations in Next-Gen AI & Bot Conversational Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-stellar-cvs-integrating-chatgpt-insights/"><u>Crafting Stellar CVs - Integrating ChatGPT Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-cutting-edge-tech-insights-with-toms-hardware-guides/"><u>Exploring Cutting-Edge Tech Insights with Tom's Hardware Guides</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-insignia-gpu-drivers-instantly-seamless-setup-for-your-computer/"><u>Get Insignia GPU Drivers Instantly: Seamless Setup for Your Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-hey-siri-issues-on-your-iphone-a-comprehensive-guide/"><u>How to Resolve 'Hey Siri' Issues on Your iPhone: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-common-missteps-in-generative-ai-tool-utilization/"><u>Navigating the Common Missteps in Generative AI Tool Utilization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/participate-in-openais-bug-hunt-understand-the-eligibility-criteria-and-procedure/"><u>Participate In OpenAI's Bug Hunt - Understand the Eligibility Criteria & Procedure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-to-developing-custom-gpt-for-enhanced-personalized-interactions/"><u>Step-by-Step Guide to Developing Custom GPT for Enhanced Personalized Interactions</u></a></li>
 </ul></div>
 

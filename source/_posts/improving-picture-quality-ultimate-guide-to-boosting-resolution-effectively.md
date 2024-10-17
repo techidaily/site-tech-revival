@@ -1,7 +1,7 @@
 ---
 title: "Improving Picture Quality: Ultimate Guide to Boosting Resolution Effectively"
-date: 2024-09-12 22:24:28
-updated: 2024-09-13 10:36:50
+date: 2024-10-10T00:04:19.879Z
+updated: 2024-10-16T23:12:50.989Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/6669b51a644a6e6a471c5e95129c578aa098ea11ffbe838822c268118ff95e70.jpg
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -221,6 +228,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -305,6 +319,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -403,6 +424,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
@@ -410,6 +438,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -423,6 +458,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -455,6 +497,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -467,6 +516,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -536,11 +592,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-art-of-adjustment-elevating-your-photography/"><u>[Updated] In 2024, The Art of Adjustment Elevating Your Photography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-clear-black-boards-in-your-youtube-videos/"><u>2024 Approved How to Clear Black Boards in Your YouTube Videos?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avi-vs-mp4-analyse-detaillee-des-avantages-et-inconvenients-du-format-video-pour-la-diffusion-en-ligne/"><u>AVI Vs. MP4 - Analyse Détaillée Des Avantages Et Inconvénients Du Format Vidéo Pour La Diffusion en Ligne</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/compresser-des-videos-de-grande-taille-pour-whatsapp-avec-une-perte-de-qualite-nulle-utiliser-winxdvd/"><u>Compresser Des Vidéos De Grande Taille Pour WhatsApp Avec Une Perte De Qualité Nulle - Utiliser WinXDVD</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-winx-dvd-ripper-pro-for-free-secure-and-fast-conversion-from-dvd-to-mobile-friendly-formats/"><u>Download WinX DVD Ripper Pro for Free – Secure & Fast Conversion From DVD to Mobile-Friendly Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effizientes-konvertieren-von-avchd-m2ts-in-mp4-format-qualitatsbewahrt-die-besten-ansatze-erklart/"><u>Effizientes Konvertieren Von AVCHD M2TS in MP4 Format, Qualitätsbewahrt | Die Besten Ansätze Erklärt</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-video-quality-overcoming-poor-performance-of-upscaled-dvd-players/"><u>Enhancing Video Quality: Overcoming Poor Performance of Upscaled DVD Players</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-windows-10-compare-with-windows-7-key-features-and-improvements/"><u>How Does Windows 10 Compare with Windows 7 - Key Features and Improvements</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-spark-20-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Spark 20 to iPod | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-view-mov-files-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>How to view MOV files on Samsung Galaxy M34 5G ?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-wont-back-up-to-icloud-9-fixes-to-try/"><u>IPhone Won't Back Up to iCloud? 9 Fixes to Try</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagrams-latest-features-reels-and-stories/"><u>Mastering Instagram’s Latest Features Reels & Stories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/offizielle-gewinn-codes-fur-winx-dvd-ripper-premium-sonderangebote-und-ermassigungen/"><u>OFFIZIELLE Gewinn-Codes Für WinX DVD Ripper Premium – Sonderangebote Und Ermäßigungen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-avi-to-mp4-converter-tools-top-free-options-for-pcs-running-windows-11-and-macos/"><u>Online AVI to MP4 Converter Tools: Top Free Options for PCs Running Windows 11 & MacOS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolved-overcoming-handbrake-limitations-for-smooth-videodvd-transfer/"><u>Resolved: Overcoming HandBrake Limitations for Smooth Video/DVD Transfer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-7-frustrating-iphone-x-glitches-solutions-inside/"><u>Top 7 Frustrating iPhone X Glitches: Solutions Inside</u></a></li>
+<li><a href="https://article-files.techidaily.com/ultimate-choice-the-greatest-11-multi-angle-cams/"><u>Ultimate Choice The Greatest 11 Multi-Angle Cams</u></a></li>
+</ul></div>
+

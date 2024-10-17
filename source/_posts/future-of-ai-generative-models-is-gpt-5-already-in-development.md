@@ -1,7 +1,7 @@
 ---
 title: Future of AI Generative Models - Is GPT-5 Already in Development?
-date: 2024-10-08T17:19:06.269Z
-updated: 2024-10-10T16:20:37.543Z
+date: 2024-10-11T22:21:55.460Z
+updated: 2024-10-16T16:09:55.617Z
 tags:
   - chatgpt
   - open-ai
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
  You can use[ChatGPT](https://chat.openai.com/) ’s basic features for free, and you can type numerous responses into the app. On top of that, you can get ChatGPT Plus—which costs $20 per month. ChatGPT Plus offers access during periods when lots of other people are using the platform, along with other useful features.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Drafting Ideas
@@ -47,9 +47,29 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 ![Notion AI Brainstorm Idea Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-brainstorm-idea.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see from the example below, we’ve asked Notion AI to brainstorm ideas related to sports.
 
 ![Notion AI Sport Ideas Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-sport-ideas.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Notion AI also lets you draft social media posts, press releases, blog posts, and more.
 
@@ -65,27 +85,20 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 ![Notion AI Page Summary Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/notion-ai-page-summary.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When using ChatGPT, you can ask the tool to provide summaries on different topics. If you’ve created a conversation, you can get it to provide an overview by typing**“summarize this conversation so far”** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Finding Answers to Questions
 
  If you have broader questions that require answering, ChatGPT is a better option than Notion AI. You can ask ChatGPT for answers to numerous questions, such as why people enjoy or dislike visiting a certain place. In another example below, we’ve used ChatGPT to ask where in the world people speak the German language.
 
 ![Question Asked in ChatGPT Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/question-asked-in-chatgpt.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also use ChatGPT to find out which movements are most frequently used in certain exercise regimens, along with things to do on your travels and more. However, you should double-check the accuracy of everything you see; as ChatGPT mentions, the feature sometimes has inaccuracies.
 
@@ -97,22 +110,21 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 ![Translate Notion AI Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/translate-notion-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With ChatGPT, you also have the option to translate different things. You can ask the tool how you can say various words and phrases in other languages, and it’s also possible to translate your entire conversation. To do this, type**“translate this entire conversation into \[language\]”** at the bottom of your screen.
 
 ![ChatGPT Page Translation Screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-page-translation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Stability
@@ -154,24 +166,16 @@ thumbnail: https://thmb.techidaily.com/53c515418786e92ebed3c6206ea33f7c074dbdb11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1-guide-capturing-your-macs-display-a-step-by-step-tutorial-on-screen-recording-with-sound/"><u>1. [Guide] Capturing Your Mac's Display: A Step-by-Step Tutorial on Screen Recording with Sound</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-tips-for-truly-tuning-into-your-iphone-podcasts/"><u>2024 Approved Tips for Truly Tuning Into Your iPhone Podcasts</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dmmdrm/"><u>DMM動画のDRM除去方法 - 安定してダウンロード可能な高品質再生ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effektive-strategien-zur-ubertragung-von-dvds-auf-usb-im-jahr-2024-die-fuhrenden-6-methoden/"><u>Effektive Strategien Zur Übertragung Von DVDs Auf USB Im Jahr 2024 - Die Führenden 6 Methoden</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-strategies-for-removing-videos-from-your-iphone-various-techniques-explored/"><u>Expert Strategies for Removing Videos From Your iPhone - Various Techniques Explored</u></a></li>
-<li><a href="https://discover-great.techidaily.com/extremo-velocidad-dvd-conversion-con-winx-reproductilas-a-rapido-y-sin-problemas-en-sistemas-windows-11/"><u>Extremo Velocidad DVD Conversion Con WinX - Reprodúctilas a Rápido Y Sin Problemas en Sistemas Windows ^11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/find-the-best-video-transcoding-solution-macx-hd-converter-pro-on-windows-marketplace/"><u>Find the Best Video Transcoding Solution - MacX HD Converter Pro on Windows Marketplace</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/fiscal-football-footage-how-to-capture-and-edit-for-dirt-cheap-for-2024/"><u>Fiscal Football Footage How To Capture and Edit for Dirt-Cheap for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-xiaomi-redmi-k70e-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Xiaomi Redmi K70E FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-t2-pro-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Vivo T2 Pro 5G Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-your-youtube-viewership-with-expert-tips-on-downsizing-full-hd-to-4k-videos-precisely-for-upload-optimization/"><u>Maximize Your YouTube Viewership with Expert Tips on Downsizing Full HD to 4K Videos Precisely for Upload Optimization</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-technical-hurdles-in-phasmophobia-vr-a-step-by-step-fix/"><u>Overcoming Technical Hurdles in Phasmophobia VR - A Step-by-Step Fix</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/perfecting-sound-integrating-music-into-vimeo-video-projects/"><u>Perfecting Sound Integrating Music Into Vimeo Video Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-steps-to-uploading-h265-hevc-content-on-youtube/"><u>Simple Steps to Uploading H.265 (HEVC) Content on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/squid-game-complete-episodes-available-gratis-watch-without-subscription-on-streaming-platforms/"><u>Squid Game Complete Episodes Available Gratis: Watch Without Subscription on Streaming Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-step-by-step-guide-on-mp4-to-flv-conversion-quick-easy-and-no-cost-solution/"><u>Ultimate Step-by-Step Guide on MP4 to FLV Conversion - Quick, Easy and No Cost Solution</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-timers-without-a-dollar-for-2024/"><u>[New] Ultimate Timers Without a Dollar for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-versions-understanding-gpt-4-gpt-4-turbo-and-gpt-4-go-key-distinctions/"><u>Comparing Versions: Understanding GPT-4, GPT-4 Turbo & GPT-4 Go - Key Distinctions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tly-edited-content-choosing-the-best-editor/"><u>Expertly Edited Content Choosing The Best Editor</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Smart 8 HD | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-gpt-for-emotional-support-and-connection/"><u>Harnessing GPT for Emotional Support and Connection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-11-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme 11 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-new-languages-using-ai-discover-the-power-of-chatgpt-plus/"><u>Mastering New Languages Using AI: Discover the Power of ChatGPT Plus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prioritized-revamps-for-the-gpt-plugins-stores-functionality/"><u>Prioritized Revamps for the GPT Plugins Store's Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-new-frontier-in-workforce-evolution-7-impacts-of-generative-artificial-intelligence/"><u>The New Frontier in Workforce Evolution: 7 Impacts of Generative Artificial Intelligence</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Phantom V Fold | Dr.fone</u></a></li>
 </ul></div>
 

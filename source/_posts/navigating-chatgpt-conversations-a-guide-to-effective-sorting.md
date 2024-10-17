@@ -1,7 +1,7 @@
 ---
 title: "Navigating ChatGPT Conversations: A Guide to Effective Sorting"
-date: 2024-10-03T17:27:33.114Z
-updated: 2024-10-10T17:50:07.262Z
+date: 2024-10-10T17:51:10.383Z
+updated: 2024-10-16T18:52:43.311Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -77,10 +90,10 @@ ChatGPT also cracked the problem as well.
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
@@ -94,22 +107,21 @@ ChatGPT also cracked the problem as well.
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
@@ -125,6 +137,13 @@ ChatGPT also cracked the problem as well.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
  After Claude AI failed the last test, we tried a different kind of coding task, one that was more about analyzing code and less about writing new code. We uploaded five PHP files that represent the complete backend for a website and asked both Claude AI and ChatGPT where we would need to edit in all the uploaded files to ensure we get a mail once a new user registers on the site.
@@ -136,13 +155,6 @@ ChatGPT also cracked the problem as well.
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Claude AI Is a Potent Competitor on the Block
 
@@ -163,17 +175,22 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-serpent-soundtrack-comprehensive-guide-to-tts-resources-online/"><u>[New] 2024 Approved Serpent Soundtrack Comprehensive Guide to TTS Resources Online</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-quickcapture-hd-software/"><u>2024 Approved QuickCapture HD Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/cattura-e-converte-le-immagini-di-rw2-in-formato-jpeg-senza-costo-con-il-servizio-online-gratuito-di-movavi/"><u>Cattura E Converte Le Immagini Di RW2 in Formato JPEG Senza Costo Con Il Servizio OnLine Gratuito Di Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-google-pixel-8-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Google Pixel 8 Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/joby-wavo-pro-mic-evaluation-a-top-choice-for-camera-and-phone-shooters/"><u>Joby Wavo Pro Mic Evaluation - A Top Choice for Camera & Phone Shooters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-your-typing-experience-on-the-keychron-s9-wireless-mechanical-keyboard-in-depth-analysis-and-evaluation/"><u>Master Your Typing Experience on the Keychron S9 Wireless Mechanical Keyboard - In-Depth Analysis and Evaluation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-on-the-go-charging-in-depth-review-of-the-portable-high-capacity-ugreen-powerroam-npower-unit-2200/"><u>Mastering On-the-Go Charging: In-Depth Review of the Portable, High-Capacity Ugreen PowerRoam nPower Unit (2200)!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/panopticon-perspective-analysis-for-2024/"><u>Panopticon Perspective Analysis for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/plug-incredible-solar-powered-motion-detection-capabilities-unveiled/"><u>Plug: Incredible Solar-Powered Motion Detection Capabilities Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/review-of-ecovacs-deebot-t30s-combo-robotic-vacuum-effective-cleaning-on-all-floor-types-including-stairs/"><u>Review of Ecovacs Deebot T30S Combo Robotic Vacuum - Effective Cleaning on All Floor Types Including Stairs</u></a></li>
-<li><a href="https://techtrends.techidaily.com/setting-up-an-oculus-questquest-2-a-comprehensive-guide-for-first-time-users/"><u>Setting up an Oculus (Quest/Quest 2): A Comprehensive Guide for First-Time Users</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/windows-10-mov-recording-guide-for-2024/"><u>Windows 10 MOV Recording Guide for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-google-meet-recording-made-easy-for-smartphone-users-for-2024/"><u>[Updated] Google Meet Recording Made Easy for Smartphone Users for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-top-7-kickasstorrents-substitutes-expertly-curated-websites-offering-similar-services-to-kat-enthusiasts/"><u>Discover the Top 7 KickassTorrents Substitutes: Expertly Curated Websites Offering Similar Services to KAT Enthusiasts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/discovering-the-fusion-of-color-and-clarity-in-4k-blade-cameras/"><u>Discovering the Fusion of Color and Clarity in 4K Blade Cameras</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvdmp4-windows-114/"><u>DVDビデオをMP4に直してみせる: Windows 11で最適解法4つ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easier-ways-to-transform-mp4-files-into-mov-format/"><u>Easier Ways to Transform MP4 Files Into MOV Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-access-to-oriental-screenshots-with-icdrama-kodi-add-on-free-streaming-tutorial/"><u>Easy Access to Oriental Screenshots with ICDrama Kodi Add-On - Free Streaming Tutorial!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-techniques-for-bulk-conversion-of-mod-audio-tracks-into-mp3-format/"><u>Efficient Techniques for Bulk Conversion of MOD Audio Tracks Into MP3 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-techniques-from-mpeg-n-to-mp4-format-for-enhanced-video-playback/"><u>Effortless Conversion Techniques From MPEG-N to MP4 Format for Enhanced Video Playback</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-switching-audiosubtitles-in-mkv-files-without-remux/"><u>Effortless Guide: Switching Audio/Subtitles in MKV Files Without Remux</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-funniest-sites-akin-to-cartooncrazy-your-comprehensive-list/"><u>Exploring the Funniest Sites Akin to CartoonCrazy - Your Comprehensive List</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/family-fun-on-wheels-holy-stone-rc-cartoon-race-car-evaluation/"><u>Family Fun on Wheels: Holy Stone RC Cartoon Race Car Evaluation</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-of-tiff-images-with-movavi-a-comprehensive-guide/"><u>Free Online Conversion of TIFF Images with Movavi: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/guia-detallada-para-restablecer-tu-computadora-con-windows-n-en-un-click-y-asegurarte-su-eliminacion-completa/"><u>Guía Detallada Para Restablecer Tu Computadora Con Windows N en Un Click Y Asegurarte Su Eliminación Completa</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-x50iplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor X50i+ FRP Bypass</u></a></li>
 </ul></div>
 

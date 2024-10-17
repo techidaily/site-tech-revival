@@ -1,7 +1,7 @@
 ---
 title: "Unveiling CodeGPT: The AI Revolutionizing Coding – Does It Truly Compose Programs?"
-date: 2024-10-06T18:04:10.013Z
-updated: 2024-10-10T16:46:48.898Z
+date: 2024-10-15T00:15:27.409Z
+updated: 2024-10-16T22:31:37.614Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 Here's a video of Altman's discussion below:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
@@ -50,16 +50,10 @@ Here's a video of Altman's discussion below:
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
@@ -77,10 +71,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Changes Could GPT-5 Bring?
@@ -94,10 +88,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -121,14 +115,22 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boost-engagement-innovative-templates-for-your-video-closings/"><u>[New] 2024 Approved Boost Engagement Innovative Templates for Your Video Closings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-drones-today-tomorrows-potential-unlocked-for-2024/"><u>[New] Drones Today, Tomorrow's Potential Unlocked for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-exploring-ice-cream-screen-recorder-technology/"><u>[Updated] Exploring Ice Cream Screen Recorder Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1724766526574-macx-video-converter-pro-100/"><u>安心して使えるMacX Video Converter Pro － 100%ウイルスフリーで信頼性抜群・口コミ集結!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/editing-existing-projects/"><u>Editing Existing Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-tutorial-changing-mpeg-files-to-quicktime-mov-for-both-pcs-and-macs/"><u>Effortless Conversion Tutorial: Changing MPEG Files to QuickTime MOV for Both PCs and Macs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-download-mp3-reactor-replacement-apps-for-your-mac/"><u>Free Download: MP3 Reactor Replacement Apps for Your Mac</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-perfecting-motion-blur-in-photoshop/"><u>In 2024, Unveiling the Secrets Perfecting Motion Blur in Photoshop</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-mastering-slow-mo-a-step-by-step-guide-to-windows-live-movie-maker/"><u>New 2024 Approved Mastering Slow-Mo A Step-by-Step Guide to Windows Live Movie Maker</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-premium-selection-10-affordable-captions-from-youtube/"><u>[New] 2024 Approved Premium Selection 10 Affordable Captions From YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-best-nintendo-switch-fighter-ranks-max-156/"><u>2024 Approved Best Nintendo Switch Fighter Ranks (Max 156)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/android-and-ios-tips-for-optimal-chatgpt-use/"><u>Android & iOS Tips for Optimal ChatGPT Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-intent-why-chatgpt-is-a-prime-target-for-cyber-attacks/"><u>Decoding the Intent: Why ChatGPT Is a Prime Target for Cyber Attacks?</u></a></li>
+<li><a href="https://windows11.techidaily.com/efficient-method-to-engagedisengage-bings-taskbar-assist/"><u>Efficient Method to Engage/Disengage Bing's Taskbar Assist</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-meditation-with-chatgpt-suggestions/"><u>Enhancing Meditation With ChatGPT Suggestions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-oppo-a1-5g-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Oppo A1 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://common-error.techidaily.com/installation-error-windows-10-version-1607-upgrade-fails/"><u>Installation Error: Windows 10 Version 1607 Upgrade Fails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-chatgpt-to-construct-a-professional-and-persuasive-resume-quickly/"><u>Leverage ChatGPT to Construct a Professional and Persuasive Resume Quickly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-productivity-with-these-9-essential-chatgpt-plugins-ready-for-instant-use/"><u>Maximize Productivity with These 9 Essential ChatGPT Plugins, Ready for Instant Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-progress-discovering-the-top-5-promising-ai-hardware-breakthroughs/"><u>Pioneering Progress: Discovering the Top 5 Promising AI Hardware Breakthroughs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/step-by-step-embarking-on-your-ifunny-meme-adventure-for-2024/"><u>Step-By-Step Embarking on Your iFunny Meme Adventure for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-paperclip-maximization-dilemma-its-role-and-consequences-for-ai-development/"><u>The Paperclip Maximization Dilemma: Its Role & Consequences for AI Development</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-conversations-into-content-choices/"><u>Transforming Conversations Into Content Choices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unlock-exclusive-discounts-on-gadgets-ankers-mini-power-bank-latest-google-pixel-timepiece-and-secure-your-home-with-blink-cameras/"><u>Unlock Exclusive Discounts on Gadgets: Anker's Mini Power Bank, Latest Google Pixel Timepiece, and Secure Your Home with Blink Cameras!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-split-cut-and-edit-videos-for-free-our-top-recommendations/"><u>Updated In 2024, Split, Cut, and Edit Videos for Free Our Top Recommendations</u></a></li>
 </ul></div>
 

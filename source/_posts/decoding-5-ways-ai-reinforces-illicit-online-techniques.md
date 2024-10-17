@@ -1,7 +1,7 @@
 ---
 title: Decoding 5 Ways AI Reinforces Illicit Online Techniques
-date: 2024-10-06T17:49:16.474Z
-updated: 2024-10-10T18:31:59.346Z
+date: 2024-10-12T20:11:58.504Z
+updated: 2024-10-16T19:55:54.478Z
 tags:
   - chatgpt
   - open-ai
@@ -48,20 +48,13 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -91,10 +84,16 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
@@ -114,13 +113,20 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -130,13 +136,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -144,6 +143,13 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -162,16 +168,22 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-learn-efficiently-how-to-use-zero-cost-timers/"><u>[New] Learn Efficiently How To Use Zero Cost Timers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-selfie-validation-is-it-essential-for-instagram-users/"><u>[Updated] 2024 Approved Selfie Validation Is It Essential for Instagram Users?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>[Updated] In 2024, Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-artificial-intelligence-chatbot-content-filtering-on-users/"><u>Exploring the Impact of Artificial Intelligence Chatbot Content Filtering on Users</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-capture-it-all-the-top-5-sd-cards-for-gopro-hero-footage/"><u>In 2024, Capture It All The Top 5 SD Cards for GoPro Hero Footage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-steam-playback-perfection-in-video-games/"><u>In 2024, Steam Playback Perfection in Video Games</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a38-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo A38 FRP Bypass</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/leading-mp4-to-facebook-mover-for-2024/"><u>Leading MP4 to Facebook Mover for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/missed-out-on-your-chatgpt-talks-heres-how-you-can-get-them-back/"><u>Missed Out on Your ChatGPT Talks? Here's How You Can Get Them Back!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/python-scripts-to-power-gpt-3/"><u>Python Scripts to Power GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-attraction-the-reasons-behind-hacker-interest-in-chatgpt-profiles/"><u>Understanding the Attraction: The Reasons Behind Hacker Interest in ChatGPT Profiles</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-enhancing-your-audacity-sessions-for-excellence/"><u>[New] In 2024, Enhancing Your Audacity Sessions for Excellence</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-video-formats-that-thrive-on-instagram-whats-best-for-2024/"><u>[New] Video Formats That Thrive on Instagram - What's Best for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-beyond-the-lens-essential-ios-and-android-video-platforms/"><u>2024 Approved Beyond the Lens Essential iOS and Android Video Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assistance-enhanced-transforming-pdf-access-for-chatgpt-users/"><u>AI Assistance Enhanced: Transforming PDF Access for ChatGPT Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battling-chatgpt-with-intelligence-google-unveils-its-own-ai-bard/"><u>Battling ChatGPT with Intelligence: Google Unveils Its Own AI - Bard</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-and-capable-the-best-camera-for-beginners-sx530-review/"><u>Compact and Capable: The Best Camera for Beginners - SX530 Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-creativity-top-performances-of-three-ai-chatbots-on-identical-tasks/"><u>Comparing Creativity: Top Performances of Three AI Chatbots on Identical Tasks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-steps-to-successfully-set-up-local-llama-2/"><u>Complete Guide: Steps to Successfully Set Up Local Llama 2</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-13-pro-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 13 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-samsung-galaxy-xcover-6-pro-tactical-edition-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Samsung Galaxy XCover 6 Pro Tactical Edition Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70FRP Lock</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-seamless-installation-windows-11-in-place-upgrade-techniques/"><u>Mastering the Seamless Installation: Windows 11 In-Place Upgrade Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-magic-behind-machine-learning-insights-unraveling-openais-shap-e-tool/"><u>The Magic Behind Machine Learning Insights: Unraveling OpenAI's Shap-E Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-10-tips-for-integrating-chatgpt-into-your-vs-code-workflow/"><u>Top 10 Tips for Integrating ChatGPT Into Your VS Code Workflow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-drives-into-dialogues-mercedes-vehicle-voice-tech/"><u>Transforming Drives Into Dialogues: Mercedes Vehicle Voice Tech</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unveiling-strategies-for-apples-triumph-over-tech-giants-at-the-upcoming-wwdc-event-exclusive-analysis-by-zdnet/"><u>Unveiling Strategies for Apple's Triumph Over Tech Giants at the Upcoming WWDC Event | Exclusive Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-about-using-ai-generated-content-in-instant-messages-insights-and-concerns/"><u>Why You Should Think Twice About Using AI-Generated Content in Instant Messages: Insights and Concerns</u></a></li>
 </ul></div>
 

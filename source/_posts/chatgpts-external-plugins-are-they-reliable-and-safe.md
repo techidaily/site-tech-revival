@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's External Plugins: Are They Reliable and Safe?"
-date: 2024-10-06T16:28:58.334Z
-updated: 2024-10-10T16:01:43.818Z
+date: 2024-10-09T17:49:41.012Z
+updated: 2024-10-17T00:53:55.279Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
 
 [NVIDIA NeMo](https://www.nvidia.com/en-us/gpu-cloud/nemo-llm-service/) service works similarly to ChatGPT, but it's specifically pre-trained for businesses. This means you can train the AI model by adding special skills and knowledge to define its objectives in tune with your business.
@@ -46,9 +53,29 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### NVIDIA Picasso
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
@@ -59,10 +86,16 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
@@ -71,36 +104,15 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Who Can Use NVIDIA AI Foundations?
 
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
 
  NVIDIA's AI Foundations isn't available to the general public. However, you can request early access by filling up your company's details on NVIDIA's website. Once your business application is approved, you can access the AI models through a browser or[a dedicated API](https://www.makeuseof.com/what-is-api/) .
 
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
 
@@ -123,24 +135,19 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-unveiling-the-hidden-gems-that-challenge-vlc/"><u>[New] 2024 Approved Unveiling the Hidden Gems That Challenge VLC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-visual-voyages-the-most-motivating-instagram-images/"><u>[New] In 2024, Visual Voyages The Most Motivating Instagram Images</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/p-dive-into-youtube-view-counts-and-more/"><u>A Deep Dive Into YouTube View Counts and More</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/best-captures-of-macs-visual-display-under-156-characters-for-2024/"><u>Best Captures of Mac's Visual Display (Under 156 Characters) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-top-6-benefits-of-snapchats-my-ai-beyond-its-fun-appeal/"><u>Discover the Top 6 Benefits of Snapchat's My AI Beyond Its Fun Appeal</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/engaging-audiennas-a-captivate-presentation-guide/"><u>Engaging Audiennas A Captivate Presentation Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guard-your-digital-realm-avoid-the-google-bard-menace/"><u>Guard Your Digital Realm: Avoid the Google Bard Menace</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-premier-cameras-for-diving-and-snorkeling-enthusiasts/"><u>In 2024, The Ultimate List Premier Cameras for Diving & Snorkeling Enthusiasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-reels-a-prodigys-blueprint/"><u>Instagram Reels A Prodigy’s Blueprint</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-ai-synergy-innovative-ways-to-use-chatgpts-wolfram-plugin/"><u>Maximizing AI Synergy: Innovative Ways to Use ChatGPT's Wolfram Plugin</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-gen-wrist-tech-exploring-the-impact-of-ai-conversations-on-smartwatches/"><u>Next-Gen Wrist Tech: Exploring the Impact of AI Conversations on Smartwatches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-end-of-hacking-discover-why-chatgpt-jailbreaks-are-no-longer-a-viable-option-revealing-7-secrets/"><u>The End of Hacking?: Discover Why ChatGPT Jailbreaks Are No Longer a Viable Option (Revealing 7 Secrets)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-flaws-of-ai-based-copyright-scanners-addressing-the-growing-concern/"><u>The Hidden Flaws of AI-Based Copyright Scanners: Addressing the Growing Concern</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-top-9-most-effective-substitutes-for-dvd-shrink-software-on-windows-1011/"><u>The Top 9 Most Effective Substitutes for DVD Shrink Software on Windows 10/11</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-resolve-missing-vcompdll-errors-troubleshooting-techniques/"><u>Ultimate Guide to Resolve Missing vcomp.dll Errors | Troubleshooting Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-9-compelling-reasons-for-embracing-chatgpt-plus-today/"><u>Unlock the Power of AI: 9 Compelling Reasons for Embracing ChatGPT Plus Today</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-14-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 14 Before the Plan Expires</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-ai-8-ways-chatgpt-can-transform-your-business-operations/"><u>Unlocking the Potential of AI: 8 Ways ChatGPT Can Transform Your Business Operations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/voice-assisted-conversations-integrating-voicegpt-for-a-talkable-chatgpt-experience-on-your-android-phone/"><u>Voice Assisted Conversations: Integrating VoiceGPT for a Talkable ChatGPT Experience on Your Android Phone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-breakdown-of-successful-podcast-writing-techniques-examples-included/"><u>[New] Breakdown of Successful Podcast Writing Techniques (Examples Included)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-chase-laughter-and-tears-on-instagram-with-these-10-feeds-for-2024/"><u>[New] Chase Laughter & Tears on Instagram with These 10 Feeds for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-navigating-copyright-laws-for-instagram-music-postings/"><u>[Updated] In 2024, Navigating Copyright Laws for Instagram Music Postings</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leveraging-yt-playlist-features-for-site-enhancement/"><u>2024 Approved Leveraging YT Playlist Features for Site Enhancement</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-video-vanguard-sj6-legend-against-xiaomis-yi-kickstart/"><u>2024 Approved Video Vanguard SJ6 Legend Against Xiaomi's Yi Kickstart</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-live-streaming-tools-master-your-videos-with-manycam-and-virtual-webcams/"><u>Best Live Streaming Tools: Master Your Videos with ManyCam and Virtual Webcams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-live-streaming-with-manycam-ultimate-virtual-camera-solutions/"><u>Best Live Streaming with ManyCam: Ultimate Virtual Camera Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-manycam-alternatives-top-virtual-camera-apps-for-streamers/"><u>Best ManyCam Alternatives: Top Virtual Camera Apps for Streamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-webcam-apps-compatible-with-tinychat-multi-camera-options/"><u>Best Webcam Apps Compatible with Tinychat: Multi-Camera Options</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/capture-and-store-5-best-ways-to-save-your-favorite-facebook-videos-for-2024/"><u>Capture & Store 5 Best Ways to Save Your Favorite Facebook Videos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-realme-12-proplus-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Realme 12 Pro+ 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725616842752-live-streaming-mastery-with-manycam-ultimate-virtual-camera-and-editing-suite/"><u>Live Streaming Mastery with ManyCam - Ultimate Virtual Camera & Editing Suite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725616754237-live-streaming-mastery-with-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery with ManyCam - Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transforming-soundtracks-into-professional-podcasts/"><u>Transforming Soundtracks Into Professional Podcasts</u></a></li>
 </ul></div>
 

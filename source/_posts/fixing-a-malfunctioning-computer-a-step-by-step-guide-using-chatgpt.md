@@ -1,7 +1,7 @@
 ---
 title: "Fixing a Malfunctioning Computer: A Step-by-Step Guide Using ChatGPT"
-date: 2024-10-05T18:35:17.189Z
-updated: 2024-10-10T18:48:26.925Z
+date: 2024-10-15T21:55:48.948Z
+updated: 2024-10-16T18:03:11.056Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
  We asked ChatGPT to help us in building our French vocabulary. To be more specific, we told ChatGPT about our proficiency in French and that we wanted recommendations for common words used in daily life. It quickly gave us a list of 20 common words and phrases and their meanings.
@@ -45,6 +52,19 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
  An interesting thing of note is that it also explained the pronunciation of each word. This is because we specified that we wanted to improve our speaking skills. We gave the same prompt to GPT-3.5, and it gave us the same list but without the pronunciations.
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Practice Conversational Skills
 
@@ -56,27 +76,20 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
@@ -93,22 +106,21 @@ Here's how you can create your own personalized tests:
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
@@ -142,21 +154,21 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-selection-top-hdr-camera-picks/"><u>[New] Ultimate Selection Top HDR Camera Picks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-does-immediate-subscription-enhance-user-engagement-on-youtube/"><u>[Updated] 2024 Approved Does Immediate Subscription Enhance User Engagement on Youtube?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-practical-methods-for-capturing-vimeo-media-for-2024/"><u>[Updated] Practical Methods for Capturing Vimeo Media for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-vivo-t2-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-masterpiece-makers-top-10-android-collage-tools/"><u>2024 Approved Masterpiece Makers Top 10 Android Collage Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-bonds-how-ai-powered-chat-assistants-can-transform-your-search-for-compannionship/"><u>Boosting Bonds: How AI-Powered Chat Assistants Can Transform Your Search for Compannionship</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-ai-driven-tactics-amplifying-malicious-digital-ventures/"><u>Five AI-Driven Tactics: Amplifying Malicious Digital Ventures</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-from-fledgling-to-front-runner-flourishing-in-follower-count/"><u>In 2024, From Fledgling to Front-Runner Flourishing in Follower Count</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-ai-control-mechanisms/"><u>Navigating AI Control Mechanisms</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/public-domain-perfection-top-10-image-websites-for-2024/"><u>Public Domain Perfection Top 10 Image Websites for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-artificial-intelligence-on-interactive-entertainment-industry/"><u>The Impact of Artificial Intelligence on Interactive Entertainment Industry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformative-techniques-employing-chatgpt-to-boost-your-data-analyst-abilities/"><u>Transformative Techniques: Employing ChatGPT to Boost Your Data Analyst Abilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-limitations-7-key-downsides-to-using-ai-in-communication-apps/"><u>Understanding the Limitations: 7 Key Downsides to Using AI in Communication Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-chatgpt-for-generating-stunning-ai-artwork/"><u>Unlocking the Potential of ChatGPT for Generating Stunning AI Artwork</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-the-complete-guide-to-making-fortnite-montage-for-2024/"><u>Updated The Complete Guide to Making Fortnite Montage for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigating-auto-captioned-content-in-social-media-visuals/"><u>[New] In 2024, Navigating Auto-Captioned Content in Social Media Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-frontier-gadgets-galore-top-10-vr-accessories/"><u>[Updated] Frontier Gadgets Galore Top 10 VR Accessories</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advance-your-digital-dialogue-5-essential-strategies-for-optimal-chatgpt-engagement/"><u>Advance Your Digital Dialogue: 5 Essential Strategies for Optimal ChatGPT Engagement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-daily-efficiency-top-7-methods-chatgpt-offers-for-a-more-productive-work-life/"><u>Boosting Daily Efficiency: Top 7 Methods ChatGPT Offers for a More Productive Work Life</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-deception-recognize-the-scams/"><u>ChatGPT Deception: Recognize the Scams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3-enhances-user-experience-with-integrated-edit-tools-yet-refinements-are-needed/"><u>DALL-E 3 Enhances User Experience with Integrated Edit Tools, Yet Refinements Are Needed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-functionality-of-claude-pro-vs-the-enhanced-features-in-chatgpt-plus/"><u>Decoding the Functionality of Claude Pro Vs. The Enhanced Features in ChatGPT Plus</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-tecno-pop-8-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Tecno Pop 8 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/effortlessly-upload-your-imovie-masterpieces-to-vimeo/"><u>Effortlessly Upload Your iMovie Masterpieces to Vimeo</u></a></li>
+<li><a href="https://article-tips.techidaily.com/enhance-your-iphone-pics-in-minutes-for-2024/"><u>Enhance Your iPhone Pics in Minutes for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/football-manager-2e020-crash-fix-tips-get-back-in-the-game/"><u>Football Manager 2E020 Crash Fix Tips - Get Back in the Game</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hidden-dangers-in-conversing-with-chatgpt/"><u>Hidden Dangers in Conversing With ChatGPT</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-propel-your-productivity-mastering-marketing-in-the-telegram-world/"><u>In 2024, Propel Your Productivity Mastering Marketing in the Telegram World</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 14 Pro Max</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-eliminating-latency-in-street-fighter-6-on-your-computer/"><u>Step-by-Step Solution for Eliminating Latency in Street Fighter 6 on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-paperclip-maximization-dilemma-in-artificial-intelligence/"><u>Understanding the Paperclip Maximization Dilemma in Artificial Intelligence</u></a></li>
 </ul></div>
 

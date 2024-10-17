@@ -1,7 +1,7 @@
 ---
 title: "Digital Mixologist Test: Evaluating the Competence of ChatGPT with Drinks"
-date: 2024-10-09T17:30:36.576Z
-updated: 2024-10-10T16:49:15.804Z
+date: 2024-10-15T19:27:13.849Z
+updated: 2024-10-16T18:37:10.081Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -58,24 +58,24 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -86,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,24 +115,18 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-flip-the-script-accelerating-tiktok-video-creation-for-2024/"><u>[New] Flip-the-Script Accelerating TikTok Video Creation for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ewbies-ultimate-youtube-gear-handbook/"><u>[New] Newbies' Ultimate YouTube Gear Handbook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-virtual-exploration-a-tactical-approach/"><u>2024 Approved The Art of Virtual Exploration A Tactical Approach</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-ai-breakthrough-7-ways-palm-2-refines-googles-bard-capabilities/"><u>Advanced AI Breakthrough: 7 Ways PaLM 2 Refines Google's Bard Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-ai-an-easy-to-understand-introduction-to-artifical-intelligence/"><u>Decoding AI: An Easy-to-Understand Introduction to Artifical Intelligence</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/effective-ways-to-watch-multiple-youtube-videos-at-one-time-for-2024/"><u>Effective Ways to Watch Multiple YouTube Videos at One Time for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722957036404-fast-track-your-dell-latitude-e6420-secure-driver-downloads-in-minutes/"><u>Fast-Track Your Dell Latitude E6420: Secure Driver Downloads in Minutes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-siri-back-online-fix-these-e-7-issues-on-your-apple-device/"><u>Getting Siri Back Online: Fix These E 7 Issues on Your Apple Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-promote-your-own-gpt-models-within-chatgpt-dialogues-through-smart-use-of-gpt-mentions/"><u>How to Promote Your Own GPT Models Within ChatGPT Dialogues Through Smart Use of GPT Mentions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Pova 5 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-infinix-hot-40-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Infinix Hot 40 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-video-privacy-measures-blurring-and-concealing-details/"><u>In 2024, Video Privacy Measures Blurring and Concealing Details</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-siri-and-chatgpt-a-comprehensive-guide-for-iphone-users/"><u>Integrating Siri and ChatGPT: A Comprehensive Guide for iPhone Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-your-chatgpt-experience-try-these-top-1-9-upgrades/"><u>Master Your ChatGPT Experience – Try These Top #1-#9 Upgrades</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-language-understanding-the-top-29-crucial-ai-terminologies/"><u>Mastering AI Language: Understanding the Top 29 Crucial AI Terminologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-top-5-strategies-for-crafting-optimal-prompts/"><u>Mastering ChatGPT: Top 5 Strategies for Crafting Optimal Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/savory-science-ai-assisted-healthy-eating-education/"><u>Savory Science: AI-Assisted Healthy Eating Education</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-role-of-chatgpt-copilot-extension-in-enhancing-productivity/"><u>The Role of ChatGPT Copilot Extension in Enhancing Productivity</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-natural-luminescence-in-home-interiors-simple-steps/"><u>[New] 2024 Approved Natural Luminescence in Home Interiors Simple Steps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-guides-on-creating-cost-free-youtube-beginnings-and-conclusions-for-2024/"><u>[New] Guides on Creating Cost-Free YouTube Beginnings & Conclusions for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-effective-method-for-personalizing-fb-page-coverage/"><u>[Updated] In 2024, Effective Method for Personalizing FB Page Coverage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-from-camera-clicks-to-youtube-views-mobiles-in-cinematic-success/"><u>In 2024, From Camera Clicks to YouTube Views Mobiles in Cinematic Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-with-manycam-premium-virtual-camera-software/"><u>Live Streaming Mastery with ManyCam: Premium Virtual Camera Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-pro-discover-manycam-top-tier-virtual-camera-software/"><u>Live Streaming Pro: Discover ManyCam - Top-Tier Virtual Camera Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-pro-manycam-top-tier-video-recording-and-fake-webcam-solution/"><u>Live Streaming Pro: ManyCam - Top-Tier Video Recording & Fake Webcam Solution</u></a></li>
+<li><a href="https://win-data.techidaily.com/microsoft-unveils-new-android-and-ios-releases-of-dall-e-the-innovative-ai-image-generation-tool/"><u>Microsoft Unveils New Android & iOS Releases of DALL-E: The Innovative AI Image Generation Tool</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/perfecting-your-sims-4-live-action-for-2024/"><u>Perfecting Your Sims 4 Live Action for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-streaming-software-exploring-manycam-and-its-virtual-camera-capabilities/"><u>Real-Time Streaming Software: Exploring ManyCam and Its Virtual Camera Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-live-broadcasts-using-manycam-the-ultimate-software-for-virtual-webcams/"><u>Revolutionize Your Live Broadcasts Using ManyCam - The Ultimate Software for Virtual Webcams</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/ultimate-5-aquatic-filter-add-ons-for-gopro-for-2024/"><u>Ultimate 5 Aquatic Filter Add-Ons for GoPro for 2024</u></a></li>
 </ul></div>
 

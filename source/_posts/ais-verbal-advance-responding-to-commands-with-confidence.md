@@ -1,7 +1,7 @@
 ---
 title: "AI's Verbal Advance: Responding to Commands with Confidence"
-date: 2024-10-08T16:29:17.903Z
-updated: 2024-10-10T17:05:37.845Z
+date: 2024-10-14T00:01:35.427Z
+updated: 2024-10-16T17:15:08.411Z
 tags:
   - chatgpt
   - open-ai
@@ -34,48 +34,42 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
@@ -86,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
@@ -115,22 +109,22 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-delving-into-the-world-of-asmr-soundscapes-for-2024/"><u>[New] Delving Into the World of ASMR Soundscapes for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-streaming-platforms-for-authors/"><u>[New] Ultimate Streaming Platforms for Authors</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-uncovering-potential-through-skilled-interviewing-for-2024/"><u>[New] Uncovering Potential Through Skilled Interviewing for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-bring-life-to-graphics-adobe-blur-masterclass/"><u>[Updated] 2024 Approved Bring Life to Graphics Adobe Blur Masterclass</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-fundamentals-of-motion-design-and-practical-application-for-2024/"><u>[Updated] Fundamentals of Motion Design & Practical Application for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bringing-chatgpt-under-your-command-with-voice-controlled-solutions/"><u>Bringing ChatGPT Under Your Command with Voice-Controlled Solutions</u></a></li>
-<li><a href="https://fox-where.techidaily.com/converting-bulleted-lists-into-animated-flip-books-with-flipbuilder-technology/"><u>Converting Bulleted Lists Into Animated Flip Books with FlipBuilder Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-writing-via-hix-and-gpt-4/"><u>Effortless Writing via HIX & GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-brainpower-integrative-methods-of-mindmapping-with-the-help-of-chatgpt/"><u>Elevate Your Brainpower: Integrative Methods of Mindmapping with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/find-your-new-favorite-book-discover-these-best-ai-enhanced-literary-recommenders/"><u>Find Your New Favorite Book - Discover These Best AI-Enhanced Literary Recommenders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-text-to-action-the-ultimate-selection-of-6-interactive-games-on-chatgpt/"><u>From Text to Action: The Ultimate Selection of 6 Interactive Games on ChatGPT</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-loop-youtube-videos-on-tv-for-2024/"><u>How to Loop YouTube Videos on TV for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-se-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud From your iPhone SE</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/installing-auto-gpt-made-easy-follow-these-simple-steps-for-a-smooth-process/"><u>Installing Auto-GPT Made Easy: Follow These Simple Steps for a Smooth Process</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tapping-into-time-potential-with-chatgpts-top-4-methods/"><u>Tapping Into Time Potential with ChatGPT's Top 4 Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-new-levels-of-autonomy-with-these-groovy-tips-using-chatgpt-for-work-from-home-success/"><u>Unlock New Levels of Autonomy with These Groovy Tips Using ChatGPT for Work-From-Home Success</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-the-potential-of-youtube-shorts-a-comprehensive-tutorial-for-2024/"><u>Unlocking the Potential of YouTube Shorts A Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-mastering-the-art-of-naming-your-podcast-right-and-50plus-creative-title-suggestions/"><u>[New] Mastering the Art of Naming Your Podcast Right & 50+ Creative Title Suggestions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-techniques-perfect-your-idevice-screen-shots/"><u>[Updated] Easy Techniques Perfect Your iDevice Screen Shots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-bestlivecam-professional-streaming-software-with-manycam-integration/"><u>1. BestLiveCam: Professional Streaming Software with ManyCam Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-singsnaps-best-webcam-app-discover-manycam-features-for-live-streaming-and-broadcasting/"><u>1. SingSnap's Best Webcam App: Discover ManyCam Features for Live Streaming and Broadcasting</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-enhancing-content-reach-igtv-and-facebook-synergy/"><u>2024 Approved Enhancing Content Reach IGTV & Facebook Synergy</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725616869984-best-manycam-alternatives-top-live-streaming-and-virtual-cam-options/"><u>Best ManyCam Alternatives: Top Live Streaming and Virtual Cam Options</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-youtubes-revenue-model-for-video-clips-for-2024/"><u>Decoding YouTube's Revenue Model for Video Clips for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-virtual-webcams-and-live-streaming-tools-similar-to-manycam/"><u>Discover the Leading Virtual Webcams and Live Streaming Tools Similar to ManyCam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dynamic-broadcasting-with-manycam-the-premier-choice-in-live-streaming-and-virtual-cam-tech/"><u>Dynamic Broadcasting with ManyCam: The Premier Choice in Live Streaming and Virtual Cam Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-using-manycam-the-leading-solution-for-video-software-and-online-cam-features/"><u>Enhance Your Livestreams Using ManyCam: The Leading Solution for Video Software and Online Cam Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725616810025-enhance-your-online-presence-with-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Online Presence with ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-with-manycam-leading-program-for-virtual-broadcast-and-screen-capture-solutions/"><u>Enhance Your Online Presence with ManyCam: Leading Program for Virtual Broadcast and Screen Capture Solutions</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-0x0000001e-bsod-blue-screen-of-death-on-windows/"><u>Fixing the 0X0000001E BSOD (Blue Screen of Death) on Windows</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/long-lasting-tutorial-extending-your-youtube-video-length-beyond-2-hours/"><u>Long-Lasting Tutorial: Extending Your YouTube Video Length Beyond 2 Hours</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-strategies-for-windows-11-cc-issues/"><u>Quick-Fix Strategies for Windows 11 CC Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-broadcasting-solutions-discover-manycam-the-ultimate-virtual-camera-experience/"><u>Real-Time Broadcasting Solutions: Discover ManyCam - The Ultimate Virtual Camera Experience</u></a></li>
 </ul></div>
 

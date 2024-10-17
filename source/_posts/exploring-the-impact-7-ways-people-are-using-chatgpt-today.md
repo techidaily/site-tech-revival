@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Impact: 7 Ways People Are Using ChatGPT Today"
-date: 2024-10-03T17:57:06.145Z
-updated: 2024-10-10T17:02:48.900Z
+date: 2024-10-11T21:12:16.786Z
+updated: 2024-10-16T18:30:56.302Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -62,36 +55,49 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
-![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -112,22 +118,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-full-screen-magic-trick-solved/"><u>[Updated] In 2024, Full Screen Magic Trick Solved</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726029686475-ffmpeg/"><u>初学者向け音声取得テクニック４種類 - FFmpegで実践ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/agentgpt-made-simple-easy-browser-ai-integration/"><u>AgentGPT Made Simple: Easy Browser AI Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-and-its-role-in-accelerating-your-language-education-progress/"><u>ChatGPT Plus and Its Role in Accelerating Your Language Education Progress</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-concepts-three-bots-on-a-creative-frontier/"><u>Crafting Concepts: Three Bots on a Creative Frontier</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embark-on-ai-exploration-join-one-of-these-9-learning-circles/"><u>Embark on AI Exploration: Join One of These 9 Learning Circles</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-storm-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Storm 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-v30t-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme V30T Lock Screen Password</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-unleash-your-inner-meme-lord-top-10-mobile-apps-for-meme-creation/"><u>In 2024, Unleash Your Inner Meme Lord Top 10 Mobile Apps for Meme Creation</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a1-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo A1 5G Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-out-how-artificial-intelligence-black-boxes-operate/"><u>Inside Out: How Artificial Intelligence Black Boxes Operate</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-advancements-in-language-models-how-gpt-1-paved-the-way-for-gpt-2-through-to-gpt-4/"><u>Navigating the Advancements in Language Models: How GPT-1 Paved the Way for GPT-2 Through to GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-strategies-boosting-your-cryptocurrency-investments-with-chatgpt/"><u>Top 5 Strategies: Boosting Your Cryptocurrency Investments with ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-repairing-the-coredll-absent-or-mismatched-warning-signals/"><u>Understanding and Repairing the 'Core.dll' Absent or Mismatched Warning Signals</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-sony-xperia-5-v-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Sony Xperia 5 V Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-websites-ban-gptbot-navigating-ai-and-copyright-laws/"><u>Why Websites Ban GPTBot - Navigating AI and Copyright Laws</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-journey-through-data-storage-saving-fb-chats-as-video-files/"><u>[Updated] 2024 Approved Journey Through Data Storage Saving FB Chats as Video Files</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-no-money-down-for-vfx-wizards-exclusive-video-tutorials-on-free-green-screen-techniques-from-top-channels/"><u>[Updated] In 2024, No Money Down for VFX Wizards Exclusive Video Tutorials on Free Green Screen Techniques From Top Channels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-the-core-elements-of-zd-soft-recording-features-for-2024/"><u>[Updated] The Core Elements of ZD Soft Recording Features for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-5/"><u>「快適な無料編集ツール5種類選びました！」 - おすすめの5つのオーディオ編集ソフトウェア</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yuv55s75yaf5a6544gr5zci44kp44gb44gf6ieq55sx44gq5yih44kk5yplusw44kk5pa55rov/"><u>動画内容に合わせた自由な切り取り方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6auy5bqm44gq44kq44oz44op44kk44oz44oe44o844or44gn6lplusf6ycf44gr6ksh5pww44gu44ot44oh44kq44ks5pya6ygp5yyw/"><u>高度なオンラインツールで迅速に複数のビデオを最適化</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-mp4-file-editor-the-ideal-replacement-for-streamclip-on-your-pc/"><u>Advanced MP4 File Editor: The Ideal Replacement for Streamclip on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-and-premium-screen-capture-software-for-windows-11-top-10-picks/"><u>Best Free & Premium Screen Capture Software for Windows 11: Top 10 Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-places-to-stream-free-dubbed-anime-top-12-recommendations/"><u>Best Places to Stream Free Dubbed Anime: Top 12 Recommendations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capture-and-keep-your-favorite-live-shows-top-software-for-downloading-youtube-broadcasts/"><u>Capture and Keep Your Favorite Live Shows: Top Software for Downloading YouTube Broadcasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/capturing-frames-a-step-by-step-guide-on-extracting-images-from-videos/"><u>Capturing Frames: A Step-by-Step Guide on Extracting Images From Videos</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-m54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy M54 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/cutting-edge-title-generator-for-online-sessions-for-2024/"><u>Cutting-Edge Title Generator for Online Sessions for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-text-to-talk-ai-breathing-life-into-prompts-and-commands/"><u>From Text to Talk: AI Breathing Life Into Prompts and Commands</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 6s Plus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silent-lenovo-laptop-heres-how-to-get-the-audio-working-again/"><u>Silent Lenovo Laptop? Here's How to Get the Audio Working Again!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-apple-watch-straps-of-2n25-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated Apple Watch Straps of 2N25: Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
 </ul></div>
 

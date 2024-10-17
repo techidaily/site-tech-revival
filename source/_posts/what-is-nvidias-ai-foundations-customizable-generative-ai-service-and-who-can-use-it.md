@@ -1,7 +1,7 @@
 ---
 title: What Is NVIDIA's AI Foundations Customizable Generative AI Service and Who Can Use It?
-date: 2024-10-03T17:35:48.920Z
-updated: 2024-10-10T18:19:10.874Z
+date: 2024-10-10T16:39:32.155Z
+updated: 2024-10-16T16:27:10.972Z
 tags:
   - chatgpt
   - open-ai
@@ -43,26 +43,26 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Ability to Create Custom GPTs
 
  GPT-4 Turbo’s arrival is big news, but what you’ll perhaps find more exciting is the ability GPTs feature. In its simplest form, custom GPTs allow you to create mini versions of ChatGPT customized for specific purposes. ​I knocked up an example of an extremely basic custom GPT in seconds, asking the model to help me in Football Manager 2024.
 
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
@@ -79,19 +79,25 @@ Close
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT’s Evolution Continues
@@ -115,19 +121,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nleash-creativity-exclusive-free-youtube-banner-templates-for-2024/"><u>[New] Unleash Creativity - Exclusive Free YouTube Banner Templates for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-from-fast-life-to-leisrances-iphone-slow-motion-tips/"><u>[Updated] In 2024, From Fast Life to Leisrances IPhone Slow Motion Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-step-by-step-guide-integrating-your-youtube-videos-with-imovie-for-seamless-editing/"><u>1. Step-by-Step Guide: Integrating Your YouTube Videos with iMovie for Seamless Editing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/complete-scrutiny-gopro-silver-hero4-version-for-2024/"><u>Complete Scrutiny GoPro Silver Hero4 Version for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1724766455079-dvd/"><u>DVDをスマートフォン仕様に変換:安全で合法的な取り込み手順とプレイバック</u></a></li>
-<li><a href="https://win-trending.techidaily.com/enhanced-ai-powered-music-creation-with-github-copilot-whats-new/"><u>Enhanced AI-Powered Music Creation with GitHub Copilot: What's New?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/global-stage-excellent-live-soundscape-for-2024/"><u>Global Stage Excellent Live Soundscape for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/handbrake-10-dvd/"><u>Handbrake 1.0系：ダウンロード・インストールから始める - DVDビデオ圧縮方法と日本語化</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oneplus-nord-3-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our OnePlus Nord 3 5G Phone Screen?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-find-and-install-the-right-hp-officejet-4650-drivers-on-your-pc-windows/"><u>How to Find and Install the Right HP OfficeJet 4650 Drivers on Your PC (Windows)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-xiaomi-14-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Xiaomi 14</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-guide-speedy-conversion-of-avchd-videos-to-avi-format/"><u>Quick Guide: Speedy Conversion of AVCHD Videos to AVI Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-methods-for-effortless-mac-conversion-from-avi-to-mp4/"><u>Top 6 Methods for Effortless Mac Conversion From AVI to MP4</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-identifying-if-the-latest-hiccup-on-playstation-network-is-widespve-or-individual-glitches/"><u>Troubleshooting Guide: Identifying if the Latest Hiccup on PlayStation Network Is Widespve or Individual Glitches</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-best-in-class-facebook-media-firefox-edition/"><u>[New] In 2024, Best-in-Class Facebook Media FireFox Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-synching-sounds-with-visual-stories-on-ig/"><u>[New] Synching Sounds with Visual Stories on IG</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-androids-latest-advancements-for-immersive-video-viewing/"><u>[Updated] In 2024, Android's Latest Advancements for Immersive Video Viewing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-get-more-video-views-on-youtube/"><u>[Updated] In 2024, How To Get More Video Views on YouTube</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-optimize-your-gpt-3-experience-within-openai-environment/"><u>How to Optimize Your GPT-3 Experience Within OpenAI Environment</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-14-pro-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-these-8-beneficial-applications-of-auto-gpt-for-streamlined-operations/"><u>Leverage These 8 Beneficial Applications of Auto-GPT for Streamlined Operations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-ai-revolution-with-bing-search-how-to-enroll-and-get-started/"><u>Navigating the AI Revolution with Bing Search: How to Enroll and Get Started</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/resolving-the-issue-how-to-restore-windows-media-player-on-windows-11/"><u>Resolving the Issue: How to Restore Windows Media Player on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-communication-across-borders-turning-chatgpt-into-your-translation-ally/"><u>Seamless Communication Across Borders: Turning ChatGPT Into Your Translation Ally</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/should-you-rely-on-artificial-intelligence-for-investment-tips/"><u>Should You Rely on Artificial Intelligence for Investment Tips?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-enable-sounds-for-cyberpunk-2077-in-windows-11-environment/"><u>Solution Guide: Enable Sounds for Cyberpunk 2077 in Windows 11 Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-risks-of-using-chatgpt-as-your-doctor-understanding-the-pitfalls/"><u>The Risks of Using ChatGPT as Your Doctor: Understanding the Pitfalls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-composing-high-quality-chatgpt-prompts-for-superior-results/"><u>The Ultimate Guide to Composing High-Quality ChatGPT Prompts for Superior Results</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/ultimate-10-royale-showdowns/"><u>Ultimate 10 Royale Showdowns</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Determines the Length of Texts From ChatGPT AI?
-date: 2024-10-06T16:52:50.529Z
-updated: 2024-10-10T16:47:00.632Z
+date: 2024-10-12T23:01:35.802Z
+updated: 2024-10-16T21:51:33.674Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
@@ -61,24 +68,24 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Performance Improvement
 
@@ -88,18 +95,18 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  GPT-4 is a multimodal AI model with a significantly larger context window, able to process both text and image inputs. Its full capabilities were demoed during the official GPT-4 announcement event but have not been pushed to the public, likely due to a shortage of computer chips needed to back the massive amount of compute power required for such features.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Usage Cap
 
  Despite the improvements that come with GPT-4, access to the model comes with an inconvenient limitation—a usage cap. Unlike GPT-3.5, with which you can prompt all day long, GPT-4 users are restricted to anywhere from 25 to 200 messages every three hours. We are not sure how OpenAI decides who gets a higher cap, but it seems, at least for now, to be arbitrarily or by the luck of the draw. Once again, a limited supply of GPUs and the need to adequately balance server loads might be behind the mandatory usage cap.
 
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use GPT-4 for Free
 
@@ -108,13 +115,6 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Bing Chat's GPT-4 isn't much different from ChatGPT's version. If anything, Bing's internet connection gives it access to much more up-to-date and relevant data and can produce more timely and relevant information as a result. ChatGPT, on the other hand, is limited by the cut-off date of its knowledge base. So, unless you're using ChatGPT plugins that can access and retrieve live data from the internet, you could say Bing's implementation of the GPT-4 model provides much more current data.
 
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## GPT-4: Is It Worth the Hype?
 
@@ -137,18 +137,24 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/cripting-significant-soliloquies/"><u>[New] Scripting Significant Soliloquies</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-gain-currency-with-500-youtube-followers/"><u>2024 Approved Gain Currency with 500 YouTube Followers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-and-tailoring-your-unique-chatgpt-experience-with-ease/"><u>Building and Tailoring Your Unique ChatGPT Experience with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-apples-to-oranges-the-unique-characteristics-of-siri-and-chatgpt-revealed/"><u>Comparing Apples to Oranges: The Unique Characteristics of Siri and ChatGPT Revealed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-247-worldwide-chatgpt-support-with-the-revolutionary-everywhere-extension/"><u>Harnessing 24/7 Worldwide ChatGPT Support with the Revolutionary 'Everywhere' Extension</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-12-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus 12</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-chatgpts-output-capacity-tips-for-handling-extended-conversations/"><u>Navigating ChatGPT's Output Capacity: Tips for Handling Extended Conversations</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/resolving-poor-image-quality-on-facebook-live-feeds/"><u>Resolving Poor Image Quality on Facebook Live Feeds</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722968818353-step-by-step-updating-your-lenovo-x1-carbon-on-windows-107-with-newest-drivers/"><u>Step-by-Step: Updating Your Lenovo X1 Carbon on Windows 10/7 with Newest Drivers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/third-party-ai-tools-security-or-red-flag/"><u>Third-Party AI Tools: Security or Red Flag?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-causes-behind-corporate-restrictions-on-chatgpt-usage/"><u>Top 5 Causes Behind Corporate Restrictions on ChatGPT Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-the-chatgpt-ios-app-surpasses-the-website-6-key-reasons-for-optimal-usage/"><u>Why the ChatGPT iOS App Surpasses the Website: 6 Key Reasons for Optimal Usage</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>[Updated] In 2024, From Scribbles to Spectacle Personalized Effect Crafting</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-take-your-snapchat-to-new-heights-with-cutting-edge-boomerangs/"><u>[Updated] Take Your Snapchat to New Heights with Cutting-Edge Boomerangs</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/1-simple-strategies-to-resolve-common-issues-with-your-acer-erecovery-system/"><u>1. Simple Strategies to Resolve Common Issues with Your Acer eRecovery System</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/biosuefi/"><u>BIOS/UEFIによるシステムイメージ復元不可解決策：エラー修正ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-virtual-webcam-and-editing-suite/"><u>Enhance Your Livestreams with ManyCam - The Ultimate Virtual Webcam and Editing Suite</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-discover-the-power-of-manycams-live-video-technology-and-fakewebcam-features/"><u>Enhance Your Online Presence: Discover the Power of ManyCam's Live Video Technology and Fakewebcam Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-expert-video-editing-and-remote-webcams-with-manycam/"><u>Enhance Your Online Presence: Expert Video Editing and Remote Webcams with ManyCam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-streams-with-manycam-top-virtual-camera-and-recording-tool/"><u>Enhance Your Streams with ManyCam: Top Virtual Camera and Recording Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-world-of-professional-streaming-with-manycam-your-ultimate-livestream-camera-and-effects-suite/"><u>Explore the World of Professional Streaming with ManyCam - Your Ultimate Livestream Camera and Effects Suite</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-boost-your-content-access-free-vocal-sfx/"><u>In 2024, Boost Your Content Access Free Vocal SFX!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-7-nft-generators-to-turn-your-artwork-into-nfts/"><u>In 2024, Top 7 NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/innovative-approaches-to-capturing-skype-calls-on-obs-for-2024/"><u>Innovative Approaches to Capturing Skype Calls on OBS for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-live-video-solutions-with-manycam-the-definitive-virtual-webcam-experience/"><u>Innovative Live Video Solutions with ManyCam – The Definitive Virtual Webcam Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-stream-mastery-made-easy-discover-the-power-of-manycams-virtual-cam-features/"><u>Live Stream Mastery Made Easy: Discover the Power of ManyCam's Virtual Cam Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-premium-virtual-webcam-solutions/"><u>Live Streaming Made Easy with ManyCam: Premium Virtual Webcam Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-professional-videocamera-and-webcast-software/"><u>Live Streaming Made Easy with ManyCam: Professional Videocamera and Webcast Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/masterclass-zooids-introduction-guide/"><u>Masterclass Zooids Introduction Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-data-analysis-building-a-pivot-table-using-microsoft-excels-features/"><u>Mastering Data Analysis: Building a Pivot Table Using Microsoft Excel's Features</u></a></li>
 </ul></div>
 
