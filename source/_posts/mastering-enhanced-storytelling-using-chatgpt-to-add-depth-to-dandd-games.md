@@ -1,7 +1,7 @@
 ---
 title: "Mastering Enhanced Storytelling: Using ChatGPT to Add Depth to D&D Games"
-date: 2024-10-04T00:53:29.261Z
-updated: 2024-10-05T10:03:05.500Z
+date: 2024-10-21T18:44:03.357Z
+updated: 2024-10-22T17:47:33.005Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ After Installing Python, you can download Auto-GPT from GitHub.
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Configure Auto-GPT
@@ -62,25 +62,31 @@ After Installing Python, you can download Auto-GPT from GitHub.
 ![Create API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/7-create-test-key.jpg)
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
@@ -95,13 +101,6 @@ pip install -r requirements.txt
 4. After installation, try opening Auto-GPT using:  
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Congratulations! You have successfully Installed Auto-GPT.
 
@@ -144,10 +143,10 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
@@ -157,10 +156,10 @@ After making the recipe, our AI has now completed its task.
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
@@ -180,6 +179,13 @@ After making the recipe, our AI has now completed its task.
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -202,20 +208,18 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-premier-selection-10-premium-image-replace-kits/"><u>[New] Premier Selection 10 Premium Image Replace Kits</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-creative-edge-pushing-boundaries-in-photography/"><u>[Updated] In 2024, The Creative Edge Pushing Boundaries in Photography</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-three-legal-and-safe-methods-of-downloading-youtube-tunes/"><u>[Updated] In 2024, Three Legal & Safe Methods of Downloading YouTube Tunes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-spectacular-time-lapses-with-gopro-hero5-black/"><u>2024 Approved Crafting Spectacular Time-Lapses with GoPro Hero5 Black</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-use-your-vocal-cords-controlling-chatgpt-with-just-words/"><u>How To Use Your Vocal Cords - Controlling ChatGPT with Just Words</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immediate-remedies-for-real-time-gpt-errors/"><u>Immediate Remedies for Real-Time GPT Errors</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone XS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-chatbots-clash-assessing-if-claude-surpasses-chatgpt-in-ai-prowess/"><u>Innovative Chatbots Clash: Assessing If Claude Surpasses ChatGPT in AI Prowess</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-2-local-setup-instructions-for-beginners-and-pros-alike/"><u>Llama 2 Local Setup Instructions for Beginners and Pros Alike</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-memory-in-ai-retrieving-deleted-chat-records-easily/"><u>Master the Art of Memory in AI: Retrieving Deleted Chat Records Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximize-your-creativity-expert-tips-for-using-anthropics-claude-3-ai/"><u>Maximize Your Creativity: Expert Tips for Using Anthropics' Claude 3 AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-6-strategies-for-leveraging-chatgpts-code-interpreter-abilities/"><u>Maximizing Efficiency: 6 Strategies for Leveraging ChatGPT's Code Interpreter Abilities</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-maplestory-windows-10-malfunctions-with-these-tips-2023-edition/"><u>Solve MapleStory Windows 10 Malfunctions with These Tips - 2023 Edition</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transitioning-from-rgb-to-srgb-for-2024/"><u>Transitioning From Rgb to Srgb for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-mac-video-editing-made-easy-install-lumafusion-or-choose-an-alternative/"><u>Updated Mac Video Editing Made Easy Install Lumafusion or Choose an Alternative</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-effortless-single-frame-analysis-in-youtube-videos-5-ways-for-2024/"><u>[Updated] Effortless Single-Frame Analysis in YouTube Videos [5 Ways] for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-advanced-6-private-film-repositories/"><u>[Updated] In 2024, Advanced 6 Private Film Repositories</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-10-best-alternatives-to-vimeo-cameo-video-editor/"><u>2024 Approved 10 Best Alternatives to Vimeo Cameo Video Editor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-clan-combat-chronicles-top-10-games-inspired-by-ghost-of-tsushima/"><u>2024 Approved Clan Combat Chronicles Top 10 Games Inspired by Ghost of Tsushima</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/barnes-and-nobles-biggest-e-reader-yet-a-comprehensive-look-at-the-nook-glowlight-plus/"><u>Barnes & Noble's Biggest E-Reader Yet: A Comprehensive Look at the Nook GlowLight Plus</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-mx560-printer-driver-installation-and-updates-a-step-by-step-guide/"><u>Canon MX560 Printer Driver Installation and Updates: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-dietary-habits-using-ai-insights/"><u>Optimizing Dietary Habits Using AI Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-synchronization-enhancing-audio-visual-with-subtitles-in-wmp-for-2024/"><u>Perfect Synchronization Enhancing Audio-Visual with Subtitles in WMP for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-setting-up-chatgpt-on-linux-with-bavarder/"><u>Step-by-Step Tutorial: Setting Up ChatGPT on Linux with Bavarder</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-for-integrating-chatgpt-into-remote-team-huddles/"><u>Strategies for Integrating ChatGPT Into Remote Team Huddles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-your-routine-9-chatgpt-hacks-for-a-hassle-free-day/"><u>Streamline Your Routine: 9 ChatGPT Hacks for a Hassle-Free Day</u></a></li>
+<li><a href="https://techidaily.com/updated-fix-for-persistent-problems-microsofts-solution-to-windows-10-and-11-update-bugs/"><u>Updated Fix for Persistent Problems: Microsoft's Solution to Windows 10 and 11 Update Bugs</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-exploring-the-magic-of-ai-selfie-generators/"><u>Updated In 2024, Exploring the Magic of AI Selfie Generators</u></a></li>
 </ul></div>
 

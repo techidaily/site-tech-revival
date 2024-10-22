@@ -1,7 +1,7 @@
 ---
 title: "The Future Is Here: How Machine Learning Revolutionizes Online Discovery and Site Interaction"
-date: 2024-10-15T19:56:45.236Z
-updated: 2024-10-16T21:55:45.928Z
+date: 2024-10-16T16:55:59.159Z
+updated: 2024-10-22T16:25:45.018Z
 tags:
   - chatgpt
   - open-ai
@@ -40,9 +40,23 @@ It was also stated in the same report that:
 
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Increased Digital Supply Chain Attacks
 
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
 
@@ -50,23 +64,9 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
@@ -75,10 +75,16 @@ It was also stated in the same report that:
  Zero-trust systems also provide granular access and granular control. This means that no one individual ever has control of or access to the majority of data and power within the network. Each user is provided information on a strictly need-to-know basis. Blockchains work similarly, wherein power and data are spread across the network in a decentralized manner.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Further Exploit of EV Security Systems
@@ -97,6 +103,19 @@ It was also stated in the same report that:
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
  The reason for this is similar to the increased focus on EV hacking. Not only do IoT devices rely on software, but they also use wireless connections to communicate with each other. These two elements leave a door open for exploits, be it through software vulnerabilities, malware, or inside actors.
@@ -106,10 +125,10 @@ It was also stated in the same report that:
  Because of this growing threat, smart home and IoT security is expected to see an improvement throughout 2024\. Providing patches for vulnerabilities, offering more security features (such as encryption and two-factor authentication), and conducting regular code audits can all help to fend of cyberattacks aimed towards IoT devices and smart homes.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Further Exploit of Cloud Platforms
@@ -125,13 +144,6 @@ It was also stated in the same report that:
 ## 7\. Continued Topical Email Scams
 
 ![laptop surrounded by cybersecurity buzzwords ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/mail-scam-laptop.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There's no shortage of scammers looking to profit from current events. We saw a slew of scams arise from the COVID-19 pandemic, but things don't stop there. The Russia-Ukraine war and the Israel-Palestine conflict have also been used throughout 2023 to squeeze money out of victims through social engineering.
 
@@ -158,24 +170,17 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/levate-your-online-video-quality-mastery-in-finalcut-for-youtube-for-2024/"><u>[New] Elevate Your Online Video Quality Mastery in FinalCut for YouTube for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nfuse-personality-into-your-content-with-custom-thumbnails-for-2024/"><u>[New] Infuse Personality Into Your Content with Custom Thumbnails for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/2024-approved-discover-virtual-reality-environment-noises/"><u>2024 Approved Discover Virtual Reality Environment Noises</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beware-of-imitation-extensions-fake-chatgpt-plugin-compromises-account-security-on-chrome/"><u>Beware of Imitation Extensions: Fake ChatGPT Plugin Compromises Account Security on Chrome</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/compact-handheld-bluetooth-speaker-delivers-impressive-bass-quality-exclusive-review-by-zdnet/"><u>Compact Handheld Bluetooth Speaker Delivers Impressive Bass Quality: Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-llamas-3-and-gpt-4-determining-the-superior-ai-model/"><u>Comparing Llamas 3 and GPT-4: Determining the Superior AI Model</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detecting-and-handling-fake-chatgpt-websites-essential-tips-and-actions/"><u>Detecting and Handling Fake ChatGPT Websites – Essential Tips & Actions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digital-guardianship-dont-fall-for-googles-misleading-bard-app/"><u>Digital Guardianship: Don't Fall for Google's Misleading Bard App</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721457347680-experiencing-disconnection-problems-between-your-airpods-and-iphone-discover-11-quick-fixes/"><u>Experiencing Disconnection Problems Between Your AirPods and iPhone? Discover 11 Quick Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-to-compatibility-making-unsupported-iphone-accessories-work/"><u>Guide to Compatibility: Making Unsupported iPhone Accessories Work</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-14-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi 14 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-productivity-the-best-6-ai-notetaking-solutions-for-optimal-note-clarity/"><u>Mastering Productivity: The Best 6 AI Notetaking Solutions for Optimal Note Clarity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-the-ultimate-guide-to-harnessing-the-power-of-generative-artifice-intelligence/"><u>Navigating ChatGPT: The Ultimate Guide to Harnessing the Power of Generative Artifice Intelligence</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-creating-flawless-slow-motion-videos-is-every-content-creators-dream-learn-about-davinci-resolve-slow-motion-video-creation-amongst-other-/"><u>New 2024 Approved Creating Flawless Slow-Motion Videos Is Every Content Creators Dream. Learn About DaVinci Resolve Slow-Motion Video Creation, Amongst Other Tools</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/scopri-il-tuo-strumento-di-recupero-file-gratuito-samsung-sfrutta-la-potenza-della-soluzione-recovery-e-in-windows-10/"><u>Scopri Il Tuo Strumento Di Recupero File Gratuito Samsung: Sfrutta La Potenza Della Soluzione Recovery E in Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-everyday-hero-claudios-challenge-to-gpt/"><u>The Everyday Hero: Claudio's Challenge to GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/urgent-improvements-for-enriching-chatgpt-plugin-experience/"><u>Urgent Improvements for Enriching ChatGPT Plugin Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-are-chatgpt-registrations-on-hold-insights-and-expected-resumption-dates/"><u>Why Are ChatGPT Registrations on Hold? Insights & Expected Resumption Dates</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dodging-doubts-a-guide-to-vloggings-most-common-anxieties/"><u>[New] In 2024, Dodging Doubts A Guide to Vlogging's Most Common Anxieties</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unbeatable-mobilized-game-slowdowns/"><u>[New] In 2024, Unbeatable Mobilized Game Slowdowns</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-ultimate-list-efficient-mac-screen-recording-tools-for-2024/"><u>[New] The Ultimate List Efficient Mac Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-free-melodies-a-guide-for-youtube-producers/"><u>[Updated] Mastering Free Melodies A Guide for YouTube Producers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/digital-darling-list-top-viewed-on-fb-for-2024/"><u>Digital Darling List Top Viewed on FB for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-alternatives-7-impressive-tools-to-replace-chatgpt-for-on-the-go-use/"><u>Explore Alternatives: 7 Impressive Tools to Replace ChatGPT for On-the-Go Use</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-create-impactful-video-elements-cardsannotations/"><u>In 2024, How to Create Impactful Video Elements Cards/Annotations</u></a></li>
+<li><a href="https://win11.techidaily.com/shifting-focus-to-file-explorer-with-onedrive-connection/"><u>Shifting Focus to File Explorer with OneDrive Connection</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-mp3-players-your-ultimate-guide/"><u>Top Rated MP3 Players - Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-creative-potentials-using-dall-e-3-without-charges-on-microsoft-bing-interface/"><u>Unlock Creative Potentials: Using DALL-E 3 without Charges on Microsoft Bing Interface</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-limits-why-cant-chatgpt-detect-self-generated-text/"><u>Unveiling the Limits: Why Can't ChatGPT Detect Self-Generated Text?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-twitters-latest-features-ax-gestures-and-custom-emojis/"><u>Unveiling Twitter's Latest Features: Ax Gestures & Custom Emojis</u></a></li>
 </ul></div>
 

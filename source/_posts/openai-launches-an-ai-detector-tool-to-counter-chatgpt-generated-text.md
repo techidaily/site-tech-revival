@@ -1,7 +1,7 @@
 ---
 title: OpenAI Launches an AI Detector Tool to Counter ChatGPT-Generated Text
-date: 2024-09-30T18:41:35.816Z
-updated: 2024-10-04T23:24:25.864Z
+date: 2024-10-20T16:53:38.970Z
+updated: 2024-10-22T18:22:13.769Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,6 +45,19 @@ thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -57,25 +70,18 @@ thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
- The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -86,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,18 +121,15 @@ thumbnail: https://thmb.techidaily.com/84bcfb215924d4b6e2371f604fa3d4a445ea39a93
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-building-a-business-on-snapchat-a-beginners-blueprint-for-2024/"><u>[New] Building a Business on Snapchat A Beginner's Blueprint for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cutting-edge-psd-outlines-effects/"><u>[Updated] 2024 Approved Cutting-Edge PSD Outlines Effects</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-craft-impeccable-sequences-editor-supreme-for-vimeo/"><u>[Updated] Craft Impeccable Sequences Editor Supreme for Vimeo</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-manage-youtube-video-comments-for-enhanced-privacy-for-2024/"><u>[Updated] How to Manage YouTube Video Comments for Enhanced Privacy for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-prime-interactive-room-for-free-play-for-2024/"><u>[Updated] Prime Interactive Room for Free Play for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-valorant-experience-by-overcoming-fps-drops-essential-strategies/"><u>Elevate Your Valorant Experience by Overcoming FPS Drops – Essential Strategies</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/gratis-swf-inpuntdateien-in-avi-uploaden-heftig-optimierter-movevi-video-konverter-online/"><u>Gratis SWF-Inpuntdateien in AVI Uploaden - Heftig Optimierter MoveVi Video Konverter Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insight-into-massive-computational-linguistics/"><u>Insight Into Massive Computational Linguistics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-create-a-secure-and-efficient-exercise-regimen-tailored-just-for-you/"><u>Is It Possible for ChatGPT to Create a Secure & Efficient Exercise Regimen Tailored Just For You?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/launch-into-ai-start-applying-these-8-customizable-gpt-models-immediately/"><u>Launch Into AI: Start Applying These 8 Customizable GPT Models Immediately</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-excel-mastery-three-key-methods/"><u>Leveraging ChatGPT for Excel Mastery – Three Key Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/seamless-content-addition-enhancing-your-personalized-youtube-plays/"><u>Seamless Content Addition Enhancing Your Personalized YouTube Plays</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-game-changer-how-to-optimize-your-fb-giveaway-posts/"><u>[New] 2024 Approved The Game-Changer How to Optimize Your FB Giveaway Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-media-extractor-music-mode-for-2024/"><u>[New] Facebook Media Extractor – Music Mode for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-standard-the-top-10-customizations-for-chatgpt/"><u>Beyond Standard: The Top 10 Customizations for ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/blocked-from-using-chatgpt-discover-the-4-key-factors-and-fix-them-now/"><u>Blocked From Using ChatGPT? Discover the 4 Key Factors and Fix Them Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/blurring-boundaries-how-ai-challenges-our-perception-of-whats-real-and-imaginary-in-eight-ways/"><u>Blurring Boundaries: How AI Challenges Our Perception of What's Real and Imaginary in Eight Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-the-hold-up-on-chatgpt-for-desktop-embrace-an-exceptional-open-source-replacement-today/"><u>Bypass the Hold-Up on ChatGPT for Desktop: Embrace an Exceptional Open Source Replacement Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Samsung</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-field-to-a-word-2003-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature field to a Word 2003</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>In 2024, Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-mastery-reverting-back-to-earlier-ios-versions-without-hitches/"><u>Step-by-Step Mastery: Reverting Back to Earlier iOS Versions Without Hitches</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Limitations: Why ChatGPT Struggles with Self-Detection of Text"
-date: 2024-10-12T21:48:22.044Z
-updated: 2024-10-16T16:23:44.527Z
+date: 2024-10-20T19:14:59.135Z
+updated: 2024-10-22T19:29:28.961Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 ![prompthero website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-hero-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  PromptHero offers a fairly similar service to PromptBase. This prompt marketplace offers prompts for ChatGPT, Midjourney, Openjourney, and Stable Diffusion. These prompts can be used for all kinds of purposes, including photography, anime, architecture, fashion, interior design, logos, and icons. If you want a general browse, you can also take a look at PromptHero's Featured, Hot, New, and Top categories.
@@ -75,31 +75,25 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ![chat x chatgpt prompt generator screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chat-x-generator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Simply describe what you want the AI model to act as and produce, and you'll be provided with a text prompt to download for future use.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[PromptSea](https://www.promptsea.io/)
 
 ![promptsea website homepage screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-sea-site.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  PromptSea isn't just an AI prompt marketplace but can certainly be used to find useful AI prompts. When you head to the PromptSea website, you won't be instantly met with the prompt marketplace. However, if you scroll down a little, you'll see a small number of featured AI prompts displayed. Click on the**Prompts** title, and you'll be taken to PromptSea's prompts platform. Here, you can find image prompts for ChatGPT, Midjourney, DALLE-2, Novel AI, Nightcafe, Jasper, and Niji Journey.
 
@@ -107,25 +101,11 @@ thumbnail: https://thmb.techidaily.com/27d9679823f15c1f840af178653026beb0d15afa8
 
 ![screenshot of promptsea product purchase page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/prompt-sea-buy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On PromptSea, you can pay for prompts using cryptocurrencies such as Tezos, Polygon, or BNB. You can't use traditional tenders, such as dollars or pounds, to pay for digital items on PromptSea. If you're not a fan of crypto or NFTs, you may want to opt for one of the other marketplaces listed here.
 
 ## 5.[Etsy](https://www.etsy.com/uk/?ref=lgo)
 
 ![screenshot of promptsea website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-prompt-search.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You may know Etsy as the prime platform for unique and handmade gifts, fashion, and homeware. But did you know Etsy also sells some useful AI prompts?
 
@@ -136,6 +116,13 @@ So, how do you know what you're buying?
  When you see a prompt bundle you're interested in on Etsy, click on the listing and read the item details. This is crucial to determine what kind of prompts you're purchasing here. The title will likely indicate the type or theme of the prompts included, but you can usually access more information in the item details section.
 
 ![highlighted item details section on etsy product page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/etsy-item-page-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to buy just a handful of AI prompts or something highly specific, Etsy may not be the right platform. Don't forget that Etsy isn't a dedicated AI prompt marketplace designed for finding and searching for prompts specifically.
 
@@ -158,6 +145,13 @@ So, how do you know what you're buying?
 
  Check out[AIPRM's plan information page](https://www.aiprm.com/blog/introducing-aiprm-premium-for-chatgpt/) to see what each tier offers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7.[FlowGPT](https://flowgpt.com/)
 
 ![screennshot of flowgpt website homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/flow-gpt-site.jpg)
@@ -169,10 +163,10 @@ So, how do you know what you're buying?
  You can also create prompts on FlowGPT if you want to list your prompts for other users to access.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Prompt Marketplaces Can Transform Your AI Chabot Experience
@@ -194,15 +188,22 @@ So, how do you know what you're buying?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-ultimate-checklist-for-video-praise-mastery/"><u>[New] 2024 Approved The Ultimate Checklist for Video Praise Mastery</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-exploring-premium-webcams-shoppers-insights/"><u>[Updated] Exploring Premium Webcams - Shopper's Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027914396-facebook/"><u>「不可解な Facebook 動画投稿エラーを解消する究極ガイド」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726026469677-mp4/"><u>「高品質ビデオフォーマッター：効果的にMP4の解像度を拡大してください！」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/youtube-6/"><u>「YouTubeで人気のビデオ効果 - 軽量化ソフトウェア6選おすすめ！」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027542014-flac320kbps-mp3/"><u>高音質変換！FLACから320kbps MP3へ、劣化が起きない最適方法</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-asus-rog-phone-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On iPhone 15 Pro</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/mavericks-os-x-the-best-way-to-edit-mp4-videos/"><u>Mavericks OS X The Best Way to Edit MP4 Videos</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-x90s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo X90S</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-slow-motion-secrets-reels-done-right-for-2024/"><u>[New] Instagram's Slow Motion Secrets Reels Done Right for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-essential-manual-to-measure-youtube-success-metrics/"><u>2024 Approved The Essential Manual to Measure YouTube Success Metrics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/android-users-can-now-enjoy-chatgpt-unlocking-conversational-ai-on-mobile/"><u>Android Users Can Now Enjoy ChatGPT: Unlocking Conversational AI on Mobile</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-of-effective-online-streaming-for-2024/"><u>Behind the Scenes of Effective Online Streaming for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-chatgpt-brew-the-perfect-drink-unveiling-its-liquor-library-knowledge/"><u>Can ChatGPT Brew the Perfect Drink? Unveiling Its Liquor Library Knowledge</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/converti-i-tuoi-video-mxf-in-mov-senza-costi-con-la-facilita-di-movavi-guida-alla-riconversione-on-line/"><u>Converti I Tuoi Video MXF in MOV Senza Costi Con La Facilità Di Movavi - Guida Alla Riconversione On-Line</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-superior-prompts-with-gpt-3-a-guide-for-health-and-fitness-buffs/"><u>Crafting Superior Prompts with GPT-3: A Guide for Health and Fitness Buffs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-generative-ais-core-foundations/"><u>Discovering Generative AI's Core Foundations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/easy-steps-to-download-twitters-media-to-phone-for-2024/"><u>Easy Steps to Download Twitters Media to Phone for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-11r-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus 11R to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-transforming-your-content-delivery-the-power-of-onestream/"><u>In 2024, Transforming Your Content Delivery The Power of OneStream</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovating-personas-creation-chatgpt-as-a-game-changer-for-designers/"><u>Innovating Personas Creation: ChatGPT as a Game-Changer for Designers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-the-chatgpt-widget-into-your-android-app-best-practices/"><u>Integrating The ChatGPT Widget Into Your Android App – Best Practices</u></a></li>
+<li><a href="https://windows11.techidaily.com/learn-9-keys-to-tweaking-windows-audio-properties/"><u>Learn 9 Keys to Tweaking Windows Audio Properties</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-restore-netflix-functionality-on-your-xbox-one-device/"><u>Solution Found: How to Restore Netflix Functionality on Your Xbox One Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-overview-of-claude-ai-discovering-its-purpose-functionality-and-why-it-matters/"><u>The Ultimate Overview of Claude AI - Discovering Its Purpose, Functionality, and Why It Matters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-methods-for-creating-tailored-chatgpt-commands/"><u>Top 5 Methods for Creating Tailored ChatGPT Commands</u></a></li>
 </ul></div>
 

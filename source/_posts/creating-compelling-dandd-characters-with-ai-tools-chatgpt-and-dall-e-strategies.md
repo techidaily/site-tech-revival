@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-10-09T19:12:27.054Z
-updated: 2024-10-16T16:16:26.409Z
+date: 2024-10-20T18:14:14.397Z
+updated: 2024-10-22T19:29:14.394Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -53,22 +60,15 @@ However, it's a mixed bag.
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing and Erasing
 
@@ -90,16 +90,16 @@ Close
 
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
 
@@ -108,10 +108,10 @@ Close
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
@@ -151,20 +151,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-efficient-tiktok-storage-android-iphone-compatibility-guide/"><u>[Updated] 2024 Approved Efficient TikTok Storage Android, iPhone Compatibility Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm6zplust5rwb44oj44op44oe44ov44oq44o844oa44km44oz44ot44o844oj44k144kk44oi44oi44od44ox5o6o6jam44cn/"><u>「韓流ドラマフリーダウンロードサイトトップ推薦」</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2022s-top-figure-skating-performances/"><u>2022'S Top Figure Skating Performances</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-optimize-your-gopro-shoot/"><u>2024 Approved Optimize Your GoPro Shoot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030595751-dvdpc/"><u>完全版ジャニーズDVDダウンロード＆バックアップ方法：PC対応マスタリー手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-video-converter-for-playstation-portable-ensure-compatibility-with-psp-friendly-formats/"><u>Best Video Converter for PlayStation Portable: Ensure Compatibility with PSP-Friendly Formats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clipchamp-on-windows-11-how-to-free-trim-videos-without-compression/"><u>ClipChamp on Windows 11: How to Free Trim Videos Without Compression</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-the-highest-quality-kodi-fpps-and-plug-ins-for-xbmc-19-and-18/"><u>Comprehensive Guide to the Highest Quality Kodi FPPs and Plug-Ins for XBMC 19 and 18</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-unique-iphone-alerts-a-comprehensive-tutorial-on-converting-m4a-to-m4r-formats/"><u>Creating Unique iPhone Alerts: A Comprehensive Tutorial on Converting M4A to M4R Formats</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exemplary-6-online-communities-for-corporate-growth-for-2024/"><u>Exemplary 6 Online Communities for Corporate Growth for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-13-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 13 Pro without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-streamline-your-site-including-youtube-playlists-directly/"><u>In 2024, Streamline Your Site Including YouTube Playlists Directly</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/is-there-a-widespread-outage-on-xbox-network-or-are-connectivity-issues-affecting-you-alone/"><u>Is There a Widespread Outage on Xbox Network, or Are Connectivity Issues Affecting You Alone?</u></a></li>
-<li><a href="https://media-tips.techidaily.com/multiple-techniques-to-transfer-mts-files-onto-your-ipad/"><u>Multiple Techniques to Transfer MTS Files Onto Your iPad</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/form-your-food-blog-into-an-engaging-mukbang-show/"><u>Transform Your Food Blog Into an Engaging Mukbang Show</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-androids-premier-choice-top-10-free-fb-video-extractor/"><u>[New] Android's Premier Choice Top 10 Free FB Video Extractor</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-harmonic-transition-a-playlist-migration-masterclass-for-2024/"><u>[Updated] Harmonic Transition A Playlist Migration Masterclass for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-captivate-your-market-the-blueprint-for-effective-instagram-video-plans/"><u>[Updated] In 2024, Captivate Your Market The Blueprint for Effective Instagram Video Plans</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-maximizing-movie-file-saving-6-methods-for-win-11/"><u>[Updated] In 2024, Maximizing Movie File Saving 6 Methods for Win 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-journey-to-the-best-online-shopping-spots-for-enigmatic-boxes/"><u>[Updated] Journey to the Best Online Shopping Spots for Enigmatic Boxes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digital-dictators-who-controls-ai/"><u>Digital Dictators: Who Controls AI?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-coding-codegpt-meets-vs-code/"><u>Elevate Coding: CodeGPT Meets VS Code</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-guide-steps-for-deep-cleaning-household-audio-speakers/"><u>Essential Guide: Steps for Deep-Cleaning Household Audio Speakers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-nokia-g42-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Nokia G42 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-conversations-a-guide-to-effective-sorting/"><u>Navigating ChatGPT Conversations: A Guide to Effective Sorting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-rise-of-chatbots-shaping-modern-media-artistry/"><u>The Rise of Chatbots: Shaping Modern Media Artistry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-your-creativity-effective-brainstorming-techniques-with-mind-maps-and-ai-tools/"><u>Unlocking Your Creativity: Effective Brainstorming Techniques with Mind Maps and AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-googles-gemini-its-role-in-shaping-future-ai-landscapes/"><u>Unveiling Google's Gemini: Its Role in Shaping Future AI Landscapes</u></a></li>
 </ul></div>
 

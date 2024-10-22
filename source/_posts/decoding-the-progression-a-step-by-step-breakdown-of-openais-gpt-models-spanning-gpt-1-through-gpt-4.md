@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Progression: A Step-by-Step Breakdown of OpenAI's GPT Models, Spanning GPT-1 Through GPT-4"
-date: 2024-10-13T00:09:36.022Z
-updated: 2024-10-16T22:51:38.270Z
+date: 2024-10-21T17:14:10.755Z
+updated: 2024-10-22T18:27:26.368Z
 tags:
   - chatgpt
   - open-ai
@@ -37,22 +37,15 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
  It could also provide step-by-step instructions that incorporate both text and visual cues, making it easier for users to follow along. With multi-modal capabilities, GPT-4 could open up a whole new world of possibilities for DIY enthusiasts looking to take on more complex projects.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Will GPT-4 Speed Up DIY Development?
 
 ![Woman working on a circuit board](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/woman-working-on-a-circuit-board.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As the field of NLP continues to evolve, the release of GPT-4 is highly anticipated due to its potential to accelerate DIY development.
 
@@ -60,11 +53,31 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
  Large-scale language generation is a feature that will allow the generation of large, coherent, and accurate texts that provide informative responses to DIY enthusiasts. A multilingual support feature will also diversify the use of the language model by the DIY community, hence promoting collaboration and quickening the formation and implementation of ideas.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AI-Based IDE Plugins
 
  The integration of AI tools and extensions in IDEs is already taking off with modules such as[GitHub Copilot](https://github.com/features/copilot) . GitHub Copilot is a tool from GitHub that is powered by[OpenAI Codex](https://openai.com/blog/openai-codex/) , a GPT3-based model.
 
  Such tools being available in development environments aid in the generation of flawless code, and speed up the process of writing code for complex DIY projects—not forgetting debugging features.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Integration of Machine-Learning Algorithms
 
@@ -75,28 +88,15 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 ![A white robot assistant with a tablet with user interface attached to the chest](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/white-robot-assistant.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Microcontroller-based platforms could benefit greatly from advancements in AI models such as ChatGPT4\. Integrating these models can expand the processing power and memory of the platforms, leading to more accurate data analysis from embedded and IoT systems. Speaking of this, we've covered many[Arduino IoT projects](https://www.makeuseof.com/best-arduino-iot-projects/) you can try without waiting for GPT advancements.
 
  Predictive maintenance measures could also be developed using this data. In the future, lightweight AI versions could even be integrated into devices for DIY projects using compression techniques. Generally, DIY partakers will soon be able to efficiently ideate, research, implement, and modify projects.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bringing AI to the DIY World
 
@@ -117,19 +117,22 @@ thumbnail: https://thmb.techidaily.com/373ffad1cf53faed0d680dfb4d0a7667079f49182
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-decrypting-fb-chat-videography-a-detailed-approach/"><u>[New] In 2024, Decrypting FB Chat Videography A Detailed Approach</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-faces-under-scrutiny-how-iphone-x-and-galaxy-unlock-tech-compare/"><u>2024 Approved Faces Under Scrutiny How iPhone X and Galaxy Unlock Tech Compare</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-media-manipulation-combining-windows-photos-and-story-remix/"><u>2024 Approved Mastering Media Manipulation Combining Windows Photos and Story Remix</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-infinix-note-30-vip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Infinix Note 30 VIP to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rtable-viewing-looping-youtube-videos-on-big-displays/"><u>Comfortable Viewing Looping YouTube Videos on Big Displays</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-best-7-chatgpt-extensions-for-google-chrome-to-transform-how-you-use-ai-in-browsers/"><u>Explore the Best 7 ChatGPT Extensions for Google Chrome to Transform How You Use AI in Browsers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-ai-what-sets-public-ai-aside-from-private-and-personal-variants/"><u>Exploring the World of AI: What Sets Public AI Aside From Private and Personal Variants?</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-excel-at-pokemon-a-guide-for-ios-gamers/"><u>How to Excel at Pokémon: A Guide for iOS Gamers</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-for-building-effective-daily-meditation-practices/"><u>Leveraging ChatGPT for Building Effective Daily Meditation Practices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protective-measures-against-openais-web-scraping-bots-preserving-the-integrity-of-your-site/"><u>Protective Measures Against OpenAI’s Web Scraping Bots: Preserving the Integrity of Your Site</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-evolution-of-language-models-introducing-palm-2-by-google/"><u>The Evolution of Language Models: Introducing PaLM 2 by Google</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-eus-artificebrain-consequences-for-technologies-such-as-chatgpt/"><u>Understanding the EU's Artificebrain: Consequences for Technologies Such as ChatGPT</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-taming-the-audio-in-your-canva-videos-step-by-step/"><u>[New] 2024 Approved Taming the Audio in Your Canva Videos Step by Step</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ush-release-channeling-playlist-hits-online-for-2024/"><u>[New] Rush Release Channeling Playlist Hits Online for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-elemental-story-concept/"><u>[Updated] Elemental Story Concept</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-clearer-captures-smartphone-specific-tripods-guide/"><u>[Updated] In 2024, Clearer Captures Smartphone-Specific Tripods' Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-top-5-ios-downloader-tools-seamless-access-to-fb-videos-and-events/"><u>[Updated] In 2024, Top 5 iOS Downloader Tools Seamless Access to FB Videos & Events</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227918610-mpegm4v-moveavi/"><u>無限量產自由MPEG到M4V格式的線上轉換 - 使用Moveavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4mp3-movavi-mpx/"><u>線上MP4到MP3無成本變換工具 - Movavi MPx</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mp2-files-to-wav-format-for-free-with-movavi-online-tools/"><u>Convert MP2 Files to WAV Format for Free with Movavi Online Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/g54-5g-messages-recovery-recover-deleted-messages-from-g54-5g-by-fonelab-android-recover-messages/"><u>G54 5G Messages Recovery - Recover Deleted Messages from G54 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-online-webm-converter-para-mp4-mov-e-wmv-pelo-movavi/"><u>Grátis Online Webm Converter Para Mp4, Mov E Wmv Pelo Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-the-ultimate-list-top-gaming-sites-for-free-game-downloads/"><u>New The Ultimate List Top Gaming Sites for Free Game Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimat-konvertera-med-vlc-till-mp4-filer-den-basta-processningsmetoden/"><u>Optimat Konvertera Med VLC Till MP4-Filer - Den Bästa Processningsmetoden</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/skillful-conversion-of-youtube-videos-to-interactive-gif-artistry/"><u>Skillful Conversion of YouTube Videos to Interactive GIF Artistry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-i-tuoi-file-w64-in-mp3-senza-costo-usando-lonline-tool-di-movavi/"><u>Trasforma I Tuoi File W64 in MP3 Senza Costo Usando L'Online Tool Di Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-overlaying-photos-with-5-effective-methods/"><u>Ultimate Guide to Overlaying Photos with 5 Effective Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726225166202-aviwmv-movavi/"><u>フリーウェアでAVIWMVビデオコンバート - MOVAVI</u></a></li>
 </ul></div>
 

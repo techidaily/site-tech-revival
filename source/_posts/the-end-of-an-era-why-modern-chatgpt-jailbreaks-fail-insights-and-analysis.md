@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2024-10-13T01:05:43.316Z
-updated: 2024-10-16T20:07:32.628Z
+date: 2024-10-18T18:41:32.698Z
+updated: 2024-10-22T16:41:40.257Z
 tags:
   - chatgpt
   - open-ai
@@ -59,29 +59,24 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-top-6-minecraft-survival-house-ideas-you-can-try/"><u>[New] 2024 Approved Top 6 Minecraft Survival House Ideas You Can Try</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-effortless-techniques-for-lenovo-capture-tasks/"><u>[Updated] 2024 Approved Effortless Techniques for Lenovo Capture Tasks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-unlock-joy-amidst-confinement-prime-20-jailbreak-funny-on-fb/"><u>[Updated] 2024 Approved Unlock Joy Amidst Confinement Prime 20 Jailbreak Funny on Fb</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-the-inside-out-engaging-100-self-affirming-instagram-captions/"><u>[Updated] In 2024, From the Inside Out Engaging 100 Self-Affirming Instagram Captions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificially-inspired-creativity-how-to-compose-poetry-books-with-chatgpt/"><u>Artificially Inspired Creativity: How to Compose Poetry Books with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpt-understanding-its-capabilities-and-applications-in-the-realm-of-generative-artificn-intelligence/"><u>Exploring ChatGPT: Understanding Its Capabilities & Applications in the Realm of Generative Artificn Intelligence</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-passive-to-active-earnings-unlocking-youtube-with-500plus-fans-for-2024/"><u>From Passive to Active Earnings Unlocking Youtube with 500+ Fans for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/full-guide-to-unlock-your-realme-12-proplus-5g-by-drfone-android/"><u>Full Guide to Unlock Your Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-hotspots-for-revolutionary-vr-cinema/"><u>In 2024, Hotspots for Revolutionary VR Cinema</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-adapt-from-conversations-with-people/"><u>Is It Possible for ChatGPT to Adapt From Conversations with People?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/large-language-models-face-off-which-reigns-supreme-bard-chatgpt-or-offline-alpaca/"><u>Large Language Models Face-Off: Which Reigns Supreme - Bard, ChatGPT or Offline Alpaca?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/local-llm-is-it-the-right-choice-exploring-advantages-and-disadvantages/"><u>Local LLM: Is It the Right Choice? Exploring Advantages & Disadvantages</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigate-the-internet-with-ease-using-the-cost-effective-lenovo-tab-m1-0-hd-2020-a-detailed-review/"><u>Navigate the Internet with Ease Using the Cost-Effective Lenovo Tab M1 0 HD (2020) - A Detailed Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-tips-top-5-gpt-powered-tricks-to-streamline-routine-hr-operations/"><u>Quick Tips: Top 5 GPT-Powered Tricks to Streamline Routine HR Operations</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-vivo-y02t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y02T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722982170944-steam-remote-play-issues-heres-how-you-can-fix-them-now/"><u>Steam Remote Play Issues? Here's How You Can Fix Them Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-new-academic-insights-through-the-use-of-4-powerful-ai-research-tools/"><u>Unlock New Academic Insights Through the Use of 4 Powerful AI Research Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-profit-on-youtube-the-ultimate-list-of-top-business-channels/"><u>[Updated] 2024 Approved Creating Profit on YouTube The Ultimate List of Top Business Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-choice-optimal-free-srt-translation-services/"><u>[Updated] In 2024, Mastering Choice Optimal Free SRT Translation Services</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audiences-take-gopro-hero5-footage-for-2024/"><u>Audience's Take GoPro Hero5 Footage for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mov-files-into-flv-format-for-free-with-onlinemoveflv-tool/"><u>Convert MOV Files Into FLV Format for Free with OnlineMOVEFLV Tool.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converter-gratuito-on-line-de-wma-a-ogg-pelo-movavi/"><u>Converter Gratuito On-Line: De WMA a OGG Pelo Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dts-movietoweb/"><u>DTS 오프로드 바이트를 비용 부과 없이 가상 격리의 안내 - MovieToWeb</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/inside-toms-world-of-advanced-computing-solutions/"><u>Inside Tom's World of Advanced Computing Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rapid-and-smooth-video-conversion-to-mp4-free-online-mp4-changeover-service/"><u>Rapid & Smooth Video Conversion to MP4 Free Online | MP4 Changeover Service</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-7-premium-cell-phones-deals-for-seniors-in-2/"><u>Top 7 Premium Cell Phones Deals for Seniors in 2#</u></a></li>
+<li><a href="https://win-community.techidaily.com/ultimate-speedhack-speedy-mass-moves-in-windows-11-wireless-networks/"><u>Ultimate Speedhack: Speedy Mass Moves in Windows 11 Wireless Networks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227050549-movavi/"><u>ロコミがお勧めする最適なMovaviソフトウェア選びガイド</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Strategies to Spot Fraudulent ChatGPT Sites Immediitedly
-date: 2024-10-14T17:09:41.424Z
-updated: 2024-10-16T22:10:33.860Z
+date: 2024-10-19T16:03:08.532Z
+updated: 2024-10-22T18:57:30.297Z
 tags:
   - chatgpt
   - open-ai
@@ -42,19 +42,6 @@ Type prompts such as:
 
 ![Screenshot ofChatGPT response to exercise prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-ofchatgpt-response-to-exercise-prompt.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The AI chatbot generates a series of solid workout plans that don’t sound too different from the advice you might get in some of those great[workout apps you’ll stick with for the long haul](https://www.makeuseof.com/best-workout-apps/) .
 
  Although general questions will yield general answers, you can always respond with further prompts. Remember, the more specific your question, the more tailored to your needs the answers are likely to be. It’s definitely worth learning[how to write effective ChatGPT prompts](https://www.makeuseof.com/write-effective-chatgpt-prompts-for-ai-answers/) to get the most out of your interaction with the tool.
@@ -62,6 +49,13 @@ Type prompts such as:
  It’s notable that however you frame your prompt, ChatGPT spells out from the very first line of its answer that “I am an AI language model and not a certified fitness trainer” and advises you to consult with a healthcare professional or qualified fitness expert to devise a plan to suit your individual needs.
 
  However, ChatGPT could be a great source of initial advice if you're just after a general workout plan.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Use ChatGPT to Get Advice on Meal Plans or Find New Recipes
 
@@ -74,28 +68,15 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to meal plan prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meal-plan-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There are drawbacks, of course. Global variations can make a huge difference in the availability and cost of available ingredients. More importantly, you can’t guarantee the accuracy of everything the AI chatbot generates. Since your health rests on good nutritional intake, you should consult a professional if you have any concerns at all.
 
  However, for general advice and some unusual recipe ideas, you can enjoy seeing what ChatGPT suggests for your next meal.
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Use ChatGPT to Help You Develop Wellness Habits
 
@@ -108,10 +89,10 @@ Type prompts such as:
 ![Screenshot of ChatGPT response to forming good sleep habits prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-forming-good-sleep-habits-prompt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Use ChatGPT for Mindfulness and Meditation
@@ -119,13 +100,6 @@ Type prompts such as:
  If you like the idea of meditation but not the reality of joining a class or practicing in front of strangers, ChatGPT can prove a great tool for giving you mindfulness and meditation ideas. Depending on your needs, you could ask for techniques for meditation or even phrases to help you to be mindful. For example, the simple prompt, “Provide some ideas for a mindful moment,” gave me excellent practical advice, such as breathing, walking in nature, and mindful eating.
 
 ![Screenshot of ChatGPT response to meditation information prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-meditation-information-prompt.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Use ChatGPT for Journaling Prompts
 
@@ -138,6 +112,13 @@ Type prompts such as:
 ## 6\. Use ChatGPT as a Medical Symptom Checker
 
  ChatGPT can be used as a virtual symptom checker to help you identify and interpret any health symptoms and provide guidance on your next steps. It can help you decide whether you should seek medical attention and even provide suggestions for self-care measures you may wish to consider first, such as over-the-counter medications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Use ChatGPT to Get Health Advice
 
@@ -155,6 +136,20 @@ Type prompts such as:
 
 ![Screenshot of ChatGPT response to medication information request](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-medication-information-request.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Use ChatGPT for Mental Health Support
 
  Getting help for mental health issues can be a challenge. Services where you live may be difficult to access, or you may not be well enough to take the brave step of asking for support.
@@ -162,13 +157,6 @@ Type prompts such as:
  As a first step, ChatGPT can be used to identify your symptoms and get some immediate coping strategies. In the longer term, it can help you find out how and where to access further mental health support and resources. It could prove far easier to ask AI for help with the first stages of your recovery.
 
 ![Screenshot of ChatGPT response to mental health question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-response-to-mental-health-question.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You must be aware of the limitations of this and all medical interactions with ChatGPT. For all its potential benefits, there are some valid[reasons why you shouldn’t trust ChatGPT for medical advice](https://www.makeuseof.com/reasons-you-shouldnt-trust-chatgpt-medical-advice/) .
 
@@ -193,22 +181,18 @@ Type prompts such as:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-the-science-of-color-representation-srgb-and-rgb-for-2024/"><u>[New] The Science of Color Representation Srgb & Rgb for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-maximize-reach-essential-youtube-seo-tools-unlocked/"><u>[Updated] In 2024, Maximize Reach Essential YouTube SEO Tools Unlocked</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/all-about-color-grading/"><u>All About Color Grading</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-the-evolution-a-comprehensive-look-at-openais-gpt-series-from-version-1-to-4/"><u>Comparing the Evolution: A Comprehensive Look at OpenAI's GPT Series From Version 1 to 4</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-maximum-zoom-utility-on-chromebook/"><u>In 2024, Innovative Techniques for Maximum Zoom Utility on Chromebook</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-depth-app-assessment-vlles-view/"><u>In-Depth App Assessment VLLE's View</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-look-how-do-the-best-7-gpt-4-apps-work/"><u>Inside Look: How Do the Best 7 GPT-4 Apps Work?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/learn-to-effortlessly-utilize-microsoft-copilot-with-your-mac/"><u>Learn to Effortlessly Utilize Microsoft Copilot with Your Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-a-guide-for-successful-freelance-writers/"><u>Mastering ChatGPT: A Guide for Successful Freelance Writers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-through-chatgpts-recent-innovations-top-features-for-your-attention/"><u>Navigate Through ChatGPT's Recent Innovations – Top Features for Your Attention</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-motorola-razr-40-ultra-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Motorola Razr 40 Ultra? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-effortlessly-installing-auto-gpt-on-ubuntu-os/"><u>Step-by-Step Tutorial: Effortlessly Installing Auto-GPT on Ubuntu OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformative-chatgpt-tips-for-peak-domestic-productivity/"><u>Transformative ChatGPT Tips for Peak Domestic Productivity</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-your-devices-potential-android-voicecontrol-gpt/"><u>Unlocking Your Device's Potential: Android VoiceControl GPT</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-exploring-the-best-free-hd-online-resources-for-wallpapers-and-video-backgrounds/"><u>Updated 2024 Approved Exploring the Best Free HD Online Resources for Wallpapers and Video Backgrounds</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elite-gamers-capturing-solutions/"><u>[New] 2024 Approved Elite Gamers' Capturing Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-concevoir-un-diaporama-attrayant-utilisez-movavi-pour-les-etapes-de-creation/"><u>Comment Concevoir Un Diaporama Attrayant ? - Utilisez Movavi Pour Les Étapes De Création</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortlessly-convert-3gpp-videos-to-avi-your-step-by-step-guide-for-free/"><u>Effortlessly Convert 3GPP Videos to AVI - Your Step-by-Step Guide for Free!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-complet-comment-enregistrer-vos-calls-videos-sur-whatsapp-a-la-fois-sur-ordinateur-et-mobile/"><u>Guide Complet: Comment Enregistrer Vos Calls Vidéos Sur WhatsApp À La Fois Sur Ordinateur Et Mobile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-rectifying-missing-mfc42dll-error-messages-on-your-pc/"><u>Guide to Rectifying Missing mfc42.dll Error Messages on Your PC</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-meizu-21-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Meizu 21 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-modify-video-display-settings-in-windows-and-macos/"><u>How to Modify Video Display Settings in Windows & macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/improving-picture-quality-ultimate-guide-to-boosting-resolution-effectively/"><u>Improving Picture Quality: Ultimate Guide to Boosting Resolution Effectively</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-unlocking-the-power-of-language-adaptation-advanced-techniques-for-video-dubbing-via-filmora/"><u>In 2024, Unlocking the Power of Language Adaptation Advanced Techniques for Video Dubbing via Filmora</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/instant-insights-switching-up-your-facebook-profile-coverage-easily/"><u>Instant Insights Switching Up Your Facebook Profile Coverage Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-packet-loss-on-discord-for-smooth-voice-calls/"><u>Solution Guide: Overcoming Packet Loss on Discord for Smooth Voice Calls</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-melhores-aplicativos-e-websites-para-fotografia-de-formato-3x4-comparativo/"><u>Top Melhores Aplicativos E Websites Para Fotografia De Formato 3X4 - Comparativo</u></a></li>
 </ul></div>
 

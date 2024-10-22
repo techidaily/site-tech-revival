@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2024-10-10T16:13:44.300Z
-updated: 2024-10-16T22:10:59.672Z
+date: 2024-10-18T16:02:42.698Z
+updated: 2024-10-22T17:26:14.409Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -65,32 +58,45 @@ Close
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
@@ -112,20 +118,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-economic-approaches-to-online-educational-broadcasting-for-2024/"><u>[New] Economic Approaches to Online Educational Broadcasting for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professional-video-shooting-on-the-go-the-10-leading-smartphone-titans-with-ois/"><u>[New] Professional Video Shooting on the Go The 10 Leading Smartphone Titans with OIS</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-streamlined-process-for-upgrading-macos-sierra/"><u>[Updated] Streamlined Process for Upgrading macOS Sierra</u></a></li>
-<li><a href="https://win-popular.techidaily.com/1728470092575-iphone/"><u>如何使用iPhone专门传送你最爱的照片：步骤详解</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/claude-vs-chatgpt-analyzing-which-chatbot-takes-the-lead-in-intelligent-conversations/"><u>Claude Vs. ChatGPT: Analyzing Which Chatbot Takes the Lead in Intelligent Conversations.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-note-management-with-top-6-intelligent-ai-based-applications/"><u>Elevate Note Management with Top 6 Intelligent AI Based Applications</u></a></li>
-<li><a href="https://techtrends.techidaily.com/getting-ahead-of-hype-uncovered-information-on-cost-release-date-and-features-of-the-forthcoming-xbox-vr-headset/"><u>Getting Ahead of Hype - Uncovered Information on Cost, Release Date & Features of the Forthcoming Xbox VR Headset</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/getting-started-with-langchain-llm-your-ultimate-starter-pack/"><u>Getting Started with LangChain LLM: Your Ultimate Starter Pack</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-zte-axon-40-lite-phone-by-drfone-android/"><u>How to Reset a Locked ZTE Axon 40 Lite Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-optimal-vr-headset-selection-freedom-or-connection/"><u>In 2024, Guide to Optimal VR Headset Selection Freedom or Connection?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-inside-the-headset-the-mechanics-of-virtual-reality/"><u>In 2024, Inside the Headset The Mechanics of Virtual Reality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-the-world-of-windows-and-chatgpt/"><u>Navigate the World of Windows and ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/privacy-in-question-how-safe-is-your-data-when-using-chtgit/"><u>Privacy in Question: How Safe Is Your Data When Using ChtGit?</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ng-views-into-revenue-mastering-youtubes-financial-landscape-for-2024/"><u>Turning Views Into Revenue Mastering YouTube's Financial Landscape for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-growing-ai-complicates-our-security-landscape/"><u>Why Growing AI Complicates Our Security Landscape</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-comprehensive-tutorial-for-transforming-vids-into-dollars-for-2024/"><u>[New] A Comprehensive Tutorial for Transforming Vids Into Dollars for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-strategies-for-sustaining-viewer-interest-in-online-events-for-2024/"><u>[New] Strategies for Sustaining Viewer Interest in Online Events for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-screencastify-recorder-a-complete-step-wise-how-to-guide/"><u>[Updated] 2024 Approved Screencastify Recorder - A Complete Step-Wise How-To Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-conquer-color-with-pro-techniques-in-photography/"><u>[Updated] Conquer Color with Pro Techniques in Photography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-video-gratuite-convertissez-vos-fichiers-oggtheora-en-format-mov-avec-movavi/"><u>Conversion Vidéo Gratuite - Convertissez Vos Fichiers Ogg/Theora en Format MOV Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-your-animated-gifs-into-static-jpg-images-for-free/"><u>Convert Your Animated GIFs Into Static JPG Images for Free</u></a></li>
+<li><a href="https://video-capture.techidaily.com/free-offline-software-and-top-2-web-based-apps-mastering-the-art-of-rotating-gifs/"><u>Free Offline Software & Top 2 Web-Based Apps: Mastering the Art of Rotating GIFs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-mp4-to-avi-format-with-moveavi/"><u>Free Online Converter: Transform MP4 to AVI Format with Moveavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco F5 5G Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/jpgjpeg-raw-google/"><u>JPG/JPEG 이미지를 무료로 원시 상자(RAW)으로 Google 탐색에서 전환</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenlose-modify-zu-mpeg-konvertierung-mit-movavi-online/"><u>Kostenlose MODIFY-Zu-MPEG-Konvertierung Mit Movavi - Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-movavi/"><u>Online 무료 번호행 항해: Movavi 사용자가 이해하기 쉬우거나</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-into-the-world-of-bug-hunting-get-a-payday-at-openai/"><u>Step Into the World of Bug Hunting; Get a Payday at OpenAI</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-metaverse-vs-omniverse-showdown-a-comprehensive-overview/"><u>The Metaverse Vs. Omniverse Showdown A Comprehensive Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-gratuitamente-audio-aiff-a-m4a-online-utilizzando-il-servizio-di-conversione-di-movavi/"><u>Trasforma Gratuitamente Audio AIFF a M4A Online Utilizzando Il Servizio Di Conversione Di Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m4v-mp4-movavi/"><u>오픈 소스에서 M4V MP4 영상 근로 바꾸기 - Movavi</u></a></li>
 </ul></div>
 

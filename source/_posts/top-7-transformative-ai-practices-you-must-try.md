@@ -1,7 +1,7 @@
 ---
 title: Top 7 Transformative AI Practices You Must Try
-date: 2024-10-13T22:38:15.203Z
-updated: 2024-10-16T18:23:05.542Z
+date: 2024-10-21T19:40:03.860Z
+updated: 2024-10-22T18:47:14.591Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -54,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
@@ -76,14 +62,14 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -94,22 +80,15 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -119,6 +98,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -126,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -145,6 +138,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
 <ins class="adsbygoogle"
@@ -162,22 +162,18 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-optimal-recording-for-virtual-meetings-top-5-equipment-lists/"><u>[New] In 2024, Optimal Recording for Virtual Meetings Top 5 Equipment Lists</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-professional-acid-pro-analysis-and-substitutes/"><u>[New] Professional ACID Pro Analysis and Substitutes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-roundup-no-fee-videocalling-plus-live-desktop-share-for-2024/"><u>[New] Ultimate Roundup No-Fee Videocalling + Live Desktop Share for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-downloading-videos-directly-to-iphoneipad-youtubes-quick-guide/"><u>[Updated] Downloading Videos Directly to iPhone/iPad - YouTube's Quick Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-sharing-videos-on-tweet-no-retweets-just-phones-for-2024/"><u>[Updated] Sharing Videos on Tweet No Retweets, Just Phones for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4ae/"><u>高画質MP4へ変換・保存方法及び問題解決ステップ：AEツールを使って</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pc-10-windows-and-mac/"><u>最も優れたPC画面録画ソフト 10推薦 - Windows & Mac用</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/audio-file-resampler-adjust-mp3-and-various-soundtrack-bitrates-easily/"><u>Audio File Resampler: Adjust MP3 and Various Soundtrack Bitrates Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cut-trim-and-merge-videos-with-ease-unleash-your-creativity-by-turning-vlc-into-a-powerful-editor/"><u>Cut, Trim, and Merge Videos with Ease: Unleash Your Creativity by Turning VLC Into a Powerful Editor</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/effortless-solutions-to-restore-your-overwatch-voice-chat/"><u>Effortless Solutions to Restore Your Overwatch Voice Chat</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-hd-quality-transform-your-dvds-with-top-of-the-line-upscaling-technology/"><u>Experience HD Quality: Transform Your DVDs with Top-of-the-Line Upscaling Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/flacwma-windows/"><u>FLACからWMAへの変換手順 - Windowsプラットフォーム用ガイド</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/guide-to-accurate-transfer-of-camera-photos-to-social-media-apps-for-2024/"><u>Guide to Accurate Transfer of Camera Photos to Social Media Apps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/lossless-conversion-techniques-for-mkv-videos-keeping-quality-intact/"><u>Lossless Conversion Techniques for MKV Videos - Keeping Quality Intact</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-video-recording-with-windows-10-expert-tips-for-crystal-clear-results/"><u>Mastering Video Recording with Windows 10: Expert Tips for Crystal Clear Results</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-power-duo-boosting-earnings-on-facebook-and-instagram-together/"><u>The Power Duo: Boosting Earnings on Facebook & Instagram Together</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-av1-encoding-insights/"><u>Unlocking AV1 Encoding Insights</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-androids-best-practice-for-saving-gameplay-videos/"><u>[Updated] Android's Best Practice for Saving Gameplay Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-how-to-fix-obs-camera-not-working/"><u>[Updated] How to Fix OBS Camera Not Working</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpegaacmovevai/"><u>「MPEGファイルからAACへの無料変換！MoveVaiオンラインツール」</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-mastering-action-an-insight-into-sj-cam-s6/"><u>2024 Approved Mastering Action An Insight Into SJ-CAM S6</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avi-mpeg-avi/"><u>AVI 이미지 값 MPEG 형식으로의 원형 전환 - 오픈소스 AVI 변환 가정</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mp4-audios-to-enhanced-aac-streaming-with-no-cost-using-movavis-online-tool/"><u>Convert MP4 Audios to Enhanced AAC Streaming with No Cost Using Movavi's Online Tool</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-flac-files-into-avi-format-with-just-a-click-movavi/"><u>Free Online Converter: Change FLAC Files Into AVI Format with Just a Click - Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-a18-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo A18</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c22-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C22 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-honor-100-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor 100 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/warning-signals-alert-no-official-chatgpt-windows-version-avoid-malware-disguised-as-a-client/"><u>Warning Signals Alert! No Official ChatGPT Windows Version, Avoid Malware Disguised as a Client</u></a></li>
 </ul></div>
 

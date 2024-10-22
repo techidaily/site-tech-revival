@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Original: Exploring Modern Substitutes for the Turing Test"
-date: 2024-10-11T00:20:00.764Z
-updated: 2024-10-17T00:55:48.485Z
+date: 2024-10-18T19:02:33.145Z
+updated: 2024-10-22T17:23:28.210Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
  Healthier cooking options are just a simple prompt away. If you're already a fan of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) , such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
 
  More specific prompts like “design a healthy breakfast with adequate protein and vegetables” or “what's a healthy, vegetarian dinner with spices like turmeric and red pepper?” also provide appropriate recipes. Get as specific as you like with the prompts.
@@ -41,30 +48,23 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 ![ChatGPT healthy breakfast options part 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-breakfast-options-part-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
 
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Get ChatGPT to Teach You Cooking Skills in a Variety of Ways
@@ -77,13 +77,6 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Does ChatGPT Provide Useful Nutritional Information?
 
  ChatGPT is (admirably) cautious about offering nutritional information. When prompted to provide nutritional information for the seared asparagus recipe, it responded: “As an AI language model, I am not able to provide exact nutritional information for recipes.”
@@ -95,6 +88,13 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
  When asked to reveal sources for its nutritional information, the app refers to “dietary guidelines and recommendations from reputable organizations such as the World Health Organization (WHO), the U.S. Department of Agriculture (USDA), and the American Heart Association (AHA),” as well as “peer-reviewed scientific literature on nutrition, health, and wellness from reputable journals and research institutions.”
 
  It also offers the caveat that nutritional science is still evolving and recommends consulting with a registered dietitian or healthcare professional for more personalized information. If you want some additional resources, then check out the[best websites to learn more about healthy eating](https://www.makeuseof.com/best-websites-learn-healthy-eating/) , including Nutritionfacts.org and Open Food Facts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Boost Your Healthy Cooking Skills With ChatGPT
 
@@ -115,24 +115,22 @@ thumbnail: https://thmb.techidaily.com/0060c15904d9e0bf84f2ef3cdb5bee4a455f24656
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[New] Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-ai-search-solutions-discover-how-they-revolutionize-your-online-queries/"><u>Advanced AI Search Solutions – Discover How They Revolutionize Your Online Queries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advantages-of-using-the-chatgpt-desktop-version-a-comprehensive-comparison/"><u>Advantages of Using the ChatGPT Desktop Version: A Comprehensive Comparison</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creating-personalized-chatgpt-a-guide-using-your-dataset/"><u>Creating Personalized ChatGPT: A Guide Using Your Dataset</u></a></li>
-<li><a href="https://solve-help.techidaily.com/disneyplus-sign-in-failure-effective-solutions-when-your-subscription-wont-activate/"><u>Disney+ Sign In Failure: Effective Solutions When Your Subscription Won't Activate</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/effortlessly-streaming-from-dvds-transforming-videos-into-mp4-for-flawless-viewing-on-any-device/"><u>Effortlessly Streaming From DVDs: Transforming Videos Into MP4 for Flawless Viewing on Any Device</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-business-operations-discover-8-powerful-uses-of-chatgpt/"><u>Elevate Business Operations: Discover 8 Powerful Uses of ChatGPT</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-13-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even From Apple iPhone 13 If Youve Tried Everything</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-overcome-battleye-initialization-failure-and-driver-error-1450/"><u>How to Overcome BattlEye Initialization Failure & Driver Error 1450</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-13c-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi 13C to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-6-platforms-for-profitable-businesses-online/"><u>In 2024, Leading 6 Platforms for Profitable Businesses Online</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unveiling-the-essence-of-top-tier-screen-recorders-with-obs/"><u>In 2024, Unveiling the Essence of Top-Tier Screen Recorders with OBS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/increase-output-reduce-stress-working-smart-with-ai-companion-gpt/"><u>Increase Output, Reduce Stress: Working Smart with AI Companion GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/jailbreaking-vs-standard-use-chatgpt-exploration/"><u>Jailbreaking Vs. Standard Use: ChatGPT Exploration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perplexity-ai-the-ultimate-innovation-in-ai-powered-google-search-tools-you-need-to-try-today/"><u>Perplexity AI: The Ultimate Innovation in AI-Powered Google Search Tools You Need to Try Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reliability-questioned-can-you-depend-on-what-chatgpt-says-or-does-it-fabricate-information/"><u>Reliability Questioned: Can You Depend on What ChatGPT Says or Does It Fabricate Information?</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/still-available-how-to-secure-your-complimentary-windows-11-update/"><u>Still Available: How to Secure Your Complimentary Windows 11 Update!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-resource-for-downloading-and-updating-nvidias-rtx-2070-super-graphics-driver-on-windows-10-or-11/"><u>Ultimate Resource for Downloading and Updating NVIDIA's RTX 2070 SUPER Graphics Driver on Windows 10 or 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-relying-on-chatgpt-for-your-bitcoin-analysis-might-not-be-the-best-idea-reasons-1-5/"><u>Why Relying on ChatGPT for Your Bitcoin Analysis Might Not Be the Best Idea (Reasons #1-5)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-screen-recording-with-nvidia-for-2024/"><u>[New] Streamlining Screen Recording with NVIDIA for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-photographic-sparkle-essential-ideas-for-inspired-posts/"><u>[Updated] 2024 Approved Photographic Sparkle Essential Ideas for Inspired Posts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-elevating-experience-with-the-right-music-for-vids-for-2024/"><u>[Updated] Elevating Experience with the Right Music for Vids for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-2d-animation-tools-of-the-year-a-comprehensive-guide-to-free-and-premium-options/"><u>Best 2D Animation Tools of the Year: A Comprehensive Guide to Free & Premium Options</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cutting-edge-techniques-in-gif-animation-for-2024/"><u>Cutting Edge Techniques in GIF Animation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decouvrez-les-plus-forteurs-outils-de-gestion-de-glitches-libres-top-8-list/"><u>Découvrez Les Plus Forteurs Outils De Gestion De Glitches Libres : Top 8 List</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-realme-note-50-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Realme Note 50 Phones with/without a PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-click-into-art-ultimate-edits-for-stunning-snaps/"><u>In 2024, Click Into Art Ultimate Edits for Stunning Snaps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-the-art-of-high-quality-video-production-in-obs/"><u>Mastering the Art of High-Quality Video Production in OBS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/passos-simples-para-editando-filmes-em-seu-android-guia-da-classe-movavi-clips/"><u>Passos Simples Para Editando Filmes Em Seu Android: Guia Da Classe - Movavi Clips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-image-upgrading-and-substitution-using-the-powerful-editoimage-toolkit/"><u>Revolutionize Image Upgrading & Substitution Using the Powerful EditoImage Toolkit</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-teamwork-how-ai-and-engaging-media-boosts-cooperation/"><u>Revolutionizing Teamwork: How AI and Engaging Media Boosts Cooperation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-5-methods-for-capturing-flash-videos-directly-from-websites/"><u>Top 5 Methods for Capturing Flash Videos Directly From Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transfert-facile-et-gratuit-de-flac-a-avi-en-ligne-suivez-les-etapes-avec-movavi/"><u>Transfert Facile Et Gratuit De FLAC À AVI en Ligne - Suivez Les Étapes Avec Movavi!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-to-the-best-magsafe-battery-accessories-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Best MagSafe Battery Accessories : In-Depth Analysis & Ratings</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3mp4-t17262286095582/"><u>원룰리에서 제공되는 무료 MP3/MP4 교체 서비스 - 모바이뷰</u></a></li>
 </ul></div>
 

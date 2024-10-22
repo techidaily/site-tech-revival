@@ -1,7 +1,7 @@
 ---
 title: "Breaking Through GPT-3 Limits: Solving Four Common Problems"
-date: 2024-10-09T17:00:40.484Z
-updated: 2024-10-16T21:54:11.996Z
+date: 2024-10-20T16:31:13.636Z
+updated: 2024-10-22T17:36:51.771Z
 tags:
   - chatgpt
   - open-ai
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  Here are a few examples of specific proofreading focuses and the corrections that ChatGPT suggested when given the prompts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check Words for Spelling
 
  This small paragraph was entered into ChatGPT to look for purposely misspelled words.
@@ -41,21 +48,22 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 ![Asking ChatGPT to proofread any spelling mistakes in this paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spelling.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT recommendations for what spelling errors to fix](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/spelling-answers.jpeg)
 
  ChatGPT’s response proved that it was capable of not only correcting the misspelled words but also correcting the misused words like “there” and “wright.” It also goes on to explain exactly what it changed to correct the spelling, so the writer can learn from any mistakes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Check Punctuation
 
@@ -73,19 +81,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Asking ChatGPT to proofread paragraph for grammar mistakes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/grammar.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT's proofreading answer to grammatical errors in paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/grammar-answer.jpeg)
 
  ChatGPT was impressive with its ability to correct all grammar mistakes. Not only was it able to detect the subject-verb agreement issues, but it also found multiple errors with tense. As an added bonus, ChatGPT also corrected the order placement of multiple subjects in a sentence.
@@ -96,20 +91,13 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Asking ChatGPT to proofread paragraph got passive voice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pv.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ChatGPT's answers to proofreading a paragraph for passive voice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pv-answer.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Impressively, ChatGPT found all the passive voice issues and was able to make the proper changes to make the sentences active voice.
@@ -120,22 +108,16 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![Asking ChatGPT to Proofread a Paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT's answers to proofreading a paragraph](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/just-proofread-answers.jpeg)
 
  ChatGPT fixed all the mistakes—however, it also claimed that it fixed issues that weren’t there. For example, it said that “ChatGPT should be capitalized” and that a period should be added to the second sentence when both of those suggestions already existed in the original.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Types of Written Work ChatGPT Can Proofread
 
@@ -144,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
  When using ChatGPT as a proofreader, the best practice is to only give it small sections of your work at a time. This will allow you to review every change it offers to make sure it is correct without overwhelming you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When to Use a Human Professional Instead
@@ -160,18 +142,18 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  It is a great tool and writers can[use ChatGPT to succeed in this new age of technology](https://www.makeuseof.com/tips-writers-to-succeed-ai-content/) . However, it is important to know the limitations of AI—it can’t beat the experience of a trained human professional.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What to Look Out For
 
  ChatGPT is upfront when you ask if it can proofread your work. It says it’s not perfect and could make mistakes. It is incredibly important to consider every suggestion it makes and know whether it is correct or not.
 
 ![ChatGPT's send a message screen with explaination that it may produce wrong information](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/send-a-message.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Furthermore, ChatGPT may try to overcorrect your work—meaning the paragraph you put in comes out reading like ChatGPT wrote it. It’s important to make sure that your finished written work is still your own writing. If you copy and paste overcorrected work, you are risking the chance of it getting[flagged by an AI-generated content checker](https://www.makeuseof.com/accurate-ai-text-detectors/) .
 
@@ -196,22 +178,20 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-time-hopping-through-facebook-stories-a-device-based-expedition/"><u>[New] 2024 Approved Time-Hopping Through Facebook Stories A Device-Based Expedition</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-discovering-premium-free-srt-translation-services-and-how-to-choose/"><u>[Updated] In 2024, Discovering Premium Free SRT Translation Services and How to Choose</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-techniques-selecting-audioscapes-for-unveiling-videos/"><u>[Updated] Techniques Selecting Audioscapes for Unveiling Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-virtual-horizons-top-picks-for-vr-enthusiasts/"><u>[Updated] Virtual Horizons Top Picks for VR Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertisseurs-video-and-dvd-avec-expertise-discoverez-les-outils-digiarty-optimises-pour-le-transfert-multimedia/"><u>Convertisseurs Vidéo & Dvd Avec Expertise - Discoverez Les Outils Digiarty Optimisés Pour Le Transfert Multimédia</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725288846741-dvd/"><u>DVDデクリプターガイド：取扱説明書を飛び越えた使用方法とトラブルシューティング</u></a></li>
-<li><a href="https://extra-information.techidaily.com/fabricate-funny-images-on-giphy/"><u>Fabricate Funny Images on Giphy</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-recover-hidden-windows-nvidia-settings/"><u>How to Recover Hidden Windows Nvidia Settings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-hdr-excellence-comprehensive-tutorial/"><u>In 2024, IPhone HDR Excellence Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/official-winx-dvd-ripper-platinum-rapid-transfer-of-dvds-into-high-quality-h2-grohevc-mp4-files-within-5-minutes/"><u>Official WinX DVD Ripper Platinum - Rapid Transfer of DVDs Into High-Quality H.2 Gro/HEVC MP4 Files Within 5 Minutes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/stand-out-on-social-media-with-507-killer-instagram-captions-of-2024/"><u>Stand Out on Social Media with 507 Killer Instagram Captions of 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-removing-drm-from-your-dvd-collection-for-mac-and-pc-users/"><u>Step-by-Step Guide: Removing DRM From Your DVD Collection for Mac & PC Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/superior-h265-encoder-and-decoder-for-windows-10-and-macos-the-top-hevc-converter/"><u>Superior H.265 Encoder & Decoder for Windows 10 & macOS - The Top HEVC Converter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-secure-and-efficient-video-conversion-tools-for-windows-11-and-10/"><u>Top 10 Secure and Efficient Video Conversion Tools for Windows 11 & 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tutorial-for-using-windows-movie-maker-on-windows-10-and-11-systems/"><u>Ultimate Tutorial for Using Windows Movie Maker on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-dvd-ripper-plus-conversion-acelerada-de-dvds-a-formatos-digitales-con-32x-velocidad-para-sistemas-windows-10/"><u>WinX DVD Ripper Plus: Conversión Acelerada De DVDs a Formatos Digitales Con 32X Velocidad Para Sistemas Windows 10</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-charting-your-course-to-certification-a-guide-to-verified-partnership/"><u>[Updated] 2024 Approved Charting Your Course to Certification A Guide to Verified Partnership</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-crafting-the-ideal-mc-village-abode/"><u>[Updated] In 2024, Crafting the Ideal MC Village Abode</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-detailed-insights-into-camstudio-capture-functionality/"><u>[Updated] In 2024, Detailed Insights Into CamStudio Capture Functionality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-strategies-to-locate-and-use-a-missing-iphone-x/"><u>2024 Approved Top Strategies to Locate and Use a Missing iPhone X</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-ancestry-revealing-its-historic-origins/"><u>AI Ancestry: Revealing Its Historic Origins</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/efficiently-tackling-twitter-archive-data-analysis-for-2024/"><u>Efficiently Tackling Twitter Archive Data Analysis for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-user-experience-5-desired-feature-enhancements-for-chatgpts-plugins-hub/"><u>Enhancing User Experience: 5 Desired Feature Enhancements for ChatGPT's Plugins Hub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-fresh-set-of-features-now-available-on-chatgpt-platform/"><u>Explore the Fresh Set of Features Now Available on ChatGPT Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-gptzero-work-unveiling-the-tool-for-spotting-ai-generated-text/"><u>How Does GPTZero Work? Unveiling the Tool for Spotting AI-Generated Text</u></a></li>
+<li><a href="https://some-skills.techidaily.com/how-to-use-picture-in-picture-on-chrome-on-all-platforms-for-2024/"><u>How to Use Picture in Picture on Chrome on All Platforms for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/openai-basics-from-theory-to-practice/"><u>OpenAI Basics: From Theory to Practice</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/seite-nicht-gefunden-losungen-mit-aomei-backupper-fur-den-http-404-fehler/"><u>Seite Nicht Gefunden? Lösungen Mit AOMEI Backupper Für Den HTTP 404-Fehler</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spreadsheet-mastery-achievements-only-excel-can-accomplish-not-chatgpt/"><u>Spreadsheet Mastery: Achievements Only Excel Can Accomplish, Not ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/two-people-using-one-account-is-that-feasible-on-spotify/"><u>Two People Using One Account – Is That Feasible On Spotify?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-ai-like-chatgpt-automate-jobs-or-enhance-them-the-future-is-now/"><u>Will AI Like ChatGPT Automate Jobs or Enhance Them? The Future Is Now</u></a></li>
 </ul></div>
 

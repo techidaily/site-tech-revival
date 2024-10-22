@@ -1,7 +1,7 @@
 ---
 title: Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations
-date: 2024-10-09T22:26:38.966Z
-updated: 2024-10-16T17:22:02.873Z
+date: 2024-10-15T18:18:51.933Z
+updated: 2024-10-22T18:38:06.797Z
 tags:
   - chatgpt
   - open-ai
@@ -33,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### NVIDIA NeMo
@@ -50,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
@@ -76,16 +64,16 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## NVIDIA BioNeMo
 
@@ -101,18 +89,18 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
 
  NVIDIA's AI Foundations isn't available to the general public. However, you can request early access by filling up your company's details on NVIDIA's website. Once your business application is approved, you can access the AI models through a browser or[a dedicated API](https://www.makeuseof.com/what-is-api/) .
 
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
 
@@ -135,17 +123,19 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-tiktoks-hidden-treasures-grab-em-all-for-free/"><u>[New] 2024 Approved TikTok's Hidden Treasures Grab 'Em All for Free</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-bright-future-for-your-android-videos-a-comprehensive-plan/"><u>[Updated] 2024 Approved Bright Future for Your Android Videos - A Comprehensive Plan</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-top-free-video-calls-on-pcmac-os-for-easy-online-meetings/"><u>[Updated] Top Free Video Calls on PC/Mac OS for Easy Online Meetings</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/hp-keyboard-issue-fix-unresponsive-buttons-on-your-laptop-fast/"><u>HP Keyboard Issue? Fix Unresponsive Buttons on Your Laptop Fast!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/manycam-pro-premium-live-broadcast-tools-and-virtual-camera-experience/"><u>ManyCam Pro: Premium Live Broadcast Tools and Virtual Camera Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-live-broadcasts-with-manycam-your-essential-guide-to-remote-webcams-and-video-editing-applications/"><u>Master Live Broadcasts with ManyCam: Your Essential Guide to Remote Webcams and Video Editing Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-your-livestreams-discover-the-power-of-manycam-for-high-quality-virtual-webcams/"><u>Master Your Livestreams: Discover the Power of ManyCam for High-Quality Virtual Webcams</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-your-online-presence-using-manycams-advanced-webcam-features/"><u>Master Your Online Presence Using ManyCam's Advanced Webcam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/multicam-pro-advanced-live-broadcast-technology-with-virtual-camera-capabilities/"><u>MultiCam Pro: Advanced Live Broadcast Technology with Virtual Camera Capabilities</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-creativity-top-rated-3d-animation-software-for-all-levels/"><u>New Unleash Your Creativity Top-Rated 3D Animation Software for All Levels</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/step-by-step-guide-creating-a-dual-view-clip-using-windows-movie-maker/"><u>Step-by-Step Guide: Creating a Dual View Clip Using Windows Movie Maker</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/strengthen-your-content-identity-inserting-watermarklogo-in-videos-for-2024/"><u>Strengthen Your Content Identity Inserting Watermark/Logo in Videos for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-charting-success-with-youtube-income-streams/"><u>[New] Charting Success with YouTube Income Streams</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-guide-to-crafting-engaging-videos-in-adobe-premiere/"><u>[Updated] A Guide to Crafting Engaging Videos in Adobe Premiere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-cloud-storage-pricing-comparison-2024-and-best-price/"><u>[Updated] Cloud Storage Pricing Comparison 2024 and Best Price</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/aiffape-movavi/"><u>「快適なウェブサイトでの無料AiffとAPEフォーマット間変換 - Movavi」</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-10-essential-free-photo-layering-tools-on-iosandroid/"><u>2024 Approved Top 10 Essential Free Photo Layering Tools on iOS/Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mov-mov/"><u>無障礙線上 MOV移動 - 便利式 MOV文件轉送服務</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-perfect-video-content-for-every-event-using-movavi/"><u>Crafting Perfect Video Content for Every Event Using Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-tools-transform-your-jpeg-images-without-fee/"><u>Free Online Conversion Tools - Transform Your JPEG Images without Fee</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-revealing-your-pcs-background-image-storage/"><u>Guide to Revealing Your PC’s Background Image Storage</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo Reno 11 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-compilation-of-hd-android-video-apps/"><u>In 2024, The Ultimate Compilation of Hd Android Video Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-obs-studio-a-comprehensive-breakdown-for-content-creators-and-streamers/"><u>Mastering OBS Studio: A Comprehensive Breakdown for Content Creators and Streamers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-creating-stunning-videos-with-the-movavi-video-editor/"><u>Ultimate Guide: Creating Stunning Videos with the Movavi Video Editor</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steering AI Towards Human-Friendly Outcomes
-date: 2024-10-04T17:31:08.985Z
-updated: 2024-10-10T16:28:12.238Z
+date: 2024-10-21T17:50:27.433Z
+updated: 2024-10-22T18:55:55.198Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -53,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
  You can curate and save your recently used prompts if you want to reuse them later. The extension lets you save entire chats with the ChatGPT AI as a PDF, PNG, or Markdown HTML file directly from the browser. You can also use custom themes for the chat interface, but that's more about looks than function.
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. ChatGPT Writer
 
@@ -78,16 +78,10 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -101,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
@@ -123,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -141,6 +128,19 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -171,16 +171,22 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-design-mastery-building-an-mc-village-home/"><u>[New] Design Mastery Building an MC Village Home</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-ignite-motivation-the-hottest-playlists-for-workouts/"><u>[New] Ignite Motivation The Hottest Playlists for Workouts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-unlock-new-horizons-best-6-instagram-reel-apps-for-2024/"><u>[Updated] Unlock New Horizons Best 6 Instagram Reel Apps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypass-wasteful-chatgpt-plugins-top-6-to-skip-now/"><u>Bypass Wasteful ChatGPT Plugins - Top 6 to Skip Now!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-auto-gpt-thrive-on-its-own/"><u>Can Auto-GPT Thrive on Its Own?</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connecting-worlds-online-diving-into-the-realm-of-facebook-twitter-instagram-and-youtube/"><u>Connecting Worlds Online: Diving Into The Realm Of Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quick-guide-to-optimized-and-streamlined-mac-screenshots-via-keyboard-shortcuts/"><u>In 2024, Quick Guide to Optimized and Streamlined Mac Screenshots via Keyboard Shortcuts</u></a></li>
-<li><a href="https://common-error.techidaily.com/miracast-not-supported-by-graphics-driver-fixed/"><u>Miracast: Not Supported by Graphics Driver [FIXED]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ready-for-action-top-6-thrilling-chatgpt-designed-games-await/"><u>Ready for Action? Top 6 Thrilling ChatGPT-Designed Games Await</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a05-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A05 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-ai-top-5-methods-to-use-gpt-4-at-no-cost/"><u>Unlocking AI: Top 5 Methods to Use GPT-4 at No Cost</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pioneering-non-udemy-virtual-classrooms-for-learning/"><u>[New] In 2024, Pioneering Non-Udemy Virtual Classrooms for Learning</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-gameplay-recording-must-haves/"><u>[Updated] Gameplay Recording Must-Haves</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-clarity-in-cinema-in-depth-review-of-lgs-digital-display-the-4k-monitor-31mu97-b/"><u>[Updated] In 2024, Clarity in Cinema - In-Depth Review of LG's Digital Display, The 4K Monitor 31MU97-B</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-steadying-your-motion-sensitive-gopro/"><u>[Updated] Techniques for Steadying Your Motion-Sensitive GoPro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-7-must-have-metaverse-devices-you-need-to-prepare/"><u>2024 Approved 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-where-custom-visuals-for-youtube-live-and-breathe/"><u>2024 Approved Where Custom Visuals for YouTube Live and Breathe</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-at-work-how-to-keep-your-sensitive-projects-safe-from-privacy-breaches/"><u>ChatGPT at Work: How to Keep Your Sensitive Projects Safe From Privacy Breaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-altitudes-copilot-for-beginners-and-professionals/"><u>Comparing Altitudes: CoPilot for Beginners and Professionals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-distinctions-gpt-4-vs-gpt-4x-versions-explained/"><u>Deciphering Distinctions: GPT-4 Vs. GPT-4x Versions Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-proposals-a-guide-to-using-gpt-3/"><u>Enhancing Your Proposals: A Guide to Using GPT-3</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-install-or-update-epson-tm-t88v-printer-drivers-for-windows-full-instructions-and-download-links/"><u>How to Install or Update EPSON TM-T88V Printer Drivers for Windows - Full Instructions and Download Links</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prompt-engineering-101-the-roadmap-to-establishing-yourself-as-an-expert/"><u>Prompt Engineering 101: The Roadmap to Establishing Yourself as an Expert</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-usbasp-integration-across-xp-vista-to-latest-windows-11/"><u>Seamless USBasp Integration Across XP, Vista to Latest Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-effective-strategies-to-minimize-artificial-intelligence-hallucinations/"><u>Six Effective Strategies to Minimize Artificial Intelligence Hallucinations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/skyrocket-your-skill-set-in-windows-photoshop-for-2024/"><u>Skyrocket Your Skill Set in Windows Photoshop for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-chatgpt-in-different-tongues-step-by-step-instructions-inside/"><u>Unlock the Potential of ChatGPT in Different Tongues – Step-by-Step Instructions Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/zero-cost-artificinas-top-6-substitutes-for-sora/"><u>Zero-Cost Artificinas: Top 6 Substitutes for Sora</u></a></li>
 </ul></div>
 

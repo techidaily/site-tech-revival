@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2024-10-05T18:26:08.899Z
-updated: 2024-10-10T18:29:51.456Z
+date: 2024-10-15T17:47:53.903Z
+updated: 2024-10-22T17:29:47.959Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is the Easiest Large Language Model to Use?
@@ -83,22 +83,15 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
@@ -118,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
@@ -143,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  A derivative but original joke would be, "How are Large Language Models like atoms? They both make things up!"
 
 You read it here first, folks.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
 
@@ -167,19 +167,20 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-comprehensive-guide-to-crafting-an-authentic-online-persona-on-facebook/"><u>[New] 2024 Approved The Comprehensive Guide to Crafting an Authentic Online Persona on Facebook</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-inject-life-into-posts-change-your-voice-with-ease-on-insta/"><u>[New] Inject Life Into Posts Change Your Voice with Ease on Insta</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-iphone-podcast-audio-enjoyment/"><u>[New] Step-by-Step IPhone Podcast Audio Enjoyment</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-realme-gt-neo-5-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Realme GT Neo 5 FRP Bypass Instantly</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dismantle-the-flashy-monitor-myth/"><u>Dismantle the Flashy Monitor Myth</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-real-world-applications-the-top-7-uses-of-chatgpt/"><u>Exploring Real-World Applications: The Top 7 Uses of ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-phony-chatgpt-chrome-add-ons-that-steal-social-media-logins-and-passwords/"><u>Protect Yourself From Phony ChatGPT Chrome Add-Ons That Steal Social Media Logins and Passwords</u></a></li>
-<li><a href="https://win-forum.techidaily.com/revitalize-your-drives-capacity-freeing-space-on-windows-11-via-revo-uninstaller-steps/"><u>Revitalize Your Drive's Capacity: Freeing Space on Windows 11 via Revo Uninstaller Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-basics-of-ai-decoded-for-everyone/"><u>The Basics of AI Decoded for Everyone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-inspiring-prompts-for-stunning-images-with-dall-e-3/"><u>Top 8 Inspiring Prompts for Stunning Images with DALL-E 3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-the-potential-of-ai-writing-youtube-scripts-using-chatgpt/"><u>Unleashing the Potential of AI: Writing YouTube Scripts Using ChatGPT</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-sensational-jokes-ranking-the-viral-ones/"><u>[Updated] 2024 Approved Sensational Jokes Ranking the Viral Ones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-sony-bdp-s3700-overhaul-a-new-perspective-review/"><u>[Updated] Sony BDP-S3700 Overhaul A New Perspective Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-programmers-celebrate-experience-a-revolutionary-leap-in-development-with-free-ai-integration/"><u>Apple Programmers Celebrate! Experience a Revolutionary Leap in Development with Free AI Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-there-echoes-in-cyberspace-unraveling-the-mystery-of-who-you-really-talk-to-on-the-web/"><u>Are There Echoes in Cyberspace? Unraveling the Mystery of Who You Really Talk to on the Web</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-personal-care-using-chatgpt-discover-the-9-key-practices/"><u>Elevate Personal Care Using ChatGPT: Discover the 9 Key Practices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-pos-solutions-not-offered-by-openais-chatgpt/"><u>Essential POS Solutions Not Offered by OpenAI’s ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/have-you-tried-communicating-with-chatgpt-yet/"><u>Have You Tried Communicating with ChatGPT Yet?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-correct-the-bad-module-information-to-stop-game-malfunctions/"><u>How To Correct the 'Bad Module Information' To Stop Game Malfunctions</u></a></li>
+<li><a href="https://article-files.techidaily.com/is-there-a-business-model-for-shopping-blog-reviews/"><u>Is There a Business Model for Shopping Blog Reviews?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/key-aspects-you-need-to-know-selecting-the-best-ai-chatbot-solution/"><u>Key Aspects You Need To Know: Selecting The Best AI Chatbot Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-productivity-mastering-anthropics-latest-claude-3-prompt-store-features/"><u>Maximize Your Productivity: Mastering Anthropic’s Latest Claude 3 Prompt Store Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-the-anarchy-troubleshooting-tips-for-crash-free-play-in-persona-5-strikers-pc/"><u>Stop the Anarchy - Troubleshooting Tips for Crash-Free Play in Persona 5 Strikers (PC)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-full-potential-10-chatgpt-vs-code-pairings/"><u>Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-11-optimized-nvidia-geforce-rtx-3060-ti-driver-software-immediate-download/"><u>Windows 11-Optimized NVIDIA GeForce RTX 3060 Ti Driver Software [Immediate Download]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Proposals: A Guide to Using GPT-3"
-date: 2024-10-14T17:57:21.222Z
-updated: 2024-10-16T16:05:42.041Z
+date: 2024-10-19T18:13:30.225Z
+updated: 2024-10-22T16:35:07.103Z
 tags:
   - chatgpt
   - open-ai
@@ -40,18 +40,24 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Creativity
 
@@ -62,10 +68,10 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
@@ -80,24 +86,31 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Accurate Are Bing Chat and ChatGPT
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
  Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
@@ -106,13 +119,6 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
@@ -126,16 +132,16 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -174,19 +180,24 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-exclusive-guide-to-affordable-premium-video-editors/"><u>[New] 2024 Approved Exclusive Guide to Affordable, Premium Video Editors</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-prime-6-low-cost-ultra-clear-4k-projection/"><u>[New] Prime 6 Low-Cost, Ultra-Clear 4K Projection</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/aacmp3/"><u>AAC形式について学ぶ：その独自性とMP3との比較、効果的な変換手段</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/addressing-interoperability-concerns-when-upgrading-to-windows-10-from-previous-versions/"><u>Addressing Interoperability Concerns When Upgrading to Windows 10 From Previous Versions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-free-software-to-play-dvds-on-windows-11-your-guide-to-effortless-movie-night-setup/"><u>Best Free Software to Play DVDs on Windows 11 : Your Guide to Effortless Movie Night Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/compression-de-videos-avi-gratuite-et-sans-pertes-pour-windows-10-guide-complet/"><u>Compression De Vidéos AVI Gratuite Et Sans Pertes Pour Windows 10 : Guide Complet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvd-bd/"><u>DVD対応ファイル形式変換方法 - BDプレーヤー対応再生可能な拡張子作成ガイド</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/how-to-quickly-and-easily-transform-your-mp4-videos-into-m4v-best-free-online-methods-unveiled/"><u>How To Quickly And Easily Transform Your MP4 Videos Into M4V - Best FREE Online Methods Unveiled!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-find-your-vfx-match-top-8-sites-for-free-high-quality-green-screen-footage/"><u>In 2024, Find Your VFX Match - Top 8 Sites for FREE High Quality Green Screen Footage</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Realme 12+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/repairing-windows-11s-isdonedll-file-failure/"><u>Repairing Windows 11'S ISDone.dll File Failure</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/startup-strategy-guide-affordable-channels-to-monetize/"><u>Startup Strategy Guide Affordable Channels to Monetize</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/switching-picture-in-picture-on-macios-effortlessly/"><u>Switching Picture-in-Picture on Mac/iOS Effortlessly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tutorial-complet-de-transfert-dvd-conserver-la-qualite-originale-lors-du-duplication-dun-dvd/"><u>Tutorial Complet De Transfert DVD : Conserver La Qualité Originale Lors Du Duplication D'un DVD</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-engaging-youtube-viewers-effective-interaction-strategies-for-2024/"><u>[New] Engaging YouTube Viewers Effective Interaction Strategies for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-enhancing-gaming-experience-with-steam-switch-control/"><u>[New] Enhancing Gaming Experience with Steam Switch Control</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-tips-for-iphones-hdr-images-for-2024/"><u>[New] Ultimate Tips for iPhone's HDR Images for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-dive-into-color-management-with-ae-luts/"><u>[Updated] 2024 Approved Dive Into Color Management with AE LUTs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-framing-your-story-with-effective-titles/"><u>[Updated] Framing Your Story with Effective Titles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-optimizing-your-snapchat-ads-for-maximum-monetization/"><u>[Updated] In 2024, Optimizing Your Snapchat Ads for Maximum Monetization</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-screens-the-essential-online-record-guide/"><u>[Updated] Streamline Your Screens The Essential Online Record Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-techniques-from-video-to-audio-downloads-on-pinterest/"><u>[Updated] Ultimate Techniques From Video to Audio Downloads on Pinterest</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-babbage-pioneering-ai-assessment-in-the-new-era/"><u>Beyond Babbage: Pioneering AI Assessment in the New Era</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-boundaries-top-8-ai-trends/"><u>Beyond Boundaries: Top 8 AI Trends</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-these-6-cost-free-alternatives-to-openais-sora-ai-technology/"><u>Discover These 6 Cost-Free Alternatives to OpenAI's Sora AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-tool-or-trap-for-disinformation/"><u>Generative AI: Tool or Trap for Disinformation?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-proficient-is-chatgpt-in-addressing-arithmetic-and-algebra-queries/"><u>How Proficient Is ChatGPT in Addressing Arithmetic and Algebra Queries?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-farm-frenzy-fun-pack-the-ultimate-agritainment-guide/"><u>In 2024, Farm Frenzy Fun-Pack The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-creative-thinking-generating-topics-using-mind-maps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Topics Using Mind Maps & ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-setup-for-an-unrestricted-conversational-ai-hosting-freedomgpt-on-microsofts-os/"><u>Step-by-Step Setup for an Unrestricted Conversational AI: Hosting FreedomGPT on Microsoft's OS</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-hot-40i-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Hot 40i</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-effective-gpt-3-prompts-that-help-you-combat-online-interruptions/"><u>Top 8 Effective GPT-3 Prompts That Help You Combat Online Interruptions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-teachers-should-welcome-ai-in-the-classroom-discover-eight-compelling-reasons/"><u>Why Teachers Should Welcome AI in the Classroom: Discover Eight Compelling Reasons</u></a></li>
 </ul></div>
 

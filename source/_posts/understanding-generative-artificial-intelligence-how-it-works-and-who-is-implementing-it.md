@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative Artificial Intelligence: How It Works and Who Is Implementing It?"
-date: 2024-10-11T22:07:17.796Z
-updated: 2024-10-16T21:17:32.006Z
+date: 2024-10-18T18:33:50.338Z
+updated: 2024-10-22T17:17:34.347Z
 tags:
   - chatgpt
   - open-ai
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Practice Conversational Skills
@@ -58,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
@@ -70,27 +76,20 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
@@ -110,6 +109,13 @@ Here's how you can create your own personalized tests:
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
@@ -142,22 +148,21 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-expert-stock-videos-top-channels-for-analysis-for-2024/"><u>[Updated] Expert Stock Videos Top Channels for Analysis for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/best-stop-motion-apps-for-ios-and-android-for-2024/"><u>Best Stop Motion Apps for iOS and Android for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-stories-and-poems-with-chatgpt-tips-and-techniques/"><u>Crafting Stories and Poems with ChatGPT: Tips & Techniques</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208765679-dell-wireless-keyboard-problems-discover-proven-fixes-and-tricks/"><u>Dell Wireless Keyboard Problems? Discover Proven Fixes & Tricks!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gptzero-decoded-protect-your-content-from-ai-forgery/"><u>GPTZero Decoded: Protect Your Content From AI Forgery</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-google-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Google</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-elevate-your-characters-audio-presence-in-free-fire-naturally/"><u>In 2024, How to Elevate Your Character's Audio Presence in Free Fire, Naturally</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Gionee F3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-troubleshooting-common-issues-when-uploading-to-apple/"><u>In 2024, Troubleshooting Common Issues When Uploading to Apple</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/juxtaposing-innovations-uncovering-the-differences-between-snapchat-and-bing-chat-ais-over-skype/"><u>Juxtaposing Innovations: Uncovering the Differences Between Snapchat and Bing Chat AIs Over Skype</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-kids-in-the-digital-age-secure-strategies-for-interacting-with-chatgpt/"><u>Protecting Kids in the Digital Age: Secure Strategies for Interacting with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/running-chatgpt-seamlessly-on-windows-a-comprehensive-tutorial/"><u>Running ChatGPT Seamlessly on Windows - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/shield-your-site-deter-robotic-scrappers/"><u>Shield Your Site: Deter Robotic Scrappers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/sound-blaster-z-driver-download-easily-for-windows-10/"><u>Sound Blaster Z Driver Download Easily for Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/supercharge-your-experience-9-excellent-chatgpt-plugin-choices-at-hand/"><u>Supercharge Your Experience: 9 Excellent ChatGPT Plugin Choices at Hand</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-next-generation-of-gaming-a-deep-dive-into-the-features-performance-and-stylish-appearance-of-dells-alienware-aurora-rnv/"><u>The Next Generation of Gaming: A Deep Dive Into the Features, Performance & Stylish Appearance of Dell's Alienware Aurora Rnv</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-strategies-for-effective-artificer-intelligence-management/"><u>Unraveling the Mystery: Strategies for Effective Artificer Intelligence Management</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-free-access-worlds-biggest-youtube-short-downloaders/"><u>[Updated] In 2024, Free Access World’s Biggest YouTube Short Downloaders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-beginning-your-first-fb-giveaway-announcement/"><u>2024 Approved Beginning Your First FB Giveaway Announcement</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/youtuber2024top-10-youtubemp4/"><u>網友好評鑠金: YouTuber必備！2024版Top 10 YouTube转换为MP4工具推荐列表</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/criando-animacoes-incriveis-no-seculo-21-o-guia-definitivo-para-iniciantes-em-2024/"><u>Criando Animações Incríveis No Século 21: O Guia Definitivo Para Iniciantes Em 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dpx-jpg-movavi/"><u>DPX から JPGへの無料オンライン変換ツール – Movavi サポート</u></a></li>
+<li><a href="https://article-helps.techidaily.com/enhance-presentations-with-background-music-for-2024/"><u>Enhance Presentations with Background Music for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-mkv-to-aac-converter-en-ligne-un-mode-demploi-complet-avec-movavi/"><u>Gratuit MKV-to-AAC Converter en Ligne: Un Mode D'emploi Complet Avec Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-asus-rog-phone-8-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Asus ROG Phone 8 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-stability-in-jurassic-world-evolution-eliminating-game-crash-issues/"><u>Mastering Stability in Jurassic World Evolution - Eliminating Game Crash Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-mxfmkv/"><u>Movavi를 사용한 원격 MXF/MKV 영상 무료 변환 가이드 - 웹 편리티</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/passo-a-passo-para-masterizacao-de-edicao-em-videos-do-tiktok-dicas-e-truques-facilitadores/"><u>Passo a Passo Para Masterização De Edição Em Vídeos Do TikTok – Dicas E Truques Facilitadores</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/step-by-step-filming-and-editing-your-first-reel-on-facebook/"><u>Step-by-Step Filming and Editing Your First Reel on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-overcoming-anticheat-connection-failed-in-escape-from-tarkov/"><u>Step-by-Step Guide: Overcoming 'Anticheat Connection Failed' In Escape From Tarkov</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-bose-quiet-control-30-review-perfect-in-progressions/"><u>The Bose Quiet Control 30 Review: Perfect in Progressions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-screen-capturing-techniques-a-full-exploration-with-detailed-insights-the-complete-walkthrough/"><u>Unveiling Screen Capturing Techniques: A Full Exploration with Detailed Insights - The Complete Walkthrough</u></a></li>
 </ul></div>
 

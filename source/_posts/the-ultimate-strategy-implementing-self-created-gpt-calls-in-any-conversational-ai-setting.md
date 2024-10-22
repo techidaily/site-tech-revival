@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting"
-date: 2024-10-09T22:45:25.290Z
-updated: 2024-10-16T18:56:32.567Z
+date: 2024-10-17T18:20:09.002Z
+updated: 2024-10-22T17:58:43.162Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -35,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  There were differences between how both models approached the question. First up, we will look at Google Bard's answer.
 
 ![Screenshot Bard Responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bard-responding-to-co2-levels.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
  Bard produced a longer answer that also discussed the problem and the need to take urgent action. This was outside the focus of the question, but it confirms just how quickly the tone and direction of any research can be swayed depending on the tool you use.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bing Chat vs. Google Bard: Response Accuracy
@@ -74,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
  The main takeaway from this section is the importance of checking the accuracy of the information received from any chatbot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bing Chat vs. Google Bard: Ease of Use
 
  There is nothing complicated about either model. If you have used a messaging app, you can use these tools. However, we did notice some differences that are relevant here.
@@ -95,17 +88,37 @@ thumbnail: https://thmb.techidaily.com/b1dd0483f32a09412f335f94508f9f7301d5aa196
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As both platforms are going through rapid development, the user experience will continue to improve.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Are the Differences Between the Language Models?
@@ -117,13 +130,6 @@ We did manage to get a response from Bard by rewording the prompt.
  GPT-4 is a generative model. It generates answers based on the text it's been trained on. By contrast,[LaMDA works differently](https://www.makeuseof.com/what-is-google-lamda-ai/) —it is a discriminative model, meaning it can distinguish between various kinds of text.
 
  In essence, this should mean that GPT-4 is better at generating creative content, while LaMDA is better at answering questions about facts.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Is Best for You: Bing Chat or Google Bard?
 
@@ -162,16 +168,19 @@ We did manage to get a response from Bard by rewording the prompt.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-echoenthusiast-auditory-review-exploration/"><u>[Updated] 2024 Approved EchoEnthusiast Auditory Review Exploration</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-transformative-camera-movements-your-guide-to-ken-burns-in-camtasa/"><u>[Updated] Transformative Camera Movements Your Guide to Ken Burns in Camtasa</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/human-resources-made-effortless-by-ai-prompts/"><u>Human Resources Made Effortless by AI Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/large-scale-language-models-unpacked/"><u>Large-Scale Language Models Unpacked</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6-properly-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6 Properly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-claude-3-insights-into-functionality-and-utility/"><u>Mastering Claude 3: Insights Into Functionality & Utility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-a-guide-to-writing-in-your-voice/"><u>Mastering GPT-3: A Guide to Writing in Your Voice</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011066284-missing-football-manager-2022-update-this-easy-tip-has-it-covered/"><u>Missing Football Manager 2022 Update? This Easy Tip Has It Covered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-yourself-from-the-threats-of-fraudgpt-tips-and-advice/"><u>Protecting Yourself From the Threats of FraudGPT - Tips & Advice</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-implementing-strikethrough-text-feature-in-microsoft-excel/"><u>Step-by-Step Guide: Implementing Strikethrough Text Feature in Microsoft Excel</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/toms-tech-insights-comprehensive-computer-hardware-guide/"><u>Tom's Tech Insights: Comprehensive Computer Hardware Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-elevate-your-mac-experience-with-these-5-snippers/"><u>[New] In 2024, Elevate Your Mac Experience with These 5 Snippers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-best-practices-for-organizing-online-video-stories-for-2024/"><u>[Updated] Best Practices for Organizing Online Video Stories for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cambiar-tus-archivos-f4v-a-mp4-sin-costo-alguno-con-conversion-online-de-movavi/"><u>Cambiar Tus Archivos F4V a MP4 Sin Costo Alguno Con Conversión Online De Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-free-ipados-15-update-key-enhancements-and-release-timeline/"><u>Comprehensive Guide to Free iPadOS 15 Update: Key Enhancements & Release Timeline</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversione-libera-online-da-wma-a-webm-esegui-il-tuo-trasferimento-con-facilita/"><u>Conversione Libera Online Da WMA a WebM - Esegui Il Tuo Trasferimento Con Facilità</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-slow-messages-on-iphone-correct-the-issue-with-these-9-tips/"><u>Experiencing Slow Messages on iPhone? Correct the Issue with These 9 Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-blackout-solutions-for-obs-recording-glitches-in-games/"><u>Fixing the Blackout - Solutions for OBS Recording Glitches in Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-detaille-comment-transformer-un-fichier-mov-en-mp4-a-laide-de-convertisseur-video-moovavi/"><u>Guide Détaillé : Comment Transformer Un Fichier MOV en MP4 À L'aide De Convertisseur Vidéo Moovavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-effortless-timelapse-on-ipad-capturing/"><u>In 2024, Effortless Timelapse on iPad Capturing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-video-pro-comprehensive-business-edition-for-expert-video-editing-and-streamlined-screen-capture-solutions/"><u>Movavi Video Pro: Comprehensive Business Edition for Expert Video Editing and Streamlined Screen Capture Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-transform-your-mxf-media-into-various-formats-without-cost/"><u>Movavi: Transform Your MXF Media Into Various Formats Without Cost</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-listening-the-ipodcast-guidebook/"><u>Seamless Listening The iPodcast Guidebook</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/seamless-youtube-video-transfer-for-ios-devices-explained/"><u>Seamless YouTube Video Transfer for iOS Devices Explained</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-speaker-distortion-issues-on-windows-117-solutions-inside/"><u>Troubleshooting Speaker Distortion Issues on Windows 11/7 - Solutions Inside</u></a></li>
 </ul></div>
 

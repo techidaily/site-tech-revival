@@ -1,7 +1,7 @@
 ---
 title: "AI Dictionary: The Definitive Guide to Tech Terms"
-date: 2024-10-12T17:03:30.512Z
-updated: 2024-10-16T23:16:20.232Z
+date: 2024-10-15T17:55:12.711Z
+updated: 2024-10-22T17:14:13.929Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
  The wording on the site isn't crystal clear, so here's the explanation. There are three people (Alice, Eddie, and Carol), one of whom will be murdered. There are four rooms (kitchen, living room, bedroom, and bathroom), and you'll have to pay attention to the daily layout to see how the rooms are connected. Any character can move from one room to another in 15 minutes, but not two rooms in 15 minutes. You'll also be told about four possible murder weapons (knife, gun, poison, rope) and where they were located. Finally, you'll get a few statements from the three characters involved or based on what the police found.
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
@@ -92,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
  Murdle follows a similar system to Mystery-o-Matic, giving you three or four suspects, three or four locations, and three or four murder weapons every day. The mysteries get more difficult with each day, with Monday being the easiest and Sunday requiring the skills of Sherlock Holmes.
 
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create Your Own ChatGPT Murder Mystery
 
@@ -121,18 +121,17 @@ thumbnail: https://thmb.techidaily.com/86157a99bb3c3d407e2d01671b40c89a0f41350bb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-30-powerful-freegame-hashtags-for-dominating-youtube/"><u>[New] In 2024, 30 Powerful FreeGame Hashtags for Dominating YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-elegant-architecture-top-6-sleek-mc-houses/"><u>[New] In 2024, Elegant Architecture Top 6 Sleek MC Houses</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-spark-to-the-future-djis-next-gen-challenge-from-mavic-air-for-2024/"><u>[New] Spark to the Future DJI's Next-Gen Challenge From Mavic Air for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-12-unparalleled-youtube-gamers-intros-revealed-free-or-fee-in-2024/"><u>[Updated] 12 Unparalleled YouTube Gamers' Intros Revealed Free or Fee, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-formulating-gripping-narratives-for-your-vlogs/"><u>2024 Approved Formulating Gripping Narratives for Your Vlogs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/android-users-rejoice-chatgpt-is-here/"><u>Android Users Rejoice - ChatGPT Is Here</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-efficiency-quotient-with-these-4-advanced-chatgpt-tactics/"><u>Boost Your Efficiency Quotient with These 4 Advanced ChatGPT Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deducing-the-return-on-investment-for-elite-ai-services/"><u>Deducing the Return on Investment for Elite AI Services</u></a></li>
-<li><a href="https://win11.techidaily.com/improving-performance-managing-memory-usage-for-connected-services/"><u>Improving Performance: Managing Memory Usage for Connected Services</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Oppo K11x? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-potential-top-6-uses-of-chatgpts-advanced-coding-interpreter/"><u>Unlocking Potential: Top 6 Uses of ChatGPT's Advanced Coding Interpreter</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/walmart-acquires-vizios-advertising-division-in-strategic-expansion/"><u>Walmart Acquires Vizio's Advertising Division in Strategic Expansion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-leading-your-audience-into-a-world-of-instagram-live/"><u>[New] 2024 Approved Leading Your Audience Into a World of Instagram Live</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cut-costs-on-downloads-with-this-list-of-20-free-youtube-sound-rippers-for-2024/"><u>[New] Cut Costs on Downloads with This List of 20 Free YouTube Sound Rippers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instantly-optimize-iphone-videos-in-size-and-duration/"><u>[New] Instantly Optimize iPhone Videos in Size and Duration</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-the-leading-10-competitors-to-zoom-for-pc-and-phone/"><u>2024 Approved The Leading 10 Competitors to Zoom for PC & Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-tecno-spark-20-proplus-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Tecno Spark 20 Pro+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avoid-being-blocked-from-chatgpt-identify-these-4-key-triggers-and-fixes/"><u>Avoid Being Blocked From ChatGPT: Identify These 4 Key Triggers and Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-integration-of-chatgpt-into-linux-a-step-by-step-walkthrough-using-bavarder/"><u>Effortless Integration of ChatGPT Into Linux - A Step-by-Step Walkthrough Using Bavarder</u></a></li>
+<li><a href="https://win11.techidaily.com/ignite-developer-efficiency-master-android-studio-on-windows-os/"><u>Ignite Developer Efficiency: Master Android Studio on Windows OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/incorporate-chatgpt-into-your-app-essential-api-instructions/"><u>Incorporate ChatGPT Into Your App: Essential API Instructions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-claude-2-operations-and-applications/"><u>Inside Claude 2: Operations and Applications</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/mastering-screen-recording-mi-11-edition/"><u>Mastering Screen Recording Mi 11 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-using-chatgpt-for-content-creation-freelancers/"><u>The Ultimate Guide to Using ChatGPT for Content Creation (Freelancers)</u></a></li>
 </ul></div>
 

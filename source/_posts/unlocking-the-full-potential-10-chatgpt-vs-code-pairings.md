@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential: 10 ChatGPT-VS Code Pairings"
-date: 2024-10-10T22:21:58.289Z
-updated: 2024-10-16T17:54:23.942Z
+date: 2024-10-18T19:02:06.331Z
+updated: 2024-10-22T17:37:17.855Z
 tags:
   - chatgpt
   - open-ai
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The more context you provide your AI tool, the better of a response you'll receive.
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -66,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
@@ -77,13 +70,20 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -96,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -114,20 +121,13 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -162,22 +162,24 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-frame-by-frame-findings-insightful-recorder-analysis-for-2024/"><u>[New] Frame by Frame Findings Insightful Recorder Analysis for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-premium-extensions-catalog-ae-edition/"><u>[New] Premium Extensions Catalog AE Edition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-incredible-virtual-room-encounters/"><u>[Updated] 2024 Approved Incredible Virtual Room Encounters</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-screenplay-scribblers-hub/"><u>[Updated] Top Screenplay Scribblers Hub</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-security-threats-is-there-a-risk-of-malware-proliferation-through-chatgpt-systems/"><u>Assessing Security Threats: Is There a Risk of Malware Proliferation Through ChatGPT Systems?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/auto-gpt-independently-does-it-justify-investment-when-gpt-4-isnt-available/"><u>Auto-GPT Independently: Does It Justify Investment When GPT-4 Isn't Available?</u></a></li>
-<li><a href="https://win11.techidaily.com/boost-your-pcs-safety-with-these-7-password-generators/"><u>Boost Your PC's Safety with These 7 Password Generators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-top-gear-insights-with-toms-hardware-guides/"><u>Discover Top Gear Insights with Tom's Hardware Guides</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-android-with-chatgpt-widget-use/"><u>Enhance Android With ChatGPT Widget Use</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-f54-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Samsung Galaxy F54 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-12-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-chatgpts-extension-signup-procedure/"><u>Navigating ChatGPT's Extension Signup Procedure</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/prime-time-the-top-10-windows-webcam-recorders/"><u>Prime Time The Top 10 Windows Webcam Recorders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-chatbot-experience-with-these-9-powerful-plugins/"><u>Revolutionize Your Chatbot Experience with These 9 Powerful Plugins</u></a></li>
-<li><a href="https://win-answers.techidaily.com/sharpening-graphics-in-cod-warzone-tips-and-tricks-for-a-crystal-clear-experience/"><u>Sharpening Graphics in COD: Warzone: Tips & Tricks for a Crystal Clear Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-open-source-tools-for-creating-ai-generated-images/"><u>Top 5 Open-Source Tools for Creating AI-Generated Images</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unmask-the-hazards-of-macchatgpt-downloads/"><u>Unmask the Hazards of MacChatGPT Downloads</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-boost-engagement-with-clearly-marked-time-points/"><u>[New] Boost Engagement with Clearly Marked Time Points</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-master-the-view-ranking-and-review-of-top-11-bridge-cameras/"><u>[New] Master the View Ranking & Review of Top 11 Bridge Cameras</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-complete-wm-maker-playbook-for-youtube-clips-perfection/"><u>[New] The Complete WM Maker Playbook for YouTube Clips Perfection</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728508336122-win11/"><u>如何還原Win11的分割硬碟：最新技術演示解析</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-video-libre-convertir-des-fichiers-3g2-en-mp4-sans-cout-a-laide-doutils-en-ligne-tous-les-secrets-reveles-par-vidiyo/"><u>Conversion Vidéo Libre: Convertir Des Fichiers 3G2 en MP4 Sans Coût À L'aide D’Outils En Ligne - Tous Les Secrets Révélés Par Vidiyo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-conversor-de-hdavc-a-mp4-online-sin-coste-utilizar-con-herramienta-de-movavi/"><u>Descargar Conversor De HDAVC a MP4 Online Sin Coste - Utilizar Con Herramienta De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-rotate-photo-hacks-mastering-the-art-of-quick-and-simple-image-transformations/"><u>Easy-Rotate Photo Hacks: Mastering the Art of Quick and Simple Image Transformations</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/effective-strategies-for-safeguarding-your-files-with-windows-7s-backup-and-restore/"><u>Effective Strategies for Safeguarding Your Files with Windows 7'S Backup & Restore</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fixes-how-to-correctly-resolve-winwordexe-application-failures/"><u>Effortless Fixes: How to Correctly Resolve WINWORD.EXE Application Failures</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-m4v-files-to-webm-format-moveavi/"><u>Free Online Converter: Change M4V Files to WebM Format - MoveAVI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuita-descarga-online-para-transcodificar-archivos-de-video-avi-a-formato-flac-sin-coste/"><u>Gratuita Descarga Online Para Transcodificar Archivos De Video AVI a Formato Flac Sin Coste</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-honor-magic-6-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Honor Magic 6 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m2ts-mp4-movavi/"><u>M2TS를 MP4로 변환하는 방법 : Movavi 비디오 콜레이터 안내서</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ring-youtube-studio-the-ultimate-guide-to-video-edits-for-2024/"><u>Mastering YouTube Studio The Ultimate Guide to Video Edits for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sculpting-light-and-shadow-the-photoshop-hdr-way-for-2024/"><u>Sculpting Light and Shadow The Photoshop HDR Way for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-audio-editing-software-free-download/"><u>Top Audio Editing Software - Free Download</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-votre-fichier-mka-en-video-avi-gratuite-en-ligne-avec-ease-utiliser-movavi/"><u>Transformez Votre Fichier MKA en Vidéo AVI Gratuite en Ligne Avec Ease - Utiliser Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webmmkv-online/"><u>Webm/Mkv 영화 개선을 위한 속도 조정: 원탁하지 마세요! - Online 무료 전용</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Create Tailored AI: Unveiling the New Features of ChatGPT's Recent Upgrade"
-date: 2024-10-13T20:30:07.953Z
-updated: 2024-10-16T21:10:35.013Z
+date: 2024-10-16T16:43:39.819Z
+updated: 2024-10-22T16:50:56.643Z
 tags:
   - chatgpt
   - open-ai
@@ -45,16 +45,10 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -66,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -83,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -118,22 +106,22 @@ thumbnail: https://thmb.techidaily.com/73bc1d0c3856a7a211513ecf3ce0b7d7e8f0b9c63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-affordable-cameras-for-effective-vloggers/"><u>[New] 2024 Approved Affordable Cameras for Effective Vloggers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-construct-memetic-mirth/"><u>[New] Construct Memetic Mirth</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-top-5-audio-to-video-makers-online/"><u>[New] In 2024, Top 5 Audio to Video Makers Online</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-10-best-free-luts-with-download-links/"><u>[Updated] 10 Best Free LUTs with Download Links</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-maximize-page-reach-on-facebook-for-2024/"><u>[Updated] Maximize Page Reach on Facebook for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-the-best-unveiling-superiority-amongst-chatgpt-microsofts-bing-and-googles-bard-ai/"><u>Deciphering The Best: Unveiling Superiority Amongst ChatGPT, Microsoft's Bing and Google's Bard AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-to-safeguard-personal-data-during-professional-use-of-chatgpt/"><u>Effective Strategies to Safeguard Personal Data During Professional Use of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-integrating-chatgpt-into-cbt-practices/"><u>Effective Strategies: Integrating ChatGPT Into CBT Practices</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-mobile-to-tv-mastering-the-setup-of-disney-plus-streaming-through-chromecast/"><u>From Mobile to TV: Mastering the Setup of Disney + Streaming Through Chromecast</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-vloggers-ultimate-gear-list-17-100/"><u>In 2024, Vloggers' Ultimate Gear List #17-100</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-thesis-work-with-these-4-key-advantages-of-using-ai-technologies/"><u>Revolutionize Your Thesis Work with These 4 Key Advantages of Using AI Technologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamlining-content-creation-discover-the-8-best-ai-solutions-for-writers-and-editors/"><u>Streamlining Content Creation: Discover The 8 Best AI Solutions for Writers and Editors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-rise-of-deepfakes-is-generative-ai-fueling-disinformation-campaigns/"><u>The Rise of Deepfakes: Is Generative AI Fueling Disinformation Campaigns?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-automated-visual-content-merging-canva-skills-with-chatgpt-technology/"><u>The Ultimate Guide to Automated Visual Content: Merging Canva Skills With ChatGPT Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-why-a-chatgpt-mobile-application-may-not-be-right-for-you/"><u>Understanding Why a ChatGPT Mobile Application May Not Be Right for You</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-convert-srt-free-top-10-web-subtitle-services/"><u>[New] Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-effective-techniques-for-setting-up-and-gauging-fbs-instream-ads/"><u>[New] In 2024, Unveiling Effective Techniques for Setting Up and Gauging FB's Instream Ads</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1-top-5-kid-friendly-ipad-models-a-comprehensive-review/"><u>1. Top 5 Kid-Friendly iPad Models : A Comprehensive Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/webppng-movavi/"><u>在线免费转换WEBP图像为PNG格式 - 选择Movavi转换器</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/aomei-pc/"><u>AOMEI バックアッパーでPC システム クローン作成手順説明</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-transformar-archivos-vob-a-audio-wav-en-linea-gratis-con-movavi-video-editor/"><u>Cómo Transformar Archivos VOB a Audio WAV en Línea Gratis Con Movavi Video Editor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertidor-de-audio-libre-online-para-cambiar-mp3-a-formato-m4v-con-movavi/"><u>Convertidor De Audio Libre Online Para Cambiar MP3 a Formato M4V Con Movavi</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mejores-20-conversores-de-videos-sin-coste-para-pcs-con-windows-comparativa-exhaustiva-entre-versiones-11-8-y-7/"><u>Los Mejores 20 Conversores De Vídeos Sin Coste Para PCs Con Windows: Comparativa Exhaustiva Entre Versiones 11, 8 Y 7</u></a></li>
+<li><a href="https://win-info.techidaily.com/mastering-hard-drive-rescue-a-comprehensive-tutorial-by-ifinds-ifind-recovery-tool/"><u>Mastering Hard Drive Rescue: A Comprehensive Tutorial by iFinD's iFind Recovery Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-mkv-movavi/"><u>MP3, MKV 코멘트를 전자화하기 원통스: Movavi 시리즈</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-to-wmv-transformation-at-no-cost-web-based-tool-by-movievi/"><u>MP4 to WMV Transformation at No Cost Web-Based Tool by MovieVI</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-windows-11-movie-maker-your-ultimate-instruction-manual-for-2024/"><u>Navigating Windows 11 Movie Maker Your Ultimate Instruction Manual for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-your-obs-encoding-overflow-problem-a-step-by-step-guide/"><u>Resolving Your OBS Encoding Overflow Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-audio-recovery-tips-for-lapsed-volume-control-in-laptop-systems/"><u>Step-by-Step Audio Recovery Tips for Lapsed Volume Control in Laptop Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4mkv-mkv-mp4-movavi/"><u>무료 MP4/MKV 파일 바꾸기 - 영상용 MKV, MP4 직묶음을 원형으로 자유택일: Movavi 홍보</u></a></li>
 </ul></div>
 

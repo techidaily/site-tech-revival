@@ -1,7 +1,7 @@
 ---
 title: "Crafting Imaginary Realms: A Guide to Using ChatGPT for Worldbuilding Adventures"
-date: 2024-10-11T23:31:29.056Z
-updated: 2024-10-16T21:24:30.761Z
+date: 2024-10-20T17:23:22.843Z
+updated: 2024-10-22T18:48:16.180Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 
 ![Screenshot of HuggingChat confirming an account is required](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-confirming-an-account-is-required.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, we used it with an account and without any problems. If this changes, or you'd prefer to set up an account, it is free, and you can sign up on[HuggingFace](https://huggingface.co/join) .
 
  The tools have remarkably similar interfaces, as the bulk of these tools do. Simplicity is the key to AI chatbots, and both tools have a simple input box to allow you to enter prompts, which is about it. However, learning[prompting techniques can help improve response quality](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) .
@@ -66,16 +73,10 @@ As you can see, HuggingChat answered this easily.
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
@@ -83,10 +84,16 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Summarizing Articles
@@ -96,6 +103,13 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
@@ -107,31 +121,17 @@ This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 HuggingChat's summary looked like this:
 
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
@@ -163,10 +163,10 @@ Shakespeare himself would be impressed with both of these!
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is Best: HuggingChat or ChatGPT?
@@ -204,22 +204,24 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimal-video-chat-on-windows-1-8/"><u>[New] 2024 Approved Optimal Video Chat on Windows #1-8</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-comprehensive-review-analyzing-androids-lightroom-for-2024/"><u>[Updated] Comprehensive Review Analyzing Android's Lightroom for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-essence-of-a-memorable-video-conclusion-in-vimeo/"><u>[Updated] The Essence of a Memorable Video Conclusion in Vimeo</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts/"><u>[Updated] Upcoming VR Masterpieces Top 5 New Titles for PlayStation VR Enthusiasts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-achieving-peak-zoom-resolution-effective-techniques/"><u>2024 Approved Achieving Peak Zoom Resolution Effective Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoiding-data-leaks-understanding-botnet-vulnerabilities/"><u>Avoiding Data Leaks: Understanding Botnet Vulnerabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bypass-pitfalls-with-expert-advice-on-avoiding-6-key-chatgpt-mistakes/"><u>Bypass Pitfalls with Expert Advice on Avoiding 6 Key ChatGPT Mistakes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-for-developing-persuasive-business-proposals-that-close-deals/"><u>ChatGPT Secrets for Developing Persuasive Business Proposals That Close Deals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/child-friendly-gpt-interactions-the-essential-5-tips/"><u>Child-Friendly GPT Interactions: The Essential 5 Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customize-and-explore-openais-new-gpt-shopping-experience/"><u>Customize and Explore: OpenAI's New GPT Shopping Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-6-affordable-replacements-for-openai-sora-that-offer-free-trials/"><u>Discover 6 Affordable Replacements for OpenAI Sora That Offer Free Trials</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-significance-of-chatgpts-real-time-information-use-for-people-worldwide/"><u>Exploring the Significance of ChatGPT's Real-Time Information Use for People Worldwide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-11-pro-max-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 11 Pro Max?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-8-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 8 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-cutting-edge-techniques-elevating-your-youtube-edits-using-imovie/"><u>In 2024, Cutting-Edge Techniques Elevating Your YouTube Edits Using iMovie</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/in-2024-syncopating-scenes-and-beats-the-tiktok-video-guide/"><u>In 2024, Syncopating Scenes & Beats The TikTok Video Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-conversion-from-dall-es-webp-images-to-png-jpg/"><u>Seamless Conversion From DALL-E's WebP Images to PNG, JPG</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/response-to-determine-the-coefficient-of-kinetic-friction-we-can-use-the-following-equation/"><u>[Response]: To Determine the Coefficient of Kinetic Friction, We Can Use the Following Equation:</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-guide-audio-free-video-recording-methods/"><u>[Updated] 2024 Approved Guide Audio-Free Video Recording Methods</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-fix-youtube-video-black-screen/"><u>[Updated] 2024 Approved How to Fix YouTube Video Black Screen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/advanced-device-evaluations-by-tom-your-trusted-hardware-resource/"><u>Advanced Device Evaluations by Tom - Your Trusted Hardware Resource</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/construye-tu-recuerdo-mas-valioso-facil-creacion-de-un-montaje-fotografico-nupcial-con-este-generador-de-diapositivas-para-bodas/"><u>Construye Tu Recuerdo Más Valioso: Fácil Creación De Un Montaje Fotográfico Nupcial Con Este Generador De Diapositivas Para Bodas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-video-editing-convert-your-mkv-videos-into-high-quality-mjpeg-streams-for-free-via-movavi-tool/"><u>Effortless Video Editing: Convert Your MKV Videos Into High-Quality MJPEG Streams for Free via Movavi Tool</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-business-youtube-sites-you-must-follow-for-2024/"><u>Essential Business YouTube Sites You Must Follow for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-conversion-transforming-m4a-audio-files-into-wma-format-with-ease/"><u>Free Online Conversion: Transforming M4A Audio Files Into WMA Format with Ease</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-tecno-spark-20-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Tecno Spark 20</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y100-5g-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y100 5G to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-smart-8-plus-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Smart 8 Plus to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-video-editor-pro-mac-ottimo-programma-di-editing-video/"><u>Movavi Video Editor Pro Mac - Ottimo Programma Di Editing Video</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mxf-wmv/"><u>MXF ファイルをWMVに変換するためのコストなしオンラインツール - ムーバビ</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-steam-install-errors-on-windows-11/"><u>Navigating Through Steam Install Errors on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-digital-applications-for-visual-storytelling/"><u>Premier Digital Applications for Visual Storytelling</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-12-youtube-tillbaka-transkoder-till-mp3-vid-movavi/"><u>Top 12 YouTube-Tillbaka Transkoder Till MP3 - Vid Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726228190862-avi-m4a-movavi/"><u>오늘날의 가장 유용한 무료 AVI 크리펫: M4A 변환을 위해 Movavi를 사용</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m1/"><u>オンラインでの無料M1ビデオ変換サービス – ムヴァヴィ</u></a></li>
 </ul></div>
 

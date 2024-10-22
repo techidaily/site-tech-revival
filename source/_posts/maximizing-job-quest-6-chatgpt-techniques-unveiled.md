@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Job Quest: 6 ChatGPT Techniques Unveiled"
-date: 2024-10-12T21:08:17.536Z
-updated: 2024-10-16T19:33:05.193Z
+date: 2024-10-19T19:14:21.736Z
+updated: 2024-10-22T17:44:32.969Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,6 +43,19 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -52,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -67,10 +80,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
@@ -109,19 +122,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
@@ -151,19 +151,16 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-best-software-for-live-broadcasting/"><u>[Updated] Best Software for Live Broadcasting</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-thrilling-world-of-drone-racing-and-premium-fpv-units/"><u>2024 Approved Navigating the Thrilling World of Drone Racing & Premium FPV Units</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/activatingdeactivating-windows-key-made-simple/"><u>Activating/Deactivating Windows Key Made Simple</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-video-to-dvd-burners-get-video-to-dvd-on-windows-mac-maveric-for-2024/"><u>Best Video to DVD Burners - Get Video to DVD on Windows / Mac (Maveric) for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-bots-future-generative-dialogue-tech/"><u>Beyond Bots: Future Generative Dialogue Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/browse-or-plugin-deciding-on-the-ideal-chatgpt-experience-for-your-needs/"><u>Browse or Plugin? Deciding on the Ideal ChatGPT Experience for Your Needs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-roleplay-with-these-veiled-in-mystique-this-title-promises-readers-a-secretive-guide-to-enhancing-their-gaming-experience-through-an-innovative15/"><u>Elevate Your Roleplay with These Veiled in Mystique, This Title Promises Readers a Secretive Guide to Enhancing Their Gaming Experience Through an Innovative Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-faceoff-determining-superiority-of-chatgpt-versus-bing-chat/"><u>Generative AI Faceoff: Determining Superiority of ChatGPT Versus Bing Chat</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-the-most-out-of-chatgpt-implementing-gpt-4-now/"><u>Get the Most Out of ChatGPT: Implementing GPT-4 Now</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-poco-x5-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Poco X5 to Protect Your Individual Information</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-sidestep-no-uninstall-issue-on-windows-oses/"><u>How to Sidestep No Uninstall Issue on Windows OSes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/streamline-your-communications-innovative-ways-to-use-gmail-filters/"><u>Streamline Your Communications: Innovative Ways to Use Gmail Filters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-subscriber-sequence-strategizing-success-on-youtube/"><u>The Subscriber Sequence Strategizing Success on YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/thriving-amidst-artificial-intelligence-6-essential-strategies-for-success/"><u>Thriving Amidst Artificial Intelligence: 6 Essential Strategies for Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-privacy-pioneers-explore-instagram-stories-secretly/"><u>[New] 2024 Approved Privacy Pioneers Explore Instagram Stories Secretly</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comparing-stream-quality-with-obs-studio-and-fraps/"><u>[New] Comparing Stream Quality with OBS Studio and Fraps</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-preparing-for-facebooks-updated-marketing-strategy/"><u>[Updated] Preparing for Facebook’s Updated Marketing Strategy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertisseur-audio-mp3m4v-pour-gratuit-a-distance-services-de-movavi/"><u>Convertisseur Audio MP3/M4V Pour Gratuit À Distance - Services De Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-la-herramienta-de-conversion-gratuita-para-cambiar-archivos-de-video-de-3gp-a-formato-m4a-con-eficiencia/"><u>Descargar La Herramienta De Conversión Gratuita Para Cambiar Archivos De Video De 3GP a Formato M4A Con Eficiencia</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/evaluate-the-essential-factors-prior-to-smart-surveillance-camera-setup/"><u>Evaluate the Essential Factors Prior to Smart Surveillance Camera Setup</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-top-10-alternative-social-media-apps-to-tiktok-for-creators-and-enthusiasts/"><u>Exploring the Top 10 Alternative Social Media Apps to TikTok for Creators and Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-online-convertisseur-mkv-en-wma-expertise-movavi/"><u>Gratuit Online Convertisseur MKV en WMA - Expertise Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/stunning-affordable-innovations-the-best-of-elite-technologies-within-reach/"><u>Stunning Affordable Innovations: The Best of Elite Technologies Within Reach</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Note 30i | Dr.fone</u></a></li>
 </ul></div>
 

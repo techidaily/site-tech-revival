@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2024-10-12T19:18:19.739Z
-updated: 2024-10-16T23:55:35.233Z
+date: 2024-10-19T17:23:48.077Z
+updated: 2024-10-22T18:25:37.709Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,22 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -56,28 +63,21 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -115,24 +115,24 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-studio-editor-step-by-step-video-tutorial-creation/"><u>[New] 2024 Approved YouTube Studio Editor Step-by-Step Video Tutorial Creation</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/acks-for-preventing-youtube-short-failures-for-2024/"><u>[New] Hacks for Preventing YouTube Short Failures for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-capturewave-91-analysis-summary/"><u>2024 Approved CaptureWave 9.1 Analysis Summary</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3flac/"><u>効率的にMP3を高音質Flacにアップコンバートする方法 - 完全なマニュアル</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-oppo-reno-9a-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Oppo Reno 9A FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-methods-for-transforming-a-scratch-project-sb3-into-high-quality-mp4-format/"><u>Easy Methods for Transforming a Scratch Project (.SB3) Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-techniques-from-twitter-posts-to-mp3-playback/"><u>Effortless Conversion Techniques From Twitter Posts to MP3 Playback</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-and-desktop-tools-easily-convert-your-gifs-into-wmv-format/"><u>Free Online and Desktop Tools: Easily Convert Your GIFs Into WMV Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-easily-convert-trec-to-mp4-avi-mov-and-mkv-compatible-with-iphone-apple-tv-samsung-and-more/"><u>How To Easily Convert TREC to MP4, AVI, MOV & MKV Compatible with iPhone, Apple TV, Samsung and More!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-transform-and-save-soundcloud-audio-as-free-ogg-files/"><u>How to Seamlessly Transform and Save SoundCloud Audio as Free Ogg Files</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-professional-tiktoks-mastery-of-numerical-changes/"><u>In 2024, Craft Professional TikToks Mastery of Numerical Changes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oneplus-12-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on OnePlus 12 and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m2tsmp3/"><u>M2TSファイルから自由にMP3へ変換 - ステップバイステップガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/national-dialogue/"><u>National Dialogue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolve-mp4-video-errors-troubleshooting-when-audio-plays-but-visual-is-missing/"><u>Resolve MP4 Video Errors: Troubleshooting When Audio Plays but Visual Is Missing</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/saving-your-data-from-a-crashing-hdd-effective-techniques-and-remedies-explored/"><u>Saving Your Data From a Crashing HDD: Effective Techniques and Remedies Explored</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streamline-your-skype-talks-using-obs-effectively-for-2024/"><u>Streamline Your Skype Talks Using OBS Effectively for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-fixed-fixing-non-responsive-touchpad-scroll-issues-in-windows-11/"><u>Troubleshooting Fixed: Fixing Non-Responsive Touchpad Scroll Issues in Windows 11</u></a></li>
-<li><a href="https://win-docs.techidaily.com/winning-strategies-for-effective-windows-10-error-fixes/"><u>Winning Strategies for Effective Windows 10 Error Fixes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/roven-picks-leading-capture-cards-for-enthusiast-streamers/"><u>[New] Proven Picks Leading Capture Cards for Enthusiast Streamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-syncing-scores-youtube-musics-role-in-multimedia-content/"><u>[New] Syncing Scores YouTube Music's Role in Multimedia Content</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-complete-examination-a-full-picture-of-bublcams-360-degree-scope/"><u>[Updated] In 2024, Complete Examination A Full Picture of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sdr-to-hdr-ultimate-guide-on-sdr-to-hdr-video-conversion/"><u>[Updated] SDR to HDR Ultimate Guide on SDR to HDR Video Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m4a-aiff/"><u>無障礙 M4A 到 AIFF 格式轉換器 - 馬華的自由服務</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/bildfusion-fuhre-mehrere-sicherungskopien-zu-einer-einheit-vereint/"><u>Bildfusion: Führe Mehrere Sicherungskopien Zu Einer Einheit Vereint</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-wmv-files-to-mov-without-cost-explore-the-power-of-movavis-cloud-based-video-converters/"><u>Convert WMV Files to Mov Without Cost: Explore the Power of Movavi's Cloud-Based Video Converters</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-how-to-use-movie-maker-on-windows-11/"><u>In 2024, How to Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-awesome-valorant-thumbnails-for-youtube-content/"><u>Mastering Awesome Valorant Thumbnails for YouTube Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/migracion-sin-costo-de-archivos-wav-a-flv-usando-la-plataforma-de-movavi-en-linea/"><u>Migración Sin Costo De Archivos WAV a FLV Usando La Plataforma De Movavi en Línea</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-digital-content-with-movavis-advanced-multimedia-software-solutions/"><u>Protect Your Digital Content with Movavi's Advanced Multimedia Software Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-frame-drops-and-speech-lag-issues-in-naraka-bladepoint-a-comprehensive-guide/"><u>Solving Frame Drops & Speech Lag Issues in Naraka: Bladepoint – A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-20-best-chatgpt-prompts-on-github/"><u>The 20 Best ChatGPT Prompts on GitHub</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 14 Pro Max Activation Lock</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformer-des-fichiers-bmp-en-tiff-sans-frais-solutions-de-conversion-avec-movavi/"><u>Transformer Des Fichiers BMP en TIFF Sans Frais - Solutions De Conversion Avec Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trasforma-video-mpeg-in-webm-senza-costi-su-movavi-servizi-di-conversione-gratuita-online/"><u>Trasforma Video MPEG in WEBM Senza Costi Su Movavi - Servizi Di Conversione Gratuita Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/vob-3gp-movavi/"><u>VOBファイルから自由にダウンロード: 3GP形式への簡単変換 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-11/"><u>동영상 인코더 기법에 대한 TOP 11 프로그램 선보기: 현재 가장 좋은 방법</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/midiogg-movavi/"><u>オンラインでフリーMIDI形式からOGGへの変換 - Movavi</u></a></li>
 </ul></div>
 

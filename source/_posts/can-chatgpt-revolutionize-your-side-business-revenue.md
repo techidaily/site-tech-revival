@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT Revolutionize Your Side Business Revenue?
-date: 2024-09-30T22:06:39.568Z
-updated: 2024-10-05T10:51:58.447Z
+date: 2024-10-17T16:16:05.940Z
+updated: 2024-10-22T17:56:04.646Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -64,25 +71,11 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
 
@@ -94,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
 
@@ -125,15 +118,22 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -165,22 +165,22 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[New] In 2024, Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Blade A73 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-13-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 13 5G Quickly? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-y100t-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Y100t.</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-frugal-cloud-loft-economical-space-for-huge-file-stashes/"><u>In 2024, Frugal Cloud Loft Economical Space for Huge File Stashes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-leverage-the-best-free-pc-sound-capturer-x-recorder/"><u>In 2024, Leverage the Best Free Pc Sound Capturer – X-Recorder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-openai-your-definitive-guide-to-understanding-the-tech-giant/"><u>Navigating Through OpenAI – Your Definitive Guide to Understanding the Tech Giant</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reimagining-token-limits-in-gpt-dialogues/"><u>Reimagining Token Limits in GPT Dialogues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-online-meetups-with-chatgpt-technology/"><u>Revolutionize Your Online Meetups with ChatGPT Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/risks-of-relying-on-chatgpt-for-accurate-text-summaries-why-caution-is-key/"><u>Risks of Relying on ChatGPT for Accurate Text Summaries: Why Caution Is Key</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/sensibilities-of-machines-can-ai-truly-feel/"><u>Sensibilities of Machines: Can AI Truly Feel?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smart-owners-integrating-these-pioneering-five-ai-solutions/"><u>Smart Owners: Integrating These Pioneering Five AI Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-strategies-to-integrate-chatgpt-in-your-3d-printing-workflow/"><u>Step-by-Step Strategies to Integrate ChatGPT in Your 3D Printing Workflow</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-flaws-that-arise-from-blind-trust-in-algorithms/"><u>The Flaws That Arise From Blind Trust in Algorithms</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-what-is-an-ai-avatar-for-2024/"><u>Updated What Is an AI Avatar for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/winning-the-battle-against-continuous-automatic-repairs-in-windows-11-top-fixes/"><u>Winning the Battle Against Continuous Automatic Repairs in Windows #11: Top Fixes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-guide-to-making-engaging-audio-promos/"><u>[New] A Step-by-Step Guide to Making Engaging Audio Promos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-copyright-free-game-audio-repositories/"><u>[New] Copyright-Free Game Audio Repositories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-historical-discoveries-at-your-screen-10-best-educational-youtubers/"><u>[New] In 2024, Historical Discoveries at Your Screen - 10 Best Educational YouTubers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-facile-pour-changer-des-fichiers-hevc-en-mp4-sans-perdre-de-la-qualite-un-tutoriel-complet/"><u>Guide Facile Pour Changer Des Fichiers HEVC en MP4 Sans Perdre De La Qualité : Un Tutoriel Complet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-p40plus-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel P40+ to PC? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/lyric-purifier-toolkit-assemble-custom-music-beds-for-2024/"><u>Lyric Purifier Toolkit Assemble Custom Music Beds for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-routine-hr-responsibilities-discover-5-smart-prompt-strategies/"><u>Revolutionize Routine HR Responsibilities: Discover 5 Smart Prompt Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-mobile-internet-experience-with-bings-cutting-edge-ai-search-android-and-ios-compatible/"><u>Revolutionize Your Mobile Internet Experience with Bing's Cutting-Edge AI Search – Android & iOS Compatible</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-novels-characters-using-these-11-powerful-ai-prompt-techniques/"><u>Revolutionize Your Novel's Characters Using These 11 Powerful AI Prompt Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguard-digital-assets-block-ai-bots/"><u>Safeguard Digital Assets: Block AI Bots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/six-budget-friendly-artificial-intelligence-options/"><u>Six Budget-Friendly Artificial Intelligence Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-mystery-of-your-computers-speaker-configuration-in-windows-10/"><u>Solving the Mystery of Your Computer's Speaker Configuration in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamline-content-creation-using-hix-ai-plus-gpt-4-technology/"><u>Streamline Content Creation Using HIX AI + GPT-4 Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-great-ai-debate-judging-top-3-chatbots-based-on-one-creative-task/"><u>The Great AI Debate: Judging Top 3 Chatbots Based on One Creative Task</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-new-contender-in-town-evaluating-googles-gemini-ai-vs-chatgpt/"><u>The New Contender in Town: Evaluating Google's Gemini AI Vs. ChatGPT</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-12-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme 12 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

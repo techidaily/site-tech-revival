@@ -1,7 +1,7 @@
 ---
 title: How to Permanently Close GPT Account
-date: 2024-10-16T00:13:02.107Z
-updated: 2024-10-16T18:31:29.075Z
+date: 2024-10-18T17:00:08.715Z
+updated: 2024-10-22T17:01:54.025Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -37,6 +44,19 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -50,25 +70,18 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
- The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -79,17 +92,16 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,22 +127,22 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-ion-air-pro-3-visionary-revolutionizing-action-video/"><u>2024 Approved ION Air Pro 3 Visionary - Revolutionizing Action Video</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/alternative-solutions-to-xcopy-in-windows-os-best-tools-and-how-to-video-guide-windows-11-10-7-xp/"><u>Alternative Solutions to XCopy in Windows OS - Best Tools and How-To Video Guide (Windows 11, 10, 7, XP)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/battle-of-the-titans-unveiling-the-superiority-between-bard-and-bing-chat/"><u>Battle of the Titans: Unveiling the Superiority Between Bard and Bing Chat</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-steps-to-successfully-downloading-and-installing-auto-gpt/"><u>Complete Guide: Steps to Successfully Downloading & Installing Auto-GPT</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-du-fichier-aac-au-format-wav-sur-internet-movavi/"><u>Conversion Gratuite Du Fichier AAC Au Format WAV Sur Internet - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-ai-transfer-learning-and-its-operational-methodology/"><u>Demystifying AI Transfer Learning and Its Operational Methodology</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/diy-guide-synching-a-subwoofer-to-your-samsung-soundbar-unit-perfectly/"><u>DIY Guide: Synching a Subwoofer to Your Samsung Soundbar Unit Perfectly</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/effective-remedies-for-fixing-palworlds-session-based-search-glitches/"><u>Effective Remedies for Fixing Palworld's Session-Based Search Glitches</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-lavawithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Lavawith/without a PC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-twitta-visuals-audio-extraction-services/"><u>In 2024, Twitta Visuals Audio Extraction Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-audio-creation-how-to-harness-the-power-of-chabtgpt-within-your-daw-projects/"><u>Innovative Audio Creation: How to Harness the Power of ChabtGPT Within Your DAW Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpts-api-power-efficiently/"><u>Leveraging ChatGPT's API Power Efficiently</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-a-comprehensive-guide-to-video-and-subtitle-translation-with-veedio-for-2024/"><u>New A Comprehensive Guide to Video and Subtitle Translation with Veed.io for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/revolutionary-tools-for-next-gen-streaming-experience-for-2024/"><u>Revolutionary Tools for Next-Gen Streaming Experience for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-advancement-in-language-models-an-in-depth-look-at-gpt-series-by-openai/"><u>The Advancement in Language Models: An In-Depth Look at GPT Series by OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-checklist-evaluating-your-ideal-ai-chatbot-platform-with-these-7-features/"><u>The Ultimate Checklist: Evaluating Your Ideal AI Chatbot Platform with These 7 Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/traps-in-tokens-exposing-fake-bingpt-projects/"><u>Traps in Tokens: Exposing Fake BinGPT Projects</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-accessing-premium-clip-art-at-no-expense/"><u>[New] 2024 Approved Accessing Premium Clip-Art at No Expense</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-assemble-amusing-artifacts/"><u>[New] Assemble Amusing Artifacts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleash-creativity-in-snaps-15-innovative-posting-techniques/"><u>[New] In 2024, Unleash Creativity in Snaps 15 Innovative Posting Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unceasing-video-archiving-consortia-for-2024/"><u>[New] Unceasing Video Archiving Consortia for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>[Updated] In 2024, Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-quick-tips-for-transforming-pinterest-videos-into-mp3s/"><u>[Updated] Quick Tips for Transforming Pinterest Videos Into MP3s</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4-m4v-movavi/"><u>線上無限MP4 改M4V自由版導航: Movavi 轉檔器解決方案</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-trust-movavi-in-depth-analysis-of-its-online-platform-reliability-and-application-safety/"><u>Can You Trust Movavi? - In-Depth Analysis of Its Online Platform Reliability & Application Safety</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-12-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conversion-gratuit-dun-fichier-amv-a-wmv-en-ligne-guide-complet/"><u>Conversion Gratuit D'un Fichier AMV À WMV en Ligne – Guide Complet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/converti-file-wma-in-formato-m4a-online-gratuitamente-con-movavi/"><u>Converti File WMA in Formato M4A Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-online-mov-to-mp4-converter-easy-video-format-change-with-movavi/"><u>Free Online MOV to MP4 Converter - Easy Video Format Change with Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mixed-reality-blending-physical-and-virtual-worlds/"><u>Mixed Reality Blending Physical and Virtual Worlds</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavis-no-cost-image-editing-tool-convert-your-png-files-to-bmp-right-here-now/"><u>Movavi's No-Cost Image Editing Tool: Convert Your PNG Files to BMP Right Here, Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-vs-mp4-explained-understanding-the-format-distinction-enhance-your-audio-with-movavi/"><u>MP3 vs MP4 Explained: Understanding the Format Distinction - Enhance Your Audio with Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/nyanser-i-video-konverting-din-guide-till-att-omvandla-formater-online-med-en-samlingskonverter/"><u>Nyanser I Video-Konverting - Din Guide Till Att Omvandla Formater Online Med en Samlingskonverter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-differentiating-ar-from-vr-mr-and-xr-technologies/"><u>The Definitive Guide to Differentiating AR From VR, MR & XR Technologies</u></a></li>
 </ul></div>
 

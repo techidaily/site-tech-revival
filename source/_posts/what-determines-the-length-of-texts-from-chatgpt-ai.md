@@ -1,7 +1,7 @@
 ---
 title: What Determines the Length of Texts From ChatGPT AI?
-date: 2024-10-12T23:01:35.802Z
-updated: 2024-10-16T21:51:33.674Z
+date: 2024-10-19T18:02:57.905Z
+updated: 2024-10-22T17:37:49.612Z
 tags:
   - chatgpt
   - open-ai
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/7e02bd572984315c91b0feee5bb97c59ecfef3acd
 
  Before its public launch, the prospect of GPT-4 generated huge excitement in the AI community due to its touted capabilities and potential applications in various fields. Now, GPT-4 is here, but how can you access it?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Access GPT-4 on ChatGPT
 
 ![chatgpt openai logos smartphone feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-openai-logos-smartphone-feature.jpg)
@@ -63,29 +56,36 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 ![ChatGPT plus comparison](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-plus-comparison.jpg)
 4. Up next, you'll be redirected to a page to provide your credit card details and other billing information. Provide all the required information and make payment.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once your payment has been confirmed, you should now have access to the OpenAI GPT-4 model alongside the older GPT-3.5 default and GPT-3.5 legacy models.
 6. Choose the GPT-4 model from the drop-down on your ChatGPT chat interface, select the mode you want, and start using GPT-4 with ChatGPT.  
 ![screenshot of ChatGPT Code Interpreter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/screenshot-of-chatgpt-code-interpreter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One way to be sure you're using the GPT-4 model instead of the older models is to check the color of the OpenAI logo that precedes ChatGPT's responses. GPT-3.5 model responses are preceded with a green-white logo, while GPT-4 responses are preceded with a black-white logo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is the Difference Between GPT-3.5 and GPT-4?
 
  GPT-4 stands out from previous versions in two major ways: it demonstrates considerably enhanced capabilities, yet it imposes an unpopular, restrictive message quota.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Performance Improvement
 
@@ -101,13 +101,6 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
  Notwithstanding, GPT-4 is an exciting and powerful model worth the $20 you'll need to pay for a ChatGPT Plus plan. But what if you don't want to upgrade to ChatGPT Plus? Is this the end of the road for free-tier users? Not really. Here's how to use GPT-4 for free.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use GPT-4 for Free
 
  While you can't currently access GPT-4 on the free version of ChatGPT, an alternative route is to use the Bing AI Chat. Yes, Bing AI is powered by OpenAI's GPT-4 model and has been for a while. So, if you've been using AI-powered Bing, you've been using GPT-4 without realizing it. If you're concerned about the difference in the quality of responses between GPT-4 on Bing Chat and GPT-4 on ChatGPT, don't panic.
@@ -115,6 +108,13 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
  Bing Chat's GPT-4 isn't much different from ChatGPT's version. If anything, Bing's internet connection gives it access to much more up-to-date and relevant data and can produce more timely and relevant information as a result. ChatGPT, on the other hand, is limited by the cut-off date of its knowledge base. So, unless you're using ChatGPT plugins that can access and retrieve live data from the internet, you could say Bing's implementation of the GPT-4 model provides much more current data.
 
  Bing Chat aside, whether GPT-4 will ever be available for ChatGPT free tier users is unclear. GPT-4 is already several months post-release, and there is no indication that OpenAI will make GPT-4 generally available as a free offering. However, since OpenAI is already making the GPT-4 model available to third-party developers, you can use GPT-4 in a limited capacity through third-party apps powered by GPT-4.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## GPT-4: Is It Worth the Hype?
 
@@ -137,24 +137,20 @@ To upgrade your ChatGPT account to the premium ChatGPT Plus plan:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-scribbles-to-spectacle-personalized-effect-crafting/"><u>[Updated] In 2024, From Scribbles to Spectacle Personalized Effect Crafting</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-take-your-snapchat-to-new-heights-with-cutting-edge-boomerangs/"><u>[Updated] Take Your Snapchat to New Heights with Cutting-Edge Boomerangs</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1-simple-strategies-to-resolve-common-issues-with-your-acer-erecovery-system/"><u>1. Simple Strategies to Resolve Common Issues with Your Acer eRecovery System</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/biosuefi/"><u>BIOS/UEFIによるシステムイメージ復元不可解決策：エラー修正ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-virtual-webcam-and-editing-suite/"><u>Enhance Your Livestreams with ManyCam - The Ultimate Virtual Webcam and Editing Suite</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-discover-the-power-of-manycams-live-video-technology-and-fakewebcam-features/"><u>Enhance Your Online Presence: Discover the Power of ManyCam's Live Video Technology and Fakewebcam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-online-presence-expert-video-editing-and-remote-webcams-with-manycam/"><u>Enhance Your Online Presence: Expert Video Editing and Remote Webcams with ManyCam</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-streams-with-manycam-top-virtual-camera-and-recording-tool/"><u>Enhance Your Streams with ManyCam: Top Virtual Camera and Recording Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-world-of-professional-streaming-with-manycam-your-ultimate-livestream-camera-and-effects-suite/"><u>Explore the World of Professional Streaming with ManyCam - Your Ultimate Livestream Camera and Effects Suite</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-boost-your-content-access-free-vocal-sfx/"><u>In 2024, Boost Your Content Access Free Vocal SFX!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-top-7-nft-generators-to-turn-your-artwork-into-nfts/"><u>In 2024, Top 7 NFT Generators to Turn Your Artwork Into NFTs</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/innovative-approaches-to-capturing-skype-calls-on-obs-for-2024/"><u>Innovative Approaches to Capturing Skype Calls on OBS for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-live-video-solutions-with-manycam-the-definitive-virtual-webcam-experience/"><u>Innovative Live Video Solutions with ManyCam – The Definitive Virtual Webcam Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-stream-mastery-made-easy-discover-the-power-of-manycams-virtual-cam-features/"><u>Live Stream Mastery Made Easy: Discover the Power of ManyCam's Virtual Cam Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-premium-virtual-webcam-solutions/"><u>Live Streaming Made Easy with ManyCam: Premium Virtual Webcam Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-professional-videocamera-and-webcast-software/"><u>Live Streaming Made Easy with ManyCam: Professional Videocamera and Webcast Software</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/masterclass-zooids-introduction-guide/"><u>Masterclass Zooids Introduction Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-data-analysis-building-a-pivot-table-using-microsoft-excels-features/"><u>Mastering Data Analysis: Building a Pivot Table Using Microsoft Excel's Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-graphical-grandeur-radeons-return-for-2024/"><u>[New] Graphical Grandeur Radeon's Return for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-best-instagram-highlights-covers-apps/"><u>[Updated] Best Instagram Highlights Covers Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitvidsync-ios-tool-to-seamlessly-save-twitter-vids-for-2024/"><u>[Updated] TwitVidsync IOS Tool to Seamlessly Save Twitter Vids for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/duzias-de-metodos-inovadores-para-aprimoramento-da-qualidade-do-video-utilizando-inteligencia-artificial/"><u>Dúzias De Métodos Inovadores Para Aprimoramento Da Qualidade Do Vídeo Utilizando Inteligência Artificial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-convertidor-de-archivos-mpeg-4-a-aac-en-linea-por-movavi/"><u>Gratuito Convertidor De Archivos MPEG-4 a AAC en Línea Por Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuito-e-online-converter-de-formato-vob-para-flac-com-o-software-da-movavi/"><u>Gratuito E Online: Converter De Formato VOB Para FLAC Com O Software Da Movavi</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-10-editors-elevate-your-webcam-recordings/"><u>In 2024, Top 10 Editors Elevate Your Webcam Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/movavi-kostenloser-webkonverter-fur-wav-zu-mp4m4a-formaten-online/"><u>Movavi - Kostenloser Webkonverter Für WAV Zu MP4/M4A Formaten Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726227472875-movavi/"><u>Movavi創作工具檢查報告 - 由影像首領提供的分析與建議</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-11-error-nvidia-geforce-x0001/"><u>Overcoming Windows 11 Error: Nvidia GeForce X0001</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/podcasting-prowess-crafting-a-trendsetting-showcase/"><u>Podcasting Prowess Crafting a Trendsetting Showcase</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/recovering-deleted-scenes-in-macs-damaged-mov-files/"><u>Recovering Deleted Scenes in Mac's Damaged MOV Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-choosing-the-right-mkv-editor-top-12-picks-freemium-solutions-available/"><u>Ultimate Guide to Choosing the Right MKV Editor: Top 12 Picks – Freemium Solutions Available</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/ultimate-story-blueprints-across-8-movie-sectors/"><u>Ultimate Story Blueprints Across 8 Movie Sectors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpe-gif-movavi/"><u>텍사스터의 MPE GIF 갤리 바이트 손상을 방지하기 위한 심호흡 무료 변환 서비스 - MOVAVI</u></a></li>
 </ul></div>
 

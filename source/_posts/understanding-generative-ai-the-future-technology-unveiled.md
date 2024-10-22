@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: The Future Technology Unveiled"
-date: 2024-10-09T17:40:16.347Z
-updated: 2024-10-16T20:27:25.808Z
+date: 2024-10-18T18:06:08.740Z
+updated: 2024-10-22T19:13:26.204Z
 tags:
   - chatgpt
   - open-ai
@@ -34,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
 
 ![Two and three dimensional vectors](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/05/dimensional-vector.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Having more dimensions provides more context to what a piece of data is supposed to be. The number of dimensions used in vector database often range from 100 to 300 dimensions for NLP and several hundred for computer vision.
 
@@ -58,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
@@ -80,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -91,19 +97,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -113,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Milvus** : An open-source vector platform built with similarity search and AI applications in mind. It provides quick and efficient indexing and search capabilities for high-dimensional vectors. In addition, Milvus supports multiple indexing algorithms and offers SDKs for various programming languages.
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Future of Vector Databases
 
@@ -135,18 +135,24 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-essential-androidios-wedding-countdown-tools-reviewed/"><u>[Updated] 2024 Approved Essential Android/iOS Wedding Countdown Tools Reviewed</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-craft-stunning-iphone-snaps-heed-these-10-guidelines/"><u>[Updated] In 2024, Craft Stunning iPhone Snaps - Heed These 10 Guidelines</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-logic-pro-method-to-gradually-reduce-audio-levels-for-2024/"><u>[Updated] Logic Pro Method to Gradually Reduce Audio Levels for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029748139-mp4m4a3/"><u>「MP4からM4Aへの変換ガイド:初心者が簡単にできる3つの方法」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-pathway-to-free-final-cut-pro/"><u>2024 Approved The Pathway to Free Final Cut Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029255384-windows/"><u>様々な動画同時表示: Windowsパソコン用ガイド</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726028175026-audacity/"><u>Audacity使用時の音声ファイルへのノーイズパート挿入手順</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-now-speaks-back-openai-introduces-voiced-response-feature/"><u>ChatGPT Now Speaks Back: OpenAI Introduces Voiced Response Feature</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-amazonbasics-usb-c-7-port-hub-analysis-ultimate-connectivity-solutions/"><u>Comprehensive AmazonBasics USB-C 7-Port Hub Analysis: Ultimate Connectivity Solutions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-enrich-ppt-content-with-soundtracks/"><u>In 2024, Enrich PPT Content with Soundtracks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029537751-pcdvd/"><u>PC用にDVDを再生するための簡単な修正手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726030095271-vob/"><u>コンパクトなVOBデータ管理:高速ダウンロードとストレージ省略のための動画サイズ圧縮方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726027651056-powerdirector/"><u>ビデオ編集のプロフェッショナルなコツ：PowerDirectorでのトリミング方法</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-the-seas-of-success-utilizing-social-blade-for-youtube-data/"><u>[New] In 2024, Navigating the Seas of Success Utilizing Social Blade for YouTube Data</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-elite-gopro-accessory-catalog/"><u>[Updated] In 2024, Elite Gopro Accessory Catalog</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-image-alchemy-converting-ordinary-into-extraordinary/"><u>2024 Approved Image Alchemy Converting Ordinary Into Extraordinary</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-fuser-keeps-crashing-issues-in-windows-and-mac-os/"><u>Effective Solutions for 'Fuser Keeps Crashing' Issues in Windows and Mac OS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-workflow-management-via-gpt-inputs/"><u>Efficient Workflow Management via GPT Inputs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/initiate-local-gratis-conversational-ai-via-gpt4all/"><u>Initiate Local, Gratis Conversational AI via GPT4All</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/intuitive-camera-roll-consolidation-step-by-step-snapchat-guide-for-2024/"><u>Intuitive Camera Roll Consolidation Step-by-Step Snapchat Guide for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-nokia-105-classic-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia 105 Classic – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/official-nvidia-quadro-driver-downloads-for-windows-10-latest-release-and-support-information/"><u>Official Nvidia Quadro Driver Downloads for Windows 10 - Latest Release & Support Information</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/overcoming-the-limits-why-intels-i9-chips-reign-supreme-in-comet-lake-s-enthusiasts-world-insights-from-msi-data/"><u>Overcoming the Limits: Why Intel's I9 Chips Reign Supreme in Comet Lake-S Enthusiasts' World – Insights From MSI Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/palm-2-vs-gpt-4-unveiling-key-differences/"><u>PaLM 2 Vs. GPT-4: Unveiling Key Differences</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/professionelle-videomontage-mit-kostenloser-ki-beste-tools-fur-pcs-windows-and-apple-computer/"><u>Professionelle Videomontage Mit Kostenloser KI – Beste Tools Für PCs (Windows) & Apple-Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/programming-wit-does-artificial-intelligence-have-a-sense-of-humor/"><u>Programming Wit: Does Artificial Intelligence Have a Sense of Humor?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-start-guide-activating-and-configuring-auto-gpt-on-ubuntu-systems/"><u>Quick Start Guide: Activating and Configuring Auto-GPT on Ubuntu Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-tech-how-openais-new-gpt-navigate-the-future-with-its-latest-ai-innovation/"><u>Transforming Tech: How OpenAI's New GPT-Navigate the Future with Its Latest AI Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unique-chatterbots-implementing-gpt-for-bespokel-models/"><u>Unique ChatterBots: Implementing GPT for Bespokel Models</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-streamline-your-workflow-the-best-video-editing-apps-for-4k-proxy-files-for-2024/"><u>Updated Streamline Your Workflow The Best Video Editing Apps for 4K Proxy Files for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-stopping-siri-chatgpt-comparisons-helps-recognize-distinctive-qualities/"><u>Why Stopping Siri-ChatGPT Comparisons Helps Recognize Distinctive Qualities</u></a></li>
 </ul></div>
 

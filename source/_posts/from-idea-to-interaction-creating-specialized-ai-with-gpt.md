@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Interaction: Creating Specialized AI with GPT"
-date: 2024-10-09T16:56:04.196Z
-updated: 2024-10-10T16:11:58.894Z
+date: 2024-10-16T19:23:49.892Z
+updated: 2024-10-22T17:37:25.508Z
 tags:
   - chatgpt
   - open-ai
@@ -36,31 +36,24 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -75,23 +68,23 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
@@ -103,6 +96,13 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf/related) is a free-to-install Chrome Extension that allows you to upload any file, including Word documents, Excel spreadsheets, image files, and, of course, PDFs. What makes this an excellent method is just how easy it is to use.
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
@@ -125,14 +125,16 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-make-a-youtube-intro-with-best-youtube-intro-makers/"><u>[New] How to Make a YouTube Intro With Best YouTube Intro Makers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-empowered-by-numbers-decoding-youtube-analytics/"><u>[Updated] 2024 Approved Empowered by Numbers Decoding YouTube Analytics</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-vivo-y17s-frp-bypass-by-drfone-android/"><u>About Vivo Y17s FRP Bypass</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/beyond-facetime-transformative-webcam-uses/"><u>Beyond FaceTime Transformative Webcam Uses</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bridging-ai-dialogues-3-approaches-to-utilize-chatgpt-and-wolframalpha/"><u>Bridging AI Dialogues: 3 Approaches to Utilize ChatGPT & WolframAlpha</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-cutting-edge-ai-technologies-such-as-chatgpt-enhance-healthcare-services/"><u>Can Cutting-Edge AI Technologies Such as ChatGPT Enhance Healthcare Services?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-safe-chatgpt-experiences-top-5-tips-for-your-children/"><u>Ensuring Safe ChatGPT Experiences: Top 5 Tips for Your Children</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/global-perspective-inclusive-technology-review/"><u>Global Perspective Inclusive Technology Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/stepwise-deletion-of-previous-chatgpt-data/"><u>Stepwise Deletion of Previous ChatGPT Data</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elite-videotelephony-for-effective-online-meetings/"><u>[Updated] In 2024, Elite Videotelephony for Effective Online Meetings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/cost-effective-desktop-capture-the-ultimate-top-10-list-for-2024/"><u>Cost-Effective Desktop Capture The Ultimate Top 10 List for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/explore-the-expanded-experience-of-connectivity-with-xbox-marketplace/"><u>Explore the Expanded Experience of Connectivity with Xbox' Marketplace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-forecast-what-lies-ahead-for-advanced-chatbots-and-ai-innovation/"><u>Future Forecast: What Lies Ahead for Advanced Chatbots and AI Innovation?</u></a></li>
+<li><a href="https://techidaily.com/remove-itel-a60-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Itel A60 unlock screen</u></a></li>
+<li><a href="https://windows11.techidaily.com/step-by-step-making-the-cursor-more-noticeable-in-windows/"><u>Step-by-Step: Making the Cursor More Noticeable in Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategizing-efficient-workflows-with-chatgpt-a-comprehensive-guide/"><u>Strategizing Efficient Workflows with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-tools-for-sharing-and-exporting-conversations-with-chatgpt/"><u>Top 4 Tools for Sharing & Exporting Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-techniques-to-employ-chatgpt-in-overcoming-linguistic-obstacles/"><u>Transformative Techniques to Employ ChatGPT in Overcoming Linguistic Obstacles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/transforming-visuals-10-must-try-text-upgrades-in-videos/"><u>Transforming Visuals 10 Must-Try Text Upgrades in Videos</u></a></li>
+<li><a href="https://win-studio.techidaily.com/why-cleaning-extra-bloatware-on-windows-may-not-be-ideal-expert-advice-from-zdnet/"><u>Why Cleaning Extra Bloatware on Windows May Not Be Ideal - Expert Advice From ZDNet</u></a></li>
 </ul></div>
 

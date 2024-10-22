@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT to the Rescue: Tips for Climbing the Ladder to Your Dream Role"
-date: 2024-10-11T19:04:01.410Z
-updated: 2024-10-16T18:22:43.313Z
+date: 2024-10-15T17:59:34.892Z
+updated: 2024-10-22T17:51:41.305Z
 tags:
   - chatgpt
   - open-ai
@@ -36,23 +36,9 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
  Head over to the Jobs channel to[start a career in prompt engineering](https://www.makeuseof.com/career-in-prompt-engineering/) . Dozens of members need help writing prompts for generative AI tools, chatbots, and text-to-image systems.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[GitHub](https://github.com/)
 
 ![ChatGPT Prompts Repositories on GitHub](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/github-repositories-for-chatgpt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Anyone interested in AI should sign up for GitHub. It’s a paid source code-hosting site that lets users collaborate on coding and programming projects. You and your partners can take codes straight from repositories.
 
@@ -60,16 +46,16 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
  Let’s say you’re interested in ChatGPT. While you can’t train LLMs with other users, you can search for[effective ChatGPT prompts on GitHub](https://www.makeuseof.com/best-chatgpt-prompts-on-github/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[r/ChatGPTJailbreak](https://www.reddit.com/r/ChatGPTJailbreak/)
 
 ![ChatGPT Jailbreak Prompts on Reddit Communities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/reddit-community-for-chatgpt-prompts.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT has less rigid restrictions than other chatbots. For instance, Bing Chat automatically terminates conversations that go against its guidelines, while ChatGPT still responds. You can generate different outputs by rephrasing your prompts.
 
@@ -77,37 +63,58 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
 ![ChatGPT Refusing to Act Like Tomie Character](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-rejecting-roleplay-request-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After rephrasing the instructions and adding more details, it quickly obliged.
 
 ![ChatGPT Accepts Roleplay Request and Starts Acting Like Tomie](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-accepts-roleplay-request-as-tomie.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can apply this trick to other prompts. On r/ChatGPTJailbreak, you’ll learn the proper phrasing, language, word choice, and sentence structure when jailbreaking ChatGPT. Only specific formulas can bypass AI restrictions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4.[ChatGPT Prompt Engineers](https://www.facebook.com/groups/706382050894862/)
 
 ![A Facebook Group for Sharing and Posting ChatGPT Prompts ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/facebook-group-chatgpt-prompt-engineers.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT Prompt Engineers is a decent community for beginners. Members just typically ask general knowledge questions about writing prompts and getting optimal outputs. You won’t have trouble keeping up with discussions.
 
  We also like that the moderators proactively weed out spam marketers and shady ads. Many[crooks abuse ChatGPT to execute cyberattacks](https://www.makeuseof.com/chatgpt-cybersecurity-threat/) nowadays. Even tech-savvy individuals could fall victim to them if they’re not careful. So minimize your exposure to scams altogether.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5.[Midjourney Prompt Tricks](https://www.facebook.com/groups/1192421464638601)
 
 ![A Facebook Group for Sharing Midjourney Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/midjourney-prompts-facebook-group.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Midjourney ranks among the[most popular text-to-art generators online](https://www.makeuseof.com/ai-text-to-art-generators/) . Its sophisticated AI architecture was trained on much broader datasets, allowing it to generate more realistic elements.
 
@@ -125,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
  Note that this subreddit covers relatively advanced topics compared to other groups. The members don’t just share prompts. Expect most techniques, tools, and methods discussed to have steep learning curves.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7.[r/OpenAI](https://www.reddit.com/r/OpenAI/)
 
 ![Reddit Community for OpenAI Users](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-reddit-community.jpg)
@@ -146,18 +146,18 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
 ![Reddit Community for Stable Diffusion Prompts and Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/stablediffusion-prompts-on-reddit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  r/StableDiffusion is the largest subreddit dedicated to Stable Diffusion. The community allows sharing workflows. However, it primarily encourages users to post outputs and discuss relevant AI news—prompt engineering is merely a part of generating AI art.
 
  The group might be helpful if you prefer Stable Diffusion over Midjourney and Dall-E models. Study the system’s limits and capabilities. Users post various media forms, including 3D images, 2D portraits, and animations.
 
  Meanwhile, artists who prefer other text-to-image models could use the group for comparisons. See which system provides the best outputs. You might even find Stable Diffusion users testing your preferred art styles frequently.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9.[Sales, Marketing, Social Media, Artificial Intelligence (AI), ChatGPT Technology Innovation Network](https://www.linkedin.com/groups/54066/)
 
@@ -192,21 +192,17 @@ thumbnail: https://thmb.techidaily.com/b344d8db48d6d42211b0b57079da5753b23f49ded
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-audiovisual-allure-crafting-irresistible-podcast-previews/"><u>[New] 2024 Approved Audiovisual Allure Crafting Irresistible Podcast Previews</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-budget-pc-screen-capture-apps-for-2024/"><u>[Updated] Budget PC Screen Capture Apps for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-navigating-google-chromes-multi-screen-capabilities/"><u>[Updated] Navigating Google Chrome's Multi-Screen Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-to-vf-video-transformation-in-vegas-suite-for-professionals-and-enthusiasts/"><u>Complete Guide to VF Video Transformation in Vegas Suite for Professionals and Enthusiasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-how-to-switch-off-the-built-in-audio-upgrade-on-windows-10-devices/"><u>Comprehensive Guide: How to Switch Off the Built-In Audio Upgrade on Windows 10 Devices</u></a></li>
-<li><a href="https://techidaily.com/connecting-your-playstation-4-controller-a-comprehensive-tutorial/"><u>Connecting Your PlayStation 4 Controller - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-top-rated-sites-for-free-korean-soap-opera-torrents-and-view-online/"><u>Discover the Top-Rated Sites for FREE Korean Soap Opera Torrents and View Online!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-top-3-destinations-for-live-country-tunes-and-securely-get-songs-downloaded-without-cost/"><u>Discover the Ultimate Top 3 Destinations for Live Country Tunes and Securely Get Songs Downloaded without Cost</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dvditunes/"><u>DVD動画をスムーズにiTunesへ移行するためのシンプルワークフロー</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-ways-to-transform-your-flac-tracks-into-m4a-with-windows-tools-and-web-apps/"><u>Easy Ways to Transform Your FLAC Tracks Into M4A with Windows Tools & Web Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/editing-your-google-meet-sessions-recording-a-step-by-step-tutorial/"><u>Editing Your Google Meet Sessions Recording - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-of-wmv-videos-to-mp4-ideal-techniques-for-windows-macos-and-cloud-solutions/"><u>Effortless Conversion of WMV Videos to MP4: Ideal Techniques for Windows, MacOS & Cloud Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-convert-m4v-files-to-mp4-for-pc-and-mac-a-comprehvew-of-key-distinctions/"><u>How to Convert M4V Files to MP4 for PC & Mac - A Comprehvew of Key Distinctions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-12-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 12? 5 Tips You Must Know</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-the-secrets-of-auditory-success-on-youtube-videos-for-2024/"><u>Unlock the Secrets of Auditory Success on YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-capture-connections-real-time-recordings-for-2024/"><u>[New] Capture Connections Real Time Recordings for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ideal-ios-platform-for-psp-emulation-our-top-5-list-of-2023-for-2024/"><u>[New] Ideal iOS Platform for PSP Emulation - Our Top 5 List of 2023 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-recording-techniques-for-instagrams-ephemeral-content/"><u>[Updated] 2024 Approved Recording Techniques for Instagram's Ephemeral Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guide-for-social-media-savvy-content-sharers-for-2024/"><u>[Updated] Guide for Social Media Savvy Content Sharers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-adjusting-screenshots-why-does-imovie-alter-video-sizes/"><u>[Updated] In 2024, Adjusting Screenshots Why Does iMovie Alter Video Sizes?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diys-new-era-dawns-with-gpt-4-advancements/"><u>DIY's New Era Dawns With GPT-4 Advancements</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-packaged-photo-errors-on-windows-11-and-11-pro/"><u>Eliminating Packaged Photo Errors on Windows 11 & 11 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pause-comparing-siri-and-chatgpt-key-differences-explored/"><u>Pause Comparing Siri & ChatGPT: Key Differences Explored</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/revive-your-windows-1011-display-top-4-methods-for-changing-wallpaper-and-background/"><u>Revive Your Windows 10/11 Display: Top 4 Methods for Changing Wallpaper & Background</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inner-mechanics-of-ai-black-boxes-explained/"><u>The Inner Mechanics of AI Black Boxes Explained</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-6-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-world-of-ai-chatbots-why-are-they-preferred-by-users/"><u>Unveiling the World of AI Chatbots: Why Are They Preferred by Users?</u></a></li>
 </ul></div>
 

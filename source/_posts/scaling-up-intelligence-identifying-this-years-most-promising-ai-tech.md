@@ -1,7 +1,7 @@
 ---
 title: "Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech"
-date: 2024-10-12T23:39:27.142Z
-updated: 2024-10-16T20:38:26.804Z
+date: 2024-10-21T17:11:28.021Z
+updated: 2024-10-22T19:14:53.274Z
 tags:
   - chatgpt
   - open-ai
@@ -47,16 +47,16 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
 <!-- affiliate ads begin -->
-<span id="1982459">
+<span id="1982456">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creativity
@@ -67,44 +67,37 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Image Processing and Accuracy
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Accurate Are Bing Chat and ChatGPT
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
@@ -119,13 +112,20 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
@@ -180,16 +180,21 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-android-and-ios-users-choice-top-playlist-saving-apps-for-youtube/"><u>[Updated] Android & iOS Users' Choice Top Playlist Saving Apps for YouTube</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-boosting-video-playback-speed-on-instagram/"><u>[Updated] In 2024, Boosting Video Playback Speed on Instagram</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-guide-personalized-youtube-shorts-images-without-hassle/"><u>2024 Approved Quick Guide Personalized YouTube Shorts Images Without Hassle</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dealing-with-invalid-input-alerts-on-your-visual-interface-device/"><u>Dealing with Invalid Input Alerts on Your Visual Interface Device</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210889467-dealing-with-unsuccessful-rpcs-learn-how-to-correct-them-here/"><u>Dealing With Unsuccessful RPCs? Learn How To Correct Them Here!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-experience-with-these-10-tailored-gpt-solutions-surpassing-chatgpt/"><u>Elevate Your AI Experience with These 10 Tailored GPT Solutions Surpassing ChatGPT</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/laptop-repair-how-to-resolve-a-persistent-white-display-problem/"><u>Laptop Repair: How to Resolve a Persistent White Display Problem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-grey-area-when-using-chatgpt-could-cost-you-your-job-insights-from-various-cases/"><u>Navigating the Grey Area: When Using ChatGPT Could Cost You Your Job – Insights From Various Cases</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simplifying-tough-professional-communications-with-gpt-3/"><u>Simplifying Tough Professional Communications with GPT-3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-question-of-personal-data-protection-while-using-chatgpt-technology/"><u>The Question of Personal Data Protection While Using ChatGPT Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-step-by-step-tutorial-for-android-users/"><u>Unlock the Power of ChatGPT: Step-by-Step Tutorial for Android Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-unearthing-unique-content-for-youtubes-spotlight/"><u>[Updated] Unearthing Unique Content for Youtube's Spotlight</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wmaswfmovavi/"><u>線上快速WMA至SWF轉檔器：利用Movavi 無限制升級音頻格式</u></a></li>
+<li><a href="https://win-dash.techidaily.com/access-the-most-recent-corsair-h80i-v2-display-adapter-software-updates/"><u>Access the Most Recent Corsair H80i v2 Display Adapter Software Updates</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/dynamic-duels-and-daring-deeds-top-10-gaming-highlights/"><u>Dynamic Duels & Daring Deeds Top 10 Gaming Highlights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/editing-fotografico-personalizzato-programma-di-ritocco-foto-professionale-da-movavi/"><u>Editing Fotografico Personalizzato: Programma Di Ritocco Foto Professionale Da Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-overview-of-freemake-video-converter-cost-analysis-capabilities-and-usability-tips/"><u>Expert Overview of Freemake Video Converter - Cost Analysis, Capabilities & Usability Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/facilidade-na-instalacao-de-slideshows-em-iphone-dicas-e-truques-do-movavi/"><u>Facilidade Na Instalação De Slideshows Em iPhone - Dicas E Truques Do Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-guide-eliminating-the-dark-scene-in-helldivers-ii-upon-boot-up/"><u>Fixed Guide: Eliminating the Dark Scene in Helldivers II upon Boot-Up</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-mp3-to-m4a-converter-en-ligne-une-solution-facile-et-efficace-avec-movavi/"><u>Gratuit MP3-to-M4A Converter en Ligne: Une Solution Facile Et Efficace Avec Movavi</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/hidden-gems-6-secret-voice-recorder-apps-for-android-and-ios-for-2024/"><u>Hidden Gems! 6 Secret Voice Recorder Apps for Android & iOS for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-call-logs-from-motorola-g54-5g-by-fonelab-android-recover-call-logs/"><u>How to rescue lost call logs from Motorola G54 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-realme-c33-2023-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Realme C33 2023 Phone Screen?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/las-mejores-opciones-gratis-para-acceder-a-fotos-de-alta-calidad-top-sitios-web-de-pago/"><u>Las Mejores Opciones Gratis Para Acceder a Fotos De Alta Calidad: Top Sitios Web De Pago</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-hurdles-in-hogwarts-legacy-pro-tips-for-a-smooth-game-start/"><u>Overcoming Launch Hurdles in Hogwarts Legacy: Pro Tips for a Smooth Game Start</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/recuperar-e-restaurar-suas-fotografias-com-confianca-o-metodo-seguro-do-multimedia-software-pelo-movavi/"><u>Recuperar E Restaurar Suas Fotografias Com Confiança: O Método Seguro Do Multimedia Software Pelo Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/successfully-solved-addressing-the-persistent-boot-screen-problem-on-computers/"><u>Successfully Solved: Addressing the Persistent Boot Screen Problem on Computers</u></a></li>
 </ul></div>
 

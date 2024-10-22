@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2024-10-04T16:33:49.461Z
-updated: 2024-10-10T17:30:30.160Z
+date: 2024-10-19T19:30:59.663Z
+updated: 2024-10-22T18:59:36.394Z
 tags:
   - chatgpt
   - open-ai
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
  FYNB will take a few minutes to process your request and then give you one recommendation at a time. The recommendation page includes a summary of why the AI thinks the book's topics match what you are looking to read, as well as a non-AI-generated description of the book, like what you're likely to find on the back cover. If you aren't happy with the result, click the "Next Book" button for another recommendation with the same prompt.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Sona](https://www.readthistwice.com/sona) (Web): Quickly Browse a Long List of AI-Recommended Books
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
@@ -44,16 +51,16 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
  However, in the results, Sona disappointingly doesn't rely on Read This Twice's core expertise by showing which books are recommended by someone influential. There is a workaround to that, though. If you register on the site, you'll be able to add these books to your personal library and go there to see who has promoted the book.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Next Three Books](https://www.nextthreebooks.com/) (Web): Filter Book Recommendations by Type, Genre, Length, Style
 
 ![Next Three Books suggests three titles from a ChatGPT prompt, and lets you filter results by genre, writing style, length, and type of book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-next-three-books.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  Once it analyzes your input, the results are three simple cards that include the book title, author's name, and a two-line description. If the book was recommended by someone famous or another author, Next Three Books will add that context to the card.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Readow](https://readow.ai/) (Web): AI Book Recommendations Based on Your Likes
@@ -94,10 +101,10 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 ![Search for a book or look through celebrity recommendations to generate a summary of any book with BooksAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -107,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  Author Screenshot by Mihir Patkar - No attribution required
 
 ![BooksAI uses ChatGPT to summarize any book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -146,22 +146,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-master-9-movie-extractor-hub/"><u>[New] 2024 Approved Master 9 Movie Extractor Hub</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-insta-authenticity-selfie-verification-insights/"><u>2024 Approved Insta Authenticity Selfie Verification Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/do-expensive-ai-prompt-services-deliver-value-for-your-dollar/"><u>Do Expensive AI Prompt Services Deliver Value for Your Dollar?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-auto-gpt-vs-chatgpt-what-sets-them-apart/"><u>Exploring the World of Auto-GPT vs ChatGPT: What Sets Them Apart?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-2024-lego-star-wars-skywalker-saga-pc-crash-issue-solutions-inside/"><u>How to Overcome the 2024 Lego Star Wars: Skywalker Saga PC Crash Issue - Solutions Inside!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-samsung-galaxy-m54-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-5-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 5 Pro to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-x8b-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor X8b Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-bard-googles-game-changing-opponent-to-gpt/"><u>Introducing Bard, Google's Game-Changing Opponent to GPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pitfalls-of-mobile-chatgpt-engagement/"><u>Pitfalls of Mobile ChatGPT Engagement</u></a></li>
-<li><a href="https://facebook.techidaily.com/restoring-accessibility-of-your-deactivated-facebook-account/"><u>Restoring Accessibility of Your Deactivated Facebook Account</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/streamline-your-soundscape-best-free-apps-to-download-youtube-songs-on-android-for-2024/"><u>Streamline Your Soundscape Best Free Apps to Download YouTube Songs on Android for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-strategies-leveraging-chatgpt-in-health-management/"><u>Top Strategies: Leveraging ChatGPT in Health Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-and-resolving-the-chatgpt-body-stream-malfunction-top-7-solutions/"><u>Understanding and Resolving the ChatGPT Body Stream Malfunction: Top 7 Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-ai-potential-with-7-proven-prompting-secrets-that-work-wonders/"><u>Unleash AI Potential with 7 Proven Prompting Secrets That Work Wonders</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-the-potential-of-ai-on-ios-merging-chatgpt-functionality-with-apples-siri/"><u>Unleash the Potential of AI on iOS: Merging ChatGPT Functionality with Apple's Siri</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-perfection-streamlined-subtitlecc-implementation-on-youtube/"><u>Video Perfection Streamlined Subtitle/CC Implementation on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-opening-and-playing-srt-on-pcmac/"><u>[New] Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-viewing-at-home-with-eizos-4k-display/"><u>[Updated] High-Fidelity Viewing at Home with EIZO's 4K Display</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-precision-review-of-the-dji-inspire-2-drone/"><u>[Updated] Precision Review of the DJI Inspire 2 Drone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-uncover-the-best-8-open-source-video-conferencing-tools-of-now/"><u>[Updated] Uncover the Best 8 Open-Source Video Conferencing Tools of Now</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max without Passcode or Face ID</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6s-plus-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6s Plus Properly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-craft-with-these-top-5-ai-prompt-engineering-e-courses/"><u>Master the Craft with These Top 5 AI Prompt Engineering E-Courses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-dangerous-terrain-unveiling-eight-reasons-why-ai-security-flaws-are-becoming-more-severe/"><u>Navigating Dangerous Terrain: Unveiling Eight Reasons Why AI Security Flaws Are Becoming More Severe</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-how-does-the-budget-friendly-open-source-linksys-wrt19easily-meet-your-internet-needs/"><u>Review: How Does the Budget-Friendly, Open Source Linksys WRT19easily Meet Your Internet Needs?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utionize-earning-with-youtube-short-tactics/"><u>Revolutionize Earning with Youtube Short Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-seven-puzzling-questions-that-stump-ai-assistant-chatgpt/"><u>The Seven Puzzling Questions That Stump AI Assistant ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-implementing-self-created-gpt-calls-in-any-conversational-ai-setting/"><u>The Ultimate Strategy: Implementing Self-Created GPT Calls in Any Conversational AI Setting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-generative-artificial-intelligence-how-it-works-and-who-is-implementing-it/"><u>Understanding Generative Artificial Intelligence: How It Works and Who Is Implementing It?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creative-possibnilities-how-to-make-unique-images-using-microsofts-copilot-tool/"><u>Unlocking Creative Possibnilities: How to Make Unique Images Using Microsoft's Copilot Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-large-language-models-concepts-and-operation/"><u>Unveiling Large Language Models: Concepts & Operation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-earning-blueprint-achieving-bank-balances/"><u>YouTube Earning Blueprint Achieving Bank Balances</u></a></li>
 </ul></div>
 

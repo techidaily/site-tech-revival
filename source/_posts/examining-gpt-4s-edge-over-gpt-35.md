@@ -1,7 +1,7 @@
 ---
 title: Examining GPT-4's Edge Over GPT-3.5
-date: 2024-10-03T22:19:17.976Z
-updated: 2024-10-04T16:50:50.548Z
+date: 2024-10-15T18:05:46.561Z
+updated: 2024-10-22T18:30:51.380Z
 tags:
   - chatgpt
   - open-ai
@@ -38,22 +38,15 @@ thumbnail: https://thmb.techidaily.com/27ed488072176012a10baf6e8c8b898cb859756da
 Here are the best ChatGPT alternatives.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1.[Claude AI](https://claude.ai/)
 
 ![Screenshot of the Claude AI chat interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/screenshot-of-the-claude-ai-chat-interface.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Claude AI is undoubtedly the best alternative to ChatGPT. In the fast-moving world of AI, that status might change in a few days, weeks, or months, but it is the next best prospect in the AI chatbot space at the time of writing. You'll be hard-pressed to find an AI chatbot that gets as close to ChatGPT in creativity, common sense reasoning, and accuracy as Claude AI.
 
@@ -61,22 +54,21 @@ Here are the best ChatGPT alternatives.
 
  You can learn[how to sign up and start using Claude AI](https://www.makeuseof.com/sign-up-claude-ai/) . As a rising star in the AI chatbot space, and with a few more iterations, Claude might achieve a true peer status with ChatGPT—or even eventually outperform it.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2.[Google Gemini](https://bard.google.com)
 
 ![Bard explaining what MakeUseOf does](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/bard-explaining-what-makeuseof-does.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Another worthy alternative to ChatGPT is Google's Gemini, formerly Bard AI. After Claude AI, Google's Gemini is probably the most powerful and widely used ChatGPT alternative that doesn't rely on OpenAI's GPT language model. Aptly named, the AI chatbot is currently powered by Google's[Gemini family of large language models](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/) , a move away from the poorly performing[PaLM 2 large language model](https://www.makeuseof.com/what-is-google-palm-2/) .
@@ -89,16 +81,16 @@ Here are the best ChatGPT alternatives.
 
  There[are some creative ways to use Google's Gemini](https://www.makeuseof.com/how-to-use-google-bard/) , and if you're wondering how Gemini stacks up against ChatGPT, take a look at our in-depth analysis[comparing ChatGPT vs. Gemini](https://www.makeuseof.com/chatgpt-vs-google-bard/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3.[Microsoft Copilot](https://copilot.microsoft.com)
 
 ![microsoft copilot in edge browser feb 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/microsoft-copilot-in-edge-browser-feb-2024.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft Copilot, formerly Bing AI Chat, is one of the best AI chatbots that uses OpenAI's GPT-4 technology. Microsoft Copilot blends results from the web, OpenAI's GPT-4 model, and Microsoft's proprietary technology to produce factual and up-to-date results for millions of its users worldwide. Like ChatGPT, Copilot can also generate stunning images using the DALL-E image generation model, although the quality of images from Copilot sometimes seems less appealing than those generated from DALL-E on ChatGPT.
 
@@ -118,26 +110,27 @@ Here are the best ChatGPT alternatives.
 
 ![Screenshot of PI AI chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/screenshot-of-pi-ai-chatbot.PNG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some form of conversational AI model powers all the chatbots on our lists. However, Pi, developed by AI startup Inflection, stands out in its unique interpretation of conversational AI. The chatbot might not be the most advanced AI, but it is one of the most interesting when it comes to holding engaging conversations.
 
  You'll ask other chatbots questions, and they'll provide you with a response, and that's just about that. Pi AI goes the extra mile to make sure that you get the best conversational experience, almost always responding to your queries with a subtle push to keep you engaged in more conversations. It doesn't have the shiny fancy features you'll find in other front-runner chatbots like ChatGPT, but it can provide accurate and detailed answers to most of the questions you throw at it. We highly recommend you give it a try whenever you need a chatbot that is interesting to talk to.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6.[OpenAI GPT Playground](https://beta.openai.com/playground)
 
 ![OpenAI GPT-3.5 Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/openai-gpt-3-5-playground.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Even before ChatGPT went viral, there was OpenAI's GPT Playground, a platform for the public to play with different iterations of OpenAI's GPT AI models. Unfortunately, the tool didn't create as much buzz as ChatGPT has. This is partly because of its technical user interface and lack of consumer-focused publicity.
 
@@ -152,6 +145,13 @@ Here are the best ChatGPT alternatives.
 ## 7.[Poe by Quora](http://poe.com)
 
 ![Poe AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/poe-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unlike the other options on our list, Poe by Quora is less of an AI chatbot and more of an AI platform. Poe gives you access to some of the most established AI large language models currently available online. The platform has everything from Google's PaLM and Gemini, Meta's Llama, and Anthropic's Claude to several iterations of OpenAI's GPT large language models.
 
@@ -173,6 +173,13 @@ Here are the best ChatGPT alternatives.
 
 ![Chatsonic August 2023 screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatsonic-august-2023-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The underlying technology behind ChatGPT (first GPT 3.5, since updated to GPT-4) is the same technology that powers Chatsonic, making it almost as interesting as ChatGPT. Chatsonic goes a step further and builds on[the abilities of ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) while fixing[some of ChatGPT's limitations](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) .
 
  Just like ChatGPT, Chatsonic uses the DALL-E image generation model to create images on command right on the Chatsonic chat interface. Alongside DALL-E, there's also the option of using Stable Diffusion to create AI art on the Chatsonic platform.
@@ -180,13 +187,6 @@ Here are the best ChatGPT alternatives.
  However, Chatsonic is not all rosy. Although you'll get freemium access when you sign up, unlike ChatGPT, Chatsonic is mostly a paid service. You get allocated tokens, and once you're out of tokens, you'll have to stick with the barebones on offer. Also, compared to ChatGPT, Chatsonic isn't great with computer codes.
 
  Compared with Chatsonic, ChatGPT responses are typically significantly more "complete" and better formatted. In several cases, Chatsonic tends to summarize its responses. That might work for some people, but you might not find it useful when you need a long-form response. However, those limitations aside, Chatsonic is exciting and one of the best ChatGPT alternatives.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10.[Character.AI](https://character.ai)
 
@@ -219,20 +219,21 @@ Here are the best ChatGPT alternatives.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamlining-whiteboard-interactions-with-google-meet-across-multiple-platforms/"><u>[New] 2024 Approved Streamlining Whiteboard Interactions with Google Meet Across Multiple Platforms</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat/"><u>[New] In 2024, Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-pushing-the-envelope-on-instagram-larger-videos-explained/"><u>[New] Pushing the Envelope on Instagram Larger Videos Explained</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtubes-payment-system-a-monthly-breakdown/"><u>[Updated] In 2024, YouTube’s Payment System A Monthly Breakdown</u></a></li>
-<li><a href="https://solve-news.techidaily.com/1725288456335-dvd/"><u>DVDビデオ変換無料プログラムに遭遇する一般的な問題と解決策</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-artful-depth-of-field-with-modern-tools/"><u>In 2024, Crafting Artful Depth of Field with Modern Tools</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-the-world-of-pixiz-turning-stills-into-storytelling-video-for-2024/"><u>Navigating the World of Pixiz Turning Stills Into Storytelling Video for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/setting-up-smart-tech-auto-gpt-installation-guide/"><u>Setting Up Smart Tech: Auto-GPT Installation Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-digital-mixologist-evaluating-chatgpts-proficiency-in-cocktail-creation/"><u>The Digital Mixologist: Evaluating ChatGPT's Proficiency in Cocktail Creation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-book-discovery-top-5-ai-powered-sites-and-apps-for-personalized-reads/"><u>The Future of Book Discovery: Top 5 AI-Powered Sites and Apps for Personalized Reads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-step-by-step-process-of-engaging-with-ai-chatbots-via-quoras-poe/"><u>The Step-by-Step Process of Engaging with AI Chatbots via Quora's Poe</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-ai-enhanced-platforms-for-personalized-book-discovery/"><u>Top 5 AI-Enhanced Platforms for Personalized Book Discovery</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-frequently-encountered-chatgpt-issues-solutions-inside/"><u>Top 6 Frequently Encountered ChatGPT Issues: Solutions Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-ai-mobile-applications-you-must-install-on-androidios-devices/"><u>Top 8 AI Mobile Applications You Must Install on Android/iOS Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-pova-5-pro-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Pova 5 Pro? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-enhancing-visual-storytelling-utilizing-luts-techniques/"><u>[New] 2024 Approved Enhancing Visual Storytelling Utilizing Luts Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-from-setup-to-masterpiece-the-comprehensive-tutorial-for-zoom-based-audio-recordings/"><u>[New] 2024 Approved From Setup to Masterpiece The Comprehensive Tutorial for Zoom-Based Audio Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-content-strategies-to-climb-youtube-ranks/"><u>[Updated] In 2024, Elevate Your Content Strategies to Climb YouTube Ranks</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/easy-methods-to-move-your-itunes-playlists-over-to-the-apple-music-library/"><u>Easy Methods to Move Your iTunes Playlists Over to the Apple Music Library</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-hp-officejet-pro-6970-software-installation-guide-and-latest-driver-updates-for-windows/"><u>Free HP OfficeJet Pro 6970 Software Installation Guide & Latest Driver Updates for Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterclass-diagnose-and-repair-counter-strike-global-offensives-startup-problems/"><u>Masterclass: Diagnose and Repair Counter-Strike Global Offensive's Startup Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-common-causes-of-black-display-problems/"><u>Resolved: Fixing Common Causes of Black Display Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-android-and-iphone-with-these-leading-8-ai-downloads/"><u>Revolutionize Your Android and iPhone with These Leading 8 AI Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-the-problem-why-does-chatgpt-forget-our-talks/"><u>Solving the Problem: Why Does ChatGPT Forget Our Talks?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/starting-off-as-an-innovator-in-conversational-systems/"><u>Starting Off as an Innovator in Conversational Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/starting-your-journey-in-prompt-engineering-a-step-by-step-guide/"><u>Starting Your Journey in Prompt Engineering: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tackling-chatgpts-recent-legal-hurdles-insights-into-revamped-google-news-platforms-and-how-to-maintain-strong-mobile-signals-while-vacationing/"><u>Tackling ChatGPT's Recent Legal Hurdles: Insights Into Revamped Google News Platforms & How to Maintain Strong Mobile Signals While Vacationing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-basics-of-ai-made-simple-and-clear/"><u>The Basics of AI Made Simple and Clear</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-role-of-ai-in-battling-lonesomeness-insights-from-chatgpt-usage/"><u>The Role of AI in Battling Lonesomeness: Insights From ChatGPT Usage</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721101252947-update-your-graphics-drivers-outdated-drivers-can-cause-compatibility-issues/"><u>Update Your Graphics Drivers - Outdated Drivers Can Cause Compatibility Issues.</u></a></li>
 </ul></div>
 

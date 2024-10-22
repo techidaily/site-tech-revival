@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: Taking and Organizing Notes Like a Pro with ChatGPT"
-date: 2024-10-14T20:46:35.495Z
-updated: 2024-10-16T21:49:17.336Z
+date: 2024-10-16T16:38:44.247Z
+updated: 2024-10-22T17:34:18.469Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,13 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Configure Auto-GPT
 
  Since AutoGPT uses OpenAI's GPT model, you must generate an API key from OpenAI to act as your credential to use their product.
@@ -63,16 +70,10 @@ After Installing Python, you can download Auto-GPT from GitHub.
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
@@ -89,7 +90,21 @@ pip install -r requirements.txt
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Congratulations! You have successfully Installed Auto-GPT.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -109,13 +124,6 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
@@ -130,25 +138,11 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
 
  After every action of the AI, you can also provide your feedback to help the AI with its task.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
@@ -156,15 +150,22 @@ After making the recipe, our AI has now completed its task.
 
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
@@ -180,13 +181,6 @@ After making the recipe, our AI has now completed its task.
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -209,24 +203,15 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-diy-instagram-videos-simple-steps-to-success/"><u>[Updated] 2024 Approved DIY Instagram Videos Simple Steps to Success</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-composing-an-alluring-cinematic-teaser-track/"><u>[Updated] Composing an Alluring Cinematic Teaser Track</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unleashing-vibrance-grading-secrets-in-ps/"><u>[Updated] Unleashing Vibrance Grading Secrets in PS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029981736-iphone/"><u>異常な音量で動画記録したい場合、iPhoneの原因と対処技術</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5pya6ygp44gq5yuv55s75b2i5byp44go44ox44op44od44oi44ov44kp44o844og44gu6yg45a6a44gr5b2556ul44gk5o6i57si5oim55wl/"><u>最適な動画形式とプラットフォームの選定に役立つ探索戦略</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/alphabet-awareness-swedens-pronunciation-path/"><u>Alphabet Awareness: Sweden's Pronunciation Path</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-10-non-browser-based-screen-capture-tools-for-your-pc/"><u>Best 10 Non-Browser Based Screen Capture Tools for Your PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-video-format-converter-from-dvd-to-avi-on-pc-optimized-for-windows-10-and-11-in-2e24/"><u>Best Video Format Converter From DVD to AVI on PC: Optimized for Windows 10 and 11 in 2E24</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-c67-4g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on C67 4G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-editing-skills-switch-to-our-pro-grade-video-converter-for-advanced-features/"><u>Elevate Your Editing Skills: Switch to Our Pro-Grade Video Converter for Advanced Features</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevating-live-play-with-professional-gear-lists-for-2024/"><u>Elevating Live Play with Professional Gear Lists for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-animated-magic-access-free-online-cartoon-shows-and-anime/"><u>Experience Animated Magic: Access Free Online Cartoon Shows & Anime</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fast-and-easy-steps-to-transform-your-m4v-files-to-mkv-format/"><u>Fast and Easy Steps to Transform Your M4V Files to MKV Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/four-easy-and-powerful-techniques-to-transform-dv-files-into-mp4-format/"><u>Four Easy & Powerful Techniques to Transform DV Files Into MP4 Format</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/gopro-hero7-black-a-game-changer-for-adventurers/"><u>GoPro HERO7 Black - A Game-Changer for Adventurers!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960200061-instant-upgrade-secure-the-newest-intel-thunderbolt-controller-program-with-this-quick-download-link/"><u>Instant Upgrade! Secure the Newest Intel Thunderbolt Controller Program with This Quick Download Link.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/manual-de-instruccion-para-el-programa-winxdvd-mejoras-y-optimizaciones/"><u>Manual De Instrucción Para El Programa WinXDVD: Mejoras Y Optimizaciones</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/transform-your-fb-vids-to-full-screen/"><u>Transform Your FB Vids to Full Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726029169188-webm/"><u>WEBMにおける音響・視覚処理の新たな二段階方式</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-operational-obs-cam-after-fix-for-2024/"><u>[New] Operational OBS Cam After Fix for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-breaking-news-working-obs-cam/"><u>[Updated] In 2024, Breaking News Working OBS Cam</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/assessing-the-vulnerability-issues-surrounding-chatgpt-interaction/"><u>Assessing the Vulnerability Issues Surrounding ChatGPT Interaction</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/complete-tutorial-on-booting-your-lenovo-pc-using-a-usb-drive-with-windows-11/"><u>Complete Tutorial on Booting Your Lenovo PC Using a USB Drive with Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embarking-on-a-mission-becoming-an-ai-conversation-maestro/"><u>Embarking on a Mission: Becoming an AI Conversation Maestro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/flv3/"><u>FLVファイルからのオーディオ抽出手順：3つの効果的なアプローチ</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-bing-chatbot-into-android-keyboard-app/"><u>Step-by-Step Guide: Integrating Bing Chatbot Into Android Keyboard App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-influence-of-ai-powered-chatbots-on-modern-content-production-techniques/"><u>The Influence of AI-Powered Chatbots on Modern Content Production Techniques</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-list-premium-voice-modifiers-for-virtual-creators-for-2024/"><u>Ultimate List Premium Voice Modifiers for Virtual Creators for 2024</u></a></li>
 </ul></div>
 
