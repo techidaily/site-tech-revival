@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Hurdle – Why Age of Empires IV Won't Start"
-date: 2024-10-19T17:25:39.849Z
-updated: 2024-10-22T18:28:43.322Z
+date: 2024-10-23T01:36:10.938Z
+updated: 2024-10-27T22:56:51.098Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped you from logging into the game, and that a new patch is required to fix it.
@@ -50,26 +57,25 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 ![Fix 1 step 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-1-step-2.png)
 3. **Turn on** the toggle next to **Auto update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Reboot your network
 
@@ -79,18 +85,24 @@ thumbnail: https://thmb.techidaily.com/a446c77eb3a38ef1182231809e6f1b7dff4f64919
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Test your Internet connection speed
 
@@ -115,13 +127,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Flush your DNS and Renew your IP
 
  Fortnite login failed issue is also probably caused by the DNS and IP issues. **Try flushing your DNS and renewing your IP** and maybe this issue will be resolved. Here is how to do it:
@@ -131,6 +136,13 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
@@ -146,6 +158,13 @@ See if you can log in or not. if not, try the next fix, below.
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -184,6 +203,13 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Disable the proxy server
 
  If you’re using a proxy server, it may also cause the connection problem. Follow the instructions below to disable your proxy server to see if this issue reappears:
@@ -192,17 +218,17 @@ See if you can log in or not. if not, try the next fix, below.
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
@@ -230,20 +256,13 @@ See if you can log in or not. if not, try the next fix, below.
 7. Restart your PC and launch Fortnite.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 10: Close bandwidth hogging applications
 
@@ -254,13 +273,6 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -285,20 +297,24 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-thinkers-playground-top-10-mind-bending-rooms/"><u>[New] 2024 Approved Thinkers' Playground Top 10 Mind-Bending Rooms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-social-engagement-with-ai-the-chatgpt-guide-to-crafting-compelling-posts/"><u>Boost Your Social Engagement with AI: The ChatGPT Guide to Crafting Compelling Posts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breaking-down-grok-ai-insights-intentions-and-investment-from-elon/"><u>Breaking Down Grok AI: Insights, Intentions & Investment From Elon</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/buy-these-latest-ces-2023-releases-instantly-featured-selection-by-zdnet/"><u>Buy These Latest CES 2023 Releases Instantly – Featured Selection by ZDNet!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-implement-codegpt-features-efficiently-in-your-vscode-workspace/"><u>How to Implement CodeGPT Features Efficiently in Your VSCode Workspace</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-nokia-c110-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Nokia C110 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/meme-ology-manual-easy-ways-to-whip-up-giggles-for-2024/"><u>Meme-Ology Manual Easy Ways to Whip Up Giggles for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/methods-for-reducing-jello-like-video-stabilization-effects/"><u>Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-prose-from-pseudo-penned-pages-by-algorithms/"><u>Protecting Prose From Pseudo-Penned Pages by Algorithms</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-the-binkw32dll-not-found-issue-a-step-by-step-guide/"><u>Resolving the binkw32.dll Not Found Issue: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-synergy-combining-chatgpt-google-sheets-docs-and-excel-a-step-by-step-guide/"><u>Seamless Synergy: Combining ChatGPT, Google Sheets, Docs & Excel - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-top-9-ai-chatbot-myths-debunked/"><u>The Top 9 AI Chatbot Myths Debunked</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-stunning-invites-best-video-apps-for-ios-and-android/"><u>Updated In 2024, Create Stunning Invites Best Video Apps for iOS & Android</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/virtual-world-warfare-understanding-meta-and-omniverse-differences/"><u>Virtual World Warfare Understanding Meta and Omniverse Differences</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-tips-counteracting-camera-app-fails/"><u>Winning Tips: Counteracting Camera App Fails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-esteemed-experts-premium-instragram-highlight-designs-online/"><u>[New] 2024 Approved Esteemed Experts Premium Instragram Highlight Designs Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-boosting-your-posts-secrets-for-viral-instagram-videos-for-2024/"><u>[New] Boosting Your Posts Secrets for Viral Instagram Videos for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-conquer-tiktok-installation-made-simple-for-macbook-users-for-2024/"><u>[New] Conquer TikTok Installation Made Simple for MacBook Users for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-fast-film-techniques-taking-screens-on-a-dell/"><u>[New] Fast Film Techniques Taking Screens on a Dell</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-subtle-techniques-make-unwanted-backgrounds-disappear-in-videos/"><u>[Updated] Subtle Techniques Make Unwanted Backgrounds Disappear in Videos</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/44cm5ywo6z2i55qe44ov44o844oj44ox44ot44kw44op44og44ks44kk44oj77ya44km44kn44ow44oa44o844k45yq5546h55qe5ymk6zmk5oqa6kgt44cn/"><u>「全面的ワードプログラムガイド：ウェブページ効率的削除技術」</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-proven-methods-to-perfectly-capture-iptv-broadcasts/"><u>2024 Approved Proven Methods to Perfectly Capture IPTV Broadcasts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726030572931-gogoanime/"><u>最適な手段でGOGOAnimeからアニメ動画をダウンロードする方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-tailored-training-leveraging-chatgpt-for-custom-exercise-regimens/"><u>Crafting Tailored Training: Leveraging ChatGPT for Custom Exercise Regimens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3s-new-editing-tools-overview-and-improvement-areas/"><u>DALL-E 3'S New Editing Tools Overview and Improvement Areas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-call-for-tighter-control-over-ai-examining-views-from-the-head-of-openai/"><u>Deciphering the Call for Tighter Control Over AI: Examining Views From the Head of OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-artificial-intelligences-achilles-heel-insights-into-chatgpts-writing-recognition-shortcomings/"><u>Decoding Artificial Intelligence's Achilles Heel: Insights Into ChatGPT’s Writing Recognition Shortcomings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detect-artificial-intelligence-top-tools-for-academics-and-supervisors/"><u>Detect Artificial Intelligence: Top Tools for Academics and Supervisors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detecting-fraudulent-chatgpt-clones-on-itunes-and-the-app-store/"><u>Detecting Fraudulent ChatGPT Clones on iTunes and the App Store</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-updated-dall-e-3-with-editing-capabilities-still-refining-perfection/"><u>Discover the Updated DALL-E 3 with Editing Capabilities: Still Refining Perfection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-the-top-ai-gemini-enhanced-or-gptplusplus/"><u>Discovering the Top AI: Gemini Enhanced or GPT++?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-personalized-interaction-contribute-to-chatgpts-learning-process/"><u>Does Personalized Interaction Contribute To ChatGPT's Learning Process?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-discovering-the-best-soil-sprouts-of-valheim/"><u>In 2024, Discovering the Best Soil Sprouts of Valheim</u></a></li>
+<li><a href="https://discover-community.techidaily.com/schritt-fur-schritt-anleitung-zum-erstellen-eines-bootbaren-usb-sticks-als-tools-fur-systemwiederherstellungsarbeiten/"><u>Schritt-Für-Schritt Anleitung Zum Erstellen Eines Bootbaren USB-Sticks Als Tools Für Systemwiederherstellungsarbeiten</u></a></li>
 </ul></div>
 

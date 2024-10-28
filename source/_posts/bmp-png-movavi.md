@@ -1,7 +1,7 @@
 ---
 title: 오픈 소스에서 공유 가격의 BMP 프리커를 PNG로 전환 - Movavi
-date: 2024-09-10 23:25:19
-updated: 2024-09-13 11:46:14
+date: 2024-10-26T01:08:59.336Z
+updated: 2024-10-28T05:47:58.011Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
@@ -149,6 +149,13 @@ YouTube 上不只有很多有趣的影片，也有不少實用的音源。想把
 
 ![](https://cdn.staticont.net/page_type/0013/40/d165d146a51d036731c8a263975cb2b62d9b34a6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 OnlineVideoConverter 是一款多功能的線上檔案轉換工具，其中包括將 YouTube 檔案轉換成 WAV 格式的功能，也支援用 YouTube 影片連結直接轉檔。而且不只 WAV 檔案，MP3、WMA、MP4、WMV、MOV 等最常用的音訊及影片檔也都一併支援，可以滿足一般轉檔需求。
 
 **優點：**
@@ -183,6 +190,19 @@ YouTubeTo.org 只提供 YouTube 影片轉檔的線上服務，頁面非常簡單
 * **無法選擇音質：**YouTubeTo.org 為影片檔案提供不同的畫質選項，但音檔無法選擇音質。雖然下載下來的檔案音質不差，但比較不適合需要更高音質檔案的使用者。
 * **只能使用 YouTube 影片連結轉檔：**YouTubeTo.org 只支援用影片連結轉檔。如果是已經用下載器下載好的 YouTube 影片，就需要找到原始連結才能轉成 WAV 檔案。
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 [ByClickDownloader](https://www.byclickdownloader.com/zh/)
@@ -203,6 +223,13 @@ ByClickDownloader 是一款下載器兼轉檔軟體，需要下載到自己的�
 * **需要額外安裝軟體：**不同於前面兩款線上工具，ByClickDownloader 多了一道下載和安裝的過程。如果只是偶爾需要快速轉檔，就比較沒有必要多下載一個軟體去佔用電腦空間。
 
 **無法直接用 YouTube 連結轉檔：**ByClickDownloader 只支援檔案轉檔。開始轉檔前，一定要先下載 YouTube 檔案，不適合電腦空間不足的使用者。
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -251,6 +278,13 @@ Media.io 提供轉檔、影片編輯、檔案壓縮等多種功能，其中影�
 
 ![](https://cdn.staticont.net/page_type/0023/47/9a9aff28552c74f04990f24b0fcf4981adb3cffb.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 iTubeGo 和 ByClickDownloader 很像，是結合了下載器和轉換工具的軟體，需要下載到電腦上才能使用。這款軟體不只支援 YouTube 影片下載，也能下載大量 Facebook、Instagram、Dailymotion、TikTok 等熱門影音網站的影片。此外，iTubeGo 還有下載字幕和擷取片段的功能。值得注意的是，iTubeGo 的免費版本只能轉換三分之一的檔案長度，且不支援 WAV 格式，如果想要轉換完整的 WAV 檔案，需購買提供 30 天免費試用的付費版本。
 
 **優點：**
@@ -283,6 +317,19 @@ Movavi Video Converter
 
 ![Movavi Video Converter](https://cdn.staticont.net/products/0023/55/8d1fcf06e5da1ed8cc11493e3c95b987416153f1.webp)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 類似的指南
 
 * [最佳YouTube轉MP4工具](https://tools.techidaily.com/movavi/video-converter/)
@@ -301,6 +348,13 @@ Movavi Video Converter
 [顯示更多](https://tools.techidaily.com/movavi/products/)
 
 ![有問題嗎?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 有問題嗎?
 
@@ -332,11 +386,29 @@ Movavi Video Converter
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-visual-tales-expertly-warping-and-twisting-in-photoshop/"><u>[New] Crafting Visual Tales Expertly Warping & Twisting in Photoshop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-key-benefits-of-using-artificebased-software-for-scholarly-inquiry/"><u>5 Key Benefits of Using Artificebased Software for Scholarly Inquiry</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-clear-winners-why-ios-beats-webchatgpt/"><u>6 Clear Winners: Why iOS Beats WebchatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-deception-in-online-dating/"><u>AI-Driven Deception in Online Dating</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/all-you-need-to-know-about-apples-latest-ai-features-revealed-at-worldwide-developers-conference-2024/"><u>All You Need to Know About Apple’s Latest AI Features Revealed at Worldwide Developers Conference 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/asking-ai-the-right-way-chatgpts-role-in-your-next-vehicle-upgrade/"><u>Asking AI the Right Way: ChatGPT's Role in Your Next Vehicle Upgrade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-practices-for-risk-free-application-of-chatgpt-in-mental-health-support/"><u>Best Practices for Risk-Free Application of ChatGPT in Mental Health Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-entertainment-top-6-ways-snapchats-my-ai-transforms-your-experience/"><u>Beyond Entertainment: Top 6 Ways Snapchat's My AI Transforms Your Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tackling-photo-app-errors-in-windows-11/"><u>In 2024, Tackling Photo App Errors in Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innovative-document-handling-solutions-by-abbycad-transform-your-paperwork-efficiency/"><u>Innovative Document Handling Solutions by AbbyCAD - Transform Your Paperwork Efficiency</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/navigating-zoom-technology-for-professional-use-for-2024/"><u>Navigating Zoom Technology for Professional Use for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pixel-pop-goes-the-laptop-screen-with-these-websites/"><u>Pixel Pop Goes the Laptop Screen with These Websites</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-gt-5-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme GT 5 Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/renderer-resurgence-new-radeon-edition/"><u>Renderer Resurgence New Radeon Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-htc-u23-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On HTC U23 | Dr.fone</u></a></li>
+</ul></div>
+

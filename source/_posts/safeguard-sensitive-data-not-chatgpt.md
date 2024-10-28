@@ -1,7 +1,7 @@
 ---
 title: Safeguard Sensitive Data, Not ChatGPT
-date: 2024-10-15T17:05:25.563Z
-updated: 2024-10-22T16:16:04.852Z
+date: 2024-10-20T18:48:21.160Z
+updated: 2024-10-27T21:39:26.984Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
@@ -70,16 +77,22 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
@@ -87,28 +100,21 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly[to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) . By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ABC Website Maker
 
 ![ABC Website maker plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/abc-website-maker-plugin-on-the-chatgpt-plugin-store.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
@@ -116,16 +122,10 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
@@ -149,22 +149,16 @@ thumbnail: https://thmb.techidaily.com/6cb4391f5b78a0bded981255e816f25b4a4f4175f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/29530606-new-in-2024-closing-with-panache-free-youtubes-1-six/"><u>[New] In 2024, Closing with Panache Free YouTube's #1 Six!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-file-funneling-features-5-techniques-to-desktops/"><u>2024 Approved File Funneling Features 5 Techniques to Desktops</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-there-any-security-concerns-with-using-chatgpt/"><u>Are There Any Security Concerns with Using ChatGPT?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/complete-guide-steps-to-perform-a-full-factory-reset-on-your-acer-device/"><u>Complete Guide: Steps to Perform a Full Factory Reset on Your Acer Device</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/correcting-the-error-what-to-do-when-you-cant-find-d3dx926dll/"><u>Correcting the Error: What to Do When You Can't Find D3DX9_26.dll</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-aspects-to-assess-before-opting-in-for-a-conversational-ai-bot-service/"><u>Critical Aspects to Assess Before Opting-In for a Conversational AI Bot Service</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-ai-vulnerabilities-insights-into-the-operations-of-prompt-injection-tactics/"><u>Decoding AI Vulnerabilities: Insights Into the Operations of Prompt Injection Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/examining-ai-generated-content-risks/"><u>Examining AI-Generated Content Risks</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/expert-tutorial-on-effective-forum-promotion-techniques-in-2009-utilizing-massmail-software-a-step-by-step-journey/"><u>Expert Tutorial on Effective Forum Promotion Techniques in 2009 Utilizing MassMail Software: A Step-by-Step Journey</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-logitech-camera-up-and-running-free-windows-drivers-available-now/"><u>Get Your Logitech Camera Up and Running: Free Windows Drivers Available Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/head-to-head-snapchat-myai-and-bing-chats-ai-clash-in-a-skype-showdown-unveiling-eight-key-variances/"><u>Head to Head: Snapchat MyAI and Bing Chat's AI Clash in a Skype Showdown – Unveiling Eight Key Variances</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-apple-iphone-7-plus-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the Apple iPhone 7 Plus iCloud Lock</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-canon-mf4er-driver-for-smooth-printing-experience-step-by-step/"><u>Installing Canon MF4er Driver for Smooth Printing Experience – Step-by-Step</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-content-wonders-with-canva-and-ai-insights/"><u>Quick Content Wonders with Canva and AI Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-creative-industries-with-chatgpt/"><u>Revolutionizing Creative Industries with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-maximum-potential-the-ultimate-5-guide-to-using-chatgpts-advanced-scripts/"><u>Unlocking Maximum Potential: The Ultimate 5 Guide to Using ChatGPT's Advanced Scripts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/updating-your-apple-studio-displays-firmware-a-simple-guide/"><u>Updating Your Apple Studio Display's Firmware - A Simple Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/discover-10-secret-followers-on-stories-for-2024/"><u>Discover 10 Secret Followers on Stories for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-leading-mac-application-tools-for-2cuary-curated-by-tech-gurus-at-zdnet/"><u>Discover the Leading Mac Application Tools for 2Cuary - Curated by Tech Gurus at ZDNet</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mac-compatible-dvd-ripper-tool-seamlessly-convert-your-movies-and-tv-shows-into-mp4-format-for-mobile-syncing/"><u>Mac-Compatible DVD Ripper Tool - Seamlessly Convert Your Movies and TV Shows Into MP4 Format for Mobile Syncing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/pleasurable-stream-capture-evaluation/"><u>Pleasurable Stream Capture Evaluation</u></a></li>
+<li><a href="https://windows11.techidaily.com/prtscn-not-for-snip-stop-windows-11s-snipping-tool-by-default/"><u>PrtScn Not for Snip: Stop Windows 11'S Snipping Tool by Default</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-digital-platforms-boosting-your-ability-in-crafting-effective-prompts/"><u>Top 7 Digital Platforms Boosting Your Ability in Crafting Effective Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-9-benefits-of-using-chatgpt-for-your-content-creation-process/"><u>Top 9 Benefits of Using ChatGPT for Your Content Creation Process</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-common-chatgpt-login-problems-effective-solutions/"><u>Troubleshooting Common ChatGPT Login Problems – Effective Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-google-apps-with-chatgpt-assistance/"><u>Unlocking Google Apps with ChatGPT Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unpacking-ai-limitations-and-why-it-cant-be-a-complete-writer-replacement/"><u>Unpacking AI Limitations and Why It Can't Be a Complete Writer Replacement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11-missing-bluetooth-problem-easy-steps-to-get-it-working-again/"><u>Windows 11 Missing Bluetooth Problem? Easy Steps to Get It Working Again!</u></a></li>
 </ul></div>
 

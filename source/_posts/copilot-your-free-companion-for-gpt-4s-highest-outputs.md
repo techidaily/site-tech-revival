@@ -1,7 +1,7 @@
 ---
 title: Copilot, Your Free Companion for GPT-4's Highest Outputs
-date: 2024-10-18T17:16:17.907Z
-updated: 2024-10-22T18:19:53.701Z
+date: 2024-10-26T19:03:14.964Z
+updated: 2024-10-28T00:22:29.171Z
 tags:
   - chatgpt
   - open-ai
@@ -39,13 +39,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 
  After ChatGPT generates your prompts, read over them. One of the[issues with using ChatGPT](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) is occasionally it generates inaccurate information. If you’re making content that informs people, you should ensure that it is correct.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Copy the Text Into a Spreadsheet
 
 ![GoogleSheets-quotes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-quotes.jpg)
@@ -61,10 +54,10 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Google Sheets with quotes in one column and credits in another.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/googlesheets-remove-attirubtion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  First, widen column A to the right. Hover your cursor over the connecting edge of A and B until the cursor changes to arrows, then click and drag A column until you can see the ends of your content within the column width.
@@ -77,27 +70,27 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Google Sheets with Quotes and Attribution labels.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/labelledgoogledocs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now it’s time to put labels in the first row. This allows Canva to attribute your spreadsheet values to its bulk creation system later.
 
  Label**A1** with “QUOTES” or the type of content that’s there, like “SONGS,” “PASSAGES,” or “TESTIMONIALS.” In**B1** —and any further columns—label it with the content type, ensuring the label is different. We’re going to use “ATTRIBUTION,” but you could use “CREDIT,” “CUSTOMER,” “ARTIST,” or whatever suits your content.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Save Your Sheet as a CSV File
 
 ![Google Sheets saving options.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/saveas-csv.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  CSV stands for Comma-Separated Values which allows your content to be saved in a structured table ready for input into other programs.
 
@@ -115,30 +108,30 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva template design](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-template-design.jpg)
 
- Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Add elements around the edges of your design, leaving enough empty space for your text. You could add your logo, images, a background, or decorative patterns.
 
 ## 7\. Add Text Placeholders
 
 ![Canva design with placeholder text.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/placeholder-text-canva.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Select the**Text** tool and write placeholders for your labels. Place them where your text will go on the design. Remember to give yourself space to accommodate different lengths of content.
@@ -146,13 +139,6 @@ It’s a very simple process, and you’ll want to do it again and again.
  Choose a font for quoted text and another for the attribution text. Set a general font size and color, but you may need to change these after the designs are generated.
 
  If you want different designs for the same content, you can create more than one template design here. Select**Add a page** beneath your artboard to add a new design.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Bulk Create Your Content
 
@@ -170,17 +156,38 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 ![Canva's Bulk Create checkboxes.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/apply-data-canva-bulk-create.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You’ll see a list of all the content to be applied with checkboxes next to each item. To remove any text items, uncheck the box next to it. If you’re happy with all the content, keep them all checked and select**Generate Pages** . Ensure you don't have a pop-up blocker on as your designs will open in a new tab.
 
 ## 9\. Review and Edit Your Designs
 
 ![Canva bulk designs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/canva-bulk-designs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After generation, your designs appear on their own page in a new tab. Scroll to view them all. If you applied Bulk Create to more than one design, you’ll have alternate designs for each set of text.
 
  Now comes the most laborious part of bulk creation. Go through each design to review and edit it. Although they’ve each been created under the same parameters, some text may not fit correctly or in aesthetically pleasing ways. Resize or move the text to best fit each design.
 
  At this point you can also add emphasis to individual words with extra colors, bold or italics, or change the font for certain words or phrases. This isn’t possible to do with Bulk Create.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Save Your Bulk-Created Designs
 
@@ -191,13 +198,6 @@ It’s a very simple process, and you’ll want to do it again and again.
 ![Bulk designs on Mac Finder window](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bulk-designs-on-mac.jpg)
 
  You can add your bulk content to a social media scheduling app, like Hootsuite or Later, to save even more time and to ensure regular posting. Bulk designs are great for weekly or monthly posts of a similar type, for example, Monday Motivation or monthly calendar posts.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bulk Create Content With Canva and ChatGPT
 
@@ -218,16 +218,18 @@ It’s a very simple process, and you’ll want to do it again and again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-4-ways-to-record-internal-android-audio-no-rooting/"><u>[New] 2024 Approved 4 Ways to Record Internal Android Audio (No Rooting)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ative-ways-to-insert-youtube-content-in-presentations-for-2024/"><u>4 Creative Ways to Insert YouTube Content in Presentations for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/a-complete-guide-to-aspect-ratios-about-youtube-videosshortsads-for-2024/"><u>A Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-aiff-to-mp4-at-no-cost-move-quickly-and-easily-using-movavis-tools/"><u>Convert AIFF to MP4 at No Cost - Move Quickly and Easily Using Movavi's Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertissez-votre-fichier-wmv-en-format-avi-sans-frais-gratuit-avec-movavi/"><u>Convertissez Votre Fichier WMV en Format AVI Sans Frais - Gratuit Avec Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-completa-de-alteracion-visual-con-windows-o-mac/"><u>Guía Completa De Alteración Visual Con Windows O Mac</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-list-of-free-high-quality-video-playback-apps-pcmobile/"><u>In 2024, Comprehensive List of Free, High-Quality Video Playback Apps PC/Mobile</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-radiance-in-android-video-editing/"><u>In 2024, Radiance in Android Video Editing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/losungen-fur-haufig-auftretende-probleme-mit-dvds-wenn-sie-nicht-funktionieren/"><u>Lösungen Für Häufig Auftretende Probleme Mit DVDs: Wenn Sie Nicht Funktionieren</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/streamlining-sound-creation-the-6-most-user-friendly-free-online-auditory-editing-tools/"><u>Streamlining Sound Creation The 6 Most User-Friendly, Free Online Auditory Editing Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tutto-insieme-sul-macchina-windows-11-scorciatoie-rapide-per-la-creazione-di-screenshots-selettivi/"><u>Tutto Insieme Sul Macchina Windows 11: Scorciatoie Rapide per La Creazione Di Screenshots Selettivi</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-tips-for-effective-mov-file-saving-on-windows-11/"><u>[New] 2024 Approved Tips for Effective MOV File Saving on Windows 11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-offer-top-business-cloud-solutions-for-2024/"><u>[Updated] Best Offer Top Business Cloud Solutions for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-how-to-spark-interest-with-unique-channel-names/"><u>[Updated] In 2024, How to Spark Interest With Unique Channel Names</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-commercial-side-of-casual-videography/"><u>[Updated] The Commercial Side of Casual Videography</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-troubleshooting-steps-to-address-and-resolve-auto-gpt-setup-difficulties/"><u>6 Troubleshooting Steps to Address and Resolve Auto-GPT Setup Difficulties</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-strategies-for-smoother-real-time-dialogue-with-chatgpt/"><u>7 Strategies for Smoother Real-Time Dialogue with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722140060602-ais-influence-on-transforming-dreams-into-tangible-outcomes-discover-how/"><u>AI's Influence on Transforming Dreams Into Tangible Outcomes - Discover How</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722134339961-chatgpt-desktop-unavailable-yet-discover-exceptional-open-source-tools-to-bridge-the-gap/"><u>ChatGPT Desktop Unavailable Yet? Discover Exceptional Open Source Tools to Bridge the Gap.</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro Max System Issues? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/immerse-in-pc-game-moments-capture-perfectly/"><u>Immerse in PC Game Moments - Capture Perfectly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlocking-viewership-steps-for-your-video-to-be-a-top-pick-on-vimeo/"><u>In 2024, Unlocking Viewership Steps for Your Video to Be a Top Pick on Vimeo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/war-thunders-fps-boost-hacks-unleash-high-speed-tactics/"><u>War Thunder's FPS Boost Hacks: Unleash High-Speed Tactics</u></a></li>
 </ul></div>
 

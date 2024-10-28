@@ -1,7 +1,7 @@
 ---
 title: "Machine Mastery: Comparing Translations of Two Giants"
-date: 2024-09-21T09:38:37.975Z
-updated: 2024-09-23T08:29:24.287Z
+date: 2024-10-23T06:02:04.018Z
+updated: 2024-10-28T06:44:40.470Z
 tags:
   - chatgpt
   - open-ai
@@ -42,18 +42,25 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -68,23 +75,16 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Install and Use an Extension
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
@@ -123,5 +123,23 @@ thumbnail: https://thmb.techidaily.com/181c9294f45ce68f5f0d47527972b22bf8dde75db
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-navigating-powerpoints-voice-recognition-lands-market/"><u>[New] Navigating PowerPoint's Voice Recognition Lands Market</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unveiling-video-content-strategies-on-youtube/"><u>[Updated] 2024 Approved Unveiling Video Content Strategies on YouTube</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-se-2022-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone SE (2022) to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-deep-dive-into-why-openais-chief-executive-supports-increased-artificebot-governance-and-its-significance/"><u>A Deep Dive Into Why OpenAI's Chief Executive Supports Increased Artificebot Governance and Its Significance</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clearing-up-playback-problems/"><u>Clearing Up Playback Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-13t-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi 13T Pro? Try These Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-beyond-wirecast-top-video-broadcasting-software/"><u>In 2024, Beyond WireCast Top Video Broadcasting Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-strategies-to-bypass-edgenuity-videos-with-minimal-hassle/"><u>In 2024, Strategies to Bypass Edgenuity Videos with Minimal Hassle</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-users-struggle-with-receiving-android-texts-discover-the-solution-here/"><u>IPhone Users Struggle with Receiving Android Texts? Discover the Solution Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722066118566-revolutionizing-online-content-unveiling-eight-major-impacts-of-artificial-intelligence-chatbots/"><u>Revolutionizing Online Content: Unveiling Eight Major Impacts of Artificial Intelligence Chatbots.</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-enhancing-frame-rates-and-reducing-lag-in-watch-dogs-legion/"><u>Ultimate Guide to Enhancing Frame Rates & Reducing Lag in Watch Dogs: Legion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-list-of-advanced-ai-search-engines-to-navigate-the-internet-seamlessly/"><u>Ultimate List of Advanced AI Search Engines to Navigate the Internet Seamlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-potential-confidentiality-issues-with-chatgpt-usage/"><u>Understanding Potential Confidentiality Issues with ChatGPT Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-ai-art-mastery-8-expert-image-generation-prompts-for-dall-e-3/"><u>Unlock AI Art Mastery: 8 Expert Image Generation Prompts for DALL-E 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-development-mastery-combining-chatgpt-and-vs-code-ideas/"><u>Unlock Development Mastery: Combining ChatGPT and VS Code Ideas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-the-8-key-uses-of-chatgpt-in-business-operations/"><u>Unlocking Potential: The 8 Key Uses of ChatGPT in Business Operations</u></a></li>
+</ul></div>
 

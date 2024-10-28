@@ -1,7 +1,7 @@
 ---
 title: "The End of an Era: Why Modern ChatGPT Jailbreaks Fail - Insights and Analysis"
-date: 2024-10-18T18:41:32.698Z
-updated: 2024-10-22T16:41:40.257Z
+date: 2024-10-24T18:11:05.761Z
+updated: 2024-10-28T12:30:33.104Z
 tags:
   - chatgpt
   - open-ai
@@ -59,24 +59,37 @@ We finish the show with the following recommendations:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-profit-on-youtube-the-ultimate-list-of-top-business-channels/"><u>[Updated] 2024 Approved Creating Profit on YouTube The Ultimate List of Top Business Channels</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-choice-optimal-free-srt-translation-services/"><u>[Updated] In 2024, Mastering Choice Optimal Free SRT Translation Services</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/audiences-take-gopro-hero5-footage-for-2024/"><u>Audience's Take GoPro Hero5 Footage for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-mov-files-into-flv-format-for-free-with-onlinemoveflv-tool/"><u>Convert MOV Files Into FLV Format for Free with OnlineMOVEFLV Tool.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/converter-gratuito-on-line-de-wma-a-ogg-pelo-movavi/"><u>Converter Gratuito On-Line: De WMA a OGG Pelo Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dts-movietoweb/"><u>DTS 오프로드 바이트를 비용 부과 없이 가상 격리의 안내 - MovieToWeb</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/inside-toms-world-of-advanced-computing-solutions/"><u>Inside Tom's World of Advanced Computing Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rapid-and-smooth-video-conversion-to-mp4-free-online-mp4-changeover-service/"><u>Rapid & Smooth Video Conversion to MP4 Free Online | MP4 Changeover Service</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-7-premium-cell-phones-deals-for-seniors-in-2/"><u>Top 7 Premium Cell Phones Deals for Seniors in 2#</u></a></li>
-<li><a href="https://win-community.techidaily.com/ultimate-speedhack-speedy-mass-moves-in-windows-11-wireless-networks/"><u>Ultimate Speedhack: Speedy Mass Moves in Windows 11 Wireless Networks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726227050549-movavi/"><u>ロコミがお勧めする最適なMovaviソフトウェア選びガイド</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-8-budget-friendly-video-calls-on-windows-and-mac/"><u>[Updated] 2024 Approved Ultimate Guide 8 Budget-Friendly Video Calls on Windows & Mac</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings-for-2024/"><u>[Updated] From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-strategies-for-uninterrupted-facebook-broadcasts/"><u>[Updated] In 2024, Essential Strategies for Uninterrupted Facebook Broadcasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-make-highlights-on-instagram-3-ways/"><u>[Updated] In 2024, How to Make Highlights on Instagram [3 Ways]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparative-speeds-chatgpt-4s-laggard-legacy-vs-gpt-35/"><u>Comparative Speeds: ChatGPT-4's Laggard Legacy vs GPT-3.5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-presentations-with-chatgpt-a-step-by-step-guide/"><u>Crafting Presentations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deep-dive-into-ai-intelligence-understanding-the-variance-among-gpt-4-turbo-and-o-versions/"><u>Deep Dive Into AI Intelligence: Understanding the Variance Among GPT-4, Turbo, & O Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-ai-categories-insights-into-public-vs-private-vs-personal-ai/"><u>Demystifying AI Categories - Insights Into Public vs Private vs Personal AI</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/diagnosing-and-repairing-scsi-issues-in-mkv-files-addressing-illegal-request-and-hardware-error-problems/"><u>Diagnosing & Repairing SCSI Issues in MKV Files – Addressing 'Illegal Request' & 'Hardware Error' Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-these-stunningly-surprising-emoji-insights/"><u>Discover These Stunningly Surprising Emoji Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-linguistics-tech-nlp-vs-ml/"><u>Dissecting Linguistics Tech: NLP vs ML</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-skycraft-copilot-pro-explained/"><u>Elevate Your Skycraft - Copilot Pro Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/emerging-ai-trends-reshaping-job-dynamics/"><u>Emerging AI Trends: Reshaping Job Dynamics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excel-exclusive-capabilities-beyond-chatgpts-reach/"><u>Excel Exclusive: Capabilities Beyond ChatGPT's Reach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-top-9-most-effective-chatgpt-extensions-for-immediate-use/"><u>Explore the Top 9 Most Effective ChatGPT Extensions for Immediate Use</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-smart-8frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Smart 8FRP Lock</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-inshot-a-guide-to-video-transition-techniques/"><u>Mastering Inshot A Guide to Video Transition Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-blue-screen-error-0xc0000142/"><u>Overcoming Blue Screen Error 0XC0000142</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-halts-loophole-exploitation-impact-explored/"><u>Steam Halts Loophole Exploitation: Impact Explored</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

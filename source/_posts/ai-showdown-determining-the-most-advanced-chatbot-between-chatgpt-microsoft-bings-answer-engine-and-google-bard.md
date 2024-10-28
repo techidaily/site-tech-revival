@@ -1,7 +1,7 @@
 ---
 title: "AI Showdown: Determining the Most Advanced Chatbot Between ChatGPT, Microsoft Bing's Answer Engine & Google Bard"
-date: 2024-09-12T02:42:11.304Z
-updated: 2024-09-18T07:29:40.566Z
+date: 2024-10-25T11:23:18.832Z
+updated: 2024-10-27T16:55:29.172Z
 tags:
   - chatgpt
   - open-ai
@@ -53,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -74,28 +88,15 @@ thumbnail: https://thmb.techidaily.com/26ea0e5365722a01980097a318d774f00c8708e1d
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
 
@@ -109,27 +110,27 @@ Here's the source screenshot.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
@@ -156,5 +157,21 @@ Here's the source screenshot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-revenue-war-diary-dailymotion-vs-youtube-monetization-strategies/"><u>[New] Revenue War Diary Dailymotion vs YouTube Monetization Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-art-of-amusement-master-memes-with-kapwing/"><u>[Updated] 2024 Approved The Art of Amusement – Master Memes with Kapwing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-converting-yt-to-igtv-3-effective-methods-for-2024/"><u>[Updated] Converting YT to IGTV 3 Effective Methods for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-error-messages-for-startup-services-on-windows/"><u>Deciphering Error Messages for Startup Services on Windows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-the-power-of-ai-with-chatgpt-now-on-your-android-device/"><u>Experience the Power of AI with ChatGPT, Now on Your Android Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-best-7-ai-programs-to-excel-in-your-math-studies/"><u>Explore the Best 7 AI Programs to Excel in Your Math Studies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-paper-clippers-predicament-its-connection-to-advanced-ai-systems/"><u>Exploring the Paper Clipper's Predicament: Its Connection to Advanced AI Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fend-off-fears-with-gpt-assisted-adventure-tips/"><u>Fend Off Fears with GPT-Assisted Adventure Tips?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-reveals-bard-set-for-ai-battle-against-chatgpt/"><u>Google Reveals 'Bard', Set for AI Battle Against ChatGPT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photography-elite-line-up-best-6-4k-dslr-options-reviewed/"><u>In 2024, Photography Elite Line-Up Best 6 4K DSLR Options Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-ae-essentials-the-most-loved-templates/"><u>Instagram AE Essentials The Most Loved Templates</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook/"><u>The Art of Persuasion on Facebook A Beginner’s & Expert Playbook</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-deals-on-affordable-motherboards-for-games/"><u>Unbeatable Deals on Affordable Motherboards for Games</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-no-sound-in-avidemux-dont-worry-weve-got-you-covered/"><u>Updated No Sound in Avidemux? Dont Worry, Weve Got You Covered</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Battle for Brilliance: Is Advanced Gemini or Plush ChatGPT+ Better?"
-date: 2024-10-21T17:14:50.784Z
-updated: 2024-10-22T19:26:12.546Z
+date: 2024-10-23T09:02:00.817Z
+updated: 2024-10-27T18:24:26.563Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
  We asked ChatGPT to help us in building our French vocabulary. To be more specific, we told ChatGPT about our proficiency in French and that we wanted recommendations for common words used in daily life. It quickly gave us a list of 20 common words and phrases and their meanings.
@@ -46,29 +53,22 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Practice Conversational Skills
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
  ChatGPT understood our prompt immediately and gave us a sentence in French. We then responded to that sentence, and the conversation kept going from there. Throughout this conversation, it critiqued our conversational skills and provided small suggestions.
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Learn Grammar and Syntax
 
@@ -78,16 +78,22 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Quizzes and tests are a common feature of most language learning apps. It helps you to check your progress and determine your weak points. ChatGPT is quite good at creating such tests, but you must be creative with the prompts.
 
@@ -99,6 +105,13 @@ Here's how you can create your own personalized tests:
 2. Choose a difficulty level such as beginner, intermediate, or advanced.
 3. Determine the test length by specifying the number of questions. You can also set a time limit, but you'll have to time yourself.
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Cultural Learning
 
@@ -115,13 +128,6 @@ Here's how you can create your own personalized tests:
  You also get detailed explanations, examples, and cultural insights about the language and the people who speak it. Language apps can do this to some extent, but ChatGPT Plus is more versatile and flexible.
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
@@ -142,20 +148,16 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-effortless-live-chat-setup-via-whatsapp-browser-on-your-laptop/"><u>[New] 2024 Approved Effortless Live Chat Setup via WhatsApp Browser on Your Laptop</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-top-ranked-instagram-tunes-and-secrets-for-exceptional-call-alerts-for-2024/"><u>[New] Top-Ranked Instagram Tunes & Secrets for Exceptional Call Alerts for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-optimizing-television-access-to-facebook-events/"><u>[Updated] 2024 Approved Optimizing Television Access to Facebook Events</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-future-of-virtual-game-viewership-income-for-2024/"><u>[Updated] Future of Virtual Game Viewership Income for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-implementing-youtubes-custom-markup-guide-for-2024/"><u>[Updated] Implementing YouTube's Custom Markup Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/3g2avimovavi/"><u>3G2/AVIファイルをゼロコストで変換:Movaviの簡単ガイド</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-rainbow-six-extraction-crash-issues-in-pc-gaming/"><u>Fixes for Rainbow Six Extraction Crash Issues in PC Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-conversion-3gp-to-wmv-with-movavi-convert-files-fast-and-easy/"><u>Free Online Conversion: 3GP to WMV with Movavi - Convert Files Fast and Easy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratitude-for-your-valuable-collaboration-a-warm-obrigado/"><u>Gratitude for Your Valuable Collaboration: A Warm Obrigado</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuit-generateurs-deffets-glitchs-and-meilleurstop-8/"><u>Gratuit, Générateurs D'effets Glitchs, and Meilleurs/Top 8.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/nytt-ansikte-nynakteri-discovera-din-flytande-rost-i-ett-frisparkande-video-en-runrig-voice-changer-tutorial/"><u>Nytt Ansikte, Nynäkteri? Discovera Din Flytande Röst I Ett Frisparkande Video - En Runrig Voice Changer Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-selection-of-gopro-storage-solutions-high-quality-memory-cards-reviewed/"><u>The Ultimate Selection of GoPro Storage Solutions: High-Quality Memory Cards Reviewed</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-footage-with-premiere-pros-advanced-techniques-for-360-editing-for-2024/"><u>Transform Your Footage with Premiere Pro's Advanced Techniques for 360° Editing for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformation-jpeg-en-png-gratuite-sur-internet-utilisez-les-services-de-movavi/"><u>Transformation JPEG en PNG Gratuite Sur Internet - Utilisez Les Services De MOVAVI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/yakuza-3-remaster-update-resolves-previous-pc-system-errors/"><u>Yakuza 3 Remaster Update Resolves Previous PC System Errors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-low-cost-gopro-cameras-where-to-find-them/"><u>[New] Low-Cost GoPro Cameras Where to Find Them</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rime-hashtag-combinations-driving-view-count-higher/"><u>[New] Prime Hashtag Combinations Driving View Count Higher</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-complete-assessment-hero4-black-potential/"><u>2024 Approved Complete Assessment Hero4 Black Potential</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamline-screen-scans-your-essential-toolkit-for-vid-saving/"><u>2024 Approved Streamline Screen Scans Your Essential Toolkit for Vid Saving</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-governance-oversight-organizations/"><u>AI Governance: Oversight Organizations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-learning-journey-your-first-stop-at-9-tool-communities/"><u>AI Learning Journey: Your First Stop at 9 Tool Communities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-assisted-poem-writing-techniques-using-chatgpt/"><u>AI-Assisted Poem Writing Techniques Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-8-ai-enhanced-browser-addons-for-boosting-efficiency/"><u>Best 8 AI Enhanced Browser Addons for Boosting Efficiency</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-retreat-from-macos-sierras-latest-upgrade/"><u>How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-lava-blaze-curve-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Lava Blaze Curve 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/writing-impactful-gpt-3-prompts-a-guide-for-health-and-fitness-buffs/"><u>Writing Impactful GPT-3 Prompts: A Guide for Health and Fitness Buffs</u></a></li>
 </ul></div>
 

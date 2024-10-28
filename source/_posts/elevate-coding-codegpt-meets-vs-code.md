@@ -1,7 +1,7 @@
 ---
 title: "Elevate Coding: CodeGPT Meets VS Code"
-date: 2024-10-16T17:15:01.382Z
-updated: 2024-10-22T16:30:02.033Z
+date: 2024-10-23T17:44:59.459Z
+updated: 2024-10-27T17:00:04.918Z
 tags:
   - chatgpt
   - open-ai
@@ -58,20 +58,33 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
 
@@ -83,28 +96,15 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. AI Classification Framework
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
@@ -112,10 +112,10 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
@@ -139,16 +139,20 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-deep-dive-into-youtube-writers-workshop-space-for-2024/"><u>[New] A Deep Dive Into YouTube’ Writers' Workshop Space for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tep-by-step-guide-distribute-your-youtube-collection-for-2024/"><u>[New] Step-by-Step Guide Distribute Your YouTube Collection for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-engaging-youtube-scripts-with-chatgpt-a-step-by-step-guide/"><u>Crafting Engaging YouTube Scripts with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-the-extraordinary-functionality-of-snapchats-my-ai-here-are-eight-convincing-factors/"><u>Explore the Extraordinary Functionality of Snapchat's My AI - Here Are Eight Convincing Factors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flaskful-formula-freaks-for-2024/"><u>FLASKFUL FORMULA FREAKS for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your OnePlus Nord 3 5G | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723201208684-laptop-microphone-woes-find-out-how-to-get-it-working-again/"><u>Laptop Microphone Woes? Find Out How to Get It Working Again!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/samsung-galaxy-s24-ultra-vs-oneplus-12-navigating-through-the-rugged-terrain-of-tech-giants-titans/"><u>Samsung Galaxy S24 Ultra Vs. OnePlus 12: Navigating Through the Rugged Terrain of Tech Giants' Titans</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-chatgpt-the-perfect-co-op-for-rpg-sessions/"><u>Unlock the Potential of ChatGPT: The Perfect Co-Op for RPG Sessions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-microsoft-copilot-beats-chatgpt-a-closer-look-at-4-key-benefits/"><u>Why Microsoft Copilot Beats ChatGPT - A Closer Look at 4 Key Benefits</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-comprehensible-guide-to-efficient-zoom-capturing-for-2024/"><u>[New] Comprehensible Guide to Efficient Zoom Capturing for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-choreographing-pictures-and-tunes-in-video/"><u>[Updated] Choreographing Pictures & Tunes in Video</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-mobiles-for-optimizing-dji-content/"><u>[Updated] In 2024, Cutting-Edge Mobiles for Optimizing DJi Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-hashtag-hacks-for-amplifying-gamer-content/"><u>2024 Approved Hashtag Hacks for Amplifying Gamer Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clarifying-misinformation-the-non-existence-of-official-chatgpt-for-windows-and-its-rogue-counterparts/"><u>Clarifying Misinformation: The Non-Existence of Official ChatGPT for Windows, and Its Rogue Counterparts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-creators-vs-computational-composition-six-winning-strategies/"><u>Content Creators Vs. Computational Composition: Six Winning Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-the-turing-challenge-the-future-of-artificebased-intelligence/"><u>Decoding the Turing Challenge: The Future of Artificebased Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-how-chatgpt-can-transform-you-into-a-powerful-data-analyst-in-6-ways/"><u>Discover How ChatGPT Can Transform You Into a Powerful Data Analyst in 6 Ways</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-etiquette-for-interacting-with-ai-assistants-siri-alexa/"><u>Effective Etiquette for Interacting With AI Assistants (Siri, Alexa)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-tips-for-building-persuasive-presentations-with-the-help-of-chatgpt/"><u>Effective Tips for Building Persuasive Presentations with the Help of ChatGPT</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-find-and-update-your-microsoft-bluetooth-driver-on-various-windows-versions-xp-vista-7-8-10-11/"><u>How to Find and Update Your Microsoft Bluetooth Driver on Various Windows Versions (XP, Vista, 7, 8, 10, 11)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-cost-effective-obs-tuning-steps/"><u>In 2024, Cost-Effective OBS Tuning Steps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/peak-creative-synopsis-thorough-studio-review-for-the-year-2023-for-2024/"><u>Peak Creative Synopsis Thorough Studio Review for the Year 2023 for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformar-videos-mp4-a-avi-sin-costo-mediante-el-servicio-web-de-movavi/"><u>Transformar Videos MP4 a AVI Sin Costo Mediante El Servicio Web De Movavi</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/xbox-fanatics-manual-perfect-your-screenshot-skills-for-2024/"><u>Xbox Fanatics' Manual Perfect Your Screenshot Skills for 2024</u></a></li>
 </ul></div>
 

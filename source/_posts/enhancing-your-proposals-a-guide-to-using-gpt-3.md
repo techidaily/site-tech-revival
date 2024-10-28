@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Proposals: A Guide to Using GPT-3"
-date: 2024-10-19T18:13:30.225Z
-updated: 2024-10-22T16:35:07.103Z
+date: 2024-10-26T11:08:06.126Z
+updated: 2024-10-27T19:26:02.469Z
 tags:
   - chatgpt
   - open-ai
@@ -46,19 +46,6 @@ thumbnail: https://thmb.techidaily.com/b478b0983a67f36010d885714312f70db32d5d3a2
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
@@ -68,10 +55,10 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
@@ -87,10 +74,10 @@ For example, below is Bing Chat's effort at a simple limerick.
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Accurate Are Bing Chat and ChatGPT
@@ -105,13 +92,6 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
 By contrast, the ChatGPT response was to admit its limitations.
@@ -119,6 +99,13 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
@@ -132,16 +119,16 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -160,6 +147,13 @@ By contrast, the ChatGPT response was to admit its limitations.
  Additionally, the ability to run on browsers other than Edge may make it more appealing to some.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Chatbots Are Here to Stay
 
@@ -180,24 +174,22 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-engaging-youtube-viewers-effective-interaction-strategies-for-2024/"><u>[New] Engaging YouTube Viewers Effective Interaction Strategies for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-enhancing-gaming-experience-with-steam-switch-control/"><u>[New] Enhancing Gaming Experience with Steam Switch Control</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-ultimate-tips-for-iphones-hdr-images-for-2024/"><u>[New] Ultimate Tips for iPhone's HDR Images for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-dive-into-color-management-with-ae-luts/"><u>[Updated] 2024 Approved Dive Into Color Management with AE LUTs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-framing-your-story-with-effective-titles/"><u>[Updated] Framing Your Story with Effective Titles</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-optimizing-your-snapchat-ads-for-maximum-monetization/"><u>[Updated] In 2024, Optimizing Your Snapchat Ads for Maximum Monetization</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-screens-the-essential-online-record-guide/"><u>[Updated] Streamline Your Screens The Essential Online Record Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-techniques-from-video-to-audio-downloads-on-pinterest/"><u>[Updated] Ultimate Techniques From Video to Audio Downloads on Pinterest</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-babbage-pioneering-ai-assessment-in-the-new-era/"><u>Beyond Babbage: Pioneering AI Assessment in the New Era</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-boundaries-top-8-ai-trends/"><u>Beyond Boundaries: Top 8 AI Trends</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-these-6-cost-free-alternatives-to-openais-sora-ai-technology/"><u>Discover These 6 Cost-Free Alternatives to OpenAI's Sora AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-ai-tool-or-trap-for-disinformation/"><u>Generative AI: Tool or Trap for Disinformation?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-proficient-is-chatgpt-in-addressing-arithmetic-and-algebra-queries/"><u>How Proficient Is ChatGPT in Addressing Arithmetic and Algebra Queries?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-farm-frenzy-fun-pack-the-ultimate-agritainment-guide/"><u>In 2024, Farm Frenzy Fun-Pack The Ultimate Agritainment Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-creative-thinking-generating-topics-using-mind-maps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Topics Using Mind Maps & ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-setup-for-an-unrestricted-conversational-ai-hosting-freedomgpt-on-microsofts-os/"><u>Step-by-Step Setup for an Unrestricted Conversational AI: Hosting FreedomGPT on Microsoft's OS</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-hot-40i-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix Hot 40i</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-effective-gpt-3-prompts-that-help-you-combat-online-interruptions/"><u>Top 8 Effective GPT-3 Prompts That Help You Combat Online Interruptions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-teachers-should-welcome-ai-in-the-classroom-discover-eight-compelling-reasons/"><u>Why Teachers Should Welcome AI in the Classroom: Discover Eight Compelling Reasons</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-pushing-perceptions-with-the-advanced-dell-p2715q-display-review/"><u>[New] 2024 Approved Pushing Perceptions with the Advanced Dell P2715Q Display Review</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/automation-revolution-how-rpa-is-shaping-the-modern-workplace-whitepaper-by-abbyy/"><u>Automation Revolution: How RPA Is Shaping the Modern Workplace Whitepaper by ABBYY</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/effective-ways-to-watch-multiple-youtube-videos-at-one-time/"><u>Effective Ways to Watch Multiple YouTube Videos at One Time</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-a-detailed-comparison-of-openais-gpt-1-gpt-2-gpt-3-and-gpt-4/"><u>Exploring the Evolution: A Detailed Comparison of OpenAI's GPT-1, GPT-2, GPT-3 & GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-superiority-of-googles-gemini-vs-chatgpt/"><u>Exploring the Superiority of Google's Gemini Vs. ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exposing-the-invisible-voices-of-yt-community-for-2024/"><u>Exposing the Invisible Voices of YT Community for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/generative-ai-enabler-or-echo-chamber/"><u>Generative AI: Enabler or Echo Chamber?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/government-strategies-for-regulating-advanced-ai-technologies-top-four-approaches/"><u>Government Strategies for Regulating Advanced AI Technologies: Top Four Approaches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-chatgpt-transforms-the-art-of-crafting-novels-a-guide-with-9-key-points/"><u>How ChatGPT Transforms the Art of Crafting Novels: A Guide with 9 Key Points</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-cancel-and-delete-your-chatgpt-registration-a-step-by-step-guide/"><u>How To Cancel & Delete Your ChatGPT Registration: A Step-By-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-video-creation-for-all-ages-crafting-your-first-10-youtube-videos/"><u>In 2024, Video Creation for All Ages Crafting Your First 10 YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insight-into-grok-ai-from-elon-musk-purpose-functionality-and-costing-details/"><u>Insight Into Grok AI From Elon Musk - Purpose, Functionality & Costing Details</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leverage-chatgpts-intelligence-10-methods-for-enhancing-your-linkedin-career-searches/"><u>Leverage ChatGPT's Intelligence: 10 Methods for Enhancing Your LinkedIn Career Searches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-guide-eliminating-game-interruptions-in-fifa-21-for-pc-users/"><u>Master Guide: Eliminating Game Interruptions in FIFA 21 for PC Users</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-blur-faces-like-a-pro-best-free-apps-for-anonymous-media/"><u>New In 2024, Blur Faces Like a Pro Best Free Apps for Anonymous Media</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-note-30-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix Note 30 Pro on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-m14-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy M14 5G Phone With/Without IMEI Number</u></a></li>
 </ul></div>
 

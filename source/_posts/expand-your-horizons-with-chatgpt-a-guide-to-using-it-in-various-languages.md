@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Horizons with ChatGPT: A Guide to Using It in Various Languages"
-date: 2024-10-15T19:13:41.315Z
-updated: 2024-10-22T16:51:25.405Z
+date: 2024-10-25T10:17:02.805Z
+updated: 2024-10-28T09:55:35.884Z
 tags:
   - chatgpt
   - open-ai
@@ -30,10 +30,10 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
 * [How to Create AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-create-aiprm-prompts)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -61,10 +61,10 @@ thumbnail: https://thmb.techidaily.com/9aed4fec120c663cc65ec80b49fa66d7e36432e1c
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
@@ -106,14 +106,14 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
 
- Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
 ## How to Create AIPRM Prompts
 
@@ -128,10 +128,10 @@ To create a custom AIPRM prompt:
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
@@ -145,10 +145,10 @@ To create a custom AIPRM prompt:
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your prompt is saved, you can find it under the**Own** tab.
@@ -172,18 +172,19 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-beginner-friendly-iphone-screen-recording-techniques/"><u>[New] Beginner-Friendly Iphone Screen Recording Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-top-8-sites-with-easy-access-to-free-3d-text-psd-images-for-2024/"><u>[New] Top 8 Sites with Easy Access to Free 3D Text PSD Images for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essentials-of-youtubes-cc-license-for-filmakers-for-2024/"><u>[Updated] The Essentials of YouTube's CC License for Filmakers for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-the-ultimate-7-tiktok-emojis-for-fans-and-newbies/"><u>[Updated] The Ultimate 7 TikTok Emojis for Fans and Newbies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertissez-votre-fichier-amv-a-la-video-mp4-gratuitement-en-ligne-solution-de-movavi/"><u>Convertissez Votre Fichier AMV À La Vidéo MP4 Gratuitement en Ligne - Solution De Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-ogg-to-gif-transformation-on-the-web-get-started-with-movavis-free-tool/"><u>Effortless OGG to GIF Transformation on the Web, Get Started With Movavi's Free Tool!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-picks-the-leading-18-webcam-capture-apps-for-2024/"><u>Expert Picks The Leading 18 Webcam Capture Apps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-image-converter-transform-gifs-into-jpeg-format-via-web/"><u>Free Image Converter - Transform GIFs Into JPEG Format via Web</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-convert-files-from-f4v-to-mp4-using-movavi-no-cost-solution/"><u>Free Online Converter: Convert Files From .f4v to .mp4 Using Movavi - No Cost Solution</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-y55s-5g-2023-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo Y55s 5G (2023) Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/orfjpeg-movavi/"><u>ORF至JPEG無限制線上轉換 – 利用Movavi解答方案</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scarica-conversione-online-gratuita-da-pgm-a-jpg-con-movavi/"><u>Scarica Conversione Online Gratuita Da PGM a JPG Con Movavi</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-end-to-end-guide-to-picsart-for-2024/"><u>The End-to-End Guide to PicsArt for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-in-depth-training-on-googles-advanced-speech-to-text-feature/"><u>[Updated] In 2024, In-Depth Training on Google's Advanced Speech to Text Feature</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-find-angry-dog-bark-effect/"><u>2024 Approved Find Angry Dog Bark Effect</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-google-chats-mastery-key-elements-4-ways/"><u>2024 Approved Google Chats Mastery Key Elements, #4 Ways</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/does-chatgpt-refine-its-responses-by-engaging-in-talks-with-users/"><u>Does ChatGPT Refine Its Responses by Engaging in Talks with Users?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/free-online-avi-to-wmv-converter-fast-and-easy-with-movavi/"><u>Free Online AVI to WMV Converter - Fast and Easy with Movavi</u></a></li>
+<li><a href="https://article-posts.techidaily.com/funflicks-full-evaluation-and-instructions-24/"><u>FunFlicks Full Evaluation & Instructions '24</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-se-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone SE</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfect-picture-creation-discover-these-top-5-android-editors/"><u>In 2024, Perfect Picture Creation Discover These Top 5 Android Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tackling-chatgpt-compliance-issues-evaluating-updates-to-google-news-delivery-and-strategies-for-best-mobile-internet-on-your-next-holiday-adventure/"><u>Tackling ChatGPT Compliance Issues, Evaluating Updates to Google News Delivery & Strategies for Best Mobile Internet on Your Next Holiday Adventure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-language-models-googles-palm-2-compared-to-openais-gpt-4-explained/"><u>The Evolution of Language Models: Google's PaLM 2 Compared to OpenAI's GPT-4 Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-supercharged-self-improvement-using-ai-conversations/"><u>The Ultimate Guide to Supercharged Self-Improvement Using AI Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-essential-ai-terminology-explained/"><u>The Ultimate List of Essential AI Terminology Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tips-for-storing-your-chatgpt-dialogues-for-easy-access-later-on/"><u>The Ultimate Tips for Storing Your ChatGPT Dialogues for Easy Access Later On</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-reliable-solutions-to-prevent-vrchat-from-crashing-on-your-computer/"><u>Top 8 Reliable Solutions to Prevent VRChat From Crashing on Your Computer</u></a></li>
 </ul></div>
 

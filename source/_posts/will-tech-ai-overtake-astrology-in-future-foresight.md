@@ -1,7 +1,7 @@
 ---
 title: Will Tech AI Overtake Astrology in Future Foresight?
-date: 2024-09-12T04:40:53.480Z
-updated: 2024-09-17T20:43:19.919Z
+date: 2024-10-21T10:03:56.436Z
+updated: 2024-10-28T01:30:07.364Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Vector Databases Help Boost AI
 
  Vector embeddings are important components in training various types of AI models. Having a specialized database that can store, index, and query vector embeddings is essential to maximize the benefits of using vector embeddings. Furthermore, vector databases boost your AI by being a fast, reliable, and scalable database that can continuously help grow and train an AI model.
@@ -62,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 * **Anomaly Detection:** By recording actions as embeddings, an[AI model can make the world more secure](https://www.makeuseof.com/ai-cybersecurity-making-world-more-secure/) by detecting anomalies and certain outliers based on the norm. AI Anomaly detection is now a popular tool for fraud detection, system monitoring, and network intrusion.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How a Vector Database Works
@@ -79,16 +80,10 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -96,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -125,5 +127,26 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-10-viral-tweets-dominating-social-media-for-2024/"><u>[New] 10 Viral Tweets Dominating Social Media for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-scopesight-appraisal-review/"><u>[New] In 2024, ScopeSight Appraisal Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-modern-gamers-guide-understanding-the-latest-on-bandicam/"><u>[New] In 2024, The Modern Gamer's Guide Understanding the Latest on Bandicam</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-designing-intriguing-instagram-post-thumbnails/"><u>[Updated] In 2024, Designing Intriguing Instagram Post Thumbnails</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-toolkit-disabling-background-noise-during-gmeets-for-2024/"><u>[Updated] The Ultimate Toolkit Disabling Background Noise During GMeets for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-leading-techniques-for-video-transformation-youtube-to-mpeg/"><u>2024 Approved Leading Techniques for Video Transformation - YouTube-to-MPEG</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-writing-techniques-ethical-use-of-ai-in-content-creation/"><u>Cutting-Edge Writing Techniques: Ethical Use of AI in Content Creation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-corsairs-h80i-version-2-secure-your-free-driver-download-here/"><u>Install Corsair's H80I Version 2 - Secure Your Free Driver Download Here!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-apex-legends-network-problems-fixes-and-tips/"><u>Resolving Apex Legends Network Problems: Fixes and Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-great-code-off-challenge-comparing-chatgpts-capabilities-against-gemini-for-developer-excellence/"><u>The Great Code Off Challenge: Comparing ChatGPT's Capabilities Against Gemini for Developer Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-paperclip-maximizer-problem-on-developments-in-artificnial-intelligence/"><u>The Impact of Paperclip Maximizer Problem on Developments in Artificnial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-intricacies-of-on-device-ai-and-how-it-operates/"><u>The Intricacies of On-Device AI and How It Operates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-palette-of-the-future-creating-with-ai-and-chatgpt/"><u>The Palette of the Future: Creating with AI & ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-quest-for-true-ai-can-computers-ever-convincingly-imitate-humanity/"><u>The Quest for True AI: Can Computers Ever Convincingly Imitate Humanity?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-strategies-leveraging-chatgpt-for-efficient-freelancing/"><u>Top Strategies: Leveraging ChatGPT for Efficient Freelancing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-emotion-analysis-with-artificial-intelligence-systems/"><u>Understanding Emotion Analysis with Artificial Intelligence Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-spike-in-gpt-hacks/"><u>Understanding the Spike in GPT Hacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-creative-magic-in-your-rpgs-with-chatgpt-innovative-tips-for-dynamic-dandd-encounters/"><u>Unleash Creative Magic in Your RPGs with ChatGPT: Innovative Tips for Dynamic D&D Encounters</u></a></li>
+</ul></div>
 

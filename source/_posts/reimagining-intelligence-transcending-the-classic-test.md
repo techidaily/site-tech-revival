@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Intelligence: Transcending the Classic Test"
-date: 2024-09-15T02:00:28.056Z
-updated: 2024-09-18T06:37:56.499Z
+date: 2024-10-24T00:53:20.545Z
+updated: 2024-10-28T12:22:16.363Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In this LinkedIn Learning course, creative expert Dave Birss shows how Generative AI tools present a huge opportunity to advance your career. As Birss points out, humans usually use technology to automate repetitive activities. Thanks to AI, you can now use tech to automate thinking.
 
  Automated thinking is often considered a considerable threat, especially for writers and creatives. If AI can think for you, you're replaceable at your job. But you could argue that AI works to your advantage if you use it responsibly and effectively. AI mastery has become one of the[essential tips for writers to succeed in the age of AI content](https://www.makeuseof.com/tips-writers-to-succeed-ai-content/) , just as internet proficiency has become a must-have skill over the years.
@@ -61,13 +75,6 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
@@ -97,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
  The lessons also explain how AI helps you perform better in specific jobs. For instance, teachers who want to save time should review the videos on Creating Essay, Multiple Choice, Fill in the Blanks, and True or False Questions. Meanwhile, digital marketing professionals will find the videos on Copywriting, SEO and Keywords, and Scripts for Social Media beneficial.
 
  If you're job hunting, check out these videos for job seekers. You'll learn[how to use ChatGPT to write your resume](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , create a personal bio, search for jobs, and email a potential employer. While the videos only give an overview, they're sure to spark ideas on how the AI tool can be helpful for your job search.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Learn AI Prompt Engineering Today
 
@@ -117,5 +131,21 @@ thumbnail: https://thmb.techidaily.com/8408c21b7cbd2d9f3e166f2aa500c9f7130f2d3b3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-unlocking-the-power-of-google-meet-recordings-two-key-tactics/"><u>[New] 2024 Approved Unlocking the Power of Google Meet Recordings Two Key Tactics</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-tecno-phantom-v-fold-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Tecno Phantom V Fold PC | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engaging-with-gpt-3-a-strategy-for-openai/"><u>Engaging with GPT-3: A Strategy for OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-typing-experience-how-to-use-bings-ai-in-android-keyboards/"><u>Enhancing Typing Experience: How to Use Bing's AI in Android Keyboards</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enter-the-realm-of-ai-with-bing-sign-up-steps/"><u>Enter the Realm of AI with Bing: Sign Up Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/entrepreneurs-must-explore-top-5-ai-innovations/"><u>Entrepreneurs Must Explore Top 5 AI Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-gptplus-membership-benefits/"><u>Evaluating GPT+ Membership Benefits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excels-scalability-triumphs-over-ai-dialogue-systems/"><u>Excel's Scalability Triumphs Over AI Dialogue Systems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-10-steps-to-perfectly-plated-food-vids/"><u>In 2024, 10 Steps to Perfectly Plated Food Vids</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Oppo Bootloader Easily</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/live-webcam-capture-in-vlc-media-player-for-2024/"><u>Live Webcam Capture in VLC Media Player for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steelseries-arctis-headphones-9-or-ex-solving-the-mic-not-functioning-problem/"><u>SteelSeries Arctis Headphones (9 or eX) - Solving the Mic Not Functioning Problem</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ifa-scoreboard-tactics-in-infographics/"><u>Top FIFA Scoreboard Tactics in Infographics</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/top-video-downloading-tools-for-windows-10-64-bit-and-32-bit-free-trials-available/"><u>Top Video Downloading Tools for Windows 10 (64-Bit & 32-Bit) - Free Trials Available</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Credibility of ChatGPT: Honesty vs Misinformation"
-date: 2024-10-16T16:53:12.279Z
-updated: 2024-10-22T16:28:23.634Z
+date: 2024-10-22T08:42:43.243Z
+updated: 2024-10-28T06:33:55.222Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -69,16 +69,10 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -104,22 +98,22 @@ thumbnail: https://thmb.techidaily.com/d3b9fa260885ec727c421c1f7392781651fabce3d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>[New] In 2024, Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-effortlesswebcamcapturewithyoucam/"><u>[Updated] 2024 Approved EffortlessWebcamCaptureWithYouCam</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-how-to-personalize-and-change-ringtones-on-your-iphone/"><u>[Updated] In 2024, How to Personalize and Change Ringtones on Your iPhone?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration/"><u>2024 Approved Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/act-now-comprehensive-tips-for-leveraging-gpt-4-with-chatgpt-right-away/"><u>Act Now: Comprehensive Tips for Leveraging GPT-4 with ChatGPT Right Away</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artistic-alliance-against-tech-titans-the-case-of-sarah-silverman-vs-openaimeta/"><u>Artistic Alliance Against Tech Titans: The Case of Sarah Silverman Vs. OpenAI/Meta</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoid-these-fakes-why-authentic-ai-experience-matters-on-the-mac-platform/"><u>Avoid These Fakes: Why Authentic AI Experience Matters on the Mac Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-the-code-why-writers-prefer-human-interaction/"><u>Beyond the Code: Why Writers Prefer Human Interaction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-machines-pass-the-turing-test-an-exploration-of-ais-limits-and-possibilities/"><u>Can Machines Pass the Turing Test? An Exploration of AI's Limits and Possibilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-by-openai-an-in-depth-look-at-its-top-8-limitations-and-problems/"><u>ChatGPT by OpenAI: An In-Depth Look at Its Top 8 Limitations and Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-revolutionizes-your-study-notes-strategy/"><u>ChatGPT Revolutionizes Your Study Notes Strategy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-unveiled-a-familys-perspective/"><u>ChatGPT Unveiled: A Family's Perspective</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-artistic-excellence-at-your-fingertesps-the-definitive-10-vector-editors/"><u>In 2024, Artistic Excellence at Your Fingertesps The Definitive 10 Vector Editors</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-youtubes-photo-publishing/"><u>In 2024, Navigating YouTube's Photo Publishing</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-oneplus-nord-n30-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On OnePlus Nord N30 5G? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/snap-away-the-best-cams-for-novice-photographers/"><u>Snap Away The Best Cams for Novice Photographers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-gaming-transformed-by-tech/"><u>[New] 2024 Approved Gaming Transformed by Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-exclusive-insights-into-making-memorable-instagram-movies-for-2024/"><u>[New] Exclusive Insights Into Making Memorable Instagram Movies for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-best-screen-recorders-for-schedule-recording-and-how-to/"><u>[Updated] In 2024, Best Screen Recorders for Schedule Recording & How-To</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-to-exceptional-e-learning-sites-excluding-udemy/"><u>[Updated] Ultimate Guide to Exceptional E-Learning Sites Excluding Udemy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-ways-to-command-chatgpt-voice-based-control-methods/"><u>5 Ways to Command ChatGPT: Voice-Based Control Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-look-at-prompt-engineering-as-a-profession-and-crucial-aspects-to-evaluate/"><u>A Comprehensive Look at Prompt Engineering as a Profession and Crucial Aspects to Evaluate</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-your-workflow-creating-multiple-content-designs-via-canva-and-chatgpt/"><u>Accelerate Your Workflow: Creating Multiple Content Designs via Canva & ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/automated-intelligence-insight-contrasting-gpt-auto-vs-conversational-ai/"><u>Automated Intelligence Insight: Contrasting GPT Auto vs Conversational AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-hype-what-is-truthgpt/"><u>Beyond the Hype: What Is TruthGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bots-banter-in-the-binary-battleground/"><u>Bots Banter in the Binary Battleground</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721983608326-dont-install-macchatgpt-uncovered-risks/"><u>Don't Install MacChatGPT: Uncovered Risks!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-camera-basics-top-8-recommendations/"><u>In 2024, Mastering Camera Basics Top 8 Recommendations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/non-retweet-strategies-for-mobile-video-shares/"><u>Non-Retweet Strategies for Mobile Video Shares</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-download-guide-essential-hp-drivers-compatible-with-windows-10/"><u>Quick-Download Guide: Essential HP Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-infinix-smart-7-hd-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-snapchats-my-ai-is-not-simply-a-gimmick-explore-six-surprising-advantages/"><u>Why Snapchat's My AI Is Not Simply a Gimmick: Explore Six Surprising Advantages</u></a></li>
 </ul></div>
 

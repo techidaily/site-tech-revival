@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2024-10-19T17:23:48.077Z
-updated: 2024-10-22T18:25:37.709Z
+date: 2024-10-23T04:07:38.772Z
+updated: 2024-10-27T16:47:22.684Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
@@ -63,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
@@ -115,24 +109,22 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/roven-picks-leading-capture-cards-for-enthusiast-streamers/"><u>[New] Proven Picks Leading Capture Cards for Enthusiast Streamers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-syncing-scores-youtube-musics-role-in-multimedia-content/"><u>[New] Syncing Scores YouTube Music's Role in Multimedia Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-complete-examination-a-full-picture-of-bublcams-360-degree-scope/"><u>[Updated] In 2024, Complete Examination A Full Picture of Bublcam's 360-Degree Scope</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-sdr-to-hdr-ultimate-guide-on-sdr-to-hdr-video-conversion/"><u>[Updated] SDR to HDR Ultimate Guide on SDR to HDR Video Conversion</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m4a-aiff/"><u>無障礙 M4A 到 AIFF 格式轉換器 - 馬華的自由服務</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/bildfusion-fuhre-mehrere-sicherungskopien-zu-einer-einheit-vereint/"><u>Bildfusion: Führe Mehrere Sicherungskopien Zu Einer Einheit Vereint</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-wmv-files-to-mov-without-cost-explore-the-power-of-movavis-cloud-based-video-converters/"><u>Convert WMV Files to Mov Without Cost: Explore the Power of Movavi's Cloud-Based Video Converters</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-how-to-use-movie-maker-on-windows-11/"><u>In 2024, How to Use Movie Maker on Windows 11</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-awesome-valorant-thumbnails-for-youtube-content/"><u>Mastering Awesome Valorant Thumbnails for YouTube Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/migracion-sin-costo-de-archivos-wav-a-flv-usando-la-plataforma-de-movavi-en-linea/"><u>Migración Sin Costo De Archivos WAV a FLV Usando La Plataforma De Movavi en Línea</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-your-digital-content-with-movavis-advanced-multimedia-software-solutions/"><u>Protect Your Digital Content with Movavi's Advanced Multimedia Software Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-frame-drops-and-speech-lag-issues-in-naraka-bladepoint-a-comprehensive-guide/"><u>Solving Frame Drops & Speech Lag Issues in Naraka: Bladepoint – A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-20-best-chatgpt-prompts-on-github/"><u>The 20 Best ChatGPT Prompts on GitHub</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-14-pro-max-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 14 Pro Max Activation Lock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformer-des-fichiers-bmp-en-tiff-sans-frais-solutions-de-conversion-avec-movavi/"><u>Transformer Des Fichiers BMP en TIFF Sans Frais - Solutions De Conversion Avec Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-video-mpeg-in-webm-senza-costi-su-movavi-servizi-di-conversione-gratuita-online/"><u>Trasforma Video MPEG in WEBM Senza Costi Su Movavi - Servizi Di Conversione Gratuita Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/vob-3gp-movavi/"><u>VOBファイルから自由にダウンロード: 3GP形式への簡単変換 - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-11/"><u>동영상 인코더 기법에 대한 TOP 11 프로그램 선보기: 현재 가장 좋은 방법</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/midiogg-movavi/"><u>オンラインでフリーMIDI形式からOGGへの変換 - Movavi</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-webcam-technology-boosting-audio-fidelity/"><u>[Updated] 2024 Approved Best Webcam Technology Boosting Audio Fidelity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>2024 Approved Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-gpt-variants-how-they-excel-beyond-chatgpt/"><u>Advanced GPT Variants: How They Excel Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-job-application-game-using-chatgpt-for-resume-creation/"><u>Boost Your Job Application Game Using ChatGPT for Resume Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bot-privacy-hazards-essential-3-insights-to-consider/"><u>Bot Privacy Hazards: Essential 3 Insights to Consider</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-driven-techniques-for-successful-interview-prep/"><u>ChatGPT-Driven Techniques for Successful Interview Prep</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-comedy-capabilities-an-insight-into-whether-machines-can-truly-be-funny/"><u>ChatGPT's Comedy Capabilities: An Insight Into Whether Machines Can Truly Be Funny</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-conversational-agent-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Conversational Agent: Snapchat's My AI Vs. ChatGPT</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y78-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y78 5G</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-officejet-5740-printer-up-and-running-driver-downloads-for-windows-11-10-and-8/"><u>Get Your HP Officejet 5740 Printer Up and Running: Driver Downloads for Windows 11, 10 & 8</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hubs-for-high-quality-vr-watching/"><u>In 2024, Hubs for High-Quality VR Watching</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-hiding-while-livestreaming-on-instagram/"><u>In 2024, The Art of Hiding While Livestreaming on Instagram</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722037178983-tired-of-waiting-for-chatgpts-official-release-here-are-fantastic-free-alternatives/"><u>Tired of Waiting for ChatGPT's Official Release? Here Are Fantastic Free Alternatives!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-simple-steps-to-disconnect/"><u>Worried About Your Data with ChatGPT? Learn the Simple Steps to Disconnect</u></a></li>
 </ul></div>
 

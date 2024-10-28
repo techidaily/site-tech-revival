@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Implementing and Operating Plug-Ins for ChatGPT"
-date: 2024-10-18T18:41:44.261Z
-updated: 2024-10-22T18:38:12.978Z
+date: 2024-10-25T03:28:41.675Z
+updated: 2024-10-28T01:01:34.434Z
 tags:
   - chatgpt
   - open-ai
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
  Next, we will look at other metrics and capabilities and compare the responses.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Large Language Models (LLMs)
 
  The beating heart of any AI chatbot is the LLM. These are the underlying datasets used to generate human-like responses to prompts. Each tool uses a different LLM, as described below.
@@ -72,16 +65,16 @@ As you can see, HuggingChat answered this easily.
 
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Summarizing Articles
 
@@ -91,9 +84,23 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
@@ -106,20 +113,13 @@ HuggingChat's summary looked like this:
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
@@ -131,18 +131,18 @@ HuggingChat's summary looked like this:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 Shakespeare himself would be impressed with both of these!
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Security and Privacy
 
@@ -157,10 +157,10 @@ Shakespeare himself would be impressed with both of these!
  One thing to note is that HuggingChat seems to work fine with an account. This is useful if you want to minimize the privacy risks associated with the platforms.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is Best: HuggingChat or ChatGPT?
@@ -198,21 +198,20 @@ Shakespeare himself would be impressed with both of these!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-discover-the-power-of-sonic-content-for-insta-stories-for-2024/"><u>[New] Discover the Power of Sonic Content for Insta Stories for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-brainless-battles-top-8-zombie-shooter-contenders/"><u>[New] In 2024, Brainless Battles Top 8 Zombie Shooter Contenders</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-smooth-sailing-with-instagram-fixes-for-frustrations/"><u>[New] Smooth Sailing with Instagram Fixes for Frustrations</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-bridging-gaps-building-relationships-with-your-audience/"><u>[Updated] In 2024, Bridging Gaps Building Relationships with Your Audience</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-swift-skillz-best-high-speed-games-for-laptopsmobile/"><u>[Updated] In 2024, Swift Skillz Best High-Speed Games for Laptops/Mobile</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-programs-designing-animated-3d-worlds/"><u>2024 Approved Premier Programs Designing Animated 3D Worlds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-fantasy-realms-with-language-models/"><u>Building Fantasy Realms with Language Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-risk-of-gpt-in-banking-and-pc-security-breaches/"><u>Decoding the Risk of GPT in Banking & PC Security Breaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-workflow-unlocking-the-potential-of-auto-gpt-in-8-simple-steps/"><u>Elevate Your Workflow: Unlocking the Potential of Auto-GPT in 8 Simple Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/genuine-chatgpt-strategies-vs-deceptions/"><u>Genuine ChatGPT Strategies vs Deceptions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-does-iphone-13-handle-moisture-and-liquid-exposure/"><u>How Does iPhone 13 Handle Moisture and Liquid Exposure?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c22-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C22 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/recognizing-and-avoiding-bingchatgpt-coin-deception-schemes-online/"><u>Recognizing and Avoiding BingChatGPT Coin Deception Schemes Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-pick-in-affordable-laptops-how-the-299-hp-stream-outshines-budget-competitors-insights-experts/"><u>Top Pick in Affordable Laptops: How the $299 HP Stream Outshines Budget Competitors – Insights Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-twitters-new-feature-the-power-of-x-checkmarks-insights-by-linus-sebastian/"><u>Unlocking Twitter's New Feature: The Power of X Checkmarks - Insights by Linus Sebastian</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-stealth-instagram-story-viewing-guide-for-desktops-android-and-ios/"><u>[Updated] 2024 Approved Stealth Instagram Story Viewing Guide for Desktops, Android & iOS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-economic-planning-for-your-upcoming-music-video/"><u>[Updated] Economic Planning for Your Upcoming Music Video</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-implementing-gradual-intensity-boost-in-audio-projects/"><u>[Updated] Implementing Gradual Intensity Boost in Audio Projects</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-joined-melodies-our-tiktok-duet-for-2024/"><u>[Updated] Joined Melodies Our TikTok Duet for 2024</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-7ipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 7/iPad | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-silent-broadcasts-expert-advice-for-solving-twitch-streaming-sound-issues/"><u>Overcoming Silent Broadcasts: Expert Advice for Solving Twitch Streaming Sound Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trustworthiness-of-chatgpt-fact-or-fiction/"><u>Trustworthiness of ChatGPT: Fact or Fiction?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-turing-test-how-close-are-we-to-creating-ai-that-outsmarts-humans/"><u>Understanding the Turing Test: How Close Are We to Creating AI that Outsmarts Humans?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-potential-top-7-ways-gpt-improves-workday-effectiveness/"><u>Unleash Potential: Top 7 Ways GPT Improves Workday Effectiveness</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-ai-potential-innovative-ways-to-leverage-gpt-3-in-openai-playground/"><u>Unleashing AI Potential: Innovative Ways to Leverage GPT-3 in OpenAI Playground</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-the-power-of-claude-3/"><u>Unleashing the Power of Claude 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-creative-possibilities-with-these-5-amazing-free-ai-imagery-tools/"><u>Unlock Creative Possibilities with These 5 Amazing Free AI Imagery Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-online-whodunits-explore-these-4-smart-detective-puzzles-and-games/"><u>Unraveling Online Whodunits: Explore These 4 Smart Detective Puzzles and Games</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725284927863-dvd/"><u>おなじみDVDコピーエラー：発生しやすい問題と解決法</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mkvavi/"><u>ダイナミックなオンライン動画フォーマット変更 - 今すぐMKVをAVIに自由に変換！</u></a></li>
 </ul></div>
 

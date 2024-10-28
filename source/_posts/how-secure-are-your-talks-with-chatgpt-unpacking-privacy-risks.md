@@ -1,7 +1,7 @@
 ---
 title: How Secure Are Your Talks with ChatGPT – Unpacking Privacy Risks
-date: 2024-10-18T19:10:40.045Z
-updated: 2024-10-22T19:07:05.161Z
+date: 2024-10-21T06:57:50.459Z
+updated: 2024-10-28T00:54:52.516Z
 tags:
   - chatgpt
   - open-ai
@@ -51,16 +51,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the[FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
@@ -68,16 +62,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
@@ -88,16 +76,16 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Delete Your Information
 
  Under GDPR, you have the right to be forgotten (also called the right of erasure, or the right to deletion). Californians have the same right, due to the[California Consumer Privacy Act (CCPA)](https://www.makeuseof.com/what-is-the-california-consumer-privacy-act/) . So, at least in theory, if you are in Europe or the state of California, you should be able to delete your personal information from OpenAI's servers. You can delete your OpenAI account entirely if you are based somewhere else, but it's unclear if the company would get rid of your data.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is It Time to Regulate ChatGPT?
 
@@ -106,10 +94,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
@@ -131,24 +119,18 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac/"><u>[New] 2024 Approved From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-spreading-smiles-building-a-solid-foundation-in-gif-humor/"><u>[New] Spreading Smiles Building a Solid Foundation in GIF Humor</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-hiding-hashtags-on-social-media-platforms/"><u>[New] The Art of Hiding Hashtags on Social Media Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-steps-to-ensure-whole-sound-in-fb-video-playbacks/"><u>[Updated] Steps to Ensure Whole Sound in FB Video Playbacks</u></a></li>
-<li><a href="https://fox-search.techidaily.com/1-quick-and-simple-guide-migrate-all-your-data-from-hotmail-to-gmail-seamlessly/"><u>1. Quick & Simple Guide: Migrate All Your Data From Hotmail to Gmail Seamlessly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-methods-for-incorporating-links-into-tiktok-bios/"><u>2024 Approved Expert Methods for Incorporating Links Into TikTok Bios</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-virtual-worlds-choosing-metavisors-wisely/"><u>2024 Approved Mastering Virtual Worlds Choosing Metavisors Wisely</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-x5-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco X5 Pro to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-we-trust-what-chatgpt-says/"><u>Can We Trust What ChatGPT Says?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystified-artificial-intelligence/"><u>Demystified Artificial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-constructing-the-best-personalized-instructions-for-chatgpt/"><u>Expert Tips: Constructing the Best Personalized Instructions for ChatGPT</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-oppo-reno-8t-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Oppo Reno 8T Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-vivo-t2x-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Vivo T2x 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-personalized-writing-teaching-chatgpt-your-style/"><u>Mastering Personalized Writing: Teaching ChatGPT Your Style</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-best-software-preserve-export-and-distribute-your-chatgpt-interactions/"><u>The Best Software: Preserve, Export, & Distribute Your ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/threefold-mastery-in-dialogue-unleashing-power-with-chatgpt-and-wolfram-alpha/"><u>Threefold Mastery in Dialogue: Unleashing Power with ChatGPT & Wolfram Alpha</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-truthgpt-the-revolutionary-ai-project-backed-by-elon-musk/"><u>Unveiling TruthGPT: The Revolutionary AI Project Backed by Elon Musk</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/utilizing-a-vpn-for-secure-gpt-dialogues/"><u>Utilizing a VPN for Secure GPT Dialogues?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-may-want-to-forego-a-gpt-phone-app/"><u>Why You May Want to Forego a GPT Phone App</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-vimeo-video-on-instagram-feed/"><u>[Updated] In 2024, Mastering Vimeo Video on Instagram Feed</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-depth-analysis-asus-proart-pa-329q-4k-monitor/"><u>[Updated] In-Depth Analysis Asus ProArt PA 329Q 4K Monitor</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-mastering-the-art-of-asmr-filmmaking/"><u>[Updated] The Path to Mastering the Art of ASMR Filmmaking</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-100-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 100 Pro Unlock Without Password</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722034585565-ai-and-intrigue-collide-immerse-yourself-in-these-amazing-online-detective-challenges/"><u>AI and Intrigue Collide: Immerse Yourself in These Amazing Online Detective Challenges</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722211646074-chatgpt-on-your-fingertips-how-to-get-the-cutting-edge-ios-application/"><u>ChatGPT on Your Fingertips - How to Get the Cutting-Edge iOS Application!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/missing-wireless-connection-restore-win10-adapter/"><u>Missing Wireless Connection: Restore Win10 Adapter</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know-for-2024/"><u>New Ready To Dive Into Photo Talking Videos? Heres What You Need To Know for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722174662729-top-9-chatgpt-add-ons-enhance-your-experience-today/"><u>Top 9 ChatGPT Add-Ons: Enhance Your Experience Today!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722122479428-unlock-the-power-of-conversation-learn-how-to-interact-with-chatgpt/"><u>Unlock the Power of Conversation: Learn How to Interact with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/visionary-ai-solutions-for-comprehensive-digital-queries/"><u>Visionary AI Solutions for Comprehensive Digital Queries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-chatgpt-isnt-a-substitute-for-professional-medical-advice-5-key-points/"><u>Why ChatGPT Isn't a Substitute for Professional Medical Advice: 5 Key Points</u></a></li>
 </ul></div>
 

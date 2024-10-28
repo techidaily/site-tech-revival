@@ -1,7 +1,7 @@
 ---
 title: "GPT ChatHub: Closure Status Inquiry"
-date: 2024-09-11T06:59:58.967Z
-updated: 2024-09-18T02:12:48.234Z
+date: 2024-10-21T04:29:49.597Z
+updated: 2024-10-27T17:21:57.195Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/4f6a39e9aacc54ee51fae61937dd3f2d46fe2285f
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -56,15 +63,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Expanded Knowledge Base and Cross-Chat Memory
@@ -80,6 +94,13 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -103,29 +124,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -146,5 +147,20 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-enhancing-clarity-and-comprehensibility-adding-on-screen-captions-in-video-projects/"><u>[New] In 2024, Enhancing Clarity & Comprehensibility Adding On-Screen Captions in Video Projects</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-5-alternative-editors-beyond-youtubes-limits/"><u>[New] Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-reviewing-bandicams-effectiveness-in-professional-video-editing/"><u>[Updated] In 2024, Reviewing Bandicam's Effectiveness in Professional Video Editing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-humor-hive-undead-jester-creators/"><u>2024 Approved Humor Hive Undead Jester Creators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-pro-audio-tech-review-exploring-the-top-6-stream-ready-mics/"><u>2024 Approved Pro Audio Tech Review Exploring the Top 6 Stream-Ready Mics</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-to-prearrange-photos-prior-to-creating-a-flipbook-using-flipbuildercom/"><u>How to Prearrange Photos Prior to Creating a FlipBook Using FlipBuilder.com</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-5-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-strategies-to-integrate-chatgpt-in-your-3d-printing-workflow/"><u>Step-by-Step Strategies to Integrate ChatGPT in Your 3D Printing Workflow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-flaws-that-arise-from-blind-trust-in-algorithms/"><u>The Flaws That Arise From Blind Trust in Algorithms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-for-enhanced-professional-assistance/"><u>The Ultimate Guide to Leveraging ChatGPT for Enhanced Professional Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-organizing-chatgpt-interactions-with-folders/"><u>The Ultimate Tutorial on Organizing ChatGPT Interactions with Folders</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-giants-palm-2-vs-gpt-4-deep-dive/"><u>Understanding AI Giants: PaLM 2 Vs. GPT-4 Deep Dive</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-ai-governance-identifying-authorities-for-effective-ai-management/"><u>Understanding AI Governance: Identifying Authorities for Effective AI Management</u></a></li>
+</ul></div>
 

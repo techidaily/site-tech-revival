@@ -1,7 +1,7 @@
 ---
 title: "How to Engage with OpenAI's Security Rewards: A Guide to Their Bug Bounty Program"
-date: 2024-10-17T19:26:47.134Z
-updated: 2024-10-22T17:45:02.227Z
+date: 2024-10-23T03:56:15.601Z
+updated: 2024-10-28T01:01:37.508Z
 tags:
   - chatgpt
   - open-ai
@@ -48,13 +48,6 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
@@ -62,15 +55,22 @@ The maximum reward you can earn is $20,000.
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here, you must fill in the following information:
 
@@ -87,19 +87,19 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -131,20 +131,22 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-capture-and-safeguard-periscope-videos-effectively/"><u>[Updated] 2024 Approved Capture & Safeguard Periscope Videos Effectively</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unshakeable-video-quality-best-stabilizers/"><u>[Updated] In 2024, Unshakeable Video Quality - Best Stabilizers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-a-guide-to-profitable-animated-fb-advertising-techniques/"><u>2024 Approved A Guide to Profitable, Animated FB Advertising Techniques</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/1726029888782-audacity/"><u>Audacityでの清潔なオーディオ出力: 不要な雑音カット手法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-video-formats-at-no-cost-with-movavis-mpeg-to-flv-tool/"><u>Convert Video Formats at No Cost with Movavi's MPEG to FLV Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-your-gif-videos-to-mp4-seamlessly-discover-the-top-17-cost-free-online-solutions/"><u>Convert Your GIF Videos to MP4 Seamlessly: Discover the Top 17 Cost-Free Online Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-gentle-volume-declines-using-logic-pro-for-2024/"><u>Crafting Gentle Volume Declines Using Logic Pro for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-12-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 12 Pro Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/selectionnez-les-meilleures-editions-lecteur-de-pdf-gratis-guide-2024/"><u>Sélectionnez Les Meilleures Éditions Lecteur De PDF Gratis: Guide 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-online-recording-of-webcamplusscreen-for-2024/"><u>Streamlining Online Recording of Webcam+Screen for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-i-file-ogg-in-m4a-gratuitamente-online-con-convertioggm4a/"><u>Trasforma I File OGG in M4A Gratuitamente Online Con Convertioggm4a</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/wat-bedrijfsvoorschriften-zijn-en-hoe-ze-verschillen-van-gebruiksvoorwaarden/"><u>Wat Bedrijfsvoorschriften Zijn en Hoe Ze Verschillen Van Gebruiksvoorwaarden</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/jection-free-aif-m4r-movavi/"><u>제공자를 사용하여 온라인으로 오브jection-Free AIF M4R 전환 - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/webpbmp-movavi/"><u>オンラインでの自由なWEBP画像からBMPへの変換 - Movaviサービス</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluation-report-elite-parrot-ar-drone-20/"><u>[New] Evaluation Report Elite Parrot AR Drone 2.0</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-premiere-e-lecture-label-lever/"><u>[New] Premiere E-Lecture Label Lever</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevate-your-vimeo-media-with-well-defined-chapters/"><u>[Updated] 2024 Approved Elevate Your Vimeo Media with Well-Defined Chapters</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-full-examination-evaluating-the-gecata-analyzer-for-2024/"><u>[Updated] Full Examination Evaluating the Gecata Analyzer for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unplugged-delight-your-guide-to-free-screen-free-games-for-android/"><u>[Updated] In 2024, Unplugged Delight Your Guide to Free Screen-Free Games for Android</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-fast-lane-to-sharing-playlists-online/"><u>[Updated] The Fast Lane to Sharing Playlists Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-innovative-ways-chatgpt-enhances-your-cooking-experience/"><u>7 Innovative Ways ChatGPT Enhances Your Cooking Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/7-parameters-that-define-quality-ai-assistants/"><u>7 Parameters That Define Quality AI Assistants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-beginners-tutorial-for-using-microsoft-copilot-on-apple-computers/"><u>A Beginner's Tutorial for Using Microsoft Copilot on Apple Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adjusting-excessive-load-alert-win-gpt-error/"><u>Adjusting Excessive Load Alert: Win GPT Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-revolution-how-tech-professionals-anticipate-changes-to-their-workflows/"><u>AI Revolution: How Tech Professionals Anticipate Changes to Their Workflows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/all-encompassing-guide-to-apples-advanced-artifice-intelligence-showcased-at-wwdc-24/"><u>All-Encompassing Guide to Apple’s Advanced Artifice Intelligence Showcased at WWDC 24</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/best-screenshots-programs-ranked-1-8-for-2024/"><u>Best Screenshots Programs Ranked #1-8 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-the-basics-discover-5-hidden-functions-of-chatgpt-for-enhanced-usage/"><u>Beyond the Basics: Discover 5 Hidden Functions of ChatGPT for Enhanced Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722113284055-beyond-words-evaluating-the-performance-of-chatgpt-and-google-translate-for-accurate-translations/"><u>Beyond Words: Evaluating the Performance of ChatGPT and Google Translate for Accurate Translations.</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo S18 Pro Phone Without Password?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-11-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 11 Pro</u></a></li>
 </ul></div>
 

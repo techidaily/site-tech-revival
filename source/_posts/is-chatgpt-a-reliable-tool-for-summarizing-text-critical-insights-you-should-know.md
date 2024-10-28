@@ -1,7 +1,7 @@
 ---
 title: Is ChatGPT a Reliable Tool for Summarizing Text? Critical Insights You Should Know
-date: 2024-09-14T07:30:05.068Z
-updated: 2024-09-17T21:14:00.011Z
+date: 2024-10-25T18:55:54.767Z
+updated: 2024-10-28T01:04:50.742Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,36 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
 
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
  Of course, by using AI to reward children when they say "please" or "thank you," you could condition your children to be more polite when interacting with humans. Shouting at and being abusive to your AI probably delivers a poor lesson in communication, whether the ChatGPT or Alexa has feelings or not.
 
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
@@ -61,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -86,5 +107,22 @@ thumbnail: https://thmb.techidaily.com/573a01f636332d7e5c995b169e7da5e56cb9c949c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-bypass-expenses-relish-films-anywhere-free-player/"><u>[New] 2024 Approved Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-flip-through-history-collecting-twitter-gifs-on-mobile/"><u>[New] 2024 Approved Flip Through History Collecting Twitter GIFs on Mobile</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-guide-to-share-youtube-link-on-instagram-story/"><u>[Updated] 2024 Approved Guide to Share YouTube Link on Instagram Story</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-quick-click-quest-the-art-of-facebook-id-reconnaissance-for-2024/"><u>[Updated] Quick Click Quest The Art of Facebook ID Reconnaissance for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-reel-in-the-action-top-strategies-for-recording-your-minecraft-sessions-on-a-mac-for-2024/"><u>[Updated] Reel in the Action Top Strategies for Recording Your Minecraft Sessions on a Mac for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12plus-5g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Realme 12+ 5G Phone without Google Account?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lost-dxgidll-in-win11-swift-recovery-steps-explored/"><u>Lost Dxgi.dll in Win11? Swift Recovery Steps Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/microsoft-copilot-installation-made-simple-for-macos/"><u>Microsoft Copilot: Installation Made Simple for macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-narratives-6-ways-to-leverage-chatgpt-in-rpgs/"><u>Navigating Narratives: 6 Ways to Leverage ChatGPT in RPGs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-landscape-of-ai-supervision-who-holds-responsibility-for-ensuring-ethical-ai/"><u>Navigating the Landscape of AI Supervision: Who Holds Responsibility for Ensuring Ethical AI?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-level-connectivity-drive-smart-with-chatgpt-voice-assistance-in-your-mercedes-benz/"><u>Next-Level Connectivity: Drive Smart with ChatGPT Voice Assistance in Your Mercedes-Benz</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pc-repair-tactics-powered-by-chatgpt-for-efficient-troubleshooting/"><u>PC Repair Tactics Powered by ChatGPT for Efficient Troubleshooting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pioneering-the-next-wave-of-ai-dialogue-systems-insights-into-post-chatgpt-generative-innovations/"><u>Pioneering the Next Wave of AI Dialogue Systems: Insights Into Post-ChatGPT Generative Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-integration-of-auto-gpt-with-ubuntu-a-comprehveiw/"><u>Seamless Integration of Auto-GPT with Ubuntu - A Comprehveiw</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleash-smooth-gaming-on-windows-eradicate-errors/"><u>Unleash Smooth Gaming on Windows, Eradicate Errors</u></a></li>
+</ul></div>
 

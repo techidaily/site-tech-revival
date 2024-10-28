@@ -1,7 +1,7 @@
 ---
 title: How Does GPT4All Achieve Its Results?
-date: 2024-10-19T17:45:02.259Z
-updated: 2024-10-22T18:11:09.209Z
+date: 2024-10-26T13:23:00.675Z
+updated: 2024-10-28T11:10:27.681Z
 tags:
   - chatgpt
   - open-ai
@@ -38,10 +38,10 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
  Furthermore, Read Aloud can speak in 37 different languages but will also try to auto-detect whatever language it's reading.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Personalized Responses
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
  That's a small example, but illustrates how you might shape ChatGPT's output towards your daily use, saving you time each day.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 ChatGPT Memory and Temporary Chat
@@ -73,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
 ![openai chatgpt memory options and management panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-chatgpt-memory-options-and-management-panel.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [OpenAI](https://help.openai.com/en/articles/8590148-memory-faq)
 
  Part of ChatGPT's Memory is the supposition you're talking to it about anything and everything. It gives an example of "You mention that you have a toddler and that she loves jellyfish. When you ask ChatGPT to help create her birthday card, it suggests a jellyfish wearing a party hat." That's cute, no doubt, but it's not the sort of information most folks are providing to ChatGPT regularly (at least, I assume not).
@@ -81,31 +88,11 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
  At the time of writing, ChatGPT Memory is only available to a small number of users, but the wider roll-out of this long-expected feature is due in 2024.
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Temporary Chat
 
  Now, when OpenAI launched ChatGPT's Memory feature, many were worried about the additional privacy implications. ChatGPT already uses a lot of data to continually train its models, and with the addition of memory, some were worried there would be no way to converse with ChatGPT privately.
 
 ![chatgpt temporary chat option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-temporary-chat-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/blog/memory-and-new-controls-for-chatgpt)
 
@@ -125,6 +112,13 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
 ![chatgpt shared links with share name option](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-shared-links-with-share-name-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Anyone with the link can view the ChatGPT conversation. Those with a ChatGPT account can continue the conversation, taking over from you (making it a somewhat collaborative process). Those without an account can just scroll through and see what transpired between you and the AI chatbot.
 
 <ins class="adsbygoogle"
@@ -142,16 +136,20 @@ thumbnail: https://thmb.techidaily.com/d44947af2d23263a61b2bb19233d3717a7fd17839
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-top-10-mobile-selections-efficiently-save-facebook-videos-on-android/"><u>[New] 2024 Approved Top 10 Mobile Selections Efficiently Save Facebook Videos on Android</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-a-journalistic-closing-statement-for-2024/"><u>[New] Crafting a Journalistic Closing Statement for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-proactive-gaming-enhancing-minecraft-through-ram-upgrade/"><u>[New] In 2024, Proactive Gaming Enhancing Minecraft Through RAM Upgrade</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-from-chats-to-files-the-methodical-approach-to-downloading-fb-video/"><u>[Updated] From Chats to Files The Methodical Approach to Downloading FB Video</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-content-detectors-dont-work-and-thats-a-big-problem/"><u>AI Content Detectors Don’t Work, and That’s a Big Problem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-conversation-kings-deciphering-top-generative-bot/"><u>AI Conversation Kings: Deciphering Top Generative Bot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-rivalry-unique-approach-to-shared-creative-task/"><u>AI Rivalry: Unique Approach to Shared Creative Task</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/avoid-installing-the-dangerous-google-bard-application-its-infested-with-viruses/"><u>Avoid Installing The Dangerous 'Google Bard' Application – It's Infested With Viruses</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-a54-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy A54 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premium-3d-playback-with-superior-blu-ray-systems-for-2024/"><u>Premium 3D Playback with Superior Blu-Ray Systems for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-shap-e-decoding-ai-transparency-tool/"><u>What Is SHAP E? Decoding AI Transparency Tool</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>[New] Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-decoding-youtubes-strategic-approach-to-short-form-video-promotion/"><u>2024 Approved Decoding YouTube's Strategic Approach to Short-Form Video Promotion</u></a></li>
+<li><a href="https://ai-video.techidaily.com/comparative-analysis-of-revenue-projections-amd-sets-higher-target-at-4-billion-while-nvidia-leads-the-race-with-a-40-billion-goal/"><u>Comparative Analysis of Revenue Projections: AMD Sets Higher Target at $4 Billion, While Nvidia Leads the Race with a $40 Billion Goal</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-ace-2-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 11</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-handling-exceptions/"><u>New In 2024, Handling Exceptions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professionals-picks-the-top-5-drones-to-invest-in-for-2024/"><u>Professional's Picks The Top 5 Drones to Invest In for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-hidden-potential-top-5-underrated-chatgpt-capabilities/"><u>Unlock Hidden Potential: Top 5 Underrated ChatGPT Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-seamless-conversational-flow-in-chatgpt-using-this-powerful-google-chrome-tool/"><u>Unlock Seamless Conversational Flow in ChatGPT Using This Powerful Google Chrome Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-potential-top-20-chatbot-prompts-for-gpt-on-github/"><u>Unlocking AI Potential: Top 20 Chatbot Prompts for GPT on GitHub</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-7-innovative-solutions-beyond-openais-chatgpt-mobile-offerings/"><u>Unveiling 7 Innovative Solutions Beyond OpenAI's ChatGPT Mobile Offerings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-ais-potential-to-enrich-mental-wellness-strategies/"><u>Unveiling AI's Potential to Enrich Mental Wellness Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-gptzero-your-tool-for-identifying-ai-produced-content/"><u>Unveiling GPTZero: Your Tool for Identifying AI-Produced Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/upgrading-your-tiktok-presence-mastering-number-adjustments/"><u>Upgrading Your TikTok Presence Mastering Number Adjustments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/weighing-up-should-i-choose-gptplus-membership/"><u>Weighing Up: Should I Choose GPT+ Membership?</u></a></li>
 </ul></div>
 

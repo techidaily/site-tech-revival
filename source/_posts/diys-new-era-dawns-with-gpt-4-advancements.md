@@ -1,7 +1,7 @@
 ---
 title: DIY's New Era Dawns With GPT-4 Advancements
-date: 2024-10-17T17:53:57.699Z
-updated: 2024-10-22T18:31:08.497Z
+date: 2024-10-21T23:31:54.623Z
+updated: 2024-10-27T16:46:00.559Z
 tags:
   - chatgpt
   - open-ai
@@ -45,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -60,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -77,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 **Download:** Skype for [Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -106,21 +112,24 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-prosperity-through-streaming-a-youtube-money-blueprint/"><u>[New] 2024 Approved Prosperity Through Streaming A YouTube Money Blueprint</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/uick-tips-to-create-dynamic-gifs-using-youtube-media/"><u>[New] Quick Tips to Create Dynamic GIFs Using YouTube Media</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-innovators-to-watch-leading-av-and-acoustic-artisans/"><u>[Updated] Innovators to Watch Leading Av & Acoustic Artisans</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-inside-track-full-adobe-cloud-storage-guide-and-why-other-solutions-matter/"><u>[Updated] Inside Track Full Adobe Cloud Storage Guide and Why Other Solutions Matter</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-peering-into-pixels-with-polaroids-camplus-action-device-for-2024/"><u>[Updated] Peering Into Pixels with Polaroid's Cam+ Action Device for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726224947973-movavii-tod-mov/"><u>在線MOVAvii 自由解碼器 - 完全免費的 TOD 到 MOV 影片格式變更</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/evaluating-djis-phantom-3-features/"><u>Evaluating DJI's Phantom 3 Features</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explicadas/"><u>Explicadas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuito-online-conversor-de-arquivos-ogg-pelo-movavi/"><u>Gratuito: Online Conversor De Arquivos OGG Pelo Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guia-paso-a-paso-para-realizar-un-acercamiento-de-pantalla-completa-con-capturas-de-pantalla-en-windows-11/"><u>Guía Paso a Paso Para Realizar Un Acercamiento De Pantalla Completa Con Capturas De Pantalla en Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-the-charm-of-darker-digital-images-for-2024/"><u>Master the Charm of Darker Digital Images for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximizing-energy-the-impressive-beatit-bt-d11-jump-starter-examined/"><u>Maximizing Energy: The Impressive Beatit BT-D11 Jump Starter Examined</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-movavi-software-opinies-en-voorkeur-van-zevenzijdigers-professionele-beoordelingen-gekozen/"><u>Top Movavi Software Opinies en Voorkeur Van Zevenzijdigers: Professionele Beoordelingen Gekozen</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-your-videos-seamlessly-try-our-no-cost-3gp-converter-today/"><u>Transform Your Videos Seamlessly: Try Our No-Cost 3GP Converter Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726222743181-aac-movavi/"><u>영화 및 오디오를 위한 제자금없는 안정적인 AAC 파일 매터리 변환: Movavi 사용법</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pcxbmp/"><u>オンラインでフリー: PCX画像のBMP変換を簡単に行う方法</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-most-admired-iphone-based-podcast-platforms/"><u>[New] Most Admired iPhone-Based Podcast Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-prime-top-10-audio-capture-software-for-spotify-users/"><u>[New] Prime Top 10 Audio Capture Software for Spotify Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-cutting-edge-screen-shifting-for-editors/"><u>[Updated] 2024 Approved Cutting-Edge Screen Shifting for Editors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-craft-individualized-farewell-soundtracks-without-spending/"><u>[Updated] Craft Individualized Farewell Soundtracks Without Spending</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-revisiting-video-broadcast-choices-post-wirecast/"><u>[Updated] Revisiting Video Broadcast Choices Post-Wirecast</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-download-final-cut-pro-for-free/"><u>2024 Approved How to Download Final Cut Pro for Free?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-personal-training-crafting-unique-workout-plans-with-ai-assistance/"><u>ChatGPT and Personal Training: Crafting Unique Workout Plans with AI Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-plus-upgrade-is-it-worth-your-subscription-dollars/"><u>ChatGPT Plus Upgrade: Is It Worth Your Subscription Dollars?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-calculations-explore-the-best-7-ai-tools-to-decode-mathematical-puzzles/"><u>Conquer Calculations: Explore the Best 7 AI Tools to Decode Mathematical Puzzles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-successful-interactions-with-gpt-3-5-essential-tips-for-writing-compelling-prompts/"><u>Crafting Successful Interactions with GPT-3: 5 Essential Tips for Writing Compelling Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customizing-conversations-with-chatgpt-crafting-a-bot-that-reflects-your-unique-voice/"><u>Customizing Conversations with ChatGPT: Crafting a Bot that Reflects Your Unique Voice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-operational-aspect-of-device-level-ai/"><u>Deciphering the Operational Aspect of Device-Level AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-artificial-intelligence-identifying-its-possible-threats/"><u>Demystifying Artificial Intelligence: Identifying Its Possible Threats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-how-artificial-intelligence-can-revolutionize-education-top-8-benefits-for-educators/"><u>Discover How Artificial Intelligence Can Revolutionize Education: Top 8 Benefits for Educators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-5-free-chatgpt-powered-tools-to-craft-professional-emails-and-inbox-summaries-effortlessly/"><u>Discover the Ultimate 5 Free ChatGPT-Powered Tools to Craft Professional Emails & Inbox Summaries Effortlessly</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/groundbreaking-shift-lg-ramps-up-mass-production-of-stunning-oleds-as-top-pick-for-latest-dell-xps-13-screen/"><u>Groundbreaking Shift: LG Ramps Up Mass Production of Stunning OLEDs as Top Pick for Latest Dell XPS 13 Screen</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-expert-guide-to-snagging-twitter-gifs-pc/"><u>In 2024, Expert Guide to Snagging Twitter GIFs (PC)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From Apple iPhone XS Max</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-dont-miss-out-4-best-ways-to-get-filmora-discount-codes-and-offers/"><u>New In 2024, Dont Miss Out! 4 Best Ways to Get Filmora Discount Codes and Offers</u></a></li>
 </ul></div>
 

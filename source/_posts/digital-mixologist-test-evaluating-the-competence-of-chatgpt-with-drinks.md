@@ -1,7 +1,7 @@
 ---
 title: "Digital Mixologist Test: Evaluating the Competence of ChatGPT with Drinks"
-date: 2024-10-19T19:04:07.959Z
-updated: 2024-10-22T19:30:07.879Z
+date: 2024-10-21T09:55:16.539Z
+updated: 2024-10-27T19:32:39.786Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -59,22 +72,15 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -86,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,18 +121,15 @@ thumbnail: https://thmb.techidaily.com/25b0e40b25535b4355b8cca4194992e02cab9c78a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-expert-zoom-alternatives-in-remote-work-software/"><u>[Updated] Expert Zoom Alternatives in Remote Work Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-unique-choir-compositions-as-your-smartphone-tones/"><u>[Updated] In 2024, Unique Choir Compositions as Your Smartphone Tones</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-apowersoft-revisited-comparative-review-of-screen-recording-tech/"><u>2024 Approved Apowersoft Revisited Comparative Review of Screen Recording Tech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726225098840-aump3-movavi/"><u>網路上免費移轉AU到MP3 - 利用Movavi的音頻格式轉換器</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/beat-coffee-stain-effects-with-ioss-complimentary-red-eye-fix-app-for-2024/"><u>Beat Coffee Stain Effects with iOS's Complimentary Red-Eye Fix App for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/capturing-a-full-view-iphone-filming-secrets-for-social-feeds-for-2024/"><u>Capturing a Full View IPhone Filming Secrets for Social Feeds for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/diypc/"><u>DIY方法：新PCへ完全データ転送テクニック</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-conversion-changing-aac-audio-files-into-flac-format-movavi/"><u>Free Online Conversion: Changing AAC Audio Files Into FLAC Format - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-media-file-converter-by-movavi-acesse-a-conversao-online-de-arquivos-mod-com-facilidade/"><u>Gratis Media File Converter by Movavi - Acesse a Conversão Online De Arquivos MOD Com Facilidade!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/son-dogusa-icin-secilmis-teknikler-ucretlestirmeye-yanlislarin-onerisi-sabitleme-programi/"><u>Son Doğuşa İçin Seçilmiş Teknikler: Ücretleştirmeye Yanlışların Önerisi Sabitleme Programı</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-mkv-videos-into-gif-format-over-the-internet-without-cost-a-guide-with-movavi-converter/"><u>Transform MKV Videos Into GIF Format Over the Internet Without Cost: A Guide with Movavi Converter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforme-sua-uniao-em-memoria-eterna-tecnicas-essenciais-para-um-foto-e-video-de-casamento-inesquecivel/"><u>Transforme Sua União Em Memória Eterna - Técnicas Essenciais Para Um Foto E Vídeo De Casamento Inesquecível!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/uncover-hidden-missing-emails-in-gmail-with-these-simple-techniques/"><u>Uncover Hidden Missing Emails in Gmail with These Simple Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-insider-tips-for-facebook-cover-video-mastery/"><u>[New] Insider Tips for Facebook Cover Video Mastery</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-reverse-playbacks-on-instavids/"><u>[Updated] In 2024, The Ultimate Guide to Reverse Playbacks on InstaVids</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-ensure-chatgpt-remembers-our-dialogue-a-step-by-step-guide/"><u>How To Ensure ChatGPT Remembers Our Dialogue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>In 2024, Seamless Live Broadcasting on Facebook A Simple Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/intuitive-explanations-of-ai/"><u>Intuitive Explanations of AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/key-factors-for-effective-and-reliable-bot-assisted-platforms/"><u>Key Factors for Effective and Reliable Bot-Assisted Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/learn-to-navigate-microsoft-copilot-for-developers-using-a-mac/"><u>Learn to Navigate Microsoft Copilot for Developers Using a Mac</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/overcome-the-green-screen-of-death-simple-troubleshooting-for-iphones/"><u>Overcome the 'Green Screen of Death': Simple Troubleshooting for iPhones</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolving-startech-drivers-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving StarTech Drivers Problems on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/top-pionier-ssd-klonierungssoftware-fur-einfachen-betriebssystem-und-datentransfer-transfer/"><u>Top Pionier-SSD Klonierungssoftware Für Einfachen Betriebssystem Und Datentransfer Transfer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What Can You Achieve with Generative AI? Unraveling the Capabilities & Uses of ChatGPT
-date: 2024-09-13T02:19:09.993Z
-updated: 2024-09-18T05:11:44.117Z
+date: 2024-10-27T01:06:55.235Z
+updated: 2024-10-28T06:22:07.066Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -59,13 +66,6 @@ As you can see, there are several differences to consider.
 ## ChatGPT's Pros and Cons
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ChatGPT's Pros
 
@@ -90,10 +90,10 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
  These plugins have various functions but generally allow you to integrate ChatGPT into your online activities.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### ChatGPT's Cons
@@ -136,16 +136,16 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Creative Abilities
 
@@ -154,6 +154,19 @@ So, how does Claude compare to ChatGPT?
  Both ChatGPT and Claude provided poems that fit the parameters of the prompt.
 
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
@@ -169,18 +182,25 @@ So, how does Claude compare to ChatGPT?
 
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When given the same problem, Claude gave us the following response:
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
 
- Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
-
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Interestingly, both chatbots gave different outcomes, with ChatGPT providing the correct answer.
 
 ### 3\. Translation
 
@@ -197,13 +217,6 @@ Claude's interpretation read...
 > Flowers bloom in spring, but they also bloom in summer. The grass beyond the meadow is green. The aroma of the tree bark makes for a rich atmosphere.
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT and Claude May Become Close Rivals
 
@@ -222,5 +235,26 @@ Claude's interpretation read...
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-storytelling-methodologies-for-the-documentarian/"><u>[New] Storytelling Methodologies for the Documentarian</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/safe-and-fast-official-macxdvd-software-suite-get-your-free-dvd-ripper-video-transformer-and-secure-file-mover-today/"><u>[SAFE AND FAST] Official MacXDVD Software Suite – Get Your Free DVD Ripper, Video Transformer & Secure File Mover Today!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/360-degree-cameras-vs-3d-cameras-what-are-the-differences/"><u>360 Degree Cameras Vs 3D Cameras What Are the Differences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/6-chatgpt-plugins-that-arent-worth-your-time/"><u>6 ChatGPT Plugins That Aren't Worth Your Time</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726218718203-vob-3gp-movavi/"><u>無限網路 VOB 變更成 3GP: 使用 Movavi 電影編輯器進行即時免費轉檔</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-intro-to-shap-e-how-does-it-work-for-interpreting-machine-learning-models/"><u>An Intro to Shap-E: How Does It Work for Interpreting Machine Learning Models?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-elite-artifice-intelligence-prompts-worth-your-investment/"><u>Are Elite Artifice Intelligence Prompts Worth Your Investment?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-really-earn-cash-doing-chatgpt-tasks-top-8-side-gigs-reviewed/"><u>Can You Really Earn Cash Doing ChatGPT Tasks? Top 8 Side Gigs Reviewed!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-revealed-writing-outstanding-youtube-video-scripts-easily/"><u>ChatGPT Secrets Revealed: Writing Outstanding YouTube Video Scripts Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722113294851-chatgpt-unleashed-your-new-android-companion/"><u>ChatGPT Unleashed: Your New Android Companion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-giants-which-is-superior-google-bard-or-microsofts-bing-chat/"><u>Comparing Giants: Which Is Superior - Google Bard or Microsoft's Bing Chat?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/conquer-your-fear-of-spreadsheets-by-integrating-chatgpt-with-excel/"><u>Conquer Your Fear of Spreadsheets by Integrating ChatGPT with Excel</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-compelling-video-storylines-with-chatgpt-script-help/"><u>Crafting Compelling Video Storylines with ChatGPT Script Help</u></a></li>
+<li><a href="https://article-helps.techidaily.com/elevate-your-gaming-experience-with-smart-use-of-xbox-zoom-for-2024/"><u>Elevate Your Gaming Experience with Smart Use of Xbox Zoom for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/engage-audiences-with-these-inspiring-free-templates-for-slideshows/"><u>Engage Audiences with These Inspiring, Free Templates for Slideshows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtube-revenue-verification-confirming-pro-rated-earnings/"><u>In 2024, YouTube Revenue Verification Confirming Pro-Rated Earnings</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-geforce-rtx-2070-supers-graphics-card-drivers-for-windows-1011-users-free-update-and-installation-tutorials/"><u>Latest GeForce RTX 2070 Supers Graphics Card Drivers for Windows 10/11 Users | Free Update & Installation Tutorials</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-game-selection-amidst-rising-scores-strategies-for-identifying-top-notch-games-in-todays-market/"><u>Mastering Game Selection Amidst Rising Scores: Strategies for Identifying Top-Notch Games in Today's Market</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solution-for-correcting-missing-binkw32dll-error-messages/"><u>Step-by-Step Solution for Correcting Missing binkw32.dll Error Messages</u></a></li>
+</ul></div>
 

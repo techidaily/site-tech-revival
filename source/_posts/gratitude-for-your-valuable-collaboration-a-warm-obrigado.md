@@ -1,7 +1,7 @@
 ---
 title: "Gratitude for Your Valuable Collaboration: A Warm Obrigado"
-date: 2024-09-10 20:25:18
-updated: 2024-09-13 12:51:57
+date: 2024-10-23T16:27:37.371Z
+updated: 2024-10-28T01:42:56.470Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485eda34d7682bda60157d137f8e.png
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -214,6 +221,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -235,6 +249,13 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -344,6 +365,13 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -361,6 +389,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -401,6 +436,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
@@ -410,6 +452,13 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -510,6 +559,13 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -536,11 +592,33 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-clean-soundscape-youtube-audio-enhancement-guide/"><u>[New] Clean Soundscape YouTube Audio Enhancement Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-enable-vlcs-webcam-recording-for-high-quality-footage-for-2024/"><u>[New] Enable VLC's Webcam Recording for High-Quality Footage for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlock-quick-filming-techniques-your-5-best-home-hacks-list-for-2024/"><u>[New] Unlock Quick Filming Techniques – Your 5 Best Home Hacks List for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cutting-edge-tools-to-revamp-virtual-performer-voices/"><u>[Updated] In 2024, Cutting-Edge Tools to Revamp Virtual Performer Voices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essentials-of-youtube-mastery-free-online-course-series/"><u>[Updated] In 2024, Essentials of YouTube Mastery Free Online Course Series</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-m1-advantages-in-high-quality-video-production-workstations/"><u>[Updated] M1 Advantages in High-Quality Video Production Workstations</u></a></li>
+<li><a href="https://win-latest.techidaily.com/1728485564046-ssd/"><u>「外部SSDに隠されたファイルを発見・回復:迷わず手引き」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-the-art-of-crafting-your-own-poetry-anthology/"><u>ChatGPT and the Art of Crafting Your Own Poetry Anthology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-action-the-7-key-areas-of-current-use-you-need-to-know/"><u>ChatGPT in Action: The 7 Key Areas of Current Use You Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-in-finance-exploring-5-key-drawbacks-for-cryptocurrency-market-prediction/"><u>ChatGPT in Finance: Exploring 5 Key Drawbacks for Cryptocurrency Market Prediction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/code-comparison-evaluating-github-copilot-and-chatgpt-for-effective-coding-practices/"><u>Code Comparison: Evaluating GitHub Copilot and ChatGPT for Effective Coding Practices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/controlling-ai-ensuring-positive-integration/"><u>Controlling AI: Ensuring Positive Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-a-custom-chatgpt-bot-an-ultimate-tutorial-for-leveraging-gpt-models/"><u>Crafting a Custom ChatGPT Bot: An Ultimate Tutorial for Leveraging GPT Models</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cybersecurity-woes-the-attraction-to-chatgpt/"><u>Cybersecurity Woes: The Attraction to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-free-artificial-intelligence-tools-to-enhance-email-writing-and-quickly-review-your-messages-with-chatgpt/"><u>Discover the Best Free Artificial Intelligence Tools to Enhance Email Writing and Quickly Review Your Messages with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dreams-and-data-how-ai-redefines-fantasy/"><u>Dreams and Data: How AI Redefines Fantasy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-installation-get-the-latest-amd-rx-480-graphics-card-software/"><u>Effortless Installation: Get the Latest AMD RX 480 Graphics Card Software</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way-in-2024/"><u>How to Minimize Stress in iPad Screen Recordings? Here's a Way, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-server-link-restored-guide-on-how-to-stay-connected/"><u>Steam Server Link Restored - Guide on How To Stay Connected</u></a></li>
+</ul></div>
+

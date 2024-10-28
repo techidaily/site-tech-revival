@@ -1,7 +1,7 @@
 ---
 title: Steering AI Towards Human-Friendly Outcomes
-date: 2024-10-21T17:50:27.433Z
-updated: 2024-10-22T18:55:55.198Z
+date: 2024-10-24T19:55:17.228Z
+updated: 2024-10-28T09:44:37.536Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -60,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
  You can curate and save your recently used prompts if you want to reuse them later. The extension lets you save entire chats with the ChatGPT AI as a PDF, PNG, or Markdown HTML file directly from the browser. You can also use custom themes for the chat interface, but that's more about looks than function.
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. ChatGPT Writer
 
@@ -78,10 +78,16 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -93,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -117,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -130,16 +136,16 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
+<span id="1983551">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -171,22 +177,18 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-pioneering-non-udemy-virtual-classrooms-for-learning/"><u>[New] In 2024, Pioneering Non-Udemy Virtual Classrooms for Learning</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-gameplay-recording-must-haves/"><u>[Updated] Gameplay Recording Must-Haves</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-clarity-in-cinema-in-depth-review-of-lgs-digital-display-the-4k-monitor-31mu97-b/"><u>[Updated] In 2024, Clarity in Cinema - In-Depth Review of LG's Digital Display, The 4K Monitor 31MU97-B</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-techniques-for-steadying-your-motion-sensitive-gopro/"><u>[Updated] Techniques for Steadying Your Motion-Sensitive GoPro</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-7-must-have-metaverse-devices-you-need-to-prepare/"><u>2024 Approved 7 Must-Have Metaverse Devices You Need to Prepare</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-where-custom-visuals-for-youtube-live-and-breathe/"><u>2024 Approved Where Custom Visuals for YouTube Live and Breathe</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-at-work-how-to-keep-your-sensitive-projects-safe-from-privacy-breaches/"><u>ChatGPT at Work: How to Keep Your Sensitive Projects Safe From Privacy Breaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-altitudes-copilot-for-beginners-and-professionals/"><u>Comparing Altitudes: CoPilot for Beginners and Professionals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-distinctions-gpt-4-vs-gpt-4x-versions-explained/"><u>Deciphering Distinctions: GPT-4 Vs. GPT-4x Versions Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-your-proposals-a-guide-to-using-gpt-3/"><u>Enhancing Your Proposals: A Guide to Using GPT-3</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-install-or-update-epson-tm-t88v-printer-drivers-for-windows-full-instructions-and-download-links/"><u>How to Install or Update EPSON TM-T88V Printer Drivers for Windows - Full Instructions and Download Links</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prompt-engineering-101-the-roadmap-to-establishing-yourself-as-an-expert/"><u>Prompt Engineering 101: The Roadmap to Establishing Yourself as an Expert</u></a></li>
-<li><a href="https://driver-install.techidaily.com/seamless-usbasp-integration-across-xp-vista-to-latest-windows-11/"><u>Seamless USBasp Integration Across XP, Vista to Latest Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/six-effective-strategies-to-minimize-artificial-intelligence-hallucinations/"><u>Six Effective Strategies to Minimize Artificial Intelligence Hallucinations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/skyrocket-your-skill-set-in-windows-photoshop-for-2024/"><u>Skyrocket Your Skill Set in Windows Photoshop for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-chatgpt-in-different-tongues-step-by-step-instructions-inside/"><u>Unlock the Potential of ChatGPT in Different Tongues – Step-by-Step Instructions Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/zero-cost-artificinas-top-6-substitutes-for-sora/"><u>Zero-Cost Artificinas: Top 6 Substitutes for Sora</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-best-camera-stabilizers-for-youtubers/"><u>[New] Best Camera Stabilizers for YouTubers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-perfect-your-pictures-the-ultimate-guide-to-photo-text-editing-for-2024/"><u>[New] Perfect Your Pictures The Ultimate Guide to Photo Text Editing for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instaboomers-hook-your-audience-with-circular-content/"><u>[Updated] In 2024, InstaBoomers Hook Your Audience with Circular Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-pixel-powerhouses-the-elite-females-on-yt-for-2024/"><u>[Updated] Pixel Powerhouses The Elite Females on YT for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blueprinting-breathtaking-cinematic-sketches/"><u>2024 Approved Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-creating-a-space-for-feedback-talking-with-your-viewers/"><u>2024 Approved Creating a Space for Feedback Talking with Your Viewers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-synergy-powering-googles-productivity-pages/"><u>ChatGPT Synergy: Powering Google's Productivity Pages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-to-the-rescue-9-ways-it-can-transform-your-daily-life/"><u>ChatGPT to the Rescue: 9 Ways It Can Transform Your Daily Life</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-role-in-elevating-crypto-trade-decisions-5-key-benefits/"><u>ChatGPT's Role in Elevating Crypto Trade Decisions - 5 Key Benefits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-between-chatgpt-and-huggingchat-for-your-ai-needs/"><u>Choosing Between ChatGPT and HuggingChat for Your AI Needs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-conversational-ai-chatgpt-vs-googles-bard-who-wins/"><u>Comparing Conversational AI: ChatGPT Vs. Google's Bard - Who Wins?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-quest-how-different-chatbots-rose-to-one-standardized-task/"><u>Creative Quest: How Different Chatbots Rose to One Standardized Task</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-challenges-unlock-your-iphones-full-potential-with-chatgpt-using-our-9-fix-tips/"><u>Overcoming Challenges: Unlock Your iPhone's Full Potential with ChatGPT Using Our 9 Fix Tips</u></a></li>
 </ul></div>
 

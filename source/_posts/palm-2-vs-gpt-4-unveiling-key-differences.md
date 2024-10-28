@@ -1,7 +1,7 @@
 ---
 title: "PaLM 2 Vs. GPT-4: Unveiling Key Differences"
-date: 2024-10-15T19:29:43.596Z
-updated: 2024-10-22T18:59:59.375Z
+date: 2024-10-26T09:40:41.628Z
+updated: 2024-10-28T10:14:58.023Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 ![Person Using ChatGPT on Laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/cchatgpt-on-laptop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One of the biggest reasons ChatGPT is as popular as it is today is its ability to engage in conversations, similar to how a human would converse.
 
  You can open up ChatGPT right now and start up a conversation about your day, type out your feelings, talk about your favorite food, and the chatbot will respond amicably, understand context, give you personalized answers, ask you questions in return, and some say[ChatGPT can even make you laugh](https://www.makeuseof.com/can-ai-make-us-laugh/) .
@@ -67,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
  Siri is much more focused on implementing tasks and executing your command. Thus, its answers are usually short and straightforward. Its ability to carry out a long conversation and understand context is relatively low, so it's definitely not something you would want to use if you need long, explanatory answers and a back-and-forth conversation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Activation
@@ -85,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Executing Basic Commands
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
@@ -105,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 ### Answering Your Questions
 
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
 
@@ -135,7 +120,27 @@ thumbnail: https://thmb.techidaily.com/9cb4bb095934cdbe52cf30982bf7e5d8440404211
 
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -148,20 +153,27 @@ Now:
 
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
 Close
 
  Now all you have to say is, "Hey Siri, launch ChatGPT 1.2.4," and the chatbot will work. You can also use shortcuts apart from the one listed above, so make sure to pick out the option you find easiest.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Siri vs. ChatGPT: Two Completely Different AI Models
 
@@ -184,16 +196,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hide-identity-in-images-best-face-cutting-apps-revealed/"><u>[New] Hide Identity in Images Best Face-Cutting Apps Revealed</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-combine-power-tweeting-and-snapping-with-snapchat/"><u>[New] In 2024, Combine Power Tweeting and Snapping with Snapchat</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-secrets-to-uncovering-missed-confidential-images/"><u>[Updated] Secrets to Uncovering Missed Confidential Images</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/8-stunning-movie-creator-for-mac-for-2024/"><u>8 Stunning Movie Creator for Mac for 2024</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/windows-10-version-22h2/"><u>最高效解決 Windows 10 Version 22H2更新失敗方案</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/debunking-chatgpts-wisdom-remains-unaltered/"><u>Debunking: ChatGPT's Wisdom Remains Unaltered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/delving-into-claude-2-its-mechanisms-purpose/"><u>Delving Into Claude 2: Its Mechanisms, Purpose</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-auto-gpt-its-unique-traits-beyond-chatgpt-basics/"><u>Demystifying Auto-GPT: Its Unique Traits Beyond ChatGPT Basics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-methods-for-erasing-your-past-interactions-with-chatgpt/"><u>Effective Methods for Erasing Your Past Interactions with ChatGPT</u></a></li>
-<li><a href="https://win-forum.techidaily.com/expert-tricks-to-hard-close-frozen-software-on-your-latest-windows-11-computer/"><u>Expert Tricks to Hard Close Frozen Software on Your Latest Windows 11 Computer</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-secrets-revealed-skyrocketing-your-insta-video-audience/"><u>In 2024, Secrets Revealed Skyrocketing Your Insta Video Audience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-ultimate-screen-recorder-unleash-potential-on-win11/"><u>[Updated] 2024 Approved Ultimate Screen Recorder - Unleash Potential on Win11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-tips-for-professional-youtube-content-creation-for-2024/"><u>[Updated] Cutting-Edge Tips for Professional YouTube Content Creation for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-acquiring-igtv-media-the-comprehensive-guidebook/"><u>[Updated] In 2024, Acquiring IGTV Media The Comprehensive Guidebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pre-release-film-recording-critique-with-secondary-choices-for-2024/"><u>[Updated] Pre-Release Film Recording Critique with Secondary Choices for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-gpt-enhanced-jobs-the-next-big-income-boost/"><u>Are GPT-Enhanced Jobs the Next Big Income Boost?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-the-titans-llama-3-vs-gpt-4-unveiled/"><u>Battle of the Titans: Llama 3 Vs. GPT-4 Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-down-microsofts-big-move-buys-out-blizzard-dives-into-innovations-with-ai-and-translation-podcast/"><u>Breaking Down Microsoft's Big Move: Buys Out Blizzard, Dives Into Innovations with AI & Translation [Podcast]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-the-allure-of-a-chatgpt-app-factor/"><u>Bypassing the Allure of a ChatGPT App Factor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-you-a-handy-approach-to-troubleshooting-pc-problems-efficiently/"><u>ChatGPT and You: A Handy Approach to Troubleshooting PC Problems Efficiently</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-how-to-create-funny-talking-avatars-using-oddcast-text-to-speech-tech/"><u>New How to Create Funny Talking Avatars Using Oddcast Text to Speech Tech</u></a></li>
 </ul></div>
 

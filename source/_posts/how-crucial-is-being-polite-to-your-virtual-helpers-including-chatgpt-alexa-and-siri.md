@@ -1,7 +1,7 @@
 ---
 title: How Crucial Is Being Polite to Your Virtual Helpers Including ChatGPT, Alexa, and Siri?
-date: 2024-09-14T11:32:48.845Z
-updated: 2024-09-18T06:47:03.919Z
+date: 2024-10-25T23:26:12.718Z
+updated: 2024-10-28T01:16:16.416Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -93,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Talk-to-ChatGPT
 
  ChatGPT is currently a text-only AI app where the prompts and the answers are written. But Google Chrome offers some excellent voice commands and text-to-speech features. Talk-to-ChatGPT bridges this gap to let you issue prompts by talking to your computer and having the ChatGPT answers read aloud by AI.
@@ -102,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
  Talk-to-ChatGPT is an open-source extension that lets you fiddle around with the settings. You can choose from different AI voices, the voice pitch, and the speed at which text is read. It also supports voice command shortcuts of "Stop" and "Pause" to control playback.
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
 
@@ -123,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -156,5 +163,22 @@ thumbnail: https://thmb.techidaily.com/4278a11dc73e1c0d6c218af281491c5ebbfcb593f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-recent-views-uncovered-for-you/"><u>[New] Facebook’s Recent Views Uncovered for You</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unlocking-the-power-of-visual-content-share-vids-on-facebook/"><u>[Updated] In 2024, Unlocking the Power of Visual Content Share Vids on Facebook</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastery-in-migrating-youtube-videos-to-igtv-platform/"><u>2024 Approved Mastery in Migrating YouTube Videos to IGTV Platform</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-the-top-10-global-explorer-channels/"><u>2024 Approved Unveiling the Top 10 Global Explorer Channels</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-error-651-in-windows-easily/"><u>How to Fix Error 651 in Windows. Easily!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simple-solution-to-declutter-your-inbox-the-no-fuss-method-that-works-without-creating-new-email-addresses/"><u>Simple Solution to Declutter Your Inbox: The No-Fuss Method That Works Without Creating New Email Addresses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-potential-with-onlyoffice-docspace-enhanced-by-chatgpt-for-superior-results/"><u>Unleash Your Potential with ONLYOFFICE DocSpace Enhanced by ChatGPT for Superior Results</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-artificer-intelligence-with-bing-app-on-android-phones/"><u>Unlock the Power of Artificer Intelligence with Bing App on Android Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-interactions-via-quoras-poe/"><u>Unlocking Advanced Interactions via Quora's PoE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creative-potential-9-uses-of-chatgpt-for-crafting-a-bestseller/"><u>Unlocking Creative Potential: 9 Uses of ChatGPT for Crafting a Bestseller</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-major-pitfalls-a-closer-look-at-chatgpt-by-openai/"><u>Unveiling the Major Pitfalls: A Closer Look at ChatGPT by OpenAI</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-best-subtitle-edit-replacements-for-mac-users/"><u>Updated Best Subtitle Edit Replacements for Mac Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upgrade-your-talking-game-premium-gpt-plus-plan-for-us-aficionados/"><u>Upgrade Your Talking Game: Premium GPT-Plus Plan for U.S. Aficionados</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Lava Blaze Curve 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Decoding 5 Ways AI Reinforces Illicit Online Techniques
-date: 2024-10-18T16:01:30.168Z
-updated: 2024-10-22T16:24:33.097Z
+date: 2024-10-21T01:59:42.930Z
+updated: 2024-10-27T16:39:23.351Z
 tags:
   - chatgpt
   - open-ai
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -69,14 +62,20 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -86,22 +85,15 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
@@ -112,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -119,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
@@ -139,10 +145,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
@@ -162,18 +168,20 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-how-to-safely-procure-pure-photography-collections/"><u>[New] How to Safely Procure Pure Photography Collections</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-from-lurkers-to-leaders-elevate-your-facebook-game/"><u>[Updated] In 2024, From Lurkers to Leaders Elevate Your Facebook Game</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/bargain-bin-of-the-clouds-spacious-file-staging-area-for-2024/"><u>Bargain Bin of the Clouds Spacious File Staging Area for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversione-gratuiti-online-trasforma-file-webp-in-formato-jpeg-con-movielabs/"><u>Conversione Gratuiti Online: Trasforma File WEBP in Formato JPEG Con MovieLabs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descompunere-gratuita-si-simpla-in-time-de-webm-video-in-format-mp4/"><u>Descompunere Gratuita Și Simplă In-Time De Webm Video În Format Mp4</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013493057-discord-camera-not-working-heres-how-to-get-it-back-on-track/"><u>Discord Camera Not Working? Here's How to Get It Back on Track</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-vs-aac-audio-codecs-determining-superior-sound-quality-and-file-efficiency/"><u>MP3 Vs. AAC Audio Codecs: Determining Superior Sound Quality and File Efficiency</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/nejblizsi-strategie-k-poklesu-pocet-navstevniku-video-u-divika/"><u>Nejbližší Strategie K Poklesu Počet Návštěvníků Video U Divíka</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-streaming-video-editor-convert-your-m4v-files-into-swf-format-by-movavi-free-of-cost/"><u>Online Streaming Video Editor - Convert Your M4V Files Into SWF Format by Movavi, Free of Cost!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-vrij-beschikbaar-m4v-wmv-vervanger-gratuitie-zeer-gewenst-kenniswijzer-movavi/"><u>Online Vrij Beschikbaar M4V-WMV Vervanger - Gratuitie Zeer Gewenst! Kenniswijzer Movavi</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pioneering-mobile-tech-androids-role-in-vr360-videos-update-2023-for-2024/"><u>Pioneering Mobile Tech Android's Role in VR/360 Videos (Update 2023) for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-youtube-downloader-issues-discover-top-reliable-alternatives/"><u>Solving YouTube Downloader Issues - Discover Top Reliable Alternatives</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/1716361790420-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-make-a-channel-trailer-for-2024/"><u>[New] How to Make a Channel Trailer for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-sifting-through-the-elements-of-instagram-stories-for-2024/"><u>[New] Sifting Through the Elements of Instagram Stories for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-crafting-compelling-online-presence-incorporating-wirecast-into-fb-streams-for-2024/"><u>[Updated] Crafting Compelling Online Presence Incorporating Wirecast Into FB Streams for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-deciphering-the-art-of-voice-documentation/"><u>2024 Approved Deciphering the Art of Voice Documentation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-itel-a05s-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Itel A05s to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-image-interpretation-8-ways-to-gain-edge/"><u>ChatGPT’s Image Interpretation: 8 Ways to Gain Edge</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-chatbots-can-claude-outshine-chatgpt-as-a-top-notch-communicator/"><u>Comparing Chatbots: Can Claude Outshine ChatGPT as a Top-Notch Communicator?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/concealed-communication-tactics-preserving-your-chatgpt-discussions-unseen/"><u>Concealed Communication Tactics: Preserving Your ChatGPT Discussions Unseen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/demystifying-shared-links-in-chatgpt-functionality-and-mechanics-explained/"><u>Demystifying Shared Links in ChatGPT: Functionality & Mechanics Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-perfect-chatgpt-templates-for-crypto-enthusiasts/"><u>Discover the Perfect ChatGPT Templates for Crypto Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-claude-the-revolutionary-ai-tool-explained/"><u>Discovering Claude: The Revolutionary AI Tool Explained</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-x50iplus-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor X50i+ to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-leading-brands-in-handheld-hd-movie-playback/"><u>In 2024, Leading Brands in Handheld HD Movie Playback</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-screen-time-top-6-video-engagement-methods/"><u>Mastering Screen Time Top 6 Video Engagement Methods</u></a></li>
 </ul></div>
 

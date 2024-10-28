@@ -1,7 +1,7 @@
 ---
 title: "AI's Verbal Advance: Responding to Commands with Confidence"
-date: 2024-10-20T16:05:12.740Z
-updated: 2024-10-22T16:20:40.556Z
+date: 2024-10-22T09:12:29.913Z
+updated: 2024-10-27T16:27:57.271Z
 tags:
   - chatgpt
   - open-ai
@@ -35,31 +35,32 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
@@ -67,22 +68,15 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
@@ -115,24 +109,15 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-instant-reachers-handbook-livestreaming-on-facebook-via-smartphones/"><u>[New] 2024 Approved Instant Reachers' Handbook Livestreaming on Facebook via Smartphones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-take-your-teamsnap-game-to-the-next-level-expert-tips/"><u>[New] 2024 Approved Take Your TeamSnap Game to the Next Level Expert Tips</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-infinix-gt-10-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Infinix GT 10 Pro Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/acer-r11-chromebook-assessment-sleek-design-meets-portable-performance/"><u>Acer R11 Chromebook Assessment: Sleek Design Meets Portable Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-affiliate-programs-of-2024-unveiled-a-detailed-comparison-with-the-renowned-movavi-platform/"><u>Best Affiliate Programs of 2024 Unveiled - A Detailed Comparison with the Renowned Movavi Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/como-cambiar-cualquier-archivo-de-video-a-mp4-sin-costo-usando-el-convertidor-de-movavi-en-linea-gratuitamente/"><u>Cómo Cambiar Cualquier Archivo De Video a MP4 Sin Costo Usando El Convertidor De Movavi en Línea Gratuitamente</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/customer-care-at-movavi-help-desk-seamless-tech-support/"><u>Customer Care at Movavi Help Desk - Seamless Tech Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descargar-e-instalar-winff-mejor-herramienta-gratuita-para-convertir-video-wmv-a-audio-flac/"><u>Descargar E Instalar WinFF: Mejor Herramienta Gratuita Para Convertir Vídeo WMV a Audio FLAC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-audio-converter-by-movavi-convert-vocals-and-effects-into-mp3/"><u>Free Online Audio Converter by Movavi - Convert Vocals and Effects Into MP3</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-tool-convert-mp3-files-into-mp4-format-with-ease-using-movavis-converter/"><u>Free Online Tool: Convert MP3 Files Into MP4 Format with Ease - Using Movavi's Converter</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-the-art-of-phone-recordings/"><u>In 2024, Mastering the Art of Phone Recordings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726220024699-movavi/"><u>Movavi 合作伙伴之选 | 专业化个性化多层次网络链接构建解析</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavi-audio-converter-for-free-convert-ogg-aiff-and-more-into-high-quality-flac-files-on-the-web/"><u>Movavi Audio Converter for Free: Convert OGG, AIFF & More Into High-Quality FLAC Files on the Web</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforma-tu-audio-de-wma-al-video-swf-libre-y-facilmente-por-internet-usando-el-software-de-movavi/"><u>Transforma Tu Audio De WMA Al Vídeo SWF Libre Y Fácilmente Por Internet Usando El Software De Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-list-of-2024s-leading-gaming-computers-in-depth-testing-and-analysis-zdnet/"><u>Ultimate List of 2024'S Leading Gaming Computers: In-Depth Testing & Analysis | ZDNet</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/verlangsamt-sich-ihr-computer-beim-hochfahren-entdecken-sie-hier-die-effektivsten-strategien-fur-windows-11-nutzer/"><u>Verlangsamt Sich Ihr Computer Beim Hochfahren? Entdecken Sie Hier Die Effektivsten Strategien Für Windows 11-Nutzer!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-strategies-for-effective-b-roll-application/"><u>2024 Approved Strategies for Effective B-Roll Application</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/5lin5yplusv6kej44gq5yan55sf44ko44op44o844cc5yq55p6c55qe44gq44ox44os44o844ok44o844gu44oi44op44ow44or44k344ol44o844og44kj44oz44kw5oml6acg44ks6kal44gk44gr44kl425/"><u>不可解な再生エラー。効果的なプレーヤーのトラブルシューティング手順を見つけるためにこれらのステップが必要です</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-comprehensive-look-at-chatgpt-versus-hugbingchat-performance/"><u>A Comprehensive Look at ChatGPT versus HugbingChat Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-breakthrough-unveiling-gpt-4s-potential-to-transform-diy-endeavors/"><u>AI Breakthrough: Unveiling GPT-4's Potential to Transform DIY Endeavors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-modern-ai-innovations-such-as-chatgpt-making-classic-academic-essay-writing-a-thing-of-the-past/"><u>Are Modern AI Innovations, Such as ChatGPT, Making Classic Academic Essay Writing a Thing of the Past?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artistic-integrity-protection-outsmarting-generative-ai-with-nightshade-strategies/"><u>Artistic Integrity Protection: Outsmarting Generative AI with Nightshade Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/globalscreen-top-ranked-local-and-live-tv-streams/"><u>GlobalScreen Top-Ranked Local & Live TV Streams</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-3d-video-player-for-android/"><u>In 2024, Best 3D Video Player for Android</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/pro-tips-for-conquering-photo-and-video-importers-on-windows-10-for-2024/"><u>Pro-Tips for Conquering Photo & Video Importers on Windows 10 for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722992883356-resolving-game-crashes-in-wows-on-pc-try-these-5-proven-fixes/"><u>Resolving Game Crashes in WoWs on PC? Try These 5 Proven Fixes!</u></a></li>
 </ul></div>
 

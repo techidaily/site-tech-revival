@@ -1,7 +1,7 @@
 ---
 title: "Programming Wit: Does Artificial Intelligence Have a Sense of Humor?"
-date: 2024-10-20T16:12:22.898Z
-updated: 2024-10-22T17:48:24.128Z
+date: 2024-10-25T03:52:04.124Z
+updated: 2024-10-28T06:17:38.492Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 ![Screenshot of Ronnie Sheer teaching Introduction to Prompt Engineering for Generative AI on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Enroll in this online course if you want to learn only the bare-bones concepts in AI prompt engineering. You'll know the difference between tokens and words and how to use AI to generate text and images. At the end of the course, you'll learn some advanced practical concepts, like prompt fine-tuning and interacting with AI models using an API.
 
  If you haven't followed the latest in AI consumer tech, the course introduces you to today's most popular AI tools. First, you have GPT-related technologies like ChatGPT and its contender Bard from Google. You'll also learn how to create AI-generated images using DALL-E and Midjourney.
@@ -47,15 +54,22 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
 
 ![Dave Birss teaching How to Research and Write Using Generative AI Tools on LinkedIn Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-39.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this LinkedIn Learning course, creative expert Dave Birss shows how Generative AI tools present a huge opportunity to advance your career. As Birss points out, humans usually use technology to automate repetitive activities. Thanks to AI, you can now use tech to automate thinking.
 
@@ -65,16 +79,16 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
@@ -84,23 +98,9 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
 
 ![screenshot of ChatGPT Ultimate Guide 10x Your Productivity & Creativity with ChatGPT on Skillshare learning platform](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-41.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This course is best for beginners who want to go through the best use cases of ChatGPT quickly. ChatGPT Ultimate Guide familiarizes you with the ChatGPT interface and the OpenAI playground before explaining the numerous practical uses of the AI tool.
 
@@ -133,19 +133,15 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-efficient-use-of-obs-studio-for-android-devices/"><u>[Updated] Efficient Use of OBS Studio for Android Devices</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pros-secret-windows-11-gems-uncovered/"><u>2024 Approved Pro's Secret Windows 11 Gems Uncovered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-comprehensive-guide-to-gpt-4all-from-introduction-to-mechanism/"><u>A Comprehensive Guide to GPT-4All: From Introduction to Mechanism</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-basics-unlocked-start-here-with-these-9-educational-hubs/"><u>AI Basics Unlocked: Start Here with These 9 Educational Hubs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-showdown-can-gemini-outshine-chatgpt-plus/"><u>AI Showdown: Can Gemini Outshine ChatGPT Plus?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-enhanced-ai-tools-justified-by-costs-incurred/"><u>Are Enhanced AI Tools Justified by Costs Incurred?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-personal-health-with-chatgpt-a-list-of-9-tips-and-tricks/"><u>Boosting Personal Health with ChatGPT: A List of 9 Tips and Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-for-efficient-data-management-and-analysis-in-google-sheets/"><u>ChatGPT for Efficient Data Management and Analysis in Google Sheets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-strategies-for-addressing-code-31-error-messages-in-windows-computers/"><u>Comprehensive Strategies for Addressing 'Code 31' Error Messages in Windows Computers</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oppo-find-x6-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Oppo Find X6 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a59-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo A59 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/how-to-share-your-custom-made-flipbooks-on-facebook-using-flipbuilder/"><u>How to Share Your Custom-Made Flipbooks on Facebook Using FlipBuilder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-advanced-technology-showcase-reviewing-the-top-5-slow-motion-cameras/"><u>In 2024, Advanced Technology Showcase Reviewing the Top 5 Slow-Motion Cameras</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-photo-enhancements-at-no-charge-15-to-check-out-today/"><u>In 2024, Prime Photo Enhancements at No Charge #15 to Check Out Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-maximizing-video-impact-a-comprehensive-guide-to-youtube-popularity/"><u>[Updated] 2024 Approved Maximizing Video Impact A Comprehensive Guide to YouTube Popularity</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-imprint-entire-online-viewport/"><u>[Updated] Imprint Entire Online Viewport</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-creativity-a-deep-dive-into-metaverse-meme-culture-for-2024/"><u>[Updated] Unleash Creativity A Deep Dive Into Metaverse Meme Culture for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-nokia-c210-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Nokia C210 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-ai-powered-frame-refactoring-suite/"><u>2024 Approved AI-Powered Frame Refactoring Suite</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-turtle-beach-headset-mic-problems-quick-and-easy-solutions/"><u>Resolving Turtle Beach Headset Mic Problems - Quick and Easy Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-future-of-personal-assistants-on-your-wrist-6-insightful-ways-to-integrate-chatgpt-into-smartwatches/"><u>Unlock the Future of Personal Assistants on Your Wrist: 6 Insightful Ways to Integrate ChatGPT Into Smartwatches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unmasking-love-baiting-hackers-seven-artificial-intelligence-strategies-exposed/"><u>Unmasking Love-Baiting Hackers: Seven Artificial Intelligence Strategies Exposed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-hidden-conversations-a-guide-to-the-dead-internet-phenomenon/"><u>Unveiling the Hidden Conversations: A Guide to the 'Dead Internet' Phenomenon</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-choose-chatgpt-for-your-desktop-instead-of-using-the-web-portal/"><u>Why Choose ChatGPT for Your Desktop Instead of Using the Web Portal?</u></a></li>
 </ul></div>
 

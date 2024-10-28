@@ -1,7 +1,7 @@
 ---
 title: Have You Tried Communicating with ChatGPT Yet?
-date: 2024-10-19T19:13:42.104Z
-updated: 2024-10-22T18:03:08.339Z
+date: 2024-10-24T16:23:51.743Z
+updated: 2024-10-28T06:20:28.910Z
 tags:
   - chatgpt
   - open-ai
@@ -42,13 +42,6 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -63,40 +56,41 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
-![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
@@ -118,16 +112,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-capture-the-essence-your-free-screen-recording-solution-on-mac-and-pc/"><u>[New] Capture the Essence - Your FREE Screen Recording Solution on Mac & PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-from-ordinary-to-extraordinary-crafting-captivating-instagram-puzzles-for-2024/"><u>[New] From Ordinary to Extraordinary Crafting Captivating Instagram Puzzles for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-approach-fine-tuning-your-youtube-videos-dimensions-and-sizes/"><u>[New] In 2024, Step-by-Step Approach Fine-Tuning Your YouTube Videos' Dimensions & Sizes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-beginner-to-expert-navigating-instagrams-virtual-conversations/"><u>[Updated] In 2024, From Beginner to Expert Navigating Instagram’s Virtual Conversations</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-deep-dive-into-competitive-ar-stickers-outside-google-for-2024/"><u>A Deep Dive Into Competitive AR Stickers Outside Google for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversione-gratuita-da-gsm-a-wav-online-utilizzando-il-software-di-movavi/"><u>Conversione Gratuita Da GSM a WAV Online - Utilizzando Il Software Di Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-roblox-merror-the-ultimate-guide-to-overcoming-error-code-277/"><u>Fixing Roblox MError: The Ultimate Guide to Overcoming Error Code 277</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-converter-change-mp4-videos-into-mkv-format-quickly/"><u>Free Converter: Change MP4 Videos Into MKV Format Quickly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-gifs-into-jpeg-images-with-ease-using-movavi/"><u>Free Online Converter: Change GIFs Into JPEG Images with Ease - Using Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-turn-3gpp-files-into-mp4-format-with-ease-movavi-video-converter/"><u>Free Online Converter: Turn 3GPP Files Into MP4 Format with Ease - Movavi Video Converter</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transferer-un-opus-a-une-version-en-ligne-sans-frais-movavi/"><u>Transférer Un Opus À Une Version En Ligne Sans Frais - Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-money-making-guide-on-social-media/"><u>[New] In 2024, The Ultimate Money-Making Guide on Social Media</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-rev-up-your-earnings-a-deep-dive-into-vimeo-profits/"><u>[Updated] 2024 Approved Rev Up Your Earnings A Deep Dive Into Vimeo Profits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-avoiding-miscommunication-on-google-meet-best-practices/"><u>[Updated] In 2024, Avoiding Miscommunication on Google Meet Best Practices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-advanced-visual-techniques-with-version-22-vce/"><u>[Updated] Mastering Advanced Visual Techniques with Version 2.2 VCE</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-et-pourquoi-transformez-vous-rapidement-un-fichier-ts-en-mp4-sans-perdre-la-qualite/"><u>Comment Et Pourquoi Transformez-Vous Rapidement Un Fichier TS en MP4 Sans Perdre La Qualité ?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-peak-performance-how-to-update-razer-blackwidow-gamepad-drivers/"><u>Ensure Peak Performance: How to Update Razer BlackWidow Gamepad Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-fiction-to-reality-exploring-the-gap-between-strong-ai-and-its-weaker-counterpart/"><u>From Fiction to Reality: Exploring the Gap Between Strong AI and Its Weaker Counterpart</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/geforce-rtx-3090-driver-update-for-pc-available-for-windows-1087-systems/"><u>GeForce RTX 3090 Driver Update for PC - Available for Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gemini-takes-on-chatgpt-who-wins/"><u>Gemini Takes on ChatGPT – Who Wins?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-bard-app-warning-steer-clear-from-potential-malware-risks/"><u>Google Bard App Warning: Steer Clear From Potential Malware Risks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/google-redefines-large-language-models-launch-of-palm-2/"><u>Google Redefines Large Language Models: Launch of PaLM 2</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-safe-is-it-to-use-chatgpt-potential-vulnerabilities-explained/"><u>How Safe Is It to Use ChatGPT: Potential Vulnerabilities Explained?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-efficiently-remove-apps-from-ios-and-android-systems/"><u>How To Efficiently Remove Apps From iOS and Android Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-how-chatgpt-link-sharing-works-and-what-it-means-for-you/"><u>In-Depth Look at How ChatGPT Link Sharing Works and What It Means for You</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-ais-leap-forward-understanding-the-5-main-differences-between-gpt-ex-and-gpt-35/"><u>Inside AI's Leap Forward: Understanding the 5 Main Differences Between GPT-eX and GPT-3.5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/methodology-exporting-personal-interactions-with-chatgpt/"><u>Methodology: Exporting Personal Interactions with ChatGPT</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pc-and-macs-best-screenshot-apps-ranked/"><u>PC and Mac's Best Screenshot Apps Ranked</u></a></li>
 </ul></div>
 

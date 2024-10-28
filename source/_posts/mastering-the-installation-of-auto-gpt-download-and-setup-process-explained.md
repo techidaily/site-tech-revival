@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Installation of Auto-GPT: Download & Setup Process Explained"
-date: 2024-09-16T23:53:15.821Z
-updated: 2024-09-18T05:22:42.174Z
+date: 2024-10-26T08:43:14.605Z
+updated: 2024-10-27T20:12:11.930Z
 tags:
   - chatgpt
   - open-ai
@@ -44,6 +44,19 @@ After Installing Python, you can download Auto-GPT from GitHub.
 
 **Source code.zip** is for Windows, while**Source code.tar.gz** is for Linux and MacOS. First, download the file for your operating system, then copy the folder and paste it into your desired location.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Step 2: Configure Auto-GPT
 
  Since AutoGPT uses OpenAI's GPT model, you must generate an API key from OpenAI to act as your credential to use their product.
@@ -56,9 +69,30 @@ After Installing Python, you can download Auto-GPT from GitHub.
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
 
@@ -70,10 +104,25 @@ pip install -r requirements.txt
 3. Once you press enter, your terminal will download and install all the required dependencies.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
 Congratulations! You have successfully Installed Auto-GPT.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -92,13 +141,6 @@ Congratulations! You have successfully Installed Auto-GPT.
  Although you don't need to fill all five goals, it is still recommended that you do, as this will likely affect the efficiency of your AI.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
@@ -120,13 +162,6 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
 After making the recipe, our AI has now completed its task.
@@ -136,13 +171,6 @@ After making the recipe, our AI has now completed its task.
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
@@ -157,6 +185,13 @@ After making the recipe, our AI has now completed its task.
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -177,5 +212,24 @@ After making the recipe, our AI has now completed its task.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-10-social-media-tag-analyzers-fb-twt-and-insta/"><u>[New] Top 10 Social Media Tag Analyzers FB, Twt & Insta</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-biking-experience-index-for-2024/"><u>[Updated] Ultimate Biking Experience Index for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-models-understanding-gpt-4-gpt-nturbo-and-gpt-phi-variants/"><u>Comparing AI Models: Understanding GPT-4, GPT-nTurbo & GPT-Phi Variants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-engaging-youtubes-a-guide-to-using-chatgpt-for-scriptwriting/"><u>Crafting Engaging YouTubes: A Guide to Using ChatGPT for Scriptwriting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/da-vinci-3-crafting-new-visual-wonders-30-exploratory-prompts/"><u>Da Vinci 3: Crafting New Visual Wonders – 30 Exploratory Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-the-power-of-shapley-values-with-openais-shap-e-an-in-depth-look/"><u>Discovering the Power of Shapley Values with OpenAI's Shap-E: An In-Depth Look</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dont-waste-time-on-these-6-subpar-chatgpt-plugins-heres-why/"><u>Don't Waste Time on These 6 Subpar ChatGPT Plugins - Here’s Why</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easing-work-email-woes-using-chatgpt-to-write-clearly/"><u>Easing Work Email Woes: Using ChatGPT to Write Clearly</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/effective-techniques-for-fast-and-secure-online-music-downloads/"><u>Effective Techniques for Fast and Secure Online Music Downloads</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-data-management-unleash-chatgpts-power-in-excel-workbooks/"><u>Effortless Data Management: Unleash ChatGPT's Power in Excel Workbooks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-change-with-confidence-mastering-life-at-a-workplace-transformed-by-artifice-intelligence/"><u>Embrace Change with Confidence: Mastering Life at a Workplace Transformed by Artifice Intelligence</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-site-seo-performance/"><u>Harnessing the Power of Cookiebot for Enhanced Site SEO Performance</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-15-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 15 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-13-pro-max-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 13 Pro Max GPS not Working Issue | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vr-cameras-clash-the-2023-showdown-between-gopro-and-yi/"><u>VR Cameras Clash The 2023 Showdown Between GoPro & Yi</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/v1-matters-enabling-it-for-youtube-videos-for-2024/"><u>Why AV1 Matters Enabling It for YouTube Videos for 2024</u></a></li>
+</ul></div>
 

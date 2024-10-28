@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Job Quest: 6 ChatGPT Techniques Unveiled"
-date: 2024-10-19T19:14:21.736Z
-updated: 2024-10-22T17:44:32.969Z
+date: 2024-10-24T02:02:50.734Z
+updated: 2024-10-27T22:52:55.647Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -43,19 +43,6 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -65,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
@@ -78,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/c88c76635d5e0629581e4fd4108916cee892ed1d4
 I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use[third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
@@ -100,9 +86,23 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -151,16 +151,19 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-privacy-pioneers-explore-instagram-stories-secretly/"><u>[New] 2024 Approved Privacy Pioneers Explore Instagram Stories Secretly</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-comparing-stream-quality-with-obs-studio-and-fraps/"><u>[New] Comparing Stream Quality with OBS Studio and Fraps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-preparing-for-facebooks-updated-marketing-strategy/"><u>[Updated] Preparing for Facebook’s Updated Marketing Strategy</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convertisseur-audio-mp3m4v-pour-gratuit-a-distance-services-de-movavi/"><u>Convertisseur Audio MP3/M4V Pour Gratuit À Distance - Services De Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/descargar-la-herramienta-de-conversion-gratuita-para-cambiar-archivos-de-video-de-3gp-a-formato-m4a-con-eficiencia/"><u>Descargar La Herramienta De Conversión Gratuita Para Cambiar Archivos De Video De 3GP a Formato M4A Con Eficiencia</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/evaluate-the-essential-factors-prior-to-smart-surveillance-camera-setup/"><u>Evaluate the Essential Factors Prior to Smart Surveillance Camera Setup</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-top-10-alternative-social-media-apps-to-tiktok-for-creators-and-enthusiasts/"><u>Exploring the Top 10 Alternative Social Media Apps to TikTok for Creators and Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratuit-online-convertisseur-mkv-en-wma-expertise-movavi/"><u>Gratuit Online Convertisseur MKV en WMA - Expertise Movavi</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/stunning-affordable-innovations-the-best-of-elite-technologies-within-reach/"><u>Stunning Affordable Innovations: The Best of Elite Technologies Within Reach</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-recording-strategies-how-to-capture-the-unrecorded-moments-on-discord/"><u>[New] 2024 Approved Essential Recording Strategies How to Capture the Unrecorded Moments on Discord</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-record-desktop-on-windows-3-simple-cost-free-methods/"><u>[New] 2024 Approved Record Desktop on Windows 3 Simple, Cost-Free Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-iphone-users-disable-or-delete-stock-apps-purchased-with-itunes-money/"><u>Can iPhone Users Disable or Delete Stock Apps Purchased with iTunes Money?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/converti-file-rmvb-a-formato-mpeg-online-e-gratuitamente-con-movavi/"><u>Converti File RMVB a Formato MPEG Online E Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y100-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y100 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-precision-video-capturing-on-mac-for-snapshares/"><u>In 2024, Precision Video Capturing on Mac for Snapshares</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-use-of-codegpt-within-visual-studio-code-installation-and-configuration-steps/"><u>Master the Use of CodeGPT Within Visual Studio Code - Installation and Configuration Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-world-of-open-chatgpt-for-pcs/"><u>Navigating the World of Open ChatGPT for PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-in-digital-dialogues-top-3-bot-safety-risks/"><u>Privacy in Digital Dialogues: Top 3 Bot Safety Risks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/relying-on-ai-can-chatgpt-offer-dependable-wellness-guidance/"><u>Relying on AI: Can ChatGPT Offer Dependable Wellness Guidance?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-conversations-10-upgrades-to-chatgpt/"><u>Revolutionizing Conversations: 10 Upgrades to ChatGPT</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-best-three-in-learning-conquer-new-tongues-quickly-and-quietly/"><u>The Best Three in Learning: Conquer New Tongues Quickly & Quietly</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-to-rectify-malfunctioning-discord-game-checker-on-windows/"><u>Tips to Rectify Malfunctioning Discord Game Checker on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unveiling-the-secrets-of-image-text-recognition-an-exploration-of-ocr-technology/"><u>Unveiling the Secrets of Image Text Recognition: An Exploration of OCR Technology</u></a></li>
 </ul></div>
 

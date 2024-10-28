@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-10-20T18:14:14.397Z
-updated: 2024-10-22T19:29:14.394Z
+date: 2024-10-25T03:30:06.902Z
+updated: 2024-10-28T06:43:19.577Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI adds editing tools to DALL-E 3 in ChatGPT for inline adjustments.
@@ -44,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
  OpenAI hears you and has added inline editing tools to DALL-E 3 in ChatGPT, allowing you to make tweaks to your creations without leaving the app.
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are DALL-E 3's Editing Tools?
 
@@ -59,16 +59,16 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing and Erasing
 
@@ -95,10 +95,10 @@ Close
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
@@ -106,13 +106,6 @@ Close
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
 
 ![dalle 3 editing tools tiger yeti claymation style](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-tiger-yeti-claymation-style.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Again, the original image is good, has sharp, vibrant colors, and matches the prompt. However, I wanted to switch the yeti to a different type of scary animal.
 
@@ -129,6 +122,13 @@ Close
  Next up, I went for a birthday card. This time around, DALL-E added "Happy Birthday" without being prompted, which is fine, given the theme. So, I asked it to add the date of the birthday on the card. Again, it failed to add the date to the card, but after a few rounds of prompting, it created a new image featuring the requested date. In this case, adding the date myself would have been easier, especially if I wanted to keep the original image.
 
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
@@ -151,18 +151,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-androids-premier-choice-top-10-free-fb-video-extractor/"><u>[New] Android's Premier Choice Top 10 Free FB Video Extractor</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-harmonic-transition-a-playlist-migration-masterclass-for-2024/"><u>[Updated] Harmonic Transition A Playlist Migration Masterclass for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-captivate-your-market-the-blueprint-for-effective-instagram-video-plans/"><u>[Updated] In 2024, Captivate Your Market The Blueprint for Effective Instagram Video Plans</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-maximizing-movie-file-saving-6-methods-for-win-11/"><u>[Updated] In 2024, Maximizing Movie File Saving 6 Methods for Win 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-journey-to-the-best-online-shopping-spots-for-enigmatic-boxes/"><u>[Updated] Journey to the Best Online Shopping Spots for Enigmatic Boxes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digital-dictators-who-controls-ai/"><u>Digital Dictators: Who Controls AI?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-coding-codegpt-meets-vs-code/"><u>Elevate Coding: CodeGPT Meets VS Code</u></a></li>
-<li><a href="https://techtrends.techidaily.com/essential-guide-steps-for-deep-cleaning-household-audio-speakers/"><u>Essential Guide: Steps for Deep-Cleaning Household Audio Speakers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-nokia-g42-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Nokia G42 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-conversations-a-guide-to-effective-sorting/"><u>Navigating ChatGPT Conversations: A Guide to Effective Sorting</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-rise-of-chatbots-shaping-modern-media-artistry/"><u>The Rise of Chatbots: Shaping Modern Media Artistry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-your-creativity-effective-brainstorming-techniques-with-mind-maps-and-ai-tools/"><u>Unlocking Your Creativity: Effective Brainstorming Techniques with Mind Maps and AI Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-googles-gemini-its-role-in-shaping-future-ai-landscapes/"><u>Unveiling Google's Gemini: Its Role in Shaping Future AI Landscapes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-tiktok-to-instagram-stardom-replicating-popular-reel-techniques/"><u>[New] In 2024, From TikTok to Instagram Stardom Replicating Popular Reel Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-speech-clarity-achieved-by-googles-advanced-conversion/"><u>[New] In 2024, Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/dollars-and-sense-profit-driven-techniques-for-fb-video-content-for-2024/"><u>Dollars and Sense Profit-Driven Techniques for FB Video Content for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y78-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y78 5G</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-10-ultimate-editing-strategies-for-viral-tiktoks/"><u>In 2024, 10 Ultimate Editing Strategies for Viral TikToks</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-guide-to-multistation-open-source-video-tools/"><u>In 2024, Essential Guide to Multistation Open Source Video Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-modern-life-top-9-tips-from-chatgpt-experts/"><u>Navigating Modern Life: Top 9 Tips From ChatGPT Experts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-gen-ai-methods-elevating-web-search-standards/"><u>Next-Gen AI Methods Elevating Web Search Standards</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-how-not-to-save-conversations-with-chatgpt/"><u>Protecting Privacy: How Not to Save Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagining-coding-with-non-chatgpt-ai-innovations/"><u>Reimagining Coding with Non-ChatGPT AI Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scam-or-solution-delving-into-truthgpt-token/"><u>Scam or Solution? Delving Into TruthGPT Token</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-ai-chatting-on-ubuntu-how-to-connect-with-chatgpt-via-shell-command-line-interface/"><u>Seamless AI Chatting on Ubuntu: How to Connect with ChatGPT via Shell Command Line Interface</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/top-5-best-free-computer-diagnostic-tools-compare-and-choose/"><u>Top 5 Best Free Computer Diagnostic Tools - Compare & Choose!</u></a></li>
 </ul></div>
 

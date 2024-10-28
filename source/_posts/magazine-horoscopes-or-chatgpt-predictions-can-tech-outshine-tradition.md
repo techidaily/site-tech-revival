@@ -1,7 +1,7 @@
 ---
 title: Magazine Horoscopes or ChatGPT Predictions – Can Tech Outshine Tradition?
-date: 2024-10-20T16:55:04.248Z
-updated: 2024-10-22T19:19:25.552Z
+date: 2024-10-24T12:24:03.213Z
+updated: 2024-10-27T20:45:29.254Z
 tags:
   - chatgpt
   - open-ai
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  You can still[use ChatGPT like a search engine](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) . Just make sure you don’t take its answers at face value; otherwise, you might publish misleading information. As a general rule, always compare AI responses with official resources.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Language Models Like GPT-3 Follow Templates
 
  Modern AI platforms use[sophisticated language models like GPT-3](https://www.makeuseof.com/what-is-gpt-3-and-is-it-really-the-future-of-creative-work/) . They execute aggressive machine and deep learning methods to produce human-like text.
@@ -51,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
@@ -70,15 +63,22 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. AI Scrapes Commonly Published Information
 
 ![Copy.ai Generates an Article on Taking Care of Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/copy-ai-article-on-dogs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI avoids inaccuracies by generating generic responses. Take the above piece as an example. When we asked an AI writing tool to talk about dog care, it focused on super-common tips, which readers have likely seen multiple times. The below photo also shows that its insights came from an unreliable source.
@@ -90,10 +90,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. AI Generates the Same Results for Similar Questions
@@ -106,24 +106,24 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
 
  Despite their advancements in mimicking human-like text, chatbots and writing tools still have limitations. They can’t wholly replicate tone. AI follows predetermined, formulaic templates, even when instructed to adopt a specific tone.
 
  It’s best to curate articles yourself. Remember that consistent branding plays a crucial role in retaining site visitors. The content you publish, your layout, and the conclusions you assert should resonate with your target audience. Give them reasons to come back to your site.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Writing Tools Don’t Incorporate SEO Tactics Into Its Pieces
 
@@ -164,18 +164,21 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-videovault-annual-review-of-top-screen-recorders/"><u>[New] VideoVault Annual Review of Top Screen Recorders</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-creative-composition-collage-tips-liven-up-your-surroundings-for-2024/"><u>[Updated] Creative Composition Collage Tips Liven Up Your Surroundings for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-users-influence-chatgpts-learning-process/"><u>Can Users Influence ChatGPT's Learning Process?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-unveiled-an-essential-manual-for-parents-in-the-age-of-generative-intelligence/"><u>ChatGPT Unveiled: An Essential Manual for Parents in the Age of Generative Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-guide-erasing-all-past-conversations-from-chatgpt/"><u>Complete Guide: Erasing All Past Conversations From ChatGPT</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/critical-essentials-top-10-terraria-upgrades/"><u>Critical Essentials Top 10 Terraria Upgrades</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cutting-edge-job-search-with-chatgpt-insights/"><u>Cutting-Edge Job Search with ChatGPT Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/guia-paso-a-paso-conversion-libre-de-webm-a-vob-en-internet-con-movavi/"><u>Guía Paso a Paso: Conversión Libre De WEBM a VOB en Internet Con Movavi</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 14 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-sony-xperia-10-v-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Sony Xperia 10 V Location Settings | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-iphone-xs-max-5-ways-to-get-into-a-locked-iphone-xs-max-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XS Max? 5 Ways to get into a Locked iPhone XS Max</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rocket-league-stability-issues-learn-how-to-prevent-app-crashes-now/"><u>Rocket League Stability Issues? Learn How to Prevent App Crashes Now!</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v30-lite-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V30 Lite 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-detailed-exploration-lightroom-app-on-the-android-platform/"><u>[New] In 2024, Detailed Exploration Lightroom App on the Android Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-progressive-array-of-chat-initiators-for-attracting-podcast-audience/"><u>[New] Progressive Array of Chat-Initiators for Attracting Podcast Audience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-all-you-need-to-know-about-the-apple-m1-max-clip-for-2024/"><u>[Updated] All You Need to Know About the Apple M1 Max Clip for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-visionaries-shaping-marvel-online-experience/"><u>[Updated] In 2024, Visionaries Shaping Marvel Online Experience</u></a></li>
+<li><a href="https://fox-search.techidaily.com/comment-assurer-la-surete-des-donnees-avec-une-efficiente-restoration-de-fichiers-en-ligne/"><u>Comment Assurer La Sûreté Des Données Avec Une Efficiente Restoration De Fichiers en Ligne</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/efficient-strategies-for-seamless-system-transition-on-windows-11-a-4-step-guide/"><u>Efficient Strategies for Seamless System Transition on Windows 11: A 4-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/optimize-your-power-status-add-custom-battery-alerts-to-win11/"><u>Optimize Your Power Status: Add Custom Battery Alerts to Win11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reconstructing-erased-ai-communication/"><u>Reconstructing Erased AI Communication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionize-your-work-life-by-learning-about-the-power-of-chatgpt-top-6-insights/"><u>Revolutionize Your Work Life by Learning About the Power of ChatGPT - Top 6 Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-your-data-the-top-6-cybersecurity-issues-with-chatgpt/"><u>Safeguarding Your Data: The Top 6 Cybersecurity Issues with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/showcase-of-ai-uniform-tasks-evaluation/"><u>Showcase of AI: Uniform Tasks Evaluation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spotting-the-real-deal-a-users-manual-to-detecting-legitimate-chatgpt-apps-on-apple-devices/"><u>Spotting the Real Deal: A User's Manual to Detecting Legitimate ChatGPT Apps on Apple Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-potential-of-chatgpt-a-revolutionary-approach-to-proofreading/"><u>The Potential of ChatGPT: A Revolutionary Approach to Proofreading</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-road-ahead-for-silicon-valley-after-antitrust-overhaul/"><u>The Road Ahead for Silicon Valley After Antitrust Overhaul</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-5-leading-ai-powered-prompt-generators-to-maximize-efficiency-in-various-ais/"><u>The Ultimate List of 5 Leading AI-Powered Prompt Generators to Maximize Efficiency in Various AIs</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 15 Pro Max? | Stellar</u></a></li>
 </ul></div>
 

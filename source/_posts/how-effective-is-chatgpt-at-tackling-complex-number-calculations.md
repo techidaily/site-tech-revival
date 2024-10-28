@@ -1,7 +1,7 @@
 ---
 title: How Effective Is ChatGPT at Tackling Complex Number Calculations?
-date: 2024-09-15T21:54:31.696Z
-updated: 2024-09-17T18:28:37.251Z
+date: 2024-10-26T06:54:37.861Z
+updated: 2024-10-28T04:40:44.554Z
 tags:
   - chatgpt
   - open-ai
@@ -66,7 +66,21 @@ Close
 
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -79,6 +93,13 @@ Close
  As with geometry and the topics before it, ChatGPT was able to solve trigonometry problems relating to topics like sinusoidal equations, amplitude, and the sine of complementary angles with ease. When given an incorrect premise in the fourth equation, however, ChatGPT was just as willing to offer a confidently incorrect answer.
 
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
 
@@ -100,33 +121,33 @@ Close
 
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
 
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## Is ChatGPT Accurate at Solving Math Problems?
 
  Overall, ChatGPT is accurate at solving math problems. It is highly capable of answering and explaining questions from a broad assortment of topics in math. The main issue that ChatGPT faces is that it isn’t as capable of correcting false assumptions and misunderstandings—and in some cases, it can affirm mistakes without being prompted to do so.
 
  That doesn’t make ChatGPT a bad tool for solving math problems. In many cases, ChatGPT serves as a reliable and accurate time-saver—and it’s completely free to use. The mistakes made by ChatGPT don’t condemn it, but they do serve as a reminder that you need to[use the right techniques when working with ChatGPT](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) and double-check its answers.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT’s Equation Solving Limitations
 
@@ -136,6 +157,13 @@ Close
 * ChatGPT always answers confidently. If you aren’t familiar enough with math to discern when it gives an incorrect answer but rely on it for learning, you may develop serious misunderstandings about concepts in math over time.
 * ChatGPT bends to the will of the user. Regardless of whether you intend to manipulate its answers, it may offer incorrect information to appease you if something in your response triggers it.
 * ChatGPT may not pick up on inherent errors in the information that you give it. You should reconsider using ChatGPT for math if you aren’t familiar enough with a concept because it may simply reinforce your misunderstanding.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Use ChatGPT Carefully When Solving Math Problems
 
@@ -156,5 +184,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-capturing-audiene-with-spectacular-gadget-unboxing-vlogs-for-2024/"><u>[New] Capturing Audiene with Spectacular Gadget Unboxing Vlogs for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-efficient-video-downloading-vimeo-to-mp4-tutorial/"><u>[New] Efficient Video Downloading Vimeo to MP4 Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elite-10-audio-boosters-for-os-x-ios-android/"><u>[Updated] In 2024, Elite 10 Audio Boosters for OS X, iOS, Android</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-elevate-your-media-content-via-youtube-studio-editing-skills/"><u>In 2024, Elevate Your Media Content via YouTube Studio Editing Skills</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-tecno-spark-20c-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Tecno Spark 20C Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/mastering-self-managed-data-rescue-techniques-for-personal-devices/"><u>Mastering Self-Managed Data Rescue Techniques for Personal Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-ai-transfer-learning-techniques-and-implementation/"><u>The Ins and Outs of AI Transfer Learning: Techniques & Implementation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-motive-understanding-why-chatgpt-is-a-prime-target-for-cybercriminals/"><u>The Motive: Understanding Why ChatGPT Is a Prime Target for Cybercriminals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-threat-of-gpt-to-seo-and-search-techniques/"><u>The Threat of GPT to SEO and Search Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-managing-anxiety-through-conversations-with-chatgpt/"><u>The Ultimate Guide to Managing Anxiety Through Conversations With ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-tools-for-sharing-your-conversations-with-chatgpt-on-social-platforms/"><u>Top Tools for Sharing Your Conversations with ChatGPT on Social Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-communication-skills-with-chatgpt/"><u>Transforming Communication Skills with ChatGPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-get-your-stubbornly-closed-epic-games-launcher-running-again/"><u>Troubleshooting Steps: Get Your Stubbornly Closed Epic Games Launcher Running Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/two-effective-methods-for-accessing-and-reading-the-acsm-ebook-on-your-ipad/"><u>Two Effective Methods for Accessing and Reading the ACSM eBook on Your iPad</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo Y27 5G? | Dr.fone</u></a></li>
+</ul></div>
 

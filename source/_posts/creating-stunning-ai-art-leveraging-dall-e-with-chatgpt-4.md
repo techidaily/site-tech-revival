@@ -1,7 +1,7 @@
 ---
 title: "Creating Stunning AI Art: Leveraging DALL-E with ChatGPT-4"
-date: 2024-09-14T11:31:52.647Z
-updated: 2024-09-17T23:35:42.068Z
+date: 2024-10-27T08:07:04.249Z
+updated: 2024-10-28T13:10:22.423Z
 tags:
   - chatgpt
   - open-ai
@@ -45,6 +45,13 @@ And here is the final result:
 
 ![An image of the NYC skyline Created with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-poster-image.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Calendar Cover Artwork
 
  You can[make a printable calendar with Canva](https://www.makeuseof.com/tag/make-your-own-calendar-using-canva/) and other apps, but that doesn’t mean you can’t use DALL-E 3 to generate the front cover artwork. Whether you want to gift someone your calendar or use it yourself, try using this prompt.
@@ -58,10 +65,23 @@ I asked DALL-E 3:
 ![DALL-E 3 Calendar Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-calendar.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3 A Birthday Card Cover
@@ -89,10 +109,10 @@ Okay, so that didn’t go to plan…
 ![DALL-E 3 Birthday Card Cover](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-birthday-card.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Desktop Wallpapers
@@ -104,6 +124,13 @@ Okay, so that didn’t go to plan…
  Below is the result, which I’m happy with. You may need to get more specific, such as asking DALL-E 3 to remove the white background.
 
 ![A Desktop Background Created in DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-desktop-background.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 Smartphone Wallpapers
 
@@ -130,16 +157,10 @@ Close
 ![DALL-E 3 AI Art Cover in Square Format](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-ai-art-cover.jpeg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 Social Media Cover Banners
@@ -153,20 +174,6 @@ I used the following prompt:
  You can customize the above prompt for any landmark or genre that interests you. Below is the result I got with just one prompt. I was happy with this, and it was a much smoother process than some of the other attempts in this article.
 
 ![A social media banner image generated with DALL-E 3](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/dall-e-3-social-media-banner.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8 Photo Album Covers
 
@@ -197,5 +204,19 @@ Below is a prompt I tried for a photo album cover:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-gamers-path-to-earnings-on-youtube/"><u>[New] 2024 Approved Gamer's Path to Earnings on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-high-fidelity-game-recording-tools/"><u>[Updated] 2024 Approved High Fidelity Game Recording Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-critique-on-luminances-approach-to-hdr-creation/"><u>[Updated] Critique on Luminance’s Approach to HDR Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-balanced-overview-of-chatgpt-plus-weighing-its-positives-against-its-negatives/"><u>A Balanced Overview of ChatGPT Plus - Weighing Its Positives Against Its Negatives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-mundane-hr-processes-with-these-5-key-chatgpt-strategies-for-enhanced-productivity/"><u>Accelerate Mundane HR Processes with These 5 Key ChatGPT Strategies for Enhanced Productivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-chatgpt-anytime-anywhere-new-android-app-update/"><u>Access ChatGPT Anytime, Anywhere: New Android App Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-detective-sagas-embark-on-4-thrilling-virtual-investigations/"><u>AI Detective Sagas: Embark on 4 Thrilling Virtual Investigations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-networking-the-top-19-ways-to-use-chatgpt-and-land-a-dream-role-on-linkedin/"><u>AI-Driven Networking: The Top 1([=9]) Ways to Use ChatGPT and Land a Dream Role on LinkedIn</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-industry-standards-prime-gimbals-for-drones/"><u>In 2024, Industry Standards Prime Gimbals for Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimizing-space-setting-up-a-vr-capable-area-for-2024/"><u>Optimizing Space Setting Up a VR-Capable Area for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-vivo-v27-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo V27 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-driver-update-tutorial-with-revouninstaller/"><u>Windows 11 Driver Update Tutorial with RevoUninstaller</u></a></li>
+</ul></div>
 

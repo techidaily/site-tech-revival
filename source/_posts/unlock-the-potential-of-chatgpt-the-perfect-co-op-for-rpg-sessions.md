@@ -1,7 +1,7 @@
 ---
 title: "Unlock the Potential of ChatGPT: The Perfect Co-Op for RPG Sessions"
-date: 2024-10-19T19:07:39.605Z
-updated: 2024-10-22T19:17:17.585Z
+date: 2024-10-25T07:53:36.973Z
+updated: 2024-10-27T16:40:12.908Z
 tags:
   - chatgpt
   - open-ai
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -63,10 +70,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
@@ -83,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
 [Avoiding common mistakes when using AI prompting tools](https://www.makeuseof.com/mistakes-generative-ai-tools/) isn't always easy, but one of the main issues you'll encounter is trying to make the tool multitask. AI programs will often generate your results within a few minutes, but they can only do one thing at a time. If you try to ask too many things in one go, you won't get the results you want.
@@ -97,6 +97,13 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
  Sometimes, you'll begin a prompt and realize you forgot to add further information. When this happens, stop or edit the current prompt and include those details before re-generating your answer.
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
@@ -108,13 +115,6 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -124,10 +124,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -139,16 +139,10 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
@@ -168,18 +162,19 @@ thumbnail: https://thmb.techidaily.com/104fcc0c1e7ba0020bac11684b73c47c97661f3e4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-the-action-easy-steps-for-overwatch-players-for-2024/"><u>[Updated] Capture the Action Easy Steps for Overwatch Players for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-changing-photo-colors-with-ease/"><u>[Updated] Changing Photo Colors with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversao-libre-e-direta-vob-em-m2ts-com-o-movavi-ferramenta-on-line-unica/"><u>Conversão Libre E Direta: VOB Em M2TS Com O Movavi - Ferramenta On-Line Única!</u></a></li>
-<li><a href="https://games-able.techidaily.com/cross-console-gameplay-between-ps-and-ps3-models/"><u>Cross-Console Gameplay Between PS and PS3 Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gratis-omzetten-van-apng-bestandjes-veilige-onliner-converter-via-movavi/"><u>Gratis Omzetten Van APNG-Bestandjes: Veilige Onliner Converter via Movavi</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-many-viewers-equates-to-profit-decoding-youtubes-earnings-formula-for-2024/"><u>How Many Viewers Equates to Profit? Decoding YouTube's Earnings Formula for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-lenovo-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Lenovo</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/leveraging-cookiebot-technology-for-superior-site-personalization-and-tracking/"><u>Leveraging CookieBot Technology for Superior Site Personalization and Tracking</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ricodifica-video-da-flv-a-mpg-senza-costi-tramite-convertitore-veloce-movavi/"><u>Ricodifica Video Da FLV a MPG Senza Costi Tramite Convertitore Veloce - Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tilbagebetalingspolitike-i-movavi-hvordan-folgespillerne-vurderer-sikrethedsfelt/"><u>Tilbagebetalingspolitike I Movavi: Hvordan Følgespillerne Vurderer Sikrethedsfelt</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/veelvliks-ontmoet-video-naar-mp3-professionele-converteermachine/"><u>Veelvliks Ontmoet Video Naar MP3 - Professionele Converteermachine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/video-quality-display-settings-pc-and-macos/"><u>Video Quality, Display Settings, PC, and macOS.</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/1728497157732-windows-11windows-10/"><u>Windows 11維修後，恢復Windows 10無功能的補正</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-analysis-best-valheim-seeds-for-growth/"><u>[New] In-Depth Analysis Best Valheim Seeds for Growth</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigate-to-the-5-preferred-android-ps2-emulator-apps/"><u>[Updated] In 2024, Navigate to the 5 Preferred Android PS2 Emulator Apps</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mp3ify-your-fb-videos-directly/"><u>[Updated] MP3ify Your FB Videos Directly</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-screens-to-spreads-the-dos-and-donts-of-live-blogging/"><u>2024 Approved From Screens to Spreads The Do's and Don'ts of Live Blogging</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-driven-fake-news-a-potential-risk/"><u>AI-Driven Fake News: A Potential Risk?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/an-overview-of-hugging-face-why-use-it-in-ai-development/"><u>An Overview of Hugging Face: Why Use It in AI Development?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beat-digital-noise-the-8-keyphrases-for-chatgpt-mastery/"><u>Beat Digital Noise: The 8 Keyphrases for ChatGPT Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-workflow-integrating-chatgpt-as-your-on-demand-professional-support/"><u>Boost Your Workflow: Integrating ChatGPT as Your On-Demand Professional Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-chatgpt-for-efficient-code-generation-7-exceptional-ai-alternatives/"><u>Bypass ChatGPT for Efficient Code Generation: 7 Exceptional AI Alternatives</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-how-to-overcome-the-challenging-phase0exception-error-code-0x00000078/"><u>Comprehensive Fixes: How to Overcome the Challenging PHASE0_EXCEPTION, Error Code 0X00000078</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/narrative-artistry-accolades-1-8-distinguished-academies-for-2024/"><u>Narrative Artistry Accolades #1-#8 Distinguished Academies for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solution-for-vertical-stripes-appearing-on-samsung-tv-a-step-by-step-approach/"><u>Solution for Vertical Stripes Appearing on Samsung TV: A Step by Step Approach</u></a></li>
 </ul></div>
 

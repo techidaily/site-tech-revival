@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Twitter's Latest Features: Ax Gestures & Custom Emojis"
-date: 2024-09-16T18:51:53.851Z
-updated: 2024-09-18T03:31:19.586Z
+date: 2024-10-24T11:29:02.811Z
+updated: 2024-10-28T06:35:06.532Z
 tags:
   - chatgpt
   - open-ai
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e
  ChatGPT, OpenAI’s flagship AI product, has received a game-changing update with a bunch of new features. With several key updates rolling out simultaneously, OpenAI has truly spoiled ChatGPT users, particularly ChatGPT Plus subscribers.
 
  There's a lot to get through, and we don't want you to miss out—so we’ve explored the latest ChatGPT update to see how it will impact your experience with the AI chatbot.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 1\. The Arrival of GPT-4 Turbo
 
@@ -58,6 +65,13 @@ Close
 
  You could make other custom GPTs as well, like one for movie recommendations primed with a database of films. Then prompt your custom movie bot anytime you want a recommendation. The best part is that you’ll eventually be able to share these specialized GPTs publicly and potentially profit when others find them useful. Custom GPTs allow you to easily customize ChatGPT for specialized purposes beyond its general knowledge without the need to write any code.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Use Pre-Listed GPTs
 
  You can build a custom GPT, or you can choose from a long list of hundreds of pre-built options to supercharge your prompting experience. Since they are optimized for particular functions, you can get even better responses than regular ChatGPT for niche uses. The[pre-built GPTs have already been primed](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) with specialized knowledge to supercharge performance for targeted prompting.
@@ -65,19 +79,19 @@ Close
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT’s Evolution Continues
@@ -99,5 +113,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-f23-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo F23 5G</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-your-gopro-matchmaker-a-detailed-model-analysis/"><u>2024 Approved Your Gopro Matchmaker A Detailed Model Analysis</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-14-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 14 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/apple-iphone-11-pro-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 11 Pro Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-nvidias-ai-service-for-personalized-creation/"><u>Exploring NVIDIA's AI Service for Personalized Creation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-vs-paid-assistants-for-freelancers-bing-chat-and-gpt-3-showdown/"><u>Free vs Paid Assistants for Freelancers: Bing Chat & GPT-3 Showdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-4s-new-horizon-beyond-gpt-35-limits/"><u>GPT-4's New Horizon Beyond GPT-3.5 Limits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/halt-the-comparative-analysis-exploring-differences/"><u>Halt The Comparative Analysis: Exploring Differences</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-15-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone 15 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-mix-fold-3-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Mix Fold 3 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://facebook.techidaily.com/president-takes-tech-companies-to-court-over-speech-limits/"><u>President Takes Tech Companies to Court over Speech Limits</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-oppo-f23-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Oppo F23 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unveiled-apple-introduces-powerful-13-and-15-macbook-air-models-featuring-the-latest-m3-processor-discover-the-updates/"><u>Unveiled: Apple Introduces Powerful 13 & 15 MacBook Air Models Featuring the Latest M3 Processor - Discover the Updates!</u></a></li>
+</ul></div>
 

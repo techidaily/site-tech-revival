@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Fresh Features Rollout: A Guide to the Highlights You Need To Know"
-date: 2024-09-13T00:46:53.539Z
-updated: 2024-09-18T03:27:25.885Z
+date: 2024-10-26T17:36:30.349Z
+updated: 2024-10-28T05:45:08.709Z
 tags:
   - chatgpt
   - open-ai
@@ -43,9 +43,23 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  GPT-4 is being used to create a reactive and responsive learning environment where no two conversations are alike. The first version is restricted to English speakers wanting to learn Spanish or French and is available only on iOS. Duolingo Max is priced at $29.99 monthly or $167.99 for an annual subscription.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Be My Eyes
 
 ![Picture Introducing Virtual Volunteer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/picture-introducing-virtual-volunteer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The use of AI in our lives has been the source of many heated discussions. However, there are some areas where there can be little argument that AI has a positive effect. Be My Eyes is one such example. The app is designed to make the world more accessible for visually impaired people.
 
@@ -64,13 +78,6 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
  On the topic of worthwhile causes, another early adopter of GPT-4 is Khan Academy, a[free online course platform](https://www.khanacademy.org/signup) . This non-profit organization's mission statement is to offer free, world-class education to anyone.
 
  Khan Academy sees GPT-4 as a virtual teacher. The roll-out of the app is limited, with the teaching assistant (dubbed Khanmigo) only available to a limited number of users. However, a[Khan Academy waitlist](https://www.khanacademy.org/khan-labs) exists for those wanting to help test the product. Successful applicants are asked to donate $20 per month.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How Does Khan Academy Use GPT-4?
 
@@ -93,16 +100,16 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  The Khan Academy app is free across all platforms; students and teachers can sign up online to join[Khan Academy](https://www.khanacademy.org/signup) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Stripe
 
 ![Screenshot of Stripe Homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-stripe-homepage.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Stripe is a payment processing platform that allows all types of businesses to accept and send payments online and provides other business management tools.
 
@@ -121,10 +128,10 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
  The developers say that the new system will be able to understand users' questions fully. It can also scan support documentation and offer solutions or highlight relevant text within documents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. ChatSonic
@@ -136,6 +143,13 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
  ChatSonic can be described as a Swiss army knife for business owners, freelancers, writers, content creators, and anyone else really. The list of potential customers for this app is a testament to its versatility.
 
  The app is an upgraded version of WriteSonic, a writing aid based on ChatGPT 3.5\. WriteSonic is the foundation that ChatSonic was built on; GPT-4 adds the extra functionality.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### What Can You Do With ChatSonic?
 
@@ -149,20 +163,27 @@ GPT-4 is here, and the rush to integrate it into apps has begun.
 
  ChatSonic is free to try, and the paid version starts at $12.67 per month. Full details are available on the[WriteSonic](https://writesonic.com/chat) website.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Bing AI
 
 ![Screenshot_of Bing app opening screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot_of-bing-app-opening-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Bing Chat Opening Screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-chat-opening-screen.jpg)
 
 ![Screenshot of Bing answering query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/screenshot-of-bing-answering-query.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -184,13 +205,6 @@ Close
  In short, this app can do everything that the original ChatGPT can, but with lots more features and access to current data sources.
 
 **Download** : Bing AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2023057/https://play.google.com/store/apps/details?id=com.microsoft.bing) |[iOS](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Petey
 
@@ -229,5 +243,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetturnstile-how-video-trends-surge-online/"><u>[New] TweetTurnstile How Video Trends Surge Online</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-guide-for-smooth-flights/"><u>2024 Approved Gimbal Guide for Smooth Flights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/capturing-the-world-from-anywhere-9-must-follow-steps/"><u>Capturing the World From Anywhere 9 Must-Follow Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722034515054-facing-problems-with-the-chatgpt-app-on-your-iphone-try-these-9-fixes/"><u>Facing Problems with the ChatGPT App on Your iPhone? Try These 9 Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-qualcomm-chipset-usb-drivers-compatible-with-win11-10-8-and-7/"><u>Get Your [Qualcomm Chipset] USB Drivers - Compatible with Win11, 10, 8 & 7</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-newest-drivers-for-your-geforce-gtx-1660-super/"><u>How to Install the Newest Drivers for Your GeForce GTX 1660 Super</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175714568-pocket-friendly-power-the-thermalight-spirit-phantom-120-se-your-best-value-air-cooler-for-a-steal-at-just-35/"><u>Pocket-Friendly Power: The Thermalight Spirit Phantom 120 SE, Your Best-Value Air Cooler for a Steal at Just $35!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-chatgpt-code-interpreter-its-significance-explained/"><u>Understanding the ChatGPT Code Interpreter: Its Significance Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleashing-gpt-4-your-gateway-to-universal-access-and-seamless-functionality/"><u>Unleashing GPT-4: Your Gateway to Universal Access & Seamless Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-next-level-of-search-capabilities-microsoft-integrates-ai-into-bing-experience/"><u>Unveiling the Next Level of Search Capabilities - Microsoft Integrates AI Into Bing Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-ai-discover-googles-advanced-palm-2-language-model/"><u>Unveiling the Power of AI: Discover Google's Advanced PaLM 2 Language Model</u></a></li>
+<li><a href="https://win-unique.techidaily.com/wiederherstellung-des-papierkorbs-in-windows-10-ein-umfassender-tippgeber/"><u>Wiederherstellung Des Papierkorbs in Windows 10: Ein Umfassender Tippgeber</u></a></li>
+</ul></div>
 

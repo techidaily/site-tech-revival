@@ -1,7 +1,7 @@
 ---
 title: "Mastering Creative Thinking: Generating Concepts with Mindmaps & ChatGPT"
-date: 2024-09-17T11:49:23.552Z
-updated: 2024-09-18T01:25:09.442Z
+date: 2024-10-23T05:16:03.306Z
+updated: 2024-10-27T21:26:36.062Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -55,11 +62,32 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -82,12 +110,17 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-money-making-masters-youtubes-financial-kings/"><u>[Updated] In 2024, Money-Making Masters YouTube's Financial Kings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/achieving-peak-apple-tv-functionality-expert-strategies-revealed/"><u>Achieving Peak Apple TV Functionality: Expert Strategies Revealed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-professionals-almanac-to-efficient-voice-recording/"><u>In 2024, Professional's Almanac to Efficient Voice Recording</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-accessing-chatgpt-plug-in-functionality/"><u>Step-by-Step Tutorial on Accessing ChatGPT Plug-In Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/strategies-for-exporting-your-personalized-gpt-responses/"><u>Strategies for Exporting Your Personalized GPT Responses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-talk-titles-analyzing-gpt-vs-bingbot-capabilities/"><u>Tech Talk Titles: Analyzing GPT Vs. BingBot Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-magic-behind-claude-understanding-and-leveraging-advanced-ai/"><u>The Magic Behind Claude: Understanding and Leveraging Advanced AI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-emerging-mobile-innovations-exploring-on-device-artificial-intelligence-and-the-latest-in-smartphones-insights-from-zdnet/"><u>Top 5 Emerging Mobile Innovations: Exploring On-Device Artificial Intelligence & The Latest in Smartphones - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-make-a-non-detectable-usb-drive-functional-again/"><u>Troubleshooting Steps to Make a Non-Detectable USB Drive Functional Again</u></a></li>
+</ul></div>
 

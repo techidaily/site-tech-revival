@@ -1,7 +1,7 @@
 ---
 title: Master Opening CMD on Windows 7, 8, 10 & 11 with Ease
-date: 2024-09-13T01:47:20.879Z
-updated: 2024-09-17T20:25:40.586Z
+date: 2024-10-24T05:18:54.329Z
+updated: 2024-10-27T19:10:16.189Z
 categories:
   - BestProducts
 description: This Article Describes Master Opening CMD on Windows 7, 8, 10 & 11 with Ease
@@ -55,6 +55,14 @@ thumbnail: https://www.lifewire.com/thmb/8oMHcKKec-fo_rBG5gYRk4kAIe0=/400x300/fi
 13. Tap the toggle next to**Allow display over other apps** .  
 ![Continue, AirDroid, and the toggle highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/fsJsiMEafExGn_8nR-dfrcR-3qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B10-RunAndroidAppsonWindows10-annotated-0317e836163041fb8fdc907e4c24a251.jpg)
 14. Return to AirDroid and go to**Remote Control** \>**Enable remote control** \>**Still enable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Remote Control, Enable remote control, and Still enable highlighted in AirDroid for Android.](https://www.lifewire.com/thmb/TwYRkcvTt5VICEB4zjl6wuqUaFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B11-RunAndroidAppsonWindows10-annotated-11ed8c49a76f4a19996a181f0675c9ad.jpg)
 15. Now you need to install a small add-on from the Play Store to actually enable remote control access between your computer and phone. To do this, follow the on-screen prompts to select**Download and install** \>**Download** \>**Install** .  
 ![Download and install, Download, and Install buttons highlighted in AirDroid and Play Store.](https://www.lifewire.com/thmb/GuTDLA0vCwUfKRPNfUJUL8RL6OQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B12-RunAndroidAppsonWindows10-annotated-838eade9103c4f5f9c31b048bc90e969.jpg)
@@ -64,6 +72,13 @@ thumbnail: https://www.lifewire.com/thmb/8oMHcKKec-fo_rBG5gYRk4kAIe0=/400x300/fi
 ![Grant permissions, Use AirDroid, and Allow buttons highlighted in AirDroid and Settings for Android.](https://www.lifewire.com/thmb/9wwRzJ1bk6CSlYqjShS8rRLl3Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B14-RunAndroidAppsonWindows10-annotated-f8f7e76cfbbb487b9b21a58fcd38c6e5.jpg)
 18. Tap**Done** on the screen that says remote control is enabled.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 19. Tap the**Transfer** tab at the bottom of AirDroid, followed by**AirDroid Web** .
 20. On your computer, enter the[IP address](https://www.lifewire.com/what-is-an-ip-address-2625920) and port number shown in the AirDroid app.  
 ![Done, Transfer, AirDroid Web, and Option 2 paragraph highlighted in AirDroid.](https://www.lifewire.com/thmb/8yoCK74talFlTYj-YCYm5lIzqdY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B17-RunAndroidAppsonWindows10-annotated-093199afced14217a49962e06818d393.jpg)
@@ -71,10 +86,34 @@ thumbnail: https://www.lifewire.com/thmb/8oMHcKKec-fo_rBG5gYRk4kAIe0=/400x300/fi
 
 ![Sign in with options highlighted at the bottom of AirDroid on Windows.](https://www.lifewire.com/thmb/yihdd2n5vliGiBjdZ0a0lgTyd2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B18-RunAndroidAppsonWindows10-annotated-af9b005584844c549e138ac9586debbf.jpg)
 22. Select your Android device from the**Choose a device** prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Google Pixel 7a highlighted in AirDroid on Windows](https://www.lifewire.com/thmb/rSTxohWXD6GAQ3V44jNWjAE0Zy0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-select-device-0a3031475b7f42a1992483aaf18147f7.png)
 23. Select**Mirroring** from the AirDroid desktop on your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Mirroring highlighted on the AirDroid desktop on Windows.](https://www.lifewire.com/thmb/MZkSyFVGUy34i_WC0wxca7axxn4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B20-RunAndroidAppsonWindows10-annotated-240867983f69412f8df605137bf2b1db.jpg)
 24. You'll see your whole Android screen on your Windows computer. You can launch apps from either device to see them displayed on your Windows 10 PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![A Pixel 7 phone mirrored to a Windows computer](https://www.lifewire.com/thmb/8asRQPV_NwnOvS7jDbFVKsTq4l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airdroid-web-screen-mirroring-8f3fe1ffb7e24040b82dea79dff7b029.png)
 
  FAQ
@@ -115,12 +154,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-boosting-social-media-presence-with-effective-fb-instream-ad-plans/"><u>[Updated] 2024 Approved Boosting Social Media Presence with Effective FB Instream Ad Plans</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-visibility-the-power-of-customized-youtube-templates/"><u>[Updated] In 2024, Enhance Visibility The Power of Customized YouTube Templates</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-spotlight-10-anonymous-story-gazers/"><u>[Updated] In 2024, Spotlight 10 Anonymous Story Gazers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/complete-tutorial-for-integrating-the-apex-sports-plugin-into-your-kodi-interface-ensuring-compatibility-with-matrix/"><u>Complete Tutorial for Integrating the Apex Sports Plugin Into Your Kodi Interface, Ensuring Compatibility with Matrix</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/emotion-ai-unveiled-can-advanced-algorithms-accurately-detect-our-inner-state/"><u>Emotion AI Unveiled: Can Advanced Algorithms Accurately Detect Our Inner State?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-productivity-with-chatgpt-a-four-step-approach/"><u>Enhancing Productivity with ChatGPT: A Four-Step Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-new-frontier-7-groundbreaking-bard-ai-advancements-unleashed-at-googles-io-conference-2023/"><u>Explore the New Frontier: 7 Groundbreaking BARD AI Advancements Unleashed at Google's I/O Conference 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-world-of-artificial-intelligence-understanding-the-need-for-and-approach-towards-effective-ai-governance/"><u>Exploring the World of Artificial Intelligence: Understanding the Need for and Approach Towards Effective AI Governance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-foresight-defying-turings-experiment/"><u>Future Foresight: Defying Turing's Experiment</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-sony-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Sony</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-from-amateur-to-expert-iphones-audio-recording-journey/"><u>In 2024, From Amateur to Expert IPhone's Audio Recording Journey</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-ios-visual-assistance-options-for-the-visually-impaired/"><u>Top 8 iOS Visual Assistance Options for the Visually Impaired</u></a></li>
+</ul></div>
 

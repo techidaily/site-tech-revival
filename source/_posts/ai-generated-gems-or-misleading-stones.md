@@ -1,7 +1,7 @@
 ---
 title: AI-Generated Gems or Misleading Stones?
-date: 2024-10-18T17:54:22.112Z
-updated: 2024-10-22T16:57:55.683Z
+date: 2024-10-26T16:41:34.407Z
+updated: 2024-10-27T18:38:23.620Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022\.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -66,34 +73,27 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 ![Screenshot of the GPT store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store.jpg)
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -121,24 +121,16 @@ thumbnail: https://thmb.techidaily.com/7232672881e7d137d3952f765be2610288c45b29a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-harnessing-windows-10-tools-for-exquisite-video-editing/"><u>[New] Harnessing Windows 10 Tools for Exquisite Video Editing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-instagram-to-origins-the-step-by-step-image-trackback/"><u>[Updated] 2024 Approved Instagram to Origins The Step-by-Step Image Trackback</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-film-craft-mastering-thumbnail-creation-on-mobiles/"><u>[Updated] YouTube Film Craft Mastering Thumbnail Creation on Mobiles</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-realme-v30t-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/distinguishing-diverse-ai-usage-scenarios/"><u>Distinguishing Diverse AI Usage Scenarios</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-the-risk-are-alternative-chatgpt-plugins-secure-to-use/"><u>Evaluating the Risk: Are Alternative ChatGPT Plugins Secure to Use?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-impact-of-generative-ai-on-modern-day-information-manipulation-techniques/"><u>Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-manuscript-to-machine-has-chatgpt-redefined-academic-writing/"><u>From Manuscript to Machine: Has ChatGPT Redefined Academic Writing?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immediate-access-unveiling-openais-new-customized-gpt-platform/"><u>Immediate Access: Unveiling OpenAI's New Customized GPT Platform</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-messenger-communication-tips-for-access-without-facebook-login/"><u>Mastering Messenger Communication: Tips for Access without Facebook Login</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-splitting-your-macbook-air-screen-for-better-task-management/"><u>Navigating Splitting Your MacBook Air Screen for Better Task Management</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/premium-gpts-role-in-achieving-language-excellence/"><u>Premium GPT's Role in Achieving Language Excellence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/prepare-to-impress-integrating-chatgpt-in-interview-practice/"><u>Prepare to Impress: Integrating ChatGPT in Interview Practice</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-steam-hitches-stop-the-game-from-freezing-or-ignoring-your-commands-in/"><u>Resolving Steam Hitches: Stop the Game From Freezing or Ignoring Your Commands In</u></a></li>
-<li><a href="https://win-dash.techidaily.com/secure-and-updated-hp-laserjet-1018-drivers-beginner-friendly-download-tips/"><u>Secure and Updated HP LaserJet 1018 Drivers - Beginner-Friendly Download Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-instructions-securely-downloading-and-installing-epson-xp-430-drivers-on-a-windows-operating-system/"><u>Step-by-Step Instructions: Securely Downloading & Installing Epson XP-430 Drivers on a Windows Operating System</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-real-talk-on-using-local-language-models/"><u>The Real Talk on Using Local Language Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-quintet-of-advanced-ai-processor-technologies/"><u>Unveiling the Quintet of Advanced AI Processor Technologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/yitian-710-by-alibaba-revolutionizing-speed-with-its-superior-arm-architecture-for-cloud-computing/"><u>Yitian 지테인 710 by Alibaba: Revolutionizing Speed with Its Superior ARM Architecture for Cloud Computing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-synesthetic-screens-the-future-of-cinema/"><u>[Updated] Synesthetic Screens The Future of Cinema</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-gaming-memories-start-recording-now-for-2024/"><u>Easy Gaming Memories Start Recording Now for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/access-luxury-free-access-to-your-dreamset-of-50-banners/"><u>Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-troubleshoot-a-lagging-iphone-identify-these-angs-reasons-and-apply-fixes/"><u>How to Troubleshoot a Lagging iPhone: Identify These Angs Reasons and Apply Fixes!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-a-chatgpt-plus-membership-right-for-you-an-in-depth-analysis/"><u>Is a ChatGPT Plus Membership Right for You? An In-Depth Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-driven-solutions-top-7-online-marketplaces-for-creative-prompts/"><u>Mastering AI-Driven Solutions: Top 7 Online Marketplaces for Creative Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-your-cover-letter-the-chatgpt-way/"><u>Mastering Your Cover Letter: The ChatGPT Way</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-creativity-for-free-using-dall-e-3-on-the-microsoft-bing-search-engine/"><u>Maximize Creativity for Free: Using DALL-E 3 on the Microsoft Bing Search Engine</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-generative-ai-successfully-the-7-blunders-you-must-dodge/"><u>Navigating Generative AI Successfully: The 7 Blunders You Must Dodge</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nails-unleashed-elevate-your-video-presence-for-2024/"><u>Thumbnails Unleashed Elevate Your Video Presence for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Sony Xperia 10 V? | Dr.fone</u></a></li>
 </ul></div>
 

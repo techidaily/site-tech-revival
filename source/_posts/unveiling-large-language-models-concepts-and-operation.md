@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Large Language Models: Concepts & Operation"
-date: 2024-10-18T16:02:42.698Z
-updated: 2024-10-22T17:26:14.409Z
+date: 2024-10-27T10:23:49.550Z
+updated: 2024-10-28T11:17:49.727Z
 tags:
   - chatgpt
   - open-ai
@@ -55,48 +55,42 @@ Close
 
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
@@ -118,22 +112,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-comprehensive-tutorial-for-transforming-vids-into-dollars-for-2024/"><u>[New] A Comprehensive Tutorial for Transforming Vids Into Dollars for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-strategies-for-sustaining-viewer-interest-in-online-events-for-2024/"><u>[New] Strategies for Sustaining Viewer Interest in Online Events for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-screencastify-recorder-a-complete-step-wise-how-to-guide/"><u>[Updated] 2024 Approved Screencastify Recorder - A Complete Step-Wise How-To Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-conquer-color-with-pro-techniques-in-photography/"><u>[Updated] Conquer Color with Pro Techniques in Photography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-video-gratuite-convertissez-vos-fichiers-oggtheora-en-format-mov-avec-movavi/"><u>Conversion Vidéo Gratuite - Convertissez Vos Fichiers Ogg/Theora en Format MOV Avec Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/convert-your-animated-gifs-into-static-jpg-images-for-free/"><u>Convert Your Animated GIFs Into Static JPG Images for Free</u></a></li>
-<li><a href="https://video-capture.techidaily.com/free-offline-software-and-top-2-web-based-apps-mastering-the-art-of-rotating-gifs/"><u>Free Offline Software & Top 2 Web-Based Apps: Mastering the Art of Rotating GIFs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-transform-mp4-to-avi-format-with-moveavi/"><u>Free Online Converter: Transform MP4 to AVI Format with Moveavi</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-poco-f5-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Poco F5 5G Phone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/jpgjpeg-raw-google/"><u>JPG/JPEG 이미지를 무료로 원시 상자(RAW)으로 Google 탐색에서 전환</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/kostenlose-modify-zu-mpeg-konvertierung-mit-movavi-online/"><u>Kostenlose MODIFY-Zu-MPEG-Konvertierung Mit Movavi - Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/online-movavi/"><u>Online 무료 번호행 항해: Movavi 사용자가 이해하기 쉬우거나</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-into-the-world-of-bug-hunting-get-a-payday-at-openai/"><u>Step Into the World of Bug Hunting; Get a Payday at OpenAI</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-metaverse-vs-omniverse-showdown-a-comprehensive-overview/"><u>The Metaverse Vs. Omniverse Showdown A Comprehensive Overview</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-gratuitamente-audio-aiff-a-m4a-online-utilizzando-il-servizio-di-conversione-di-movavi/"><u>Trasforma Gratuitamente Audio AIFF a M4A Online Utilizzando Il Servizio Di Conversione Di Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m4v-mp4-movavi/"><u>오픈 소스에서 M4V MP4 영상 근로 바꾸기 - Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-guide-the-hottest-meme-accounts-for-emotional-rollerscoasters/"><u>[New] 2024 Approved The Ultimate Guide The Hottest Meme Accounts for Emotional Rollerscoasters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-action-sequels-the-best-games-like-grand-theft-auto/"><u>[Updated] 2024 Approved Action Sequels The Best Games Like Grand Theft Auto</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-capturing-the-essence-of-time-lapse-videos-pro-techniques-for-gopro-hero-10-users/"><u>[Updated] Capturing the Essence of Time-Lapse Videos Pro Techniques for GoPro Hero 10 Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-sony-a6400-screen-blackout-mystery-for-2024/"><u>[Updated] Sony A6400 Screen Blackout Mystery for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-captivate-crowds-secrets-to-screen-collaboration-via-social-media/"><u>2024 Approved Captivate Crowds Secrets to Screen Collaboration via Social Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-guide-through-natures-threats-and-triumphs/"><u>AI Guide Through Nature's Threats and Triumphs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beginners-roadmap-to-install-and-operate-chatgpt-modules/"><u>Beginner's Roadmap to Install and Operate ChatGPT Modules</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-ai-prompt-creation-courses-the-ultimate-guide-to-becoming-a-pro-online/"><u>Best AI Prompt Creation Courses: The Ultimate Guide to Becoming a Pro Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beware-of-bogus-bots-the-9-imitation-threats-mimicking-chatgpt-and-endangering-your-digital-security/"><u>Beware of Bogus Bots: The 9 Imitation Threats Mimicking ChatGPT and Endangering Your Digital Security</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/bitraser-expert-data-purging-application-a-video-guide-for-ultimate-enterprise-security-solutions/"><u>BitRaser Expert Data Purging Application - A Video Guide for Ultimate Enterprise Security Solutions</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/data-rescue-efficient-software-solutions-for-reconstructing-lost-or-corrupt-disk-partitions/"><u>Data Rescue: Efficient Software Solutions for Reconstructing Lost or Corrupt Disk Partitions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nokia-c02-drfone-by-drfone-android/"><u>How to Screen Mirroring Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-tactics-for-pinpointing-ideal-podcast-debut-days/"><u>In 2024, Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-game-design-with-these-techniques-using-chatgpt-as-a-scriptwriter/"><u>Transform Your Game Design with These Techniques Using ChatGPT as a Scriptwriter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-smart-search-utilizing-microsofts-ai-features-in-bing-for-android/"><u>Unlocking Smart Search: Utilizing Microsoft's AI Features in Bing for Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-behind-ai-chatbots-widespread-acceptance/"><u>Unraveling the Mystery Behind AI Chatbots' Widespread Acceptance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-contrasts-a-deep-dive-into-chatgpt-and-microsoft-bings-smart-chatbot-differences/"><u>Unveiling the Contrasts: A Deep-Dive Into ChatGPT and Microsoft Bing's Smart Chatbot Differences</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/update-alert-for-dall-e-3-integrated-editing-options-launched-still-under-development/"><u>Update Alert for DALL-E 3: Integrated Editing Options Launched - Still Under Development</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updated-amd-rx-5700-xt-graphics-driver-download-for-seamless-performance-on-windows-operating-systems/"><u>Updated AMD RX 5700 XT Graphics Driver Download for Seamless Performance on Windows Operating Systems</u></a></li>
 </ul></div>
 

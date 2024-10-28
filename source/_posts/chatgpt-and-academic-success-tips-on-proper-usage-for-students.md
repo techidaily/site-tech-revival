@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT and Academic Success: Tips on Proper Usage for Students"
-date: 2024-09-12T08:43:24.823Z
-updated: 2024-09-18T12:10:34.952Z
+date: 2024-10-23T09:19:45.245Z
+updated: 2024-10-28T08:36:24.868Z
 tags:
   - chatgpt
   - open-ai
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
  With GPT-4 already adept at handling image inputs and outputs, improvements covering audio and video processing are the next milestone for OpenAI, and GPT-5 is a good place to start. Google is already making serious headway with this sort of multimodality with its Gemini AI model. It would be uncharacteristic of OpenAI not to respond. But, of course, don't take our word for it. In his[Unconfuse Me podcast](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/f0d6c3f0-00cc-4ab6-93cc-7f1d7fd3246e/Unconfuse-Me-with-Bill-Gates-episode-6-TGN-transcript.pdf) \[PDF transcript\], Bill Gates asked OpenAI CEO Sam Altman what milestones he foresaw for the GPT series in the next two years. His first answer? Video Processing.
@@ -58,6 +65,19 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
  Despite being one of the most sophisticated AI models in the market, the GPT family of AI models has one of the smallest context windows. For instance,[Google's Gemini can process a staggering 1 million tokens](<http://C:\Users\DELL\Desktop\Chatbase> images\OpenAI Sora text-to-video generator.jpg) , while[ Google's Gemini can process a staggering 1 million tokens](https://www.makeuseof.com/why-gemini-context-window-is-a-game-changer/) (128,000 for standard usage). In contrast, GPT-4 has a relatively smaller context window of 128,000 tokens, with approximately 32,000 tokens or fewer realistically available for use on interfaces like ChatGPT.
@@ -66,21 +86,22 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. GPT Agents
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
@@ -96,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
  GPT Agents promises specialized expert bots coordinated by, hopefully, GPT-5 capable of self-prompting and tackling all subsets of a complex task autonomously. Emphasis on "self-prompting" and "autonomous."
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Less Hallucination
 
@@ -129,5 +143,26 @@ thumbnail: https://thmb.techidaily.com/14a22e63716263e4dbf21490561e8b1d60bb16b34
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-tactics-for-android-video-capture/"><u>[New] In 2024, Essential Tactics for Android Video Capture</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-effective-ways-to-archive-and-record-youtube-events/"><u>[Updated] 2024 Approved Effective Ways to Archive and Record Youtube Events</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-easy-setup-making-a-direct-path-for-youtube-subscribers/"><u>2024 Approved Easy Setup Making a Direct Path for YouTube Subscribers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-4-ai-narrative-bots-for-inspired-writing/"><u>Discover the Best 4 AI Narrative Bots for Inspired Writing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-6-bot-applications-for-engaging-and-reviewing-your-pdf-files/"><u>Discover the Best 6 Bot Applications for Engaging and Reviewing Your PDF Files</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-list-of-8-outstanding-ai-mobile-apps-for-both-android-and-iphone-users/"><u>Discover the Ultimate List of 8 Outstanding AI Mobile Apps for Both Android and iPhone Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-the-world-of-huggingchat-an-affordable-rival-to-chatgpt/"><u>Discovering the World of HuggingChat – An Affordable Rival to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/education-reinvented-with-ai-top-5-school-applications-of-chatgpt/"><u>Education Reinvented with AI: Top 5 School Applications of ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/every-bit-of-ai-apple-revealed-at-wwdc-24/"><u>Every Bit of AI Apple Revealed at WWDC 24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-co-pilot-extension-with-chatgpt-uses-and-abilities/"><u>Exploring Co-Pilot Extension with ChatGPT: Uses and Abilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-use-of-hugging-face-in-ai-technology/"><u>Exploring the Use of Hugging Face in AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exposing-the-dangers-9-phony-ai-apps-posing-as-chatgpt-and-endangering-your-data-privacy/"><u>Exposing the Dangers: 9 Phony AI Apps Posing as ChatGPT and Endangering Your Data Privacy</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/french-expressiveness-boosted-by-27-culturally-rich-phrases/"><u>French Expressiveness Boosted by 27 Culturally Rich Phrases</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-a56s-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo A56s 5G</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-minimization-32-top-rated-apps-to-tidy-up-videos-on-android-for-2024/"><u>Mastering Minimization 32 Top-Rated Apps to Tidy Up Videos on Android for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unleash-your-pcs-hidden-treasures-with-new-windows-10-games/"><u>Unleash Your PC’s Hidden Treasures with New Windows 10 Games</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-video-resume-creators-get-started-with-free-templates/"><u>Updated In 2024, Top Video Resume Creators Get Started with Free Templates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/where-are-my-youtube-comments-desktopiosandroid-strategies-for-2024/"><u>Where Are My YouTube Comments? Desktop/iOS/Android Strategies for 2024</u></a></li>
+</ul></div>
 

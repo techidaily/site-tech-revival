@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Maximum Potential: The Ultimate 5 Guide to Using ChatGPT's Advanced Scripts"
-date: 2024-09-15T16:16:45.219Z
-updated: 2024-09-18T12:04:52.028Z
+date: 2024-10-25T03:57:39.879Z
+updated: 2024-10-27T21:24:41.254Z
 tags:
   - chatgpt
   - open-ai
@@ -58,6 +58,13 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
@@ -72,13 +79,6 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
  Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
@@ -91,14 +91,14 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
@@ -112,15 +112,22 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
@@ -142,16 +149,10 @@ By contrast, the ChatGPT response was to admit its limitations.
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatbots Are Here to Stay
@@ -171,5 +172,22 @@ By contrast, the ChatGPT response was to admit its limitations.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-extraordinary.techidaily.com/1-free-online-flv-to-video-file-converter-transform-flv-into-avi-wmv-mp4-and-more/"><u>1. Free Online FLV to Video File Converter: Transform FLV Into AVI, WMV, MP4 & More</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-streaming-essentials-mastering-discord-recordings/"><u>2024 Approved Streaming Essentials Mastering Discord Recordings</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/comment-fabriquer-votre-proprio-cd-dassistance-technique-pour-ordinateurs-emachines-en-2-etapes-simples/"><u>Comment Fabriquer Votre Proprio CD D'Assistance Technique Pour Ordinateurs éMachines en 2 Étapes Simples</u></a></li>
+<li><a href="https://os-tips.techidaily.com/enhance-your-iphones-readability-with-simple-font-customization-techniques/"><u>Enhance Your iPhone's Readability with Simple Font Customization Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/flashing-lights-of-olympic-speed/"><u>Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-raw-data-to-conversational-genius-developing-your-bespochee-chatgpt-model/"><u>From Raw Data to Conversational Genius: Developing Your Bespochee ChatGPT Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/has-ai-surpassed-the-old-standards-discovering-five-cutting-edge-alternatives-to-the-turing-test/"><u>Has AI Surpassed The Old Standards?: Discovering Five Cutting-Edge Alternatives to the Turing Test</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-artificial-intelligence-chatbots-transform-the-world-of-content-production/"><u>How Artificial Intelligence Chatbots Transform the World of Content Production</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-important-is-being-respectful-when-communicating-with-digital-helpers-like-chatgpt-alexa-or-siri/"><u>How Important Is Being Respectful When Communicating with Digital Helpers Like ChatGPT, Alexa, or Siri?</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-completely-delete-a-ps5-profile/"><u>How to Completely Delete a PS5 Profile</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-smart-8-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Smart 8 Phone that is Locked?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-making-the-most-out-of-creative-commons-licenses/"><u>In 2024, Making the Most Out of Creative Commons Licenses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovating-through-python-and-gpt-3-collaboration/"><u>Innovating Through Python & GPT-3 Collaboration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-look-apples-artificial-intelligence-progress-exposed-at-the-2024-wwdc/"><u>Inside Look: Apple's Artificial Intelligence Progress Exposed at the 2024 WWDC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-mastering-the-art-of-wiping-your-dell-computer/"><u>Step-by-Step Guide: Mastering the Art of Wiping Your Dell Computer</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is It Possible for ChatGPT to Create Secure & Efficient Exercise Routines Tailored Just for You?
-date: 2024-10-15T18:03:18.225Z
-updated: 2024-10-22T18:55:21.712Z
+date: 2024-10-21T09:42:53.588Z
+updated: 2024-10-27T23:34:47.275Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -59,16 +66,16 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -79,17 +86,10 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,20 +115,22 @@ thumbnail: https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-leading-brands-offering-the-best-steadicams-for-dslr-users/"><u>[New] In 2024, Leading Brands Offering the Best Steadicams for DSLR Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleashing-potential-instagram-tiktok-sync-guidebook/"><u>[New] Unleashing Potential Instagram-TikTok Sync Guidebook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-unveiling-ipads-full-potential-a-timelapse-journey-begins-here-for-2024/"><u>[New] Unveiling iPad's Full Potential A Timelapse Journey Begins Here for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-select-your-perfect-outro-soundtrack-online-for-free/"><u>[Updated] In 2024, Select Your Perfect Outro Soundtrack Online For Free</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pinnacle-audio-dramatic-works/"><u>[Updated] Pinnacle Audio-Dramatic Works</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movtsmovavi/"><u>無限制網路隨時全功能MOV化TS影片：Movavi影像轉換工具</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726218692809-mp3mpeg-movavi/"><u>在網路上免費MP3到MPEG格式轉換 - 利用Movavi影片編輯工具</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversion-gratuita-de-archivos-mp4-a-m4a-guia-paso-a-paso-con-movavi/"><u>Conversión Gratuita De Archivos MP4 a M4A: Guía Paso a Paso Con Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crear-videos-de-desaceleracion-con-android-tus-primeros-cuatro-pases-guia-claro-y-facil/"><u>Crear Videos De Desaceleración Con Android: Tus Primeros Cuatro Pases - Guía Claro Y Fácil</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/download-friends-8-top-rated-free-fb-extractors-for-2024/"><u>Download Friends 8 Top-Rated Free FB Extractors for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/historys-high-scorers-on-reddit-top-10-list-for-2024/"><u>History's High Scorers on Reddit - Top 10 List for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/stopwatch-like-pauses-tackling-frozen-photobooths-for-2024/"><u>Stopwatch-Like Pauses Tackling Frozen Photobooths for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-11-high-definition-video-capture-tools-choosing-the-right-hd-recorder/"><u>Top 11 High-Definition Video Capture Tools: Choosing the Right HD Recorder</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/trasforma-le-tue-immagini-pbm-in-formato-jpg-senza-costi-con-movavi-online-la-soluzione-di-taglio-e-conversione-piu-semplice/"><u>Trasforma Le Tue Immagini PBM in Formato JPG Senza Costi Con Movavi Online: La Soluzione Di Taglio E Conversione Più Semplice!</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-make-a-fake-face-online-for-free-top-rated-tools-for-2024/"><u>Updated Make a Fake Face Online for Free Top Rated Tools for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-best-photo-to-cartoon-software-for-windows-and-mac-for-2024/"><u>[New] Best Photo to Cartoon Software for Windows & Mac for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-jokes-jamboree-mastering-memelore-made-simple/"><u>[New] In 2024, Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-prime-mp4-fb-file-enhancer-for-2024/"><u>[New] Prime MP4-FB File Enhancer for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-sync-zoom-meetings-with-ios-and-android-calendars/"><u>[Updated] 2024 Approved Sync Zoom Meetings with iOS and Android Calendars</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>[Updated] Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/freedom-from-pdf-encryption-comprehensive-guide-to-bypassing-drm-in-adobe-acrobat-reader-and-more/"><u>Freedom From PDF Encryption: Comprehensive Guide to Bypassing DRM in Adobe Acrobat Reader and More</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-the-future-of-video-on-facebook-focusing-on-shorter-formats/"><u>In 2024, The Future of Video on Facebook Focusing on Shorter Formats</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-world-of-apple-watches-a-deep-dive-into-gps-vs-cellular-options/"><u>Navigating the World of Apple Watches – A Deep Dive Into GPS Vs. Cellular Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pixels-of-humor-techs-leap-from-laptops-to-vpn-shields/"><u>Pixels of Humor: Tech's Leap From Laptops to VPN Shields</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/precision-editing-perfecting-the-art-of-fades-in-pro-for-2024/"><u>Precision Editing Perfecting the Art of Fades in Pro for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reimagining-work-with-ai-seven-pivotal-shifts-driven-by-generative-technology-in-the-job-sector/"><u>Reimagining Work with AI: Seven Pivotal Shifts Driven by Generative Technology in the Job Sector</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/rethinking-ai-assessment-beyond-the-turing-trials/"><u>Rethinking AI Assessment Beyond the Turing Trials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/selective-superiority-is-gemini-or-chatgptplus-best/"><u>Selective Superiority: Is Gemini or ChatGPT+ Best?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tech-talk-made-simple-29-essential-ai-phrases/"><u>Tech Talk Made Simple: 29 Essential AI Phrases</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-banned-bot-deciphering-why-websites-shut-down-gptbot/"><u>The Banned Bot - Deciphering Why Websites Shut Down GPTBot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-case-for-local-llm-models-benefits-and-drawbacks-examined/"><u>The Case for Local LLM Models – Benefits & Drawbacks Examined</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-dawn-of-a-new-era-for-search-engines-microsofts-ai-powered-bing-explained/"><u>The Dawn of a New Era for Search Engines: Microsoft's AI-Powered Bing Explained</u></a></li>
 </ul></div>
 

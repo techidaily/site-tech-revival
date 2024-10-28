@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Techniques for Saving ChatGPT Interactions for Later Use
-date: 2024-09-14T10:54:43.582Z
-updated: 2024-09-18T10:07:51.623Z
+date: 2024-10-25T22:58:44.303Z
+updated: 2024-10-27T16:39:49.892Z
 tags:
   - chatgpt
   - open-ai
@@ -46,21 +46,22 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
@@ -72,15 +73,22 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
  Beyond that, if an AI and a human are shown multiple images side by side and asked to identify realistic images, the human would have the cognitive ability to pass the test. This is because AI models find it difficult to distinguish images that don't look like they were taken in the real world. In fact, that's the reason why you can[identify AI-generated images](https://www.makeuseof.com/how-to-identify-ai-generated-image/) using anomalies that don't make sense.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. The Lovelace 2.0 Test
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
@@ -95,13 +103,6 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
  For instance, if ChatGPT-4 is the interrogator, you could enroll Google Bard and another human as participants. If the AI model can correctly identify the human participant based on the answers, it has passed the test.
 
  The downside of the reverse Turing test is that it's unreliable, especially considering that sometimes[AI cannot differentiate AI-generated](https://www.makeuseof.com/ai-content-detectors-dont-work/) and human-written content.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. AI Classification Framework
 
@@ -130,5 +131,20 @@ thumbnail: https://thmb.techidaily.com/157145562d322ac42b18debf7cc17b6e328143a79
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-streamlining-your-monetization-mastering-youtube-adsense/"><u>[New] 2024 Approved Streamlining Your Monetization Mastering YouTube AdSense</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-superior-picks-top-9-chat-and-call-apps-for-smartphones-iosandroid/"><u>[New] In 2024, Superior Picks Top 9 Chat & Call Apps for Smartphones iOS/Android</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-ascend-in-the-youtube-arena-through-creative-studio-mastery/"><u>[Updated] 2024 Approved Ascend in the YouTube Arena Through Creative Studio Mastery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-correct-no-sound-issue-on-shared-videos/"><u>2024 Approved Correct No Sound Issue on Shared Videos</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-tecno-spark-10-pro-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Tecno Spark 10 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-c12-plus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Nokia C12 Plus to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/tips-to-access-no-cost-animated-emojis-on-discord-platform-for-2024/"><u>Tips to Access No-Cost Animated Emojis on Discord Platform for 2024</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/top-5-unique-id-photo-editing-apps-of/"><u>Top 5 Unique ID Photo Editing Apps Of</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-unparalleled-creativity-craft-your-own-tailored-gpt-powered-chatbots-with-the-new-upgrade/"><u>Unleash Unparalleled Creativity: Craft Your Own Tailored GPT-Powered Chatbots with the New Upgrade</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-full-screen-potential-on-youtube-videos/"><u>Unlock Full Screen Potential on YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-potential-in-anthropics-prompt-store-using-the-new-claude-3-ai-technology/"><u>Unlocking Potential in Anthropic's Prompt Store Using the New Claude 3 AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-gpt-4-within-chatgpt-a-real-time-tutorial/"><u>Unlocking the Potential of GPT-4 Within ChatGPT – A Real-Time Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/voicing-artifice-intelligence-how-chatgpt-revolutionizes-interaction-with-openai/"><u>Voicing Artifice Intelligence: How ChatGPT Revolutionizes Interaction with OpenAI</u></a></li>
+</ul></div>
 

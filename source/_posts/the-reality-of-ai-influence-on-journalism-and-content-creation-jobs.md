@@ -1,7 +1,7 @@
 ---
 title: The Reality of AI Influence on Journalism & Content Creation Jobs
-date: 2024-10-21T18:48:11.930Z
-updated: 2024-10-22T18:15:02.797Z
+date: 2024-10-24T06:28:01.445Z
+updated: 2024-10-28T04:51:19.207Z
 tags:
   - chatgpt
   - open-ai
@@ -38,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
 
@@ -57,15 +57,22 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Tome](https://tome.app/)
 
 ![A Screenshot of Tome s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/tome-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re looking for a comprehensive presentation tool full of features, then Tome might just be exactly what you’re looking for. Features such as custom themes, fonts, and logos, are all present with Tome. If you’re looking for collaborative tools or[how to make a presentation more interactive](https://www.makeuseof.com/make-presentations-interactive-google-slides-presenter-view/) , then you can find that too.
@@ -74,23 +81,9 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
 
@@ -111,10 +104,16 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
@@ -122,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  The options with ChatBA are somewhat limited, but good for quick and short use cases. The presentations generated tend to be under ten slides long, and there's no way to adjust the size in any way. If you're looking to adjust the look of your presentation, there are a variety of themes to choose from, but if you want to make any substantial changes, you'll have to do so manually.
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7.[MagicSlides](https://www.magicslides.app)
 
@@ -152,21 +158,22 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-edible-imagery-stepwise-food-film-making/"><u>[New] In 2024, Edible Imagery Stepwise Food Film Making</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-beam-your-best-lol-playing-moments-onto-screen-3-ways/"><u>[Updated] 2024 Approved Beam Your Best LOL Playing Moments Onto Screen (3 Ways)</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movavippmpng/"><u>由Movavi提供的PPM到PNG格式轉換器- 完全免費、直接通過網路使用</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-boot-on-windows-sound-service-efficiency/"><u>Boosting Boot-On Windows Sound Service Efficiency</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/como-combinar-y-mezclar-tu-obra-musical-con-estos-10-mejores-herramientas-en-linea/"><u>Cómo Combinar Y Mezclar Tu Obra Musical Con Estos 10 Mejores Herramientas en Línea</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-konvertera-convert-mov-files-to-mp4-in-minutes-with-movavis-easy-tool/"><u>Free Online Konvertera: Convert MOV Files to MP4 in Minutes with Movavi's Easy Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-web-based-converter-change-flv-files-into-mpeg-format-with-ease/"><u>Free Web-Based Converter: Change FLV Files Into MPEG Format with Ease</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-xs-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone XS Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp4-video-format-transformation-from-vob-no-cost-solution-by-movavi/"><u>MP4 Video Format Transformation From VOB - No Cost Solution by Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-videos-from-mov-to-mjpeg-for-free-quick-tutorial-with-movavi/"><u>Transform Videos From MOV to MJPEG for Free - Quick Tutorial with Movavi</u></a></li>
-<li><a href="https://win11.techidaily.com/tutorial-achieving-a-trio-of-widget-grids-on-windows-11/"><u>Tutorial: Achieving a Trio of Widget Grids on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1726223505434-aifc-m4r-movavi/"><u>オンラインで手軽にAIFC M4Rへ変換! Movaviの特別機能レポート</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-tapestry-transitions-loom-recording-steps/"><u>[New] 2024 Approved Tapestry Transitions Loom Recording Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-daily-vlogging-ideas-what-to-talk-about-while-vlogging/"><u>[Updated] 2024 Approved Daily Vlogging Ideas What to Talk About While Vlogging?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovating-your-gaming-experience-capturing-ps3-playthroughs/"><u>[Updated] 2024 Approved Innovating Your Gaming Experience Capturing PS3 Playthroughs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-compre-cookies-guide-to-marketing-magic-with-20-terms/"><u>[Updated] A Compre Cookie's Guide to Marketing Magic with 20 Terms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-unleashed-groundbreaking-gpt-developments-that-matter-most/"><u>AI Unleashed: Groundbreaking GPT Developments That Matter Most</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-powered-communication-masterfully-integrating-chatgpt-into-your-whatsapp-customer-support-system/"><u>AI-Powered Communication: Masterfully Integrating ChatGPT Into Your WhatsApp Customer Support System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722169253355-chatgpt-evolves-with-exciting-new-functions-the-must-know-details/"><u>ChatGPT Evolves with Exciting New Functions - The Must-Know Details!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/comment-corriger-un-ndr-invalide-sous-windows-10-solutions-simples/"><u>Comment Corriger Un NDR Invalide Sous Windows 10 – Solutions Simples</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722074951094-discover-how-to-utilize-openais-revolutionary-gpt-store-beginners-tutorial-inside/"><u>Discover How to Utilize OpenAI's Revolutionary GPT Store - Beginner's Tutorial Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722040743882-explore-the-fresh-capabilities-now-available-in-chatgpt/"><u>Explore the Fresh Capabilities Now Available in ChatGPT!</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/from-chaos-to-clarity-solving-severe-problems-of-arise-in-the-ue4-environment/"><u>From Chaos to Clarity: Solving Severe Problems of Arise in the UE4 Environment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-master-chromes-pip-for-enhanced-productivity/"><u>How to Master Chrome’s PIP for Enhanced Productivity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-oneplus-open-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On OnePlus Open</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-free-elite-ai-power-with-gpt-4-6-compelling-reasons-to-stay-on-the-plus-side-of-innovation/"><u>Unlock Free Elite AI Power with GPT-4: 6 Compelling Reasons to Stay on the Plus Side of Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721910843462-unlock-the-potential-of-chatgpt-for-optimal-health-top-strategies-inside/"><u>Unlock the Potential of ChatGPT for Optimal Health - Top Strategies Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/video-voyage-beginnings-from-storyboard-to-screenplay-via-chatgpt/"><u>Video Voyage Beginnings - From Storyboard to Screenplay via ChatGPT</u></a></li>
 </ul></div>
 

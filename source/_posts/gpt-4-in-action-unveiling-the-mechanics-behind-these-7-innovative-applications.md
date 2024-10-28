@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 in Action: Unveiling the Mechanics Behind These 7 Innovative Applications"
-date: 2024-10-16T16:23:36.225Z
-updated: 2024-10-22T17:33:38.894Z
+date: 2024-10-23T20:00:54.749Z
+updated: 2024-10-28T09:17:31.687Z
 tags:
   - chatgpt
   - open-ai
@@ -44,14 +44,14 @@ Close
 
 ![Nova AI Scientist persona prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-scientist-persona-prompt.jpg)
 
-![Nova AI chatbot personas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-personas.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Nova AI chatbot personas](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-personas.jpg)
 
 ![Nova AI chatbot suggestions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/nova-ai-chatbot-suggestions.jpg)
 
@@ -65,18 +65,18 @@ Close
 
 **Download:** Nova for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.scaleup.chatai) |[iOS](https://apps.apple.com/us/app/ai-chatbot-nova/id1669007652) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Chat & Ask AI
 
 ![Ask AI YouTube summary chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-youtube-summary-chatbot.jpg)
 
 ![Ask AI homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-homepage.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Ask AI Ask YouTube chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/ask-ai-ask-youtube-chatbot.jpg)
 
@@ -90,16 +90,16 @@ Close
 
 **Download:** Chat & Ask AI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/search?q=Ask+AI&c=apps) |[iOS](https://apps.apple.com/us/app/chat-ask-ai-by-codeway/id1668787639) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. ChatSonic
 
 ![ChatSonic chatbot health query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-health-query.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ChatSonic chatbot personalities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chatsonic-chatbot-personalities.jpg)
 
@@ -115,6 +115,19 @@ Close
 
 **Download:** ChatSonic for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.writesonic.chatsonic) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. ChatOn
 
 ![ChatOn AI chatbot homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-homepage.jpg)
@@ -122,10 +135,10 @@ Close
 ![ChatOn AI chatbot riddle query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-ai-chatbot-riddle-query.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatOn Chat settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/chaton-chat-settings.jpg)
@@ -140,27 +153,20 @@ Close
 
 **Download:** ChatOn for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=ai.chat.gpt.bot) |[iOS](https://apps.apple.com/us/app/chaton-ai-chat-bot-assistant/id1661308505) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Poe
 
 ![Claude chatbot in Poe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/claude-chatbot-in-poe.jpg)
 
 ![Poe AI app chatbot selection](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ai-app-chatbot-selection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Poe AI chatbot selected chatbots](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/poe-ai-chatbot-selected-chatbots.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -172,13 +178,6 @@ Close
 
 **Download:** Poe for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=com.poe.android) |[iOS](https://apps.apple.com/us/app/poe-fast-ai-chat/id1640745955) (Free, subscription available)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Genie
 
 ![Genie AI app solving a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-solving-a-math-problem.jpg)
@@ -186,10 +185,10 @@ Close
 ![Genie AI app Code and Food categories](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-code-and-food-categories.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Genie AI app homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/genie-ai-app-homepage.jpg)
@@ -203,6 +202,13 @@ Close
  Genie uses two models: GPT 3.5 (available in the free plan) and GPT-4 (available in the Pro membership.) You can explore some of the[benefits of GPT-4 in our guide](https://www.makeuseof.com/best-new-gpt4-features-explained/) .
 
 **Download:** Genie for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030984/https://play.google.com/store/apps/details?id=co.appnation.geniechat) |[iOS](https://apps.apple.com/us/app/genie-ai-chatbot/id1658377526) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Outsmart ChatGPT With These Apps
 
@@ -223,20 +229,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-overview-fb-video-dimension-categories/"><u>[New] In 2024, Overview FB Video Dimension Categories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-twittersphere-treasure-trove/"><u>[New] The Twittersphere Treasure Trove</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/building-effective-podcast-rss-feeds/"><u>Building Effective Podcast RSS Feeds</u></a></li>
-<li><a href="https://win-popular.techidaily.com/dual-page-zoom-functionality-in-flip-pdfs-created-with-flipbuilder-a-step-by-step-guide/"><u>Dual-Page Zoom Functionality in Flip PDFs Created with FlipBuilder - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oppo-f23-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo F23 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-nokia-c110-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Nokia C110 Phones with/without a PC</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immagini-e-siti-web-crea-gratis-il-tuo-sito-con-la-tecnologia-convertitore-online-di-movavi/"><u>Immagini E Siti Web: Crea Gratis Il Tuo Sito Con La Tecnologia Convertitore Online Di Movavi!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-how-to-make-a-good-podcast-trailer/"><u>In 2024, How To Make A Good Podcast Trailer</u></a></li>
-<li><a href="https://games-able.techidaily.com/playstations-top-10-best-buys-for-the-holiday/"><u>PlayStation's Top 10 Best Buys for the Holiday</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/professional-video-editing-solutions-for-property-marketing-top-picks-with-insider-advice/"><u>Professional Video Editing Solutions for Property Marketing: Top Picks with Insider Advice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/purchase-the-ultimate-video-tool-movavi-suite-your-key-to-professional-quality/"><u>Purchase the Ultimate Video Tool: Movavi Suite – Your Key to Professional Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-12-aplicaciones-de-reproduccion-multimedia-para-computadoras/"><u>Top 12 Aplicaciones De Reproducción Multimedia Para Computadoras</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-19-free-video-compression-tools-of-2024-compatible-with-windows-and-mac/"><u>Top 19 Free Video Compression Tools of 2024 - Compatible with Windows and Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mpe-ogg-movavis/"><u>인터넷 공간에서 무료 MPE OGG 교리기: Movavi's 가장 나은 방법</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-10-innovative-ai-based-podcast-name-generators/"><u>[Updated] In 2024, Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-sharp-images-no-fog-protecting-gopro-quality/"><u>2024 Approved Sharp Images, No Fog Protecting GoPro Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-lags-and-connectivity-bugs-a-players-guide-to-optimizing-new-world-performance/"><u>Defeat Lags and Connectivity Bugs: A Player’s Guide to Optimizing New World Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-8-ai-mobile-applications-for-smartphones-today/"><u>Discover the Leading 8 AI Mobile Applications for Smartphones Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-time-saving-magic-with-these-10-powerful-chatgpt-pdf-extensions/"><u>Discover Time-Saving Magic with These 10 Powerful ChatGPT PDF Extensions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/efficient-mp4-and-swf-file-conversion-top-tools-for-online-and-offline-transformation/"><u>Efficient MP4 & SWF File Conversion: Top Tools for Online and Offline Transformation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/elevate-every-aspect-of-existence-with-chatgpt/"><u>Elevate Every Aspect of Existence with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-fundamentals-of-ai-how-strong-ai-differs-from-weak-ai/"><u>Exploring the Fundamentals of AI: How Strong AI Differs From Weak AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/finding-your-mantra-path-gpts-role-in-meditative-habits/"><u>Finding Your Mantra Path: GPT's Role in Meditative Habits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-text-to-image-leveraging-chatgpt-for-innovative-artificial-intelligence-graphic-design/"><u>From Text to Image: Leveraging ChatGPT for Innovative Artificial Intelligence Graphic Design</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-zero-to-hero-understanding-five-key-drivers-of-chatgpt/"><u>From Zero to Hero: Understanding Five Key Drivers of ChatGPT</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-g42-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia G42 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-master-the-craft-essential-filmmaking-advice-from-youtube-pros/"><u>In 2024, Master the Craft Essential Filmmaking Advice From YouTube Pros</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-moto-g-stylus-2023-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Moto G Stylus (2023)</u></a></li>
 </ul></div>
 

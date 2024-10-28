@@ -1,7 +1,7 @@
 ---
 title: Can AI Assistants Like ChatGPT Guide You in Preparing Wholesome, Delicious Dishes?
-date: 2024-09-15T17:58:37.580Z
-updated: 2024-09-22T22:24:57.627Z
+date: 2024-10-22T04:59:32.465Z
+updated: 2024-10-28T05:41:52.165Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -50,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -96,5 +96,22 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-from-overflowed-drafters-to-ordered-files-learn-to-edit-hefty-tiktok-content/"><u>[New] From Overflowed Drafters to Ordered Files Learn to Edit Hefty TikTok Content</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/erfecting-your-playlists-adapting-spotify-to-the-youtube-music-ecosystem-for-2024/"><u>[New] Perfecting Your Playlists Adapting Spotify to the YouTube Music Ecosystem for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-swift-guide-image-to-youtube-thumbnail-transformation-techniques/"><u>2024 Approved Swift Guide Image to YouTube Thumbnail Transformation Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-co-host-transforming-my-podcasts-storytelling-approach/"><u>ChatGPT as a Co-Host: Transforming My Podcast's Storytelling Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatting-with-future-tech-diving-into-mistral-ais-le-chat-and-its-comparison-to-chatgpt/"><u>Chatting with Future Tech: Diving Into Mistral AI's Le Chat and Its Comparison to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clearing-out-a-detailed-tutorial-for-account-deletion-on-chatgpt-services/"><u>Clearing Out: A Detailed Tutorial for Account Deletion on ChatGPT Services</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3-introduces-new-editing-functionality-a-look-at-progress-and-limitations/"><u>DALL-E 3 Introduces New Editing Functionality - A Look at Progress & Limitations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dall-e-3s-new-edit-features-room-for-improvement/"><u>DALL-E 3'S New Edit Features: Room for Improvement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-the-differences-why-consider-upgrading-to-copilot-pro-from-standard-copilot/"><u>Deciphering the Differences: Why Consider Upgrading to Copilot Pro From Standard Copilot?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/deciphering-the-lack-of-contacts-and-snaps-on-snapchat-for-2024/"><u>Deciphering the Lack of Contacts and Snaps on Snapchat for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-nokia-c300-device-sim-by-drfone-android/"><u>Easily Unlock Your Nokia C300 Device SIM</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-windows-computer-ready-with-new-thunderbolt-drivers-free-download/"><u>Get Your Windows Computer Ready with New Thunderbolt Drivers - Free Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-samsung-galaxy-m34-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Samsung Galaxy M34 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-12t-pro-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 12T Pro Phone Network-Ready</u></a></li>
+</ul></div>
 

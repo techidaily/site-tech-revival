@@ -1,7 +1,7 @@
 ---
 title: Tracing the Path of Generative AI in Business Applications
-date: 2024-10-21T18:51:48.317Z
-updated: 2024-10-22T18:17:39.004Z
+date: 2024-10-26T05:12:30.654Z
+updated: 2024-10-27T16:25:43.127Z
 tags:
   - chatgpt
   - open-ai
@@ -57,10 +57,10 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Solve Geometry and Trigonometry Problems?
@@ -68,19 +68,6 @@ Close
  Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
 
 ![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
 
@@ -100,20 +87,41 @@ Close
 
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt gives an incorrect definition of sine after user insists that it is incorrect](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-4.jpg)
 
-Close
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Close
 
 ## Can ChatGPT Solve Calculus Problems?
 
@@ -129,36 +137,16 @@ Close
 
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -198,22 +186,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-cutting-through-the-clutter-how-to-stream-top-notch-upside-down-content-on-youtube/"><u>[Updated] In 2024, Cutting Through the Clutter How to Stream Top-Notch Upside-Down Content on Youtube</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-exclusive-offer-20-free-luts-just-for-dji-mini-and-air-users/"><u>2024 Approved Exclusive Offer 20 FREE LUTS Just for DJI Mini & Air Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/converter-gratuito-de-mp4-para-mov-e-quicktime-na-web-um-guia-detalhado/"><u>Converter Gratuito De MP4 Para MOV E QuickTime Na Web: Um Guia Detalhado</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-opinions-what-the-leading-global-tech-figures-say-about-artificial-intelligence/"><u>Expert Opinions: What the Leading Global Tech Figures Say About Artificial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-ai-boundaries-the-reason-behind-chatgpts-inability-to-recognize-its-creations/"><u>Exploring AI Boundaries: The Reason Behind ChatGPT's Inability to Recognize Its Creations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/forefront-ai-explained-benefits-and-comparison-with-the-popular-chatgpt/"><u>Forefront AI Explained: Benefits and Comparison with the Popular ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/going-beyond-chatgpt-check-out-our-recommendations-for-the-best-mobile-app-substitutes/"><u>Going Beyond ChatGPT? Check Out Our Recommendations for the Best Mobile App Substitutes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-the-power-of-ai-what-chatgpt-and-whisper-api-access-means-for-your-businesss-future/"><u>Harnessing the Power of AI: What ChatGPT and Whisper API Access Means for Your Business's Future</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/healthy-cuisine-made-easy-is-chatgpt-the-key-to-mastering-healthier-meals/"><u>Healthy Cuisine Made Easy: Is ChatGPT the Key to Mastering Healthier Meals?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-chatgpt-is-shaping-industries-a-look-at-7-examples/"><u>How ChatGPT Is Shaping Industries: A Look at 7 Examples</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/identifying-and-defending-against-the-hazardous-fraudgpt-bot/"><u>Identifying and Defending Against the Hazardous FraudGPT Bot</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-motorola-moto-g73-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Motorola Moto G73 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-spark-10c-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Spark 10C is off? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elite-media-maestro-picture-perfect-with-pitches/"><u>In 2024, Elite Media Maestro Picture Perfect with Pitches</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/placebo-group-18-developed-heart-disease/"><u>Placebo Group: 18% Developed Heart Disease.</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/transform-your-broadcasts-discover-the-power-of-manycams-virtual-webcam-technology-for-online-content-creation/"><u>Transform Your Broadcasts: Discover the Power of ManyCam's Virtual Webcam Technology for Online Content Creation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-lut-applications-in-ae/"><u>[New] In 2024, Mastering LUT Applications in AE</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-forging-strategic-alliances-on-youtube-through-famebit-wisdom/"><u>[Updated] 2024 Approved Forging Strategic Alliances on YouTube Through FameBit Wisdom</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-reach-broader-audiences-link-your-twitch-live-streams-to-facebook/"><u>[Updated] In 2024, Reach Broader Audiences Link Your Twitch Live Streams to Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-your-green-screen-workflow-with-kinemaster/"><u>[Updated] Perfecting Your Green Screen Workflow with KineMaster</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-the-synergy-and-conflict-between-chatgpt-and-creativity/"><u>Dissecting the Synergy & Conflict Between ChatGPT and Creativity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-fantasy-quests-integrating-chatgpt-into-your-dungeons-and-dragons-playstyle/"><u>Enhancing Your Fantasy Quests: Integrating ChatGPT Into Your Dungeons & Dragons Playstyle</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fighting-algorithmic-infringement-artists-sue-openai-and-meta/"><u>Fighting Algorithmic Infringement: Artists Sue OpenAI and Meta</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-perils-of-generative-ai-unpacking-eight-key-reasons-for-worsening-security-issues/"><u>Future Perils of Generative AI: Unpacking Eight Key Reasons for Worsening Security Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-xiaomi-redmi-13c-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Xiaomi Redmi 13C to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/perfecting-online-presence-key-to-knowing-and-using-fb-video-ratios/"><u>Perfecting Online Presence Key to Knowing and Using FB Video Ratios</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/real-time-speech-processing-and-action-at-no-charge-for-2024/"><u>Real-Time Speech Processing & Action at No Charge for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu Guide: Setting up Auto-GPT Automation"
-date: 2024-09-16T16:07:53.249Z
-updated: 2024-09-17T16:10:49.669Z
+date: 2024-10-24T08:14:41.699Z
+updated: 2024-10-28T00:10:50.704Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
  If you want to make the whole process even easier and don't feel like editing the AI-generated text yourself, you can use yet another[AI writing tool](https://www.makeuseof.com/ai-writing-tools/) to edit ChatGPT's output.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Install SlidesAI for Google Slides
 
  After generating the text for your presentation, the next step is to install[SlidesAI for Google Slides](https://workspace.google.com/marketplace/app/slidesaiio%5Fcreate%5Fslides%5Fwith%5Fai/904276957168) . You can do this through the Google Slides add-ons store.
@@ -69,6 +82,19 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -78,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
@@ -93,24 +112,24 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Add the Finishing Touches and Export the Presentation
@@ -129,6 +148,13 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
  Once your slideshow is all set, it's time to start preparing for the presentation. If you want to present on Google Slides, there's only a little left to do other than rehearse.
 
 ![Downloading a Google Slides presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-download.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
 
@@ -153,5 +179,22 @@ thumbnail: https://thmb.techidaily.com/0911d971631dfd9a70ce54df48c6542f0fb3a0ed0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-essential-insights-how-to-choose-among-the-top-9-free-youtube-makers/"><u>[New] Essential Insights How to Choose Among the Top 9 Free YouTube Makers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-boost-engagement-and-growth-unlocking-youtube-analytics-via-social-blade/"><u>2024 Approved Boost Engagement and Growth - Unlocking YouTube Analytics via Social Blade</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-samsung-galaxy-a23-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Samsung Galaxy A23 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-mix-fold-3-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Mix Fold 3 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-s23-tactical-edition-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy S23 Tactical Edition is off? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-fixes-for-non-responsive-steam-virtual-reality-experience/"><u>Quick Fixes for Non-Responsive Steam Virtual Reality Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-edge-browsers-exe-app-errors-in-windows-with-simple-steps/"><u>Resolve Edge Browser's Exe App Errors in Windows with Simple Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-tweaks-to-resolve-stutter-in-elden-ring/"><u>Speedy Tweaks to Resolve Stutter in Elden Ring</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-seamlessly-integrate-chatgpt-into-your-linux-system/"><u>Ultimate Guide: Seamlessly Integrate ChatGPT Into Your Linux System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-walkthrough-for-activating-and-using-chatgpt-on-macos/"><u>Ultimate Walkthrough for Activating and Using ChatGPT on macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-generative-artificial-intelligence-an-insightful-guide/"><u>Understanding Generative Artificial Intelligence: An Insightful Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-your-potential-utilizing-chatgpt-for-board-game-strategies-and-visual-innovations/"><u>Unleash Your Potential: Utilizing ChatGPT for Board Game Strategies & Visual Innovations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-successful-web-application-development-with-conversational-ai-tools/"><u>Unlocking Successful Web Application Development with Conversational AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-unparalleled-ai-assistance-leveraging-copilot-with-gpt-4-turbo-at-zero-cost/"><u>Unlocking Unparalleled AI Assistance: Leveraging Copilot with GPT-4 Turbo at Zero Cost</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/zerogpt-unreliable-claims-under-scrutiny/"><u>ZeroGPT Unreliable Claims Under Scrutiny</u></a></li>
+</ul></div>
 

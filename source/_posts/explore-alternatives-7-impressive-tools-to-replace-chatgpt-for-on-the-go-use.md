@@ -1,7 +1,7 @@
 ---
 title: "Explore Alternatives: 7 Impressive Tools to Replace ChatGPT for On-the-Go Use"
-date: 2024-09-13T02:21:16.830Z
-updated: 2024-09-18T10:21:55.527Z
+date: 2024-10-22T22:10:40.449Z
+updated: 2024-10-28T09:06:18.029Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -53,6 +60,13 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -73,13 +87,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -87,6 +94,13 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -100,10 +114,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -125,5 +139,20 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-enhancing-soundscapes-mastering-audacity-crossfading-for-2024/"><u>[New] Enhancing Soundscapes Mastering Audacity Crossfading for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-new-dimensions-q500-typhoon-adventure/"><u>[New] Exploring New Dimensions Q500 Typhoon Adventure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fists-vs-followers-choosing-the-champion/"><u>[New] Fists vs Followers Choosing the Champion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-mastery-of-geometric-design-in-minecraft-creating-circle-and-sphere-art-for-2024/"><u>[New] Mastery of Geometric Design in Minecraft Creating Circle & Sphere Art for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-professionally-enhancing-photos-with-effective-use-of-3d-lut-filters/"><u>[New] Professionally Enhancing Photos with Effective Use of 3D LUT Filters</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-foremost-selection-of-5-outstanding-slow-motion-cameras-for-2024/"><u>[Updated] The Foremost Selection of 5 Outstanding Slow-Motion Cameras for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/codegpt-setup-tutorial-for-vs-code-users/"><u>CodeGPT Setup Tutorial for VS Code Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-instructions-to-get-chatgpt-running-as-a-windows-application/"><u>Complete Instructions to Get ChatGPT Running as a Windows Application</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-an-individual-chatbot-experience-by-integrating-your-unique-data/"><u>Crafting an Individual Chatbot Experience by Integrating Your Unique Data</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-tailored-ai-personalized-chatgpt-creation-guide/"><u>Crafting Tailored AI: Personalized ChatGPT Creation Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/creating-the-ultimate-safe-ps5-environment-for-youngsters/"><u>Creating the Ultimate Safe PS5 Environment for Youngsters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-lava-yuva-2-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Lava Yuva 2</u></a></li>
+<li><a href="https://facebook.techidaily.com/regaining-control-tackling-fb-upsets/"><u>Regaining Control: Tackling FB Upsets</u></a></li>
+</ul></div>
 

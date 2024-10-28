@@ -1,7 +1,7 @@
 ---
 title: "AI Dialogue Duel: Does Claude Have The Edge?"
-date: 2024-10-18T17:36:15.058Z
-updated: 2024-10-22T19:20:28.229Z
+date: 2024-10-24T12:52:53.591Z
+updated: 2024-10-28T08:24:39.018Z
 tags:
   - chatgpt
   - open-ai
@@ -62,40 +62,33 @@ thumbnail: https://thmb.techidaily.com/4c674686d1a033251a256acfde6c5f560acb7a06d
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -106,6 +99,13 @@ ChatGPT also cracked the problem as well.
  So, we asked both ChatGPT and Claude AI to "write a rhyming rap about growing cucumbers as a farmer and becoming a millionaire from it." ChatGPT went first, and as expected, it produced some exciting lyrics.
 
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
@@ -132,10 +132,10 @@ ChatGPT also cracked the problem as well.
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
@@ -163,18 +163,19 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/1725285913914-dvd/"><u>「無料ソフトで映画DVDの複製を解除：ディズニー版ガードから効率よく自由に」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-convert-your-audio-file-from-aif-to-wav-format-quickly-and-easily-no-cost/"><u>1. Convert Your Audio File From AIF to WAV Format Quickly and Easily - No Cost!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/m4vm4amovavi/"><u>無限制地將M4V格式改為M4A：如何使用Movavi的編譯器</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/digital-illusions-crafting-new-image-perspectives/"><u>Digital Illusions Crafting New Image Perspectives</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-guffaw-guide-the-leading-text-generator-companions/"><u>In 2024, Guffaw Guide The Leading Text Generator Companions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-revenue-growth-strategies-for-makeup-bloggers/"><u>In 2024, Revenue Growth Strategies for Makeup Bloggers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-compatibility-hurdles-making-itunes-recognize-an-iphone-on-a-windows-11-pc/"><u>Overcoming Compatibility Hurdles: Making iTunes Recognize an iPhone on a Windows 11 PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scambia-i-tuoi-file-au-con-codifica-mp3-online-senza-costi-conversione-rapida-e-facile/"><u>Scambia I Tuoi File AU Con Codifica MP3 Online Senza Costi - Conversione Rapida E Facile</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformar-musica-y-peliculas-desde-el-formato-aiff-a-mp4-sin-costo-mediante-herramienta-en-linea-de-movavi/"><u>Transformar Música Y Películas Desde El Formato AIFF a MP4 Sin Costo Mediante Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformar-seu-video-do-mp4-para-m4v-gratuitamente-com-movavi-converter-tecnico-e-simples-de-utilizar/"><u>Transformar Seu Vídeo Do MP4 Para M4V Gratuitamente Com Movavi Converter - Técnico E Simples De Utilizar!</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/troubleshooting-shutdown-alerts-discover-why-your-system-stops-running-and-how-to-repair-it/"><u>Troubleshooting Shutdown Alerts: Discover Why Your System Stops Running and How to Repair It</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722488748161-tuning-into-training-discover-how-the-vivoactive-3-enhances-exercise-and-playlists/"><u>Tuning Into Training: Discover How the Vivoactive 3 Enhances Exercise and Playlists</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/webmavimovavi/"><u>WebmファイルのAVIへ完全自由に変換！Movaviで手軽なオンラインツール</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1726026372099-dvd/"><u>新しいDVD視聴に失敗する主な理由と解決策</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-channels-earning-dollars-a-beginners-guide-for-2024/"><u>Creating Channels, Earning Dollars A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-apple-iphone-13-pro-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your Apple iPhone 13 Pro Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719172767277-enhance-csgo-on-pc-10-frames-up/"><u>Enhance CS:GO on PC - 10 Frames Up!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-13-pro-max-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 13 Pro Max Without Previous Owner?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Motorola Moto G34 5G</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/solo-self-portraits-on-youtube-how-to-impress-viewers-for-2024/"><u>Solo Self-Portraits on YouTube How to Impress Viewers for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-six-frequent-vehicle-ai-system-implementation-problems/"><u>Solving Six Frequent Vehicle AI System Implementation Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-beginners-roadmap-to-accessing-chatbots-and-large-language-models-using-quoras-innovative-poe-functionality/"><u>The Beginner’s Roadmap to Accessing Chatbots & Large Language Models Using Quora's Innovative Poe Functionality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-face-off-is-google-bard-the-best-or-does-bing-chat-take-the-crown/"><u>The Ultimate Face-Off: Is Google Bard the Best or Does Bing Chat Take the Crown?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-strategy-boosting-your-life-quality-using-chatgpt/"><u>The Ultimate Strategy: Boosting Your Life Quality Using ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-strategies-enhancing-excel-skills-with-chatgpt/"><u>Top 3 Strategies: Enhancing Excel Skills with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-artificial-intelligence-applications-for-mastering-mathematics/"><u>Top 7 Artificial Intelligence Applications for Mastering Mathematics</u></a></li>
 </ul></div>
 
