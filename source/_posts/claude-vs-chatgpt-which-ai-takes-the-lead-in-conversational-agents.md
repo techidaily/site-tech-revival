@@ -1,7 +1,7 @@
 ---
 title: "Claude Vs. ChatGPT: Which AI Takes the Lead in Conversational Agents?"
-date: 2024-09-11T19:39:26.151Z
-updated: 2024-09-12T19:39:26.151Z
+date: 2024-11-02T05:31:37.786Z
+updated: 2024-11-03T06:56:07.866Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -53,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -64,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -83,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -116,5 +102,23 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-effective-strategies-for-premiere-sound-transitioning/"><u>[Updated] Effective Strategies for Premiere Sound-Transitioning</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-wallet-friendly-digital-repository-heavyweight-file-haven/"><u>[Updated] In 2024, Wallet-Friendly Digital Repository Heavyweight File Haven</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-tiktok-engagement-in-unboxing-videos/"><u>2024 Approved Maximizing TikTok Engagement in Unboxing Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-6-superior-conversational-agent-extensions-to-enhance-vs-code/"><u>Discover the 6 Superior Conversational Agent Extensions to Enhance VS Code</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-mechanics-of-ai-transfer-learning-techniques/"><u>Exploring the Mechanics of AI Transfer Learning Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpt-versus-zodiac-the-ultimate-predictive-showdown/"><u>GPT Versus Zodiac: The Ultimate Predictive Showdown</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/highest-quality-portable-optical-readwrite-devices-2024-selection/"><u>Highest Quality Portable Optical Read/Write Devices - 2024 Selection</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/impatient-for-a-chatbot-on-your-pc-discover-an-amazing-open-source-substitute-now/"><u>Impatient for a Chatbot on Your PC? Discover an Amazing Open Source Substitute Now!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-what-is-periscope-is-it-free-and-how-to-sign-up-it/"><u>In 2024, What Is Periscope? Is It Free and How to Sign up It?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/leaving-no-trace-on-insta-permanent-deactivation-101/"><u>Leaving No Trace on Insta Permanent Deactivation 101</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-the-future-of-search-easily-why-perplexity-ai-stands-out-as-your-ideal-undiscovered-ai-companion-for-google/"><u>Navigate the Future of Search Easily: Why Perplexity AI Stands Out as Your Ideal, Undiscovered AI Companion for Google</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-common-roadblocks-to-successfully-installing-auto-gpt-expert-insights/"><u>Navigating Common Roadblocks to Successfully Installing Auto-GPT: Expert Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/principles-of-producing-potent-online-partnerships-fb/"><u>Principles of Producing Potent Online Partnerships (FB)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/tackling-iphone-photography-troubles-a-guide-with-8-essential-fixes/"><u>Tackling iPhone Photography Troubles: A Guide with 8 Essential Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-phony-chatgpt-sites-tips-for-spotting-and-responding-safely/"><u>Unveiling Phony ChatGPT Sites – Tips for Spotting & Responding Safely</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-is-shadowbanned-skirting-around-it/"><u>What Is Shadowbanned? Skirting Around It</u></a></li>
+</ul></div>
 

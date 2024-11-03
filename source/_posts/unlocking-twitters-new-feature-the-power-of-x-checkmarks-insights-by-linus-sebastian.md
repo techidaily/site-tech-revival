@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Twitter's New Feature: The Power of X Checkmarks - Insights by Linus Sebastian"
-date: 2024-09-14T06:56:14.149Z
-updated: 2024-09-17T16:15:31.258Z
+date: 2024-10-29T00:02:47.367Z
+updated: 2024-11-03T00:40:30.893Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,31 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
 ![Open in Microsoft Edge prompt on a white background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-in-microsoft-edge.jpg)
 3. Click on**Sign in** (in the top-right corner) to log in to your Microsoft Account.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once inside, click on**Chat now** .
 5. Pick a conversation style. By default, this is set to**More Balanced** . You can choose to be**More Precise** or**More Creative** .  
 ![New Bing Chat Interface showing Conversation Style options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-interface.jpg)
 6. Go to the typing area and enter your question. You have a 2,000-character limit.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. When done, click the send arrow and wait for it to populate your answer.
 8. It will also preempt your next question or response by suggesting chat prompts.  
 ![New Bing Chat Feedback showing Chat Prompts](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-chat-feedback.jpg)
@@ -56,11 +77,25 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
 ![Bing AI-powered search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-powered-search-results.jpg)
 3. It'll also show you prompts that you can click on to learn more about your subject, including how to contact them (for most people searches).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. You can further refine your search by typing a query into the chat box just beneath the main result (if available for your query). To your right, you'll find additional information, for some searches.
 5. If you search for celebrities or popular personalities, it can pull up their Wikipedia entries as well as a chat option to help you learn more about their work, personalities, worldview, and so on. Again, this is subject to availability. To begin, simply click on**Let's chat** .  
 ![Bing AI-powered Search showing results page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/new-bing-search-with-ai.jpg)
 
  Chat mode will only be available when you have access to the AI-powered Bing.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What to Expect from Bing’s AI-Powered Search Engine
 
@@ -81,18 +116,26 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-transforming-audio-skills-using-audacity-professionally/"><u>[New] In 2024, Transforming Audio Skills Using Audacity Professionally</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discover-the-best-video-capture-tools-for-windows-users/"><u>[Updated] 2024 Approved Discover the Best Video Capture Tools for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-inside-the-mindset-of-a-photographer-polarrs-editing-techniques/"><u>[Updated] Inside the Mindset of a Photographer Polarr’s Editing Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-quick-success-with-tinder-profiles-check-out-these-hacks-now-for-2024/"><u>[Updated] Quick Success with Tinder Profiles? Check Out These Hacks Now for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-honor-x9a-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Honor X9a to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-unleashed-your-new-android-companion/"><u>ChatGPT Unleashed: Your New Android Companion!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-safety-dissecting-cybersecurity-risks/"><u>ChatGPT's Safety: Dissecting Cybersecurity Risks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/critical-8-gpt-guidance-for-lowering-virtual-distractions/"><u>Critical 8 GPT Guidance for Lowering Virtual Distractions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/current-guide-accessing-and-applying-gpt-4-in-chatgpt/"><u>Current Guide: Accessing and Applying GPT-4 in ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cyber-threats-can-gpt-chat-hack-bank-accounts-or-computers/"><u>Cyber Threats: Can GPT Chat Hack Bank Accounts or Computers?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-ai-prompt-injection-attacks-how-they-operate-and-protecting-against-them/"><u>Decoding AI Prompt Injection Attacks - How They Operate and Protecting Against Them</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-personalized-language-powerhouses-at-openais-store/"><u>Discover Personalized Language Powerhouses at OpenAI's Store</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/editsuite-explorer-full-evaluation-for-2024/"><u>EditSuite Explorer – Full Evaluation for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-downloads-in-the-microsoft-store-fast-track-style/"><u>Elevate Downloads in the Microsoft Store, Fast-Track Style</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-a-paradigm-shift-openai-debuts-transformative-gpt-4-ai-model/"><u>Experience a Paradigm Shift: OpenAI Debuts Transformative GPT-4 AI Model</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-gpt-breaks-necessity-and-risks/"><u>Exploring GPT Breaks: Necessity and Risks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-honor-magic-6-phone-by-drfone-android/"><u>How to Unlock a Network Locked Honor Magic 6 Phone?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722974430142-install-the-most-recent-tp-link-wireless-network-driver-software-for-windows-11-8-and-7-get-it-today/"><u>Install the Most Recent TP-Link Wireless Network Driver Software for Windows 11, 8 & 7 – Get It Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-native-launcher-wont-update-here-are-the-top-fixes-you-need-to-know/"><u>Minecraft Native Launcher Won't Update? Here Are the Top Fixes You Need to Know</u></a></li>
+</ul></div>
 

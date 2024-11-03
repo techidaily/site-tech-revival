@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative Artificial Intelligence: How It Works and Who Is Implementing It?"
-date: 2024-10-20T21:44:26.684Z
-updated: 2024-10-28T08:40:30.763Z
+date: 2024-10-27T01:30:11.391Z
+updated: 2024-11-02T21:56:23.453Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
  We asked ChatGPT to help us in building our French vocabulary. To be more specific, we told ChatGPT about our proficiency in French and that we wanted recommendations for common words used in daily life. It quickly gave us a list of 20 common words and phrases and their meanings.
@@ -64,25 +57,32 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
@@ -101,10 +101,10 @@ Here's how you can create your own personalized tests:
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Cultural Learning
@@ -142,18 +142,18 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-inverting-photo-colors-with-advanced-tools/"><u>[New] 2024 Approved Inverting Photo Colors with Advanced Tools</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-peakrecorder-a-comprehensive-screen-capture-analysis/"><u>[New] PeakRecorder A Comprehensive Screen Capture Analysis</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-chaos-to-clarity-combining-obs-with-zoom/"><u>[Updated] 2024 Approved From Chaos to Clarity Combining OBS with Zoom</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-highest-quality-action-capturing-methods/"><u>[Updated] Highest Quality Action Capturing Methods</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-xiaomi-13-ultra-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Xiaomi 13 Ultra Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-your-perfect-ai-chat-companion-insights-into-the-top-7-feature-considerations/"><u>Choosing Your Perfect AI Chat Companion: Insights Into the Top 7 Feature Considerations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/coding-showdown-determining-superiority-between-chatgpt-and-gemini/"><u>Coding Showdown: Determining Superiority Between ChatGPT and Gemini</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-ai-giants-unveiling-distinctive-features-of-googles-palm-2-and-openais-gpt-4/"><u>Comparing AI Giants: Unveiling Distinctive Features of Google's PaLM 2 and OpenAI's GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cultivating-self-awareness-via-gpt-assistance/"><u>Cultivating Self-Awareness via GPT Assistance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-googles-latest-gemini-ai-innovation-exceed-chatgpt-in-performance/"><u>Does Google's Latest Gemini AI Innovation Exceed ChatGPT in Performance?</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-add-multilingual-support-in-flipbook-designs-with-flipbuilder/"><u>How to Add Multilingual Support in FlipBook Designs with FlipBuilder</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia XR21? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-z-flip-5frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy Z Flip 5FRP Lock</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-comprehensible-selection-the-10-affordable-video-conferencing-tools/"><u>[New] In 2024, Comprehensible Selection The 10 Affordable Video Conferencing Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fbs-flash-video-frontier/"><u>[Updated] 2024 Approved FB's Flash Video Frontier</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-nokia-g310-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/anieraser/download/"><u>AniEraser - AI Watermark Remover for Images & Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-these-8-chatgpt-ventures-legit-evaluating-the-prospects-of-side-income-generation/"><u>Are These 8 ChatGPT Ventures Legit? Evaluating the Prospects of Side Income Generation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-tips-for-mov-saving-on-windows-10/"><u>Essential Tips for MOV Saving on Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-xiaomi-redmi-12-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Xiaomi Redmi 12 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-ai-image-creation-leveraging-dall-e-with-gpt-4/"><u>Mastering AI Image Creation: Leveraging DALL-E with GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-new-comic-genius-can-ai-like-chatgpt-make-us-rofl/"><u>The New Comic Genius: Can AI Like ChatGPT Make Us ROFL?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-leap-in-ai-contrasting-5-significant-aspects-between-microsofts-advanced-models-gpt-4-and-gpt-35/"><u>The Next Leap in AI: Contrasting 5 Significant Aspects Between Microsoft's Advanced Models, GPT-4 and GPT-3.5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-k70-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi K70 Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-peak-efficiency-7-surprising-uses-of-chatgpt-to-turbocharge-your-daily-output/"><u>Unleash Peak Efficiency: 7 Surprising Uses of ChatGPT to Turbocharge Your Daily Output</u></a></li>
 </ul></div>
 

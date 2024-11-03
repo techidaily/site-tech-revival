@@ -1,7 +1,7 @@
 ---
 title: "How to Engage with OpenAI's Security Rewards: A Guide to Their Bug Bounty Program"
-date: 2024-10-23T03:56:15.601Z
-updated: 2024-10-28T01:01:37.508Z
+date: 2024-11-01T21:21:49.628Z
+updated: 2024-11-02T18:52:49.633Z
 tags:
   - chatgpt
   - open-ai
@@ -54,22 +54,15 @@ The maximum reward you can earn is $20,000.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here, you must fill in the following information:
@@ -87,19 +80,19 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -109,6 +102,13 @@ Here, you must fill in the following information:
  These include server-side injection, server security misconfiguration,[cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage,[cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -131,22 +131,14 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-evaluation-report-elite-parrot-ar-drone-20/"><u>[New] Evaluation Report Elite Parrot AR Drone 2.0</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-premiere-e-lecture-label-lever/"><u>[New] Premiere E-Lecture Label Lever</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-elevate-your-vimeo-media-with-well-defined-chapters/"><u>[Updated] 2024 Approved Elevate Your Vimeo Media with Well-Defined Chapters</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-full-examination-evaluating-the-gecata-analyzer-for-2024/"><u>[Updated] Full Examination Evaluating the Gecata Analyzer for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unplugged-delight-your-guide-to-free-screen-free-games-for-android/"><u>[Updated] In 2024, Unplugged Delight Your Guide to Free Screen-Free Games for Android</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-fast-lane-to-sharing-playlists-online/"><u>[Updated] The Fast Lane to Sharing Playlists Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-innovative-ways-chatgpt-enhances-your-cooking-experience/"><u>7 Innovative Ways ChatGPT Enhances Your Cooking Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/7-parameters-that-define-quality-ai-assistants/"><u>7 Parameters That Define Quality AI Assistants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/a-beginners-tutorial-for-using-microsoft-copilot-on-apple-computers/"><u>A Beginner's Tutorial for Using Microsoft Copilot on Apple Computers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/adjusting-excessive-load-alert-win-gpt-error/"><u>Adjusting Excessive Load Alert: Win GPT Error</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-revolution-how-tech-professionals-anticipate-changes-to-their-workflows/"><u>AI Revolution: How Tech Professionals Anticipate Changes to Their Workflows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/all-encompassing-guide-to-apples-advanced-artifice-intelligence-showcased-at-wwdc-24/"><u>All-Encompassing Guide to Apple’s Advanced Artifice Intelligence Showcased at WWDC 24</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-screenshots-programs-ranked-1-8-for-2024/"><u>Best Screenshots Programs Ranked #1-8 for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-the-basics-discover-5-hidden-functions-of-chatgpt-for-enhanced-usage/"><u>Beyond the Basics: Discover 5 Hidden Functions of ChatGPT for Enhanced Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722113284055-beyond-words-evaluating-the-performance-of-chatgpt-and-google-translate-for-accurate-translations/"><u>Beyond Words: Evaluating the Performance of ChatGPT and Google Translate for Accurate Translations.</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-s18-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo S18 Pro Phone Without Password?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-on-iphone-11-pro-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue On iPhone 11 Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleash-the-past-sharing-snaps-from-your-camera-roll/"><u>[New] In 2024, Unleash the Past - Sharing Snaps From Your Camera Roll</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-professional-choices-the-very-best-8-tripods-for-4k/"><u>[New] Professional Choices The Very Best 8 Tripods for 4K</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unveiling-the-top-10-4k-computer-screens/"><u>[Updated] 2024 Approved Unveiling the #Top 10 4K Computer Screens</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-quick-start-uploading-your-videos-to-instagram-via-pcmac/"><u>[Updated] In 2024, Quick Start Uploading Your Videos to Instagram via PC/Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/earn-more-leveraging-chatgpt-side-projects-custom-pc-building-secrets-and-classic-handheld-gaming-systems/"><u>Earn More: Leveraging ChatGPT Side Projects, Custom PC Building Secrets, and Classic Handheld Gaming Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-strategies-for-effective-multilingual-engagement/"><u>Navigating ChatGPT: Strategies for Effective Multilingual Engagement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ai-arena-evaluating-bard-and-bings-prowess/"><u>The AI Arena: Evaluating Bard & Bing's Prowess</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-bing-app-for-android-phones/"><u>Unlocking the Power of Artificial Intelligence in Bing App for Android Phones</u></a></li>
 </ul></div>
 

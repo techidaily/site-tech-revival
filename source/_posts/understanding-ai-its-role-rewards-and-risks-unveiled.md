@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI: Its Role, Rewards & Risks Unveiled"
-date: 2024-10-24T16:43:37.719Z
-updated: 2024-10-28T03:30:57.992Z
+date: 2024-10-28T18:04:39.312Z
+updated: 2024-11-03T05:27:41.380Z
 tags:
   - chatgpt
   - open-ai
@@ -52,22 +52,29 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here, you must fill in the following information:
 
@@ -84,19 +91,19 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -106,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
  These include server-side injection, server security misconfiguration, [cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage, [cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -139,24 +139,17 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-executing-a-successful-facebook-live-from-previous-recordings/"><u>[New] 2024 Approved Executing a Successful Facebook Live From Previous Recordings</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-laggard-to-lightning-pick-8-apps-now/"><u>[New] From Laggard to Lightning Pick 8 Apps Now</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-srt-essentials-decoded-for-easy-understanding-for-2024/"><u>[New] SRT Essentials Decoded for Easy Understanding for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-top-5-youtube-like-gbv-snippets-on-fb-for-2024/"><u>[Updated] Top 5 YouTube-Like GBV Snippets on FB for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-8-best-video-calling-app-for-windows/"><u>2024 Approved Top 8 Best Video Calling App for Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/combat-feelings-of-isolation-by-utilizing-chatgpt-support/"><u>Combat Feelings of Isolation by Utilizing ChatGPT Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-game-changers-how-chatgpt-offers-9-unique-benefits-to-creators/"><u>Content Game-Changers: How ChatGPT Offers 9 Unique Benefits to Creators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/crafting-a-collection-of-verses-utilizing-chatgpt-for-your-poetry-anthology/"><u>Crafting a Collection of Verses: Utilizing ChatGPT for Your Poetry Anthology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cybersecurity-insights-7-projections-for-enhanced-digital-safety/"><u>Cybersecurity Insights: 7 Projections for Enhanced Digital Safety</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/defend-against-robotic-content-collectors/"><u>Defend Against Robotic Content Collectors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-leading-online-courses-for-advancing-your-skills-in-ai-prompt-engineering/"><u>Discover the Leading Online Courses for Advancing Your Skills in AI Prompt Engineering</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-ransomware-decryption-a-budget-friendly-guide-at-050-with-chatgpt-on-our-engaging-podcast/"><u>Discovering Ransomware Decryption: A Budget-Friendly Guide at $0.50 with ChatGPT on Our Engaging Podcast</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/diversify-your-income-engage-in-chatgpt-assignments-navigate-the-world-of-personal-computer-builds-and-handheld-game-console-collecting-tips/"><u>Diversify Your Income: Engage in ChatGPT Assignments, Navigate the World of Personal Computer Builds & Handheld Game Console Collecting Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-setup-of-your-soundmax-device-with-windows-pc-using-latest-drivers/"><u>Easy Setup of Your SoundMAX Device with Windows PC Using Latest Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-article-output-essential-ai-tools-for-modern-writers/"><u>Elevate Article Output: Essential AI Tools for Modern Writers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-hp-deskjet-inkjet-9325e-printer-drivers-compatible-with-windows/"><u>Free Download: HP Deskjet Inkjet 9325E Printer Drivers - Compatible with Windows</u></a></li>
-<li><a href="https://fox-making.techidaily.com/how-to-access-and-distribute-your-created-flipbooks-without-internet-a-guide-with-flipbuilder/"><u>How to Access and Distribute Your Created Flipbooks Without Internet: A Guide with FlipBuilder</u></a></li>
-<li><a href="https://extra-information.techidaily.com/master-the-art-of-changing-windows-11-backgrounds/"><u>Master the Art of Changing Windows 11 Backgrounds</u></a></li>
-<li><a href="https://fox-that.techidaily.com/uncover-hidden-gems-techniques-to-recover-deleted-iphone-note-content/"><u>Uncover Hidden Gems: Techniques to Recover Deleted iPhone Note Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-fps-fanatics-resource-for-fast-controls-and-extensions-for-2024/"><u>[New] FPS Fanatics' Resource for Fast Controls and Extensions for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-reimagine-old-school-vhs-with-modern-computer-techniques/"><u>[New] Reimagine Old-School VHS with Modern Computer Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/"><u>[Updated] 2024 Approved Amplify Your Video Content with Precision Insights From Social Blade & YouTube</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/best-digital-photography-saviour/"><u>Best Digital Photography Saviour</u></a></li>
+<li><a href="https://windows11.techidaily.com/craft-compelling-content-with-these-windows-tools/"><u>Craft Compelling Content with These Window's Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-epubor-software-solutions-for-your-digital-publishing-needs/"><u>Discover the Best EPUBOR Software Solutions for Your Digital Publishing Needs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-and-remove-drm-protection-from-azw-azw3-and-azw4-files-free-guide/"><u>Download and Remove DRM Protection From AZW, AZW3 & AZW4 Files: Free Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-managing-affiliate-reviews-and-feedback/"><u>Effective Strategies for Managing Affiliate Reviews and Feedback</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-gaming-to-the-next-level-on-a-samsung-q60r-series-4k-qled-an-in-depth-review/"><u>Elevate Gaming to the Next Level on a Samsung Q60R Series 4K QLED - An In-Depth Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-facile-suppression-du-drm-des-livres-ibooks-et-lecture-multiplateforme-sur-ordinateur-portablepcmac/"><u>Guide Facile : Suppression Du DRM Des Livres iBooks Et Lecture Multiplateforme Sur Ordinateur Portable/PC/Mac.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-applying-covers-to-your-ebooks-on-amazons-kindle-format/"><u>Guide: Applying Covers to Your eBooks on Amazon's Kindle Format</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro Max</u></a></li>
 </ul></div>
 

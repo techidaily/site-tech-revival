@@ -1,7 +1,7 @@
 ---
 title: "Elevate Coding: CodeGPT Meets VS Code"
-date: 2024-10-23T17:44:59.459Z
-updated: 2024-10-27T17:00:04.918Z
+date: 2024-10-26T16:07:16.457Z
+updated: 2024-11-02T20:18:31.652Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
  It's possible that[future AI models like ChatGPT-5](https://www.makeuseof.com/when-will-gpt5-launch/) could pass the Turing test. If that happens, we would need different tests combined with the Turing test to identify if we're talking to an AI or a human. Here are the best Turing test alternatives:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. The Marcus Test
 
 ![A couple watching Netflix on TV](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/a-couple-watching-netflix-on-tv.jpg)
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
  Gary Marcus, a renowned cognitive scientist and AI researcher, proposed an alternative to the Turing test that was published in the[New Yorker](https://www.newyorker.com/tech/annals-of-technology/what-comes-after-the-turing-test) to identify the cognitive ability of an AI. The test is simple—you judge an AI model based on its ability to watch and understand YouTube videos and TV shows without subtitles or text. For the AI to pass the Marcus test, it should understand sarcasm, humor, irony, and the storyline when watching the videos and explain it like a human.
 
  At the moment,[GPT-4 can describe images](https://www.makeuseof.com/best-new-gpt4-features-explained/) , but so far, there is currently no AI model that can comprehend videos like a human.[Self-driving vehicles](https://www.makeuseof.com/self-driving-cars-explained/) come close, but they're not completely autonomous and require sensors since they can't make sense of everything in their surrounding environment.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. The Visual Turing Test
 
@@ -62,28 +76,15 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 ![robot holding a pencil pointing to a book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/robot-holding-pencil-pointing-to-book-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The theory that a computer can't create original ideas beyond what it was programmed to do was first conceptualized by Ada Lovelace before the Turing test. However, Alan Turing objected to that theory arguing that AI can still surprise humans. It wasn't until 2001 that the guidelines for the Lovelace test were developed to tell apart an AI from a human—and, as per the[thekurzweillibrary](http://www.thekurzweillibrary.com/georgia-tech-professor-proposes-another-alternative-to-the-turing-test) the rules were later revised in 2014.
 
  For an AI to pass the Lovelace test, it must demonstrate that it can generate original ideas that exceed its training. Current AI models like GPT-4 don't have the capability to come up with new inventions beyond our existing knowledge. However,[artificial general intelligence](https://www.makeuseof.com/what-is-artificial-general-intelligence-how-it-differs-generative-ai/) can achieve that capability and pass the Lovelace test.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Reverse Turing Test
@@ -100,22 +101,15 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 ![A man playing chess with an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/ai-chess.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  According to the AI classification framework developed by[Chris Saad](https://docsend.com/view/et7755yasfpj3iy6) , the Turing test is just one evaluation method to know if you're talking to an AI. More succinctly, the AI classification framework is based on the theory of multiple intelligence, which requires human intelligence to satisfy at least eight different criteria, which include: musical-rhythm, logical-mathematical intelligence, visual identification, emotional intelligence, self-reflective intelligence, existential thinking ability, and body movement.
 
  Since the AI is evaluated on eight different parameters, it's unlikely to pass for a human even if it performs better than average in certain benchmarks. For instance,[ChatGPT can solve math problems](https://www.makeuseof.com/can-chatgpt-solve-math-problems/) , describe images, and converse in a natural language like a human, but it would fail other categories defined in the AI classification framework.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Turing Test Is Not Conclusive
@@ -139,20 +133,24 @@ thumbnail: https://thmb.techidaily.com/85222e642fd060b94196ff7371463ce7792d618f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-comprehensible-guide-to-efficient-zoom-capturing-for-2024/"><u>[New] Comprehensible Guide to Efficient Zoom Capturing for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-choreographing-pictures-and-tunes-in-video/"><u>[Updated] Choreographing Pictures & Tunes in Video</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-cutting-edge-mobiles-for-optimizing-dji-content/"><u>[Updated] In 2024, Cutting-Edge Mobiles for Optimizing DJi Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-hashtag-hacks-for-amplifying-gamer-content/"><u>2024 Approved Hashtag Hacks for Amplifying Gamer Content</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/clarifying-misinformation-the-non-existence-of-official-chatgpt-for-windows-and-its-rogue-counterparts/"><u>Clarifying Misinformation: The Non-Existence of Official ChatGPT for Windows, and Its Rogue Counterparts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/content-creators-vs-computational-composition-six-winning-strategies/"><u>Content Creators Vs. Computational Composition: Six Winning Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-turing-challenge-the-future-of-artificebased-intelligence/"><u>Decoding the Turing Challenge: The Future of Artificebased Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-how-chatgpt-can-transform-you-into-a-powerful-data-analyst-in-6-ways/"><u>Discover How ChatGPT Can Transform You Into a Powerful Data Analyst in 6 Ways</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-etiquette-for-interacting-with-ai-assistants-siri-alexa/"><u>Effective Etiquette for Interacting With AI Assistants (Siri, Alexa)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-tips-for-building-persuasive-presentations-with-the-help-of-chatgpt/"><u>Effective Tips for Building Persuasive Presentations with the Help of ChatGPT</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-find-and-update-your-microsoft-bluetooth-driver-on-various-windows-versions-xp-vista-7-8-10-11/"><u>How to Find and Update Your Microsoft Bluetooth Driver on Various Windows Versions (XP, Vista, 7, 8, 10, 11)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-cost-effective-obs-tuning-steps/"><u>In 2024, Cost-Effective OBS Tuning Steps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/peak-creative-synopsis-thorough-studio-review-for-the-year-2023-for-2024/"><u>Peak Creative Synopsis Thorough Studio Review for the Year 2023 for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformar-videos-mp4-a-avi-sin-costo-mediante-el-servicio-web-de-movavi/"><u>Transformar Videos MP4 a AVI Sin Costo Mediante El Servicio Web De Movavi</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/xbox-fanatics-manual-perfect-your-screenshot-skills-for-2024/"><u>Xbox Fanatics' Manual Perfect Your Screenshot Skills for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-elevate-your-podcasts-reach-with-advanced-seo-strategies/"><u>[New] In 2024, Elevate Your Podcast's Reach with Advanced SEO Strategies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-exploring-what-sets-youtube-tv-apart-from-other-streaming-platforms/"><u>[Updated] Exploring What Sets YouTube TV Apart From Other Streaming Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-leading-free-console-reproduction-devices/"><u>[Updated] In 2024, Leading Free Console Reproduction Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-your-content-a-tutorial-for-instagram-video-sharing-for-2024/"><u>[Updated] Streamline Your Content A Tutorial for Instagram Video Sharing for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-audio-engineers-guide-switching-from-srt-to-ttml/"><u>[Updated] The Audio Engineer’s Guide Switching From SRT to TTML</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows11macdvd-2024/"><u>【Windows11・Mac用】ダイナミックなDVDコピーソフト比較: 2024年のハイスタンダードランキング</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-best-facebook-lite-video-downloading-software-of-2023/"><u>2024 Approved Best Facebook Lite Video Downloading Software of 2023</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/handbrake-202/"><u>如何在Handbrake上实现高清画质输出？详解高图质设定方法 - 保存202</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/all-you-need-to-know-exploring-the-full-spectrum-of-iphone-6-specifications-capabilities-customization-options-and-media-support/"><u>All You Need to Know: Exploring the Full Spectrum of iPhone 6 Specifications, Capabilities, Customization Options & Media Support</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-bugs-in-armored-core-6s-fires-of-rubicon-effective-strategies-for-pc-players/"><u>Bypassing Bugs in Armored Core 6'S 'Fires of Rubicon': Effective Strategies for PC Players</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-solution-how-to-enable-apple-dvds-playback-on-your-mac-when-you-encounter-a-not-allowed-message/"><u>Complete Solution: How to Enable Apple DVDs Playback on Your Mac When You Encounter a 'Not Allowed' Message</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-now-updated-and-enhanced-macx-pro-for-complimentary-use/"><u>Download Now: Updated and Enhanced MacX Pro for Complimentary Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-rip-a-dvd-using-vlc-media-player-on-mac-and-windows-systems/"><u>How to Rip a DVD Using VLC Media Player on Mac and Windows Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-k11-5g-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo K11 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-blaze-2-5g-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Blaze 2 5G Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mac-video-downloader-pro-free-tool-for-capturing-and-saving-online-videos-on-macos/"><u>Mac Video Downloader Pro - Free Tool for Capturing and Saving Online Videos on macOS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macmacx-dvd2/"><u>Mac用変換ソフトスイート・MacXバリュープラン: DVD/動画変換ツール2種類で割引提供中</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-the-six-secrets-of-starting-ps5/"><u>Revel in the Six Secrets of Starting PS5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transferring-your-entire-music-library-from-an-iphone-to-a-macbook-pro-air-or-imac-a-step-by-step-guide/"><u>Transferring Your Entire Music Library From an iPhone to a MacBook Pro, Air or iMac: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

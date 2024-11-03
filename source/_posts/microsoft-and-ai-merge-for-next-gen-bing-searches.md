@@ -1,7 +1,7 @@
 ---
 title: Microsoft and AI Merge for Next-Gen Bing Searches
-date: 2024-10-26T13:22:35.167Z
-updated: 2024-10-27T19:25:03.340Z
+date: 2024-10-31T03:14:06.572Z
+updated: 2024-11-03T04:57:05.518Z
 tags:
   - chatgpt
   - open-ai
@@ -30,16 +30,16 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  Arguments exist for and against setting up a local LLM on your computer. We'll cut the hype and bring you the facts. Should you use a local LLM?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Pros of Using Local LLMs
 
 ![digital graphic of ai brain with various icons spreading outward and laptop in background](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ai-brain-digital.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Why are people so hyped about setting up their own[large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) on their computers? Beyond the hype and bragging rights, what are some practical benefits?
 
@@ -57,37 +57,37 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
  With the internet being widely affordable and accessible, offline access might seem like a trivial reason to use a local LLM. Offline access could become especially critical in remote or isolated locations where internet service is unreliable or unavailable. In such scenarios, a local LLM operating independently of an internet connection becomes a vital tool. It allows you to continue doing whatever you want to do without interruption.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Cost Savings
 
  The average price of accessing a capable LLM like GPT-4 or Claude 2 is $20 per month. Although that might not seem like an alarming price, you still get several annoying restrictions for that amount. For instance, with GPT-4, accessed via ChatGPT, you are stuck with a 50-message per three-hour cap. You can only get past those limits by[switching to the ChatGPT Enterprise plan](https://www.makeuseof.com/what-is-chatgpt-enterprise/) , which could potentially cost thousands of dollars. With a local LLM, once you've set up the software, there are no $20 monthly subscription or recurring costs to pay. It's like buying a car instead of relying on ride-share services. Initially, it's expensive, but over time, you save money.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Better Customization
 
  Publicly available AI chatbots have restricted customization due to security and censorship concerns. With a locally hosted AI assistant, you can fully customize the model for your specific needs. You can train the assistant on proprietary data tailored to your use cases, improving relevance and accuracy. For example, a lawyer could optimize their local AI to generate more precise legal insights. The key benefit is control over customization for your unique requirements.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Cons of Using Local LLMs
 
 ![An illustration of a young boy using ChatGPT on a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-and-child.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Before you make the switch, there are some downsides to using a local LLM you should consider.
@@ -107,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
  Deploying a local LLM is more involved than just signing up for a web-based AI service. With an internet connection, your ChatGPT, Bard, or Bing AI account could be ready to start prompting in minutes. Setting up a full local LLM stack requires downloading frameworks, configuring infrastructure, and integrating various components. For larger models, this complex process can take hours, even with tools that aim to simplify installation. Some bleeding-edge AI systems still require deep technical expertise to get running locally. So, unlike plug-and-play web-based AI models, managing your own AI involves a significant technical and time investment.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Limited Knowledge
@@ -140,22 +140,20 @@ thumbnail: https://thmb.techidaily.com/32e2647cfec7540fd7d33c1c66a7dde730efec283
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-essential-upgrades-in-gaming-gloves-for-vr/"><u>[New] Essential Upgrades in Gaming Gloves for VR</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-convenient-alias-adjustment-in-google-meet-devices/"><u>[New] In 2024, Convenient Alias Adjustment in Google Meet Devices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-becoming-a-pinning-pro-snapchats-best-practices/"><u>2024 Approved Becoming a Pinning Pro Snapchat's Best Practices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-new-windows-11-insiders-edge-techniques/"><u>2024 Approved New Windows 11 Insider's Edge Techniques</u></a></li>
-<li><a href="https://win-forum.techidaily.com/bios-explained-enhancing-your-pc-experience-with-revo-uninstaller/"><u>BIOS Explained: Enhancing Your PC Experience with Revo Uninstaller</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-unleashed-on-mac-step-by-step-setup-and-usage/"><u>ChatGPT Unleashed on Mac: Step-by-Step Setup & Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-pdf-handling-discover-these-4-essential-tips/"><u>ChatGPT's PDF Handling: Discover These 4 Essential Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-your-champion-google-bard-vs-bing-chat-showdown/"><u>Choosing Your Champion: Google Bard Vs. Bing Chat Showdown</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chrome-plugin-impersonating-chatgpt-exposes-facebook-accounts/"><u>Chrome Plugin Impersonating ChatGPT Exposes Facebook Accounts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/concerned-about-chatgpt-privacy-heres-how-to-opt-out/"><u>Concerned About ChatGPT Privacy? Here's How to Opt Out</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/confidentiality-caution-the-reasons-to-avoid-trusting-chatgpt-with-private-info/"><u>Confidentiality Caution: The Reasons to Avoid Trusting ChatGPT With Private Info</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dating-simplified-with-chatgpts-insights/"><u>Dating Simplified with ChatGPT's Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-ai-powered-prompt-injection-attacks-an-explanation-of-their-functioning/"><u>Decoding AI-Powered Prompt Injection Attacks - An Explanation of Their Functioning</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/decoding-the-attraction-why-do-hackers-focus-on-infiltrating-chatgpt/"><u>Decoding the Attraction: Why Do Hackers Focus on Infiltrating ChatGPT?</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/iphone-update-process-hangs-solving-itunes-download-issues/"><u>IPhone Update Process Hangs: Solving iTunes Download Issues</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/making-the-most-of-your-phones-camera-in-video-production/"><u>Making the Most of Your Phone's Camera in Video Production</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unite-your-photos-cross-platform-instagram-collage/"><u>Unite Your Photos Cross-Platform Instagram Collage</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-enhancing-television-experience-playback-tips-for-youtube-content/"><u>[Updated] Enhancing Television Experience Playback Tips for YouTube Content</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/examining-the-tech-in-djis-phantom-3-prototype/"><u>Examining the Tech in DJI's Phantom 3 Prototype</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-nokia-105-classic-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Nokia 105 Classic Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-modern-photography-editing-with-polarr-insights/"><u>Mastering Modern Photography Editing with Polarr Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-rog-ally-x-game-changer-in-portable-tech/"><u>New RoG Ally X: Game Changer in Portable Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalizing-fitness-leveraging-chatgpt-technology-for-tailored-training-programs/"><u>Personalizing Fitness: Leveraging ChatGPT Technology for Tailored Training Programs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sifting-through-codegpt-can-it-realistically-write-complex-code/"><u>Sifting Through CodeGPT: Can It Realistically Write Complex Code?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-complete-minecraft-recording-blueprint-for-mac-users/"><u>The Complete Minecraft Recording Blueprint for Mac Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-core-principles-unpacked-by-openai/"><u>The Core Principles Unpacked by OpenAI</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-f14-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy F14 5G Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-educational-materials-into-pdfs-effortlessly-using-vitalsource-technology/"><u>Transform Educational Materials Into PDFs Effortlessly Using Vitalsource Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-aax-audio-files-to-mp3-on-windows-10-and-11-a-step-by-step-guide/"><u>Transforming AAX Audio Files to MP3 on Windows 10 & 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-guide-why-your-kindle-device-may-not-be-starting-properly/"><u>Troubleshooting Guide: Why Your Kindle Device May Not Be Starting Properly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-epub-format-a-comprehensive-guide-to-digital-reading/"><u>Understanding EPUB Format: A Comprehensive Guide to Digital Reading</u></a></li>
 </ul></div>
 

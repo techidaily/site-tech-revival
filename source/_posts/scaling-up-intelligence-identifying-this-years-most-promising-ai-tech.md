@@ -1,7 +1,7 @@
 ---
 title: "Scaling Up Intelligence: Identifying This Year's Most Promising AI Tech"
-date: 2024-10-24T17:10:50.454Z
-updated: 2024-10-28T11:12:19.049Z
+date: 2024-10-29T00:56:25.974Z
+updated: 2024-11-03T01:09:13.454Z
 tags:
   - chatgpt
   - open-ai
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
@@ -55,10 +62,10 @@ For example, below is Bing Chat's effort at a simple limerick.
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
@@ -68,6 +75,13 @@ For example, below is Bing Chat's effort at a simple limerick.
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Image Processing and Accuracy
 
@@ -92,20 +106,13 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
@@ -119,22 +126,21 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
@@ -174,22 +180,14 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-tie-the-two-together-instagram-and-facebook-unite/"><u>[New] Tie the Two Together Instagram and Facebook Unite</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-transforming-chat-into-dialogue-a-discord-tts-primer/"><u>[New] Transforming Chat Into Dialogue A Discord TTS Primer</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quicksnap-win10-recording-master/"><u>[Updated] QuickSnap Win10 Recording Master</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/exploring-the-top-hashtags-for-a-boost-on-ig/"><u>Exploring the Top Hashtags for a Boost on IG</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-srt-fundamentals-explored-in-detail-and-clarity/"><u>In 2024, SRT Fundamentals Explored in Detail and Clarity</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-structuring-engaging-online-vignettes/"><u>In 2024, Structuring Engaging Online Vignettes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/maximize-your-tiktok-pro-editors-playbook/"><u>Maximize Your TikTok Pro Editor's Playbook</u></a></li>
-<li><a href="https://driver-download.techidaily.com/msi-b350-tomahawk-essential-drivers-available-now-ideal-for-windows-users-version-117/"><u>MSI B350 Tomahawk Essential Drivers Available Now - Ideal for Windows Users (Version 11/7)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/to-stick-or-swap-debating-an-enhanced-apple-watch/"><u>To Stick or Swap: Debating an Enhanced Apple Watch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-steps-to-permanently-remove-chatgpt-profile/"><u>Ultimate Guide: Steps to Permanently Remove ChatGPT Profile</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-power-discover-6-ways-to-utilize-chatgpts-code-execution-capabilities/"><u>Unleashing Power: Discover 6 Ways to Utilize ChatGPT's Code Execution Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-3s-potential-step-by-step-guide-to-engage-with-microsofts-chatbot/"><u>Unlocking GPT-3's Potential: Step-by-Step Guide to Engage with Microsoft's Chatbot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-gpt-4-three-costless-entry-methods/"><u>Unlocking GPT-4: Three Costless Entry Methods</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-llms-insights-into-their-operation-and-applications/"><u>Unveiling LLMs: Insights Into Their Operation & Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/using-ai-conversations-with-chatgpt-for-emotional-support/"><u>Using AI Conversations with ChatGPT for Emotional Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-is-grok-ai-by-elon-musk-an-insight-into-its-functions-and-cost-structure/"><u>What Is Grok AI by Elon Musk? An Insight Into Its Functions and Cost Structure</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/will-generative-ai-overtake-human-roles-exploring-the-impact-of-tools-like-chatgpt/"><u>Will Generative AI Overtake Human Roles: Exploring the Impact of Tools Like ChatGPT</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-best-of-breed-top-10-youtube-stations-for-journalism/"><u>[Updated] Best of Breed Top 10 YouTube Stations for Journalism</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-really-earn-extra-income-with-these-8-chatgpt-side-businesses/"><u>Can You Really Earn Extra Income with These 8 ChatGPT Side Businesses?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-one-of-a-kind-ai-visuals-mastering-the-microsoft-copilot-image-maker/"><u>Creating One-of-a-Kind AI Visuals: Mastering the Microsoft Copilot Image Maker</u></a></li>
+<li><a href="https://win11.techidaily.com/diving-into-change-key-modifications-of-windows-11s-explore/"><u>Diving Into Change: Key Modifications of Windows 11'S Explore</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-13c-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi 13C FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-utilize-interactions-with-users-for-learning/"><u>How Does ChatGPT Utilize Interactions with Users for Learning?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-effortlessly-record-voices-using-windows-11-techniques/"><u>How to Effortlessly Record Voices Using Windows 11 Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-make-use-of-a-smartphone-as-a-wireless-modem-for-your-fire-stick-complete-instructions-inside/"><u>How To Make Use Of A Smartphone As A Wireless Modem For Your Fire Stick - Complete Instructions Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-document-creation-using-our-list-of-10-best-chatgpt-plugins-for-pdfs/"><u>Simplify Document Creation Using Our List of 10 Best ChatGPT Plugins for PDFs</u></a></li>
 </ul></div>
 

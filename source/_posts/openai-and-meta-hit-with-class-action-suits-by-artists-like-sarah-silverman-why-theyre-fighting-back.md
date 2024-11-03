@@ -1,7 +1,7 @@
 ---
 title: OpenAI & Meta Hit with Class-Action Suits by Artists Like Sarah Silverman - Why They're Fighting Back
-date: 2024-09-12T03:56:49.755Z
-updated: 2024-09-17T23:28:53.210Z
+date: 2024-11-02T05:49:01.531Z
+updated: 2024-11-02T23:49:01.145Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/3b4fc9801ceec8439e874198c6f456d3f60986d5a
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
 Unlike GPT-3, GPT-4 is both a language and a visual model.
@@ -52,16 +59,16 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
@@ -74,10 +81,10 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
@@ -87,6 +94,13 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  An issue with GPT-3.5 is the propensity of the model to go off-topic or fail to follow instructions as you progress during the course of a conversation. You could, for instance, tell the model to address you by your name, and it would do so for a while but then fail to follow the instructions along the way. Although this problem still exists with the GPT-4 model, it is less of an issue because of a better context window.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
 
@@ -105,5 +119,22 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-mastermind-mind-games-trivia-channel-hunt-for-24/"><u>[New] Mastermind Mind Games - Trivia Channel Hunt for '24</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tactics-for-smoothly-importing-movies-to-vimeo-from-wmm/"><u>[Updated] 2024 Approved Tactics for Smoothly Importing Movies to Vimeo From WMM</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/coding-elegance-with-python-and-gpt-3-synergy/"><u>Coding Elegance with Python & GPT-3 Synergy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-interactive-web-platforms-with-gpt-3-integration/"><u>Creating Interactive Web Platforms with GPT-3 Integration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/critical-insights-into-the-top-6-ai-for-effective-note-capture/"><u>Critical Insights Into the Top 6 AI for Effective Note Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/defend-your-creative-works-from-ai-imitation-using-nightshade-solutions/"><u>Defend Your Creative Works From AI Imitation Using Nightshade Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/designing-a-unique-chatgpt-bot-powered-by-your-proprietary-datasets-a-comprehensive-manual/"><u>Designing a Unique ChatGPT Bot Powered by Your Proprietary Datasets – A Comprehensive Manual</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-gpts-present-working-state/"><u>Discovering GPT's Present Working State</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-chatgpt-offer-the-ability-to-craft-personal-and-secure-fitness-plans-effectively/"><u>Does ChatGPT Offer The Ability To Craft Personal and Secure Fitness Plans Effectively?</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-xiaomi-redmi-note-12-pro-4g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi Note 12 Pro 4G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-connectivity-issues-between-non-supported-devices-and-iphones/"><u>Fixing Connectivity Issues Between Non-Supported Devices and iPhones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-infamous-indivisible-freezing-problems-a-step-by-step-solution/"><u>Fixing the Infamous Indivisible Freezing Problems - A Step-by-Step Solution</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a54-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A54 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-quick-reference-for-iphone-memo-making/"><u>The Ultimate Quick Reference for iPhone Memo-Making</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-must-see-sporty-films-perfect-for-movie-night/"><u>Top 10 Must-See Sporty Films Perfect for Movie Night!</u></a></li>
+</ul></div>
 

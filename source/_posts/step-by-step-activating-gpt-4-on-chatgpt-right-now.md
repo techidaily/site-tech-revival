@@ -1,7 +1,7 @@
 ---
 title: "Step by Step: Activating GPT-4 on ChatGPT Right Now"
-date: 2024-10-22T08:05:09.379Z
-updated: 2024-10-27T22:37:28.171Z
+date: 2024-11-02T05:36:32.260Z
+updated: 2024-11-02T20:03:13.815Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,6 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
  Nvidia's ecosystem for AI hardware acceleration is generally considered more mature. As a result, there's more Nvidia-centric software for GPU-accelerated tasks, like video encoding and, now, Machine Learning. GPT4All is among the tools that "play nicer" with Nvidia's GPUs.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install GPT4All
 
  GPT4All is available for Windows, macOS, and Ubuntu. For this article, we'll be using the Windows version.
@@ -70,13 +63,6 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Installer Downloading Component](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-installer-downloading-component.jpg)
 4. When you eventually find yourself looking at GPT4All's interface, you will also have to download a Language Model to use it. GPT4All will present you with a list of available models. Check its size (next to its name) to ensure you have enough RAM or VRAM to run it. When you decide on a model, click its**Download** button to have GPT4All download and install it.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT4All Model Size and Download Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-model-size-and-download-button.jpg)
 5. If you change your mind, click the**Cancel** button to stop an active download and choose another model.  
 
@@ -84,10 +70,10 @@ Let's see how you can install and use GPT4All on your Windows PC.
 6. To save some time, if you want to try out multiple models, you can have GPT4All download them in parallel. However, note that the gigabytes can soon add up and ensure you have enough storage space for all the models you selected.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![GPT4All Downloading Multiple Language Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-downloading-multiple-language-models.jpg)
@@ -103,15 +89,21 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Options Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-options-panel.jpg)
 3. The first options on GPT4All's panel allow you to create a**New chat** ,**rename** the current one, or**trash** it.  
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Chat Name](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chat-name.jpg)
 4. The**Updates** button lets you update the application and add or remove components.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![GPT4All Update](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-update.jpg)
 5. The**Downloads** button gives you access to the**Language Models** panel.  
@@ -124,13 +116,6 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Chatting](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-chatting.jpg)
 8. Like with ChatGPT, if you don't like an LLM's response as it's generated on your screen, you can click on the**Stop Generating** button to interrupt the process.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT4All Stop Generating Response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-stop-generating-response.jpg)
 9. Similarly, if you don't like an already generated response and want to see an alternative take, you can click the**Regenerate Response** button, which appears on the same spot.  
 
@@ -142,13 +127,6 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Reload and Copy](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-reload-and-copy.jpg)
 12. The third button (with a cogwheel icon) gives you access to GPT4All's**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT4All Settings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-settings.jpg)
 13. The**Generation** tab of GPT4All's Settings allows you to configure the parameters of the active Language Model. By changing variables like its**Temperature** and**Repeat Penalty** , you can tweak its creativeness, conciseness, and so on.  
 ![GPT4All Generation Variables](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-generation-variables.jpg)
@@ -156,10 +134,10 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Application Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-application-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Chatting With Your Documents With GPT4All
@@ -173,24 +151,45 @@ Let's see how you can install and use GPT4All on your Windows PC.
 ![GPT4All Local Docs Plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin.jpg)
 3. You will see an entry for your documents folder on GPT4All's**LocalDocs Plugin** document list. If you decide to remove a documents folder, select it from here and click the**Remove** button on its right.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Local Docs Plugin with Added User Document](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-with-added-user-document.jpg)
 4. From the same spot, you can tweak the**Document snippet size** and the**Document snippets to process per prompt** values from the bottom left of the panel. Increasing those will improve the selected Language Model's ability to "understand" your documents and offer more relevant responses. However, it will also severely slow GPT4All down since it must analyze your documents after every prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![GPT4All Local Docs Plugin Options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-local-docs-plugin-options.jpg)
 5. You can manage your external documents through GPT4All's**Collections** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![GPT4All Collections Button](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-collections-button.jpg)
 6. You can add multiple document collections to GPT4All. It's better, though, instead of having them all active all the time, dragging GPT4All's performance down to control**which** group of documents ("collection") you want active from the**Collections** panel.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![GPT4All Available Collections Panel](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-available-collections-panel.jpg)
 7. After you add some documents and enable their collection, GPT4All will tell you that it's**processing** them after a prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![GPT4All Processing User s Documents](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-processing-user-s-documents.jpg)
 8. Each time GPT4All presents a response that pulls data from your documents, it will offer a list of**references** and**context links** under the response.  
@@ -199,6 +198,13 @@ Let's see how you can install and use GPT4All on your Windows PC.
 9. By clicking a**context link** , GPT4All will show you a snippet of text from your documents that it used for its response.  
 
 ![GPT4All Response Checking User Document Context](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/gpt4all-response-checking-user-document-context.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Your Own ChatGPT on Windows
 
@@ -223,24 +229,24 @@ Let's see how you can install and use GPT4All on your Windows PC.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-todays-biggest-bites-the-top-youtube-hits/"><u>[New] 2024 Approved Today’s Biggest Bites The Top YouTube Hits</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/xpert-tips-for-eradicating-extra-green-on-youtube-videos-mac-for-2024/"><u>[New] Expert Tips for Eradicating Extra Green on YouTube Videos (Mac) for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-master-iphone-podcast-downloads-a-comprehensible-approach/"><u>[Updated] In 2024, Master iPhone Podcast Downloads A Comprehensible Approach</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-interface-feedback-for-screen-players-choice/"><u>[Updated] Interface Feedback for Screen Players' Choice</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-unleashing-the-power-of-screen-capture-with-hp-notebooks-for-2024/"><u>[Updated] Unleashing the Power of Screen Capture with HP Notebooks for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-master-recorders-impact-on-efficient-screen-capturing/"><u>2024 Approved Master Recorder's Impact on Efficient Screen Capturing</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-moto-e13-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Motorola Moto E13 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-ai-why-todays-teachers-must-adapt/"><u>Mastering AI: Why Today's Teachers Must Adapt</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-gpt-3-a-step-by-step-guide-to-using-the-openai-interface/"><u>Mastering GPT-3: A Step-by-Step Guide to Using the OpenAI Interface</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openai-lost-chatgpt-freedom-unleashed/"><u>OpenAI Lost? ChatGPT Freedom Unleashed?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ordinary-challenges-which-bot-overcomes-the-rest/"><u>Ordinary Challenges: Which Bot Overcomes the Rest?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-ai-conversations-in-a-click-the-ultimate-chatgpt-chrome-tool/"><u>Revolutionize AI Conversations in a Click – The Ultimate ChatGPT Chrome Tool</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/supercharged-roleplay-infusing-your-game-with-gpts-expertise/"><u>Supercharged Roleplay: Infusing Your Game with GPT's Expertise</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-comprerans-guide-to-ai-29-important-terminologies/"><u>The Compreran's Guide to AI: 29 Important Terminologies</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-essential-guide-to-embedding-youtube-into-gslides/"><u>The Essential Guide to Embedding YouTube Into GSlides</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-artificial-intelligence-on-modern-gaming-dynamics/"><u>The Impact of Artificial Intelligence on Modern Gaming Dynamics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-insight-behind-emotion-sensitive-technology-how-well-does-it-really-read-our-feelings/"><u>The Insight Behind Emotion-Sensitive Technology: How Well Does It Really Read Our Feelings?</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unleash-the-power-of-split-window-on-netflix-platform/"><u>[Updated] 2024 Approved Unleash the Power of Split Window on Netflix Platform</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-choosing-creativitys-canvas-youtube-vs-tiktok/"><u>[Updated] In 2024, Choosing Creativity's Canvas Youtube Vs. TikTok</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-top-competitors-a-guide-to-exceptional-conversationalist-tools-on-mobile-devices/"><u>ChatGPT's Top Competitors: A Guide to Exceptional Conversationalist Tools on Mobile Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/confidential-information-at-risk-reasons-to-think-twice-before-trusting-chatgpt-with-sensitive-details/"><u>Confidential Information at Risk? Reasons to Think Twice Before Trusting ChatGPT with Sensitive Details</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-fantasy-roleplay-gpt-and-ai-collaboration-in-dandd-creativity/"><u>Enhancing Fantasy Roleplay: GPT & AI Collaboration in D&D Creativity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/erase-your-digital-footprint-disabling-and-removing-a-chatgpt-account/"><u>Erase Your Digital Footprint: Disabling and Removing a ChatGPT Account</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tial-insights-on-youtube-tvs-unique-features/"><u>Essential Insights on YouTube TV's Unique Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-apples-new-ai-innovations-showcased-during-wwdc-2024-presentation/"><u>Exploring Apple's New AI Innovations Showcased During WWDC 2024 Presentation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/ideal-vlogging-gear-the-best-15-cameras-ranked-for-2024/"><u>Ideal Vlogging Gear The Best 15 Cameras Ranked for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-inside-the-world-of-funimate-gamers/"><u>In 2024, Inside the World of Funimate Gamers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-itel-p40-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Itel P40 Phone</u></a></li>
+<li><a href="https://win-tips.techidaily.com/is-video-playback-supported-in-flash-format-on-flipbuilder-platform/"><u>Is Video Playback Supported in Flash Format on FlipBuilder Platform?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-creativity-with-these-top-17-graphic-design-applications/"><u>Mastering Creativity with These Top 17 Graphic Design Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-writers-edge-with-ai-comprehensive-guide-to-mastering-storytelling-via-chatgpt/"><u>The Writer's Edge with AI: Comprehensive Guide to Mastering Storytelling via ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-android-experience-with-the-latest-ai-assistant-chatgpt/"><u>Transform Your Android Experience with the Latest AI Assistant, ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-artificial-intelligence-unpacking-the-mechanics-of-a-prompt-injection-assault/"><u>Understanding Artificial Intelligence: Unpacking the Mechanics of a Prompt Injection Assault</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlock-clarity-in-photos-leading-10-online-edits-at-a-glance/"><u>Unlock Clarity in Photos Leading 10 Online Edits at a Glance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-potentials-top-3-methods-for-integrating-chatgpt-with-the-wolfram-language/"><u>Unlocking New Potentials: Top 3 Methods for Integrating ChatGPT with the Wolfram Language</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728495933564-windows-1011/"><u>Windows 10/11上最快捷硬碟複製手冊：一項全面解決方案</u></a></li>
 </ul></div>
 

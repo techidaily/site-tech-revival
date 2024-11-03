@@ -1,7 +1,7 @@
 ---
 title: "Zero-Cost Artificinas: Top 6 Substitutes for Sora"
-date: 2024-10-22T11:46:24.478Z
-updated: 2024-10-28T10:20:59.396Z
+date: 2024-10-31T20:01:36.755Z
+updated: 2024-11-02T18:38:46.263Z
 tags:
   - chatgpt
   - open-ai
@@ -36,10 +36,10 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 ![Runway Gen 2 Home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/runway-gen-2-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Free:** 125 Credits
@@ -53,16 +53,22 @@ thumbnail: https://thmb.techidaily.com/104450fe8ea4a9516969410598e82c71d2951cffe
 
  Judging from the quality of Sora-generated clips shared by OpenAI, Sora bests Runway Gen-2 as an AI text-to-video generator. However, given the speed of development in the AI space (and the fact that Runway launched Gen-2 about a year before the first preview of Sora was released), it's clear OpenAI's Sora and Runway Gen-2 (and its future versions) will battle for the best text-to-video AI generator title.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 [Pika](https://pika.art/)
 
 ![screenshot of pika labs homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pika-labs-homepage.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Free:** 250 initial credits (free 30 credits daily after exhausting initial credits)
 * **Standard:** $10/month ($8 when paid annually) for 700 monthly credits
@@ -88,16 +94,16 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
 ![screenshot of pixverse homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-pixverse-homepage.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * **Free**
@@ -116,13 +122,6 @@ A stylish woman walks down a Tokyo street filled with warm glowing neon and anim
 
 Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 [Kaiber](https://kaiber.ai/)
 
 ![screenshot of kaiber homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/screenshot-of-kaiber-homepage.jpg)
@@ -137,6 +136,13 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
  The biggest allure of Kaiber is its ability to generate clips that match the rhythm of uploaded sounds. Its artist-centric features also help prop it up against Sora. However, in terms of generated clip realism, Sora still stands clear.
 
  Your browser does not support the video tag.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 [Synthesia](http://www.synthesia.io/)
 
@@ -183,20 +189,20 @@ Quality-wise, Pixverse is in the same class as Pika—below Sora.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-ae-text-excellence-discover-our-best-10-ideas/"><u>[New] AE Text Excellence Discover Our Best 10 Ideas</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>2024 Approved Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ace-your-photo-collection-best-android-collage-hacks/"><u>Ace Your Photo Collection – Best Android Collage Hacks</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-list-of-premium-ai-prompt-platforms/"><u>Discover the Ultimate List of Premium AI Prompt Platforms</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/harnessing-the-power-of-major-social-media-insights-into-facebook-twitter-instagram-and-youtube-strategies/"><u>Harnessing The Power Of Major Social Media: Insights Into Facebook, Twitter, Instagram & Youtube Strategies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improve-your-dragons-dogma-2-experience-by-eliminating-low-fps-and-hitches-in-gameplay/"><u>Improve Your Dragon's Dogma 2 Experience by Eliminating Low FPS and Hitches in Gameplay</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/recovering-system-backups-in-windows-11-try-these-5-effective-techniques/"><u>Recovering System Backups in Windows 11? Try These 5 Effective Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/redefining-boundaries-chatgpt-on-your-android/"><u>Redefining Boundaries: ChatGPT on Your Android</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-academic-research-in-4-steps-through-advanced-ai-applications/"><u>Revolutionize Academic Research in 4 Steps Through Advanced AI Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-ai-communication-explore-openais-tailored-store/"><u>Revolutionizing AI Communication: Explore OpenAI’s Tailored Store</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-to-harness-the-power-of-chatgpt-on-macos-systems/"><u>Step-by-Step Instructions to Harness the Power of ChatGPT on macOS Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-your-content-creation-elevate-writing-with-hix-ai-and-gpt-4/"><u>Streamline Your Content Creation: Elevate Writing with HIX AI & GPT-4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-binary-impact-analyzing-positives-and-negatives-of-ai-for-writers/"><u>The Binary Impact: Analyzing Positives and Negatives of AI for Writers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tips-for-adding-personalized-audio-effects-to-windows-10-photos/"><u>Tips for Adding Personalized Audio Effects to Windows 10 Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-precision-adjustments-for-premium-zoom-audio/"><u>[New] In 2024, Precision Adjustments for Premium Zoom Audio</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-essential-strategies-for-viewing-your-subscribers/"><u>[Updated] 2024 Approved Essential Strategies for Viewing Your Subscribers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-customizing-youtube-viewing-policies-for-your-content/"><u>[Updated] Customizing YouTube Viewing Policies for Your Content</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>[Updated] In 2024, Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-limitations-revealed-7-requests-that-challenge-chatgpt/"><u>AI Limitations Revealed: 7 Requests That Challenge ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-literacy-test-reasons-behind-chatgpts-struggle-with-identifying-own-writings/"><u>AI Literacy Test: Reasons Behind ChatGPT's Struggle with Identifying Own Writings</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breakthrough-ai-creative-workstation-for-2024/"><u>Breakthrough AI Creative Workstation for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/detecting-phishing-attempts-using-chatgpt-a-guide-for-internet-users/"><u>Detecting Phishing Attempts Using ChatGPT: A Guide for Internet Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-techniques-for-leveraging-chatgpt-for-multilingual-conversion/"><u>Effective Techniques for Leveraging ChatGPT for Multilingual Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-analysis-choosing-between-chatgpt-and-gemini-for-efficient-programming-assistance/"><u>Expert Analysis: Choosing Between ChatGPT and Gemini for Efficient Programming Assistance</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-c22-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C22 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/proton-vpn-login-tips-how-to-change-your-email-plus-debunking-the-myth-of-counterfeit-windows-chatgpt-apps/"><u>Proton VPN Login Tips: How to Change Your Email + Debunking the Myth of Counterfeit Windows ChatGPT Apps</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210845780-9781088157619-the-prophet-daniel/"><u>The Prophet Daniel | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-chatbot-triad-gpt-microsofts-bot-and-googles-bard/"><u>The Ultimate Chatbot Triad: GPT, Microsoft's Bot & Google's Bard</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-what-you-want-top-six-destinations-for-streaming-music-videos/"><u>Watch What You Want: Top Six Destinations for Streaming Music Videos</u></a></li>
 </ul></div>
 

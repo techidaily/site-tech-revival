@@ -1,7 +1,7 @@
 ---
 title: "Code Master Showdown: Comparing ChatGPT and Gemini's Coding Skills"
-date: 2024-09-12T10:59:31.087Z
-updated: 2024-09-18T10:14:50.745Z
+date: 2024-11-01T04:42:26.175Z
+updated: 2024-11-03T03:48:43.131Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -61,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Has the Best General Knowledge?
@@ -84,10 +91,10 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
@@ -106,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
  In our opinion. none of the chatbots gave instructions sufficient to help someone correctly wire a BS 1363 electrical plug. A concise and correct response would be, "Blue on the left, brown on the right."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
@@ -120,6 +120,13 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Tells the Best Jokes?
 
@@ -158,5 +165,22 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-step-by-step-soundscapes-for-iphone-customization-for-2024/"><u>[New] Step-by-Step Soundscapes for iPhone Customization for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-10-free-recording-apps-for-slack-chats/"><u>[Updated] 2024 Approved Best 10 Free Recording Apps for Slack Chats</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-smile-signal-laughter-filled-download-sites/"><u>[Updated] 2024 Approved Smile Signal Laughter-Filled Download Sites</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-peak-level-hd-capture-best-screen-recorder-innovations-unveiled-for-2024/"><u>[Updated] Peak-Level HD Capture Best Screen Recorder Innovations Unveiled for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proven-strategies-for-superior-design-with-canva/"><u>2024 Approved Proven Strategies for Superior Design with Canva</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-retro-smile-captured-by-iphone-x-classic/"><u>2024 Approved Retro Smile Captured by iPhone X Classic</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722157628043-chatgpt-desktop-app-coming-soon-dont-wait-experience-our-top-open-source-choice-instead/"><u>ChatGPT Desktop App Coming Soon? Don't Wait, Experience Our Top Open-Source Choice Instead!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-se-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone SE without Password?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/synergy-of-popular-platforms-strategies-for-facebook-twitter-instagram-and-youtubers/"><u>Synergy of Popular Platforms: Strategies for Facebook, Twitter, Instagram and YouTubers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creative-possiblete-crafting-distinctive-images-using-microsoft-copilot/"><u>Unlocking Creative Possiblete: Crafting Distinctive Images Using Microsoft Copilot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722084992548-unlocking-productivity-install-microsoft-copilot-on-your-mac-today/"><u>Unlocking Productivity: Install Microsoft Copilot on Your Mac Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-universal-access-discover-how-gpt-4-is-now-available-to-all/"><u>Unlocking Universal Access: Discover How GPT-4 Is Now Available to All</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-is-gptbot-being-blocked-by-websites-a-comprehensive-look/"><u>Why Is GPTBot Being Blocked by Websites? A Comprehensive Look</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/will-ai-take-over-your-career-understanding-the-future-of-generative-technology/"><u>Will AI Take Over Your Career: Understanding the Future of Generative Technology</u></a></li>
+</ul></div>
 

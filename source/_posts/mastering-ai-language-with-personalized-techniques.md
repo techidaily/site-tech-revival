@@ -1,7 +1,7 @@
 ---
 title: Mastering AI Language with Personalized Techniques
-date: 2024-09-11T19:37:22.088Z
-updated: 2024-09-12T19:37:22.088Z
+date: 2024-10-26T20:46:27.486Z
+updated: 2024-11-02T22:44:45.830Z
 tags:
   - chatgpt
   - open-ai
@@ -19,13 +19,6 @@ thumbnail: https://thmb.techidaily.com/b274fcba0e007ea79b7a5404662f5559df1dd58ab
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -49,27 +42,7 @@ thumbnail: https://thmb.techidaily.com/b274fcba0e007ea79b7a5404662f5559df1dd58ab
 
 ![chatgpt4 turbo data cut off point question november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt4-turbo-data-cut-off-point-question-november-2023.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Ability to Create Custom GPTs
 
@@ -86,18 +59,18 @@ thumbnail: https://thmb.techidaily.com/b274fcba0e007ea79b7a5404662f5559df1dd58ab
 
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  For instance, say you want to identify and tag smartphones from images using ChatGPT Vision. ChatGPT doesn't know all the latest phones, so you have to teach it every time. This can be annoyingly repetitive. With a custom GPT, you could build a mini GPT pre-loaded with smartphone data so you can skip straight to prompting it to identify new devices anytime.
 
  You could make other custom GPTs as well, like one for movie recommendations primed with a database of films. Then prompt your custom movie bot anytime you want a recommendation. The best part is that you’ll eventually be able to share these specialized GPTs publicly and potentially profit when others find them useful. Custom GPTs allow you to easily customize ChatGPT for specialized purposes beyond its general knowledge without the need to write any code.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Use Pre-Listed GPTs
 
@@ -106,13 +79,20 @@ Close
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT’s Evolution Continues
 
@@ -133,5 +113,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/eciding-the-optimal-social-media-platform-tiktok-vs-youtube-shorts-for-2024/"><u>[New] Deciding the Optimal Social Media Platform TikTok Vs. YouTube Shorts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-affordable-facetime-replacements-for-android/"><u>[New] In 2024, Affordable FaceTime Replacements for Android</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-native-chrome-os-screen-replay-app-for-2024/"><u>[New] Native Chrome OS Screen Replay App for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-comprehensible-approach-to-masterful-gopro-studio-edits/"><u>A Comprehensible Approach to Masterful GoPro Studio Edits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showcase-surpassing-a-venerable-standard/"><u>AI Showcase: Surpassing a Venerable Standard</u></a></li>
+<li><a href="https://program-issues.techidaily.com/armored-core-6-stability-fixes-overcoming-pc-game-crashing-problems/"><u>Armored Core 6 Stability Fixes - Overcoming PC Game Crashing Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/behind-the-scenes-the-techniques-empowering-bots-for-realistic-interactions-with-users/"><u>Behind the Scenes: The Techniques Empowering Bots for Realistic Interactions with Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-generic-to-personalized-ai-mastering-the-art-of-tailored-gpt-models-via-chatgpt-update/"><u>From Generic to Personalized AI - Mastering the Art of Tailored GPT Models via ChatGPT Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hone-in-on-ai-excellence-the-ultimate-guide-to-crafting-winning-prompts/"><u>Hone In On AI Excellence: The Ultimate Guide To Crafting Winning Prompts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mobile-reaction-video-creation-top-tools-and-apps/"><u>In 2024, Mobile Reaction Video Creation Top Tools and Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-landscape-of-generative-ai/"><u>Navigating the Landscape of Generative AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-uncertainty-has-openai-misstepped-in-managing-chatgpt/"><u>Navigating Uncertainty: Has OpenAI Misstepped in Managing ChatGPT?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-and-easy-bcm20702a0-driver-download-seamless-installation-on-windows/"><u>Quick and Easy BCM20702A0 Driver Download: Seamless Installation on Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722964356259-update-your-system-lenovo-thunderbolt-veilleur-de-nuit-driver-installation-instructions-and-tips/"><u>Update Your System: Lenovo Thunderbolt Veilleur De Nuit, Driver Installation Instructions and Tips</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Best Add-Ons: Enhance GPT Experience Within VS Code Interface"
-date: 2024-10-23T13:11:08.788Z
-updated: 2024-10-27T20:20:49.564Z
+date: 2024-10-28T02:49:27.484Z
+updated: 2024-11-03T05:20:24.459Z
 tags:
   - chatgpt
   - open-ai
@@ -50,20 +50,13 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -71,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -92,10 +79,17 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -121,20 +115,18 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-minimal-shake-cam-for-dynamic-shooting/"><u>[New] Minimal-Shake Cam for Dynamic Shooting</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-pioneering-color-grading-with-3d-luts/"><u>[Updated] In 2024, Pioneering Color Grading with 3D LUTs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-traversing-the-timeline-of-facebook-narratives-mobile-plus-laptop/"><u>[Updated] Traversing the Timeline of Facebook Narratives (Mobile + Laptop)</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-should-itop-screen-recorder-be-a-staple-in-your-kit/"><u>2024 Approved Should ITop Screen Recorder Be a Staple in Your Kit?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/constructing-a-compelling-docu-script-a-stepwise-approach-for-2024/"><u>Constructing a Compelling Docu-Script A Stepwise Approach for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-boost-your-productivity-combining-chatgpt-with-visual-studio-code/"><u>How to Boost Your Productivity: Combining ChatGPT with Visual Studio Code</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-c02-lock-screen-password-by-drfone-android/"><u>How To Change Nokia C02 Lock Screen Password?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-words-use-at-zero-expense/"><u>In 2024, Capture Words, Use at Zero Expense</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-hiring-methods-discovering-6-chatgpt-approaches/"><u>Innovative Hiring Methods: Discovering 6 ChatGPT Approaches</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-look-the-operating-principles-of-seven-apps-utilizing-gpt-4-technology/"><u>Inside Look: The Operating Principles of Seven Apps Utilizing GPT-4 Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-machines-at-the-workforce-crossroads/"><u>Intelligent Machines at the Workforce Crossroads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-claude-ai-the-next-big-thing-or-does-chatgpt-still-rule/"><u>Is Claude AI the Next Big Thing or Does ChatGPT Still Rule?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-craft-personalized-safe-and-effective-exercise-regimens-tailored-just-for-you/"><u>Is It Possible For ChatGPT To Craft Personalized, Safe And Effective Exercise Regimens Tailored Just For You?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/justifying-the-investment-in-advanced-ai-writing-tools-is-it-worth-it/"><u>Justifying the Investment in Advanced AI Writing Tools – Is It Worth It?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-seamless-blend-enhancing-your-ae-projects-with-luts/"><u>The Seamless Blend Enhancing Your AE Projects with LUTs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-ace-google-meet-selecting-ideal-video-call-bgs/"><u>[New] 2024 Approved Ace Google Meet Selecting Ideal Video Call BGs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-techniques-for-cost-efficient-youtube-introduction-and-conclusion-creation-for-2024/"><u>[Updated] Techniques for Cost-Efficient YouTube Introduction & Conclusion Creation for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-exceptional-editing-with-kinemaster/"><u>2024 Approved The Path to Exceptional Editing with Kinemaster</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-showdown-assessing-the-strengths-of-chatgpt-against-huggingfaces-huggingchat/"><u>AI Showdown: Assessing the Strengths of ChatGPT Against HuggingFace's HuggingChat</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-your-written-work-leveraging-chatgpt-for-better-content-and-design/"><u>Boosting Your Written Work: Leveraging ChatGPT for Better Content and Design</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digital-coaching-engaging-ai-in-psychological-support/"><u>Digital Coaching: Engaging AI in Psychological Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fear-or-freedom-how-to-embrace-ai-for-todays-educators/"><u>Fear or Freedom? How to Embrace AI for Today's Educators</u></a></li>
+<li><a href="https://win-studio.techidaily.com/guida-completa-per-fare-il-backup-dei-tuoi-contatti-gmail-con-i-metodi-piu-ottimali/"><u>Guida Completa per Fare Il Backup Dei Tuoi Contatti Gmail Con I Metodi Più Ottimali</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-honor-100-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/insights-from-emojis-to-economy-plus-the-latest-activision-incident/"><u>Insights From Emojis to Economy, Plus the Latest Activision Incident</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-ai-companion-gpt-for-enhanced-productivity/"><u>Introducing AI Companion, GPT for Enhanced Productivity</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/uncovering-vuebells-budget-video-doorbell-a-thorough-assessment-of-the-most-affordable-option/"><u>Uncovering VueBell's Budget Video Doorbell: A Thorough Assessment of the Most Affordable Option</u></a></li>
 </ul></div>
 

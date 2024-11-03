@@ -1,7 +1,7 @@
 ---
 title: "Your First Steps Into LangChain LLM: A Comprehensive Newbie's Manual"
-date: 2024-09-17T00:12:35.298Z
-updated: 2024-09-18T03:11:29.400Z
+date: 2024-11-01T22:46:16.185Z
+updated: 2024-11-02T17:13:00.785Z
 tags:
   - chatgpt
   - open-ai
@@ -40,9 +40,29 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
  So, from the onset, you have an AI capable of "good and evil." It's then the responsibility of OpenAI to ensure that ChatGPT's "evil" side is not exploited for unethical gains. The question is; is OpenAI doing enough to keep ChatGPT as ethical as possible? Or has OpenAI lost control of ChatGPT?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is ChatGPT Too Powerful for Its Own Good?
 
 ![plastic robot with blue face](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/plastic-robot-with-blue-face.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the early days of ChatGPT, you could get the chatbot to create guides on making bombs if you asked nicely. Instructions on making malware or writing a perfect scam email were also in the picture.
 
@@ -68,9 +88,23 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 
 ![Hide dead body options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hide-dead-body-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 It even wrote a classic Nigerian Prince email scam when asked.
 
 ![Nigerian prince scam email](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/nigerian-prince-scam-email.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Jailbreaking almost completely invalidates any safeguards that OpenAI has put in place, highlighting that the company might not have a reliable way to keep its AI chatbot under control.
 
@@ -85,13 +119,6 @@ It even wrote a classic Nigerian Prince email scam when asked.
  For instance, safeguards against describing violent actions might diminish ChatGPT's ability to write a novel involving a crime scene. As OpenAI ramps up safety measures, it inevitably sacrifices chunks of its abilities in the process. This is why ChatGPT has suffered a significant decline in functionality since OpenAI's renewed push for stricter moderation.
 
  But how much more of ChatGPT's abilities will OpenAI be willing to sacrifice to make the chatbot safer? This all ties neatly into a long-held belief within the AI community—large language models like ChatGPT are notoriously hard to control, even by their own creators.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Can OpenAI Put ChatGPT Under Control?
 
@@ -112,5 +139,24 @@ It even wrote a classic Nigerian Prince email scam when asked.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-cutting-edge-voice-capture-top-recorders-of-2023/"><u>[Updated] 2024 Approved Cutting-Edge Voice Capture Top Recorders of 2023</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-social-media-synergy-connecting-twitch-streams-with-fb/"><u>[Updated] 2024 Approved Social Media Synergy Connecting Twitch Streams with FB</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/access-chatgpt-on-mac-without-paying-free-access-now-available/"><u>Access ChatGPT on Mac Without Paying: Free Access Now Available</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/all-in-one-iphone-fixer-the-ultimate-ios-troubleshooting-application/"><u>All-in-One iPhone Fixer: The Ultimate iOS Troubleshooting Application</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/amazon-labor-day-sale-grab-your-low-cost-ipad-for-just-199-today/"><u>Amazon Labor Day Sale: Grab Your Low-Cost iPad for Just $199 Today!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harness-the-power-of-windows-photos-and-story-remix-for-editing/"><u>Harness the Power of Windows Photos & Story Remix for Editing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-ai-power-discover-the-best-5-therapeutic-chatbots-and-apps-for-emotional-wellbeing/"><u>Harnessing AI Power: Discover the Best 5 Therapeutic Chatbots & Apps for Emotional Wellbeing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-use-chatgpt-folders-to-manage-your-chatgpt-conversations/"><u>How to Use ChatGPT Folders to Manage Your ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-compromising-your-confidentiality-heres-how-to-securely-opt-out/"><u>Is ChatGPT Compromising Your Confidentiality? Here's How to Securely Opt Out</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/lost-oversight-chatgpts-new-era/"><u>Lost Oversight: ChatGPT's New Era</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-install-of-auto-gpt-detailed-step-by-step-tutorial/"><u>Master the Install of Auto-GPT: Detailed, Step by Step Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-for-sound-design-in-digital-audio-workstations/"><u>Mastering ChatGPT for Sound Design in Digital Audio Workstations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-youtube-scriptwriting-utilizing-the-power-of-chatgpt-for-successful-videos/"><u>Mastering YouTube Scriptwriting: Utilizing the Power of ChatGPT for Successful Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/meet-the-top-six-massive-language-generation-technologies/"><u>Meet the Top Six Massive Language Generation Technologies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfecting-canva-tunes-adding-and-cropping-sound-effectively-for-2024/"><u>Perfecting Canva Tunes Adding and Cropping Sound Effectively for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pro-level-strategies-to-purge-backgrounds-in-figma/"><u>Pro-Level Strategies to Purge Backgrounds in Figma</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/securing-your-network-instructions-for-enabling-lsa-guardrails/"><u>Securing Your Network: Instructions for Enabling LSA Guardrails</u></a></li>
+</ul></div>
 

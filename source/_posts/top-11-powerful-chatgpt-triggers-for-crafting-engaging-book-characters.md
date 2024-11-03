@@ -1,7 +1,7 @@
 ---
 title: Top 11 Powerful ChatGPT Triggers for Crafting Engaging Book Characters
-date: 2024-10-24T01:14:21.560Z
-updated: 2024-10-28T13:20:12.877Z
+date: 2024-10-28T19:47:34.184Z
+updated: 2024-11-02T23:35:38.941Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
 ![Sona is an AI book recommendation engine by the makers of Read This Twice that makes AI prompt results easy to read](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-read-this-twice-sona.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Author Screenshot by Mihir Patkar - No attribution required
 
  Sona is a "book-loving AI assistant" from one of our[favorite new book recommendation sites](https://www.makeuseof.com/new-book-recommendation-apps-sites/) , Read This Twice. Read This Twice collects which titles celebrities and influential personalities have said everyone should read, with rankings for the most commonly recommended reads.
@@ -51,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
  However, in the results, Sona disappointingly doesn't rely on Read This Twice's core expertise by showing which books are recommended by someone influential. There is a workaround to that, though. If you register on the site, you'll be able to add these books to your personal library and go there to see who has promoted the book.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3.[Next Three Books](https://www.nextthreebooks.com/) (Web): Filter Book Recommendations by Type, Genre, Length, Style
 
 ![Next Three Books suggests three titles from a ChatGPT prompt, and lets you filter results by genre, writing style, length, and type of book](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-next-three-books.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -78,10 +71,10 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
  Once it analyzes your input, the results are three simple cards that include the book title, author's name, and a two-line description. If the book was recommended by someone famous or another author, Next Three Books will add that context to the card.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4.[Readow](https://readow.ai/) (Web): AI Book Recommendations Based on Your Likes
@@ -96,22 +89,16 @@ thumbnail: https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff4670
 
  Whenever you add or remove a personal favorite, Readow will update the results with 30 book recommendations. You can like books from the recommendations to add them to your favorites or delete them from the recommendations to indicate to the AI that it shouldn't suggest similar titles.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5.[BooksAI](https://booksai.app/) (Android, iOS): Got Recommendations? Read Spoiler-Free AI Summaries
 
 ![Search for a book or look through celebrity recommendations to generate a summary of any book with BooksAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-book-recommendation-sites-chatgpt-booksai-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -133,6 +120,13 @@ Close
 
 **Download:** BooksAI for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2030240/https://play.google.com/store/apps/details?id=com.books.ai.books%5Fai) |[iOS](https://apps.apple.com/us/app/booksai-ai-book-summaries/id6450773082) (Free)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Give Serendipity a Chance
 
  These AI-powered book recommendation engines can be astonishingly good at figuring out what you would like. But some might feel that this robs us of the experience of walking into a bookstore, picking up a random novel, and discovering an interesting read. Just so you know, you can give that serendipity a chance online too.
@@ -152,19 +146,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-maximize-your-content-impact-with-insights-from-social-blade-on-youtube/"><u>2024 Approved Maximize Your Content Impact with Insights From Social Blade on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-most-popular-karaoke-machines-of-this-year/"><u>Discover the Most Popular Karaoke Machines of This Year</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic-v2-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic V2 Devices | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo Y28 5G? | Dr.fone</u></a></li>
-<li><a href="https://ai-video.techidaily.com/in-2024-ultimate-guide-to-translating-youtube-videos-without-cc/"><u>In 2024, Ultimate Guide to Translating YouTube Videos Without CC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-an-openai-guide/"><u>Mastering ChatGPT: An OpenAI Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-personalized-ai-crafting-your-own-chatgpt-writing-style/"><u>Mastering the Art of Personalized AI: Crafting Your Own ChatGPT Writing Style</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-bing-ai-mobile-experience-tips-and-tricks-for-android-users/"><u>Mastering the Bing AI Mobile Experience: Tips and Tricks for Android Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-crafting-effective-workflow-strategies-with-chatgpt/"><u>Maximizing Efficiency: Crafting Effective Workflow Strategies with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-top-6-strategies-for-integrating-chatgpt-into-your-telecommuting-routine/"><u>Maximizing Productivity: Top 6 Strategies for Integrating ChatGPT Into Your Telecommuting Routine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-pause-in-chatgpt-registrations-why-now-and-when-can-we-sign-up-again/"><u>Navigating the Pause in ChatGPT Registrations – Why Now & When Can We Sign Up Again?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/restoring-audio-resolving-the-silent-airpods-problem-on-windows-1110-systems/"><u>Restoring Audio: Resolving the Silent AirPods Problem on Windows 11/10 Systems</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/top-besplatnyj-instrument-dlya-rezervnogo-kopirovaniya-dannyh-na-vneshnij-ssd-skachat/"><u>Топ Бесплатный Инструмент Для Резервного Копирования Данных На Внешний SSD: Скачать</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-adobe-audition-101-the-art-of-fading-on-for-2024/"><u>[New] Adobe Audition 101 The Art of Fading On for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-to-recording-snapchat-on-devices/"><u>[New] Step-by-Step to Recording Snapchat on Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-the-latest-ios-18-preview-begin-your-early-testing-experience/"><u>Access the Latest iOS 18 Preview: Begin Your Early Testing Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/android-version-of-gemini-introduces-updated-live-chat-functionality-and-improved-overlay-assistant-tools/"><u>Android Version of Gemini Introduces Updated Live Chat Functionality and Improved Overlay Assistant Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-efficiency-with-iphone-automation-shortcuts/"><u>Boosting Efficiency with iPhone Automation Shortcuts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-my-ultimate-list-of-6-best-features-of-samsung-dex/"><u>Discover My Ultimate List of 6 Best Features of Samsung DeX</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-unrivaled-benefits-why-you-shouldnt-think-twice-about-cancelling-apple-arcade/"><u>Discover the Unrivaled Benefits: Why You Shouldn't Think Twice About Cancelling Apple Arcade</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-image-management-in-google-photos-through-smart-collection-grouping-technology/"><u>Enhance Image Management in Google Photos Through Smart Collection Grouping Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exposing-atandts-misleading-promotion-of-non-existent-telecom-offering/"><u>Exposing AT&T's Misleading Promotion of Non-Existent Telecom Offering</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-successfully-power-off-your-pc-running-windows-11-solutions-explored/"><u>How to Successfully Power Off Your PC Running Windows 11: Solutions Explored</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/immobile-device-display-shift-the-secret-technique-for-rotating-your-iphoneipad/"><u>Immobile Device Display Shift: The Secret Technique for Rotating Your iPhone/iPad</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-12-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone 12 Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-cutting-edge-content-creation-mastering-how-to-trim-videos-in-real-time-on-vimeo/"><u>In 2024, Cutting-Edge Content Creation Mastering How to Trim Videos in Real Time on Vimeo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpts-latest-browsing-plugins-guide/"><u>Integrating ChatGPT's Latest Browsing Plugins Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-investing-in-a-dual-sim-smartphone-a-smart-choice/"><u>Is Investing in a Dual-SIM Smartphone a Smart Choice?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971335816-logitech-c615-drivers-easy-trouble-shoot-and-solutions-provided/"><u>Logitech C615 Drivers – Easy Trouble-Shoot & Solutions Provided</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-poco-f5-pro-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Poco F5 Pro 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/why-apple-account-disabled-on-your-apple-iphone-15-plus-how-to-fix-by-drfone-ios/"><u>Why Apple Account Disabled On your Apple iPhone 15 Plus? How to Fix</u></a></li>
 </ul></div>
 

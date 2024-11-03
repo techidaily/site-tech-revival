@@ -1,7 +1,7 @@
 ---
 title: Unearthing Underwater GPT-3 Journals
-date: 2024-09-12T11:43:50.914Z
-updated: 2024-09-18T01:14:21.955Z
+date: 2024-10-27T19:30:00.792Z
+updated: 2024-11-02T23:19:53.192Z
 tags:
   - chatgpt
   - open-ai
@@ -57,13 +57,47 @@ Close
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -82,12 +116,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-steering-through-social-streams-youtube-content-in-fb/"><u>[Updated] Steering Through Social Streams YouTube Content in FB</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-views-strategic-partnerships-on-youtube-for-rapid-growth-for-2024/"><u>Boost Views Strategic Partnerships on YouTube for Rapid Growth for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-new-charms-of-fortnite-the-thrilling-insights-into-the-current-chapter-update/"><u>Discover New Charms of Fortnite: The Thrilling Insights Into the Current Chapter Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-7-impressive-mobile-ai-conversational-tools-that-challenge-chatgpts-dominance/"><u>Explore 7 Impressive Mobile AI Conversational Tools That Challenge ChatGPT's Dominance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-the-best-7-replacements-for-chatgpt-on-your-smartphone-today/"><u>Explore the Best 7 Replacements for ChatGPT on Your Smartphone Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-gpt-4-all-understanding-its-functionality-and-mechanisms/"><u>Exploring GPT-4 All: Understanding Its Functionality & Mechanisms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-depth-of-snapchats-my-ai-six-insights-show-its-more-than-merely-entertainment/"><u>Exploring the Depth of Snapchat's My AI: Six Insights Show It's More Than Merely Entertainment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-need-for-greater-ai-oversight-insights-from-openais-leadership/"><u>Exploring the Need for Greater AI Oversight: Insights From OpenAI's Leadership</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/facilitating-online-discussions-with-ai-powered-tools/"><u>Facilitating Online Discussions with AI-Powered Tools</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/profit-strategies-for-beauty-streams-for-2024/"><u>Profit Strategies for Beauty Streams for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/seamless-hp-system-integration-with-professional-driver-downloads/"><u>Seamless HP System Integration with Professional Driver Downloads</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/teleportation-and-time-warp-techniques-for-visual-effects/"><u>Teleportation and Time Warp Techniques for Visual Effects</u></a></li>
+</ul></div>
 

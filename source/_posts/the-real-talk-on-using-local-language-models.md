@@ -1,7 +1,7 @@
 ---
 title: The Real Talk on Using Local Language Models
-date: 2024-10-26T21:27:56.847Z
-updated: 2024-10-27T23:53:08.811Z
+date: 2024-11-01T19:04:48.327Z
+updated: 2024-11-02T16:29:23.580Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Building Your Vocabulary
@@ -58,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
@@ -70,20 +70,27 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Personalized Tests
 
@@ -107,13 +114,6 @@ Here's how you can create your own personalized tests:
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -142,21 +142,21 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-bg-removal-in-figma-designs/"><u>[New] Mastering BG Removal in Figma Designs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-navigating-to-the-best-10-affordable-online-channels-for-graphic-design/"><u>[Updated] Navigating to the Best 10 Affordable Online Channels for Graphic Design</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/a-practical-guide-to-saving-screens-on-dell-computers/"><u>A Practical Guide to Saving Screens on Dell Computers</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/dissecting-gpts-influence-on-cybercriminal-activities/"><u>Dissecting GPT's Influence on Cybercriminal Activities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-updated-geforce-rtx-drivers-now-available-for-windows-11-10-and-older-versions/"><u>Download Updated GeForce RTX 지오세티 Drivers Now Available for Windows 11, 10 & Older Versions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-turn-off-igtv/"><u>How to Turn Off IGTV?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-experts-approach-to-inserting-subtitlescc-on-youtube-videos/"><u>In 2024, The Expert's Approach to Inserting Subtitles/CC on YouTube Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Meizu 21 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tailored-instructions-for-setting-up-microsoft-copilot-on-apple-systems/"><u>Tailored Instructions for Setting Up Microsoft Copilot on Apple Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tailoring-text-generation-making-ai-write-in-a-distinctive-style/"><u>Tailoring Text Generation: Making AI Write in a Distinctive Style</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-10-best-chatgpt-crypto-prompts/"><u>The 10 Best ChatGPT Crypto Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-essentials-of-hugging-face-how-its-shaping-the-future-of-ai-technology/"><u>The Essentials of Hugging Face: How It's Shaping the Future of AI Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-of-shape-from-openai-a-guide-to-understanding-its-purpose-and-capabilities/"><u>The Power of shapE From OpenAI - A Guide to Understanding Its Purpose and Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-mastering-chatgpt-copilot-plugin-what-it-does-and-how-it-helps/"><u>The Ultimate Guide to Mastering ChatGPT Copilot Plugin: What It Does & How It Helps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-discover-the-6-premier-ai-chatgpt-add-ons-for-visual-studio-code/"><u>The Ultimate Guide: Discover the 6 Premier AI ChatGPT Add-Ons for Visual Studio Code</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-g42-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia G42 5G FRP Bypass</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-key-approaches-to-elicit-trust-in-product-reviews-through-videography/"><u>[New] 2024 Approved Key Approaches to Elicit Trust in Product Reviews Through Videography</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/hortcuts-to-wealth-in-youtube-shorts-for-2024/"><u>[New] Shortcuts to Wealth in YouTube Shorts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-selection-top-hdr-camera-picks/"><u>2024 Approved Ultimate Selection Top HDR Camera Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-sonys-advanced-playstation-vr2-an-immersive-glimpse-into-future-gaming/"><u>Discovering Sony's Advanced PlayStation VR2 - An Immersive Glimpse Into Future Gaming</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-converter-transform-apng-files-into-png-format-with-ease/"><u>Free Online Converter: Transform APNG Files Into PNG Format with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-prevent-meta-from-leveraging-your-social-media-images-for-ai-training-on-instagram-and-facebook/"><u>How to Prevent Meta From Leveraging Your Social Media Images for AI Training on Instagram & Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-concluding-coverage-craftsmanship/"><u>In 2024, Concluding Coverage Craftsmanship</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-gratitude-freepaid-outro-template-selections/"><u>In 2024, Gratitude Free/Paid Outro Template Selections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-lure-inducing-title-engineer/"><u>In 2024, Lure-Inducing Title Engineer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-rectangular-channels-a-is-width-times-depth-and-p-is-the-sum-of-all-sides-in-contact-with-water/"><u>In Rectangular Channels, A Is Width Times Depth and P Is the Sum of All Sides in Contact with Water.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-your-chatgpt-chat-history-vanishing-learn-these-simple-tricks-for-persistent-conversation-storage/"><u>Is Your ChatGPT Chat History Vanishing? Learn These Simple Tricks for Persistent Conversation Storage!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/localize-ai-art-creation-with-stable-diffusion-on-your-personal-computer/"><u>Localize AI Art Creation with Stable Diffusion on Your Personal Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-ai-image-generation-with-chatgpt-and-dall-e-integration-techniques/"><u>Mastering the Art of AI Image Generation with ChatGPT & DALL-E Integration Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-creating-fantastic-stable-diffusion-prompts/"><u>Mastering the Art of Creating Fantastic Stable Diffusion Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-level-self-dialogue-evolved-with-ai-companions/"><u>Next-Level Self-Dialogue Evolved with AI Companions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715701061951-obs-full-screen-no-more-problem/"><u>Obs Full-Screen No More Problem!</u></a></li>
 </ul></div>
 

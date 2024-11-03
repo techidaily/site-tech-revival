@@ -1,7 +1,7 @@
 ---
 title: "Affordability Meets Customization: In-Depth Look at CyberPowerPC's Gamer Xtreme Reviewed"
-date: 2024-09-11T19:40:32.893Z
-updated: 2024-09-12T19:40:32.893Z
+date: 2024-10-31T20:34:04.696Z
+updated: 2024-11-02T19:20:15.275Z
 tags:
   - desktop
 categories:
@@ -41,13 +41,6 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
 
  We caught a first glimpse of the AtomMan X7 Ti[at CES 2024](https://www.tomshardware.com/desktops/mini-pcs/minisforum-first-intel-core-ultra-mini-pc-amd-rx-7600M-xt-mini-pc) when it was showcased with other interesting new computers like the Minisforum HX200G, Mini Workstation MS-01, and the[V3 tablet](https://www.tomshardware.com/tablets/minisforum-v3-tablet-arrives-the-worlds-first-amd-ryzen-7-8840u-powered-surface-clone) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -69,5 +62,26 @@ Mini PC specialist Minisforum has launched a new device, claiming several firsts
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-broadcasting-brilliance-in-final-fragments/"><u>[New] In 2024, Broadcasting Brilliance in Final Fragments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android-for-2024/"><u>[New] The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-chilling-yet-heating-top-5-winter-scenes-for-vids/"><u>[Updated] 2024 Approved Chilling Yet Heating Top 5 Winter Scenes for Vids</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-strategies-for-successful-mukbang-production/"><u>[Updated] In 2024, Essential Strategies for Successful Mukbang Production</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unbeatable-tools-to-sharpen-your-webcam-vids/"><u>[Updated] Unbeatable Tools to Sharpen Your Webcam Vids</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-integral-applications-of-ai-for-digital-criminals/"><u>5 Integral Applications of AI for Digital Criminals</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-key-strategies-for-boosting-research-quality-using-ai-tools/"><u>5 Key Strategies for Boosting Research Quality Using AI Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1721889592223-get-your-next-trip-in-order-fast-check-out-these-7-free-ai-and-chatgpt-enabled-itinerary-creators/"><u>Get Your Next Trip in Order Fast: Check Out These 7 FREE AI & ChatGPT Enabled Itinerary Creators!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722153303131-is-it-better-to-use-gemini-advanced-over-chatgpt-plus-lets-find-out/"><u>Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722204882743-tired-of-waiting-on-chatgpt-desktop-discover-a-top-notch-open-source-substitute-now/"><u>Tired of Waiting on ChatGPT Desktop? Discover a Top-Notch Open Source Substitute Now!</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: New AI Boss Challenges GPT Outlook
-date: 2024-10-25T02:20:02.140Z
-updated: 2024-10-28T05:44:45.539Z
+date: 2024-10-28T01:13:33.965Z
+updated: 2024-11-02T16:05:19.835Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is Google's Gemini AI Model?
@@ -71,25 +71,11 @@ thumbnail: https://thmb.techidaily.com/cdd7fc426e2ad9d45bb7ca050714efc7a5191159c
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -125,17 +111,43 @@ Here's the source screenshot.
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is Gemini Better than ChatGPT?
@@ -159,22 +171,24 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-expanding-your-audience-syncing-igtv-and-facebook-for-2024/"><u>[Updated] Expanding Your Audience Syncing IGTV & Facebook for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-instagram-riches-guide-ranking-the-top-earner-posts/"><u>[Updated] In 2024, Instagram Riches Guide Ranking the Top Earner Posts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-xripadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone XR/iPad/iPod</u></a></li>
-<li><a href="https://article-helps.techidaily.com/discover-the-best-10-top-video-translation-platforms-for-multilingual-professionals-for-2024/"><u>Discover the Best 10 Top Video Translation Platforms for Multilingual Professionals for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-advice-managing-and-unpacking-rar-compressed-data-on-macos/"><u>Expert Advice: Managing and Unpacking RAR Compressed Data on macOS</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ng-the-middle-ground-working-and-youtube/"><u>Finding the Middle Ground Working & YouTube</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/immediate-prohibition-understanding-italys-sudden-ban-on-chatgpt/"><u>Immediate Prohibition: Understanding Italy's Sudden Ban on ChatGPT</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-apple-iphone-6s-icloud-activation-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing Apple iPhone 6s iCloud Activation Lock</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leadership-loss-at-openai-the-effect-on-gpt-evolution/"><u>Leadership Loss at OpenAI: The Effect on GPT Evolution</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leverage-chatgpt-for-job-search-success-discover-6-key-tactics/"><u>Leverage ChatGPT for Job Search Success: Discover 6 Key Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-arithmetic-the-capabilities-of-chatgpt-with-numbers/"><u>Mastering Arithmetic: The Capabilities of ChatGPT with Numbers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-collaboration-leveraging-chatgpt-in-remote-team-discussions/"><u>Maximizing Collaboration: Leveraging ChatGPT in Remote Team Discussions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-your-daily-productivity-6-insider-tips-on-leveraging-chatgpt-in-domestic-settings/"><u>Maximizing Your Daily Productivity: 6 Insider Tips on Leveraging ChatGPT in Domestic Settings</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-openai-playground-unleashing-the-potential-of-gpt/"><u>Navigating OpenAI Playground: Unleashing the Potential of GPT-^️</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimizing-your-mac-gaming-with-apples-innovative-game-mode-feature-in-sonoma-os/"><u>Optimizing Your Mac Gaming with Apple’s Innovative Game Mode Feature in Sonoma OS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/perfect-your-interactions-with-these-essential-prompts/"><u>Perfect Your Interactions with These Essential Prompts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013836496-troubleshoot-apex-legends-loading-problems-instantly/"><u>Troubleshoot Apex Legends Loading Problems Instantly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-must-see-historical-channels-on-youtube/"><u>[New] 10 Must-See Historical Channels on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-cheerful-footage-extractor-analysis/"><u>[Updated] Cheerful Footage Extractor Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-visualize-and-save-premium-free-screen-capture-software-on-pcmac/"><u>2024 Approved Visualize and Save - Premium Free Screen Capture Software on PC/Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-coders-unleashed-a-detailed-look-at-chatgpt-vs-geminis-capabilities/"><u>Best Coders Unleashed: A Detailed Look at ChatGPT Vs. Gemini's Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boss-level-ai-oversight-ensuring-top-notch-learning-from-gpt/"><u>Boss-Level AI Oversight: Ensuring Top-Notch Learning From GPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-and-tailoring-your-unique-chatgpt-experience-with-ease/"><u>Building and Tailoring Your Unique ChatGPT Experience with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-as-your-remote-team-facilitator-techniques-for-successful-online-assemblies/"><u>ChatGPT as Your Remote Team Facilitator: Techniques for Successful Online Assemblies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-techniques-used-in-the-regulation-of-artifice-intelligence-systems/"><u>Essential Techniques Used in the Regulation of Artifice Intelligence Systems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-xiaomi-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Xiaomi Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-asus-rog-keris-ii-ace-can-it-challenge-the-deity-status-of-the-ragedeathadder-v3-pro/"><u>In-Depth Analysis of Asus ROG Keris II Ace: Can It Challenge the Deity Status of the RageDeathAdder V3 Pro?</u></a></li>
+<li><a href="https://ai-video.techidaily.com/insightful-critique-unveiling-the-features-of-philips-wake-up-light-model-hf3505/"><u>Insightful Critique: Unveiling the Features of Philips Wake-Up Light Model HF3505</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/premium-ai-powered-web-scouring-solutions/"><u>Premium AI-Powered Web Scouring Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-your-pcs-high-cpu-drain-by-correcting-the-audio-device-graph-error/"><u>Solve Your PC's High CPU Drain by Correcting the Audio Device Graph Error</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-activating-gpts-advanced-features-for-web-browsers-and-plugins-in-beta-mode/"><u>Step-by-Step: Activating GPT's Advanced Features for Web Browsers and Plugins in Beta Mode</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-essential-list-top-7-ai-for-enhanced-talks/"><u>The Essential List: Top 7 AI for Enhanced Talks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-tecno-spark-10c-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Tecno Spark 10C Phones</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-system-intuitive-setup-for-the-latest-intel-iris-540-graphics-drivers/"><u>Update Your System: Intuitive Setup for the Latest Intel Iris 540 Graphics Drivers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-construction-lab-for-2024/"><u>Video Construction Lab for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-steps-to-disable-usage/"><u>Worried About Your Data with ChatGPT? Learn the Steps to Disable Usage</u></a></li>
 </ul></div>
 

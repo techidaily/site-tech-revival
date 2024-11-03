@@ -1,7 +1,7 @@
 ---
 title: How Secure Are Your Talks with ChatGPT – Unpacking Privacy Risks
-date: 2024-10-21T06:57:50.459Z
-updated: 2024-10-28T00:54:52.516Z
+date: 2024-10-31T16:13:49.316Z
+updated: 2024-11-02T17:36:58.734Z
 tags:
   - chatgpt
   - open-ai
@@ -51,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  But what about the conversations you have with the chatbot? How much of that information is stored, and how is it used? In the[FAQ](https://help.openai.com/en/articles/6783457-what-is-chatgpt) section, OpenAI explicitly states that it "reviews" conversations users have with ChatGPT, and that these conversations may be used for training. As for the prompts you submit to the bot, they cannot be deleted, according to OpenAI.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Protect Your Privacy When Using ChatGPT: 3 Key Tips
@@ -62,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  Clearly, ChatGPT is not privacy-friendly—far from it. But few apps are these days, and there isn't much we can do about it. What you can do, however, is use ChatGPT responsibly. Here are three things you can do to protect your privacy.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Register With a Private Email
@@ -77,10 +83,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  This is very important. You should be particularly careful what you share with ChatGPT, since there's a strong possibility all of it is being recorded and fed into the system. In fact, it might even be reviewed manually by a human being at some point. Assume that whatever you put into ChatGPT is in the public domain, and act accordingly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Delete Your Information
@@ -94,10 +100,10 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
  Around the same time, the National Telecommunications and Information Administration in the United States began looking at the possibility of regulating artificial intelligence, and it's safe to assume governments around the world will take similar regulatory action in the years to come. Some fear excessive regulation could stifle progress, so it's more than likely the debates will continue as the world tries to navigate this landscape.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Use ChatGPT Responsibly
@@ -119,18 +125,24 @@ thumbnail: https://thmb.techidaily.com/1f343cc2ca566c6b496acac107d8a3cfc474691f6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-vimeo-video-on-instagram-feed/"><u>[Updated] In 2024, Mastering Vimeo Video on Instagram Feed</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-depth-analysis-asus-proart-pa-329q-4k-monitor/"><u>[Updated] In-Depth Analysis Asus ProArt PA 329Q 4K Monitor</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-path-to-mastering-the-art-of-asmr-filmmaking/"><u>[Updated] The Path to Mastering the Art of ASMR Filmmaking</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/5-solutions-for-honor-100-pro-unlock-without-password-by-drfone-android/"><u>5 Solutions For Honor 100 Pro Unlock Without Password</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722034585565-ai-and-intrigue-collide-immerse-yourself-in-these-amazing-online-detective-challenges/"><u>AI and Intrigue Collide: Immerse Yourself in These Amazing Online Detective Challenges</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722211646074-chatgpt-on-your-fingertips-how-to-get-the-cutting-edge-ios-application/"><u>ChatGPT on Your Fingertips - How to Get the Cutting-Edge iOS Application!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/missing-wireless-connection-restore-win10-adapter/"><u>Missing Wireless Connection: Restore Win10 Adapter</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know-for-2024/"><u>New Ready To Dive Into Photo Talking Videos? Heres What You Need To Know for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722174662729-top-9-chatgpt-add-ons-enhance-your-experience-today/"><u>Top 9 ChatGPT Add-Ons: Enhance Your Experience Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722122479428-unlock-the-power-of-conversation-learn-how-to-interact-with-chatgpt/"><u>Unlock the Power of Conversation: Learn How to Interact with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/visionary-ai-solutions-for-comprehensive-digital-queries/"><u>Visionary AI Solutions for Comprehensive Digital Queries</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-chatgpt-isnt-a-substitute-for-professional-medical-advice-5-key-points/"><u>Why ChatGPT Isn't a Substitute for Professional Medical Advice: 5 Key Points</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-channel-identity-made-simple-discover-the-10-best-banner-maker-apps/"><u>[New] 2024 Approved Channel Identity Made Simple Discover the 10 Best Banner Maker Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-breaking-down-the-barriers-effective-rtmp-streaming-in-premiere/"><u>[Updated] 2024 Approved Breaking Down the Barriers Effective RTMP Streaming in Premiere</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>[Updated] Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/android-users-learn-how-to-enable-voice-control-with-chatgpts-alternate-voicegpt/"><u>Android Users, Learn How to Enable Voice Control with ChatGPT's Alternate - VoiceGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/do-human-to-chatgpt-discussions-contribute-to-its-learning-growth/"><u>Do Human-to-ChatGPT Discussions Contribute to Its Learning Growth?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-chatgpt-plagiarize-unveiling-the-truth-behind-its-content-generation-techniques/"><u>Does ChatGPT Plagiarize? Unveiling the Truth Behind Its Content Generation Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/find-your-muse-with-these-5-advanced-ai-writing-assistants/"><u>Find Your Muse with These 5 Advanced AI Writing Assistants</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-gpt/"><u>How GPT-</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/immediate-streams-from-obs-to-insta-for-2024/"><u>Immediate Streams From OBS to Insta for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-integration-facebook-livestream-and-roku-connected-tv/"><u>In 2024, Seamless Integration Facebook Livestream & Roku Connected TV</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-xs-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone XS Location | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/into-the-heart-of-machine-learning-understanding-black-boxes/"><u>Into the Heart of Machine Learning: Understanding Black Boxes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/rev-up-with-hubsans-x4-fpv-quadcopter-review/"><u>Rev Up with Hubsan's X4 FPV Quadcopter Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-comprehensive-guide-to-hugging-face-and-its-practical-benefits/"><u>The Comprehensive Guide to Hugging Face and Its Practical Benefits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-local-llm-conundrum-why-you-should-care-about-it/"><u>The Local LLM Conundrum: Why You Should Care About It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-distinctions-between-public-private-and-personalized-artificial-intelligence/"><u>Understanding the Distinctions Between Public, Private, and Personalized Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-why-chatgpt-4-lags-behind-the-speed-of-chatgpt-35/"><u>Understanding Why ChatGPT-4 Lags Behind the Speed of ChatGPT- 3.5</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-turing-test-future-of-ai-triumphs/"><u>Unraveling the Turing Test: Future of AI Triumphs?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-windows-10-with-new-nvidia-geforce-210-graphics-drivers/"><u>Update Your Windows 10 with New NVIDIA GeForce 210 Graphics Drivers</u></a></li>
 </ul></div>
 

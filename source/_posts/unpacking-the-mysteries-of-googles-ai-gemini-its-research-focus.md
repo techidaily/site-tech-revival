@@ -1,7 +1,7 @@
 ---
 title: "Unpacking the Mysteries of Google's AI Gemini: Its Research Focus"
-date: 2024-09-15T17:18:07.473Z
-updated: 2024-09-17T20:27:47.881Z
+date: 2024-11-02T03:30:46.970Z
+updated: 2024-11-02T20:37:45.525Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 > "If your family is chatting about the next family reunion, you can simply ask Bing for suggestions on travel destinations, expected weather forecasts and interesting events around your time of travel, and everyone in the chat will get access to the results."
 
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
 
@@ -59,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -86,5 +100,23 @@ thumbnail: https://thmb.techidaily.com/f51042103ff6c3f87c92a84096e29bdaf9eccd433
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-instagrams-square-shots-with-imovie/"><u>[New] 2024 Approved Mastering Instagram's Square Shots with iMovie</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-pixel-perfection-masterful-methods-for-stunning-imagery/"><u>[New] 2024 Approved Pixel Perfection Masterful Methods for Stunning Imagery</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-cinematic-basics-unveiled-fundamental-shots-explained-clearly/"><u>[New] Cinematic Basics Unveiled Fundamental Shots Explained Clearly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices-for-2024/"><u>[New] The Ultimate Guide to Recording Hulu Episodes on Multiple Devices for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/highlights-of-short-track-speed-skating-olympics-2022/"><u>Highlights of Short Track Speed Skating Olympics 2022</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-instagrams-best-captured-moments-made-available-to-iphone/"><u>In 2024, Instagram's Best Captured Moments Made Available to iPhone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-self-portraits-top-techniques-for-youtube-presentations-for-2024/"><u>Mastering Self-Portraits Top Techniques for YouTube Presentations for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/nintendo-switch-photography-101-easy-ways-to-screenshot-and-broadcast-your-gaming-adventure/"><u>Nintendo Switch Photography 101: Easy Ways to Screenshot & Broadcast Your Gaming Adventure</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-oppo-a38-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo A38? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-algebraic-challenges-using-deepminds-sophisticated-algorithms-is-it-possible/"><u>Solving Algebraic Challenges Using DeepMind's Sophisticated Algorithms: Is It Possible?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/storytelling-evolution-chatgpts-sixfold-approach/"><u>Storytelling Evolution: ChatGPT’s Sixfold Approach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/synthesizing-intelligence-the-leading-5-hardware-advances-in-ai-sphere/"><u>Synthesizing Intelligence: The Leading 5 Hardware Advances in AI Sphere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-5-essential-vocal-commands-that-maximize-your-ai-interaction/"><u>The 5 Essential Vocal Commands That Maximize Your AI Interaction</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-next-leap-in-ai-inside-look-at-elon-musks-truthgpt-endeavor/"><u>The Next Leap in AI? Inside Look at Elon Musk's 'TruthGPT' Endeavor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-open-source-revolution-in-ai-conversations-meet-huggingchat-a-budget-friendly-option-like-chatgpt/"><u>The Open Source Revolution in AI Conversations: Meet HuggingChat, a Budget-Friendly Option Like ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-science-behind-mammoth-text-algorithms/"><u>The Science Behind Mammoth Text Algorithms</u></a></li>
+</ul></div>
 

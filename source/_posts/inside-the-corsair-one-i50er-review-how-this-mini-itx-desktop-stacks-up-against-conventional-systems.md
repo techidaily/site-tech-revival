@@ -1,7 +1,7 @@
 ---
 title: "Inside the Corsair One I50er Review: How This Mini-ITX Desktop Stacks Up Against Conventional Systems"
-date: 2024-09-11T19:34:59.649Z
-updated: 2024-09-12T19:34:59.649Z
+date: 2024-11-01T06:21:58.985Z
+updated: 2024-11-02T16:41:25.693Z
 tags:
   - desktop
 categories:
@@ -49,19 +49,6 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -83,5 +70,29 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-border-techniques-for-enhanced-instagram-pictures-for-2024/"><u>[Updated] Border Techniques for Enhanced Instagram Pictures for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-setting-up-gaming-steering-wheels-on-personal-computers/"><u>Comprehensive Guide to Setting Up Gaming Steering Wheels on Personal Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-easy-steps-for-a-successful-windows-11-update/"><u>Comprehensive Guide: Easy Steps for a Successful Windows 11 Update</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-for-uninstalling-software-in-windows-10/"><u>Comprehensive Tutorial for Uninstalling Software in Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-updating-gmail-passwords-safely-with-a-code-of-verification/"><u>Comprehensive Tutorial: Updating Gmail Passwords Safely With a Code of Verification</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/computer-boot-but-black-screen-issue-explained-and-fixed/"><u>Computer Boot but Black Screen Issue Explained & Fixed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-windows-10-recovery-usb-drive-to-reinstall/"><u>Create Windows 10 Recovery USB Drive to Reinstall</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/delete-your-active-chatgpt-account/"><u>Delete Your Active ChatGPT Account</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diy-tutorial-seamlessly-hooking-up-your-wireless-printer/"><u>DIY Tutorial: Seamlessly Hooking Up Your Wireless Printer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-xiaomi-13-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Xiaomi 13 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-incorporating-custom-visuals-in-youtube-videos-easily/"><u>In 2024, Incorporating Custom Visuals in YouTube Videos Easily</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-review-of-huawei-p10s-multimedia-features-and-functionality/"><u>In 2024, Review of Huawei P10’s Multimedia Features & Functionality</u></a></li>
+<li><a href="https://driver-download.techidaily.com/mastering-your-corsair-mouse-software-download-and-troubleshooting-guide/"><u>Mastering Your Corsair Mouse: Software Download & Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-optimized-eradicating-the-deathloop-stutter-with-expert-tips/"><u>PC Gaming Optimized: Eradicating the Deathloop Stutter with Expert Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

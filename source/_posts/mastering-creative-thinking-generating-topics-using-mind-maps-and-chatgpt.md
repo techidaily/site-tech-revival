@@ -1,7 +1,7 @@
 ---
 title: "Mastering Creative Thinking: Generating Topics Using Mind Maps & ChatGPT"
-date: 2024-09-14T19:39:32.014Z
-updated: 2024-09-18T11:20:55.672Z
+date: 2024-10-31T05:54:17.456Z
+updated: 2024-11-03T00:26:52.500Z
 tags:
   - chatgpt
   - open-ai
@@ -110,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -130,19 +137,20 @@ thumbnail: https://thmb.techidaily.com/ac559d48bd17f3abbbc061aaa86ec644753f92e76
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
@@ -184,6 +192,19 @@ And finally, don’t forget to actually start the game:
 > Start Game.
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
@@ -291,13 +312,6 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -317,5 +331,23 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-crafting-memorable-tweets-video-integration-for-2024/"><u>[New] Crafting Memorable Tweets Video Integration for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unlocking-viral-success-a-guide-to-tiktok-editing-mastery/"><u>[Updated] In 2024, Unlocking Viral Success A Guide to TikTok Editing Mastery</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-pinnacle-10-royale-struggle-games/"><u>[Updated] Pinnacle 10 Royale Struggle Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-resolving-iphone-shot-unfocus-issues-quickly/"><u>[Updated] Resolving iPhone Shot Unfocus Issues Quickly</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-dramatic-discourse-penning-powerful-narrative-dialogues/"><u>2024 Approved Dramatic Discourse Penning Powerful Narrative Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-conversation-magic-discover-the-best-extension/"><u>ChatGPT Conversation Magic - Discover the Best Extension!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-dialogue-mastery-have-you-tried-talking-yet/"><u>ChatGPT Dialogue Mastery - Have You Tried Talking Yet?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-token-threshold-what-lies-beyond/"><u>ChatGPT Token Threshold: What Lies Beyond?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/claude-3-demystified-uses-and-applications/"><u>Claude 3 Demystified: Uses & Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cybersecurity-alert-can-hackers-leverage-ai-tools-like-chatgpt-against-you/"><u>Cybersecurity Alert: Can Hackers Leverage AI Tools Like ChatGPT Against You?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/deciphering-ai-linguistics-how-gpt-and-bert-stand-poles-apart-in-nlp-innovation/"><u>Deciphering AI Linguistics: How GPT and BERT Stand Poles Apart in NLP Innovation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-openais-journey-comparing-and-contrasting-gpt-models-from-1-to-amo/"><u>Decoding OpenAI's Journey: Comparing and Contrasting GPT Models From 1 to Amo</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-note-12-proplus-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi Note 12 Pro+ 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leveraging-ai-for-dynamic-gaming-video-coverage/"><u>In 2024, Leveraging AI for Dynamic Gaming Video Coverage</u></a></li>
+<li><a href="https://win-webster.techidaily.com/overcoming-issues-with-creating-bootable-drives-on-windows-10-and-11-a-comprehensive-guide-to-troubleshooting-and-fixes/"><u>Overcoming Issues with Creating Bootable Drives on Windows 10 and 11 - A Comprehensive Guide to Troubleshooting & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-complete-guide-to-overcome-civilization-vi-errors-in-the-latest-2024-game-patch/"><u>The Complete Guide to Overcome 'Civilization VI' Errors in the Latest 2024 Game Patch</u></a></li>
+</ul></div>
 

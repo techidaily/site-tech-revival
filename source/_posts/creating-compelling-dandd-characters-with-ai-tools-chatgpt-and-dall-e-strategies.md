@@ -1,7 +1,7 @@
 ---
 title: Creating Compelling D&D Characters with AI Tools - ChatGPT and DALL-E Strategies
-date: 2024-10-25T03:30:06.902Z
-updated: 2024-10-28T06:43:19.577Z
+date: 2024-10-27T00:12:29.237Z
+updated: 2024-11-02T18:14:56.340Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/267d92bf94270151f5bfac8360b3ac61e42f156ac
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -59,16 +52,16 @@ However, it's a mixed bag.
 
  That's not to say the editing tools don't work. They can absolutely remove features and make small changes, as detailed below, but it's all on a small scale.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use DALL-E 3's Editing Tool
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing and Erasing
 
@@ -90,15 +83,22 @@ Close
 
 ![dalle 3 editing tools close up human eye](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Pretty decent, if a little odd (eyelash reflections?!), but I wanted to switch the iris color to blue-green instead, resulting in this image:
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The color is slightly dull but unchanged, and some features are warped slightly.
@@ -111,6 +111,13 @@ Close
 
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
 ### Adding Text
@@ -122,13 +129,6 @@ Close
  Next up, I went for a birthday card. This time around, DALL-E added "Happy Birthday" without being prompted, which is fine, given the theme. So, I asked it to add the date of the birthday on the card. Again, it failed to add the date to the card, but after a few rounds of prompting, it created a new image featuring the requested date. In this case, adding the date myself would have been easier, especially if I wanted to keep the original image.
 
 Close
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
@@ -151,18 +151,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-tiktok-to-instagram-stardom-replicating-popular-reel-techniques/"><u>[New] In 2024, From TikTok to Instagram Stardom Replicating Popular Reel Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-speech-clarity-achieved-by-googles-advanced-conversion/"><u>[New] In 2024, Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/dollars-and-sense-profit-driven-techniques-for-fb-video-content-for-2024/"><u>Dollars and Sense Profit-Driven Techniques for FB Video Content for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-show-wi-fi-password-on-vivo-y78-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Vivo Y78 5G</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-10-ultimate-editing-strategies-for-viral-tiktoks/"><u>In 2024, 10 Ultimate Editing Strategies for Viral TikToks</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-essential-guide-to-multistation-open-source-video-tools/"><u>In 2024, Essential Guide to Multistation Open Source Video Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-modern-life-top-9-tips-from-chatgpt-experts/"><u>Navigating Modern Life: Top 9 Tips From ChatGPT Experts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-gen-ai-methods-elevating-web-search-standards/"><u>Next-Gen AI Methods Elevating Web Search Standards</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protecting-privacy-how-not-to-save-conversations-with-chatgpt/"><u>Protecting Privacy: How Not to Save Conversations with ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reimagining-coding-with-non-chatgpt-ai-innovations/"><u>Reimagining Coding with Non-ChatGPT AI Innovations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scam-or-solution-delving-into-truthgpt-token/"><u>Scam or Solution? Delving Into TruthGPT Token</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-ai-chatting-on-ubuntu-how-to-connect-with-chatgpt-via-shell-command-line-interface/"><u>Seamless AI Chatting on Ubuntu: How to Connect with ChatGPT via Shell Command Line Interface</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-5-best-free-computer-diagnostic-tools-compare-and-choose/"><u>Top 5 Best Free Computer Diagnostic Tools - Compare & Choose!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-discover-clear-sound-recording-on-discord-for-2024/"><u>[New] Discover Clear Sound Recording on Discord for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-from-capture-to-share-streamlining-logitech-webcam-recordings/"><u>[Updated] 2024 Approved From Capture to Share Streamlining Logitech Webcam Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macdvdmp3mp4/"><u>「Mac用無料リッピングアプリ：DVDからMP3/MP4へのシームレスな音声変換」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-hevc-h238h264-for-free-without-losing-sound-or-picture-quality/"><u>Convert HEVC (H.2^38/H.2^64 For Free Without Losing Sound or Picture Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-high-quality-cristiano-ronaldo-goal-clips-and-top-moves-free-mp4hd-3gp/"><u>Download High-Quality Cristiano Ronaldo Goal Clips & Top Moves - Free MP4/HD 3GP</u></a></li>
+<li><a href="https://fox-where.techidaily.com/guide-pratique-localisation-du-dossier-programdata-dans-windows-11-resolu/"><u>Guide Pratique : Localisation Du Dossier 'ProgramData' Dans Windows 11 - Résolu!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-a-practical-guide-to-saving-screens-on-dell-computers/"><u>In 2024, A Practical Guide to Saving Screens on Dell Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphone-xr-and-xs-max-audio-import-a-guide-on-moving-mp3-files-without-using-itunes/"><u>IPhone XR and XS Max Audio Import: A Guide on Moving MP3 Files Without Using iTunes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalize-task-execution-creating-effective-win-cmds/"><u>Personalize Task Execution: Creating Effective Win Cmds</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/schneller-zugriff-und-exportierung-erfolgreichen-datentransfers-unter-windows-11/"><u>Schneller Zugriff Und Exportierung Erfolgreichen Datentransfers Unter Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/schutz-vor-raubkopien-professionelle-methoden-zum-sicherung-von-dvd-inhalten/"><u>Schutz Vor Raubkopien: Professionelle Methoden Zum Sicherung Von DVD-Inhalten</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-media-with-panasonic-compatible-hd-and-ultra-high-definition-video-editor/"><u>Transform Your Media with Panasonic-Compatible HD and Ultra High Definition Video Editor</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-xp-how-to-resolve-exe-opener-woes/"><u>Windows XP: How to Resolve EXE Opener Woes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT at Work: How to Keep Your Sensitive Projects Safe From Privacy Breaches"
-date: 2024-10-25T09:13:13.386Z
-updated: 2024-10-28T01:31:10.256Z
+date: 2024-10-29T03:34:53.789Z
+updated: 2024-11-02T21:52:08.930Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 * [How to Opt-Out of ChatGPT's Chat History and Training Feature](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#how-to-opt-out-of-chatgpt-39-s-chat-history-and-training-feature)
 * [ChatGPT Data Collection You Can't Opt Out From](https://www.makeuseof.com/chatgpt-privacy-opt-out-data-collection/#chatgpt-data-collection-you-can-39-t-opt-out-from)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * You can opt out of ChatGPT's use of your chat data for training, ensuring your conversations remain private.
@@ -56,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
@@ -71,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
@@ -87,16 +87,16 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -123,16 +123,18 @@ thumbnail: https://thmb.techidaily.com/83bd393d21c7abfd7b27d00e67a10408d1dab8026
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-how-do-i-access-the-full-range-of-shared-media-on-messenger/"><u>[New] How Do I Access the Full Range of Shared Media on Messenger?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-unleashing-creativity-smartphone-filmmaking-and-youtube-thumbnails/"><u>[New] In 2024, Unleashing Creativity Smartphone Filmmaking & YouTube Thumbnails</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-expert-tutorial-quick-hassle-free-ios-snapshots/"><u>[Updated] 2024 Approved Expert Tutorial Quick, Hassle-Free iOS Snapshots</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/adjust-monitor-setup-in-windows-7/"><u>Adjust Monitor Setup in Windows 7</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/assassins-creed-valhalla-pc-stability-issues-heres-what-you-need-to-know/"><u>Assassin's Creed Valhalla PC Stability Issues? Here’s What You Need to Know!</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-realme-gt-neo-5-se-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme GT Neo 5 SE Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-gpt-4-immediate-chatgpt-integration-tips/"><u>Mastering GPT-4: Immediate ChatGPT Integration Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-multitasking-integrating-chatgpt-with-siri-on-ios-devices/"><u>Mastering Multitasking: Integrating ChatGPT with Siri on iOS Devices</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-chatgpts-potential-for-secure-and-ethical-psychological-counseling/"><u>Maximizing ChatGPT's Potential for Secure & Ethical Psychological Counseling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-the-top-6-challenges-of-setting-up-automatic-gpt/"><u>Overcoming the Top 6 Challenges of Setting Up Automatic GPT</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-honor-x8b-by-drfone-android/"><u>Universal Unlock Pattern for Honor X8b</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-seamless-shift-to-perfect-insta-pics-mac-driven-video-size-evolution/"><u>[Updated] In 2024, The Seamless Shift to Perfect Insta Pics Mac-Driven Video Size Evolution</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfecting-pixels-lighting-setup-secrets-unveiled/"><u>[Updated] Perfecting Pixels Lighting Setup Secrets Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-implementing-auto-captions-in-reels/"><u>[Updated] Step-by-Step Implementing Auto Captions in Reels</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-choreographing-ideal-canon-time-lapse-shots/"><u>2024 Approved Choreographing Ideal Canon Time-Lapse Shots</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-canvas-with-these-top-10-secrets/"><u>2024 Approved Master the Art of Canvas with These Top 10 Secrets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/access-the-most-recent-wi-fi-adapter-drivers-supporting-windows-download-for-win11-win10-win8-and-win7/"><u>Access the Most Recent Wi-Fi Adapter Drivers Supporting Windows: Download for Win11, Win10, Win8 & Win7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-m14-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy M14 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-ai-experience-top-reasons-to-choose-claude-3-over-chatgpt/"><u>Elevate Your AI Experience: Top Reasons to Choose Claude 3 OVER ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/future-proof-your-career-in-the-age-of-automation-with-these-six-vital-techniques/"><u>Future-Proof Your Career in the Age of Automation with These Six Vital Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-accurate-news-from-google-feed-amidst-changes-and-maximizing-your-internet-experience-on-the-go/"><u>Getting Accurate News From Google Feed Amidst Changes and Maximizing Your Internet Experience on the Go</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-sapphire-driver-updates-available-now-for-windows-systems/"><u>Latest Sapphire Driver Updates Available Now for Windows Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/next-level-risks-in-generative-ai-development/"><u>Next-Level Risks in Generative AI Development</u></a></li>
 </ul></div>
 

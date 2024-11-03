@@ -1,7 +1,7 @@
 ---
 title: Keep the Confidant Human; Trust ChatGPT Less
-date: 2024-09-11T19:37:54.609Z
-updated: 2024-09-12T19:37:54.609Z
+date: 2024-10-31T17:44:22.080Z
+updated: 2024-11-03T01:57:49.290Z
 tags:
   - chatgpt
   - open-ai
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Desktop Client Is Actually Trojan Malware
 
  In February 2023, cybersecurity firm[Kaspersky reported](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022340/https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/) that it had uncovered a malware campaign using ChatGPT as its lure, promising victims a free ChatGPT account with a $50 balance (to spend on[the premium version of ChatGPT](https://www.makeuseof.com/why-paid-chatgpt-professional-is-inevitable/) ) and the use of a new ChatGPT desktop client.
@@ -39,21 +32,7 @@ thumbnail: https://thmb.techidaily.com/a9c3873bebb938a5f753924c98e7ee35151095e5c
 
 ![chatgpt homepage march 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-homepage-march-2023.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![kaspersky malware chatgpt desktop client download page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/kaspersky-malware-chatgpt-desktop-client-download-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Kaspersky](https://www.kaspersky.com/blog/chatgpt-stealer-win-client/47274/)
 
@@ -68,10 +47,10 @@ Close
  According to Kaspersky's research, the ChatGPT desktop client malware has been spotted across Asia, Africa, Europe, and America.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## PSA: There Is No ChatGPT Desktop Client
@@ -81,10 +60,10 @@ Close
  For now, the only way to[access ChatGPT is through your browser](https://www.makeuseof.com/how-to-use-chatgpt-by-openai/) , be that on your computer or your smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3 Ways to Avoid ChatGPT Scams
@@ -94,10 +73,10 @@ Close
 3. Make sure your antivirus software is up to date, and consider installing an additional[security tool like Malwarebytes Premium](https://www.makeuseof.com/tag/reasons-upgrade-malwarebytes-premium/) to mop up any other nasties.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avoid Anything Claiming to Be a ChatGPT Client
@@ -119,5 +98,16 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-pathway-to-perfect-audio-placement-on-youtube/"><u>[New] In 2024, The Pathway to Perfect Audio Placement on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/athletes-guide-to-enhanced-gpt-interactions/"><u>Athlete's Guide to Enhanced GPT Interactions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-ai-engagement-seven-key-strategies-for-improvement/"><u>Boosting AI Engagement: Seven Key Strategies for Improvement</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-6-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 6 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-character-design-for-dungeons-and-dragons-through-chatgpt-and-dall-e-techniques/"><u>Innovative Character Design for Dungeons & Dragons Through ChatGPT and DALL-E Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/joining-the-console-and-computer-playstation-on-pcmac/"><u>Joining the Console and Computer: PlayStation on PC/Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-gpt-top-four-methods-to-enable-pdf-reading/"><u>Unlocking the Power of GPT: Top Four Methods to Enable PDF Reading</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-everyone-should-choose-apple-pages-a-breakdown-by-experts-at-zdnet-top-5-reasons-unveiled/"><u>Why Everyone Should Choose Apple Pages: A Breakdown by Experts at ZDNet, Top 5 Reasons Unveiled</u></a></li>
+</ul></div>
 

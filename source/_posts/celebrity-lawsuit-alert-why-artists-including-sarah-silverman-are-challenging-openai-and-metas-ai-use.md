@@ -1,7 +1,7 @@
 ---
 title: "Celebrity Lawsuit Alert: Why Artists Including Sarah Silverman Are Challenging OpenAI and Meta's AI Use"
-date: 2024-09-11T05:28:23.028Z
-updated: 2024-09-18T10:03:40.010Z
+date: 2024-10-26T17:55:57.011Z
+updated: 2024-11-03T04:21:37.007Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,13 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 * [What Is the Open-Source ChatGPT Desktop Application?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#what-is-the-open-source-chatgpt-desktop-application)
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -50,13 +57,20 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
@@ -64,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -99,5 +113,26 @@ thumbnail: https://thmb.techidaily.com/f65801f01aff4d3373b4cf2db5d1bc7ed704b50a0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-investment-in-top-tier-hdr-cameras-a-buyers-guide/"><u>[New] Investment in Top-Tier HDR Cameras A Buyer's Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-real-time-recording-made-easy-for-your-skype-sessions/"><u>[New] Real-Time Recording Made Easy for Your Skype Sessions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-complete-breakdown-of-facebooks-changes/"><u>[New] The Complete Breakdown of Facebook's Changes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-guide-to-iphonedesktop-video-change-top-8-recommendations/"><u>[Updated] 2024 Approved The Ultimate Guide to iPhone/Desktop Video Change Top 8 Recommendations</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breaking-barriers-in-photography-mastering-gopro-time-lapse-for-2024/"><u>Breaking Barriers in Photography Mastering GoPro Time-Lapse for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chucklecraft-sign-up-now-and-laugh-later/"><u>ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/comment-resoudre-les-difficultes-de-lapplication-handbrake-sous-windows-10-solutions-avancees-et-options-alternatifs-disponibles/"><u>Comment Résoudre Les Difficultés De L'application HandBrake Sous Windows 10 : Solutions Avancées Et Options Alternatifs Disponibles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-achieving-harmony-selecting-ideal-aspect-ratios/"><u>In 2024, Achieving Harmony Selecting Ideal Aspect Ratios</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-thrilling-adventures-captured-pro-hero5-and-super-sj7/"><u>In 2024, Thrilling Adventures Captured Pro Hero5 & Super SJ7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-truth-about-ai-chatbots-dispelling-the-most-prevalent-myths-youve-heard/"><u>The Truth About AI Chatbots: Dispelling the Most Prevalent Myths You've Heard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-generating-artificn-with-chatgpts-assistance/"><u>The Ultimate Guide to Generating Artificn with ChatGPT's Assistance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-implementing-gpt-3-within-openais-interactive-environment/"><u>The Ultimate Guide to Implementing GPT-3 Within OpenAI’s Interactive Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-generative-ai-how-it-works-benefits-and-applications/"><u>Understanding Generative AI: How It Works, Benefits & Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-constraints-5-key-factors-against-using-chatgpt-for-bitcoin-and-co/"><u>Understanding the Constraints: 5 Key Factors Against Using ChatGPT for Bitcoin & Co</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-distinctiveness-of-auto-gpt-in-relation-to-chatgpt/"><u>Understanding the Distinctiveness of Auto-GPT in Relation to ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uniting-tech-giants-apples-siri-and-microsoft-writes/"><u>Uniting Tech Giants: Apple's Siri & Microsoft' Writes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-solutions-to-complex-equations-using-our-selection-of-the-7-finest-ai-math-helpers/"><u>Unlock Solutions to Complex Equations Using Our Selection of the 7 Finest AI Math Helpers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-ultimate-ai-with-copilot-and-free-access-to-gpt-4-boosted-performance/"><u>Unlock Ultimate AI with Copilot and FREE Access to GPT-4 Boosted Performance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/e-to-viral-fame-crafting-high-quality-content-as-a-travel-vlogger/"><u>Voyage to Viral Fame Crafting High-Quality Content as a Travel Vlogger</u></a></li>
+</ul></div>
 

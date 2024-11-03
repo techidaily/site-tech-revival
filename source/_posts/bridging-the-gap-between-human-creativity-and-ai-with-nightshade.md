@@ -1,7 +1,7 @@
 ---
 title: Bridging the Gap Between Human Creativity and AI with Nightshade
-date: 2024-09-11T19:39:19.521Z
-updated: 2024-09-12T19:39:19.521Z
+date: 2024-10-28T17:15:31.694Z
+updated: 2024-11-03T06:59:23.746Z
 tags:
   - chatgpt
   - open-ai
@@ -46,17 +46,10 @@ Here is the standard interpretation of the Turing Test:
 ![turing-test-drawbacks-and-weaknesses](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-drawbacks-and-weaknesses.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Drawbacks of the Turing Test
@@ -69,16 +62,16 @@ Here is the standard interpretation of the Turing Test:
 
  Furthermore, the arbitrary nature of the testing criteria is an issue. Why is there a five-minute limit, and why is the fooling rate of interrogators set at 30%? Why not ten minutes and 50%? The truth is those numbers were derived from Turing's prediction about the future state of artificial intelligence. He never meant for them to be explicit thresholds. However, for now, those numbers are good enough as a target to reach.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Did Eugene Goostman or LaMBDA Pass the Turing Test?
 
 ![turing-test-artificial-intelligence](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2014/06/turing-test-artificial-intelligence.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In the last ten years, there have been two main claims that the Turing Test has been passed.
 
@@ -90,6 +83,13 @@ Here is the standard interpretation of the Turing Test:
 
  By framing Eugene Goostman in this context, interrogators did not have to hold the machine's responses to a normal standard. After all, many modern chatbots can hold similar conversations. The difference with Eugene Goostman is that the narrative context surrounding the machine allowed the hiccups in conversation to be more believable.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Google's LaMBDA
 
  So Eugene Goostman may not have passed the Turing test, but how about Google's LaMDA?
@@ -100,13 +100,6 @@ Here is the standard interpretation of the Turing Test:
 
  Lemoine claimed that this was LaMDA fearing its mortality. Unfortunately, this was quickly proven false, and LaMDA did not pass the Turing Test. Critics point out that in this instance, LaMDA managed to fool one participant, and the participant knew they were talking to a machine. LaMDA's sense of its own mortality was simply a result of code designed to operate similarly to auto-correct.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## The Advancement of Computer Intelligence
 
  In recent years, artificial intelligence has seen major advancements. The public spotlight has been focused on ChatGPT since its official launch in November 2022\. Furthermore,[Google introduced its generative AI, Bard](https://www.makeuseof.com/google-bard-first-impressions/) . This is currently available to users in the UK and the United States.
@@ -115,13 +108,6 @@ Here is the standard interpretation of the Turing Test:
 
  Artificial intelligence is currently used by the public globally. Millions of queries are occurring daily, so AI is certainly exposed to a vast amount of data. This will no doubt allow AI models to imitate human language and behavior. However, intelligence or sentience may require significantly further advancements to the core technologies of the AI model. There are some wondering if[AI advancement will pose any dangers](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### ChatGPT
 
  ChatGPT continues to grow in its various uses. There is so much buzz around this AI model in 2023, and it is easy to see why. However, although there is speculation, no official studies have been published on whether ChatGPT can pass the Turing Test.
@@ -129,10 +115,10 @@ Here is the standard interpretation of the Turing Test:
  Many industry-leading experts state that we may see the Turing Test beaten with ChatGPT-5, but there is no timeframe for the release of the next ChatGPT version as yet.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## The Turing Test Has Not Been Definitively Passed
@@ -156,5 +142,24 @@ Here is the standard interpretation of the Turing Test:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/eyond-simplicity-exploring-the-intricacies-of-youtubes-view-count-algorithm-for-2024/"><u>[New] Beyond Simplicity Exploring the Intricacies of YouTube’s View Count Algorithm for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-entry-into-the-world-of-google-meet-webinars-for-2024/"><u>[Updated] Entry Into the World of Google Meet Webinars for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-steams-switch-pro-controllers/"><u>[Updated] In 2024, Mastering Steam's Switch Pro Controllers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-redefining-virtual-adventure-with-jaunt-vr/"><u>[Updated] In 2024, Redefining Virtual Adventure with Jaunt VR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/battle-of-the-brainiacs-which-is-superior-chatgpt-or-gemini-in-software-crafting/"><u>Battle of the Brainiacs: Which Is Superior, ChatGPT or Gemini in Software Crafting?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-conversationalists-gemini-vs-chatgpt-plus-the-ultimate-showdown/"><u>Comparing AI Conversationalists: Gemini Vs. ChatGPT Plus - The Ultimate Showdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-tips-preventing-the-top-6-slip-ups-in-creating-effective-chatgpt-prompts/"><u>Essential Tips: Preventing the Top 6 Slip-Ups in Creating Effective ChatGPT Prompts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guided-navigation-changing-settings-on-windows-systems/"><u>Guided Navigation: Changing Settings on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/harness-the-power-of-windows-11-a-guide-to-7-effective-techniques-36/"><u>Harness the Power of Windows 11: A Guide to 7 Effective Techniques (36)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unveiling-facebooks-forgotten-archive-easy-guide-for-devices/"><u>In 2024, Unveiling Facebook's Forgotten Archive Easy Guide for Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-discussion-on-trojan-threats-and-chatgpt-troubles-navigating-cybersecurity-in-a-digital-world/"><u>In-Depth Discussion on Trojan Threats and ChatGPT Troubles: Navigating Cybersecurity in a Digital World</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-learning-discover-how-ai-tools-revolutionize-academic-investigation/"><u>Maximize Learning: Discover How AI Tools Revolutionize Academic Investigation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/premier-free-software-for-ai-image-fabrication/"><u>Premier Free Software for AI Image Fabrication</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-words-write-smarter-not-harder-with-hix-and-gpt-4/"><u>The Future of Words: Write Smarter, Not Harder with HIX & GPT-4</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-motorola-moto-g24-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Motorola Moto G24</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-benefits-of-chatgpt-enterprise-and-its-market-distinctions/"><u>Unveiling the Benefits of ChatGPT Enterprise & Its Market Distinctions</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/video-mastery-posting-on-snapchat-from-twitter-revealed-for-2024/"><u>Video Mastery Posting on Snapchat From Twitter Revealed for 2024</u></a></li>
+</ul></div>
 

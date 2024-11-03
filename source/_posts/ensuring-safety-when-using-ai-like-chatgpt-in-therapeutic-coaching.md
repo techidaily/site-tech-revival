@@ -1,7 +1,7 @@
 ---
 title: Ensuring Safety When Using AI Like ChatGPT in Therapeutic Coaching
-date: 2024-10-24T17:13:43.989Z
-updated: 2024-10-28T00:29:06.949Z
+date: 2024-11-01T00:31:29.828Z
+updated: 2024-11-02T20:33:29.421Z
 tags:
   - chatgpt
   - open-ai
@@ -38,18 +38,18 @@ thumbnail: https://thmb.techidaily.com/907f940c68ac3ee45f8b59683cc047cc046651848
 
 ![Picture of circuitry and a human head](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/picture-of-circuitry-and-a-human-head.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  While GPT-3.5 can only accept text prompts, GPT-4 is multi-modal and can accept both text and visual inputs. To be clear, when we say visual inputs, the image doesn't have to be an image of a typed prompt—it can be an image of anything. So from an image of a handwritten math problem to Reddit memes, GPT-4 can understand and describe almost any image.
 
 Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  During the GPT-4 announcement live stream, an OpenAI engineer fed the model with a screenshot of a Discord server. GPT-4 could describe every detail on it, including the names of users online at the time. An image of a hand-drawn mockup of a joke website was also fed to the model with instructions to turn it into a website, and amazingly, GPT-4 provided a working code for a website that matched the image.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. GPT-4 vs. GPT-3.5: Safer Responses
 
@@ -59,22 +59,16 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  With GPT-4, most safety measures are already baked into the system at the model level. To understand the difference, it's like building a house with robust materials from the get-go versus using anything that goes and then trying to patch things as faults emerge. According to[OpenAI's GPT-4 technical report](https://cdn.openai.com/papers/gpt-4.pdf) \[PDF\], GPT-4 produces toxic responses only 0.73% of the time compared to GPT-3.5's 6.48% of toxic replies.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. GPT-4 vs. GPT-3.5: Factuality of Response
 
 ![An inscription of the word fact on four cubes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/fact-6577794_1920.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of GPT-3.5's flaws is its tendency to produce nonsensical and untruthful information confidently. In AI lingo, this is called "AI hallucination" and can cause distrust of AI-generated information.
 
@@ -82,28 +76,15 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
  In GPT-4, hallucination is still a problem. However, according to the GPT-4 technical report, the new model is 19% to 29% less likely to hallucinate when compared to the GPT-3.5 model. But this isn't just about the technical report. Responses from the GPT-4 model on ChatGPT are noticeably more factual.
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. GPT-4 vs. GPT-3.5: Context Window
 
 ![A pair of programmers sitting in an office reviewing some code.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/two-programmers-reviewing-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  A less talked about difference between GPT-4 and GPT-3.5 is the context window and context size. A context window is how much data a model can retain in its "memory" during a chat session and for how long. GPT-4 has a significantly better context size and window than its predecessor model.
@@ -113,6 +94,13 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
  An issue with GPT-3.5 is the propensity of the model to go off-topic or fail to follow instructions as you progress during the course of a conversation. You could, for instance, tell the model to address you by your name, and it would do so for a while but then fail to follow the instructions along the way. Although this problem still exists with the GPT-4 model, it is less of an issue because of a better context window.
 
  Another issue is the limitation on the volume of text you can use in a prompt at once. Summarizing long text using GPT-3 typically means splitting the text into multiple chunks and summarizing them bit by bit. The improvement in context length in the GPT-4 model means you can paste entire PDFs at a go and get the model to summarize without splitting it into chunks.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## GPT-4: A Step Up from GPT-3.5
 
@@ -133,18 +121,20 @@ Unlike GPT-3, GPT-4 is both a language and a visual model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-and-engage-ifunny-meme-downloads/"><u>[New] Explore & Engage IFunny Meme Downloads</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-transforming-wardrobe-stories-into-mac-made-ootd-videos/"><u>[Updated] In 2024, Transforming Wardrobe Stories Into Mac-Made OOTD Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-smart-snapchat-gifting-step-by-step-for-success/"><u>[Updated] Smart Snapchat Gifting Step-by-Step for Success</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-strategies-for-effortlessly-sharing-youtube-videos-on-fb/"><u>[Updated] Strategies for Effortlessly Sharing YouTube Videos on FB</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boosting-gaming-experience-why-asus-geforce-970-pro-is-a-top-choice/"><u>Boosting Gaming Experience: Why Asus GeForce 970 Pro Is a Top Choice</u></a></li>
-<li><a href="https://fox-that.techidaily.com/effective-solutions-to-handle-roblox-memory-warnings-on-iphone/"><u>Effective Solutions to Handle Roblox Memory Warnings on iPhone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/openais-linguistic-titans-understanding-gpt-14/"><u>OpenAI’s Linguistic Titans: Understanding GPT-1–4</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-ai-interaction-the-benefits-that-place-the-chatgpt-desktop-in-the-lead-against-its-website-version/"><u>Optimizing AI Interaction: The Benefits That Place the ChatGPT Desktop in the Lead Against Its Website Version</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-these-9-counterfeit-chatgpt-malware-programs-threatening-your-information/"><u>Protect Yourself From These 9 Counterfeit ChatGPT Malware Programs Threatening Your Information</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/relying-on-ai-the-role-of-chatgpt-in-wilderness-rescue-scenarios/"><u>Relying on AI: The Role of ChatGPT in Wilderness Rescue Scenarios</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-chat-with-these-9-chatgptplus-advantages/"><u>Revolutionize Your Chat with These 9 ChatGPT+ Advantages</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/segreti-e-strategie-per-aumentare-la-conversione-dei-tuoi-contenuti-in-formato-4khd/"><u>Segreti E Strategie per Aumentare La Conversione Dei Tuoi Contenuti in Formato 4K/HD</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/m2tvlcpowerdvd3/"><u>なぜM2T動画は再生できないのか：VLC、PowerDVDを使用してもダメ！3つの解決策</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-inspirational-article-leaderboard-maker/"><u>[Updated] Inspirational Article Leaderboard Maker</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/2024dvd-windows-1110/"><u>2024免費DVD播放器最新推薦軟件 [爱好者选择：適用Windows 11/10]</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-the-challenge-of-svchostexe-netsvcs-strategies-to-curtail-its-significant-impact-on-internet-usage/"><u>Addressing the Challenge of svchost.exe (NETsvcs): Strategies to Curtail Its Significant Impact on Internet Usage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artistry-vs-algorithm-the-openai-and-meta-lawsuit-led-by-silverman/"><u>Artistry Vs. Algorithm: The OpenAI & Meta Lawsuit Led by Silverman</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/does-ai-learn-from-engaging-conversations-with-its-users/"><u>Does AI Learn From Engaging Conversations with Its Users?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ejemplo-de-copia-de-seguridad-de-dvd-tutorial-para-windows-111087-y-sistemas-operativos-mac/"><u>Ejemplo De Copia De Seguridad De DVD: Tutorial Para Windows 11/10/8/7 Y Sistemas Operativos Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhanced-mobile-experience-with-bings-ai-search-feature/"><u>Enhanced Mobile Experience with Bing's AI Search Feature.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploration-of-distinct-video-camera-kinds/"><u>Exploration of Distinct Video Camera Kinds</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-m54-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy M54 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-premier-mp4-to-fb-video-transforming-tools/"><u>In 2024, Premier MP4 to FB Video Transforming Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-diy-with-advanced-technology-anticipating-the-arrival-of-gpt-4/"><u>Revolutionizing DIY with Advanced Technology: Anticipating the Arrival of GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-strategies-for-utilizing-chatgpt-in-crafting-video-game-narratives/"><u>Top 6 Strategies for Utilizing ChatGPT in Crafting Video Game Narratives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-conversations-how-to-implement-chatgpt-on-android-platforms/"><u>Unlocking AI Conversations: How to Implement ChatGPT on Android Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-codegpt-the-ai-revolutionizing-code-generation/"><u>Unveiling CodeGPT: The AI Revolutionizing Code Generation</u></a></li>
 </ul></div>
 

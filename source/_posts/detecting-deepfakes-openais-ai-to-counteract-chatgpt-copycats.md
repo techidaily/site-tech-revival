@@ -1,7 +1,7 @@
 ---
 title: "Detecting Deepfakes: OpenAI's AI to Counteract ChatGPT Copycats"
-date: 2024-09-10T17:24:43.008Z
-updated: 2024-09-17T16:38:33.973Z
+date: 2024-10-31T19:59:44.504Z
+updated: 2024-11-02T19:05:50.418Z
 tags:
   - chatgpt
   - open-ai
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
  However, in April 2023, OpenAI started offering users the choice to disable or enable chat history and training data collection.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Opt-Out of ChatGPT's Chat History and Training Feature
@@ -63,9 +63,29 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
 ![chatgpt sidebar menu options list](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/chatgpt-sidebar-menu-options-list.png)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  First, click on your profile name at the bottom-left of the main page and head to**Settings & Beta** .
 
 ![screenshot of chatgpt data controls setting on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-data-controls.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In your settings, click on the**Data controls** option. Now, you'll see a setting named**Chat history & training** . This feature will be active by default, but a simple click on the toggle will disable it instantly. Now the feature has been turned off, you'll notice your chat history is no longer accessible on the main page.
 
@@ -73,16 +93,16 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
 
 ![screenshot of chatgpt enable history option on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gpt-history-off.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For the highest level of privacy, it's wise to keep this setting disabled wherever possible.
 
  Once you disable this feature, all future chats will not be used for training, but previous chats that took place while the feature was enabled are still usable to OpenAI.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Data Collection You Can't Opt Out From
 
@@ -107,5 +127,24 @@ thumbnail: https://thmb.techidaily.com/d8b681dac20745dffc0590df4e8c90e2635d89e08
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-tunetracker-outside-of-dacast-realm-for-2024/"><u>[New] TuneTracker Outside of DaCast Realm for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-visual-excellence-debate-av1-vs-vp9-showcase-for-2024/"><u>[New] Visual Excellence Debate Av1 vs VP9 Showcase for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-discovering-top-5-methods-for-turning-tiktok-videos-into-gifs/"><u>[Updated] In 2024, Discovering Top 5 Methods for Turning TikTok Videos Into GIFs</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/convierte-y-personaliza-videos-con-winx-hd-convertidor-profesional-y-capacidades-aceleradas-por-gpu/"><u>Convierte Y Personaliza Vídeos Con WinX HD Convertidor Profesional Y Capacidades Aceleradas Por GPU</u></a></li>
+<li><a href="https://win-unique.techidaily.com/how-to-extract-and-print-specific-pages-in-your-flip-book-using-flipbuilder-techniques/"><u>How to Extract and Print Specific Pages in Your Flip Book Using FlipBuilder Techniques</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-visual-splendor-of-blade-cameras-in-full-hd/"><u>In 2024, The Visual Splendor of Blade Cameras in Full HD</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-v-purse-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor V Purse Device</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stand-out-strategies-a-step-by-step-guide-to-reddit-success/"><u>Stand Out Strategies A Step-By-Step Guide to Reddit Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-is-now-combining-chatgpt-with-3d-printing-for-next-level-creations/"><u>The Future Is Now: Combining ChatGPT with 3D Printing for Next-Level Creations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-power-of-chatgpt-copilot-transforming-your-online-experience/"><u>The Power of ChatGPT Copilot: Transforming Your Online Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-transformative-role-of-ai-powered-chatbots-in-generating-online-media/"><u>The Transformative Role of AI-Powered Chatbots in Generating Online Media</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-pitfalls-in-utilizing-generative-ai-applications/"><u>Top 7 Pitfalls in Utilizing Generative AI Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-tasks-using-auto-gpt-discover-8-game-changing-techniques/"><u>Transform Tasks Using Auto-GPT: Discover 8 Game-Changing Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-online-discoveries-with-perplexity-ai-the-premier-tool-for-smart-google-searches/"><u>Transform Your Online Discoveries with Perplexity AI - The Premier Tool for Smart Google Searches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-your-approach-to-interviews-with-chatgpt/"><u>Transforming Your Approach to Interviews with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-your-potential-sign-up-for-enhanced-chatgpt-plugins-today/"><u>Unlock Your Potential: Sign Up for Enhanced ChatGPT Plugins Today!</u></a></li>
+</ul></div>
 

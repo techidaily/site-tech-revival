@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Grok: Pricing, Potential & Insights Into Elon Musk's Latest Creation"
-date: 2024-10-23T04:07:38.772Z
-updated: 2024-10-27T16:47:22.684Z
+date: 2024-10-28T06:37:35.527Z
+updated: 2024-11-02T19:04:11.004Z
 tags:
   - chatgpt
   - open-ai
@@ -39,22 +39,15 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  For instance, if you use derogatory words when addressing[Microsoft's GPT-powered Bing AI](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) , it will respond by saying, "I'm sorry, but I don't appreciate being spoken to that way." Similarly, ChatGPT will tell you to "refrain from using offensive language" because it's against its content policy or that it's "sorry to hear you're upset" but that "as an AI language model, it doesn't have feelings or emotions."
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should You Teach Children to Be Polite Using AI?
 
 ![child looking at laptop headphones studying](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/sites-teach-children-online-safety-featured.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A few tech companies have AI products that encourage kids to be polite. A good example is Amazon's[Echo Dot Kids Edition](https://www.makeuseof.com/is-echo-dot-kids-edition-worth-buying/) , which includes a**Magic Word** feature to persuade children to be polite. In 2018, Google also introduced the[Pretty Please feature in Google Assistant](https://www.makeuseof.com/tag/new-google-assistant-features-holidays/) that could return the favor if you say "thank you" or "please."
 
@@ -63,15 +56,22 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  However, there is a possibility that children could think that AI has feelings just like humans if you reinforce politeness when they're talking to AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can AI Be Rude to You?
 
 ![bing app and open ai app on smartphone screen feature](https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fcfc9f8eeee6fcb2c56355c7c.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit: Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-feb-15-2023-microsoft-2262942895)
 
@@ -82,10 +82,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  On the other hand, you can[set up Alexa to swear](https://www.makeuseof.com/how-to-make-alexa-swear/) profanities if you want it to be rude.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Interact With AI How You Want
@@ -109,22 +109,24 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-best-webcam-technology-boosting-audio-fidelity/"><u>[Updated] 2024 Approved Best Webcam Technology Boosting Audio Fidelity</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-strategies-for-effective-ppt-sharing-in-google-meet-sessions/"><u>2024 Approved Strategies for Effective PPT Sharing in Google Meet Sessions</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/2024-approved-top-5-tiktok-voice-generators-you-should-try/"><u>2024 Approved Top 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/advanced-gpt-variants-how-they-excel-beyond-chatgpt/"><u>Advanced GPT Variants: How They Excel Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-your-job-application-game-using-chatgpt-for-resume-creation/"><u>Boost Your Job Application Game Using ChatGPT for Resume Creation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bot-privacy-hazards-essential-3-insights-to-consider/"><u>Bot Privacy Hazards: Essential 3 Insights to Consider</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-driven-techniques-for-successful-interview-prep/"><u>ChatGPT-Driven Techniques for Successful Interview Prep</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-comedy-capabilities-an-insight-into-whether-machines-can-truly-be-funny/"><u>ChatGPT's Comedy Capabilities: An Insight Into Whether Machines Can Truly Be Funny</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-conversational-agent-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Conversational Agent: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y78-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y78 5G</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-hp-officejet-5740-printer-up-and-running-driver-downloads-for-windows-11-10-and-8/"><u>Get Your HP Officejet 5740 Printer Up and Running: Driver Downloads for Windows 11, 10 & 8</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hubs-for-high-quality-vr-watching/"><u>In 2024, Hubs for High-Quality VR Watching</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-hiding-while-livestreaming-on-instagram/"><u>In 2024, The Art of Hiding While Livestreaming on Instagram</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722037178983-tired-of-waiting-for-chatgpts-official-release-here-are-fantastic-free-alternatives/"><u>Tired of Waiting for ChatGPT's Official Release? Here Are Fantastic Free Alternatives!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/upgrade-browser-security-with-trusted-site-listing/"><u>Upgrade Browser Security with Trusted Site Listing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-simple-steps-to-disconnect/"><u>Worried About Your Data with ChatGPT? Learn the Simple Steps to Disconnect</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-mastering-the-art-of-tiktok-intros-on-mac-devices-for-2024/"><u>[New] Mastering the Art of TikTok Intros on Mac Devices for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discovering-digital-dominance-which-is-superior-youtubes-shorts-or-tiktoks-for-2024/"><u>[Updated] Discovering Digital Dominance Which Is Superior, YouTubes Shorts or TikToks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-top-5-unlimited-iphone-cloud-storage-solutions-beyond-icloud/"><u>1. Top 5 Unlimited iPhone Cloud Storage Solutions Beyond iCloud</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/50plus-text-wonders-in-video-editing/"><u>50+ Text Wonders in Video Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advice-alley-17-recommended-tools-for-effective-image-cleaning-for-2024/"><u>Advice Alley 17 Recommended Tools for Effective Image Cleaning for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/all-in-one-digital-media-toolkit-dvd-to-hd-conversion-online-video-downloads-and-high-quality-dvd-burning/"><u>All-in-One Digital Media Toolkit: DVD to HD Conversion, Online Video Downloads, and High-Quality DVD Burning</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-xiaomi-redmi-12-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Xiaomi Redmi 12</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-converting-dvds-to-mp4mov-using-macx-dvd-ripper-pro-for-ios-devices/"><u>Complete Tutorial: Converting DVDs to MP4/MOV Using MacX DVD Ripper Pro for iOS Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-ways-to-watch-avi-files-on-your-apple-tv/"><u>Effortless Ways to Watch AVI Files on Your Apple TV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-access-the-ultimate-list-of-top-video-game-music-you-can-download-now/"><u>Free Access - The Ultimate List of Top Video Game Music You Can Download Now</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-easy-screencasting-techniques-systematic-guidebook/"><u>In 2024, Easy Screencasting Techniques Systematic Guidebook</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leading-platforms-for-premium-4k-streaming-content-your-definitive-selection-guide/"><u>Leading Platforms for Premium 4K Streaming Content: Your Definitive Selection Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/maintains-a-uniform-temperature-gradient-for-better-heat-transfer-performance/"><u>Maintains a Uniform Temperature Gradient for Better Heat Transfer Performance.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-cloning-movies-youve-rented-online-redbox-netflix-and-amazon-methods/"><u>Step-by-Step Tutorial for Cloning Movies You've Rented Online: Redbox, Netflix & Amazon Methods</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-leading-tools-for-drm-free-audiobook-conversion-a-comprehensive-guide/"><u>Top 3 Leading Tools for DRM-Free Audiobook Conversion: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/trouble-free-methods-to-successfully-duplicate-a-scratched-disk-on-your-mac-device/"><u>Trouble-Free Methods to Successfully Duplicate a Scratched Disk on Your Mac Device</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-get-noticed-10-exceptional-music-video-makers-for-emerging-artists-for-2024/"><u>Updated Get Noticed 10 Exceptional Music Video Makers for Emerging Artists for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-take-your-videos-to-the-next-level-picture-in-picture-in-final-cut-pro/"><u>Updated In 2024, Take Your Videos to the Next Level Picture-in-Picture in Final Cut Pro</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-gt-neo-5-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme GT Neo 5? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

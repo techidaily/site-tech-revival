@@ -1,7 +1,7 @@
 ---
 title: "Articulate Your Intentions: Five Voice Commands for GPT"
-date: 2024-10-24T17:07:32.774Z
-updated: 2024-10-28T13:42:48.020Z
+date: 2024-10-26T17:48:48.615Z
+updated: 2024-11-03T00:37:34.163Z
 tags:
   - chatgpt
   - open-ai
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
  However, one area in which ChatGPT could be particularly impactful is machine translation. Currently, Google Translate is the top dog, and almost everyone else is playing catch-up.
 
  But with the rise of ChatGPT, could Google Translate's dominance be challenged? We'll pit ChatGPT against Google Translate to see which tool can provide better translations.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Does a Good Translation Look Like?
 
@@ -89,18 +82,18 @@ And so did Google:
 
 ![ChatGPT malayalam translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Google, on the other hand, did fairly well.
 
 ![Google Translate translating malayalam](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/goo.jpg)
 
  None of the tools could get it perfectly, but Google Translate was as close as you can get. This is a close contest. While Google Translate has an edge, ChatGPT can provide the meaning of idioms instead of just translations. This could be very useful when translating a larger body of text that contains an idiom. In such cases, translating an idiom literally could be a source of confusion when read together with the surrounding text.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: General Accuracy
 
@@ -123,10 +116,10 @@ Up next is a translation task in Filipino.
 ![Google translates filipino text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/google-translates-filipino.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT, on the other hand, turned up: "The cure for a heartbroken woman is the affection of an understanding man."
@@ -134,13 +127,6 @@ Up next is a translation task in Filipino.
 ![ChatGPT translate filipino](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-translate-filipino.jpg)
 
  None of the translations are particularly perfect, but ChatGPT got as close as possible.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Translating Creoles
 
@@ -156,15 +142,29 @@ Below is the source text:
 
 ![Google Translate Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/google-translate-pidgin-translation.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Although not flawlessly, ChatGPT's interpretation was able to clearly convey the meaning and intent of the speaker. Considering the highly contextual nature of Pidgin English, the results are very impressive.
 
 ![ChatGPT Pidgin Translation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-pidgin-translation.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Google Translate vs. ChatGPT: Language Coverage
@@ -173,16 +173,16 @@ Below is the source text:
 
  Of course, we tested ChatGPT on several languages not supported by Google Translate. It was able to provide translations for these additional languages, which Google Translate does not offer. However, the quality of ChatGPT's translations for these unsupported languages was a bit inconsistent. While some were considerably accurate, some were quite poor and inaccurate. While ChatGPT covers more languages, the translations it provides for many of them leave much to be desired in terms of accuracy.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Google Translate vs. ChatGPT: Which Translation Tool Is Better?
 
  It's hard to say with certainty. Both translation tools have their strong points. Google has been making massive investments in[Natural Language Processing (NLP)](https://www.makeuseof.com/what-is-natural-language-processing-and-how-does-it-work/) . As a result, it outperforms ChatGPT in languages to which it has paid special attention. However, considering[how ChatGPT works and its training](https://www.makeuseof.com/how-does-chatgpt-work/) , it represents a unique and exciting approach to translation. Which of them should you use? Both tools are free, so feel free to experiment and settle for which one works for you.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT: An Emerging Translation Tool
 
@@ -205,22 +205,24 @@ Below is the source text:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/fixed-failed-to-initialize-unity-graphics-error/"><u>[Fixed] Failed to Initialize Unity Graphics Error</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-two-effective-ways-how-can-i-share-youtube-videos-on-facebook/"><u>[New] In 2024, Two Effective Ways! How Can I Share YouTube Videos on Facebook?</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-igtvs-potential-a-video-resizing-primer-for-2024/"><u>[New] Unlocking IGTV's Potential A Video Resizing Primer for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-broadcast-power-playout-analyzing-obs-versus-twitch-studios-strengths/"><u>[Updated] In 2024, Broadcast Power Playout Analyzing OBS Versus Twitch Studio's Strengths</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-ultimate-guide-to-podcast-outros-and-examples/"><u>[Updated] The Ultimate Guide to Podcast Outros & Examples</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/highpoint-artist-toolkit-review-for-2024/"><u>Highpoint Artist Toolkit Review for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-restore-functionality-fixing-search-glitches-in-windows-11/"><u>How to Restore Functionality: Fixing Search Glitches in Windows 11</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-yt-loop-technique-for-the-digital-content-wanderer/"><u>In 2024, YT Loop Technique for the Digital Content Wanderer</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/les-avantages-de-cloner-un-disque-dur-tout-ce-que-vous-avez-besoin-de-savoir/"><u>Les Avantages De Cloner Un Disque Dur : Tout Ce Que Vous Avez Besoin De Savoir</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-downside-of-generative-ai-in-text-messaging-services-7-key-points-to-consider/"><u>The Downside of Generative AI in Text Messaging Services - 7 Key Points to Consider</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-freelancing-can-these-8-ai-tools-outshine-chatgpt-in-making-extra-cash/"><u>The Future of Freelancing: Can These 8 AI Tools Outshine ChatGPT in Making Extra Cash?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-potential-influence-of-artificial-intelligence-on-game-development/"><u>The Potential Influence of Artificial Intelligence on Game Development</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-side-hustles-with-chatgpt-can-these-be-the-key-to-your-financial-freedom/"><u>Top 8 Side Hustles with ChatGPT: Can These Be the Key to Your Financial Freedom?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-reasons-why-zerogpt-and-similar-ai-detectors-may-not-be-reliable-case-studies/"><u>Top Reasons Why ZeroGPT & Similar AI Detectors May Not Be Reliable: Case Studies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/tutorial-activate-gpts-beta-browser-and-plugin-functionality/"><u>Tutorial: Activate GPT's Beta Browser & Plugin Functionality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ai-hallucinations-identification-and-detection-strategies/"><u>Understanding AI Hallucinations: Identification & Detection Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-fraudgpt-essential-tips-to-safeguard-against-cyber-threats/"><u>Understanding FraudGPT: Essential Tips to Safeguard Against Cyber Threats</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-efficient-mp4-conversion-software-facebook-targeted/"><u>[Updated] In 2024, Efficient MP4 Conversion Software (Facebook Targeted)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-nextgen-videostreaming-platforms/"><u>[Updated] In 2024, Exploring NextGen Videostreaming Platforms</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-tailoring-your-online-persona-with-a-new-background-photo/"><u>[Updated] In 2024, Tailoring Your Online Persona with a New Background Photo</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ar-5-augmented-reality-glasses-from-arcshell-outstanding-functionality-at-an-attractive-price-point/"><u>AR-5 Augmented Reality Glasses From ArcShell - Outstanding Functionality at an Attractive Price Point</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-gpt-conversations-with-these-proven-tactics/"><u>Boost Your GPT Conversations with These Proven Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-assist-in-creating-personalized-fitness-programs-safely-through-chatgpt/"><u>Can AI Assist in Creating Personalized Fitness Programs Safely Through ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cautionary-reminder-not-all-summaries-are-equally-reliable/"><u>Cautionary Reminder: Not All Summaries Are Equally Reliable</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-powered-success-enhancing-your-job-interview-preparation-with-chatgpt/"><u>Chatbot-Powered Success: Enhancing Your Job Interview Preparation with ChatGPT</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-creativity-discover-the-best-android-drawing-apps-of-all-time/"><u>Elevate Creativity Discover the Best Android Drawing Apps of All Time</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-intelligence-gpt-4s-unveiling/"><u>Elevating Intelligence: GPT-4's Unveiling</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-recording-skills-for-every-lenovo-user-for-2024/"><u>Essential Recording Skills for Every Lenovo User for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-ai-advances-interactive-apple-and-microsofts-chatgpt/"><u>Explore AI Advances: Interactive Apple & Microsoft's ChatGPT</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-narzo-n53-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme Narzo N53 Phone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-title-design-made-easy-a-final-cut-pro-x-tutorial/"><u>New In 2024, Title Design Made Easy A Final Cut Pro X Tutorial</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pova-5-pro-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pova 5 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-communication-utilizing-chatgpt-for-language-conversion/"><u>Transforming Communication: Utilizing ChatGPT for Language Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-latest-in-computing-with-toms-hardware-guides/"><u>Unveiling the Latest in Computing with Tom's Hardware Guides</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-of-affective-computing-can-artificial-intelligence-genuinely-comprehend-your-emotional-state/"><u>Unveiling the Mystery of Affective Computing: Can Artificial Intelligence Genuinely Comprehend Your Emotional State?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/upcoming-security-conundrums-with-generative-ai-why-things-are-heading-south/"><u>Upcoming Security Conundrums with Generative AI: Why Things Are Heading South</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Decoding HuggingChat: An Alternative, Open-Source Approach to the Popularity of ChatGPT"
-date: 2024-09-11T19:36:37.950Z
-updated: 2024-09-12T19:36:37.950Z
+date: 2024-10-30T20:15:21.348Z
+updated: 2024-11-02T19:19:13.992Z
 tags:
   - chatgpt
   - open-ai
@@ -24,23 +24,9 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -53,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Can ChatGPT Hack Your Bank Account?
@@ -64,10 +50,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -83,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Protect Your PC and Bank Account in the AI-Era
@@ -110,5 +96,21 @@ thumbnail: https://thmb.techidaily.com/d8bc1833c243f47afb83a105ed80a45f4c9ab816d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-leveraging-tools-for-seamless-powerpoint-transcription/"><u>[New] In 2024, Leveraging Tools for Seamless PowerPoint Transcription</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-under-the-hood-inside-knowledge-for-instagram-story-enthusiasts/"><u>[New] Under the Hood Inside Knowledge for Instagram Story Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-phantom-v-fold-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Phantom V Fold without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bust-the-puzzle-solving-frame-rate-dip-problems-for-a-smoother-beyond-light-experience/"><u>Bust the Puzzle: Solving Frame-Rate Dip Problems for a Smoother 'Beyond Light' Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-techniques-for-windows-11-optimization/"><u>Effective Techniques for Windows 11 Optimization</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-tips-on-how-to-extract-music-from-youtube-videos/"><u>Effortless Tips on How to Extract Music From YouTube Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-ways-to-empty-your-printers-job-list-expert-solutions-revealed/"><u>Effortless Ways to Empty Your Printer's Job List - Expert Solutions Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-teamwork-and-efficiency-the-ultimate-tips-on-using-slack-in-the-workplace/"><u>Enhancing Teamwork and Efficiency: The Ultimate Tips on Using Slack in the Workplace</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-your-kodi-experience-with-kodinerds-installation-tutorial-for-ultimate-media-control/"><u>Enhancing Your Kodi Experience with KodiNerds: Installation Tutorial for Ultimate Media Control</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-hassle-free-upkeep-with-windows-10s-auto-fix-capabilities/"><u>Experience Hassle-Free Upkeep with Windows 10’S Auto-Fix Capabilities</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210932972-9781855844568-life-between-death-and-rebirth/"><u>Life Between Death and Rebirth | Free Book</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/steady-snapstreaks-tips-to-never-miss-a-snap/"><u>Steady Snapstreaks Tips to Never Miss a Snap</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-videos-with-tiktok-effects-for-2024/"><u>Transform Videos with TikTok Effects for 2024</u></a></li>
+</ul></div>
 

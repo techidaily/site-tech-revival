@@ -1,7 +1,7 @@
 ---
 title: Harness the Full Potential of AI Dialogues – Chrome GPT Upgrade
-date: 2024-09-15T20:11:05.534Z
-updated: 2024-09-18T09:20:04.887Z
+date: 2024-10-31T02:39:29.265Z
+updated: 2024-11-02T17:03:13.907Z
 tags:
   - chatgpt
   - open-ai
@@ -38,9 +38,23 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -51,6 +65,13 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -65,6 +86,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -72,13 +100,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -99,13 +120,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
@@ -125,5 +139,22 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-building-bonds-before-buying-subscription-strategies/"><u>[New] 2024 Approved Building Bonds Before Buying Subscription Strategies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-first-rate-text-animation-setups/"><u>[New] In 2024, First-Rate Text Animation Setups</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamline-your-filming-journey-a-step-by-step-guide-to-utilize-your-logitech-camera/"><u>[Updated] 2024 Approved Streamline Your Filming Journey A Step-by-Step Guide to Utilize Your Logitech Camera</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-guidelines-for-eliminating-obs-fullscreen-freeze/"><u>[Updated] Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/change-at-the-helm-how-sam-altmans-departure-affects-chatgpt-and-openai/"><u>Change at the Helm: How Sam Altman's Departure Affects ChatGPT and OpenAI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/constructing-custom-conversations-gpt-edition/"><u>Constructing Custom Conversations: GPT Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/directly-launching-cmd-easy-instructions-for-opening-terminal-in-a-specific-directory/"><u>Directly Launching CMD: Easy Instructions for Opening Terminal in a Specific Directory</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-launching-ai-browserscripts-through-the-power-of-agentgpt/"><u>Efficiently Launching AI Browserscripts Through the Power of AgentGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-cover-letter-creation-utilizing-chatgpt-for-professional-success/"><u>Effortless Cover Letter Creation: Utilizing ChatGPT for Professional Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-exploration-made-simple-with-these-7-complimentary-ai-driven-itinerary-crafting-tools/"><u>Effortless Exploration Made Simple with These 7 Complimentary, AI-Driven Itinerary Crafting Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elites-take-the-future-of-global-ai-technology/"><u>Elite's Take: The Future of Global AI Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ensuring-privacy-protection-when-leveraging-chatgpt-in-a-work-setting/"><u>Ensuring Privacy Protection When Leveraging ChatGPT in a Work Setting</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-15-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/official-winxdvd-anwendung-premium-dvd-ripper-ki-gestutzter-videoqualitatssteigerung-und-iphone-dateitransferlosung/"><u>Official WinXDVD Anwendung: Premium DVD-Ripper, KI-Gestützter Videoqualitätssteigerung Und iPhone-Dateitransferlösung</u></a></li>
+<li><a href="https://network-issues.techidaily.com/vision-problem-graphics-device-not-found/"><u>Vision Problem: Graphics Device Not Found</u></a></li>
+</ul></div>
 

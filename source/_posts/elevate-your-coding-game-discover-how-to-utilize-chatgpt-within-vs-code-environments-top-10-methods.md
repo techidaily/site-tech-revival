@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Coding Game: Discover How to Utilize ChatGPT Within VS Code Environments (Top 10 Methods)"
-date: 2024-09-11T19:35:56.205Z
-updated: 2024-09-12T19:35:56.205Z
+date: 2024-10-26T23:28:57.339Z
+updated: 2024-11-03T05:52:33.254Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,13 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
@@ -71,10 +78,10 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -110,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -126,22 +119,15 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -152,16 +138,10 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Awesome, But Be Realistic…
@@ -183,5 +163,24 @@ thumbnail: https://thmb.techidaily.com/ef542613ecfd778273a563914315ea95552a0c901
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-hands-free-tips-saving-instagram-stories-as-videos/"><u>[New] 2024 Approved Hands-Free Tips Saving Instagram Stories as Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-updating-twitters-video-previews-on-your-account/"><u>[New] 2024 Approved Updating Twitter's Video Previews on Your Account</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-portable-recording-stands-and-lenses/"><u>2024 Approved Portable Recording Stands and Lenses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/accelerate-windows-10-patching-process-solutions-within-reach/"><u>Accelerate Windows 10 Patching Process – Solutions Within Reach</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/achieve-seamless-bluetooth-integration-in-windows-11-by-boosting-your-devices-signal-range-and-strength/"><u>Achieve Seamless Bluetooth Integration in Windows 11 by Boosting Your Device's Signal Range & Strength</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/automatic-system-repairs-on-windows-10-a-comprehensive-guide/"><u>Automatic System Repairs on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-for-fresh-amd-radeon-rx-460-drivers-download/"><u>Easy Steps for Fresh AMD Radeon RX 460 Drivers Download</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/handy-amazon-basics-tablet-stand-evaluation-compact-convenience-in-your-backpack/"><u>Handy Amazon Basics Tablet Stand Evaluation: Compact Convenience in Your Backpack</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harmonizing-audio-with-visuals-adding-melodies-to-powerpoint-for-2024/"><u>Harmonizing Audio with Visuals Adding Melodies to PowerPoint for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-conquering-screenshots-a-compreayer-on-lenovo-tech/"><u>In 2024, Conquering Screenshots A Compreayer on Lenovo Tech</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y100i-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y100i to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808276084-pc-monitor-flipping-guide-a-simple-solution-unveiled/"><u>PC Monitor Flipping Guide: A Simple Solution Unveiled!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808289175-struggling-with-gmail-passwords-here-are-effective-solutions/"><u>Struggling with Gmail Passwords? Here Are Effective Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-techniques-to-refresh-your-browsers-memory-on-all-major-platforms/"><u>Ultimate Techniques to Refresh Your Browser's Memory on All Major Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unblocking-windows-update-error-0x80070005-the-ultimate-guide-to-fix-access-issues/"><u>Unblocking Windows Update Error 0X80070005 – The Ultimate Guide to Fix Access Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-your-windows-11-sync-features-overcoming-greyed-out-errors/"><u>Unlocking Your Windows 11 Sync Features: Overcoming Greyed Out Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/windows-10-compatibility-with-directx-12-download-instructions-simplified/"><u>Windows 10 Compatibility with DirectX 12: Download Instructions Simplified</u></a></li>
+</ul></div>
 

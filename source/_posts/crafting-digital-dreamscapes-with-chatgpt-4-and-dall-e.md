@@ -1,7 +1,7 @@
 ---
 title: Crafting Digital Dreamscapes with ChatGPT-4 and DALL-E
-date: 2024-10-24T23:23:27.466Z
-updated: 2024-10-27T17:32:38.703Z
+date: 2024-10-30T17:10:16.418Z
+updated: 2024-11-02T19:36:05.691Z
 tags:
   - chatgpt
   - open-ai
@@ -50,23 +50,9 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 **Cost:** Free for 10,000 characters per month. $9 per month for 100,000 characters and $29 per month for unlimited use.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. ShortlyAI
 
 ![ShortlyAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/shortlyai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [ShortlyAI](https://www.shortlyai.com/) is another tool without too many features. However, this one is focused on either blog posts or story writing, which makes it much more specialized.
 
@@ -78,15 +64,22 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 **Cost:** $79 per month for unlimited use. However, if you want to try it out, you can sign up without a credit card—and you get four clicks a day.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. DeepStory
 
 ![DeepStoryAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/deepstoryai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The next on the list,[DeepStory](https://deepstory.ai/) , is a specialized AI script generator. Not only will it help you get unstuck if you’re experiencing writer's block, but it also generates content in precise script form. This can be extremely useful if you are starting out in this field and still struggling with the structure.
@@ -95,16 +88,16 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 **Cost:** $12 per month, with a limit of 10,000 words. You can also try it out for free for 10 generations.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. NovelAI
 
 ![NovelAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/novelai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [NovelAI](https://novelai.net/) is one of the most complex AI story writers on the list. But it’s also one of the most exciting ones. The basic new story AI generator works somewhat similarly to the others. You start writing the first few words or sentences of the story, and let the AI continue.
 
@@ -115,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
  But the most fun part of this software is the**Adventure Text Module** . With this feature, writing becomes almost like a game. Instead of just writing a prompt, you can instruct the software that the prompt is either**Do, Say, or Story** . It feels like a “build your own adventure” book, where everything is written in real-time.
 
 **Cost:** $10/$15/$25 per month. All of these give you unlimited text generations but offer other advanced and experimental features. You can try it for free for 100 text generations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Leave the Writer’s Block Behind With These AI Story Generators
 
@@ -137,18 +137,20 @@ thumbnail: https://thmb.techidaily.com/8e7429f26cf226f9f9f144f8b464e629b87419e8b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-10-games-comparable-to-grand-theft-auto-v/"><u>[New] 2024 Approved Essential 10 Games Comparable to Grand Theft Auto V</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-a-beginners-manual-for-phantoms-reverse-footage/"><u>[New] In 2024, A Beginner's Manual for Phantom's Reverse Footage</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-laugh-labs-free-comedy-creation-for-creative-souls-for-2024/"><u>[New] Laugh Labs Free Comedy Creation for Creative Souls for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-spotify-how-to-halt-default-podcast-additions/"><u>2024 Approved Spotify How to Halt Default Podcast Additions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-screen-recording-apps-top-12-picks-for-enhancing-your-zoom-experience/"><u>Best Screen Recording Apps: Top 12 Picks for Enhancing Your Zoom Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/dvd-flickdvd/"><u>DVD Flickで作成したDVDが再生不可能? 問題解決ガイド</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-vivo-t2-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Vivo T2 5G Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-leap-into-the-tiktok-live-crowd-a-quick-guide/"><u>In 2024, Leap Into the TikTok Live Crowd A Quick Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-look-every-detail-of-apples-ai-breakthrough-at-wwdc-24-uncovered/"><u>In-Depth Look: Every Detail of Apple's AI Breakthrough at WWDC 24 Uncovered</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-the-deal-microsofts-strategic-purchase-of-blizzard-unpacking-ai-creativity-and-language-tech-podcast/"><u>Inside the Deal: Microsoft's Strategic Purchase of Blizzard - Unpacking AI Creativity & Language Tech [Podcast]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/insight-into-auto-gpt-comparative-analysis-with-conversation-ai/"><u>Insight Into Auto-GPT: Comparative Analysis with Conversation AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intelligent-systems-academic-research-revolution/"><u>Intelligent Systems: Academic Research Revolution</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-avi-video-cutter-reviews-top-16-options-for-windows-mac-and-android-devices/"><u>Updated AVI Video Cutter Reviews Top 16 Options for Windows, MAC, and Android Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-from-novice-to-pro-navigating-streamlabs-obs/"><u>[New] In 2024, From Novice to Pro Navigating Streamlabs OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-illumination-products-for-video-creators-for-2024/"><u>[Updated] Essential Illumination Products for Video Creators for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-seamless-blend-of-text-and-video-without-payment/"><u>[Updated] Seamless Blend of Text & Video Without Payment</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-future-leading-innovations-in-vr-handwear/"><u>2024 Approved Uncover the Future Leading Innovations in VR Handwear</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-your-productivity-a-step-by-step-tutorial-on-chatgpt-and-microsoft-word-synergy/"><u>Boost Your Productivity: A Step-by-Step Tutorial on ChatGPT and Microsoft Word Synergy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-intersection-of-human-and-machine-best-practices-for-writers/"><u>Navigating the Intersection of Human and Machine: Best Practices for Writers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-privacy-how-to-clear-your-chatgpt-interaction-history/"><u>Protecting Privacy: How to Clear Your ChatGPT Interaction History</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones-for-2024/"><u>Streamlined Methods for Saving Videos on Desktops, Tablets & Phones for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlined-sharing-with-the-top-5-software-picks-for-pcs/"><u>Streamlined Sharing with the Top 5 Software Picks for PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/supercharge-your-productivity-with-chatgpt-integration-into-onlyfreeceonline-document-management/"><u>Supercharge Your Productivity with ChatGPT Integration Into ONLYFREECEONLINE Document Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-reasons-giving-ios-an-edge-in-chatgpt-realm/"><u>Top 6 Reasons: Giving iOS an Edge in ChatGPT Realm</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/translation-showdown-chatgpt-vs-google-translate-a-comprehensive-guide/"><u>Translation Showdown: ChatGPT Vs. Google Translate - A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-windows-roblox-code-403-problem/"><u>Troubleshooting Windows Roblox Code 403 Problem</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-speed-up-your-storytelling-how-to-create-engaging-time-lapse-videos/"><u>Updated In 2024, Speed Up Your Storytelling How to Create Engaging Time Lapse Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-italy-has-banned-chatgpt-with-immediate-effect/"><u>Why Italy Has Banned ChatGPT “With Immediate Effect”</u></a></li>
 </ul></div>
 

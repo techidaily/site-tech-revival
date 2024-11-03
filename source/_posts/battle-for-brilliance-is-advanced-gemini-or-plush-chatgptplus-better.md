@@ -1,7 +1,7 @@
 ---
 title: "Battle for Brilliance: Is Advanced Gemini or Plush ChatGPT+ Better?"
-date: 2024-10-23T09:02:00.817Z
-updated: 2024-10-27T18:24:26.563Z
+date: 2024-10-29T20:11:02.672Z
+updated: 2024-11-03T05:25:41.332Z
 tags:
   - chatgpt
   - open-ai
@@ -34,16 +34,16 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
  An interesting thing of note is that it also explained the pronunciation of each word. This is because we specified that we wanted to improve our speaking skills. We gave the same prompt to GPT-3.5, and it gave us the same list but without the pronunciations.
 
  The result shows that GPT-4 has a better understanding of context in comparison to its predecessor. This is just one of the many[differences between GPT 3.5 and GPT-4](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Practice Conversational Skills
 
@@ -78,19 +71,6 @@ thumbnail: https://thmb.techidaily.com/4f82ef6a5653e12bb243abaaf90bd8a672c270d2a
 
  GPT-4 also does a great job of continuing the natural flow of conversation. Keep talking to ChatGPT, and it will point out grammatical errors. Once you understand those errors, you can continue with the conversation. Since[ChatGPT learns from your conversations](https://www.makeuseof.com/does-chatgpt-learn-from-user-conversations/) , the responses and critiques improve over time.
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Personalized Tests
 
 ![ChatGPT Plus Test](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-test.jpg)
@@ -107,15 +87,22 @@ Here's how you can create your own personalized tests:
 4. Select your preferred format for the test. It could be a multiple-choice, true or false, or even a traditional short question/answer format.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Cultural Learning
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
@@ -128,6 +115,13 @@ Here's how you can create your own personalized tests:
  You also get detailed explanations, examples, and cultural insights about the language and the people who speak it. Language apps can do this to some extent, but ChatGPT Plus is more versatile and flexible.
 
  ChatGPT Plus may not provide you with the speaking or listening capabilities to help with pronunciation that other[language-learning apps](https://www.makeuseof.com/tag/five-free-apps-help-learn-foreign-language/) have, but it acts as your teacher that understands context and your progress. These two items help expedite your journey of learning a new language—something no other app can really do.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT Is the Perfect Partner for Learning a New Language
 
@@ -148,16 +142,24 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-low-cost-gopro-cameras-where-to-find-them/"><u>[New] Low-Cost GoPro Cameras Where to Find Them</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/rime-hashtag-combinations-driving-view-count-higher/"><u>[New] Prime Hashtag Combinations Driving View Count Higher</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-complete-assessment-hero4-black-potential/"><u>2024 Approved Complete Assessment Hero4 Black Potential</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-streamline-screen-scans-your-essential-toolkit-for-vid-saving/"><u>2024 Approved Streamline Screen Scans Your Essential Toolkit for Vid Saving</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-governance-oversight-organizations/"><u>AI Governance: Oversight Organizations</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-learning-journey-your-first-stop-at-9-tool-communities/"><u>AI Learning Journey: Your First Stop at 9 Tool Communities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-assisted-poem-writing-techniques-using-chatgpt/"><u>AI-Assisted Poem Writing Techniques Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-8-ai-enhanced-browser-addons-for-boosting-efficiency/"><u>Best 8 AI Enhanced Browser Addons for Boosting Efficiency</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-retreat-from-macos-sierras-latest-upgrade/"><u>How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-lava-blaze-curve-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Lava Blaze Curve 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/writing-impactful-gpt-3-prompts-a-guide-for-health-and-fitness-buffs/"><u>Writing Impactful GPT-3 Prompts: A Guide for Health and Fitness Buffs</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-frequency-of-monetization-on-youtube/"><u>[New] In 2024, The Frequency of Monetization on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-instant-illusions-mastering-time-lapse-photography-on-samsung-for-2024/"><u>[Updated] Instant Illusions Mastering Time-Lapse Photography on Samsung for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-iphone-x-animoji-handbook-for-seamless-experience/"><u>2024 Approved Ultimate iPhone X Animoji Handbook for Seamless Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-scriptwriting-magic-in-my-podcast-realm/"><u>ChatGPT's Scriptwriting Magic in My Podcast Realm</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-wav-a-ogg-gratuita-en-linea-con-movavicom/"><u>Conversión WAV a OGG Gratuita en Línea Con movavi.com</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/diagnosing-and-resolving-interface-issues-chatgpts-trouble-with-plugin-connectivity/"><u>Diagnosing & Resolving Interface Issues: ChatGPT's Trouble with Plugin Connectivity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpus-in-artificial-intelligence-surges-to-alarming-levels-with-one-card-using-up-to-37m-wh-annually-dwarfing-home-electricity-use-13mplus-units/"><u>GPUs in Artificial Intelligence Surges to Alarming Levels with One Card Using Up to 3.7M Wh Annually – Dwarfing Home Electricity Use (1.3M+ Units)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-do-they-harness-gpt-4-insights-on-7-innovative-app-integrations/"><u>How Do They Harness GPT-4? Insights on 7 Innovative App Integrations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-does-chatgpt-decode-programming-languages-its-crucial-role-explained/"><u>How Does ChatGPT Decode Programming Languages? Its Crucial Role Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nokia-c110-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nokia C110 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-alarm-issues-heres-how-to-make-it-work-perfectly/"><u>IPhone Alarm Issues? Here’s How to Make It Work Perfectly!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-to-use-chatgpt-through-a-virtual-private-network-vpn/"><u>Is It Possible To Use ChatGPT Through A Virtual Private Network (VPN)?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quit-juxtaposing-ai-pros-and-cons-insightful-observations/"><u>Quit Juxtaposing AI Pros & Cons: Insightful Observations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-best-ways-to-make-money-on-youtube-shorts-today-for-2024/"><u>The 5 Best Ways to Make Money on YouTube Shorts Today for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-inner-workings-of-gpt-4all-explained-a-detailed-overview/"><u>The Inner Workings of GPT-4All Explained: A Detailed Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-advanced-prompt-skills-discover-7-must-use-software-solutions-online/"><u>Unlock Advanced Prompt Skills: Discover 7 Must-Use Software Solutions Online</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-moto-e13-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Moto E13 Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlocking-the-perks-of-destination-charging-for-teslas-enjoy-free-power/"><u>Unlocking the Perks of Destination Charging for Teslas - Enjoy FREE Power!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/what-to-do-when-your-texts-vanish-expert-tips-and-tricks/"><u>What to Do When Your Texts Vanish: Expert Tips & Tricks</u></a></li>
 </ul></div>
 

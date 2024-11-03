@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2024-10-25T22:04:24.440Z
-updated: 2024-10-28T02:58:32.036Z
+date: 2024-10-27T19:15:05.518Z
+updated: 2024-11-02T17:55:07.444Z
 tags:
   - chatgpt
   - open-ai
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  The following comparisons and tests are not meant to be exhaustive but rather give you an indication of key points and capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is the Easiest Large Language Model to Use?
 
  Both Bard and ChatGPT require an account to use the service. Both Google and OpenAI accounts are easy and free to create, and you can immediately start asking questions.
@@ -54,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Is the Most Private Large Language Model?
@@ -78,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In order to test which LLM has the best general knowledge, we asked three questions.
 
  The first question, "Which national flag has five sides?" was only correctly answered by Bard, which identified the national flag of Nepal as having five sides.
@@ -89,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  None of our models could respond that the correct term for a pea-shaped object is "pisiform," with ChatGPT going so far as to suggest that peas have a "three-dimensional geometric shape that is perfectly round and symmetrical."
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
 
@@ -118,13 +131,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
  Fortunately for comedians everywhere and the human race at large, none of the models were capable of generating an original joke.
@@ -138,10 +144,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -167,19 +173,16 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gear-up-yourself-selecting-prime-lenses-for-successful-vlogging/"><u>[New] In 2024, Gear Up Yourself Selecting Prime Lenses for Successful Vlogging</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-free-windows-10-recorder-tools-a-comprehensive-updated-guide/"><u>[Updated] In 2024, Free Windows 10 Recorder Tools A Comprehensive, Updated Guide</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-evaluating-av1s-edge-over-vp9-technology/"><u>2024 Approved Evaluating AV1's Edge Over VP9 Technology</u></a></li>
-<li><a href="https://extra-information.techidaily.com/become-a-selfie-pro-10-premium-free-ios-camera-apps/"><u>Become a Selfie Pro 10 Premium, Free iOS Camera Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deconstructing-snapchat-my-ais-impact-with-6-reasons/"><u>Deconstructing Snapchat My AI's Impact with 6 Reasons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detecting-downtime-in-chatgpt-services/"><u>Detecting Downtime in ChatGPT Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-new-era-of-ai-art-with-dall-e-3s-latest-update-editing-features-in-progress/"><u>Discover the New Era of AI Art with DALL-E 3'S Latest Update – Editing Features In Progress</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-power-of-ai-with-these-7-insights-on-using-chatgpt-for-health-advice/"><u>Discover the Power of AI with These 7 Insights on Using ChatGPT for Health Advice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/does-chatgpt-have-a-limit-on-tokens-and-is-there-room-to-expand/"><u>Does ChatGPT Have a Limit on Tokens, and Is There Room to Expand?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-setup-webcam-drivers-for-windows-7-users/"><u>Download & Setup Webcam Drivers for Windows 7 Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elite-github-top-chatgpt-dialogue-ideas/"><u>Elite Github Top ChatGPT Dialogue Ideas</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-poco-m6-pro-4g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Poco M6 Pro 4G FRP Locks</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-20-proplus-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 20 Pro+ Phone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-potplayer-plus-windows-media-counterpart/"><u>In 2024, PotPlayer Plus Windows Media Counterpart</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-get-the-best-free-pc-sound-logger-download-x-recorder-for-2024/"><u>[New] Get the Best Free PC Sound Logger – Download X-Recorder for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-compare-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>[Updated] In 2024, Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-2023s-leading-browsers-recording-software-guide/"><u>2024 Approved 2023'S Leading Browsers Recording Software Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-flips-and-twists-essential-guide-to-ph-warping/"><u>2024 Approved Photo Flips & Twists Essential Guide to PH Warping</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-intova-edge-x-a-deep-dive-into-video-capture/"><u>In 2024, Intova Edge X A Deep Dive Into Video Capture</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-generative-ai-in-the-workplace-essential-tips-to-boost-confidence-and-efficiency-amongst-staff-expert-advice-by-zdnet/"><u>Maximizing Generative AI in the Workplace: Essential Tips to Boost Confidence and Efficiency Amongst Staff | Expert Advice by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlined-directx-upgrade-guide-for-users-of-windows-11-and-10/"><u>Streamlined DirectX Upgrade Guide for Users of Windows 11 and 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-free-applications-for-monitoring-your-windows-pcs-disk-usage/"><u>Top 4 Free Applications for Monitoring Your Windows PC's Disk Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transitioning-from-android-how-microsoft-drops-android-app-integration-with-windows-11/"><u>Transitioning From Android: How Microsoft Drops Android App Integration with Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/uninterrupted-linux-tasks-with-nohup-essential-techniques-and-tips/"><u>Uninterrupted Linux Tasks with Nohup: Essential Techniques and Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-gpu-acceleration-on-your-pc-a-guide-to-optimizing-windows-10-and-11/"><u>Unlocking GPU Acceleration on Your PC: A Guide to Optimizing Windows 10 & 11</u></a></li>
 </ul></div>
 

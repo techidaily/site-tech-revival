@@ -1,7 +1,7 @@
 ---
 title: "Beyond Babbage: Pioneering AI Assessment in the New Era"
-date: 2024-09-10T17:10:47.355Z
-updated: 2024-09-18T07:44:29.926Z
+date: 2024-10-28T01:20:58.552Z
+updated: 2024-11-02T22:07:30.872Z
 tags:
   - chatgpt
   - open-ai
@@ -66,10 +66,10 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -80,6 +80,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -87,6 +94,13 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -100,10 +114,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -125,5 +139,24 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-premium-10-audio-enhancers-for-multiple-systems/"><u>[New] In 2024, Premium 10 Audio Enhancers for Multiple Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-snapchat-boomerang-handbook/"><u>[New] In 2024, The Ultimate Snapchat Boomerang Handbook</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-dark-screenwork-in-premiere-pro/"><u>[Updated] Dark Screenwork in Premiere Pro</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-foremost-10-video-subtitling-services-online/"><u>[Updated] Foremost 10 Video Subtitling Services Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-ranking-perfect-photo-and-video-shows-on-iphones/"><u>2024 Approved Ranking Perfect Photo & Video Shows on iPhones</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-top-of-the-line-asus-ax6000-wireless-router-wi-fi-6-excellence-meets-smart-technology/"><u>Evaluating the Top-of-the-Line Asus AX6000 Wireless Router: Wi-Fi 6 Excellence Meets Smart Technology</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-nvidias-customizable-generative-ai-service-who-can-harness-its-power/"><u>Navigating NVIDIA's Customizable Generative AI Service - Who Can Harness Its Power?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/oleaut32dll-error-fixes-methods-to-resolve-the-file-not-found-issue/"><u>Oleaut32.dll Error Fixes: Methods to Resolve the 'File Not Found' Issue</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalized-ai-now-possible-with-chatgpts-latest-update-build-unique-gpt-models-easily/"><u>Personalized AI Now Possible with ChatGPT's Latest Update - Build Unique GPT Models Easily!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/prestigious-6-titans-gigantic-lms-innovators/"><u>Prestigious 6 Titans: Gigantic LMS Innovators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-chatgpt-login-issues-a-comprehensive-guide/"><u>Resolving ChatGPT Login Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-ai-assistance-tailored-commands-for-everyone/"><u>Revolutionizing AI Assistance: Tailored Commands for Everyone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tailoring-professionals-messages-through-gpt-3/"><u>Tailoring Professionals' Messages Through GPT-3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/tale-of-two-giants-which-one-wins-the-llama-3-challenge-or-gpt-4/"><u>Tale of Two Giants: Which One Wins - The Llama 3 Challenge or GPT-4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-bounds-of-communication-with-chatgpt-overcoming-its-character-cap/"><u>The Bounds of Communication with ChatGPT: Overcoming Its Character Cap</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-in-depth-evaluation-of-the-next-gen-slomo-video-tool/"><u>The In-Depth Evaluation of the Next-Gen SloMo Video Tool</u></a></li>
+</ul></div>
 

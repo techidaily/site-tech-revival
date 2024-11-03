@@ -1,7 +1,7 @@
 ---
 title: "Mac Users Guide: Mastering the Art of Using ChatGPT"
-date: 2024-10-26T21:20:18.669Z
-updated: 2024-10-28T13:18:57.603Z
+date: 2024-10-28T00:08:26.335Z
+updated: 2024-11-02T17:12:56.053Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ Close
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Send ChatGPT Prompts With Your Voice
 
  Both iPhones and Android devices come with native dictation features. And that's what you'll use to take advantage of ChatGPT's Whisper integration on your phone.
@@ -56,10 +63,10 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
@@ -67,37 +74,24 @@ Close
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
 
@@ -118,22 +112,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-building-a-successful-career-through-youtube-short-film-making/"><u>[Updated] 2024 Approved Building a Successful Career Through YouTube Short Film-Making</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exploring-the-essentials-of-mov-and-mp4-video-types-what-sets-them-apart/"><u>Exploring the Essentials of MOV and MP4 Video Types - What Sets Them Apart?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/github-copilot-vs-chatgpt-in-software-development-which-leads-the-way/"><u>GitHub Copilot Vs. ChatGPT in Software Development - Which Leads the Way?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gptzeros-role-spotlight-on-ai-generated-literature/"><u>GPTZero's Role: Spotlight on AI-Generated Literature</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Note 30 VIP? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-old-world-wonders-iphone-x-portraits/"><u>In 2024, Old World Wonders – iPhone X Portraits</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/key-criteria-for-optimal-ai-chatbot-subscriptions/"><u>Key Criteria for Optimal AI Chatbot Subscriptions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-ai-wisely-7-editorial-techniques-for-authors/"><u>Leveraging AI Wisely: 7 Editorial Techniques for Authors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/linus-tech-tips-exposes-vulnerabilities-the-trojans-behind-popular-hacks-and-the-risks-involved/"><u>Linus Tech Tips Exposes Vulnerabilities: The Trojans Behind Popular Hacks and the Risks Involved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-human-ai-dialogue-learn-to-communicate-with-chatgpt-today/"><u>Mastering Human-AI Dialogue: Learn to Communicate with ChatGPT Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-personalization-adopting-chatgpt-for-refined-persons/"><u>Mastering Personalization: Adopting ChatGPT for Refined Persons</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-freelance-earnings-through-smart-chatgpt-applications/"><u>Maximizing Freelance Earnings Through Smart ChatGPT Applications</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/schritt-fur-schritt-anleitung-zum-entinterlacing-von-filmmaterial-mit-handbrake/"><u>Schritt-Für-Schritt-Anleitung Zum Entinterlacing Von Filmmaterial Mit Handbrake</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tackling-the-tp-link-av1300-wi-fi-amplifier-does-it-live-up-to-its-powerhouse-image-a-detailed-review/"><u>Tackling the TP-Link AV1300 Wi-Fi Amplifier: Does It Live up to Its Powerhouse Image? A Detailed Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-strategies-to-increase-your-fps-in-tainted-grail-conquest-gameplay/"><u>Ultimate Strategies to Increase Your FPS in Tainted Grail: Conquest Gameplay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-hevc-encoding-key-benefits-for-high-resolution-4k-and-8k-videos/"><u>Understanding HEVC Encoding: Key Benefits for High-Resolution 4K & 8K Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-scripted-sentiments-for-show-summation/"><u>[New] In 2024, Scripted Sentiments for Show Summation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ause-unrequested-youtube-video-selections/"><u>[New] Pause Unrequested YouTube Video Selections</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-correct-dead-by-daylight-error-8014-a-step-by-step-solution/"><u>How to Correct Dead By Daylight Error 8014: A Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-set-up-your-brother-all-in-one-printer-on-modern-windows-platforms-vista-and-beyond/"><u>How to Set Up Your Brother All-in-One Printer on Modern Windows Platforms (Vista & Beyond)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-your-pcs-os-a-step-by-step-guide-to-finding-the-windows-11-build-version/"><u>Identifying Your PC's OS: A Step-by-Step Guide to Finding the Windows 11 Build Version</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-deciding-filmora-vs-democracy-creator/"><u>In 2024, Deciding Filmora Vs. Democracy Creator</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-magic-vs-2-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor Magic Vs 2</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2022) 3 Ways To Unlock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/iphone-users-guide-to-preventing-unwanted-calls-from-private-numbers/"><u>IPhone Users Guide to Preventing Unwanted Calls From Private Numbers.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-platform-unsupported-message-when-setting-up-intel-serial-io-drivers/"><u>Overcome 'Platform Unsupported' Message When Setting Up Intel Serial IO Drivers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reset-your-gmail-access-securely-a-2022-how-to-on-verification-codes/"><u>Reset Your Gmail Access Securely: A 2022 How-To on Verification Codes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solve-your-windows-11-creators-update-woes-overcoming-download-stalls-and-silent-screens/"><u>Solve Your Windows 11 Creators Update Woes: Overcoming Download Stalls & Silent Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-disabling-quick-access-feature-on-windows-11/"><u>Step-by-Step Guide: Disabling Quick Access Feature on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-updating-and-downloading-drivers-for-your-hp-envy-20-laptop/"><u>Step-by-Step Guide: Updating and Downloading Drivers for Your HP ENVY 20 Laptop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-running-command-prompt-with-administrator-rights-in-win10881/"><u>Step-by-Step Tutorial: Running Command Prompt with Administrator Rights in Win10/8/8.1</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Honor X50 | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers in AI Security: How Do Prompt Injections Work?"
-date: 2024-10-22T11:15:33.252Z
-updated: 2024-10-28T07:32:39.763Z
+date: 2024-11-01T01:33:30.463Z
+updated: 2024-11-03T00:47:02.666Z
 tags:
   - chatgpt
   - open-ai
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 * [Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#get-early-access-to-chatgpt-voice-mode-and-the-chatgpt-desktop-app)
 * [Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing](https://www.makeuseof.com/gpt4-free-for-everyone-but-still-reasons-keep-using-chatgpt-plus/#full-access-to-advanced-data-analysis-file-uploads-vision-and-web-browsing)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Free users get limited access to GPT-4o, the latest AI model, while Plus subscribers get more messages and guaranteed availability.
@@ -47,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 More Access to GPT-4o
@@ -71,9 +64,23 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
 
@@ -85,16 +92,16 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -105,13 +112,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
  While OpenAI's recent demo showed us that the feature will come with the Mac app, Voice Mode is only available now through the ChatGPT smartphone app. Features like this are why many consider the[ChatGPT iOS app better than the website](https://www.makeuseof.com/why-chatgpt-ios-app-is-better-than-website/) .
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
@@ -140,24 +140,21 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/laughter-legends-unwrapping-goofy-odyssey/"><u>'Laughter Legends' - Unwrapping 'Goofy Odyssey'</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-crafting-effective-teacher-videos-on-youtube-top-10-strategies/"><u>[New] Crafting Effective Teacher Videos on YouTube – Top 10 Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-unveiling-streaming-secrets-the-best-5-cams-for-gamers-for-2024/"><u>[New] Unveiling Streaming Secrets The Best 5 Cams for Gamers for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-loom-labyrinthine-exploring-the-art-of-recordings/"><u>[Updated] In 2024, Loom Labyrinthine Exploring the Art of Recordings</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/a-comprehensive-guide-on-downloading-and-upgrading-your-intel-hd-graphics-5500-drivers-with-ease/"><u>A Comprehensive Guide on Downloading and Upgrading Your Intel HD Graphics 5500 Drivers with Ease</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/designer-presentation-slide-creator-easy-purchase-and-use-guide/"><u>Designer Presentation Slide Creator: Easy Purchase and Use Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-excel-surpasses-gpt-based-interaction/"><u>How Excel Surpasses GPT-Based Interaction</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-machine-learning-is-revolutionizing-the-world-of-games/"><u>How Machine Learning Is Revolutionizing the World of Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-effectively-acquire-and-integrate-auto-cutting-edge-gpt-into-your-system/"><u>How to Effectively Acquire and Integrate Auto-Cutting-Edge GPT Into Your System.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-utilize-chatgpt-for-creating-effective-youtube-content-scripts/"><u>How to Utilize ChatGPT for Creating Effective YouTube Content Scripts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/identifying-a-blocked-number-a-comprehensive-guide-to-finding-out-if-youve-been-blocked-by-an-iphone-contact/"><u>Identifying a Blocked Number: A Comprehensive Guide to Finding Out If You've Been Blocked by an iPhone Contact</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oneplus-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your OnePlus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-digital-dialogues-in-social-media/"><u>In-Depth Look at Digital Dialogues in Social Media</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ios-enthusiasts-rejoice-discover-how-to-install-and-use-chatgpt-now/"><u>IOS Enthusiasts Rejoice! Discover How to Install and Use ChatGPT Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-the-art-of-writing-with-chatgpt-explore-six-strategies/"><u>Master the Art of Writing with ChatGPT: Explore Six Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-web-research-with-leading-artifice-intelligence-based-search-platforms/"><u>Master Web Research with Leading Artifice Intelligence Based Search Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-blockchain-communication-the-top-8-plugins-for-cryptocurrency-enthusiasts/"><u>Mastering Blockchain Communication: The Top 8 Plugins for Cryptocurrency Enthusiasts</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/resolved-fixing-issues-with-nonfunctional-windows-10-start-menu-and-taskbar/"><u>Resolved: Fixing Issues with Nonfunctional Windows 10 Start Menu & Taskbar</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/strategy-unveiled-masterful-box-opening-tactics/"><u>Strategy Unveiled Masterful Box-Opening Tactics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-interactive-learning-landscapes-with-vr/"><u>[Updated] Interactive Learning Landscapes with VR</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-unveiling-samsungs-revolutionary-galaxy-z-flip-6-the-future-of-foldable-phones/"><u>1. Unveiling Samsung's Revolutionary Galaxy Z Flip 6: The Future of Foldable Phones</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-mambos-in-the-mangroves/"><u>2024 Approved Mambos in the Mangroves</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>2024 Approved The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Honor Magic 5? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210055162-9781911134473-magic-of-the-north-gate-2nd-ed/"><u>Magic of the North Gate (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://extra-information.techidaily.com/picking-a-champion-in-video-software-vlcmx/"><u>Picking a Champion in Video Software VLC/MX</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-your-soundscape-the-ultimate-guide-to-troubleshooting-nvidia-hd-audio-issues/"><u>Revive Your Soundscape: The Ultimate Guide to Troubleshooting Nvidia HD Audio Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamlessly-integrate-and-use-windows-software-on-your-linux-system-with-our-top-tool-choice/"><u>Seamlessly Integrate and Use Windows Software on Your Linux System with Our Top Tool Choice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/securing-image-data-in-linux-removing-exif-information-using-exiftool/"><u>Securing Image Data in Linux: Removing EXIF Information Using Exiftool</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/selecting-your-streaming-choice-podcast-or-video-platform/"><u>Selecting Your Streaming Choice Podcast or Video Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solve-your-windows-start-menu-issues-expert-tips-and-quick-fixes/"><u>Solve Your Windows Start Menu Issues: Expert Tips & Quick Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-windows-11s-zip-dilemma-a-guide-to-restoring-compromised-compressed-files/"><u>Solving Windows 11'S ZIP Dilemma: A Guide to Restoring Compromised Compressed Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tablet-face-off-understanding-what-sets-the-ipad-mini-apart-from-the-ipad-air/"><u>Tablet Face-Off: Understanding What Sets the iPad Mini Apart From the iPad Air</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tricks-for-terminating-lagging-applications-on-your-windows-11-pc/"><u>Ultimate Tricks for Terminating Lagging Applications on Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unraveling-the-threat-how-windows-updates-can-be-manipulated-to-reverse-security-fixes/"><u>Unraveling the Threat: How Windows Updates Can Be Manipulated to Reverse Security Fixes</u></a></li>
 </ul></div>
 

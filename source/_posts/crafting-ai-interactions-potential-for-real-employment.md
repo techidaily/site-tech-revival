@@ -1,7 +1,7 @@
 ---
 title: "Crafting AI Interactions: Potential for Real Employment?"
-date: 2024-10-21T17:00:09.225Z
-updated: 2024-10-28T07:44:01.030Z
+date: 2024-10-30T23:56:02.414Z
+updated: 2024-11-02T18:55:57.305Z
 tags:
   - chatgpt
   - open-ai
@@ -39,10 +39,10 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
@@ -50,10 +50,10 @@ False news can be categorized into three types:
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -67,19 +67,20 @@ Here's the fictitious article that ChatGPT came up with:
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -107,13 +108,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -147,19 +141,16 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-conveniently-keep-your-linkedin-videos-with-these-6-apps-for-2024/"><u>[New] Conveniently Keep Your LinkedIn Videos with These 6 Apps for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-cutting-edge-design-aids-no-cost-premier-prestige/"><u>[New] In 2024, Cutting-Edge Design Aids No-Cost Premier Prestige</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-17-software-selections-for-background-extraction/"><u>[New] Premier 17 Software Selections for Background Extraction</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-imitation-ingenuity-generating-parodies-of-films-for-2024/"><u>[Updated] Imitation Ingenuity Generating Parodies of Films for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-petite-plot-puzzle-piece/"><u>[Updated] Petite Plot Puzzle Piece</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-multi-video-watching-on-youtube/"><u>[Updated] The Ultimate Guide to Multi-Video Watching on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-compelling-podcast-intros-tips-and-samples/"><u>2024 Approved Crafting Compelling Podcast Intros Tips & Samples</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-it-when-roku-closed-captioning-wont-turn-on/"><u>How to Fix It When Roku Closed Captioning Won't Turn On</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-best-gpt-enhancements-your-plugin-guide-1-9/"><u>The Best GPT Enhancements – Your Plugin Guide (#1-9)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-collective-opinion-of-10-prominent-global-tech-figures-on-the-future-of-ai/"><u>The Collective Opinion of 10 Prominent Global Tech Figures on the Future of AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-double-edged-sword-of-chatgpt-for-enhancing-your-writing-artistry/"><u>The Double-Edged Sword of ChatGPT for Enhancing Your Writing Artistry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-hidden-risks-of-installing-chatgpt-from-your-macs-app-store/"><u>The Hidden Risks of Installing ChatGPT From Your Mac's App Store</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-insightful-guide-to-understanding-ai-transfer-learning-functions/"><u>The Insightful Guide to Understanding AI Transfer Learning Functions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-operating-chatgpt-on-a-macbook-or-imac/"><u>The Ultimate Guide to Operating ChatGPT on a MacBook or iMac</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-conquer-youtube-creator-studio-a-comprehensive-guide/"><u>[Updated] 2024 Approved Conquer YouTube Creator Studio A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-clearing-tactics-for-youtubes-stored-video-queue/"><u>[Updated] In 2024, Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-king-of-construction-showdown-thieye-t5-or-sjcam-s6/"><u>[Updated] In 2024, King of Construction Showdown Thieye T5 or SJCAM S6?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/drm-free-ebooks-steps-to-unlock-drm-protection-on-pdf-pages/"><u>DRM-Free eBooks: Steps to Unlock DRM Protection on PDF Pages</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-guide-to-transforming-your-high-quality-flac-audio-tracks-into-free-mp3-versions/"><u>Easy Guide to Transforming Your High-Quality Flac Audio Tracks Into Free MP3 Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-switching-from-a-chinese-prc-smartphone-to-global-gsm-standard/"><u>Easy Guide: Switching From a Chinese PRC Smartphone to Global GSM Standard</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-gmail-management-strategies/"><u>Effective Gmail Management Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-reading-mastering-the-art-of-using-amazons-kindle-reader-on-your-computer/"><u>Effortless Reading: Mastering the Art of Using Amazon's Kindle Reader on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-10-techniques-every-amazon-kindle-fire-user-should-master/"><u>Essential 10 Techniques Every Amazon Kindle Fire User Should Master</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-protective-iphone-se-skins-and-covers-2024-edition/"><u>Top-Rated Protective iPhone SE Skins and Covers - 2024 Edition</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/vospolzujtes-legkim-metodom-preobrazovaniya-zhestkogo-diska-v-ssd-na-windows-11-dva-effektivnyh-sposoba/"><u>Воспользуйтесь Легким Методом Преобразования Жесткого Диска В SSD На Windows 11: Два Эффективных Способа</u></a></li>
 </ul></div>
 
