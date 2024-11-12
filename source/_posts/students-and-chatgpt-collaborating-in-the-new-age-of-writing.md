@@ -1,7 +1,7 @@
 ---
 title: "Students and ChatGPT: Collaborating in the New Age of Writing"
-date: 2024-10-30T06:53:50.057Z
-updated: 2024-11-03T06:58:04.598Z
+date: 2024-11-08T07:48:45.710Z
+updated: 2024-11-11T21:38:09.950Z
 tags:
   - chatgpt
   - open-ai
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
  Despite these nuances, ChatGPT and Bing execute similar functions. With the correct prompts, they could write essays, answer general knowledge queries, recap books, and scrutinize arguments, among other tasks. Just expect varied responses based on their trained datasets.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Conversational Language
 
  ChatGPT and Bing both use the GPT model. This advanced natural language processing (NLP) system responds to prompts with human-like text. It answers follow-up questions, analyzes problems, and challenges non-factual statements.
@@ -48,6 +41,19 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
  Take the below conversation from ChatGPT as an example. While its language model, the GPT-3.5, generates grammatically correct and factual statements, it sounds stiff and awkward.
 
 ![Having a Casual, Normal Conversation With ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-normal-conversation.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  On the other hand,[Bing AI uses GPT-4](https://blogs.bing.com/search/march%5F2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4) , an iteration of ChatGPT’s language model. Its output sounds casual and genuine.
 
@@ -61,23 +67,9 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 ![Asking ChatGPT About Its Launch Date](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-making-precise-answers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Whereas Bing AI’s advanced language model and integrated search engine produce more reliable, precise data. Unlike ChatGPT, Microsoft didn’t train Bing on limited datasets. Instead, it uses its search engine to pull timely, relevant information about world events and general knowledge questions.
 
 ![Asking Bing AI About ChatGPT Launch](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-giving-precise-dates.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s also worth noting that Bing's AI cites sources. Neither platform guarantees 100% accuracy, but knowing which resources to double-check streamlines fact-checking.
 
@@ -91,15 +83,28 @@ thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5
 
 ![ChatGPT Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solving-physics-questions.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Bing AI answers the same physics question correctly.
 
 ![Bing AI Solving Physics Question About Deadlifts of Lamar Grant](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/bing-ai-solving-physics-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Security Measures
@@ -115,10 +120,10 @@ Bing AI answers the same physics question correctly.
 ![Bing AI Ends Conversation for Security](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bingai-security-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Accessibility
@@ -137,13 +142,20 @@ Bing AI answers the same physics question correctly.
 
 ![Bing AI Welcome Upon Getting Approved](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-ai-introduction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Thankfully, Microsoft since lifted the waitlist. Users gain instant access after creating an email account and downloading Microsoft Edge.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Functionality
@@ -151,16 +163,10 @@ Bing AI answers the same physics question correctly.
 ![Setting Custom Instructions for Prompts on ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/custom-instructions-on-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Bing's AI bot has a more advanced language model and broader dataset, boosting its functionality over ChatGPT. It even uses its search engine before responding. You can expect to get more accurate, reliable responses and up-to-date information.
@@ -210,18 +216,22 @@ Bing AI answers the same physics question correctly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-a-peek-at-the-cutting-edge-features-for-windows-users/"><u>[Updated] In 2024, A Peek at the Cutting-Edge Features for Windows Users</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-elevate-your-social-presence-proven-methods-for-fb-fan-expansion/"><u>[Updated] In 2024, Elevate Your Social Presence Proven Methods for FB Fan Expansion</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-insightful-steps-to-identify-your-viewers-for-2024/"><u>[Updated] Insightful Steps to Identify Your Viewers for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-inflexibility-in-gpt-customization/"><u>Demystifying the Inflexibility in GPT Customization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/explore-how-to-access-chatgpt-on-ios-devices-with-their-latest-app-release/"><u>Explore How to Access ChatGPT on iOS Devices with Their Latest App Release</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-tailoring-humor-personalize-with-kinemaster/"><u>In 2024, Tailoring Humor Personalize with KineMaster</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-ultimate-action-camera-for-gamers-and-sports-enthusiasts-xs-100-is-take/"><u>In 2024, The Ultimate Action Camera for Gamers & Sports Enthusiasts - XS 100 I's Take</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpt-a-comprehensive-guide-for-apple-enthusiasts/"><u>Leveraging ChatGPT: A Comprehensive Guide for Apple Enthusiasts</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/macrium-reflectos-for-ssd/"><u>Macrium Reflectを使った効果的なOSインストール方法 for SSD | 代わりに良いアプローチ</u></a></li>
-<li><a href="https://win-web.techidaily.com/top-5-workarounds-fur-die-nicht-funktionierende-offline-funktion-von-apple-music/"><u>Top-5 Workarounds Für Die Nicht Funktionierende Offline-Funktion Von Apple Music</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-advanced-capabilities-in-chatgpt-tutorial-for-beta-web-navigation-tools/"><u>Unlocking Advanced Capabilities in ChatGPT: Tutorial for Beta Web Navigation Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/whats-the-wordcharacter-threshold-for-gpt-3-responses/"><u>What's the Word/Character Threshold for GPT-3 Responses?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-are-new-sign-ups-closed-for-chatgpt-insights-and-expected-reopening-dates/"><u>Why Are New Sign-Ups Closed for ChatGPT? Insights and Expected Reopening Dates</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-taming-echoes-syncing-voices-to-obs-channel/"><u>[New] 2024 Approved Taming Echoes Syncing Voices to OBS Channel</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-vertical-video-magic-adjusting-instagram-feed-with-final-cut-pro-x/"><u>[New] In 2024, Vertical Video Magic Adjusting Instagram Feed with Final Cut Pro X</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-unknown-to-iconic-the-journey-of-viral-instagram-films/"><u>[Updated] 2024 Approved From Unknown to Iconic The Journey of Viral Instagram Films</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-productivity-with-auto-gpt-a-guide-to-implementing-8-key-techniques/"><u>Boost Productivity with Auto-GPT: A Guide to Implementing 8 Key Techniques</u></a></li>
+<li><a href="https://facebook.techidaily.com/break-time-unveiling-instagrams-plea-for-digital-detox/"><u>Break Time: Unveiling Instagram's Plea for Digital Detox</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-ai-verification-applications-for-teachers-lecturers-and-bosses-to-spot-fake-gpt-content/"><u>Essential AI Verification Applications for Teachers, Lecturers, and Bosses to Spot Fake GPT Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-artificial-intelligence-vocabulary-uncover-the-meaning-of-key-ai-terms/"><u>Essential Artificial Intelligence Vocabulary: Uncover the Meaning of Key AI Terms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-secure-is-the-chatgpt-platform-from-cybersecurity-perspectspective/"><u>How Secure Is the ChatGPT Platform From Cybersecurity Perspectspective?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-tap-into-chatgpts-potential-top-7-reasons/"><u>How to Tap Into ChatGPT's Potential: Top 7 Reasons</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-motorola-moto-g34-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Motorola Moto G34 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-with-your-ubuntu-terminal-a-step-by-step-guide/"><u>Integrating ChatGPT with Your Ubuntu Terminal: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-bypass-6-critical-prompt-mistakes-for-better-ai-interaction/"><u>Mastering ChatGPT: Bypass 6 Critical Prompt Mistakes for Better AI Interaction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-speaking-clarity-in-vr-expert-advice-for-utilizing-the-meta-quest-microphone-effectively/"><u>Maximizing Speaking Clarity in VR: Expert Advice for Utilizing the Meta Quest Microphone Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-for-syncing-a-subwoofer-and-enhancing-soundscape-on-samsungs-soundbar/"><u>The Complete Walkthrough for Syncing a Subwoofer and Enhancing Soundscape on Samsung's Soundbar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-savvy-users-manual-to-leveraging-chatgpt-technology-on-both-android-and-ios-platforms/"><u>The Savvy User's Manual to Leveraging ChatGPT Technology on Both Android and iOS Platforms</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-fixing-civilization-vi-install-issues-on-windows-10/"><u>Troubleshooting Guide: Fixing Civilization VI Install Issues on Windows 10</u></a></li>
 </ul></div>
 

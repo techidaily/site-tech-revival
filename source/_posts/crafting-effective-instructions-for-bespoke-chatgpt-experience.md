@@ -1,7 +1,7 @@
 ---
 title: Crafting Effective Instructions for Bespoke ChatGPT Experience
-date: 2024-10-27T22:57:12.432Z
-updated: 2024-11-02T16:40:18.179Z
+date: 2024-11-07T18:51:47.928Z
+updated: 2024-11-12T02:49:25.257Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  Clearly, this isn't what's being reported so widely across the web – so what's really going on here?
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Do AI-Generated Windows 11 Keys Actually Work?
@@ -50,10 +50,16 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  Unsurprisingly, it turns out ChatGPT and Bard are providing default keys for Windows operating systems. With a default key, you can download, install and even upgrade to specific versions of Windows–but there’s a catch. Default keys cannot activate Windows 11 or any other version of the OS.
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Even AI-Generated Activation Keys Work, They're a Bad Idea
@@ -67,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
  Using free or[cheap Windows activation keys is risky business](https://www.makeuseof.com/risks-using-cheap-windows-activation-keys/) and raises several ethical questions. Above all, even if you manage to generate a working activation key with ChatGPT, it’s illegal to use it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Don’t Believe Everything You Read Online
@@ -94,20 +100,17 @@ thumbnail: https://thmb.techidaily.com/bed3a8fbbe4c6c5bbdded3f73edc2505580ffc686
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/rim-transform-and-triumph-advanced-techniques-in-youtube-edits/"><u>[New] Trim, Transform, and Triumph Advanced Techniques in Youtube Edits</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-behind-the-screen-samsung-ue590-4k-freesync-analysis/"><u>[Updated] Behind the Screen Samsung UE590 4K, FreeSync Analysis</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-tracking-your-creative-spark-with-google-images-art/"><u>2024 Approved Fast-Tracking Your Creative Spark with Google Images Art</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-honor-90-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-unpacking-and-managing-rar-archives-in-linux/"><u>Comprehensive Guide: Unpacking and Managing .rar Archives in Linux</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/engage-in-conversation-how-openai-upgraded-chatgpt-to-understand-prompts-audibly/"><u>Engage in Conversation: How OpenAI Upgraded ChatGPT to Understand Prompts Audibly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-siri-and-popular-apps-with-apples-advanced-ai-capabilities/"><u>Enhancing Siri & Popular Apps with Apple's Advanced AI Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-upgrade-to-windows-11-step-by-step-instructions-and-tips/"><u>Free Upgrade to Windows 11: Step-by-Step Instructions and Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-intel-iris-xe-driver-for-windows-11-free-and-new/"><u>Get Your Intel Iris Xe Driver for Windows 11 – Free & New!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-melody-and-movement-perfecting-sounds-in-imovie/"><u>In 2024, Melody and Movement Perfecting Sounds in iMovie</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-intel-wireless-ac-9560-driver-software-upgrade/"><u>Latest Intel Wireless AC 9560 Driver Software Upgrade</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-stat-in-linux-a-comprehensive-guide/"><u>Mastering 'Stat' In Linux: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/organizing-success-with-microsoft-word-a-step-by-step-guide-to-crafting-your-own-digital-bullet-journal-for-goal-achievement/"><u>Organizing Success with Microsoft Word: A Step-by-Step Guide to Crafting Your Own Digital Bullet Journal for Goal Achievement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/patching-perfection-microsoft-resolves-issues-in-latest-windows-10-and-11-update-releases/"><u>Patching Perfection: Microsoft Resolves Issues in Latest Windows 10 & 11 Update Releases</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1725286288653-windows-11avi/"><u>Windows 11に対応した無料のAVI動画プレイヤー - コーデック不要でスムーズ再生</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-kingdoms-collide-ranking-top-7-total-war-historical-games/"><u>[New] Kingdoms Collide Ranking Top 7 Total War Historical Games</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boosting-your-igtv-influence-techniques-to-amplify-audience-size/"><u>[Updated] In 2024, Boosting Your IGTV Influence Techniques to Amplify Audience Size</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-merge-easy-to-use-skype-with-advanced-zoom-features/"><u>[Updated] Merge Easy-to-Use Skype with Advanced Zoom Features</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-revolutionize-your-editing-approach-with-these-top-methods-in-obs-studio/"><u>2024 Approved Revolutionize Your Editing Approach with These Top Methods in OBS Studio</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fix-video-troubles-on-computers-with-these-proven-methods-top-8/"><u>Fix Video Troubles on Computers with These Proven Methods (Top 8)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/flash-video-playback-on-various-ipads-ipad-air-mini-and-classic-versions/"><u>Flash Video Playback on Various iPads - iPad Air, Mini, and Classic Versions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-unlimited-downloads-of-films-tv-episodes-songs-for-on-the-go-entertainment/"><u>Get Unlimited Downloads of Films, TV Episodes, Songs for On-The-Go Entertainment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-play-and-convert-your-divx-videos-on-any-device/"><u>How to Play & Convert Your DivX Videos on Any Device</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transfer-your-dvd-content-onto-a-windows-pc-or-mac-step-by-step-guide/"><u>How to Transfer Your DVD Content Onto a Windows PC or Mac: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grip-it-right-tips-for-eliminating-jitter-in-action-cam-movies/"><u>In 2024, Grip It Right Tips for Eliminating Jitter in Action Cam Movies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unrivaled-tag-analyzers-your-key-to-hashtag-success-fbtwitterinsta/"><u>In 2024, Unrivaled Tag Analyzers Your Key to Hashtag Success (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-troubles-how-to-repair-and-restore-headphone-connection/"><u>Windows 10 Audio Troubles: How to Repair and Restore Headphone Connection</u></a></li>
 </ul></div>
 

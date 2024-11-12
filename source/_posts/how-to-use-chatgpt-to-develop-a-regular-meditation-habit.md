@@ -1,7 +1,7 @@
 ---
 title: How to Use ChatGPT to Develop a Regular Meditation Habit
-date: 2024-09-11T19:31:49.783Z
-updated: 2024-09-12T19:31:49.783Z
+date: 2024-11-06T21:19:15.729Z
+updated: 2024-11-12T00:11:10.595Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Install Llama 2 Locally
 
  There are many reasons why people choose to run Llama 2 directly. Some do it for privacy concerns, some for customization, and others for offline capabilities. If you're researching, fine-tuning, or integrating Llama 2 for your projects, then accessing Llama 2 via API might not be for you. The point of running an LLM locally on your PC is to reduce reliance on[third-party AI tools](https://www.makeuseof.com/best-ai-web-apps/) and use AI anytime, anywhere, without worrying about leaking potentially sensitive data to companies and other organizations.
@@ -38,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
  With that said, let's begin with the step-by-step guide to installing Llama 2 locally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 1: Install Visual Studio 2019 Build Tool
@@ -54,26 +47,13 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
 2. Now install Visual Studio 2019, then open the software. Once opened, tick the box on**Desktop development with C++** and hit install.  
 ![Install-Desktop-Development-With-C++](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/2-install-desktop-development-with-c.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that you have Desktop development with C++ installed, it's time to download the Text-Generation-WebUI one-click installer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 2: Install Text-Generation-WebUI
@@ -91,19 +71,35 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
    * for Linux,**start\_linux** shell script.  
    ![Select operating system](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/4-select-operating-system.jpg)
 3. Your anti-virus might create an alert; this is fine. The prompt is just an[antivirus false positive](https://www.makeuseof.com/what-is-antivirus-false-result/) for running a batch file or script. Click on**Run anyway** .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. A terminal will open and start the setup. Early on, the setup will pause and ask you what GPU you are using. Select the appropriate type of GPU installed on your computer and hit enter. For those without a dedicated graphics card, select**None (I want to run models in CPU mode)** . Keep in mind that running on CPU mode is much slower when compared to running the model with a dedicated GPU.  
 ![Selecting GPU hardware installed](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/5-select-gpu-settings.jpg)
 5. Once the setup is complete, you can now launch Text-Generation-WebUI locally. You can do so by opening your preferred web browser and entering the provided IP address on the URL.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![How to launch-Text-Generation-WebUI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/6-launch-text-generation-webui.jpg)
 6. The WebUI is now ready for use.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Text-Generation-WebUI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/7-text-generation-webui-view.jpg)
 
  However, the program is only a model loader. Let's download Llama 2 for the model loader to launch.
@@ -121,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/06a98345ca9fe3e1a93c5ec4e7a6ce9ab8cdccc3c
  Note that some models may be arranged differently and may not even have the same types of information displayed. However, this type of naming convention is fairly common in the[HuggingFace](https://www.makeuseof.com/what-is-hugging-face-and-what-is-it-used-for/) Model library, so it's still worth understanding.
 
 ![HuggingFace model naming convention](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/10/huggingface-model-naming-convention-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In this example, the model can be identified as a medium-sized Llama 2 model trained on 13 billion parameters optimized for chat inferencing using a dedicated CPU.
 
@@ -160,27 +149,7 @@ Now, let's begin the configuration phase.
 4. To use the model, open the Chat tab and start testing the model.  
 ![Testing Llama 2 locally](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/12-testing-llama-2-locally.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Congratulations, you've successfully loaded Llama2 on your local computer!
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Try Out Other LLMs
 
@@ -199,5 +168,24 @@ Now, let's begin the configuration phase.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>[New] 2024 Approved Huawei's Built-In Recorder Screen Capture for Mate and P Series</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-endorsed-asmr-microphones-unveiled/"><u>[New] In 2024, Expert-Endorsed ASMR Microphones Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-techniques-for-android-videography/"><u>[New] Spotlight Techniques for Android Videography</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725284133067-winxvideo-ai/"><u>画質改善:Winxvideo AIで動画アップスケールする具体的な方法</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205038782-breeze-through-windows-11s-persistent-restart-issue-easy-solutions-inside/"><u>Breeze Through Windows 11'S Persistent Restart Issue - Easy Solutions Inside</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-steps-to-transform-your-dvd-into-divx-files-on-windows-or-macos-systems/"><u>Easy Steps to Transform Your DVD Into DivX Files on Windows or macOS Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-download-topaz-video-enhance-ai-version-522-no-hack-required/"><u>Free Download: Topaz Video Enhance AI Version 5.2.2 - No Hack Required</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/gentle-request-for-a-greater-genuine-community-for-2024/"><u>Gentle Request for a Greater, Genuine Community for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-lossless-mp4-reduction-preserving-excellence-in-size-and-clarity/"><u>Guide to Lossless MP4 Reduction - Preserving Excellence in Size and Clarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-transform-vob-files-into-mp4-format-a-comprehensive-guide-for-windows-and-macos/"><u>How to Transform VOB Files Into MP4 Format: A Comprehensive Guide for Windows and macOS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-monitor-mastery-a-complete-rundown-of-acquiring-an-eye-catching-4k-screen/"><u>In 2024, Monitor Mastery A Complete Rundown of Acquiring an Eye-Catching 4K Screen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/m4v3g2-online-movavi/"><u>M4V/3G2 비디오를 무료로 Online 변환 - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-codecs-a-comprehensive-review-of-the-best-tools-for-converting-x265-to-x264-videos-with-step-by-step-tutorials/"><u>Mastering Codecs: A Comprehensive Review of the Best Tools for Converting X2^65 to X2^64 Videos with Step-by-Step Tutorials</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-your-iphones-past-purchase-our-proven-data-recovery-solutions/"><u>Revive Your iPhone's Past – Purchase Our Proven Data Recovery Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-fixes-resolving-your-pcs-inability-to-connect-in-windows-11/"><u>Simple Fixes: Resolving Your PC's Inability to Connect in Windows 11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rt-of-featured-channels-an-in-depth-exploration-for-maximizing-engagement-for-2024/"><u>The Art of Featured Channels An In-Depth Exploration for Maximizing Engagement for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-logiciels-de-compression-video-pour-diminuer-la-taille-des-fichiers-guide-expert/"><u>Top Logiciels De Compression Vidéo Pour Diminuer La Taille Des Fichiers : Guide Expert</u></a></li>
+</ul></div>
 

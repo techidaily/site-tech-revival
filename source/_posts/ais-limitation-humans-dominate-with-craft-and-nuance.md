@@ -1,7 +1,7 @@
 ---
 title: "AI's Limitation: Humans Dominate with Craft and Nuance"
-date: 2024-11-02T06:45:55.088Z
-updated: 2024-11-02T18:28:48.560Z
+date: 2024-11-09T21:03:28.008Z
+updated: 2024-11-12T01:09:06.548Z
 tags:
   - chatgpt
   - open-ai
@@ -42,18 +42,18 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
 ![ChatGPT Plus image input feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/chatgpt-plus-image-input-feature.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Image Credit: Handwriting by Dan4th Nicholas/[Flickr](http://www.flickr.com/photos/dan4th/)
 
  GPT-4 best feature is its image input options. You can throw in your doctor's unreadable prescriptions and ask ChatGPT to read and translate them. As expected, it will do it for you quite precisely. But that's not all—you can use this feature for all sorts of purposes, i.e., asking ChatGPT to describe the image.
 
  You can also use this picture to understand handwritten documents you've scanned or have a picture of. You can even insert a picture of a spreadsheet and ask ChatGPT to make calculations based on the data it has acquired or suggest improvements to the spreadsheet's layout.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Internet Access
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
  Internet access lets you summarize articles, conduct up-to-date market research, and find recent news stories and papers. ChatGPT can also access a wider dataset and deliver more accurate responses. So, with the $20/month subscription, the knowledge cutoff is no longer a problem.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. DALL·E 3 Art Creation
@@ -78,11 +78,32 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
 ![DALL-E 3 and GPT-4 story writing skill](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-and-gpt-4-story-writing-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the story was complete, it automatically took all those DALL·E 3 prompts from above, generated images, and presented them to me.
 
 ![​​​​​​​DALL·E 3 book illustrations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/dall-e-3-book-illustrations.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This is how easy it has become to write a story and have beautiful illustrations! Again, if something makes the $20/month ChatGPT Plus subscription seem cheap and extremely valuable, it's definitely the combo of DALL·E 3 and GPT-4.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Plugin Access
 
@@ -93,10 +114,10 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
  Each plugin serves a different purpose. For example, you can use the Kayak plugin to book a trip abroad, the Instacart plugin to plan meals and buy ingredients, or interact with apps like Google Sheets and Gmail using Zapier. Some plugins can be buggy or slow, but it'll be interesting to see how useful they are once the kinks are ironed out.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Advanced Data Analytics
@@ -107,29 +128,22 @@ thumbnail: https://thmb.techidaily.com/0e3580ccebe105ec59bd0096cd99a066bfc6309ad
 
 ![Advanced data analysis ChatGPT prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/advanced-data-analysis-chatgpt-prompt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After it's uploaded, you can ask ChatGPT what you'd like it to do with the data, and it will oblige. I uploaded a random CSV and asked it to create visuals.
 
 ![Data visualized by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/data-visualized-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Whether you're a small business owner or just play with data in spreadsheets, this feature can help you make data-driven decisions. You can upload your account books and ask ChatGPT not only to visualize the data for you but also to give you valuable insights into what needs improvement in your business.
 
 ## 7\. Impressive Stability
 
 ![GPTPlus vs GPT3.5](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gptplus-vs-gpt3-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The free[ChatGPT has its fair share of big problems](https://www.makeuseof.com/openai-chatgpt-biggest-probelms/) , but downtime is by far the most important one. Although the situation is much better now than it was when it was first launched, the free version can still go down anytime. OpenAI's servers sometimes have trouble keeping up with the incredibly high demand.
 
@@ -145,31 +159,11 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
  A problem with the free version is that it often stops responding, forcing you to regenerate the answers. This happens multiple times throughout a session. You won't have to worry about this with the Plus version. If you rely on ChatGPT for work, upgrading to ChatGPT Plus is a great way to save time waiting for the free version to respond.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Better Translation Capabilities
 
  Since GPT-4 is trained on a larger data set, it is much better at responding to non-English prompts. It does a good job of responding almost like a person who understands linguistic patterns, nuances, and cultural context. GPT-3.5 has decent translation capabilities, but GPT-4 is better as it's more likely to generate accurate and coherent responses.
 
  You also get access to multiple plugins that can help with your language-learning journey. The new Speak plugin is an excellent example of this. It helps you pronounce certain phrases, gives you alternate ways to express the same sentiment, and shows you examples that replicate real-life conversations in any language.
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Plus Is Worth the Upgrade
 
@@ -192,18 +186,19 @@ ChatGPT Plus features two language models—GPT-4 and GPT-3.5.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-strategies-for-stabilizing-drone-footage-for-2024/"><u>[New] Strategies for Stabilizing Drone Footage for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-craft-engaging-visual-narratives-with-soundtrack-integration/"><u>[Updated] In 2024, Craft Engaging Visual Narratives with Soundtrack Integration</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-quick-guide-converting-vimeo-footage-to-eye-catching-gifs/"><u>[Updated] Quick Guide Converting Vimeo Footage to Eye-Catching GIFs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-personalized-commands-unveiled-how-to-leverage-this-innovative-functionality/"><u>ChatGPT's Personalized Commands Unveiled – How to Leverage This Innovative Functionality?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-hidden-benefits-beyond-fun-myai-by-snapchat-transforms-your-digital-world/"><u>Discover the Hidden Benefits: Beyond Fun, MyAI by Snapchat Transforms Your Digital World</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embark-on-thrilling-investigative-adventures-with-these-cuidado-best-ai-driven-murder-mystery-quizzes-to-test-your-detecting-skills/"><u>Embark on Thrilling Investigative Adventures with These Cuidado: Best AI-Driven Murder Mystery Quizzes to Test Your Detecting Skills</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-dark-launch-issue-a-guide-to-resolving-complete-blackout-during-monster-hunter-world-boot/"><u>Fixing the Dark Launch Issue: A Guide to Resolving Complete Blackout During Monster Hunter: World Boot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-protect-yourself-from-chatgpt-related-online-frauds/"><u>How to Protect Yourself From ChatGPT-Related Online Frauds</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>In 2024, The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/pitfalls-to-avoid-when-not-to-trust-chatgpt-with-your-health/"><u>Pitfalls to Avoid: When Not to Trust ChatGPT with Your Health</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ready-for-a-new-iphone-now-expert-guide-selecting-your-perfect-device-from-todays-apple-selection/"><u>Ready for a New iPhone Now? Expert Guide: Selecting Your Perfect Device From Today’s Apple Selection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/scorching-savings-alert-apples-new-m2-macbook-air-on-sale-at-amazon-for-a-steal-at-799-dont-miss-out-pre-october-prime-frenzy/"><u>Scorching Savings Alert: Apple's New M2 MacBook Air on Sale at Amazon for a Steal at $799 – Don’t Miss Out Pre-October Prime Frenzy!</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-secrets-of-video-filter-application-techniques/"><u>Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-comprehensive-look-at-ig-reels-vs-stories/"><u>[Updated] 2024 Approved A Comprehensive Look at IG Reels Vs Stories</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-collection-top-notch-free-meme-designs/"><u>2024 Approved Ultimate Collection Top-Notch FREE Meme Designs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apparition-camera-control-workshop/"><u>Apparition Camera Control Workshop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-impact-demonstrated-through-7-active-use-cases/"><u>ChatGPT's Impact Demonstrated Through 7 Active Use Cases</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-prompts-unveiling-in-the-crypto-sphere/"><u>Essential Prompts Unveiling in the Crypto Sphere</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/harnessing-artificial-intelligence-an-experts-guide-to-utilizing-the-openai-api/"><u>Harnessing Artificial Intelligence: An Expert's Guide to Utilizing the OpenAI API</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-lava-blaze-2-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Lava Blaze 2 5G Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-infinix-hot-40i-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Infinix Hot 40i Phone FRP Lock</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/live-webcam-capture-in-vlc-media-player/"><u>Live Webcam Capture in VLC Media Player</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-ai-assistant-efficiency-the-9-most-important-factors-to-consider-upgrading-to-chatgpt-plus/"><u>Maximize Your AI Assistant Efficiency - The 9 Most Important Factors to Consider Upgrading to ChatGPT Plus</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-cut-mp4-videos-for-free-top-10-editor-recommendations/"><u>New In 2024, Cut MP4 Videos for Free Top 10 Editor Recommendations</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-driver-keeps-uninstalling-itself-solved/"><u>Nvidia Driver Keeps Uninstalling Itself [Solved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-for-a-smooth-experience-with-tiny-tinas-wonderlands-pc-patch-details/"><u>Steps for a Smooth Experience with Tiny Tina’s Wonderlands [PC Patch Details]</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpts-defense-mechanisms-against-cybersecurity-risks/"><u>Understanding ChatGPT's Defense Mechanisms Against Cybersecurity Risks</u></a></li>
 </ul></div>
 

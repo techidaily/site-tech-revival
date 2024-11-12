@@ -1,7 +1,7 @@
 ---
 title: What Is NVIDIA's AI Foundations Customizable Generative AI Service and Who Can Use It?
-date: 2024-10-31T17:24:01.531Z
-updated: 2024-11-03T03:39:13.626Z
+date: 2024-11-10T01:03:17.187Z
+updated: 2024-11-12T09:13:54.515Z
 tags:
   - chatgpt
   - open-ai
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  There's a lot to get through, and we don't want you to miss out—so we’ve explored the latest ChatGPT update to see how it will impact your experience with the AI chatbot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. The Arrival of GPT-4 Turbo
 
  Without a doubt, the most significant addition to ChatGPT is the GPT-4 Turbo model. While GPT-4 Turbo is not an entirely new AI model, it features several game-changing improvements, including a larger context window, a more recent cutoff date, improved instruction following abilities, and improved multimodal abilities. How will this impact your ChatGPT experience?
@@ -44,26 +51,26 @@ thumbnail: https://thmb.techidaily.com/772b2b44b0378e57e7141a2aa999a88263926bcf3
 
  Also, ChatGPT Plus users can rejoice—the cumbersome dropdown menu for switching between models will soon be retired. ChatGPT’s upgraded multimodal skills owing to GPT-4 Turbo’s upgrades will allow it to automatically select the optimal model for a given task, goodbye to manual toggling. This improvement may seem minor, but power users will appreciate not having to constantly switch models mid-conversation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Ability to Create Custom GPTs
 
  GPT-4 Turbo’s arrival is big news, but what you’ll perhaps find more exciting is the ability GPTs feature. In its simplest form, custom GPTs allow you to create mini versions of ChatGPT customized for specific purposes. ​I knocked up an example of an extremely basic custom GPT in seconds, asking the model to help me in Football Manager 2024.
 
 ![chatgpt custom gpt model football manager example november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-november-2023.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![chatgpt custom gpt model football manager example with suggestions november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/chatgpt-custom-gpt-model-football-manager-example-with-suggestions-november-2023.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -72,27 +79,20 @@ Close
 
  You could make other custom GPTs as well, like one for movie recommendations primed with a database of films. Then prompt your custom movie bot anytime you want a recommendation. The best part is that you’ll eventually be able to share these specialized GPTs publicly and potentially profit when others find them useful. Custom GPTs allow you to easily customize ChatGPT for specialized purposes beyond its general knowledge without the need to write any code.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Use Pre-Listed GPTs
 
  You can build a custom GPT, or you can choose from a long list of hundreds of pre-built options to supercharge your prompting experience. Since they are optimized for particular functions, you can get even better responses than regular ChatGPT for niche uses. The[pre-built GPTs have already been primed](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) with specialized knowledge to supercharge performance for targeted prompting.
 
 ![list of new integrated chatgpt bots november 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/wm/2023/11/list-of-new-integrated-chatgpt-bots-november-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With so many to select from, you can find a tailored GPT for nearly any purpose you can imagine. Options include a Creative Writing Coach to provide feedback on your work, a Math Mentor to explain complex concepts, and a Trip Planner to craft your perfect vacation. You can even get a Laundry Buddy for stain help or a Game Time assistant to explain the rules for family game night. Each prebuilt option has niche expertise to deliver superior performance for prompts related to its focus area. With this expansive range of GPTs, you can easily find a customized AI with the ideal skills and knowledge to supercharge prompting in your unique domain of interest. GPTs allow you to tap into the power of customized AI without the effort of creating your own.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## ChatGPT’s Evolution Continues
 
@@ -115,20 +115,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-elite-recording-devices-for-livestream-producers-for-2024/"><u>[New] Elite Recording Devices for Livestream Producers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-best-sound-gear-matching-mics-with-4k-cameras/"><u>[New] In 2024, The Best Sound Gear Matching Mics with 4K Cameras</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>[New] Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-offline-ios-game-list-unplugged-fun-awaits-for-2024/"><u>[Updated] Essential Offline iOS Game List - Unplugged Fun Awaits for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-going-viral-in-60-seconds-the-instagram-video-guidebook/"><u>2024 Approved Going Viral in 60 Seconds The Instagram Video Guidebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-anydvd-substitutes-explored-discover-the-most-effective-dvd-conversion-tools/"><u>Best AnyDVD Substitutes Explored: Discover the Most Effective DVD Conversion Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-techniques-for-high-fidelity-audio-extraction-from-mp4-files-using-leading-software-tools/"><u>Expert Techniques for High-Fidelity Audio Extraction From MP4 Files Using Leading Software Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-how-to-seamlessly-add-m2ts-or-mts-videos-to-your-imovie-projects/"><u>Expert Tips: How To Seamlessly Add M2TS or MTS Videos to Your iMovie Projects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guarding-authenticity-openais-anti-cheat-for-gpt-text-generation/"><u>Guarding Authenticity: OpenAI's Anti-Cheat for GPT Text Generation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/imovie-on-mac-comprehensive-tutorial-for-converting-and-importing-mkv-videos/"><u>IMovie on Mac: Comprehensive Tutorial for Converting and Importing MKV Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/macdvd5/"><u>Mac用DVDオーサライズスイートで無敵！上位5つのおすすめ無料ツール👾</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/macos-high-sierra-ultimate-guide-to-download-and-use-mactheripper-dvd-ripper/"><u>MacOS High Sierra: Ultimate Guide to Download and Use MacTheRipper DVD Ripper</u></a></li>
-<li><a href="https://extra-information.techidaily.com/screen-selection-strategies-navigating-ultrawide-and-uhd-4k-worlds/"><u>Screen Selection Strategies Navigating UltraWide & UHD 4K Worlds</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-quintessence-of-chatgpt-in-crypto-land-top-8-plug-ins-explored/"><u>The Quintessence of ChatGPT in Crypto Land – Top 8 Plug-Ins Explored</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-premium-4k-motion-cameras-for-202n-record-high-definition-footage-up-to-30fps/"><u>The Ultimate List of Premium 4K Motion Cameras for 202N - Record High-Definition Footage up to 30Fps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-add-logo-or-watermark-to-youtube-video/"><u>[New] 2024 Approved How to Add Logo or Watermark to YouTube Video</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-youtubes-yummy-1-8-video-selection/"><u>[New] 2024 Approved YouTube's Yummy #1-#8 Video Selection</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exclusive-guide-365-days-of-no-cost-text-files/"><u>2024 Approved Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-insta-cinematography-tips-three-way-borders/"><u>2024 Approved Insta Cinematography Tips Three-Way Borders</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-visual-treasures-top-10-free-image-stores/"><u>2024 Approved Unlocking Visual Treasures – Top 10 FREE Image Stores</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-v27e-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo V27e Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-avi-video-trimming-made-easy-top-16-tools-for-every-device/"><u>New In 2024, AVI Video Trimming Made Easy Top 16 Tools for Every Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/professional-perspective-a-complete-guide-on-sj-cam-s6-for-2024/"><u>Professional Perspective A Complete Guide on SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resetting-samsung-tv-made-easy-a-complete-walkthrough/"><u>Resetting Samsung TV Made Easy - A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-freeware-mkv-video-editors-compatible-with-both-windows-and-macos-systems/"><u>The Ultimate List of Freeware MKV Video Editors Compatible with Both Windows and macOS Systems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-method-for-effortless-dvd-ripping-with-strip-dvds-at-ease/"><u>Top Method for Effortless DVD Ripping with Strip DVDs at Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-dvd-to-avc-transcoding-software-compatible-with-windows-10-and-11-2024-edition/"><u>Top-Rated DVD to AVC Transcoding Software Compatible with Windows 10 & 11 - 2024 Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-indavideo-video-extractor-simple-steps-to-grab-your-favorites/"><u>Top-Rated Indavideo Video Extractor: Simple Steps to Grab Your Favorites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-using-top-rated-dvd-decode-software-on-windows-11/"><u>Ultimate Guide: Using Top-Rated DVD Decode Software on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Dawn of Advanced AI: GPT-4's Introduction"
-date: 2024-09-11T19:32:33.904Z
-updated: 2024-09-12T19:32:33.904Z
+date: 2024-11-06T07:01:06.977Z
+updated: 2024-11-11T22:20:33.589Z
 tags:
   - chatgpt
   - open-ai
@@ -22,29 +22,22 @@ thumbnail: https://thmb.techidaily.com/7d531b56c7d56f3cd7e887d86716c6ff63a79cd13
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## ChatGPT and Smart Technology
 
 ![image of white google smart speaker](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/white-smart-speaker.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Many of us associate ChatGPT with its chatbot interface that's used to get facts,[write resumes](https://www.makeuseof.com/use-chatgpt-to-write-resume/) , translate text, and even tell jokes. ChatGPT can be applied in so many ways, but what about smart technology? Can ChatGPT work with your smartphone, smart speaker, and similar devices?
 
  Let's start with your smartphone. You can, indeed, use ChatGPT on your smartphone in the same way you'd use it on a desktop by simply accessing the tool via your web browser. You can even use ChatGPT on your smartwatch by using certain plugins,
 
  But to make ChatGPT useful in a smart home, things can't stop at one device alone. ChatGPT must be able to recognize and communicate with other smart devices, such as lights, locks, heating, and other appliances. So, is this possible yet?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Can ChatGPT Work In Smart Homes?
 
@@ -65,10 +58,10 @@ thumbnail: https://thmb.techidaily.com/7d531b56c7d56f3cd7e887d86716c6ff63a79cd13
  In the above video, you'll see Josh being asked to open blinds, give the local weather forecast, and even provide sleep advice. Josh also answered more complex questions, like which museums in California feature Andy Warhol. While this is still a work in progress, there's a lot of potential for ChatGPT to show off its skills within smart homes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using ChatGPT to Create a Smart Home Integration
@@ -88,22 +81,15 @@ thumbnail: https://thmb.techidaily.com/7d531b56c7d56f3cd7e887d86716c6ff63a79cd13
 ![chatgpt smart home integration instructions in chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-smart-code-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  With the Home Assistant tool, you can integrate ChatGPT into Google Nest. If you want to integrate into Alexa, ChatGPT offers instructions using the Alexa Skills Kit and AWS Lambda. To integrate into Cortana, ChatGPT can help you use code via the Bot Framework. Evidently, there are a lot of different smart home assistants that can function with ChatGPT's capabilities.
 
  However, you'll need some understanding of software code if you want to personalize ChatGPT's provided code templates quite a lot (e.g. if you want it to work with multiple smart assistants simultaneously).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Using ChatGPT In Your Smart Home
 
@@ -116,16 +102,10 @@ thumbnail: https://thmb.techidaily.com/7d531b56c7d56f3cd7e887d86716c6ff63a79cd13
  But ChatGPT-enabled smart assistants may one day be widespread, allowing you to carry out all sorts of tasks using this nifty AI tool.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT May One Day Control Your Smart Home
@@ -147,5 +127,23 @@ thumbnail: https://thmb.techidaily.com/7d531b56c7d56f3cd7e887d86716c6ff63a79cd13
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>[Updated] 2024 Approved Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-buy-youtube-subscribers-hundreds-of-subscribers-for-5/"><u>[Updated] In 2024, Buy YouTube Subscribers - Hundreds of Subscribers for $5?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-skyrocketing-your-contents-view-count-title-and-tag-mastery-for-2024/"><u>[Updated] Skyrocketing Your Content's View Count Title & Tag Mastery for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024/"><u>「最新トレンド：2024年限定フーくびん完全ガイド！人気ブランドのおすすめとネタばれ事前情報」</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-systems-best-of-the-desk-lineup/"><u>2024 Approved Superior Systems Best of the Desk Lineup</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-finest-9-cross-platform-video-conferencing-apps-for-iphonestablets/"><u>2024 Approved The Finest 9 Cross-Platform Video Conferencing Apps for iPhones/Tablets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/download-dvd-maker-pro-keygen-unlock-ultimate-features-on-windows-10/"><u>Download DVD Maker Pro Keygen: Unlock Ultimate Features on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/experience-unlimited-hd-movie-and-tv-show-playback-with-daplayer-your-free-premium-digital-media-softwares/"><u>Experience Unlimited HD Movie & TV Show Playback with DAPlayer: Your Free Premium Digital Media Softwares!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-11-pro-max-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 11 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-plate-to-screen-perfecting-the-art-of-food-cinema/"><u>In 2024, From Plate to Screen Perfecting the Art of Food Cinema</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-digiarty-software-inc-winxdvd-corporate-overview-and-product-catalog/"><u>In-Depth Look at Digiarty Software, Inc. (WinXDVD) - Corporate Overview & Product Catalog</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/newest-update-for-windows-11-does-spartan-enable-dvdflash-video-support/"><u>Newest Update for Windows 11: Does Spartan Enable DVD/Flash Video Support?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/schritt-fur-schritt-massenkonvertieren-von-videoformaten-unter-verwendung-von-handbrake/"><u>Schritt-Für-Schritt: Massenkonvertieren Von Videoformaten Unter Verwendung Von HandBrake</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-the-problem-of-unresponsive-onlinevideoconvertercom-a-comprehensive-guide/"><u>Solving the Problem of Unresponsive OnlineVideoConverter.com: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-guide-to-instant-signature-bg-removal-for-2024/"><u>Step-by-Step Guide to Instant Signature Bg Removal for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/windows-woes-be-gone-effective-solutions-for-kernel32dll-error-repair/"><u>Windows Woes Be Gone: Effective Solutions for Kernel32.dll Error Repair</u></a></li>
+</ul></div>
 

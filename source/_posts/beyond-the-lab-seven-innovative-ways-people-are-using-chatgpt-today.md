@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Lab: Seven Innovative Ways People Are Using ChatGPT Today"
-date: 2024-09-11T19:33:55.626Z
-updated: 2024-09-12T19:33:55.626Z
+date: 2024-11-09T04:47:23.163Z
+updated: 2024-11-12T07:07:52.563Z
 tags:
   - chatgpt
   - open-ai
@@ -20,18 +20,18 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Access the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-access-the-gpt-store)
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,16 +44,10 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Access the GPT Store
@@ -76,41 +70,27 @@ How do you know when you've been granted access?
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -133,5 +113,24 @@ How do you know when you've been granted access?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-2024s-best-cameras-unveiled-high-quality-videography/"><u>[New] 2024'S Best Cameras Unveiled - High-Quality Videography</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-personalized-instagram-notification-melodies/"><u>[New] Personalized Instagram Notification Melodies</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-twitter-video-converters-to-upload-a-video-for-twitter/"><u>[Updated] Best Twitter Video Converters to Upload a Video for Twitter</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-explore-the-finest-10-free-video-conferencing-services-for-corporates-and-academia-for-2024/"><u>[Updated] Explore the Finest 10 Free Video Conferencing Services for Corporates & Academia for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-infinix-note-30-vip-racing-edition-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Infinix Note 30 VIP Racing Edition to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/activate-funimate-pro-with-a-simple-apk-click/"><u>Activate Funimate Pro with a Simple APK Click</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-ai-the-essentials-of-prompt-engineering-and-job-security/"><u>Crafting AI: The Essentials of Prompt Engineering and Job Security</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-latest-version-of-dall-e-integrated-tools-and-their-developmental-journey/"><u>Exploring the Latest Version of DALL-E: Integrated Tools and Their Developmental Journey</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Hacks to do pokemon go trainer battles For Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-f5-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco F5 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/instantly-boost-your-sites-ai-capabilities-with-these-9-plugins/"><u>Instantly Boost Your Site's AI Capabilities with These 9 Plugins</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/raft-banner-templates-get-them-here/"><u>Minecraft Banner Templates Get Them Here</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/privacy-concerns-with-ai-is-it-safe-to-discuss-sensitive-info-on-chatgpt/"><u>Privacy Concerns with AI: Is It Safe to Discuss Sensitive Info on ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-tips-for-utilizing-chatgpt-in-crafting-video-game-narratives/"><u>Top 6 Tips for Utilizing ChatGPT in Crafting Video Game Narratives</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-and-resolving-the-body-stream-problem-with-chatgpt-top-7-solutions/"><u>Understanding and Resolving the Body Stream Problem with ChatGPT: Top 7 Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-predictive-ai-mechanics-and-applications-for-forecasting-the-future/"><u>Unveiling Predictive AI: Mechanics and Applications for Forecasting the Future</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-before-relying-on-chatgpt-for-your-cryptocurrency-strategies-5-reasons/"><u>Why You Should Think Twice Before Relying on ChatGPT for Your Cryptocurrency Strategies (5 Reasons)</u></a></li>
+</ul></div>
 

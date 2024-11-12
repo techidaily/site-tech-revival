@@ -1,7 +1,7 @@
 ---
 title: "Digital Dictators: Who Controls AI?"
-date: 2024-10-29T05:26:26.245Z
-updated: 2024-11-03T03:47:44.960Z
+date: 2024-11-05T23:16:23.126Z
+updated: 2024-11-12T07:43:48.622Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/7e53aeacfe9180f7bf103bd851c0952fea27590b9
 
 ![enable hey chat hotword](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![set up voice input in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs3.jpg)
 
 ![voice inputs in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/voice-inputs2.jpg)
@@ -67,10 +60,10 @@ Close
  Interestingly, you can also use VoiceGPT as the default device assistant if you want to quickly access the app itself. To do this, tap**Home > Settings > Set default Assistant** . This automatically opens up the device assistance settings—just choose**VoiceGPT** from the list of options available.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Access a Database of Pre-Defined Prompts With VoiceGPT
@@ -84,26 +77,13 @@ Close
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Game prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Fun category prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun2.jpg)
 
@@ -125,6 +105,19 @@ Close
 
 ![Predefined prompts database in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fun3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Coding prompts in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt3.jpg)
 
 ![RunGPT integration for code snippets in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/rungpt1.jpg)
@@ -134,10 +127,10 @@ Close
  For those of us looking to optimize and speed up our coding process workflow or simply learn new[programming techniques with ChatGPT](https://www.makeuseof.com/chatgpt-programming-practical-uses/) , this feature can be helpful.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Generate AI Images With DALL-E 2
@@ -148,11 +141,32 @@ Close
 
 ![Confirmation screen for DALL-E2 in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Dall-e2 interface in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e2.jpg)
 
 ![Image prompts in Dall- E2 using VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/dall-e3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Close
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Extract Text From Images
 
@@ -160,20 +174,13 @@ Close
 
 ![ocr in voicegpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Image editor in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![OCR results generated in VoiceGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/ocr3.jpg)
@@ -181,19 +188,6 @@ Close
 Close
 
  Undoubtedly, this feature can be a powerful time saver for anyone who needs to extract text from various sources, such as business cards, posters, flyers, or receipts. You can also check out[these OCR apps for your smartphone](https://www.makeuseof.com/tag/best-android-ocr-apps-extracting-text-images/) .
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get More Done With ChatGPT via Voice Commands
 
@@ -216,22 +210,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-format-selection-elevating-your-youtube-content-for-2024/"><u>[Updated] The Ultimate Format Selection – Elevating Your YouTube Content for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/44cm5pya5paw5lq65rcx5yuv55s75asj5oplusb44ki44ox44oq57s55lulic0g5yuv55s744oa44km44oz44ot44o844oj44k944ov44oi44ks6kmz44gx44gp6kej6kqs44cn/"><u>「最新人気動画変換アプリ紹介 - 動画ダウンロードソフトを詳しく解説」</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-mastering-the-art-of-editing-on-youtube-a-complete-guide-using-youtubes-built-in-video-editor/"><u>1. Mastering the Art of Editing on YouTube: A Complete Guide Using YouTube's Built-In Video Editor</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-flip-your-video-collection-in-a-flash/"><u>2024 Approved How to Flip Your Video Collection in a Flash</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/macdvdavi-macx-dvd-to-avi-converter-macdvd/"><u>高速にMac用無料DVDをAVI変換する - 利用者から評判の良いMacX DVD to Avi Converter: MacでスムーズなDVDコンバートソフトウェア</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-s23-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy S23 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/compatible-video-file-types-a-comprehensive-guide-for-ipad-pro-and-mini-4-users/"><u>Compatible Video File Types: A Comprehensive Guide for iPad Pro and Mini 4 Users</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/effortless-mealtime-with-arfs-auto-feed-dog-and-cat-food-dispenser/"><u>Effortless Mealtime with Arf's Auto-Feed Dog and Cat Food Dispenser</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/green-screen-templates-free-download-videography-and-filmmaking-for-2024/"><u>Green Screen Templates Free Download – Videography, and Filmmaking for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-resolve-mac-dvd-player-wont-open-problem-with-proven-techniques-for-a-100-success-rate/"><u>How to Resolve 'Mac DVD Player Won't Open' Problem with Proven Techniques for a 100% Success Rate</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-11-pro-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone 11 Pro to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-video-invitation-apps-for-iphone-and-android-for-2024/"><u>New The Ultimate Guide to Video Invitation Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-rated-free-video-editors-for-mp4-files/"><u>New Top-Rated Free Video Editors for MP4 Files</u></a></li>
-<li><a href="https://win11.techidaily.com/overcome-access-denial-five-pivotal-strategies-for-correcting-secure-keys-in-windows/"><u>Overcome Access Denial: Five Pivotal Strategies for Correcting Secure Keys in Windows</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-downloaded-file-management-software-of-2020-comprehensive-review/"><u>Top Downloaded File Management Software of 2020: Comprehensive Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-guide-downloading-and-streaming-your-own-minecraft-adventures/"><u>Ultimate Guide: Downloading and Streaming Your Own Minecraft Adventures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-performance-comparison-gpu-vs-cpu-in-video-encoding-speeds/"><u>Ultimate Performance Comparison: GPU Vs. CPU in Video Encoding Speeds</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-growth-excellence-in-valheim-optimal-seeds-unveiled/"><u>[New] In 2024, Growth Excellence in Valheim Optimal Seeds Unveiled</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-perils-of-faux-youtube-supporter-purchases/"><u>[New] The Perils of Faux YouTube Supporter Purchases</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-transform-your-online-reputation-and-increase-your-social-media-following/"><u>[Updated] 2024 Approved Transform Your Online Reputation and Increase Your Social Media Following</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategies-for-dominating-youtube-search-results-through-seo/"><u>[Updated] Strategies for Dominating YouTube Search Results Through SEO</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-apple-m1-breakdown-a-glimpse-into-the-future-for-2024/"><u>[Updated] The Apple M1 Breakdown A Glimpse Into the Future for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5ysq44km44gf5yuv55s76a6u5pio5yyw44og44kv44ol44od44kvic0g44k344oj44o844ox44gq44ot44oh44kq5yem55cg44gu44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj58/"><u>「優れた動画鮮明化テクニック - シャープなビデオ処理のステップバイステップガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-beginners-tutorial-unveiling-the-secrets-of-mov-files-and-learning-easy-ways-to-open-them/"><u>A Beginner's Tutorial: Unveiling the Secrets of MOV Files & Learning Easy Ways to Open Them</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-web-based-video-editing-tools-top-6-picks/"><u>Best Free Web-Based Video Editing Tools: Top 6 Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-slow-motion-video-software-top-3-platforms-for-viewing-videos-at-a-reduced-speed/"><u>Best Slow Motion Video Software: Top 3 Platforms for Viewing Videos at a Reduced Speed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-tutorial-how-to-get-youcut-video-editing-software-running-on-your-pc-or-mac/"><u>Complete Tutorial: How to Get YouCut Video Editing Software Running on Your PC or Mac</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-strategies-for-leveraging-desktop-utilities-and-applications-in-media-file-handling/"><u>Comprehensive Strategies for Leveraging Desktop Utilities and Applications in Media File Handling</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/groundbreaking-biodegradable-film-technology-advice-for-2024/"><u>Groundbreaking Biodegradable Film Technology Advice for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722994034505-how-the-latest-patch-made-football-manager-nstoppable-in-2020-no-more-crashes/"><u>How the Latest Patch Made Football Manager Nstoppable in 2020 - No More Crashes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/journey-through-the-metaverse-6-illustrative-examples/"><u>Journey Through the Metaverse 6 Illustrative Examples</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-xs-max-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone XS Max? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44kz44oz44ou44ol44o844k44gn5yuv55s744ov44kh44kk44or44ks6zplusz5aow44ov44kh44kk44or44gr6lui5oplusb44gz44kl5oml6acg/"><u>コンピュータで動画ファイルを音声ファイルに転換する手順</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44or44ov44ov44or44oh44kj44os44kv44k44o844gn44ox44os44ot44ol44o855s76z2i44gm6bus44gp44gm6lw35yuv44gx44gq44ge5pa55rov77ya6kej5rg6562w/"><u>パワフルディレクターでプレビュー画面が黒くて起動しない方法：解決策</u></a></li>
 </ul></div>
 

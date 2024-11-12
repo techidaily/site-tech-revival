@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT in Career Planning: Unveiling Top Strategies"
-date: 2024-09-11T19:30:40.985Z
-updated: 2024-09-12T19:30:40.985Z
+date: 2024-11-08T16:11:51.419Z
+updated: 2024-11-11T17:41:11.564Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Mixing Topics In a Single Chat Session
 
  While it may not seem concerning to prompt on diverse topics within the same chat session, it's worth paying attention to. ChatGPT is highly sensitive to context. Each prompt you introduce during a chat session can greatly shape the responses you receive from subsequent prompts.
@@ -42,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/1139b752cbc32f334a7708e871f23f8ed96ff0366
  In the example below, after having a long discussion about the US military, we asked ChatGPT to tell us about some global conflicts, and it only picked those with some form of US participation.
 
 ![ChatGPT context sensitivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-context-sensitivity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Too Many Instructions In a Single Prompt
 
@@ -82,10 +68,23 @@ You could use:
 ![Elon Musk's view on Pizza](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/elon-musk-s-view-on-pizza.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Not Providing Context When Necessary
@@ -101,10 +100,10 @@ You could use:
 ![Translating with context using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/translating-with-context-using-chatgpt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Not Using Examples
@@ -119,13 +118,6 @@ You could use:
 
 ![Lady Gaga and Ed Sheeran Jokes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/lady-gaga-and-ed-sheeran-jokes.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, we gave ChatGPT some examples of how we want our jokes to look. Here's the prompt in the screenshot below:
 
 ![chatgpt prompt with an example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-prompt-with-an-example.jpg)
@@ -134,22 +126,16 @@ You could use:
 
 ![taylor swift joke](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/taylor-swift-joke.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 And here's another one ChatGPT made when we prompted it with Jay-Z.
 
 ![Jay-z joke made by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/jay-z-joke.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Loved the second set of jokes? Well, the moral of the story is to use examples more often.
 
@@ -162,16 +148,10 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
  Specific prompts provide a clearer direction for ChatGPT to follow. It also narrows down the focus of the prompt and provides more relevant information for the model to work with.
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT Is Garbage In, Garbage Out
@@ -191,5 +171,22 @@ And here's another one ChatGPT made when we prompted it with Jay-Z.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-the-art-of-digital-recording-for-gotomeet-sessions/"><u>[New] Mastering the Art of Digital Recording for GoToMeet Sessions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-above-the-mainstage-significant-youtube-meetings/"><u>[Updated] In 2024, Above the Mainstage Significant YouTube Meetings</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-monetizing-popularity-pay-per-million-views/"><u>2024 Approved Monetizing Popularity Pay Per Million Views</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-razers-hd-webcam-thorough-review-guide/"><u>2024 Approved Razer's HD Webcam Thorough Review Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4wmv-windows-10mac/"><u>無損失MP4からWMVへの変換手順 - Windows 10とMacユーザーに最適！</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/compresser-des-videos-de-grand-format-pour-whatsapp-avec-une-perte-minimale-de-qualite-decouvrez-le-guide-ultime/"><u>Compresser Des Videos De Grand Format Pour WhatsApp Avec Une Perte Minimale De Qualité : Découvrez Le Guide Ultime</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/early-bird-special-get-your-discounted-samsung-t5-ssd-before-the-prime-rush-deals-unveiled-by-zdnet/"><u>Early Bird Special: Get Your Discounted Samsung T5 SSD Before the Prime Rush - Deals Unveiled by ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-on-chromebooks-and-zoom-for-2024/"><u>Expert Advice on Chromebooks and Zoom for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-dvd-management-with-winxdvd-authorized-software-for-advanced-dvd-ripping-intelligent-video-upgrades-and-seamless-iphone-data-movement/"><u>Expert DVD Management with WinXDVD: Authorized Software for Advanced DVD Ripping, Intelligent Video Upgrades, and Seamless iPhone Data Movement</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expertentech-supportzentrum-fur-winx-dvd-ripper-und-videokonvertierungssoftware/"><u>Expertentech Supportzentrum Für WinX DVD-Ripper Und Videokonvertierungssoftware</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-mic-failures-tips-and-tricks-for-windows-11-users/"><u>Fixing Mic Failures: Tips and Tricks for Windows 11 Users</u></a></li>
+<li><a href="https://win-great.techidaily.com/macaomei-backupper/"><u>Mac电脑中通过AOMEI Backupper实现简单数据备份方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/metodos-mas-eficaces-para-minimizar-tamanos-de-archivos-video-para-correos-electronicos/"><u>Métodos Más Eficaces Para Minimizar Tamaños De Archivos Video Para Correos Electrónicos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-computer-resources-when-playing-new-world-strategies-for-lowered-cpu-usage/"><u>Optimizing Computer Resources When Playing New World – Strategies for Lowered CPU Usage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-mediatrans-the-ultimate-iphone-and-ipad-photo-music-video-manager-for-seamless-pc-to-mobile-transfer/"><u>WinX MediaTrans™: The Ultimate iPhone & iPad Photo Music Video Manager for Seamless PC to Mobile Transfer</u></a></li>
+</ul></div>
 

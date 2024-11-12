@@ -1,7 +1,7 @@
 ---
 title: How Effective Is Watson in Handling Complex Arithmetic Issues?
-date: 2024-10-31T22:40:39.344Z
-updated: 2024-11-03T00:53:42.723Z
+date: 2024-11-04T22:16:00.775Z
+updated: 2024-11-11T18:44:05.839Z
 tags:
   - chatgpt
   - open-ai
@@ -31,41 +31,21 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  It's safe to say both occupy completely different niches despite being run by AI. It's not much of a race if they're both playing a different sport, is it? We'll dissect some specific differences down below so that you know which is better suited for your purpose.\\
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Real-Time Updates
 
 ![Using Siri on an iPhone on a white table.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/08/siri-on-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You may think ChatGPT is your one-stop shop for anything and everything you need, but there's one major setback you may not be aware of. ChatGPT has absolutely no real-time access to current events, and its knowledge is limited to data from September 2021 and older. So, you will not receive an answer if you try to ask for any sort of update.
 
  For example, if you try to ask the chatbot to tell you today's weather or the date of Queen Elizabeth's death, it will tell you it does not have access to current weather conditions and that Queen Elizabeth is still alive according to its knowledge. Live events and breaking news are also no-shows for ChatGPT.
 
  Siri, on the other hand, can give you real-time updates on the weather and other things like the stock market, and its database is updated regularly, so it does not have a knowledge cutoff as old as ChatGPT does. Siri will immediately tell you the date Queen Elizabeth passed away and what the weather will be like tomorrow.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Engaging in Conversations
 
@@ -91,16 +71,16 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  However, if you want to use ChatGPT with voice and integrate it into your iPhone, there's a way, and we've explained it in detail towards the end of this article.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Executing Basic Commands
 
 ![iOS 16.2 Siri shutdown prompt on iPhone offering the Cancel and Power Off options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/12/apple-ios-16-2-siri-prompt-turn-off-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of the most significant differences between the two emerges when executing tasks. This is where Siri excels, and it's also where its primary purpose lies. As Apple's official virtual assistant, the AI model is here to help make your everyday tasks easier and more efficient.
 
@@ -108,9 +88,29 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  ChatGPT simply does not have the means to integrate with other apps and devices, and it cannot associate itself with any of your smart home devices. It cannot provide you with the current status of any physical object or device, thereby making it useless in this department. Simply put, this is just not the purpose it was built for.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Answering Your Questions
 
 ![A ChatGPT screenshot showing a personalized output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt-personalized-responses.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Siri and ChatGPT both hold power to answer your queries, albeit in slightly different ways. Put forth a question for Siri, and it will give you a short and sweet response.
 
@@ -119,6 +119,13 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
  Apart from the amount of information given, both also differ in the way information is provided. If you pose Siri with an open-ended question or a creative scenario like "What is the Bermuda Triangle?" or "What is a black hole?", the virtual assistant will list relevant web searches and links you can sift through to gain your information on the matter.
 
  When ChatGPT is posed with the same questions, it will do all the hard work for you. It will run through all the data it has and give you a well-formulated answer, so you don't have to spend your time poring over large chunks of text.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use Both Siri and ChatGPT for the Best Results
 
@@ -134,6 +141,13 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![create new secret key for OpenAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/create-new-secret-key.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![copy OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/copy-api-key.jpg)
 
 Close
@@ -147,27 +161,7 @@ Now:
 
 ![english version of ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/english-version-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![set up iOS shortcut](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/set-up-shortcut.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![paste OpenAI API key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/paste-api-key.jpg)
 
@@ -196,22 +190,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-differentiating-between-metaverse-and-multiplemetaverse-worlds-for-2024/"><u>[New] Differentiating Between Metaverse & MultipleMetaverse Worlds for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-enhancing-tiktok-metrics-with-innovative-and-memorable-usernames-for-2024/"><u>[Updated] Enhancing TikTok Metrics with Innovative and Memorable Usernames for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-in-depth-kinetics-evaluation-2023/"><u>2024 Approved In-Depth Kinetics Evaluation 2023</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-office-efficiency-integrating-chatgpt-into-your-daily-work-routine/"><u>Boosting Office Efficiency: Integrating ChatGPT Into Your Daily Work Routine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatting-with-ai-androids-voice-controlled-gpt-explained/"><u>Cha[t]ting with AI? Android's Voice Controlled GPT Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-home-efficiency-top-6-strategies-using-chatgpt/"><u>Enhancing Home Efficiency: Top 6 Strategies Using ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-chatgpts-potential-to-transform-patient-care-and-medical-services/"><u>Exploring ChatGPT's Potential to Transform Patient Care and Medical Services</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v29-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V29 to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-update-your-lenovo-tb3-dock-with-the-latest-driver-support/"><u>How to Update Your Lenovo TB3 Dock with the Latest Driver Support</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/impostor-chatgpt-chrome-add-on-exposes-facebook-accounts/"><u>Impostor ChatGPT Chrome Add-On Exposes Facebook Accounts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-epic-playground-the-top-10-alternatives-to-grand-theft-auto-v/"><u>In 2024, Epic Playground The Top 10 Alternatives to Grand Theft Auto V</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-content-generation-process-with-the-power-of-hix-ai-and-gpt-4/"><u>Revolutionize Your Content Generation Process with the Power of HIX AI & GPT-4</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/srt-manipulation-a-mac-users-ultimate-guidebook/"><u>SRT Manipulation A Mac User's Ultimate Guidebook</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/swift-strategies-for-iphones-and-freeipodcasts-download-techniques-for-2024/"><u>Swift Strategies for iPhones and FreeiPodcasts Download Techniques for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-algorithmic-art-of-romance-ripoffs/"><u>The Algorithmic Art of Romance Ripoffs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-on-how-to-get-started-with-auto-gpt-installation/"><u>The Ultimate Tutorial on How to Get Started with Auto-GPT Installation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-photomagic-studio/"><u>[New] 2024 Approved PhotoMagic Studio</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-unleash-your-fun-with-todays-favorite-tiktoks/"><u>[New] Unleash Your Fun with Today's Favorite TikToks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pivotal-ideas-in-tech-driven-story-weaving/"><u>[Updated] In 2024, Pivotal Ideas in Tech-Driven Story Weaving</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-traditional-student-papers-a-thing-of-the-past-due-to-chatgpt-innovations/"><u>Are Traditional Student Papers a Thing of the Past Due to ChatGPT Innovations?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-nokia-g42-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Nokia G42 5G.</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ating-through-best-youtube-extractors/"><u>Navigating Through Best YouTube Extractors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-wellbeing-objectives-via-ai-insight/"><u>Navigating Wellbeing Objectives via AI Insight</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pre-purchase-checklist-for-choosing-the-right-video-documentation-tool/"><u>Pre-Purchase Checklist for Choosing the Right Video Documentation Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-reducing-warzone-20-lag/"><u>Ultimate Guide: Reducing Warzone 2.0 Lag</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-ai-assistance-seamless-chatgpt-incorporation-in-google-workspace-applications/"><u>Unlocking AI Assistance: Seamless ChatGPT Incorporation in Google Workspace Applications</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-expertly-curated-list-of-premier-audio-trimming-software-websites-for-2024/"><u>Updated Expertly Curated List of Premier Audio Trimming Software Websites for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/who-is-the-legal-keeper-of-ai-assets/"><u>Who Is the Legal Keeper of AI Assets?</u></a></li>
 </ul></div>
 

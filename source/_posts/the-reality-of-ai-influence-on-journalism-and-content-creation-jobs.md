@@ -1,7 +1,7 @@
 ---
 title: The Reality of AI Influence on Journalism & Content Creation Jobs
-date: 2024-10-30T18:04:28.441Z
-updated: 2024-11-03T06:07:24.282Z
+date: 2024-11-10T01:22:49.602Z
+updated: 2024-11-11T18:49:21.105Z
 tags:
   - chatgpt
   - open-ai
@@ -38,16 +38,16 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
 
@@ -76,22 +76,15 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  As you might imagine, GPT\_PPT generates PowerPoint files. The results aren’t always the cleanest, and there’s no way to edit them from within the web page. Fortunately, you can always open them in PowerPoint to edit them yourself and tidy them up. If you already know some of[these advanced Microsoft PowerPoint features that everyone must know](https://www.makeuseof.com/advanced-microsoft-powerpoint-features/) , then making a stunning presentation out of them shouldn’t be hard.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5.[Presentations.AI](https://www.presentations.ai/)
 
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
 
@@ -100,21 +93,22 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6.[ChatBA](https://www.chatba.com)
 
 ![A Screenshot of ChatBA s AI Presentation Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatba-ai-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ChatBA is an online AI presentation generation tool that allows you to quickly and easily create a complete presentation on just about any topic. With ChatBA, all you have to do is input the topic that you want a presentation on and leave the rest to the AI.
 
@@ -122,16 +116,16 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  MagicSlides is a Google Slides add-on that aims to work like ChatGPT for your presentations. To use MagicSlides, all you have to do is enter your topic, though you can also include additional information such as reference material and instructions.
 
@@ -158,19 +152,24 @@ thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-no-video-display-on-sony-a6400-screen/"><u>2024 Approved No Video Display on Sony A6400 Screen</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/best-add-ons-enhance-gpt-experience-within-vs-code-interface/"><u>Best Add-Ons: Enhance GPT Experience Within VS Code Interface</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/cut-screen-claims-is-splitcam-supreme-for-2024/"><u>Cut Screen Claims Is SplitCam Supreme for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-5-ai-tool-assisted-prompt-engineering-applications/"><u>Discover the Ultimate 5 AI Tool Assisted Prompt Engineering Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/humor-by-algorithm-assessing-chatgpts-ability-to-deliver-a-punchline/"><u>Humor by Algorithm: Assessing ChatGPT's Ability to Deliver a Punchline</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcome-chatbot-confusions-learn-these-6-techniques-for-accurate-ai-interpretations-through-skillful-prompt-design/"><u>Overcome Chatbot Confusions - Learn These 6 Techniques for Accurate AI Interpretations Through Skillful Prompt Design</u></a></li>
-<li><a href="https://windows11.techidaily.com/quick-guide-removing-isdonedll-malfunctions-from-windows-11/"><u>Quick Guide: Removing ISDone.dll Malfunctions From Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175719147-slash-heat-in-style-snag-the-deepcool-as5nplus-cpu-air-cooler-from-amazon-for-under-45/"><u>Slash Heat in Style - Snag the DeepCool AS5nplus CPU Air Cooler From Amazon for Under $45.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-moving-your-iphone-films-over-to-a-mac/"><u>Step-by-Step Guide: Moving Your iPhone Films Over to a Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-poets-tool-leveraging-chatgpt-in-verses-writing/"><u>The Poet's Tool: Leveraging ChatGPT in Verses Writing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-pitfalls-in-leveraging-chatgpt-for-crafting-your-content/"><u>Top 4 Pitfalls in Leveraging ChatGPT for Crafting Your Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-video-recording-devices-for-professional-streaming-artists-for-2024/"><u>Top 7 Video Recording Devices for Professional Streaming Artists for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-iphone-is-ignored-by-itunes-on-windows-11/"><u>Troubleshooting Steps When Your iPhone Is Ignored by iTunes on Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-immutable-chatgpt-principle/"><u>Understanding the Immutable ChatGPT Principle</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exploring-the-features-of-asuss-proart-pa-329q-the-ultimate-professional-display/"><u>[Updated] 2024 Approved Exploring the Features of Asus's ProArt PA 329Q – The Ultimate Professional Display</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificially-inspired-creativity-how-to-compose-poetry-books-with-chatgpt/"><u>Artificially Inspired Creativity: How to Compose Poetry Books with ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-chatgpt-anticipating-innovations-in-next-gen-ai-and-bot-conversational-technologies/"><u>Beyond ChatGPT - Anticipating Innovations in Next-Gen AI & Bot Conversational Technologies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-and-replay-top-four-strategies-for-gameplay-recording-for-2024/"><u>Capture & Replay Top Four Strategies for Gameplay Recording for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-crashes-effective-fixes-for-persistent-issues-with-nox-player-pc-edition/"><u>Eliminating Crashes: Effective Fixes for Persistent Issues with Nox Player PC Edition</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enter-the-metaverse-top-tech-must-haves-revealed/"><u>Enter the Metaverse Top Tech Must-Haves Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/eschew-premature-edge-tab-activation-win11-style/"><u>Eschew Premature Edge Tab Activation, Win11 Style</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-on-electronics-by-tom-your-reliable-hardware-source/"><u>Expert Reviews on Electronics by Tom - Your Reliable Hardware Source</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-cutting-edge-tech-insights-with-toms-hardware-guides/"><u>Exploring Cutting-Edge Tech Insights with Tom's Hardware Guides</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-reno-10-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo Reno 10 Pro 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unboxing-pureaudiofinder-a-look-into-the-latest-release/"><u>In 2024, Unboxing PureAudioFinder A Look Into the Latest Release</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-adapt-from-conversations-with-people/"><u>Is It Possible for ChatGPT to Adapt From Conversations with People?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/large-language-models-face-off-which-reigns-supreme-bard-chatgpt-or-offline-alpaca/"><u>Large Language Models Face-Off: Which Reigns Supreme - Bard, ChatGPT or Offline Alpaca?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/local-llm-is-it-the-right-choice-exploring-advantages-and-disadvantages/"><u>Local LLM: Is It the Right Choice? Exploring Advantages & Disadvantages</u></a></li>
+<li><a href="https://fox-making.techidaily.com/mastering-windows-registry-tweaks-the-ultimate-dialog-on-changing-settings/"><u>Mastering Windows Registry Tweaks: The Ultimate Dialog on Changing Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-tips-top-5-gpt-powered-tricks-to-streamline-routine-hr-operations/"><u>Quick Tips: Top 5 GPT-Powered Tricks to Streamline Routine HR Operations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722982170944-steam-remote-play-issues-heres-how-you-can-fix-them-now/"><u>Steam Remote Play Issues? Here's How You Can Fix Them Now</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tp-link-wireless-adapter-drivers-updated-version-compatible-with-windows-11-8-and-7/"><u>TP-Link Wireless Adapter Drivers: Updated Version Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-new-academic-insights-through-the-use-of-4-powerful-ai-research-tools/"><u>Unlock New Academic Insights Through the Use of 4 Powerful AI Research Tools</u></a></li>
 </ul></div>
 

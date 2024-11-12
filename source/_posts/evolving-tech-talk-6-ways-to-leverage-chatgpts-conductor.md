@@ -1,7 +1,7 @@
 ---
 title: Evolving Tech Talk - 6 Ways to Leverage ChatGPT's Conductor
-date: 2024-09-11T19:29:38.214Z
-updated: 2024-09-12T19:29:38.214Z
+date: 2024-11-06T20:05:30.771Z
+updated: 2024-11-12T06:57:55.836Z
 tags:
   - chatgpt
   - open-ai
@@ -47,28 +47,15 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
  For a plugin that advertises itself as a web crawler, the failure rates were extremely high. In fairness, we tried other web scrapper plugins available on the ChatGPT plugin store, and they weren't particularly better at their job either. Need to[scrap data from a web page](https://www.makeuseof.com/tag/what-is-web-scraping/) ? Maybe ChatGPT plugins are not the right tool.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. AppyPie App Builder
 
 ![Appypie App builder on ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/appypie-app-builder-on-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  AppyPie is a popular no-code app-building platform. It's relatively easy to use, and you can deploy fully functional mobile apps in a very short time without having to write a single line of code.
 
@@ -84,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ![AI Agents plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-agents-plugin-on-the-chatgpt-plugin-store.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you go by the definition of an AI agent, it’s easy to get excited about what the “AI Agents” plugin promises to do. The plugin self-describes as a plugin to help you “unleash the power of multiple AIs.” The idea is to take a complex goal, break it into subtasks, and then leverage the power of multiple AI agents specializing in each subtask to achieve the big goal you set for it.
 
  It, at least in theory, is supposed to be able to do something akin to[what AutoGPT does](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) . Unfortunately, irrespective of the complexity of the task we set for it, the plugin couldn't deliver anything.
@@ -91,22 +85,15 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
  It seems it was just applying a few prompt tricks and returning a not-so-enhanced copy of what ChatGPT would provide. There's really no sense of AI agents at work. It doesn't offer anything particularly different from what ChatGPT would do.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. A Movie Please (FilmFindr)
 
 ![FilmFindr plugin on the ChatGPT plugin store](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/filmfindr-plugin-on-the-chatgpt-plugin-store.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The "A Movie Please" plugin is a movie recommendation tool to help ChatGPT users decide what to watch next. Although the plugin is not a dud (it actually makes movie recommendations), you're better off using ChatGPT without the plugin.
 
@@ -115,10 +102,10 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
  For quality movie suggestions, you're better off prompting the base ChatGPT model directly[to decide what to watch next](https://www.makeuseof.com/chatgpt-movie-shows-recommendations/) . By going that route, you'll get far superior results compared to relying on the "A Movie Please" plugin.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ABC Website Maker
@@ -128,19 +115,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
  The ABC website maker promises “conversational coding” where you can build web apps at a moment's notice by simply conversing with the plugin in natural language. In theory, these abilities should be relatively easy to pull off, considering ChatGPT on its own is already an impressive conversational coding tool.
 
  However, when we tasked the plugin with creating a simple portfolio website, the result was underwhelming.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT's Plugin Store: Quantity Over Quality?
 
@@ -161,5 +135,26 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ice-cream-capture-gadget-detailed-examination/"><u>[New] Ice Cream Capture Gadget Detailed Examination</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-20-best-video-editors-compatible-with-dji-videos-for-2024/"><u>[Updated] 20 Best Video Editors Compatible with DJi Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-visual-quality-crusade-is-av1-ahead-in-video-coding-in-2024/"><u>[Updated] Visual Quality Crusade Is AV1 Ahead in Video Coding, In 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avimp4/"><u>無劣化AVIからMP4への変換無料ソフト - オンラインで最適な選び方</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advanced-multimedia-tool-convert-and-edit-videos-effortlessly-with-winx-dvd-ripper-online-platform/"><u>Advanced Multimedia Tool: Convert and Edit Videos Effortlessly with WinX DVD Ripper Online Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ameliorez-votre-streaming-avec-des-astuces-pour-changer-rapidement-des-fichiers-ts-en-format-mp4-premium-10-conseils-essentiels/"><u>Améliorez Votre Streaming Avec Des Astuces Pour Changer Rapidement Des Fichiers .TS en Format MP4 Premium: 10 Conseils Essentiels</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-format-dvd-blu-ray-or-digital-files-whats-your-best-bet/"><u>Choosing the Right Format: DVD, Blu-Ray or Digital Files – What's Your Best Bet?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digiarty-reseau-de-professionnels-pour-vous-connecter-facilement/"><u>Digiarty - Réseau De Professionnels Pour Vous Connecter Facilement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-enhanced-capabilities-of-abbyys-latest-finereader-engine-version-12/"><u>Discover the Enhanced Capabilities of ABBYY's Latest FineReader Engine - Version 12</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-solutions-for-steelseries-arctis-headsets-resolving-the-non-working-mic-conundrum/"><u>Expert Solutions for SteelSeries Arctis Headsets - Resolving the Non-Working Mic Conundrum</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-how-to-freshly-charge-your-ipad-by-replacing-its-battery/"><u>Expert Tips on How to Freshly Charge Your iPad by Replacing Its Battery</u></a></li>
+<li><a href="https://games-able.techidaily.com/revive-and-thrive-with-atlasos-for-old-computers/"><u>Revive and Thrive with ATLASOS for Old Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/riperais-dvds-oficialmente-com-o-winx-dvd-ripper-platino-conversao-simples-e-rapida-de-cd-para-mp4-em-segundos/"><u>Riperáis DVDs Oficialmente Com O WinX DVD Ripper Platino - Conversão Simples E Rápida De CD Para MP4 Em Segundos!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/rise-above-top-tactics-for-a-standout-youtube-live-without-million-followers-for-2024/"><u>Rise Above Top Tactics for a Standout Youtube Live without Million Followers for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-guide-to-captivating-youtube-live-thumbnails/"><u>Step-By-Step Guide to Captivating YouTube Live Thumbnails</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-for-burning-films-onto-discs-at-no-cost-with-pc-or-apple-systems/"><u>Step-by-Step Tutorial for Burning Films Onto Discs at No Cost with PC or Apple Systems</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-crucial-role-of-it-departments-in-shaping-modern-customer-journeys-a-perspective-by-zdnet/"><u>The Crucial Role of IT Departments in Shaping Modern Customer Journeys: A Perspective by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-tips-for-shrinking-your-mkv-videos-the-five-most-effective-strategies/"><u>Ultimate Tips for Shrinking Your MKV Videos: The Five Most Effective Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/von-physischen-zu-digitalen-videodateien-konvertieren-sie-ihre-dvd-aufnahmen-mithilfe-von-windows-10-und-mac-os-x/"><u>Von Physischen Zu Digitalen Videodateien: Konvertieren Sie Ihre DVD-Aufnahmen Mithilfe Von Windows 10 Und Mac OS X</u></a></li>
+</ul></div>
 

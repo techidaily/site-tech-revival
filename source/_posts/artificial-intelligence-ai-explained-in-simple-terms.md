@@ -1,7 +1,7 @@
 ---
 title: Artificial Intelligence (AI) Explained in Simple Terms
-date: 2024-11-01T04:02:18.852Z
-updated: 2024-11-02T20:27:33.328Z
+date: 2024-11-11T01:22:05.053Z
+updated: 2024-11-12T08:13:56.998Z
 tags:
   - chatgpt
   - open-ai
@@ -28,10 +28,10 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
  When Google launched Bard in March 2023, there were many reasons to be excited. Finally, OpenAI's ChatGPT monopoly would be broken, and we'd get worthy competition.
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is Google's Gemini AI Model?
 
@@ -63,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/b458df85a4bb141857a3c4d2de6e35b07f50e405e
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Google Gemini AI
 
@@ -92,16 +92,10 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
@@ -113,10 +107,10 @@ Here's the source screenshot.
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
@@ -136,10 +130,10 @@ Here's the source screenshot.
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
@@ -165,22 +159,16 @@ Here's the source screenshot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ermanent-silence-of-the-quick-content-platform/"><u>[New] Permanent Silence of the Quick Content Platform</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-learn-from-the-greats-strategies-for-confident-online-sharing/"><u>[Updated] In 2024, Learn From the Greats Strategies for Confident Online Sharing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-strategies-for-crafting-impactful-reactions-on-twitter-vids/"><u>[Updated] In 2024, Strategies for Crafting Impactful Reactions on Twitter Vids</u></a></li>
-<li><a href="https://win-tips.techidaily.com/6yen54plusplus5asx5y6755qe54plusn6lk06loh5paz77ya5b6p5y6f6yyv6kqk5aot57iu5b2x54mh5lit54m55a6a5qqu5qgi55qe5pa55rov/"><u>重現失去的珍貴資料：復原錯誤壓縮影片中特定檔案的方法</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-bonds-how-ai-powered-chat-assistants-can-transform-your-search-for-compannionship/"><u>Boosting Bonds: How AI-Powered Chat Assistants Can Transform Your Search for Compannionship</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/create-professional-correspondence-with-these-free-ai-services-leverage-chatgpt-to-enhance-email-quality/"><u>Create Professional Correspondence with These Free AI Services: Leverage ChatGPT to Enhance Email Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-ai-driven-tactics-amplifying-malicious-digital-ventures/"><u>Five AI-Driven Tactics: Amplifying Malicious Digital Ventures</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-a38-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo A38 Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12r-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Redmi Note 12R Phone Without Password?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-ai-control-mechanisms/"><u>Navigating AI Control Mechanisms</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/omoton-t1-tablet-support-examined-an-economical-and-reliable-choice-for-users/"><u>Omoton T1 Tablet Support Examined: An Economical and Reliable Choice for Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-impact-of-artificial-intelligence-on-interactive-entertainment-industry/"><u>The Impact of Artificial Intelligence on Interactive Entertainment Industry</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transformative-techniques-employing-chatgpt-to-boost-your-data-analyst-abilities/"><u>Transformative Techniques: Employing ChatGPT to Boost Your Data Analyst Abilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-limitations-7-key-downsides-to-using-ai-in-communication-apps/"><u>Understanding the Limitations: 7 Key Downsides to Using AI in Communication Apps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-chatgpt-for-generating-stunning-ai-artwork/"><u>Unlocking the Potential of ChatGPT for Generating Stunning AI Artwork</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-secrets-of-cloud-based-gaming-with-xbox-game-pass-ultimate-a-comprehensive-guide/"><u>Unveiling the Secrets of Cloud-Based Gaming with Xbox Game Pass Ultimate - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/what-if-unreal-engine-suffers-from-d3d-vanishing/"><u>What if Unreal Engine Suffers From D3D Vanishing?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-avoiding-the-common-path-the-route-to-unique-streamer-identities/"><u>[New] In 2024, Avoiding the Common Path The Route to Unique Streamer Identities</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>2024 Approved Unleashing Speed in Facebook Videos The Best Tools and Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-realme-narzo-60-pro-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme Narzo 60 Pro 5G? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-unblock-and-install-unverified-windows-software/"><u>How to Unblock and Install Unverified Windows Software</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-hosts-epic-journey-continues-get-your-movie-42-dvd-copy-today/"><u>The Host's Epic Journey Continues: Get Your Movie 42 DVD Copy Today!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-hashtags-to-boost-your-youtube-views-beyond-six-figures-for-2024/"><u>Top 10 Hashtags to Boost Your Youtube Views Beyond Six Figures for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-15-must-see-turkish-dramas-on-netflix-with-english-captions-2024-forecast/"><u>Top 15 Must-See Turkish Dramas on Netflix with English Captions - 2024 Forecast</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-6-sites-for-co-watching-videos-on-the-same-screen-as-youtube/"><u>Top 6 Sites for Co-Watching Videos on the Same Screen as YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-creation-suite-crafting-your-own-ringtones-animated-gifs-and-split-screen-content/"><u>Ultimate Creation Suite: Crafting Your Own Ringtones, Animated GIFs & Split-Screen Content</u></a></li>
 </ul></div>
 

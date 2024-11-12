@@ -1,7 +1,7 @@
 ---
 title: Three Unbeatable Excel Functions That Outperform ChatGPT's Limitations
-date: 2024-11-01T16:08:16.653Z
-updated: 2024-11-02T17:25:44.982Z
+date: 2024-11-07T08:40:12.564Z
+updated: 2024-11-11T20:41:56.939Z
 tags:
   - chatgpt
   - open-ai
@@ -32,16 +32,16 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  NVIDIA AI Foundations is available in three models: NeMo, Picasso, and BioNeMo.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### NVIDIA NeMo
 
 ![NVIDIA NEMO illustration ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-nemo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-large-language-ai-models-to-enterprises-worldwide)
 
@@ -54,10 +54,10 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### NVIDIA Picasso
@@ -68,16 +68,16 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## NVIDIA BioNeMo
 
 ![nvidia-bionemo-cloud-services](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-bionemo-cloud-services.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-unveils-large-language-models-and-generative-ai-services-to-advance-life-sciences-r-d)
 
@@ -89,18 +89,18 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 ![NVIDIA AI Foundations ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/nvidia-ai-foundations.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Image Credit:[NVIDIA](https://nvidianews.nvidia.com/news/nvidia-brings-generative-ai-to-worlds-enterprises-with-cloud-services-for-creating-large-language-and-visual-models)
 
  NVIDIA's AI Foundations isn't available to the general public. However, you can request early access by filling up your company's details on NVIDIA's website. Once your business application is approved, you can access the AI models through a browser or[a dedicated API](https://www.makeuseof.com/what-is-api/) .
 
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
 
@@ -123,16 +123,19 @@ thumbnail: https://thmb.techidaily.com/dbfa6019d8b3f211a2d4346989a8be20fa1fb2520
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-best-graphic-card-for-4k-gaming-for-2024/"><u>[Updated] Best Graphic Card for 4K Gaming for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor X50i | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/astuce-acceder-a-la-partition-de-sauvegarde-masquee-sous-windows-guide-complet/"><u>Astuce : Accéder À La Partition De Sauvegarde Masquée Sous Windows - Guide Complet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/excel-mastery-leveraging-chatgpt-capabilities-for-smarter-data-management/"><u>Excel Mastery: Leveraging ChatGPT Capabilities for Smarter Data Management</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/from-dungeons-to-depths-evolving-gameplay-styles-for-2024/"><u>From Dungeons to Depths Evolving Gameplay Styles for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-leverage-canva-and-chatgpt-for-rapid-content-designing/"><u>How to Leverage Canva and ChatGPT for Rapid Content Designing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/redesigning-careers-with-the-power-of-generative-ai/"><u>Redesigning Careers with the Power of Generative AI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-paperclip-maximization-dilemma-insights-into-its-connection-with-artificial-intelligence/"><u>Understanding the Paperclip Maximization Dilemma: Insights Into Its Connection with Artificial Intelligence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-potential-of-ai-expert-strategies-for-successful-prompt-engineering/"><u>Unlock the Potential of AI: Expert Strategies for Successful Prompt Engineering</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-business-potential-via-chatgpt-innovations/"><u>Unlocking Business Potential via ChatGPT Innovations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-undiscovered-to-famous-the-seo-playbook-for-your-podcast/"><u>[Updated] 2024 Approved From Undiscovered to Famous The SEO Playbook for Your Podcast</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-easily-enable-offline-access-to-youtube-on-iphoneipad/"><u>[Updated] In 2024, Easily Enable Offline Access to YouTube on iPhone/iPad</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-optimal-storage-savings-for-the-digital-age/"><u>[Updated] Optimal Storage Savings for the Digital Age</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-make-a-splash-with-instagram-reels-using-tried-and-true-tiktok-hacks/"><u>2024 Approved Make a Splash with Instagram Reels Using Tried-and-True TikTok Hacks</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ovative-yt-tales-share-your-life-journey/"><u>5 Innovative YT Tales Share Your Life Journey</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/budget-mobile-ransomware-breakthrough-the-encryption-expedition/"><u>Budget Mobile, Ransomware Breakthrough - The Encryption Expedition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbots-battle-royale-determining-the-best-ai-companer-gpt-or-bings-answer-engine/"><u>Chatbots Battle Royale: Determining the Best AI Companer - GPT or Bing's Answer Engine?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-the-eus-digital-strategy-the-potential-impact-on-chatgpt-technology/"><u>Dissecting the EU's Digital Strategy: The Potential Impact on ChatGPT Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/impatient-for-chatgpt-on-your-device-heres-where-you-can-find-robust-open-source-solutions-instead/"><u>Impatient for ChatGPT on Your Device? Here's Where You Can Find Robust Open Source Solutions Instead!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-lava-blaze-2-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Lava Blaze 2 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-reaction-video-creators-you-need-to-know/"><u>New 2024 Approved Top Reaction Video Creators You Need to Know</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/superior-stabilized-gimbals-for-phones-and-dslrs-ranked-best/"><u>Superior Stabilized Gimbals for Phones & DSLRs Ranked Best</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-hdcp-compatible-displays-issues-resolved/"><u>Troubleshooting Non-HDCP Compatible Displays – Issues Resolved</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-new-potentials-6-revolutionary-applications-of-chatgpt-for-smartwatch-users/"><u>Unlocking New Potentials: 6 Revolutionary Applications of ChatGPT for Smartwatch Users</u></a></li>
 </ul></div>
 

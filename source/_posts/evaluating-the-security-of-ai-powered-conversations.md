@@ -1,7 +1,7 @@
 ---
 title: Evaluating the Security of AI-Powered Conversations
-date: 2024-10-28T21:52:35.074Z
-updated: 2024-11-03T03:58:28.970Z
+date: 2024-11-10T05:44:55.127Z
+updated: 2024-11-11T19:04:40.604Z
 tags:
   - chatgpt
   - open-ai
@@ -43,16 +43,10 @@ Close
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
@@ -69,25 +63,19 @@ Close
 ![ChatGPT's welcome page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4309.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
@@ -99,10 +87,10 @@ Close
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Talk to ChatGPT and Save Time
@@ -124,15 +112,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-alives-low-residue-sound-technique/"><u>[New] Alive's Low-Residue Sound Technique</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-fade-in-fade-out-videos-in-4-easy-ways/"><u>[New] In 2024, Fade In Fade Out Videos in 4 Easy Ways</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-showtime-showdown-who-wins-in-obstwitch-arena/"><u>[Updated] 2024 Approved Showtime Showdown Who Wins in OBS/Twitch Arena</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-mix-techniques-for-crossfading-sounds-with-audacity/"><u>2024 Approved Professional Mix Techniques for Crossfading Sounds with Audacity</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-similar-meanings-to/"><u>Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-xr-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone XR Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-twitters-latest-feature-the-axe-significance-of-checkmarks-unpacking-linus-tech-tips-security-breach-and-understanding-trojan-threats/"><u>Inside Twitter's Latest Feature: The 'Axe' Significance of Checkmarks | Unpacking Linus Tech Tips Security Breach & Understanding Trojan Threats</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speed-demon-diy-kit-construct-your-own-mini-pc-for-unmatched-egpu-pcie-connectivity-leaving-thunderbolt-4-behind/"><u>Speed Demon DIY Kit: Construct Your Own Mini PC for Unmatched eGPU PCIe Connectivity, Leaving Thunderbolt 4 Behind</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-the-safety-a-look-at-potential-cyber-threats-in-openais-chatgpt/"><u>Understanding the Safety: A Look at Potential Cyber Threats in OpenAI's ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-global-access-a-guide-to-use-chatgpt-anytime-anywhere-with-chatgpt-everywhere/"><u>Unlocking Global Access: A Guide to Use ChatGPT Anytime, Anywhere with ChatGPT Everywhere</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-to-igtv-top-methods-unveiled-for-2024/"><u>[New] From YouTube to IGTV Top Methods Unveiled for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-loilo-game-recorder-complete-review/"><u>[Updated] 2024 Approved The LoiLo Game Recorder [Complete Review]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024s-ultimate-guide-to-choosing-a-magsafe-wallet-featured-picks-and-in-depth-analysis/"><u>2024'S Ultimate Guide to Choosing a MagSafe Wallet: Featured Picks and In-Depth Analysis</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/best-watched-youtube-film-channels-ranked/"><u>Best-Watched YouTube Film Channels Ranked</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-install-updated-windows-compatible-hp-officejet-pro-6970-printer-drivers-here/"><u>Find & Install Updated Windows-Compatible HP OfficeJet Pro 6970 Printer Drivers Here</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-revive-your-bricked-tecno-camon-20-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Tecno Camon 20 Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-innovative-techniques-to-make-a-mark-with-your-gopro-studio-edits/"><u>In 2024, Innovative Techniques to Make a Mark with Your GoPro Studio Edits</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-ace-2v-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus Ace 2V FRP Without Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-stream-mastery-made-easy-discover-the-power-of-manycams-virtual-cam-features/"><u>Live Stream Mastery Made Easy: Discover the Power of ManyCam's Virtual Cam Features</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-premium-virtual-webcam-solutions/"><u>Live Streaming Made Easy with ManyCam: Premium Virtual Webcam Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-with-manycam-professional-videocamera-and-webcast-software/"><u>Live Streaming Made Easy with ManyCam: Professional Videocamera and Webcast Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-made-simple-discover-manycams-ultimate-virtual-camera-solution/"><u>Live Streaming Made Simple: Discover ManyCam's Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-best-features-of-manycam-virtual-camera-software/"><u>Live Streaming Mastery: Best Features of ManyCam - Virtual Camera Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/live-streaming-mastery-discover-manycam-the-ultimate-software-and-digital-cam-solutions/"><u>Live Streaming Mastery: Discover ManyCam - The Ultimate Software and Digital Cam Solutions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step: Crafting Cover Letters with AI Assistance"
-date: 2024-11-01T23:13:23.671Z
-updated: 2024-11-03T03:03:42.018Z
+date: 2024-11-11T07:26:19.524Z
+updated: 2024-11-11T17:29:34.002Z
 tags:
   - chatgpt
   - open-ai
@@ -34,21 +34,22 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
@@ -56,16 +57,10 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
@@ -73,10 +68,10 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How to Use GPT-4 Turbo for Free on Other Devices
@@ -90,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
@@ -121,20 +109,14 @@ thumbnail: https://thmb.techidaily.com/9fe72f1d0e6ca6ee571b6f7edf2789f41fef5ef62
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-simplified-methods-to-validate-your-youtube-status/"><u>[New] 2024 Approved Simplified Methods to Validate Your YouTube Status</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-how-to-write-a-script-for-a-youtube-video-for-2024/"><u>[Updated] How to Write a Script for a YouTube Video for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-june-24th-edition-solving-the-new-york-times-puzzle-379-expert-insights-and-answers/"><u>1. 'June 24Th Edition: Solving The New York Times Puzzle #379 - Expert Insights & Answers'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-revitalize-your-online-identity-top-5-indicators-its-time-to-update-your-email/"><u>1. Revitalize Your Online Identity: Top 5 Indicators It's Time to Update Your Email</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/2-decode-todays-nyt-masterpiece-comprehensive-answers-to-connections-hints-august-8-update-423/"><u>2. Decode Today's NYT Masterpiece: Comprehensive Answers to Connections Hints – August 8 Update (#423)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/adding-narrative-milestones-a-youtube-video-guide-for-2024/"><u>Adding Narrative Milestones A YouTube Video Guide for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/august-7th-new-york-times-puzzle-insights-and-solutions-edition-422-discover-the-secrets/"><u>August 7Th New York Times Puzzle Insights & Solutions, Edition #422 - Discover the Secrets!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/comprehensive-walkthrough-successfully-installing-kodi-on-your-windows-11-pc/"><u>Comprehensive Walkthrough: Successfully Installing Kodi on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/critical-security-flaw-left-open-by-d-link-leaves-routers-at-mercy-of-cybercriminals/"><u>Critical Security Flaw Left Open by D-Link Leaves Routers at Mercy of Cybercriminals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/detecting-and-defending-against-webcam-intrusions-top-7-warning-indicators-for-enhanced-online-security/"><u>Detecting & Defending Against Webcam Intrusions: Top 7 Warning Indicators for Enhanced Online Security</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/free-image-transformation-the-best-smartphone-editing-aids-unveiled-for-2024/"><u>Free Image Transformation The Best Smartphone Editing Aids Unveiled for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/photobooth-playback-hang-up-seeking-solutions/"><u>Photobooth Playback Hang-Up - Seeking Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/start-saving-memories-using-lunapic-for-beginners/"><u>Start Saving Memories Using LunaPic for Beginners</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-6-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 6 Without iTunes in 5 Ways</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unveiling-the-best-smart-home-upgrade-in-depth-review-of-the-tp-link-tapo-s505d-smart-wi-fi-dimmer-switch/"><u>Unveiling the Best Smart Home Upgrade: In-Depth Review of the TP-Link Tapo S505D Smart Wi-Fi Dimmer Switch</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-list-of-ex-followers-on-instagram-for-2024/"><u>[Updated] List of Ex-Followers on Instagram for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/coding-the-future-how-ai-redefines-game-design/"><u>Coding the Future: How AI Redefines Game Design</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-gameplay-with-the-ultimate-asus-vg245h-gaming-monitor/"><u>Elevate Your Gameplay with The Ultimate Asus VG245H Gaming Monitor</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-preserving-epic-overwatch-moments-three-effective-techniques/"><u>Guide: Preserving Epic Overwatch Moments – Three Effective Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/h264h2aturate-h265/"><u>H.264にリマスタリング：H.2aturate H.265ビデオファイルを無料で改質する方法！</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-narzo-60x-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme Narzo 60x 5G Phone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-celebrating-families-this-years-top-10-movie-gems/"><u>In 2024, Celebrating Families This Year’s Top 10 Movie Gems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/isovob/"><u>ISOファイルからVOBへの優れた転送技術: 品質保持を実現</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-iso-to-exe-conversion-the-best-3-utilities-for-seamless-file-transformation/"><u>Mastering ISO-to-EXE Conversion: The Best 3 Utilities for Seamless File Transformation</u></a></li>
 </ul></div>
 

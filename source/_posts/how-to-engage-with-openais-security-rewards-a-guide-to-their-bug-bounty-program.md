@@ -1,7 +1,7 @@
 ---
 title: "How to Engage with OpenAI's Security Rewards: A Guide to Their Bug Bounty Program"
-date: 2024-11-01T21:21:49.628Z
-updated: 2024-11-02T18:52:49.633Z
+date: 2024-11-06T21:19:39.471Z
+updated: 2024-11-11T23:36:20.757Z
 tags:
   - chatgpt
   - open-ai
@@ -48,22 +48,29 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here, you must fill in the following information:
 
@@ -80,19 +87,25 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
@@ -102,13 +115,6 @@ Here, you must fill in the following information:
  These include server-side injection, server security misconfiguration,[cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage,[cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -131,14 +137,20 @@ Here, you must fill in the following information:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleash-the-past-sharing-snaps-from-your-camera-roll/"><u>[New] In 2024, Unleash the Past - Sharing Snaps From Your Camera Roll</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-professional-choices-the-very-best-8-tripods-for-4k/"><u>[New] Professional Choices The Very Best 8 Tripods for 4K</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unveiling-the-top-10-4k-computer-screens/"><u>[Updated] 2024 Approved Unveiling the #Top 10 4K Computer Screens</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-quick-start-uploading-your-videos-to-instagram-via-pcmac/"><u>[Updated] In 2024, Quick Start Uploading Your Videos to Instagram via PC/Mac</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/earn-more-leveraging-chatgpt-side-projects-custom-pc-building-secrets-and-classic-handheld-gaming-systems/"><u>Earn More: Leveraging ChatGPT Side Projects, Custom PC Building Secrets, and Classic Handheld Gaming Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-chatgpt-strategies-for-effective-multilingual-engagement/"><u>Navigating ChatGPT: Strategies for Effective Multilingual Engagement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ai-arena-evaluating-bard-and-bings-prowess/"><u>The AI Arena: Evaluating Bard & Bing's Prowess</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-bing-app-for-android-phones/"><u>Unlocking the Power of Artificial Intelligence in Bing App for Android Phones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>[New] 2024 Approved The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-perfect-pair-merging-your-youtube-video-library/"><u>[New] In 2024, Perfect Pair Merging Your YouTube Video Library</u></a></li>
+<li><a href="https://facebook.techidaily.com/4-things-to-know-about-metas-new-privacy-policy/"><u>4 Things to Know About Meta's New Privacy Policy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/handbrakeiso-to-mp4/"><u>無料ツールHandBrakeを使ったISO to MP4変換ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-guide-to-crafting-sound-files-on-windows-mac-iphone-and-android-devices/"><u>Easy Guide to Crafting Sound Files on Windows, Mac, iPhone & Android Devices</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/effective-strategies-for-successful-ssd-partition-restoration/"><u>Effective Strategies for Successful SSD Partition Restoration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-conversion-of-videots-folders-into-mov-format-a-step-by-step-guide/"><u>Effortless Conversion of Video_TS Folders Into MOV Format – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-transforming-dvds-into-avi-files-step-by-step/"><u>Effortless Guide: Transforming DVDs Into AVI Files Step-by-Step</u></a></li>
+<li><a href="https://network-issues.techidaily.com/evaluating-amds-strategies-for-a-winning-place-in-gaming-hardware/"><u>Evaluating AMD's Strategies for a Winning Place in Gaming Hardware</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-contrast-between-privately-held-and-unlisted-content-on-youtube-platforms/"><u>Exploring the Contrast Between Privately-Held and Unlisted Content on YouTube Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/high-definition-dvd-ripping-tutorial-for-creating-wmv-format-videos-using-windows-software/"><u>High Definition DVD Ripping Tutorial for Creating WMV Format Videos Using Windows Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-seamlessly-combine-multiple-avi-files-in-windows-11-without-quality-degradation-top-3-methods/"><u>How to Seamlessly Combine Multiple AVI Files in Windows 11 Without Quality Degradation (Top 3 Methods)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-s17e-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo S17e Lock Screen Password?</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps5s-compatibility-with-legacy-playstation-systems/"><u>PS5's Compatibility with Legacy PlayStation Systems?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-how-to-correctly-fix-a-missing-winhttpdll-file/"><u>Step-by-Step Solution: How to Correctly Fix a Missing Winhttp.dll File</u></a></li>
 </ul></div>
 

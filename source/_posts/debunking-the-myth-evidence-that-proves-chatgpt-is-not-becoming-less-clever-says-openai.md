@@ -1,7 +1,7 @@
 ---
 title: "Debunking the Myth: Evidence that Proves ChatGPT Is Not Becoming Less Clever, Says OpenAI"
-date: 2024-10-30T04:14:35.151Z
-updated: 2024-11-02T22:45:32.648Z
+date: 2024-11-09T21:00:34.272Z
+updated: 2024-11-12T04:30:17.885Z
 tags:
   - chatgpt
   - open-ai
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 
 ![Bing Chat on Skype Writing an Essay About Bees](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-skype-essay-writing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Close
 
  Meanwhile, Snapchat My AI produces varying responses. It even rejects requests it previously performed, indicating vague security restrictions.
@@ -65,6 +58,13 @@ Close
 
  Currently, you can only converse with My AI through private chats. But it’s still in the development stage—Snapchat might let My AI respond to groups soon.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Location Services
 
  While Snapchat and Skype store location data, only My AI provides reliable directions. It uses your city-level location to find nearby establishments, e.g., restaurants, hospitals, and gas stations. You’ll see all the nearest options.
@@ -72,10 +72,10 @@ Close
 ![Snapchat My AI Suggesting Nearby McDonald's Locations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-mcdonald-s-recommenations.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Snapchat My AI Suggestion Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-gas-stations.jpg)
@@ -92,13 +92,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Data Accuracy
 
  Bing Chat and My AI both answer general questions. However, Bing provides more reliable outputs since its Skype chatbot pulls real-time data online.
@@ -108,32 +101,26 @@ Close
 ![Asking Bing Chat on Skype About Will Smith Slap](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-and-real-world-events.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Bing Chat on Skype Answering Question About the Winter Olympics ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-on-olympics-questions.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
  My AI has limited datasets. Since it’s based on ChatGPT, its knowledge cuts off after 2021.
 
 ![Snapchat My AI Answers Questions About Winter Olympics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-olympics-questions.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Snapchat My AI Can't Answer Question About Real World Events](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-and-real-world-events.jpg)
 
@@ -184,19 +171,20 @@ Close
 ![Asking Snapchat My AI to Roleplay as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapcchat-my-ai-roleplay-request.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Snapchat My AI Breaking From its Character as Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-breaking-character.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -208,31 +196,11 @@ Close
 
 ![Asking Bing Chat About AI While Roleplaying Ash](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/asking-bing-chat-on-roleplay.jpg)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Bing Chat on Skype Discussing its Token Limit](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-token-limit.jpg)
 
 Close
 
  Just note that Bing has a lower token limit. It automatically starts afresh after 20 turns—you can also start new conversations manually by typing “newtopic.”
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Security Restriction
 
@@ -251,6 +219,13 @@ Close
 ![Bing Chat on Skype Can't Talk About Its GPT Model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-chat-on-skype-and-gpt-models.jpg)
 
 ![Bing AI on Skype Talking About AI Learning Models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bing-ai-on-skype-and-learning-models.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Close
 
@@ -274,6 +249,13 @@ Likewise, the web version of Bing Chat won’t reveal its language model.
 
  After collecting feedback and addressing complaints for a few weeks, Snapchat said it would make the chatbot available to all users. Just expect some delays with the rollout. Most[users still need Snapchat Plus accounts to get My AI](https://www.makeuseof.com/how-to-use-snapchat-ai-chatbot/) a month after the announcement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Incorporate AI Tools and Chatbots Into Your Daily Routine
 
  While Snapchat My AI cracks jokes, helps with navigation, and answers general questions, it provides inconsistent outputs. The platform works well as a conversation companion. On the other hand, Bing Chat matches Skype’s professional interface. Think of Bing as your work assistant. Use it to compose emails, respond in group chats, break down challenging topics, and automate rote work.
@@ -295,20 +277,18 @@ Likewise, the web version of Bing Chat won’t reveal its language model.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/kyrocketing-numbers-a-guide-to-youtube-viewership-increase/"><u>[New] Skyrocketing Numbers A Guide to YouTube Viewership Increase</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-on-hardware-fundamentals-and-operation/"><u>Artificial Intelligence on Hardware: Fundamentals and Operation</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/assessing-the-build-and-speed-of-netgears-powerline-1200-when-substantial-architecture-impacts-network-efficiency/"><u>Assessing The Build And Speed Of Netgear's Powerline 1200: When Substantial Architecture Impacts Network Efficiency</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bringing-chatgpt-under-your-command-with-voice-controlled-solutions/"><u>Bringing ChatGPT Under Your Command with Voice-Controlled Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/camera-malfunctions-on-iphone-here-are-7-fixes-you-need-to-know/"><u>Camera Malfunctions on iPhone? Here Are 7 Fixes You Need to Know</u></a></li>
-<li><a href="https://win-updates.techidaily.com/duik-in-de-wereld-van-kopieertech-twee-efficiente-manieren-om-je-oud-computer-te-kloppen/"><u>Duik in De Wereld Van Kopieertech: Twee Efficiënte Manieren Om Je Oud Computer Te Kloppen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevate-your-brainpower-integrative-methods-of-mindmapping-with-the-help-of-chatgpt/"><u>Elevate Your Brainpower: Integrative Methods of Mindmapping with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-text-to-action-the-ultimate-selection-of-6-interactive-games-on-chatgpt/"><u>From Text to Action: The Ultimate Selection of 6 Interactive Games on ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/harness-the-potential-of-cognitive-computing-in-business-with-abbyy-comprenos-top-tier-language-technology-tools/"><u>Harness the Potential of Cognitive Computing in Business with ABBYY Compreno's Top-Tier Language Technology Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ready-for-an-advanced-ai-experience-try-this-powerful-open-source-option-instead-of-waiting-for-chatgpt-app/"><u>Ready for an Advanced AI Experience? Try This Powerful Open Source Option Instead of Waiting for ChatGPT App.</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-guide-how-to-quickly-download-the-latest-geforce-gtx-750-graphics-card-drivers/"><u>Simple Guide: How to Quickly Download the Latest GeForce GTX 750 Graphics Card Drivers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-steps-to-recover-a-missing-wi-fi-network/"><u>Solving the Mystery: Steps to Recover a Missing Wi-Fi Network</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/try-these-5-no-cost-alternatives-to-googles-palm-like-microsoft-bings-new-feature/"><u>Try These 5 No-Cost Alternatives To Google's PaLM Like Microsoft Bing's New Feature</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-enterprise-features-benefits-and-unique-selling-points/"><u>Understanding ChatGPT Enterprise: Features, Benefits & Unique Selling Points</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-pinnacle-studio-not-your-cup-of-tea-try-these-mac-alternatives-for-2024/"><u>Updated Pinnacle Studio Not Your Cup of Tea? Try These Mac Alternatives for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-deep-dive-into-rank-tracker-software-optimize-your-channels-success-for-2024/"><u>[Updated] Deep Dive Into Rank Tracker Software - Optimize Your Channel's Success for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-still-trust-openai-to-guide-chatgpt-safely/"><u>Can We Still Trust OpenAI to Guide ChatGPT Safely?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-infinix-note-30-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Infinix Note 30</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/create-mesmerizing-graphics-discover-8-inspiring-dall-e-3-text-prompts/"><u>Create Mesmerizing Graphics: Discover 8 Inspiring DALL-E 3 Text Prompts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-top-tier-artificnial-intelligence-chatbots-chatgpt-vs-microsoft-bing-vs-google-bard-which-takes-the-lead/"><u>Evaluating Top-Tier Artificnial Intelligence Chatbots: ChatGPT Vs. Microsoft Bing Vs. Google Bard - Which Takes the Lead?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-zte-nubia-z60-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your ZTE Nubia Z60 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>In 2024, Turn Out Clearer Snaps Ranking the Most Effective Online Editors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-chatgpt-into-the-crypto-realm/"><u>Integrating ChatGPT Into the Crypto Realm</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/official-geforce-rtx-3070-ti-driver-download-win-10-8-7/"><u>Official GeForce RTX 3070 Ti Driver Download - Win 10, 8, 7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-integrating-siri-and-chatgpt-in-ios/"><u>The Ultimate Guide to Integrating Siri & ChatGPT in iOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-voice-transformation-tools-for-personal-use/"><u>Top Voice Transformation Tools for Personal Use</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-sets-auto-gpt-apart-from-its-cousin-chatgpt-insights-into-their-unique-functions/"><u>What Sets Auto-GPT Apart From Its Cousin, ChatGPT?: Insights Into Their Unique Functions</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-you-should-forgo-the-mic-feature-in-ps5s/"><u>Why You Should Forgo the Mic Feature in PS5s</u></a></li>
 </ul></div>
 

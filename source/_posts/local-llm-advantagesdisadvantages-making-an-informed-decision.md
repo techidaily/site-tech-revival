@@ -1,7 +1,7 @@
 ---
 title: "Local LLM Advantages/Disadvantages: Making an Informed Decision"
-date: 2024-09-11T19:33:14.035Z
-updated: 2024-09-12T19:33:14.035Z
+date: 2024-11-11T09:37:15.181Z
+updated: 2024-11-12T02:10:37.437Z
 tags:
   - chatgpt
   - open-ai
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
 
 ![A computer screen displaying ChatGPT's website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-generative-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It helps to start with understanding[what AI is, the dangers it poses](http://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) , and how it can help you. Understanding the basics of AI and how it works will help you know its strengths and limitations, as well as how to use it to thrive in your workplace.
 
  In simple terms, artificial intelligence (AI) refers to the ability of computer systems to simulate human intelligence and carry out a wide range of tasks. Some of the most common use cases of AI in the workplace include automating hiring processes, optimizing customer service, inventory management, or data collection and analysis, to name a few.
@@ -42,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
  Although AI systems have been used in various industries, such as finance, healthcare, marketing, and sales for quite some time, their use is increasing exponentially due to technological advancements and the release of AI-powered tools like ChatGPT.
 
  ChatGPT is a large language model developed by OpenAI that relies on vast amounts of training data to generate natural-sounding text. This AI chatbot is used for tasks such as content creation, programming, and translation, to name a few. In fact, this tool is so good that[people wonder if generative AI will take over their jobs](https://www.makeuseof.com/can-chatgpt-replace-me/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Know the Difference Between Artificial Intelligence and Human Intelligence
 
@@ -53,27 +53,20 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
 
  On the other hand, humans possess the unique ability to use their senses and emotions and apply knowledge and logic in creative ways to solve complex problems.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Develop Skills AI Can't Replicate
 
 ![Close-up image of hand writing "be creative"](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/future-proof-skills-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As good as generative AI tools like ChatGPT are, they have limitations, and AI is still far from replicating the unique skills, insights, and creativity that humans possess. As such, it is vital to invest in future-proofing skills that AI can't replicate to survive and thrive in the AI-dominated workplace.
 
  Some of these AI-proof skills include empathy, creativity, problem-solving abilities, adaptability, resilience, communication, and collaboration skills. Investing in these skills will empower you to bring unique insights and solutions. Additionally, as AI solutions continuously improve, you can use your creativity to find innovative ways to use the technologies in your workplace.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Learn How to Work With AI Tools
 
@@ -83,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
 
  There are several[prompting techniques you can use to improve your ChatGPT responses](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , including writing grammatically correct prompts with enough context and details. In addition, you can also assign it a role to get more relevant and tailored answers.
 
+## 5\. Build a Robust Professional Network
+
+![A group of people sitting at a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/professional-networking-event.jpg)
+
 <!-- affiliate ads begin -->
 <a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
   <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
@@ -90,33 +87,22 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
 <img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-## 5\. Build a Robust Professional Network
-
-![A group of people sitting at a table](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/professional-networking-event.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Building strong connections with people who share similar interests and goals can be a great way to solidify your career prospects. As AI technologies continuously evolve and become inevitable in the workplace, staying updated on the latest trends, tools, and technologies can help you remain relevant. Building a solid professional network is one of the best ways to achieve this.
 
  There are several[ways creatives can network professionally](https://www.makeuseof.com/creative-professional-networking-ways/) , including attending in-person and virtual networking events, joining online forums and communities, attending conferences and meetups, or[building a professional network on LinkedIn](https://www.makeuseof.com/ways-to-build-professional-network-linkedin/) . Undoubtedly, some of these connections will prove invaluable in helping you thrive in your workplace.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Become a Lifelong Learner to Keep Up With Upcoming Tech
 
  As mentioned above, adaptability and flexibility are vital skills in an AI-dominated workplace. That's because there's a growing consensus that artificial intelligence is moving too fast—so fast that tech innovators like[Elon Musk want to pause AI development](https://www.makeuseof.com/why-elon-musk-want-to-pause-ai-development/) . This means you will need to swiftly learn new skills to remain competitive in this AI-dominated workplace.
 
  One of the best ways to achieve this is by becoming a lifelong learner and continuously upskilling and reskilling yourself. This includes anything from staying on top of AI news to attending conferences and workshops or taking courses to learn about the latest tools.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Future-Proof Your Career in the AI-Dominated Workplace
 
@@ -135,5 +121,16 @@ thumbnail: https://thmb.techidaily.com/7cccd9eb9a0e5868fdcc8e1d565a6361afbd69516
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-sounding-off-on-channel-titling-tips-from-experienced-filmmakers/"><u>[New] 2024 Approved Sounding Off on Channel Titling Tips From Experienced Filmmakers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-snaps-triumph-videos-dominating-discussions-for-2024/"><u>[Updated] Tweet-Snaps Triumph Videos Dominating Discussions for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-resolved-troubleshooting-video-playback-issues-in-the-reddit-application-across-both-android-and-ios-platforms/"><u>1. Resolved: Troubleshooting Video Playback Issues in the Reddit Application Across Both Android and iOS Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-film-transfer-with-official-winx-dvd-ripper-platinum-hd-mp4-ripping-h264-in-minutes/"><u>Effortless Film Transfer with Official WinX DVD Ripper Platinum - HD MP4 Ripping (H.264) In Minutes!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-your-hp-officejet-pro-8610-works-flawlessly-with-the-latest-driver-downloads-for-windows-operating-systems/"><u>Ensure Your HP Officejet Pro 8610 Works Flawlessly with the Latest Driver Downloads for Windows Operating Systems!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/navigating-zoom-on-chromebook-essential-advice-for-2024/"><u>Navigating Zoom on Chromebook Essential Advice for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-end-of-an-era-best-buy-drops-dvds-how-this-affects-consumers-and-the-industry/"><u>The End of an Era: Best Buy Drops DVDs - How This Affects Consumers & the Industry</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winx-mobile-video-convertermkv-m2ts-avi-wmv/"><u>アンドロイド端末への動画変換: WinX Mobile Video ConverterでMKV M2TS AVI WMV形式を効率良くコピーする手順</u></a></li>
+</ul></div>
 

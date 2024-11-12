@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Chatbot Showdown: GPT, Microsoft Bing AI, Google Bard"
-date: 2024-10-27T19:15:05.518Z
-updated: 2024-11-02T17:55:07.444Z
+date: 2024-11-08T18:20:52.230Z
+updated: 2024-11-11T22:26:40.615Z
 tags:
   - chatgpt
   - open-ai
@@ -46,19 +46,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
  However, to run LLaMa locally, you will need to have some specialized knowledge or the ability to follow a tutorial. You'll also need a significant amount of storage space.
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
@@ -78,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
@@ -95,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
  None of our models could respond that the correct term for a pea-shaped object is "pisiform," with ChatGPT going so far as to suggest that peas have a "three-dimensional geometric shape that is perfectly round and symmetrical."
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which LLM Is Good for Technical Instructions?
 
@@ -123,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
@@ -130,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -144,10 +138,10 @@ thumbnail: https://thmb.techidaily.com/34983eeb01d46447a2aa80e2d1b0eee6f876f5349
 You read it here first, folks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## No Chatbot Is Perfect
@@ -173,16 +167,24 @@ You read it here first, folks.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-get-the-best-free-pc-sound-logger-download-x-recorder-for-2024/"><u>[New] Get the Best Free PC Sound Logger – Download X-Recorder for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-compare-and-contrast-the-creme-de-la-creme-of-free-edits/"><u>[Updated] In 2024, Compare and Contrast The Crème De La Crème of Free Edits</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-2023s-leading-browsers-recording-software-guide/"><u>2024 Approved 2023'S Leading Browsers Recording Software Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-flips-and-twists-essential-guide-to-ph-warping/"><u>2024 Approved Photo Flips & Twists Essential Guide to PH Warping</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-intova-edge-x-a-deep-dive-into-video-capture/"><u>In 2024, Intova Edge X A Deep Dive Into Video Capture</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximizing-generative-ai-in-the-workplace-essential-tips-to-boost-confidence-and-efficiency-amongst-staff-expert-advice-by-zdnet/"><u>Maximizing Generative AI in the Workplace: Essential Tips to Boost Confidence and Efficiency Amongst Staff | Expert Advice by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlined-directx-upgrade-guide-for-users-of-windows-11-and-10/"><u>Streamlined DirectX Upgrade Guide for Users of Windows 11 and 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-free-applications-for-monitoring-your-windows-pcs-disk-usage/"><u>Top 4 Free Applications for Monitoring Your Windows PC's Disk Usage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transitioning-from-android-how-microsoft-drops-android-app-integration-with-windows-11/"><u>Transitioning From Android: How Microsoft Drops Android App Integration with Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/uninterrupted-linux-tasks-with-nohup-essential-techniques-and-tips/"><u>Uninterrupted Linux Tasks with Nohup: Essential Techniques and Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-gpu-acceleration-on-your-pc-a-guide-to-optimizing-windows-10-and-11/"><u>Unlocking GPU Acceleration on Your PC: A Guide to Optimizing Windows 10 & 11</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-key-gear-for-broadcast-engineers-and-directors/"><u>[New] 2024 Approved Key Gear for Broadcast Engineers and Directors</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creative-command-center-studio-for-youtubers/"><u>[New] In 2024, Creative Command Center Studio for YouTubers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-amplify-video-impact-leading-trackers-for-youtube-ranks/"><u>[Updated] 2024 Approved Amplify Video Impact Leading Trackers for YouTube Ranks</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-game-testers-and-beta-gamers-online/"><u>[Updated] 2024 Approved Game Testers & Beta Gamers Online</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-getting-started-with-your-new-youtube-premium-account-for-2024/"><u>[Updated] Getting Started with Your New YouTube Premium Account for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm5yag5rur44gr5yuv55s757eo6zug77ya5yih44kk5yplusw44kk55u057wq44gu44kz44oe44cn/"><u>「円滑に動画編集：切り取り直結のコツ」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44or44k944kz44oz5lik44gn57ch5y2y44gq44ot44oh44kq5yplusn6lui5lplusu5q2j44og44kv44ol44od44kv44cn/"><u>「パソコン上で簡単なビデオ反転修正テクニック」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44oe44kk44oq44k544oi44cn44oh44o844k44ks5ywo6yoo57ay576f44gx44gm44cb44ol44kz44ol44kz5yuv55s744gl44kj44oq44od44ob44gn5lplusd5a2y44gz44kl44og44kv44ol44od4465/"><u>「マイリスト」データを全部網羅して、ニコニコ動画からバッチで保存するテクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avchd2/"><u>AVCHD映像パーツへの巧みな分割方法：2種類の選択肢</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/avipc-4/"><u>Avi形式最適PCアプリ無料コンパクト化ツール集 - 4つ選び!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-alternatives-to-mp3boo-discover-the-top-5-free-music-downloading-sites/"><u>Best Alternatives to MP3BOO: Discover the Top 5 Free Music Downloading Sites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-mpeg-video-players-top-6-free-downloads-compatible-with-windows-mac-android-and-iphone/"><u>Best MPEG Video Players: Top 6 Free Downloads Compatible with Windows, Mac, Android & iPhone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-methods-for-converting-mpg-to-mp3-files-using-your-computer/"><u>Easy Methods for Converting MPG to MP3 Files Using Your Computer</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-audio-a-step-by-step-guide-to-finding-and-integrating-free-sound-effects-in-final-cut-pro/"><u>Elevate Your Audio A Step-by-Step Guide to Finding and Integrating Free Sound Effects in Final Cut Pro</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leveraging-snap-camera-for-better-online-interaction-on-google-meet/"><u>Leveraging Snap Camera for Better Online Interaction on Google Meet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/silent-switch-failing-on-your-iphone-discover-alternative-methods-to-mute-and-unmute/"><u>Silent Switch Failing on Your iPhone? Discover Alternative Methods to Mute & Unmute</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-90-gt-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/tutorial-pour-transferer-des-videos-entre-les-formats-quicktime-et-autres-methodes-faciles-a-suivre/"><u>Tutorial Pour Transférer Des Vidéos Entre Les Formats QuickTime Et Autres : Méthodes Faciles À Suivre !</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44gv44gplus44gw44gplus44gq44oh44oq44kk44k544gr5zci44kp44gb44gf44k544oi44oq44o844of44oz44kw5yuv55s75lplusd5a2y5pa55rov/"><u>さまざまなデバイスに合わせたストリーミング動画保存方法</u></a></li>
 </ul></div>
 

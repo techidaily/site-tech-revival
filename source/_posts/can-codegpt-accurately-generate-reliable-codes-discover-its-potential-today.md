@@ -1,7 +1,7 @@
 ---
 title: Can CodeGPT Accurately Generate Reliable Codes? Discover Its Potential Today
-date: 2024-09-11T19:32:05.528Z
-updated: 2024-09-12T19:32:05.528Z
+date: 2024-11-09T07:35:33.788Z
+updated: 2024-11-11T17:23:51.699Z
 tags:
   - chatgpt
   - open-ai
@@ -38,22 +38,15 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -66,21 +59,7 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -93,6 +72,19 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -100,19 +92,6 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -123,16 +102,10 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -145,6 +118,13 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -165,5 +145,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-how-to-master-gameplay-filming-in-sims-4/"><u>[New] 2024 Approved How to Master Gameplay Filming in Sims 4</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-how-much-will-it-cost-to-shoot-a-music-video-for-2024/"><u>[Updated] How Much Will It Cost To Shoot A Music Video for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-typhoon-h-unveiled-yuneecs-aerial-marvel/"><u>2024 Approved Typhoon H Unveiled Yuneec's Aerial Marvel</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/como-cambiar-archivos-mov-a-mp4-sin-costo-soluciones-para-macos-windows-10-y-navegador-web/"><u>Cómo Cambiar Archivos MOV a MP4 Sin Costo: Soluciones Para macOS, Windows 10 Y Navegador Web</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/decoding-dvd-player-capabilities-which-file-formats-can-you-watch/"><u>Decoding DVD Player Capabilities: Which File Formats Can You Watch?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-guide-to-revamping-synaptics-touchpad-ps2-controller-drivers/"><u>Effortless Guide to Revamping Synaptics TouchPad PS/2 Controller Drivers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/engage-and-inspire-with-these-essential-10-igtv-best-practices-for-brands-for-2024/"><u>Engage & Inspire with These Essential 10 IGTV Best Practices for Brands for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-tools-to-seamlessly-transform-your-m4v-files-into-mp4-format-compatible-with-macos-and-windows-10/"><u>Free Tools to Seamlessly Transform Your M4V Files Into MP4 Format - Compatible with macOS and Windows 10!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-simple-graver-un-dvd-sur-une-cle-usb-avec-windows-ou-macos/"><u>Guide Simple : Graver Un DVD Sur Une Clé USB Avec Windows Ou macOS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-command-prompt-wizardry-opening-srt-in-winosx/"><u>In 2024, Command Prompt Wizardry Opening SRT in Win/OSX</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/kostenlose-dvd-regionskodierungsumgehung-unter-windows-10-konvertieren-sie-eine-auslandische-dvd-kostenlos/"><u>Kostenlose DVD-Regionskodierungsumgehung Unter Windows 10 - Konvertieren Sie Eine Ausländische DVD Kostenlos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/macwindowsdvdtop5/"><u>Mac・Windows両対応、お薦めの無料DVD作成ツールTOP5 - ロゴ不要</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-winx-dvd-software-guide-comprehensive-tutorials-and-steps/"><u>Master WinX DVD Software Guide – Comprehensive Tutorials & Steps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-3-meilleurs-convertisseur-avi-a-vob-pour-un-streaming-optimise/"><u>Top 3 Meilleurs Convertisseur AVI À VOB Pour Un Streaming Optimisé</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transfer-your-iphone-pictures-to-a-pc-easily-no-need-for-itunes/"><u>Transfer Your iPhone Pictures to a PC Easily: No Need for iTunes!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-how-to-minimize-mov-videos-while-preserving-quality/"><u>Ultimate Guide: How to Minimize MOV Videos While Preserving Quality</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unmatched-protection-for-gamers-why-this-apc-ups-is-a-must-have-addition/"><u>Unmatched Protection for Gamers: Why This APC UPS Is a Must-Have Addition</u></a></li>
+</ul></div>
 

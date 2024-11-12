@@ -1,7 +1,7 @@
 ---
 title: "Art of AI Interaction: Top Tutorials for Commanders"
-date: 2024-10-29T06:59:02.197Z
-updated: 2024-11-02T16:26:24.124Z
+date: 2024-11-06T00:01:25.223Z
+updated: 2024-11-11T21:17:45.375Z
 tags:
   - chatgpt
   - open-ai
@@ -38,15 +38,22 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -59,21 +66,7 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -85,6 +78,13 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -114,10 +114,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -141,14 +141,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-digital-dollar-first-steps-in-youtubers-revenue/"><u>[New] In 2024, Digital Dollar First Steps in YouTubers' Revenue</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-delving-into-how-t-series-earnings-work-on-youtube/"><u>2024 Approved Delving Into How T-Series Earnings Work on Youtube</u></a></li>
-<li><a href="https://win-guides.techidaily.com/how-gen-alpha-ai-enhances-programmer-efficiency-insights-from-new-research-techworld/"><u>How Gen Alpha AI Enhances Programmer Efficiency: Insights From New Research | TechWorld</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-a-local-llm-right-for-you-pros-and-cons-explored/"><u>Is a Local LLM Right for You? Pros and Cons Explored</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-codegpt-easy-implementation-into-your-visual-studio-workflow/"><u>Mastering CodeGPT: Easy Implementation Into Your Visual Studio Workflow</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-anthropics-prompt-potential-via-claude-3/"><u>Maximizing Anthropic's Prompt Potential via Claude 3</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/maximizing-performance-with-pro-windows-10-skills/"><u>Maximizing Performance with Pro Windows 10 Skills</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-the-landscape-of-ai-based-prompt-engineering-long-term-viability/"><u>Navigating the Landscape of AI-Based Prompt Engineering: Long-Term Viability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleash-your-creativity-chatgpt-as-a-tool-for-constructing-fictional-worlds/"><u>Unleash Your Creativity: ChatGPT as a Tool for Constructing Fictional Worlds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-explore-unexpectedly-great-meme-pages-on-facebook/"><u>[New] 2024 Approved Explore Unexpectedly Great Meme Pages on Facebook</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fine-tuning-focus-the-ultimate-guide-to-zooming-in-on-videoleap/"><u>[Updated] Fine-Tuning Focus The Ultimate Guide to Zooming in on Videoleap</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-home-film-expertise-in-a-flash-top-5-diy-tips-for-speed/"><u>[Updated] In 2024, Home Film Expertise in a Flash Top 5 DIY Tips for Speed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-hits-on-reddit-a-compilation-of-the-best-ten/"><u>[Updated] In 2024, Top Hits on Reddit - A Compilation of the Best Ten</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-strategies-for-successful-longer-content-on-social-media-hubs-for-2024/"><u>[Updated] Strategies for Successful Longer Content on Social Media Hubs for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers/"><u>[Updated] Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-industry-insiders-reveal-their-favorite-gif-makers/"><u>2024 Approved Industry Insiders Reveal Their Favorite GIF Makers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-streaming-with-manycam-ultimate-livestream-and-virtual-camera-solution/"><u>Real-Time Streaming with ManyCam: Ultimate Livestream and Virtual Camera Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-choices-in-live-streaming-tools-manycam-xsplit-broadcaster-zonescreen-webcam-emulator/"><u>Top Choices in Live Streaming Tools: ManyCam, XSplit Broadcaster, ZoneScreen Webcam Emulator</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-using-manycam-cutting-edge-livestream-tech-and-remote-cam-devices/"><u>Transform Your Broadcasts Using ManyCam: Cutting-Edge Livestream Tech & Remote Cam Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-top-tier-live-video-and-webcam-technology/"><u>Transform Your Broadcasts with ManyCam - Top-Tier Live Video and Webcam Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-choice-in-live-video-software-and-virtual-cam-tech/"><u>Transform Your Broadcasts with ManyCam – The Leading Choice in Live Video Software and Virtual Cam Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-online-presence-with-manycams-advanced-virtual-webcam-solutions/"><u>Transform Your Online Presence with ManyCam's Advanced Virtual Webcam Solutions</u></a></li>
 </ul></div>
 

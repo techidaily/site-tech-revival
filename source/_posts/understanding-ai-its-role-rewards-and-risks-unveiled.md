@@ -1,7 +1,7 @@
 ---
 title: "Understanding AI: Its Role, Rewards & Risks Unveiled"
-date: 2024-10-28T18:04:39.312Z
-updated: 2024-11-03T05:27:41.380Z
+date: 2024-11-07T07:36:59.650Z
+updated: 2024-11-12T07:06:54.112Z
 tags:
   - chatgpt
   - open-ai
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
  This [bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and [AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/). You may report these to [OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
 
  OpenAI determines the cash rewards to be paid based on how severe and impactful the discovered bug is. Typically, the reward ranges from $200 to $6,500 per vulnerability but can be higher if your findings are exceptional and of great consequence.
@@ -53,10 +60,10 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Participate in OpenAI's Bug Bounty Program
@@ -64,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  With a Bugcrowd account, you can click the "Submit Report" tab on the [Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
@@ -91,20 +91,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the [OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -113,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
  These include server-side injection, server security misconfiguration, [cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage, [cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -139,17 +139,20 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-fps-fanatics-resource-for-fast-controls-and-extensions-for-2024/"><u>[New] FPS Fanatics' Resource for Fast Controls and Extensions for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-reimagine-old-school-vhs-with-modern-computer-techniques/"><u>[New] Reimagine Old-School VHS with Modern Computer Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-amplify-your-video-content-with-precision-insights-from-social-blade-and-youtube/"><u>[Updated] 2024 Approved Amplify Your Video Content with Precision Insights From Social Blade & YouTube</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/best-digital-photography-saviour/"><u>Best Digital Photography Saviour</u></a></li>
-<li><a href="https://windows11.techidaily.com/craft-compelling-content-with-these-windows-tools/"><u>Craft Compelling Content with These Window's Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-best-epubor-software-solutions-for-your-digital-publishing-needs/"><u>Discover the Best EPUBOR Software Solutions for Your Digital Publishing Needs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-and-remove-drm-protection-from-azw-azw3-and-azw4-files-free-guide/"><u>Download and Remove DRM Protection From AZW, AZW3 & AZW4 Files: Free Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-managing-affiliate-reviews-and-feedback/"><u>Effective Strategies for Managing Affiliate Reviews and Feedback</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elevate-gaming-to-the-next-level-on-a-samsung-q60r-series-4k-qled-an-in-depth-review/"><u>Elevate Gaming to the Next Level on a Samsung Q60R Series 4K QLED - An In-Depth Review</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-facile-suppression-du-drm-des-livres-ibooks-et-lecture-multiplateforme-sur-ordinateur-portablepcmac/"><u>Guide Facile : Suppression Du DRM Des Livres iBooks Et Lecture Multiplateforme Sur Ordinateur Portable/PC/Mac.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/guide-applying-covers-to-your-ebooks-on-amazons-kindle-format/"><u>Guide: Applying Covers to Your eBooks on Amazon's Kindle Format</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-max-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro Max</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mov-saving-on-the-go-top-six-tips-to-improve-your-workflow-in-windows-11/"><u>[Updated] .MOV Saving on the Go - Top Six Tips to Improve Your Workflow in Windows 11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-filmmaking-faceoff-hero-session-x-or-polaroid-cube/"><u>2024 Approved Filmmaking Faceoff Hero Session X or Polaroid Cube?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-privacy-concerns-is-your-confidential-info-at-risk/"><u>ChatGPT and Privacy Concerns: Is Your Confidential Info at Risk?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/checkmarks-cleared-on-tweet-linus-hacks-revealed-trojans-deciphered-and-ai-conundrums-in-chatgpt/"><u>Checkmarks Cleared on Tweet, Linus Hacks Revealed, Trojans Deciphered, & AI Conundrums in ChatGPT.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-leading-artificial-intelligence-solutions-for-math-puzzles/"><u>Discover the Leading Artificial Intelligence Solutions for Math Puzzles</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevating-dandd-excellence-with-chatgpt-gameplay-advice/"><u>Elevating D&D Excellence with ChatGPT Gameplay Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fabricate-exclusive-language-models/"><u>Fabricate Exclusive Language Models</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-make-a-video-meme-with-4-best-meme-video-makers-for-2024/"><u>How to Make a Video Meme with 4 Best Meme Video Makers for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-camon-20-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Camon 20 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-k11-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo K11 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/innovative-ways-to-clear-win11s-domain-nameservers/"><u>Innovative Ways to Clear Win11's Domain Nameservers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-v30-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme V30 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-insiders-guide-to-accessing-and-personalizing-nvidias-advanced-artifice-intelligence-solutions/"><u>The Insider's Guide to Accessing and Personalizing NVIDIA's Advanced Artifice Intelligence Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-choosing-your-preferred-ai-chatbot-insights-on-chatgpt-microsoft-bing-vs-google-bard/"><u>The Ultimate Guide to Choosing Your Preferred AI Chatbot: Insights on ChatGPT, Microsoft Bing Vs. Google Bard</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/troubleshooting-dvd-issues-solving-the-problem-of-vlc-not-playing-dvds-in-windows-11/"><u>Troubleshooting DVD Issues: Solving the Problem of VLC Not Playing DVDs in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Real Talk on Using Local Language Models
-date: 2024-11-01T19:04:48.327Z
-updated: 2024-11-02T16:29:23.580Z
+date: 2024-11-10T20:51:06.025Z
+updated: 2024-11-12T04:29:43.751Z
 tags:
   - chatgpt
   - open-ai
@@ -34,16 +34,22 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
  It's important to keep in mind that you pick a language that's relatively easy to learn. English speakers find learning languages such as Mandarin, Russian, and Japanese hard. While ChatGPT can write in all languages, you're better off getting a tutor if you want to nail the pronunciation and overall fluency for the more complex languages.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Building Your Vocabulary
 
 ![ChatGPT-Plus-Vocabulary](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-vocabulary.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Expanding your vocabulary is a good place to start when you're trying to learn a new language. You want to learn how to pronounce common words and understand how/why they are used in various situations. As you can imagine, GPT-4's conversational skills can easily handle this process.
 
@@ -57,35 +63,21 @@ thumbnail: https://thmb.techidaily.com/102c7cf0ada16d45d73aab06a0df3c1b4bd516c1e
 
 ![ChatGPT Plus Conversational Practice](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-conversational-practice-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  While learning certain words and phrases in a vacuum is good, all that practice is wasted if you don't build conversational skills. With ChatGPT, you can hold conversations in any language you want. For example, we asked ChatGPT to talk with us in French, and the result was impressive.
 
  ChatGPT understood our prompt immediately and gave us a sentence in French. We then responded to that sentence, and the conversation kept going from there. Throughout this conversation, it critiqued our conversational skills and provided small suggestions.
 
  GPT-3.5 also worked well here. However, it responded with much longer responses and, at times, completely forgot to critique our writing/speaking skills. It still works, but you'll have to occasionally remind the language model about its mistakes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Learn Grammar and Syntax
 
 ![ChatGPT Plus Grammar Syntax Correction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-grammar-syntax-correction.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Grammar and syntax provide the structure and rules necessary to communicate and understand others. ChatGPT can help you learn the grammar and syntax rules by providing real-time feedback, explanations, and examples during written interactions. Since ChatGPT is all about interactivity, it does a better job here than most language-learning apps.
@@ -111,9 +103,23 @@ Here's how you can create your own personalized tests:
 
 ![ChatGPT Plus Cultural Learning](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-plus-cultural-learning.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Languages and cultures are closely intertwined. By learning a new language, you can gain insight into the traditions, values, customs, and history of those who speak the language. While learning a language with ChatGPT, you can ask for cultural context, references, and social norms that are present in the language. This helps you understand how native speakers communicate.
 
  You can also get insights into cultural phenomena such as historical events, festivals, celebrations, and more. Then, you can ask ChatGPT to provide you with resources such as movies, books, and music in the language you're trying to learn. The key here is to ask anything you can think of about the language and culture.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. How Does It Compare to Other Alternatives?
 
@@ -142,21 +148,21 @@ Here's how you can create your own personalized tests:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-key-approaches-to-elicit-trust-in-product-reviews-through-videography/"><u>[New] 2024 Approved Key Approaches to Elicit Trust in Product Reviews Through Videography</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/hortcuts-to-wealth-in-youtube-shorts-for-2024/"><u>[New] Shortcuts to Wealth in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-selection-top-hdr-camera-picks/"><u>2024 Approved Ultimate Selection Top HDR Camera Picks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-sonys-advanced-playstation-vr2-an-immersive-glimpse-into-future-gaming/"><u>Discovering Sony's Advanced PlayStation VR2 - An Immersive Glimpse Into Future Gaming</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/free-online-converter-transform-apng-files-into-png-format-with-ease/"><u>Free Online Converter: Transform APNG Files Into PNG Format with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-prevent-meta-from-leveraging-your-social-media-images-for-ai-training-on-instagram-and-facebook/"><u>How to Prevent Meta From Leveraging Your Social Media Images for AI Training on Instagram & Facebook</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-concluding-coverage-craftsmanship/"><u>In 2024, Concluding Coverage Craftsmanship</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-gratitude-freepaid-outro-template-selections/"><u>In 2024, Gratitude Free/Paid Outro Template Selections</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lure-inducing-title-engineer/"><u>In 2024, Lure-Inducing Title Engineer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-rectangular-channels-a-is-width-times-depth-and-p-is-the-sum-of-all-sides-in-contact-with-water/"><u>In Rectangular Channels, A Is Width Times Depth and P Is the Sum of All Sides in Contact with Water.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/is-your-chatgpt-chat-history-vanishing-learn-these-simple-tricks-for-persistent-conversation-storage/"><u>Is Your ChatGPT Chat History Vanishing? Learn These Simple Tricks for Persistent Conversation Storage!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/localize-ai-art-creation-with-stable-diffusion-on-your-personal-computer/"><u>Localize AI Art Creation with Stable Diffusion on Your Personal Computer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-ai-image-generation-with-chatgpt-and-dall-e-integration-techniques/"><u>Mastering the Art of AI Image Generation with ChatGPT & DALL-E Integration Techniques</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-creating-fantastic-stable-diffusion-prompts/"><u>Mastering the Art of Creating Fantastic Stable Diffusion Prompts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-level-self-dialogue-evolved-with-ai-companions/"><u>Next-Level Self-Dialogue Evolved with AI Companions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715701061951-obs-full-screen-no-more-problem/"><u>Obs Full-Screen No More Problem!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-video-insights-top-7-free-easy-to-use-tag-extraction-software-reviewed-for-2024/"><u>[New] Unlock Video Insights Top 7 Free, Easy-to-Use Tag Extraction Software Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-connectivity-aid-fb-stories-saver-pro/"><u>[Updated] 2024 Approved Connectivity Aid FB Stories Saver Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-download-powerhouse-top-free-quick-vids-extraction-for-pinterest/"><u>[Updated] 2024 Approved Download Powerhouse Top Free, Quick Vids Extraction for Pinterest</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-composing-a-price-plan-for-audio-visual-song-clips/"><u>[Updated] In 2024, Composing a Price Plan for Audio-Visual Song Clips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/54sh5paz44gn5qw944gx44ka5a2q5l6b5zcr44gr5pig55s7ic0g5a625pep44gr5zac44gz44go5ocd44ge5ye644ks5akx44ke44gb44kl5oml6lu944gq44ki44kv44k744k55pa55rov/"><u>無料で楽しむ子供向け映画 - 家族に喜びと思い出を増やせる手軽なアクセス方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-ipod-music-transcoder-from-m4amp4-to-mp3-format-compatible-with-windows-macos-ios-and-android/"><u>Best FREE iPod Music Transcoder From M4A/MP4 to MP3 Format: Compatible with Windows, macOS, iOS & Android</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bilibili/"><u>Bilibili動画と実況中の映像記録手順の解説</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/biniso/"><u>BINファイルをISOイメージ化する効果的なテクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypassing-tumblr-constraints-for-smooth-and-unrestricted-video-sharing/"><u>Bypassing Tumblr Constraints for Smooth and Unrestricted Video Sharing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-capturing-your-facebook-experience-through-videography/"><u>Comprehensive Guide: Capturing Your Facebook Experience Through Videography</u></a></li>
+<li><a href="https://win-special.techidaily.com/convert-mp3-files-to-wav-format-for-free-using-movavis-easy-tool/"><u>Convert MP3 Files to WAV Format for Free Using Movavi's Easy Tool!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Xiaomi 13T Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nubia-z50s-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nubia Z50S Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-note-visibility-with-tips-for-modern-windows-users/"><u>Streamlining Note Visibility with Tips for Modern Windows Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-crypto-conversion-best-generator-list/"><u>The Ultimate Guide to Crypto Conversion – Best Generator List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44kz44oz44ou44ol44o844k44gr44gk44gr44kl44kw44op44ov44kj44od44kv44kr44o844oj44gu6auy6ycf5yyw5qmf6io944gm44gc44kk44gplus44gz44glpplusobneocjoockuocquodsplusod2/"><u>コンピュータにおけるグラフィックカードの高速化機能がありますか?それをオン・オフできるようにする手順</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apex 6 Goliaths: Large-Scale NLP Masters Revealed"
-date: 2024-09-11T19:31:06.735Z
-updated: 2024-09-12T19:31:06.735Z
+date: 2024-11-09T04:06:57.995Z
+updated: 2024-11-12T00:27:31.219Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,16 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://getlyla.pxf.io/ek9gkg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -46,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  OpenAI has finally unveiled its highly anticipated GPT Store, offering users a selection of ChatGPT community-created custom GPTs featuring specialized chatbots ranging from writing and design to programming and productivity. The launch marks OpenAI's latest move to capitalize on the runaway popularity of its AI creation ChatGPT, which took the world by storm after its launch in November 2022\.
 
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Access the GPT Store
 
@@ -84,36 +83,23 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click **Keep in sidebar**. This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
@@ -139,5 +125,24 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-iphones-quickest-way-to-record-time-lapse-photos/"><u>[New] IPhone's Quickest Way to Record Time-Lapse Photos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2023-dvd/"><u>「今すぐ始める！安価・自由な2023 DVDフルコピー法」</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-medias-closing-chapters/"><u>2024 Approved Mastering Media's Closing Chapters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-zero-cost-window-recording-techniques-3-methods/"><u>2024 Approved Zero-Cost Window Recording Techniques 3 Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/choosing-the-top-10-affordable-image-converters-online-for-2024/"><u>Choosing the Top 10 Affordable Image Converters Online for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparative-review-winx-dvd-ripper-vs-handbrake-top-free-dvd-conversion-software-ranked/"><u>Comparative Review: WinX DVD Ripper vs Handbrake – Top Free DVD Conversion Software Ranked</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-mastering-the-art-of-dvd-menu-extraction-and-ripping/"><u>Complete Guide: Mastering the Art of DVD Menu Extraction and Ripping</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-device-disabled-issue-with-error-code-22-on-windows-11/"><u>Correcting Device Disabled Issue with Error Code 22 on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-dvd-ripper-software-best-tools-for-converting-dvds-on-windows-11-10-8-7-vista-and-xp/"><u>Free DVD Ripper Software: Best Tools for Converting DVDs on Windows 11, 10, 8, 7, Vista & XP</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratis-dvd-to-audio-converter-hochwertige-qualitatsaufnahme-von-filmen-auf-dvd/"><u>Gratis DVD-to-Audio Converter: Hochwertige Qualitätsaufnahme Von Filmen Auf DVD</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-3-ways-of-how-to-get-someones-apple-id-off-iphone-8-without-password-by-drfone-ios/"><u>In 2024, 3 Ways of How to Get Someones Apple ID Off iPhone 8 without Password</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/les-15-meilleurs-converters-de-videos-en-4k-gratuit-pour-windows-et-mac-guide-complet-pour-downgrader-1080p-a-4k/"><u>Les 15 Meilleurs Converters De Vidéos en 4K Gratuit Pour Windows Et Mac : Guide Complet Pour Downgrader 1080P À 4K</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-secrets-for-tiktok-live-studio-success/"><u>New Secrets for TikTok Live Studio Success</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/novices-guide-to-animated-videos-with-wmm/"><u>Novice's Guide to Animated Videos with WMM</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformez-gratuitement-des-videos-wmv-en-mp4-maintenant-sans-compromettre-la-qualite-98/"><u>Transformez Gratuitement Des Vidéos WMV en MP4 Maintenant Sans Compromettre La Qualité (98%)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-handbrakes-anamorphic-feature-a-comprehensive-guide/"><u>Unlocking the Potential of HandBrake's Anamorphic Feature - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725287576543-winxvideo-ai/"><u>Winxvideo AI系统技术规格 - 官方凭证</u></a></li>
+</ul></div>
 

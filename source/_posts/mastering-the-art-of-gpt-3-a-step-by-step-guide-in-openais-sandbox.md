@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of GPT-3: A Step-by-Step Guide in OpenAI's Sandbox"
-date: 2024-10-31T22:11:22.946Z
-updated: 2024-11-03T02:38:53.202Z
+date: 2024-11-08T17:15:46.026Z
+updated: 2024-11-12T03:12:29.837Z
 tags:
   - chatgpt
   - open-ai
@@ -30,23 +30,9 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
  Well, there is a new kid on the block that makes it even easier to use GPT-4: Auto-GPT. How does it work? And can you use it without GPT-4?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is Auto-GPT?
 
 ![Woman working on a laptop with a cup of coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-on-desk.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently. In other words, Auto-GPT can develop its own prompts and answer autonomously to complete an objective.[Auto-GPT differs from ChatGPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) because it doesn't need a human agent to prompt it every step of the way.
 
@@ -58,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/14a25359b86e19d1002308583500dde5e5cec0555
 
 ![A grey laptop and a phone on a table](https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For starters, you can access Auto-GPT using Windows, MacOS, or Linux. You also need an OpenAI API account before you start.
 
 Here is a step-by-step guide on how to install Auto-GPT on your PC:
@@ -66,34 +59,20 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 ![A tab showing a tab to install Python ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-install-python.jpg)
 2. Download[Auto-GPT source code](http://github.com/Significant-Gravitas/Auto-GPT) from GitHub.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Extract the ZIP archive and copy the Auto-GPT folder to your preferred location.
 4. Search for the ".env" file in the folder, right-click it, and select**Open with Notepad.**
 5. Visit your OpenAI account, and on the top right of your screen, click**Personal** and select**View** **API keys** . This should take you to the[OpenAI API keys page](https://platform.openai.com/account/api-keys) while you're signed in.  
 ![OpenAI home page showing Personal section with View API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/openai-home-page.jpg)
 6. Copy your secret API keys from Open AI. If you don't have API keys, click on**Create new secret key** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Screenshot showing blurred out OpenAI API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/api-keys.jpg)
 7. Replace the "your-openai-api-key" text in the ".env.template" file with the API keys.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![A notepad showing blurred out OpenAI key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/notepad.jpg)
@@ -111,6 +90,13 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/11-pip-install-requirements.jpg)
 14. Launch Auto-GPT on your computer by executing the following command: "python -m autogpt".  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/weldom.jpg)
 15. Once you've launched Auto-GPT on your computer, the API will prompt you to give it a name and specific goals. For instance, you can define its role and tell it to analyze the stock market and save the report on a file.
 
@@ -118,22 +104,15 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
  If you want to stop an ongoing task quickly, you can utilize the**Ctrl + C** keyboard shortcut.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Auto-GPT Benchmarking Tool
 
  The Auto-GPT August 2023 update introduced a new benchmarking tool designed to track the performance of the agents deployed.[Auto-GPT Benchmarks](https://github.com/Significant-Gravitas/AutoGPT/tree/master/benchmark) is still in development, but it gives you an idea of how your automated agents are performing in areas like "code, retrieval, memory, and safety."
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do You Access Auto-GPT on Your Browser?
@@ -151,16 +130,22 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 
 Once it's done, you can copy or save the information.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Auto-GPT 3.5 API vs. Auto-GPT 4 API
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you've subscribed to ChatGPT-4, you can access the GPT-4 API. But if you're using the free version of ChatGPT, you will be limited to GPT-3.5 API. What's the difference between using GPT-3.5 and GPT-4 to access Auto-GPT?
 
@@ -176,7 +161,27 @@ Once it's done, you can copy or save the information.
 
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  In retrospect, Auto-GPT with either GPT-3.5 or GPT-4 API can automate some of your tasks with simple defined goals. Of course, Auto-GPT with GPT-4 API has the edge over GPT-3.5 because it's more accurate and better at making sense of images. Here are the[key differences between GPT-4 and GPT 3.5 explained](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) .
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Is It Worth Using Auto-GPT Without GPT-4?
 
@@ -187,6 +192,13 @@ Once it's done, you can copy or save the information.
  Similarly, I prompted Auto-GPT with GPT-4 API with the same goals, and it gave me a report.
 
 ![auto-gpt with gpt 4 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-4-output-example.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Based on the results, we can deduce that Auto-GPT is still a useful tool without GPT-4 API. In fact, Auto-GPT-3.5 tokens are way cheaper than GPT-4 tokens. Here is what you need to know about the[ChatGPT token limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) .
 
@@ -215,20 +227,16 @@ Once it's done, you can copy or save the information.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-filmmaking-fundamentals-for-engaging-facebook-groups-for-2024/"><u>[New] Filmmaking Fundamentals for Engaging Facebook Groups for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-top-windows-11-video-editing-tools-filmora-and-others/"><u>[Updated] Top Windows 11 Video Editing Tools Filmora & Others</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ais-influence-on-software-engineer-work-processes-perspectives/"><u>AI's Influence on Software Engineer Work Processes: Perspectives</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-artificial-intelligence-outshine-magazines-at-predicting-your-destiny/"><u>Can Artificial Intelligence Outshine Magazines at Predicting Your Destiny?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-text-limit-characterswords-counted/"><u>ChatGPT's Text Limit: Characters/Words Counted?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exploring-the-metaverse-and-omniverse-distinctions-for-2024/"><u>Exploring the Metaverse and Omniverse Distinctions for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/het-voorkeurslijst-van-hoegek-pdf-leessoftware-kies-zijnhaar-favoriet/"><u>Het VoorkeursLijst Van HoeGek PDF Leessoftware | Kies Zijn/Haar Favoriet!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung online without jailbreak</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-in-depth-comparison-of-trillers-features-to-tiktok-max-156-chars/"><u>In 2024, In-Depth Comparison of Triller's Features to TikTok (Max 156 Chars)</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-lava-yuva-2-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Lava Yuva 2 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/intuitive-bavarder-installation-on-linux-distros/"><u>Intuitive Bavarder Installation on Linux Distros</u></a></li>
-<li><a href="https://win-latest.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederaufbau-einer-gpt-datenpartition-erfahre-alles/"><u>Schritt-Für-Schritt-Anleitung Zum Wiederaufbau Einer GPT-Datenpartition - Erfahre Alles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stay-charged-and-cool-unveiling-the-ultimate-3-in-1-magsafe-dock-for-apple-users-exclusive-review-on-zdnet/"><u>Stay Charged and Cool: Unveiling the Ultimate 3-in-1 MagSafe Dock for Apple Users - Exclusive Review on ZDNet</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-dall-e-3s-new-edit-mode-current-status-and-opportunities-for-enhancement/"><u>Understanding DALL-E 3'S New Edit Mode - Current Status & Opportunities for Enhancement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-does-chatgpt-4-underperform-in-speed-relative-to-its-predecessor-chatgpt-35/"><u>Why Does ChatGPT-4 Underperform in Speed Relative to Its Predecessor, ChatGPT-3.5?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-complete-guide-webinar-software-top-10-best-webinar-software/"><u>[New] Complete Guide Webinar Software Top 10 Best Webinar Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-constructing-captivating-youtube-music-selections/"><u>[New] In 2024, Constructing Captivating YouTube Music Selections</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-the-metaverse-memetic-guide-sparkle-with-satire-and-smiles/"><u>[New] The Metaverse Memetic Guide - Sparkle with Satire and Smiles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-metaverses-versus-omniverse-unveiled/"><u>2024 Approved Metaverses Versus Omniverse Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-users-trust-chatgpts-safety-measures-against-security-threats/"><u>Can Users Trust ChatGPT's Safety Measures Against Security Threats?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-latest-chivalry-ii-game-crashing-issue-solutions-proven-effective/"><u>How to Fix the Latest Chivalry II Game Crashing Issue - Solutions Proven Effective</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-for-blue-screen-windows-error-code-0xc0000001/"><u>Quick Fixes for Blue Screen - Windows Error Code 0xC0000001</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-8-creative-prompts-for-impressive-ai-art-with-dall-e-3/"><u>Top 8 Creative Prompts for Impressive AI Art with DALL-E 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-chatgpt-hacks-exploring-the-risks-and-benefits/"><u>Understanding ChatGPT Hacks: Exploring the Risks & Benefits</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-maximum-efficiency-at-work-using-these-7-powerful-chatgpt-techniques/"><u>Unleash Maximum Efficiency at Work Using These 7 Powerful ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-with-these-7-essential-prompting-hacks/"><u>Unlock the Power of AI with These 7 Essential Prompting Hacks!</u></a></li>
 </ul></div>
 

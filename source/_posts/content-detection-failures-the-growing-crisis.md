@@ -1,7 +1,7 @@
 ---
 title: "Content Detection Failures: The Growing Crisis"
-date: 2024-09-11T19:31:27.446Z
-updated: 2024-09-12T19:31:27.446Z
+date: 2024-11-07T00:20:53.905Z
+updated: 2024-11-11T20:07:38.059Z
 tags:
   - chatgpt
   - open-ai
@@ -32,19 +32,6 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
 
 ![Man writing code on a laptop computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/bug-bounty-programs.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  OpenAI promises to protect you from liabilities or penalties if you follow its stated guidelines and will also acknowledge submissions and remedy validated vulnerabilities promptly. Furthermore, OpenAI claims it will publicly recognize your contribution if it is unique and leads to a configuration or code change.
 
  However, you cannot disclose your vulnerability-related findings to the public after submitting them.
@@ -52,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/410b1a4d385c6e4b30f8c2bafd9b2a73f332bf695
  This[bug bounty program](https://www.makeuseof.com/bug-bounty-programs/) covers vulnerabilities in all OpenAI systems, including API targets and keys, ChatGPT, and the research organization. However, the initiative does not cover safety issues with OpenAI's model, including safety bypasses and getting the model to create malicious code. In addition, the firm will not be rewarding issues related to model prompt content or responses and[AI hallucinations](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . You may report these to[OpenAI's team](https://openai.com/form/model-behavior-feedback) for model behavior feedback.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Much Can You Earn From OpenAI's Bug Bounty Program?
@@ -68,35 +55,22 @@ The maximum reward you can earn is $20,000.
 
  Additionally, the AI research company will not reimburse you for any purchases or upgrades you make when identifying or testing for bugs.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Participate in OpenAI's Bug Bounty Program
 
  Since Bugcrowd facilitates this bug bounty program, you must create a Bugcrowd account to participate. OpenAI even suggests you carry out authorized additional testing using an "@bugcrowdninja.com" email address.
 
 ![Bugcrowd log in page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/bugcrowd-log-in-page.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With a Bugcrowd account, you can click the "Submit Report" tab on the[Bugcrowd OpenAI program page](https://bugcrowd.com/openai) to report vulnerabilities. This will lead you to the submissions page.
 
 ![OpenAI Bug Bounty Submissions Page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/openai-bug-bounty-submissions-page.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here, you must fill in the following information:
 
@@ -113,20 +87,13 @@ Here, you must fill in the following information:
 ![Submit OpenAI Bug Bounty Form](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/submit-openai-bug-bounty-form.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note that you are not to submit API keys to Bugcrowd. You must only submit keys you find online through the[OpenAI API key form](https://forms.gle/h8bQ5YKWzXb8FtrQ8) .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Which Vulnerabilities Are Eligible for Rewards?
 
@@ -135,6 +102,13 @@ Here, you must fill in the following information:
  These include server-side injection, server security misconfiguration,[cross-site scripting](https://www.makeuseof.com/tag/crosssite-scripting-xss-security-threat/) (XSS), insecure OS/firmware, insecure data storage,[cross-site request forgery](https://www.makeuseof.com/what-are-csrf-attacks-and-how-can-you-prevent-them/) (CSRF), and broken authentication and session management.
 
  All the vulnerabilities must be in OpenAI's system, exploitable, and novel.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Earn Money While Improving OpenAI's Systems
 
@@ -155,5 +129,26 @@ Here, you must fill in the following information:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-premier-cutting-suites-on-linux-systems/"><u>[New] 2024 Approved Premier Cutting Suites on Linux Systems</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-take-your-fb-visibility-to-new-heights-proven-seo-strategies-reviewed/"><u>[New] 2024 Approved Take Your FB Visibility to New Heights Proven SEO Strategies Reviewed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-full-exploration-screenflow-v4-on-the-mac-platform-for-2024/"><u>[New] Full Exploration ScreenFlow v4 on the Mac Platform for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-step-by-step-guide-effortless-iphone-screen-recordings/"><u>[New] In 2024, Step-by-Step Guide Effortless Iphone Screen Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-transform-videos-into-stories-discover-the-top-10-reactions/"><u>[New] Transform Videos Into Stories Discover the Top 10 Reactions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fleet-footed-fun-prime-pc-and-mobile-game-picks/"><u>[Updated] Fleet-Footed Fun Prime PC and Mobile Game Picks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-worlds-best-short-videos-download-now-free/"><u>[Updated] In 2024, World's Best Short Videos – Download Now! (Free)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-techniques-for-reducing-the-file-size-of-mov-videos-efficiently/"><u>Best Techniques for Reducing the File Size of MOV Videos Efficiently</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/black-friday-bargains-alert-exclusive-collection-of-top-5-pc-software-offers-post-thanksgiving-savings-inside/"><u>Black Friday Bargains Alert: Exclusive Collection of Top 5 PC Software Offers, Post-Thanksgiving Savings Inside!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digiarty-software-premium-dvd-to-video-converter-your-ultimate-guide/"><u>Digiarty Software: Premium DVD-to-Video Converter - Your Ultimate Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725285559604-dvd/"><u>DVDコピーツール紹介:最新無料アプリとプロ用ソフトウェアの比較レビュー</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-video-production-achieve-optimal-quality-using-winxvideo-artificial-intelligence/"><u>Elevate Video Production: Achieve Optimal Quality Using Winxvideo Artificial Intelligence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/erstklassige-audiokonfigurations-tipps-bei-der-konvertierung-von-videoformaten-unter-verwendung-von-handbrake/"><u>Erstklassige Audiokonfigurations-Tipps Bei Der Konvertierung Von Videoformaten Unter Verwendung Von HandBrake</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-the-invalid-directory-name-error-message/"><u>How to Resolve the 'Invalid Directory Name' Error Message</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mejores-grabadores-de-pantalla-para-computadoras-windows-capturando-la-totalidad-en-versiones-10-8-o-7/"><u>Los Mejores Grabadores De Pantalla Para Computadoras Windows: Capturando La Totalidad en Versiones 10, 8 O 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reducing-bulky-video-files-using-imovies-smart-compression-features-for-easy-sharing-and-streaming/"><u>Reducing Bulky Video Files Using iMovie's Smart Compression Features for Easy Sharing and Streaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-to-enjoying-hd-content-connecting-and-playing-dvds-on-universal-models-including-samsung-sony-and-lg-televisions/"><u>Simple Steps to Enjoying HD Content: Connecting and Playing DVDs on Universal Models (Including Samsung, Sony & LG Televisions)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-the-top-10-free-4k-video-software-for-windows-11-and-mac-os-users/"><u>Ultimate Guide: The Top 10 Free 4K Video Software for Windows 11 and Mac OS Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Guarding Againnst Unauthorized Data Harvesting by Machine Learning Crawlers
-date: 2024-10-29T02:08:53.561Z
-updated: 2024-11-03T01:50:44.498Z
+date: 2024-11-05T01:08:36.019Z
+updated: 2024-11-12T06:46:50.952Z
 tags:
   - chatgpt
   - open-ai
@@ -29,10 +29,16 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  Because ChatGPT has only been trained with data up to September 2021, it cannot provide up-to-date information on the crypto market. Without real-time data, it becomes almost impossible to make a wise crypto trading decision, so it's best not to rely on ChatGPT entirely here.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. AI Hallucinations and Potential Biases
@@ -40,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 ![bitcoin logo at the end of warped tunnel ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/bitcoin-warped-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The huge success of ChatGPT, as well as the release of[similar AI chatbots](https://www.makeuseof.com/best-alternatives-chatgpt/) , has brought the concern of hallucination into the limelight.
@@ -60,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
  ChatGPT can hold a bias in certain scenarios due to its training data. According to[BBC Science Focus](https://www.sciencefocus.com/future-technology/gpt-3/) , ChatGPT was fed with an incredible 570GB of data from various sources, including books, journals, news articles, and Wikipedia. Most of this information was written by humans who hold biases, conscious or not. Even if less than 1% of ChatGPT's training data is biased, that still poses a problem.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Fails to Give Personalized Financial Advice
 
 ![shot of two people's legs as they sit across from each other](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/conversation-woman-man.jpg)
@@ -71,13 +84,6 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  Because ChatGPT knows nothing about your financial circumstances, delivering personalized financial advice is tough. How much you have to spend, your preferred platforms, your spending habits, how much you can afford to lose, and the profit you're looking to make must all be considered, and this may end up being too much for ChatGPT.
 
  This may result in the chatbot telling you it cannot satisfy your request or in AI hallucination, leading to an inaccurate response.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Relies Heavily on Historical Data
 
@@ -92,10 +98,16 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
  It's very important to remember this, as it's easy to assume you're getting crypto advice and statistics from a genius-level AI system when that isn't the case. You should never use ChatGPT as a substitute for professional financial advice or up-to-date sources because of this heavy reliance on historical data.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Lacks Insights Into Macroeconomic Factors
@@ -129,19 +141,16 @@ thumbnail: https://thmb.techidaily.com/6fa8c212e32cacf403b164cddaa0641d8c8c97401
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-sky-high-snapshot-5-top-screen-recorders/"><u>2024 Approved Sky High Snapshot - 5 Top Screen Recorders</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-honor-x9a-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Honor X9a System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bard-vs-bing-chat-a-comprehensive-battle-of-top-tech-giants-conversational-agents/"><u>Bard Vs. Bing Chat: A Comprehensive Battle of Top Tech Giants' Conversational Agents</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-ai-options-similar-to-chatgpt-for-self-coding-applications/"><u>Best AI Options Similar to ChatGPT for Self-Coding Applications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/evaluating-your-options-what-sets-copilot-apart-from-copilot-pro-and-should-you-make-the-move/"><u>Evaluating Your Options: What Sets Copilot Apart From Copilot Pro, And Should You Make the Move?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-one-on-one-to-global-how-does-gemini-challenge-chatgpt/"><u>From One-on-One to Global: How Does Gemini Challenge ChatGPT?</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-intrepid-insights-top-10-undiscovered-vlc-commands/"><u>In 2024, Intrepid Insights Top 10 Undiscovered VLC Commands</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-google-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Google FRP Bypass</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-mov-videos-on-huawei-by-aiseesoft-video-converter-play-mov-on-android/"><u>Issues playing MOV videos on Huawei </u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-yourself-how-to-recognize-and-react-to-suspected-chatgpt-fraudulent-sites/"><u>Protect Yourself: How to Recognize and React to Suspected ChatGPT Fraudulent Sites</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-missing-libcurldll-error-solutions-for-users/"><u>Troubleshooting The Missing Libcurl.dll Error – Solutions for Users</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-best-tiktok-watermark-remover-apps-for-android-and-iphone/"><u>[Updated] Best TikTok Watermark Remover Apps for Android and iPhone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-strategies-for-dominating-spotifys-advertising-space/"><u>[Updated] In 2024, Strategies for Dominating Spotify's Advertising Space</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-haste-in-video-supercharge-facebook-videos-with-proxies-and-tools/"><u>2024 Approved Haste in Video Supercharge Facebook Videos with Proxies and Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-well-being-with-these-9-innovative-uses-of-chatgpt/"><u>Elevate Your Well-Being with These 9 Innovative Uses of ChatGPT</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-livestream-experience-with-manycam-the-advanced-solution-for-real-time-virtual-webcams-and-editing-tools/"><u>Enhance Your Livestream Experience with ManyCam – The Advanced Solution for Real-Time Virtual Webcams and Editing Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-video-restrictions-what-you-must-know-for-2024/"><u>Instagram Video Restrictions What You Must Know for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introduction-to-claude-2-purpose-and-practical-use-cases/"><u>Introduction to Claude 2: Purpose and Practical Use Cases</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategies-for-securing-product-sponsors-on-youtube/"><u>Strategies for Securing Product Sponsors on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/struggling-with-erratic-key-presses-in-windows-11-discover-effective-remedies-now/"><u>Struggling with Erratic Key Presses in Windows 11? Discover Effective Remedies Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-world-of-predictive-ai-insights-into-functionality-and-applications/"><u>The World of Predictive AI: Insights Into Functionality & Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-gpt-4-in-chatgpt-conversations-today/"><u>Utilizing GPT-4 in ChatGPT Conversations Today</u></a></li>
 </ul></div>
 

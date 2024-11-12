@@ -1,7 +1,7 @@
 ---
 title: "Navigating ChatGPT Conversations: A Guide to Effective Sorting"
-date: 2024-10-31T19:10:02.645Z
-updated: 2024-11-02T22:50:31.488Z
+date: 2024-11-11T02:15:12.510Z
+updated: 2024-11-11T21:50:27.581Z
 tags:
   - chatgpt
   - open-ai
@@ -54,6 +54,19 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
 
  Claude AI clearly got this one. We tried a few more tricky problems, and both chatbots had a fair share of successes and failures in dealing with them. Considering the outcome we observed, it might be fair to say that while ChatGPT has an edge, both chatbots are not too far apart in common sense and logical reasoning abilities.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Math Skills
 
  Even if you never plan to use ChatGPT or Claude AI to solve your Algebra homework, their mathematical abilities have far-reaching implications. For AI chatbots, math is the key to understanding real-world logic, identifying flawed thinking, and admitting mistakes.
@@ -61,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd
  Essentially, math proficiency is a core metric of artificial intelligence. So, between ChatGPT and Claude AI, which chatbot is more proficient in math? We tasked both chatbots with solving a twisty math productivity problem. We started with Claude AI, and the chatbot cracked the problem.
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ChatGPT also cracked the problem as well.
 
@@ -77,18 +83,25 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
 
- We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
-
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
 ## ChatGPT vs. Claude AI: Creativity
 
@@ -100,19 +113,6 @@ ChatGPT also cracked the problem as well.
 
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
 ![Claude AI composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-composes-a-rap-lyrics.jpg)
@@ -120,13 +120,6 @@ ChatGPT also cracked the problem as well.
  Both lyrics are good, but ChatGPT seemed to have an edge here. It had better rhyming, and we had the result we needed on the first trial. We had to try three times before Claude AI could produce lyrics that rhymed. We'll give this one to ChatGPT.
 
  After trying out a few more creative tasks, Claude AI seemed to excel in writing-related tasks and was able to write more natural-sounding content like a human writer would do. Although[ChatGPT was better at overcoming more complex creative tasks](https://www.makeuseof.com/creative-ways-to-use-chatgpt-openai/) , it sometimes couldn't shake off that AI chatbot feeling in the text it generated. Our verdict? Both ChatGPT and Claude AI are creative in their own right.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT vs. Claude AI: Coding Skills
 
@@ -137,6 +130,19 @@ ChatGPT also cracked the problem as well.
  ​​​​​​That said, we put both chatbots on two coding tasks. We asked ChatGPT and Claude AI to write functional code for a to-do list app. Starting with ChatGPT, the AI chatbot was able to deliver a functional to-do list app on the first attempt. We copy-pasted and ran it on a browser, and it worked perfectly without errors. Here's the output on a browser.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
@@ -169,22 +175,21 @@ ChatGPT also cracked the problem as well.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ultimate-list-of-phone-editors-for-gopro-content/"><u>[New] 2024 Approved Ultimate List of Phone Editors for GoPro Content</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instagram-archive-in-minutes-with-these-tools/"><u>[New] Instagram Archive in Minutes with These Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-channel-boost-achieve-youtube-affiliate-milestone-with-10k-vistas-for-2024/"><u>[Updated] Channel Boost Achieve YouTube Affiliate Milestone with 10K Vistas for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-from-penniless-to-partnered-a-small-channels-journey/"><u>[Updated] In 2024, From Penniless to Partnered A Small Channel's Journey</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-essential-techniques-for-splendid-lyric-videos-lyric-video-maker-edition/"><u>2024 Approved Essential Techniques for Splendid Lyric Videos, Lyric Video Maker Edition</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-secrets-to-streamlining-lone-broadcasts-a-practical-guide/"><u>2024 Approved Secrets to Streamlining Lone Broadcasts A Practical Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easily-watch-mtsm2ts-movies-and-tv-shows-on-your-mac-with-these-top-ranked-free-tools/"><u>Easily Watch MTS/M2TS Movies and TV Shows on Your Mac with These Top-Ranked Free Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-festive-download-premium-hd-3d-christmas-walls-for-zero-cost/"><u>Get Festive: Download Premium HD 3D Christmas Walls for Zero Cost</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-maximizing-impact-with-every-second-in-a-youtube-short/"><u>In 2024, Maximizing Impact with Every Second in a YouTube Short</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/macx-dvd-to-itunes-conversion-suite-convert-your-videos-into-idevice-ready-formats-with-ease/"><u>MacX DVD to iTunes Conversion Suite - Convert Your Videos Into iDevice-Ready Formats with Ease</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/macx-hd-video-converter-professional-per-windows-acquisto-diretto-e-personalizzato-scelta-perfetta-per-i-professionisti/"><u>MacX HD Video Converter Professional per Windows: Acquisto Diretto E Personalizzato - Scelta Perfetta per I Professionisti</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-transferring-your-dvd-content-into-final-cut-pro-x-for-advanced-video-editing/"><u>Step-by-Step Guide: Transferring Your DVD Content Into Final Cut Pro X for Advanced Video Editing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-vob-to-mpeg-transformation-on-macos-improve-media-experience-with-easy-steps/"><u>Streamline VOB to MPEG Transformation on macOS – Improve Media Experience with Easy Steps!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-hassle-free-mediacoder-substitutes-for-mac-users-effortless-video-conversion-tools/"><u>Top Hassle-Free MediaCoder Substitutes for Mac Users: Effortless Video Conversion Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-desk-treadmills-for-active-workers/"><u>Top Rated Desk Treadmills for Active Workers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-mac-recording-tool-for-gamers-how-to-choose-the-best-app-for-video-and-audio-captures/"><u>Ultimate Mac Recording Tool for Gamers: How to Choose the Best App for Video & Audio Captures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-process-retrieving-your-computer-name-in-windows-10-environment/"><u>Unveiling the Process: Retrieving Your Computer Name in Windows 10 Environment</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-final-goodbye-to-youtubes-minis-a-step-by-step-process-for-2024/"><u>[New] Final Goodbye to YouTube's Minis A Step-by-Step Process for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-legal-fb-music-streaming-hub/"><u>[New] In 2024, Legal FB Music Streaming Hub</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-quickening-vimeo-video-watch-time/"><u>[Updated] In 2024, Quickening Vimeo Video Watch Time</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-strategies-for-skyrocketing-your-youtube-view-count/"><u>[Updated] Strategies for Skyrocketing Your YouTube View Count</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/snipping-toolwindows-11/"><u>画面キャプチャのためにSnipping ToolでWindows 11: 基本操作ガイド</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/effortless-guide-transforming-mp3-files-into-high-quality-m4a-audio/"><u>Effortless Guide: Transforming MP3 Files Into High-Quality M4A Audio</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-clear-sounds-on-your-airpods-a-step-by-step-solution/"><u>How To Restore Clear Sounds on Your AirPods: A Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mgv-to-mp4-convert-mgv-file-extensions-using-top-rated-conversion-software/"><u>MGV to MP4: Convert .mgv File Extensions Using Top-Rated Conversion Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp38-flac/"><u>MP3変換機能付きお勧めフリーソフト8選: FLACからの変換ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/perfect-video-blending-techniques-for-maintaining-ultimate-visual-clarity/"><u>Perfect Video Blending Techniques for Maintaining Ultimate Visual Clarity</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionary-apple-integration-introducing-native-av1-hardware-decode-capability/"><u>Revolutionary Apple Integration: Introducing Native AV1 Hardware Decode Capability</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-to-pinning-in-discord-dialogues/"><u>Step-by-Step Guide to Pinning in Discord Dialogues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-integrating-misfit-mods-into-your-personalized-kodi-interface/"><u>Step-by-Step Tutorial on Integrating Misfit Mods Into Your Personalized Kodi Interface</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twittrek-toolkit-a-comprehensive-approach-to-saving-tweets-visuals/"><u>TwitTrek Toolkit A Comprehensive Approach to Saving Tweets' Visuals</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-to-picking-your-perfect-apple-laptop-unpacking-the-macbook-pro-and-air-showdown-zdnet/"><u>Ultimate Guide to Picking Your Perfect Apple Laptop: Unpacking the MacBook Pro and Air Showdown | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m4a-3/"><u>ベストの無料フラック・M4Aファイル変換ツール 3つを紹介</u></a></li>
 </ul></div>
 

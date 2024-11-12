@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: Taking and Organizing Notes Like a Pro with ChatGPT"
-date: 2024-10-30T03:19:45.844Z
-updated: 2024-11-02T16:40:02.932Z
+date: 2024-11-09T04:04:56.865Z
+updated: 2024-11-12T00:20:30.085Z
 tags:
   - chatgpt
   - open-ai
@@ -58,15 +58,28 @@ After Installing Python, you can download Auto-GPT from GitHub.
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Step 3: Install Auto-GPT Dependencies
@@ -81,30 +94,16 @@ pip install -r requirements.txt
 4. After installation, try opening Auto-GPT using:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Congratulations! You have successfully Installed Auto-GPT.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Use Auto-GPT
 
@@ -138,18 +137,18 @@ Once you give your last goal, you can hit enter for Auto-GPT to run.
 
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This makes this[AI potentially dangerous](https://www.makeuseof.com/what-is-ai-what-dangers-does-artificial-intelligence-pose/) ; that's why Auto-GPT always asks you for authorization before executing plans. Always read and understand your AI assistant's thoughts, reasoning, and plan before authorizing its actions.
 
  After every action of the AI, you can also provide your feedback to help the AI with its task.
 
 ![Providing human input](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/4-recipe-generator-human-interaction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In this screenshot, our AI assistant has looped through the same step three times. So, we tell the AI to skip browsing for recipes and start creating the output.
 
@@ -161,20 +160,14 @@ After making the recipe, our AI has now completed its task.
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
- Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
-
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
 ## Auto-GPT Limitations
 
@@ -187,6 +180,13 @@ After making the recipe, our AI has now completed its task.
  Other problems that contribute to Auto-GPT getting stuck are the model struggling to handle or navigate website advertising and cookies, login pages, and all kinds of pop-ups (the stuff humans hate, too!).
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## The Future of Auto-GPT
 
@@ -209,20 +209,22 @@ After making the recipe, our AI has now completed its task.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-from-noob-to-pro-making-the-list-of-popular-fb-songs-and-videos/"><u>[Updated] In 2024, From Noob to Pro Making the List of Popular FB Songs and Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-tailored-gaming-experience-without-cross-play-in-apex/"><u>[Updated] In 2024, Tailored Gaming Experience without Cross-Play in Apex</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-smooth-path-from-instagram-visuals-to-mp3-sound/"><u>[Updated] Smooth Path From Instagram Visuals to Mp3 Sound</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-windows-10-graphics-via-hp-software/"><u>Boost Windows 10 Graphics via HP Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digiartys-special-18th-anniversary-project-celebrate-with-us/"><u>Digiarty's Special 18Th Anniversary Project - Celebrate with Us</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-13-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 13 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/introducing-videoproc-transforming-iphone-video-production-unveil-the-future-with-our-grand-release-and-exclusive-iphone-xs-giveaway/"><u>Introducing VideoProc: Transforming iPhone Video Production - Unveil the Future with Our Grand Release and Exclusive iPhone XS Giveaway!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/learn-to-edit-like-a-pro-with-this-ultimate-final-cut-pro-instructional-series/"><u>Learn to Edit Like a Pro with This Ultimate Final Cut Pro Instructional Series</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-compatibility-updating-the-drivers-for-your-corsair-gaming-audio-equipment-on-windows-pcs/"><u>Seamless Compatibility: Updating the Drivers for Your Corsair Gaming Audio Equipment on Windows PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-image-migration-a-guide-to-relocating-photos-from-iphone-to-macbook-proair/"><u>Seamless Image Migration: A Guide to Relocating Photos From iPhone to MacBook Pro/Air</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-upgrading-your-arduino-usb-drivers-for-windows-1011/"><u>Step-by-Step Guide: Upgrading Your Arduino USB Drivers for Windows 10/11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-reliable-substitutes-for-safe-keepvid-pro-enabling-simple-and-secure-video-downloads/"><u>Top Reliable Substitutes for Safe KeepVid Pro Enabling Simple and Secure Video Downloads</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-rated-dvd-converter-apps-for-android-devices-seamlessly-transfer-your-movies-from-dvds-to-smartphone-or-tablet/"><u>Top-Rated DVD Converter Apps for Android Devices: Seamlessly Transfer Your Movies From DVDs to Smartphone or Tablet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-essential-windows-11-camcorders-and-webcams-guide/"><u>[New] Essential Windows 11 Camcorders & Webcams Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastery-in-motion-a-guide-for-expert-color-balancing/"><u>[New] In 2024, Mastery in Motion A Guide for Expert Color Balancing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-strategies-for-showcasing-your-video-content-for-2024/"><u>[New] Social Media Strategies for Showcasing Your Video Content for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iuwlleeuuplusoduplusmfsplusalveockuwgjeeunplusobmeociplusobnplusocgeobruodluodqeocpuoctuakgoihkplusocroocpooditrop6pmsbrnrzbjgavvj8i/"><u>動画・音楽を再生するためのブラウザ技術ガイド:解決策は？</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726224904894-movaviwtvmp4/"><u>網路上無需付錢，用Movavi做WTV到MP4的轉換 - 自由版</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-in-action-selecting-your-social-sphere-sidekick/"><u>AI in Action: Selecting Your Social Sphere Sidekick</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-strategies-for-reducing-bandwidth-by-streaming-audio-only-on-youtube/"><u>Effective Strategies for Reducing Bandwidth by Streaming Audio-Only on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-batch-upgrade-your-music-library-by-changing-shn-to-lossless-flac-format/"><u>Efficiently Batch Upgrade Your Music Library by Changing SHN to Lossless FLAC Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-dvd-to-mkv-conversion-for-users-of-windows-11-and-10-a-step-by-step-guide/"><u>Effortless DVD-to-MKV Conversion for Users of Windows 11 & 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-how-to-transform-your-m4v-files-into-mp3-format-on-a-windows-pc/"><u>Effortless Guide: How to Transform Your M4V Files Into MP3 Format on a Windows PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-knowledge-on-adobe-cloud-supplemented-by-other-options/"><u>Essential Knowledge on Adobe Cloud, Supplemented by Other Options</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-instant-music-downloads-master-the-quick-guide-to-securing-every-track-on-hearthisat-now/"><u>Free Instant Music Downloads! Master the Quick Guide to Securing Every Track on Hearthis.at Now!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-novices-blueprint-for-easy-stressless-nft-making/"><u>In 2024, Novice's Blueprint for Easy, Stressless NFT Making</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphoneipaddvd/"><u>IPhone/iPadでDVD音声ファイルを移動するための簡単ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4mkvmodasfwmv/"><u>MP4/MKV/MOD/ASFフォーマットからWMVへの簡単な変換法</u></a></li>
+<li><a href="https://article-posts.techidaily.com/revolutionizing-your-photo-video-experience-for-2024/"><u>Revolutionizing Your Photo-Video Experience for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/violating-copyrights-in-video-posting-what-are-the-consequences/"><u>Violating Copyrights in Video Posting What Are the Consequences?</u></a></li>
 </ul></div>
 

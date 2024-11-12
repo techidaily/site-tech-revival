@@ -1,7 +1,7 @@
 ---
 title: What Does the Co-Pilot Extension Do for ChatGPT?
-date: 2024-10-30T04:29:30.881Z
-updated: 2024-11-03T06:47:12.250Z
+date: 2024-11-06T17:39:54.419Z
+updated: 2024-11-11T18:23:19.413Z
 tags:
   - chatgpt
   - open-ai
@@ -43,17 +43,10 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
 ![fact checking with link reader plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/fact-checking-with-link-reader-plugin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. InstaCart
@@ -65,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
  In the illustration below, we prompted ChatGPT with some ingredients we had. Then, we asked it what meal we could cook with them. After suggesting we cook Jollof rice, ChatGPT listed the additional ingredients we'll need and asked whether to generate an InstaCart shopping list.
 
 ![InstaCart and ChatGPT in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/instacart-and-chatgpt-in-action.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When we replied "yes," InstaCart generated a link to a shopping list of the remaining ingredient we'll need to cook Jollof rice.
 
@@ -98,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/c35bb55569306b5428a10bd1ab44596d5c722993d
  Wolfram was able to run the generated information against its database to check for accuracy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. ChatWithPDF
@@ -116,19 +102,20 @@ Does GPT-4 have visual input abilities? Use the PDF at the URL "<https://cdn.ope
 
 ![GPT-4 visual input abilities](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/gpt-4-visual-input-abilities.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Turns out another important use case is making sense of technical documents like this.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Video Insights
@@ -141,13 +128,26 @@ What's the YouTube video at this URL (<https://www.youtube.com/watch?v=OFvXuyITw
 
 ![VideoInsights Plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/videoinsights-plugin-in-action.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Yes, it was a spot-on description of the video if you're wondering.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. SceneXplain
@@ -157,6 +157,13 @@ Yes, it was a spot-on description of the video if you're wondering.
  We drew an image of a web page layout and asked ChatGPT to create an HTML and CSS code that replicates the layout by invoking SceneXplain. The results weren't too far off the mark.
 
 ![SceneXplain plugin in action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/scenexplain-plugin-in-action.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To use the plugin, use a prompt like:
 
@@ -169,13 +176,6 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
  In the example below, we prompted ChatGPT to suggest some AI tools we can use to manipulate pictures into a music video. Some of it turned out to be a revelation.
 
 ![There is an AI for that ChatGPT plugin](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/there-is-an-ai-for-that-chatgpt-plugin.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. What to Watch
 
@@ -202,18 +202,19 @@ Explain this image: <https://images.pexels.com/photos/7876708/pexels-photo-78767
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-color-mastery-selecting-the-best-luts-for-lightroom-editors/"><u>[New] Color Mastery Selecting the Best LUTs for LightRoom Editors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-crafting-a-seamless-social-journey-from-instaplustik/"><u>[New] Crafting a Seamless Social Journey From Insta+Tik</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitters-wild-ride-the-hottest-tweets-unveiled/"><u>[New] In 2024, Twitter's Wild Ride The Hottest Tweets Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-picks-unlimited-photo-sharing-platforms/"><u>[New] Leading Picks Unlimited Photo Sharing Platforms</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-and-conversational-agents-how-chatbots-replicate-speaking-to-people/"><u>AI and Conversational Agents: How Chatbots Replicate Speaking to People</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparative-guide-for-ai-tools-in-the-workforce-is-bing-chat-suitable/"><u>Comparative Guide for AI Tools in the Workforce: Is Bing Chat Suitable?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/create-like-a-pro-top-rated-animation-software-for-mac-and-pc/"><u>Create Like a Pro Top-Rated Animation Software for Mac and PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/decoding-ai-black-boxes-an-explanation/"><u>Decoding AI Black Boxes: An Explanation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-the-future-of-interactive-ai-platforms-in-europe-the-eus-ai-act-and-its-impact-on-gpt-like-systems/"><u>Decoding the Future of Interactive AI Platforms in Europe - The EU's AI Act and Its Impact on GPT-Like Systems</u></a></li>
-<li><a href="https://win-info.techidaily.com/effortless-conversion-of-chomikuj-downloads-into-popular-video-types-mp4-mov-and-avi/"><u>Effortless Conversion of Chomikuj Downloads Into Popular Video Types: MP4, MOV, and AVI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/membership-or-not-the-gptplus-dilemma/"><u>Membership or Not? The GPT+ Dilemma</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/safety-in-solitude-can-a-conversation-with-ai-help/"><u>Safety in Solitude: Can a Conversation with AI Help?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-formula-behind-chatgpts-meteoric-ascent-as-a-leading-app-in-history/"><u>The Formula Behind ChatGPT's Meteoric Ascent as a Leading App in History</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-innovative-platforms-simplifying-group-chats-for-2024/"><u>[New] Innovative Platforms Simplifying Group Chats for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-netflix-picture-in-picture-how-to-use-the-netflix-floating-window-feature/"><u>[New] Netflix Picture-in-Picture - How to Use the Netflix Floating Window Feature</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-transforming-your-igtv-presence-with-new-covers-for-2024/"><u>[New] Transforming Your IGTV Presence with New Covers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-loop-a-video-on-iphone-for-2024/"><u>[Updated] How to Loop A Video on iPhone for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-generative-ais-functioning-and-corporate-implementations/"><u>Behind the Scenes: Generative AI's Functioning & Corporate Implementations</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/easter-special-winxdvd-celebrates-the-holiday-in-april-2024/"><u>Easter Special: WinXDVD Celebrates the Holiday in April 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-recommended-podcasts-from-spotify/"><u>In 2024, How To Remove Recommended Podcasts From Spotify</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-your-compreran-guide-to-creating-viral-ad-videos-for-free/"><u>In 2024, Your Compreran Guide to Creating Viral Ad Videos for Free</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-latest-apple-tv-4k-third-gen-model-overview/"><u>In-Depth Analysis of the Latest Apple TV 4K: Third Gen Model Overview</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-streaming-tools-discover-manycam-your-ultimate-live-video-and-virtual-camera-solution/"><u>Real-Time Streaming Tools: Discover ManyCam - Your Ultimate Live Video and Virtual Camera Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/real-time-streaming-broadcasts-virtual-camera-experience-and-live-video/"><u>Real-Time Streaming, Broadcasts, Virtual Camera Experience, and Live Video.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-crafting-customized-manycam-eye-filters-with-adobe-photoshop/"><u>Step-by-Step Guide: Crafting Customized ManyCam Eye Filters with Adobe Photoshop</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcast-with-manycam-the-ultimate-solution-for-virtual-webcams-and-streaming-tech/"><u>Transform Your Broadcast with ManyCam - The Ultimate Solution for Virtual Webcams and Streaming Tech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/virtucam-xt-next-gen-live-video-editing-with-virtual-background-technology/"><u>VirtuCam XT: Next-Gen Live Video Editing with Virtual Background Technology</u></a></li>
 </ul></div>
 

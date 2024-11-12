@@ -1,7 +1,7 @@
 ---
 title: "Peeling Back Layers in AI Security: How Do Prompt Injections Work?"
-date: 2024-11-01T01:33:30.463Z
-updated: 2024-11-03T00:47:02.666Z
+date: 2024-11-10T06:20:27.521Z
+updated: 2024-11-11T20:29:25.349Z
 tags:
   - chatgpt
   - open-ai
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
@@ -64,23 +57,9 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3 Create Your Own Custom GPT
 
@@ -88,15 +67,22 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  You must have a Plus subscription to create custom GPTs. Paying will let you[build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
@@ -113,9 +99,29 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -140,21 +146,22 @@ thumbnail: https://thmb.techidaily.com/5e9bfb6a7e4a347d52ac2274763d8cb00a024229f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-interactive-learning-landscapes-with-vr/"><u>[Updated] Interactive Learning Landscapes with VR</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-unveiling-samsungs-revolutionary-galaxy-z-flip-6-the-future-of-foldable-phones/"><u>1. Unveiling Samsung's Revolutionary Galaxy Z Flip 6: The Future of Foldable Phones</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-mambos-in-the-mangroves/"><u>2024 Approved Mambos in the Mangroves</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultra-hd-revolution-dissecting-samsungs-ue590-tv/"><u>2024 Approved The Ultra HD Revolution - Dissecting Samsung's UE590 TV</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210055162-9781911134473-magic-of-the-north-gate-2nd-ed/"><u>Magic of the North Gate (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://extra-information.techidaily.com/picking-a-champion-in-video-software-vlcmx/"><u>Picking a Champion in Video Software VLC/MX</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/revive-your-soundscape-the-ultimate-guide-to-troubleshooting-nvidia-hd-audio-issues/"><u>Revive Your Soundscape: The Ultimate Guide to Troubleshooting Nvidia HD Audio Issues</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamlessly-integrate-and-use-windows-software-on-your-linux-system-with-our-top-tool-choice/"><u>Seamlessly Integrate and Use Windows Software on Your Linux System with Our Top Tool Choice</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/securing-image-data-in-linux-removing-exif-information-using-exiftool/"><u>Securing Image Data in Linux: Removing EXIF Information Using Exiftool</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/selecting-your-streaming-choice-podcast-or-video-platform/"><u>Selecting Your Streaming Choice Podcast or Video Platform</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solve-your-windows-start-menu-issues-expert-tips-and-quick-fixes/"><u>Solve Your Windows Start Menu Issues: Expert Tips & Quick Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/solving-windows-11s-zip-dilemma-a-guide-to-restoring-compromised-compressed-files/"><u>Solving Windows 11'S ZIP Dilemma: A Guide to Restoring Compromised Compressed Files</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/tablet-face-off-understanding-what-sets-the-ipad-mini-apart-from-the-ipad-air/"><u>Tablet Face-Off: Understanding What Sets the iPad Mini Apart From the iPad Air</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-tricks-for-terminating-lagging-applications-on-your-windows-11-pc/"><u>Ultimate Tricks for Terminating Lagging Applications on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-threat-how-windows-updates-can-be-manipulated-to-reverse-security-fixes/"><u>Unraveling the Threat: How Windows Updates Can Be Manipulated to Reverse Security Fixes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-eco-editing-tools-no-charge/"><u>[Updated] Eco Editing Tools No Charge</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-unlock-new-dimensions-of-your-missing-iphone-x/"><u>[Updated] Unlock New Dimensions of Your Missing iPhone X</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mpgmp33/"><u>無料で簡単な曲変換! MPG形式をMP3にする上位3選手</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965143168-how-to-download-and-install-drivers-on-your-hp-envy-laptop-effortless-guide/"><u>How to Download & Install Drivers on Your HP ENVY Laptop | Effortless Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-leading-plot-coders-space/"><u>In 2024, Leading Plot Coders Space</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oneplus-11r-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For OnePlus 11R</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introducing-the-revolutionary-self-design-feature-customizing-your-own-moto-x-smartphone/"><u>Introducing the Revolutionary Self-Design Feature: Customizing Your Own Moto X Smartphone!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-square-video-edits-a-complete-walkthrough-for-windows-11-users/"><u>Mastering the Art of Square Video Edits: A Complete Walkthrough for Windows 11 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-versus-mp4/"><u>MP3 versus MP4 - 違いとフォーマット間で変換する手順</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/partial-screenshot-capture-in-windows-10-and-11-a-step-by-step-guide/"><u>Partial Screenshot Capture in Windows 10 & 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-looms-desktop-application-and-chrome-extension-issues-a-comprehensive-guide/"><u>Resolving Loom's Desktop Application & Chrome Extension Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-hdx-format-support-on-your-phone-expert-tips-for-optimizing-media-experience-on-android-devices/"><u>Seamless HDX Format Support on Your Phone: Expert Tips for Optimizing Media Experience on Android Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secure-your-favorite-pbs-show-get-them-for-free-with-our-leading-techniques/"><u>Secure Your Favorite PBS Show - Get Them For Free With Our Leading Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/soaring-sights-dissecting-the-gopro-karma-drones-features-for-2024/"><u>Soaring Sights Dissecting the GoPro Karma Drone's Features for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-steps-overcoming-the-google-chrome-doesnt-launch-issue/"><u>Solution Steps: Overcoming the 'Google Chrome Doesn't Launch' Issue</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-icloud-backup-failures-discover-9-handy-fixes/"><u>Troubleshooting iPhone iCloud Backup Failures: Discover 9 Handy Fixes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is Google's New Gemini AI Surpassing ChatGPT in Conversational Capabilities?
-date: 2024-10-30T23:49:05.293Z
-updated: 2024-11-02T16:13:06.646Z
+date: 2024-11-11T00:43:57.220Z
+updated: 2024-11-12T05:01:34.908Z
 tags:
   - chatgpt
   - open-ai
@@ -26,6 +26,13 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -37,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -57,24 +57,24 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -86,10 +86,10 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -115,22 +115,18 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-flv-to-youtubes-master-the-art-of-video-transformation-with-these-top-tools/"><u>[New] In 2024, Flv to Youtubes Master the Art of Video Transformation with These Top Tools</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-mastering-time-warp-your-snapchat-slideshow-guide/"><u>[New] Mastering Time Warp Your Snapchat Slideshow Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/bring-the-best-of-both-worlds-operating-android-apps-on-windows-11-systems/"><u>Bring the Best of Both Worlds: Operating Android Apps on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-backup-of-secure-movies-using-macx-dvd-ripper-get-your-favorite-films-for-free/"><u>Effortless Backup of Secure Movies Using MacX DVD Ripper: Get Your Favorite Films for Free!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experiencing-issues-with-cortana-heres-how-you-can-resolve-them/"><u>Experiencing Issues With Cortana? Here's How You Can Resolve Them</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-pros-and-cons-of-apples-imac-with-a-5k-retina-display-comprehensive-guide/"><u>Exploring the Pros & Cons of Apple's iMac with a 5K Retina Display: Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-watch-active-for-enhanced-fitness-tracking/"><u>In-Depth Analysis of the Samsung Galaxy Watch Active for Enhanced Fitness Tracking</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-mp4-manipulation-a-step-by-step-tutorial-for-dividingcombining-video-files-on-mac-and-pc/"><u>Mastering MP4 Manipulation: A Step-by-Step Tutorial for Dividing/Combining Video Files on Mac & PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/moving-dvds-to-your-surface-device-for-on-the-move-cinematic-experiences/"><u>Moving DVDs to Your Surface Device for On-the-Move Cinematic Experiences</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mpeg-video-splitting-made-easy-top-5-free-tools/"><u>New In 2024, MPEG Video Splitting Made Easy Top 5 Free Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimal-m2ts-format-changeover-tool-on-mac-quick-compact-videos-with-superior-quality/"><u>Optimal M2TS Format Changeover Tool on Mac - Quick, Compact Videos with Superior Quality!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/protecting-art-from-generative-ai-a-guide-to-using-nightshades/"><u>Protecting Art From Generative AI: A Guide to Using Nightshades</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/strumenti-fai-tutti-mac-scarica-makemkv-per-riprodurre-senza-costi-i-tuoi-film-blu-raydvd/"><u>Strumenti Fai Tutti Mac: Scarica MakeMKV per Riprodurre Senza Costi I Tuoi Film Blu-Ray/DVD</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-essential-guide-to-lg-360-camera-features-update-2023-for-2024/"><u>The Essential Guide to LG 360 Camera Features Update 2023 for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-9-introductory-ai-toolsets-for-new-enthusiasts/"><u>Top 9 Introductory AI Toolsets for New Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-ranking-mac-youtube-downloader-fur-die-schnelle-umwandlung-von-youtube-videos-zu-mp3mp4-gratis-tools/"><u>Top-Ranking Mac YouTube Downloader Für Die Schnelle Umwandlung Von Youtube Videos Zu MP3/MP4 – Gratis Tools!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/universal-viewing-how-to-bypass-dvd-region-restrictions-with-a-simple-conversion-tool/"><u>Universal Viewing: How to Bypass DVD Region Restrictions with a Simple Conversion Tool</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-upload-gif-to-instagram-in-4-steps/"><u>[Updated] In 2024, How To Upload GIF to Instagram in 4 Steps</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024-windows-11-8/"><u>2024年版 Windows 11用 ベスト無料動画編集アプリ トップ8推奨!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5asw6yoo6zplusz44ks5o6s6zmk44gx44gm44kv44oq44ki44gq55s75yop6yyy6kaw5pa55rov/"><u>外部音を排除してクリアな画像録視方法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/adaptable-video-format-shifter-smoothly-transition-from-any-video-type-to-flv-and-vice-versa/"><u>Adaptable Video Format Shifter: Smoothly Transition From Any Video Type to FLV and Vice Versa</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726029585173-avi/"><u>AVIファイルで画像・音声が出ない原因分析とトラブルシューティングガイド</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-basics-of-bios-and-its-relation-to-uninstallers-like-revo/"><u>Exploring the Basics of BIOS and Its Relation to Uninstallers Like Revo</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>In 2024, Mastering VLC MP4 & Various Format Conversion Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-review-the-perfect-blend-of-fitness-and-functionality-in-the-huawei-watch-gt-runner/"><u>In-Depth Review: The Perfect Blend of Fitness and Functionality in the Huawei Watch GT Runner</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/leading-home-meteorological-devices-reviewed-2024-edition/"><u>Leading Home Meteorological Devices Reviewed: 2024 Edition</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/rokus-sonic-leap-streaming-and-audio-revamp/"><u>Roku's Sonic Leap: Streaming & Audio Revamp</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/transforming-business-with-metaverse-ideas/"><u>Transforming Business with Metaverse Ideas</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030017812-windows-1011/"><u>マルチメディア編集:Windows 10および11で動画アスペクト比と解像度変更のテクニック</u></a></li>
 </ul></div>
 

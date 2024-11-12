@@ -1,7 +1,7 @@
 ---
 title: "Programming Wit: Does Artificial Intelligence Have a Sense of Humor?"
-date: 2024-10-26T22:34:58.621Z
-updated: 2024-11-03T06:24:19.736Z
+date: 2024-11-08T02:43:06.777Z
+updated: 2024-11-12T09:09:39.300Z
 tags:
   - chatgpt
   - open-ai
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  The lectures are content-rich and easy to follow. You'll be inspired to use, instead of fearing, large language models like ChatGPT. You'll understand how AI can be helpful in writing, programming, art, thought experiments, and other creative projects. And at the end of the course, you'll be proud to have written your first prompt and developed your own prompt-based application.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2.[Introduction to Prompt Engineering for Generative AI (LinkedIn Learning)](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/joining-the-nlp-revolution)
@@ -54,16 +60,16 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  Each topic is concisely explained, providing all you need to begin your AI prompt engineering journey. You'll gain a solid foundation in AI that should lead to more in-depth learning. When you feel like you need more information, you can refer to the other online courses on this list. As Software Developer and Instructor Ronnie Sheer says, AI is a fast-evolving field, so there's always space for continuous learning.
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3.[How to Research and Write Using Generative AI Tools (LinkedIn Learning)](https://www.linkedin.com/learning/how-to-research-and-write-using-generative-ai-tools/how-to-work-with-ai)
@@ -78,16 +84,16 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
  The lessons emphasize that AI does not replace you as a human. Instead, it augments your work so that you can produce better results. When ChatGPT gives you an output, you must still use your skills and judgment to check and refine the answers and deliver the best results.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[Learn Prompting](https://learnprompting.org/)
 
 ![Learn Prompting Website showing Basic Applications lessons](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/muo-photo-standard-40.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you prefer reading rather than watching videos, access the Learn Prompting website. The curriculum takes you through basic to advanced prompting techniques using text-based lessons. The courses are free for everyone and were developed by researchers, translators, and hobbyists.
 
@@ -98,10 +104,16 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  The Learn Prompting site offers bite-sized and practical lessons you can easily bookmark. Use the readings to recall and review AI prompt engineering concepts quickly. This site is for you if you want substantial facts that cover the essentials.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5.[ChatGPT Ultimate Guide (Skillshare)](https://skillshare-ambassador.pxf.io/c/119570/828598/11648?subId1=UUmuoUeUpU2025238&subId2=emuo&u=https%3A%2F%2Fwww.skillshare.com%2Fen%2Fclasses%2FChatGPT-Ultimate-Guide-10x-Your-Productivity-Creativity-with-ChatGPT%2F2113872437)
@@ -139,15 +151,17 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-discover-the-art-of-youtube-playlist-shuffling-for-2024/"><u>[Updated] Discover the Art of YouTube Playlist Shuffling for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-financial-frontier-acquiring-high-value-youtubes/"><u>2024 Approved The Financial Frontier Acquiring High-Value Youtubes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-artificnial-intelligence-assistants-deciding-between-microsofts-bing-chat-or-googles-chatgpt/"><u>Best Artificnial Intelligence Assistants? Deciding Between Microsoft's Bing Chat or Google's ChatGPT.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-tips-for-building-and-maintaining-your-meditation-habit/"><u>ChatGPT Tips for Building and Maintaining Your Meditation Habit</u></a></li>
-<li><a href="https://fox-http.techidaily.com/flashing-lights-of-olympic-speed-for-2024/"><u>Flashing Lights of Olympic Speed for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-poco-f5-pro-5g-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Poco F5 Pro 5G Without Password?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-xiaomi-redmi-note-12-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Xiaomi Redmi Note 12 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-rectify-windows-11s-zero-a00f-app-mishap/"><u>Strategies to Rectify Windows 11’S Zero-A00F APP Mishap</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-power-and-potential-of-claude-2/"><u>The Power and Potential of Claude 2</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/when-chatbots-betray-you-the-threats-of-neural-network-reverse-engineering-attacks/"><u>When Chatbots Betray You: The Threats of Neural Network Reverse Engineering Attacks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-5-ways-to-record-league-of-legends-lol-games-for-2024/"><u>[New] 5 Ways to Record League of Legends (LOL) Games for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-your-guide-to-premium-full-screen-recorders-for-pcmac/"><u>[Updated] 2024 Approved Your Guide to Premium Full-Screen Recorders for PC/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-essential-troubleshooting-tips-to-resolve-dreamlight-valley-crashes-on-windows/"><u>6 Essential Troubleshooting Tips to Resolve Dreamlight Valley Crashes on Windows</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-moments-access-the-worlds-best-12-livestreams/"><u>Capture Moments Access the World's Best 12 Livestreams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-special-role-in-enterprise-settings/"><u>ChatGPT's Special Role in Enterprise Settings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-the-release-of-gpt-5-imminent-anticipating-its-official-debut-date/"><u>Is the Release of GPT-5 Imminent? Anticipating Its Official Debut Date</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-your-writing-process-integrating-chatgpt-into-microsoft-word/"><u>Simplify Your Writing Process: Integrating ChatGPT Into Microsoft Word</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/to-develop-engaging-lifestyle-enlightenment-vids/"><u>Tips to Develop Engaging Lifestyle Enlightenment Vids</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-enhancing-your-airpods-pro-experience-recommendations-by-zdnet/"><u>Ultimate Guide to Enhancing Your AirPods Pro Experience - Recommendations by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-hidden-perils-in-ai-an-in-depth-guide/"><u>Unveiling the Hidden Perils in AI - An In-Depth Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-maximize-your-workflow-the-10-best-video-editing-software-tools/"><u>Updated Maximize Your Workflow The 10 Best Video Editing Software Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-settle-for-less-when-you-can-have-an-excellent-open-source-option-instead-of-waiting-for-chatgpt-desktop/"><u>Why Settle for Less When You Can Have an Excellent Open Source Option Instead of Waiting for ChatGPT Desktop?</u></a></li>
 </ul></div>
 

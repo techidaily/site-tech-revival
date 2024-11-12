@@ -1,7 +1,7 @@
 ---
 title: Magazine Horoscopes or ChatGPT Predictions – Can Tech Outshine Tradition?
-date: 2024-11-01T05:30:43.385Z
-updated: 2024-11-03T04:39:19.945Z
+date: 2024-11-09T21:17:08.862Z
+updated: 2024-11-12T07:29:57.962Z
 tags:
   - chatgpt
   - open-ai
@@ -44,16 +44,16 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 ![ChatGPT Generated a 200-Word Article on Cats](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-on-cats.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now, compare it with the below photo. You’ll notice that the response follows the exact template, although this one talks about dogs.
 
 ![ChatGPT Generated a 200-Word Article on Dogs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-article-about-dogs.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Overdependence on AI Makes You a Lazy Researcher
 
@@ -62,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
  While innovative and convenient, this technology makes people lazy. If you constantly yearn for instant gratification, you’ll eventually neglect challenging yet critical tasks, e.g., fact-checking, data analysis, and topic research.
 
  Before writing, make sure you study your subject. Extensive research is the core of every well-written piece—spend at least 30 to 60 minutes reading online sources. You can provide value by comparing resources, laying down verified facts, and asserting well-founded conclusions. Simply paraphrasing what chatbots say is senseless.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. AI Scrapes Commonly Published Information
 
@@ -82,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
  Of course, you can still discuss general subjects. Just make sure you cover a unique angle or stand that aligns with your branding and image.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. AI Generates the Same Results for Similar Questions
 
  While AI scans billions of resources, its answers contain the same information. Chatbots and writing tools generate formulaic text comprising repeated data, regardless of how you state questions. Restructuring prompts will only trigger sentence variations.
@@ -93,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 ![ChatGPT Generates Dog Articles in Different Tones](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/chatgpt-dog-articles-examples.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI writing tools and chatbots can structure responses in certain ways. For instance, the above photo shows that ChatGPT could form professional and casual variations of the same topic. Generally, if you insert specific keywords into your prompts, you’ll trigger detailed changes.
@@ -106,10 +106,16 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
  It’s best to curate articles yourself. Remember that consistent branding plays a crucial role in retaining site visitors. The content you publish, your layout, and the conclusions you assert should resonate with your target audience. Give them reasons to come back to your site.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Writing Tools Don’t Incorporate SEO Tactics Into Its Pieces
@@ -125,16 +131,10 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 ![Plagiarism Checker Results of AI-Generated Text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/plagiarism-checker-results.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI doesn’t gather information from just one site. Before producing an appropriate response, it runs relevant data from billions of resources through its language model. You can’t trace AI pieces back to a single source.
@@ -164,24 +164,22 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-direct-to-digital-webcam-capture-through-vlc-media-player/"><u>[New] In 2024, Direct-to-Digital Webcam Capture Through VLC Media Player</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-examining-if-reviewers-get-payed/"><u>[Updated] Examining if Reviewers Get Payed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-vintage-racing-spectacles-top-five/"><u>[Updated] In 2024, Vintage Racing Spectacles Top Five</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/anonymous-legacy-non-protected-creative-pieces/"><u>Anonymous Legacy Non-Protected Creative Pieces</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/livestream-capturing-solutions-for-content-makers-for-2024/"><u>Best Livestream Capturing Solutions for Content Makers for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/disable-unsolicited-youtube-video-listings/"><u>Disable Unsolicited YouTube Video Listings</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-vivo-x100-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Vivo X100</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-spark-go-2024-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Tecno Spark Go (2024) Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/joby-wavo-pro-mic-evaluation-a-top-choice-for-camera-and-phone-shooters/"><u>Joby Wavo Pro Mic Evaluation - A Top Choice for Camera & Phone Shooters</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/leveraging-the-power-of-cookiebot-for-advanced-site-engagement/"><u>Leveraging the Power of Cookiebot for Advanced Site Engagement</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/master-your-typing-experience-on-the-keychron-s9-wireless-mechanical-keyboard-in-depth-analysis-and-evaluation/"><u>Master Your Typing Experience on the Keychron S9 Wireless Mechanical Keyboard - In-Depth Analysis and Evaluation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-on-the-go-charging-in-depth-review-of-the-portable-high-capacity-ugreen-powerroam-npower-unit-2200/"><u>Mastering On-the-Go Charging: In-Depth Review of the Portable, High-Capacity Ugreen PowerRoam nPower Unit (2200)!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/plug-incredible-solar-powered-motion-detection-capabilities-unveiled/"><u>Plug: Incredible Solar-Powered Motion Detection Capabilities Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/review-of-ecovacs-deebot-t30s-combo-robotic-vacuum-effective-cleaning-on-all-floor-types-including-stairs/"><u>Review of Ecovacs Deebot T30S Combo Robotic Vacuum - Effective Cleaning on All Floor Types Including Stairs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/review-of-narwal-freo-x-ultra-an-in-depth-look-at-the-versatile-home-cleaning-bot/"><u>Review of Narwal Freo X Ultra: An In-Depth Look at the Versatile Home Cleaning Bot</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/review-of-nomvdics-p1000-home-cinema-projection-system-crystal-clear-vibrant-images-at-your-command/"><u>Review of Nomvdic's P1000 Home Cinema Projection System - Crystal Clear, Vibrant Images at Your Command!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/review-of-the-jabra-evolve2-65-flex-a-new-standard-in-wireless-earbuds-portability/"><u>Review of the Jabra Evolve2 65 Flex: A New Standard in Wireless Earbuds' Portability</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revisiting-the-iconic-flip-phone-in-depth-analysis-of-the-newly-improved-samsung-galaxy-z-flip/"><u>Revisiting the Iconic Flip Phone: In-Depth Analysis of the Newly Improved Samsung Galaxy Z Flip</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unveiling-the-power-of-luminance-in-hdr-landscapes/"><u>[New] Unveiling the Power of Luminance in HDR Landscapes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-direct-mp3-to-youtube-3-steps-for-seamless-video-posting-for-2024/"><u>[Updated] Direct MP3 to YouTube 3 Steps for Seamless Video Posting for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-free-photo-editor-showdown-15-best-in-class/"><u>[Updated] In 2024, The Free Photo Editor Showdown #15 Best in Class</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-pinterest-vid-lifting-the-top-free-online-tools-list-for-2024/"><u>[Updated] Pinterest Vid Lifting The Top Free, Online Tools List for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/4k-vs-8k/"><u>「4K vs 8K - 解説！高解像度ビデオをダウンロードする完全ガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024mp4/"><u>2024年版ムービー製作で直面するMP4保存問題とその回避手段 - プロの方法教えます</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726026542524-gif/"><u>複数のGIFアニメを連動させるスッキリ解決策</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030611664-iphone-youtube/"><u>楽しい iPhonE 着信音作り: 好きな YouTube 曲を使える手順</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gq44oy44od44oj44ov44kp44oz6yyy6zplusz44og44kv44ol44od44kv44gu57s55lul/"><u>効果的なヘッドフォン録音テクニックの紹介</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027147927-iso/"><u>効果的にISOファイルを変更する方法 - ビデオ教材</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028851653-bgm/"><u>BGMの永遠な循環：ループするための製作テクニック</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-lollipop-lens-detailed-analysis-and-how-to-for-sweet-filming/"><u>In 2024, Lollipop Lens Detailed Analysis & How-To for Sweet Filming</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/smartwatch-showdown-in-depth-analysis-of-the-features-and-value-proposition-of-samsung-galaxy-watch-ultra-and-apple-watch-ultra-buyers-guide-on-zdnet/"><u>Smartwatch Showdown: In-Depth Analysis of the Features and Value Proposition of Samsung Galaxy Watch Ultra & Apple Watch Ultra | Buyer's Guide on ZDNet</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-discover-expressive-humming-track/"><u>Updated In 2024, Discover Expressive Humming Track</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/2024-t17260306955406/"><u>クロームキャストで映らない! 2024ユーチューブ動画見る方法</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/midi-to-ogg-movavi/"><u>コストなしでMIDI to OGGコンバーター: Movaviの手軽解決策</u></a></li>
 </ul></div>
 

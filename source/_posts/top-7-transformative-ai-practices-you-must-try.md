@@ -1,7 +1,7 @@
 ---
 title: Top 7 Transformative AI Practices You Must Try
-date: 2024-11-02T06:27:07.478Z
-updated: 2024-11-02T18:46:30.652Z
+date: 2024-11-05T22:03:21.645Z
+updated: 2024-11-11T19:57:18.993Z
 tags:
   - chatgpt
   - open-ai
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -69,7 +62,27 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
@@ -79,23 +92,9 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -106,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -122,6 +121,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -130,6 +136,13 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -137,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -162,24 +168,17 @@ thumbnail: https://thmb.techidaily.com/6490fa2e8c158c917a608e37e654c53e5a410f7e3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-quick-and-easy-how-to-record-your-iphone-7-display/"><u>[New] Quick & Easy How to Record Your iPhone 7 Display</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-leveraging-youtube-trailers-for-optimal-revenue-generation-for-2024/"><u>[Updated] Leveraging YouTube Trailers for Optimal Revenue Generation for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1-holamac-pro-premium-macos-dvd-to-mov-video-converter-app-free-trial-available/"><u>1) HolaMac Pro: Premium MacOS DVD-to-MOV Video Converter App (Free Trial Available)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-noise-free-auditory-shifts/"><u>2024 Approved Navigating Noise-Free Auditory Shifts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ultimate-free-video-meeting-checklist-with-desktop-views/"><u>2024 Approved Ultimate Free Video Meeting Checklist - With Desktop Views</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digiarty-celebrates-its-18th-anniversary-with-exclusive-special-project/"><u>Digiarty Celebrates Its 18Th Anniversary with Exclusive Special Project</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enjoy-top-rated-free-animated-films-from-youtube-seamlessly/"><u>Enjoy Top-Rated Free Animated Films From YouTube Seamlessly</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-the-iphone-15s-transition-to-usb-type-c-is-revolutionizing-connectivity/"><u>How the iPhone 15’S Transition to USB Type-C Is Revolutionizing Connectivity</u></a></li>
-<li><a href="https://windows11.techidaily.com/hunt-for-group-policy-a-win-users-manual/"><u>Hunt for Group Policy: A Win User's Manual</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-infinix-hot-30i-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Infinix Hot 30i Phone Network-Ready</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/instantly-save-high-quality-daily-motion-content-hd-and-4k-for-no-cost/"><u>Instantly Save High-Quality Daily Motion Content - HD & 4K for No Cost!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mpeg4-to-mp3-conversion-a-step-by-step-guide-for-mac-users/"><u>MPEG4 to MP3 Conversion: A Step-by-Step Guide for Mac Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/official-digiarty-software-guidelines-on-specific-trade-language-and-regulations/"><u>Official Digiarty Software Guidelines on Specific Trade Language & Regulations</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-google-pixel-8-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Google Pixel 8 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software/"><u>Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-downloading-your-data-from-icloud-backups/"><u>Step-by-Step Guide: Downloading Your Data From iCloud Backups</u></a></li>
-<li><a href="https://article-tips.techidaily.com/strategies-to-enhance-stability-of-win-11s-photo-viewer/"><u>Strategies to Enhance Stability of Win 11'S Photo Viewer</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unstick-your-iphone-from-recovery-mode-a-comprehensive-fix-guide/"><u>Unstick Your iPhone From Recovery Mode: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-top-screen-recorders-for-live-broadcasts-on-youtube/"><u>[New] 2024 Approved Top Screen Recorders for Live Broadcasts on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-firefoxs-video-downloader-boost-optimal-extensions-and-plugins-for-facebook-content-for-2024/"><u>[Updated] Firefox's Video Downloader Boost Optimal Extensions & Plugins for Facebook Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-boredom-to-laughter-your-kinemaster-guide/"><u>2024 Approved From Boredom to Laughter Your KineMaster Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/beyond-entertainment-vrs-utility/"><u>Beyond Entertainment VR's Utility</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-decoding-the-cost-per-thousand-views-on-youtube-for-successful-earning/"><u>In 2024, Decoding the Cost Per Thousand Views on YouTube for Successful Earning</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-guide-splitting-your-youtube-footage-with-expert-precision-techniques/"><u>Quick Guide: Splitting Your YouTube Footage with Expert Precision Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-how-to-watch-dav-videos-using-vlc/"><u>Step-by-Step Tutorial on How to Watch DAV Videos Using VLC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-transforming-your-region-2-discs-to-multi-region-playability/"><u>Step-by-Step Tutorial: Transforming Your Region 2 Discs to Multi-Region Playability</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-the-process-of-uac-picture-taking/"><u>Streamlining the Process of UAC Picture Taking</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-the-best-10-screen-recorders-for-windows-10-users/"><u>The Ultimate Guide to the Best 10 Screen Recorders for Windows 10 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-common-video-format-and-codec-issues-during-conversion/"><u>Troubleshooting Common Video Format and Codec Issues During Conversion</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-achieving-top-ranking-on-apple-tv/"><u>Ultimate Guide: Achieving Top Ranking on Apple TV</u></a></li>
 </ul></div>
 

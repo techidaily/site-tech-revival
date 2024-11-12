@@ -1,7 +1,7 @@
 ---
 title: "Best Large Language Models Showdown: Bard, ChatGPT & Alpaca Compared"
-date: 2024-10-31T06:54:13.405Z
-updated: 2024-11-02T20:30:36.727Z
+date: 2024-11-06T06:30:00.692Z
+updated: 2024-11-12T09:28:47.975Z
 tags:
   - chatgpt
   - open-ai
@@ -49,13 +49,6 @@ Let's look at both models in action and analyze their performance.
 
  Signing up for both tools is simple, although the Google Bard country restriction is inconvenient. However, it may be possible to[circumvent these restrictions using a VPN](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Comparing Google Bard and ChatGPT-3.5's Accuracy
 
  Both chatbots are quick to point out that the accuracy of their responses should not be taken at face value. A point proved by asking Google Bard a simple question that it shouldn't have any problems with: "What large language model is Google Bard using?"
@@ -80,49 +73,28 @@ ChatGPT was unable to provide up-to-date information.
 
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, we tried to test on non-topical data. We asked both chatbots to answer this question: "How long would it take to drive to the sun?"
 
 Google Bard first; it answered with some comprehensive details.
 
 ![Screenshot of Google Bard answering how long to drive to the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-how-long-to-drive-to-the-sun.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
 
 ![Screenshot of ChatGPTs answer to driving to sun question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpts-answer-to-driving-to-sun-question.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To give ChatGPT a second chance, we reworded the question and asked: "How long would it take me to travel to the sun at 65mph?"
 
 ![Screenshot of ChatGPT response to reworded question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-reworded-question.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This time it did produce some meaningful figures, but it had rounded the figure up to 1.5 million hours, causing a disparity of eight years between the responses. However, this disparity could be due to the distance between the Earth and the Sun.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Testing Google Bard vs. ChatGPT-4
 
@@ -138,14 +110,14 @@ Google Bard first; it answered with some comprehensive details.
 
 ![Screenshot of GPT-4 answering Twitter question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-answering-twitter-question.jpg)
 
- When comparing Google Bard vs. ChatGPT for accuracy, the Bard was the better performer compared to the free version of ChatGPT. If you are using the premium version of ChatGPT, there isn't much separating them. However, as with any chatbot, a pinch of salt is required when determining the accuracy of results.
-
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ When comparing Google Bard vs. ChatGPT for accuracy, the Bard was the better performer compared to the free version of ChatGPT. If you are using the premium version of ChatGPT, there isn't much separating them. However, as with any chatbot, a pinch of salt is required when determining the accuracy of results.
 
 ## Comparing Google Bard's and ChatGPT's Creativity
 
@@ -157,9 +129,23 @@ The original version of Google Bard gave us this:
 
 ![Screenshot of Google Bard Poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-poetry.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When compared to the ChatGPT-3.5 answer below, this is flat and uninspiring.
 
 ![Screenshot of ChatGPT Poetry answer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-poetry-answer.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Although this is not an extensive test, this example shows what we found to be the case overall—ChatGPT is better at creative tasks than Google Bard.
 
@@ -167,9 +153,23 @@ The original version of Google Bard gave us this:
 
 ![Screenshot of latest Google Bard poetry attempt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-latest-google-bard-poetry-attempt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As previously noted, measuring creativity is a judgment call, but for us, the new poem still comes up short compared to the ChatGPT effort. ChatGPT still appears to have the edge in the creativity stakes. But what about ChatGPT-4? Let's give it a bash at the same poem and see how the premium version compares.
 
 ![Screenshot of GPT-4 composing poetry](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-composing-poetry.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once again,
 
@@ -180,16 +180,10 @@ That ChatGPT is the place to be,
 When it comes to creativity!
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ChatGPT vs. Google Bard: Which Is the Best AI Chatbot?
@@ -234,14 +228,24 @@ Some of the deciding factors include:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-capture-flawless-underwater-images-easily-in-7-steps/"><u>[Updated] 2024 Approved Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/creative-writing-with-ai-mastering-poetry-creation-using-chatgpt/"><u>Creative Writing with AI: Mastering Poetry Creation Using ChatGPT</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/enhancing-communication-with-unique-signatures-mastering-the-art-of-personalization-in-godaddy-mail/"><u>Enhancing Communication with Unique Signatures: Mastering the Art of Personalization in Godaddy Mail</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ensuring-secure-and-responsible-use-of-conversational-agents-in-therapy-sessions/"><u>Ensuring Secure and Responsible Use of Conversational Agents in Therapy Sessions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a1x-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A1x 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-to-eliminate-0x80070194-on-windows-onedrive/"><u>Steps to Eliminate 0X80070194 on Windows OneDrive</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/streamline-content-production-with-chatgpt-9-practical-ways-to-elevate-your-craft/"><u>Streamline Content Production with ChatGPT: 9 Practical Ways to Elevate Your Craft</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-comparative-analysis-of-online-bot-intelligence/"><u>The Comparative Analysis of Online Bot Intelligence</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y100-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y100 5G Device</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-pictureforge-hub/"><u>[Updated] 2024 Approved PictureForge Hub</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pro-rated-list-the-best-5-hd-webcams-with-capture-microphones/"><u>[Updated] Pro-Rated List The Best 5 HD Webcams with Capture Microphones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-best-freeprofessional-live-streaming-app-manycam-virtual-camera-technology/"><u>1. Best Free/Professional Live Streaming App: ManyCam - Virtual Camera Technology</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-best-live-streaming-apps-discover-manycam-and-top-virtual-webcams/"><u>1. Best Live Streaming Apps: Discover ManyCam and Top Virtual Webcams</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-real-time-streaming-made-easy-discover-manycam-the-ultimate-virtual-camera-solution/"><u>1. Real-Time Streaming Made Easy: Discover ManyCam - The Ultimate Virtual Camera Solution!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1-real-time-streaming-with-manycam-advanced-features-and-virtual-camera-solutions/"><u>1. Real-Time Streaming with ManyCam: Advanced Features and Virtual Camera Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-access-10-free-thumbnail-downloader-apps/"><u>2024 Approved Access 10 Free Thumbnail Downloader Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-elevate-your-storytelling-skills-transforming-images-into-engaging-videos-with-pixiz/"><u>2024 Approved Elevate Your Storytelling Skills Transforming Images Into Engaging Videos with Pixiz</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-old-to-new-crafting-a-video-journey-from-classic-photos/"><u>2024 Approved Old to New Crafting a Video Journey From Classic Photos</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-restoring-classic-photo-viewing-on-the-modern-windows-11/"><u>In 2024, Restoring Classic Photo Viewing on the Modern Windows 11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-visual-upgrade-mastery-of-video-enhancer-version-22/"><u>In 2024, Ultimate Visual Upgrade Mastery of Video Enhancer Version 2.2</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725616718152-live-streaming-made-easy-with-manycam-top-virtual-camera-app/"><u>Live Streaming Made Easy with ManyCam: Top Virtual Camera App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725616754237-live-streaming-mastery-with-manycam-ultimate-virtual-camera-solution/"><u>Live Streaming Mastery with ManyCam - Ultimate Virtual Camera Solution</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-playlist-streaming-your-mp3-music-library-online/"><u>Quick Playlist Streaming Your MP3 Music Library Online</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-streaming-game-with-manycam-advanced-live-video-and-fake-webcam-tech/"><u>Transform Your Streaming Game with ManyCam – Advanced Live Video and Fake Webcam Tech</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fixing-the-kernel-security-check-violation-on-your-windows-10-system/"><u>Troubleshooting and Fixing the 'Kernel Security Check Violation' On Your Windows 10 System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-virtual-webcams-how-manycam-revolutionizes-online-broadcasting/"><u>Ultimate Guide to Virtual Webcams: How ManyCam Revolutionizes Online Broadcasting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/virtual-webcam-revolution-with-manycam-essential-apps-for-seamless-live-video-production/"><u>Virtual Webcam Revolution with ManyCam: Essential Apps for Seamless Live Video Production</u></a></li>
 </ul></div>
 

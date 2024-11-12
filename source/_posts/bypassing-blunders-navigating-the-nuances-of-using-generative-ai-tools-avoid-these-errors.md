@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Blunders: Navigating the Nuances of Using Generative AI Tools (Avoid These Errors)"
-date: 2024-09-11T19:30:03.869Z
-updated: 2024-09-12T19:30:03.869Z
+date: 2024-11-05T16:25:19.355Z
+updated: 2024-11-11T20:13:55.407Z
 tags:
   - chatgpt
   - open-ai
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Implement Fundamental Game Mechanics
@@ -86,13 +86,6 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
@@ -147,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
@@ -179,13 +172,6 @@ thumbnail: https://thmb.techidaily.com/46162ff1d50cb6f1b35f044048a0b2464ebecd738
 
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclude Your Prompt
 
  Your prompt conclusion should contain a few vital commands that will hold the game's structure.
@@ -200,6 +186,13 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
@@ -207,13 +200,6 @@ And finally, don’t forget to actually start the game:
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
 
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Complete ChatGPT RPG Prompt
 
@@ -314,10 +300,10 @@ And finally, don’t forget to actually start the game:
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is This the Beginning of Open-Ended Gaming?
@@ -339,5 +325,26 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-enhancing-virtual-collaboration-recording-techniques-for-gotomeet-for-2024/"><u>[New] Enhancing Virtual Collaboration Recording Techniques for GoToMeet for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-soundtrack-strategy-amplifying-unboxing-content/"><u>[New] The Soundtrack Strategy Amplifying Unboxing Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/av1-datei-codierung-mit-handbrake-ist-das-machbar/"><u>AV1 Datei Codierung Mit HandBrake, Ist Das Machbar?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725287435865-dvddvd/"><u>DVDへのビデオ変換テクニック：フリーソフトを使った全動画DVD化ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-media-transcoding-change-your-audiovideo-formats-using-winx-pro-converter/"><u>Free Media Transcoding: Change Your Audio/Video Formats Using WinX Pro Converter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fun-kid-friendly-festive-video-making-guide-for-thanksgving-and-christmas-for-mac-and-pc-users/"><u>Fun Kid-Friendly Festive Video Making Guide for Thanksgving & Christmas – For Mac And PC Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-13-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 13 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-nord-3-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus Nord 3 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://extra-information.techidaily.com/initiating-earnings-journey-on-periscope-platform/"><u>Initiating Earnings Journey on Periscope Platform</u></a></li>
+<li><a href="https://win-dash.techidaily.com/iphoneandroid3/"><u>IPhone・Androidで使えるボイスレコード音量調整アプリトップ3秒読み</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-productivity-get-3x-more-screen-space-with-discounted-xr-glasses-during-amazon-prime-day-zdnet/"><u>Maximize Your Productivity: Get 3X More Screen Space with Discounted XR Glasses During Amazon Prime Day | ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/meilleures-applications-denregistrement-decran-pour-windows-capture-totale-ou-partielle-sur-pc-avec-windows-1087/"><u>Meilleures Applications D'enregistrement D'écran Pour Windows : Capture Totale Ou Partielle Sur PC Avec Windows 10/8/7</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamlessly-sync-and-share-your-world-winx-mediatrans-master-top-iphone-ipad-to-computer-manager-app/"><u>Seamlessly Sync and Share Your World: WinX MediaTrans Master – Top iPhone iPad to Computer Manager App</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-winx-mediatrans-masterclass-for-seamless-file-conversion/"><u>Step-by-Step Guide: WinX MediaTrans Masterclass for Seamless File Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-methods-para-comprimir-un-archivo-de-video-en-formato-mov-y-reduciendo-su-dimension/"><u>Top Methods Para Comprimir Un Archivo De Video en Formato MOV Y Reduciendo Su Dimensión</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-windows-11-performance-analysis-essential-viewing-in-depth-desktop-and-mobile-appraisals/"><u>Top Rated Windows 11 Performance Analysis | Essential Viewing: In-Depth Desktop and Mobile Appraisals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726030069891-wav/"><u>WAVファイルエディットツールで音楽情報タグ編集ガイド</u></a></li>
+</ul></div>
 

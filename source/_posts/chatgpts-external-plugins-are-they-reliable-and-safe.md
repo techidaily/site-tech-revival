@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's External Plugins: Are They Reliable and Safe?"
-date: 2024-11-02T06:49:21.688Z
-updated: 2024-11-02T16:04:17.900Z
+date: 2024-11-08T00:02:30.064Z
+updated: 2024-11-12T07:52:02.593Z
 tags:
   - chatgpt
   - open-ai
@@ -46,26 +46,26 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
  There are five NeMo models available with different parameters ranging from 8 billion parameters to 530 billion. If you're unsure which is the most suitable AI model for your business, you can consult an NVIDIA AI expert to help you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### NVIDIA Picasso
 
 ![Various different AI-generated images made with DALL-E](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/dall-e-ai-generated-image-gallery.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [NVIDIA Picasso](https://www.nvidia.com/en-us/gpu-cloud/picasso/) is a generative AI model that works similarly to[OpenAI's DALL-E image creator](https://www.makeuseof.com/what-is-dall-e-ai-image-generator/) . However, NVIDIA Picasso is not limited to images only since it can also turn text into video or 3D content.
 
  In addition, NVIDIA Picasso is made for software creators, service providers, and businesses intending to train AI models using copyright or licensed data. Alternatively, using pre-trained models, you could add text prompts to create images, videos, and 3D content from scratch.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## NVIDIA BioNeMo
@@ -79,16 +79,10 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
  Beyond that, pharmaceutical scientists can choose from six different AI models of BioNemo depending on their scope of research. This could revolutionize[the future of the healthcare industry](https://www.makeuseof.com/ai-will-power-future-healthcare/) .
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Who Can Use NVIDIA AI Foundations?
@@ -102,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
  So far, a few companies like Getty Images, Adobe, and Shutterstock have partnered with NVIDIA to develop text-to-image or video AI models. Similarly, more than a dozen big companies, including Deloitte and Morningstar, have already implemented NVIDIA's AI language models into their business operations. Biotech companies like Amgen and Insilico Medicine are also using NVIDIA's BioNeMo to develop drugs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## NVIDIA'S AI Foundation is a Game Changer
@@ -129,16 +123,18 @@ thumbnail: https://thmb.techidaily.com/fd844f53885e2c32c9ef30bfaf7233832cc28d581
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-best-ios-applications-for-gameplaying-iconic-psp-titles/"><u>[Updated] 2024 Approved Best iOS Applications for Gameplaying Iconic PSP Titles</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-audible-savings-the-essential-guide-to-using-these-24-no-cost-splitters-on-youtube/"><u>[Updated] Audible Savings The Essential Guide to Using These 24 No-Cost Splitters on YouTube</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-top-visual-discoveries-a-guide-for-2024/"><u>[Updated] Facebook's Top Visual Discoveries A Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-decoding-silent-snapchat-user-possible-block/"><u>[Updated] In 2024, Decoding Silent Snapchat User Possible Block</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oneplus-nord-ce-3-lite-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from OnePlus Nord CE 3 Lite 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/boost-your-website-traffic-with-cookiebot-technology/"><u>Boost Your Website Traffic with Cookiebot Technology</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-innovative-approach-to-difficult-workplace-communications/"><u>ChatGPT's Innovative Approach to Difficult Workplace Communications</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-the-process-insight-into-ai-based-prompt-injection-cyberattacks/"><u>Demystifying the Process: Insight Into AI-Based Prompt Injection Cyberattacks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/developer-perspectives-on-ai-integration-into-daily-work/"><u>Developer Perspectives on AI Integration Into Daily Work</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-the-potential-of-openais-technology-your-step-by-step-instructional-manual/"><u>Harnessing the Potential of OpenAI's Technology: Your Step-by-Step Instructional Manual</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-leveraging-popularity-a-comprehensive-guide-to-instagram-influencer-advertising/"><u>[New] 2024 Approved Leveraging Popularity A Comprehensive Guide to Instagram Influencer Advertising</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-coordinating-multiple-channels-on-one-screen/"><u>[Updated] 2024 Approved Coordinating Multiple Channels on One Screen</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-journey-through-the-top-10-sites-offering-an-array-of-impressive-3d-texts/"><u>[Updated] Journey Through The Top 10 Sites Offering an Array of Impressive 3D Texts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726027028103-iso/"><u>高効率でISO画像を動画に変換するテクニック</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/el-image-makeovers-on-the-house/"><u>Channel Image Makeovers on the House</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/climate-denial-and-the-role-of-media-bias-explored/"><u>Climate Denial and the Role of Media Bias Explored</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/comment-enregistrer-avec-succes-un-fichier-pst-dans-onedrive-solution-etablie/"><u>Comment Enregistrer Avec Succès Un Fichier PST Dans OneDrive - Solution Établie</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/converters-top-8-list-seamless-sub-and-srt-format-switching/"><u>Converters' Top 8 List Seamless Sub and SRT Format Switching</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/engaging-gpt-prose-with-your-voice-and-vibe/"><u>Engaging GPT Prose with Your Voice and Vibe</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-motorola-moto-g14-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Motorola Moto G14 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protecting-your-privacy-can-personalized-ai-models-like-chatgpt-pose-risks/"><u>Protecting Your Privacy: Can Personalized AI Models Like ChatGPT Pose Risks?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-efficiency-the-6-point-edge-of-the-chatgpt-app-over-the-web-interface/"><u>Unlocking Efficiency: The 6-Point Edge of the ChatGPT App Over the Web Interface</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-knowledge-about-batch-files-in-windows/"><u>Unlocking Knowledge About Batch Files in Windows</u></a></li>
 </ul></div>
 

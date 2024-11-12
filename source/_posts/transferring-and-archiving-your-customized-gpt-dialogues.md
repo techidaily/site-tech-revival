@@ -1,7 +1,7 @@
 ---
 title: Transferring and Archiving Your Customized GPT Dialogues
-date: 2024-09-11T19:31:37.903Z
-updated: 2024-09-12T19:31:37.903Z
+date: 2024-11-06T01:57:09.781Z
+updated: 2024-11-11T21:21:05.440Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -38,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -55,10 +41,10 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Skype Gets AI Features
@@ -70,16 +56,10 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use the New ChatGPT Bing Apps
@@ -93,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Test Out AI Chat on Android and iPhone Today
@@ -120,5 +100,20 @@ thumbnail: https://thmb.techidaily.com/3331b68243bf9259740fc95d1a73b2453b86dd532
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-expert-tips-finding-the-best-text-design-resources/"><u>[New] 2024 Approved Expert Tips Finding the Best Text Design Resources</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-solving-obs-high-bitrate-issues/"><u>[Updated] 2024 Approved Solving OBS High Bitrate Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3google/"><u>「MP3ファイルを簡単にダウンロード！Google検索で上位に行く最適アルゴリズムの解説」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-action-replay-gopro-hero5-black-meets-hero4-silver-edition/"><u>2024 Approved Action Replay GoPro Hero5 Black Meets Hero4 Silver Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-mts-files-to-mp4-for-free-top-8-methods-compatible-with-pc-and-mac/"><u>Convert MTS Files to MP4 for Free: Top 8 Methods Compatible with PC & Mac</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/enhance-your-live-videos-using-manycams-cutting-edge-software-solutions/"><u>Enhance Your Live Videos Using ManyCam's Cutting-Edge Software Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-winx-hd-video-converter-ultimate-edition-in-depth-tutorials-on-operating-customizing-and-crafting-videos/"><u>Master WinX HD Video Converter Ultimate Edition: In-Depth Tutorials on Operating, Customizing & Crafting Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ottimizza-la-tua-produzione-videografica-con-intelligenza-artificiale-winxvideo/"><u>Ottimizza La Tua Produzione Videografica Con Intelligenza Artificiale WinXVideo</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-complete-guide-to-choosing-a-durable-cell-phone-sleeve/"><u>The Complete Guide to Choosing a Durable Cell Phone Sleeve</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-test-of-tomtom-bandit-2023-cam-for-2024/"><u>The Ultimate Test of TomTom Bandit 2023 Cam for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-gratis-techniken-zur-komprimierung-von-mkv-filmen-gelernt-fur-effizientere-speicherung/"><u>Top 4 Gratis Techniken Zur Komprimierung Von MKV-Filmen - Gelernt Für Effizientere Speicherung</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/versamix-suite-mac-and-pc/"><u>VersaMix Suite - Mac & PC</u></a></li>
+</ul></div>
 

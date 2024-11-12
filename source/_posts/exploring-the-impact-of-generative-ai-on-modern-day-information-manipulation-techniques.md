@@ -1,7 +1,7 @@
 ---
 title: Exploring the Impact of Generative AI on Modern-Day Information Manipulation Techniques
-date: 2024-10-31T18:29:34.253Z
-updated: 2024-11-03T02:30:30.113Z
+date: 2024-11-10T00:13:26.239Z
+updated: 2024-11-12T04:17:39.596Z
 tags:
   - chatgpt
   - open-ai
@@ -42,19 +42,6 @@ False news can be categorized into three types:
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -65,7 +52,21 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -77,13 +78,6 @@ Here's the fictitious article that ChatGPT came up with:
 * **Targeted personalization** : Chatbots have access to vast amounts of data that they can gather to create personalized profiles. This enables them to customize content based on your preferences. Through targeted personalization, AI can persuade individuals or further strengthen their opinions.
 
  These examples all illustrate how chatbots can be utilized to mislead people.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
 
@@ -102,16 +96,10 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -126,10 +114,10 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -153,18 +141,17 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-color-perfection-the-essential-list-of-best-luts-for-lightroom-users/"><u>2024 Approved Color Perfection The Essential List of Best LUTs for LightRoom Users</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-cryptocurrency-an-in-depth-look-at-what-is-apecoin/"><u>Demystifying Cryptocurrency: An In-Depth Look at What Is ApeCoin?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-g54-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola G54 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-digital-protection-with-the-latest-upgrade-googles-titan-key-now-includes-passkey-technology-for-easier-login-authentication/"><u>Enhance Your Digital Protection with the Latest Upgrade: Google's Titan Key Now Includes Passkey Technology for Easier Login Authentication</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/enhance-your-gaming-experience-transform-your-phone-into-an-ultimate-nintendo-switch-alternative-with-just-one-device/"><u>Enhance Your Gaming Experience: Transform Your Phone Into an Ultimate Nintendo Switch Alternative with Just One Device!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-your-tunes-plex-integrates-chatgpt-for-personalized-music-curation/"><u>Enhance Your Tunes: Plex Integrates ChatGPT for Personalized Music Curation</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhanced-memory-features-in-chatgpt-plus-unveiled/"><u>Enhanced Memory Features in ChatGPT Plus Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/even-a-newbie-cant-compete-with-googles-ai-ping-pong-machine-against-amateurs/"><u>Even a Newbie Can't Compete with Google's AI Ping Pong Machine Against Amateurs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-infinite-realms-of-vrchat-a-comprehensive-guide-to-its-immersive-multiverses/"><u>Exploring the Infinite Realms of VRChat: A Comprehensive Guide to Its Immersive Multiverses</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-11-best-pokemon-go-spoofers-for-gps-spoofing-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Pokemon Go Spoofers for GPS Spoofing on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-earn-facebooks-trusted-prestigious-symbol/"><u>In 2024, How to Earn Facebook's Trusted, Prestigious Symbol</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-crashes-in-nier-gestaltic-reverie-optimized-gameplay-tips-inside/"><u>No More Crashes in NieR: Gestaltic Reverie – Optimized Gameplay Tips Inside</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/photo-story-platinum-best-photo-movie-story-maker-wondershare/"><u>Photo Story Platinum - Best Photo Movie Story Maker | Wondershare</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-screenflow-pros-mac-edition/"><u>[New] In 2024, The Ultimate Guide to ScreenFlow Pro's Mac Edition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-primary-tape-scrutiny-study-summary-for-2024/"><u>[New] Primary Tape Scrutiny Study Summary for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tream-masters-symposium-for-2024/"><u>[New] Stream Masters Symposium for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-android-and-ios-top-asmr-audio-picks-for-2024/"><u>[Updated] Android and iOS Top ASMR Audio Picks for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/effective-strategies-to-fool-netflix-into-believing-youre-watching-at-home/"><u>Effective Strategies to Fool Netflix Into Believing You're Watching at Home</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enhancing-productivity-how-to-master-screen-capture-on-an-hp-device-for-2024/"><u>Enhancing Productivity How to Master Screen Capture on an HP Device for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-reviews-which-ipad-is-right-for-you-a-detailed-analysis/"><u>Expert Reviews: Which iPad Is Right for You? A Detailed Analysis</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4mov/"><u>MP4からMOVへ:最新テクニックで効率的な動画変換方法を学ぶ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimize-your-listening-experience-with-high-quality-320kbps-mp3-conversion/"><u>Optimize Your Listening Experience with High-Quality 320Kbps MP3 Conversion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pccdusbwindows-1011/"><u>PCに楽曲をインポートするためのCDとUSB用Windows 10/11ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/personalized-youtube-content-saving-guide-secrets-of-downloading-video-clips-privately/"><u>Personalized YouTube Content Saving Guide - Secrets of Downloading Video Clips Privately</u></a></li>
 </ul></div>
 

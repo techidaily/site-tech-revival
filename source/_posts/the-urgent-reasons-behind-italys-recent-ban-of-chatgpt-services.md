@@ -1,7 +1,7 @@
 ---
 title: The Urgent Reasons Behind Italy's Recent Ban of ChatGPT Services
-date: 2024-09-11T19:29:02.057Z
-updated: 2024-09-12T19:29:02.057Z
+date: 2024-11-11T05:09:56.288Z
+updated: 2024-11-11T21:05:25.426Z
 tags:
   - chatgpt
   - open-ai
@@ -26,13 +26,6 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
 * [How to Find the Best Custom GPTs in the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#how-to-find-the-best-custom-gpts-in-the-gpt-store)
 * [Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/#is-it-worth-upgrading-to-chatgpt-plus-to-use-custom-gpts)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * OpenAI has launched the GPT Store, where users can find custom GPTs created by the ChatGPT community.
@@ -44,10 +37,10 @@ thumbnail: https://thmb.techidaily.com/cb670c879e89656e881160d22473efee38dda114d
  ChatGPT's custom GPT Store is open right now, and this is how you can use it to find the pre-programmed AI tools you need.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Access the GPT Store
@@ -60,6 +53,13 @@ How do you know when you've been granted access?
 
  On the left sidebar of the ChatGPT interface, you should see**Explore GPTs** instead of simply**Explore** . Once you see this, you can start using the GPT Store! Remember, the whole idea of the GPT Store is to help users browse and access a wide range of GPTs built by the community. So, how can you use it to find the right GPT for your tasks?
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Find the Best Custom GPTs in the GPT Store
 
  Using the GPT Store is quite straightforward. Here's how you can browse and search for custom GPTs:
@@ -70,41 +70,33 @@ How do you know when you've been granted access?
 3. You can also use the search bar to find GPTs by keyword or related terms.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![GPT Store search screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-store-search-screen.jpg)
 4. When you find a GPT you want to try, click on it to open the individual GPT page.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. On the GPT page, you will see information about what that model offers.
 6. After testing a GPT that solves your problem well, take one important extra step—click on the GPT name in the top left corner of the page, then click**Keep in sidebar** . This saves that GPT to the sidebar along with your chat history for easy future access.  
 ![Adding a GPT to sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/adding-a-gpt-to-sidebar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  However, you should note that at the time of writing, the GPT Store isn't reviewed, and there is no rating system or otherwise. We're hoping that OpenAI will introduce some type of rating system in the near future, as currently, without any system in place, you're effectively on your own when it comes to figuring out what works well. By extension, it seems likely that some form of rating or review system will be implemented once GPT Store revenue sharing is launched, but OpenAI hasn't given any fixed timeline for this.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Is it Worth Upgrading to ChatGPT Plus to Use Custom GPTs?
 
@@ -127,5 +119,26 @@ How do you know when you've been granted access?
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-right-way-to-raise-your-videos-reach-responsibly/"><u>[New] 2024 Approved The Right Way to Raise Your Video's Reach Responsibly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-how-to-match-your-camera-to-its-optimal-gimbal-partner/"><u>[Updated] 2024 Approved How to Match Your Camera to Its Optimal Gimbal Partner</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725290225822-dvd/"><u>「ダビングガイド: DVD、動画、オーディオ再生手順一覧」</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-precision-recording-for-instagram-story-enthusiasts/"><u>2024 Approved Precision Recording for Instagram Story Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4wav/"><u>高解像音声を生成: MP4からWAVへ自由な変換ツールで無料ダウングラブ</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286674927-dvd/"><u>DVD字幕化技巧：自动截取与手工添加</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286847538-dvdiphone/"><u>DVDから直接iPhoneへ移行：無料でダウンロード可能な解説記事</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-quickly-trim-or-crop-your-mov-videos-at-no-cost-a-step-by-step-guide-for-users-of-windows-11mac-osx/"><u>How to Quickly Trim or Crop Your MOV Videos at No Cost: A Step-by-Step Guide for Users of Windows 11/Mac OSX</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-terminate-your-amazon-prime-video-membership-and-cancel-the-subscription/"><u>How to Terminate Your Amazon Prime Video Membership & Cancel the Subscription</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/intro-to-using-snap-camera-effectively-in-meetings/"><u>Intro to Using Snap Camera Effectively in Meetings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/new-arrivals-in-spooky-cinema-unveiling-dvd-editions-of-the-call-revived-evil-dead-and-reimagined-upside-down/"><u>New Arrivals in Spooky Cinema: Unveiling DVD Editions of 'The Call', Revived 'Evil Dead', And Reimagined 'Upside Down'</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-macs-most-powerful-video-editor-for-pros-adobe-premiere-pro/"><u>New Macs Most Powerful Video Editor for Pros Adobe Premiere Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-the-50eb-web-challenge-strategies-for-repairing-server-errors/"><u>Overcoming the 50Eb Web Challenge: Strategies for Repairing Server Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reach-out-to-digiarty-now-your-digital-partner/"><u>Reach Out to Digiarty Now - Your Digital Partner</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/secure-and-save-periscope-videos-with-these-tips/"><u>Secure & Save Periscope Videos with These Tips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-sail-on-the-content-sea-your-youtube-account-for-2024/"><u>Setting Sail on the Content Sea Your YouTube Account for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/streamlining-video-compression-converting-h264-to-h265-with-zero-quality-degradation/"><u>Streamlining Video Compression: Converting H.264 To H.265 With Zero Quality Degradation</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-best-free-video-converters-for-mac-download-and-review/"><u>Top 7 Best Free Video Converters for Mac : Download & Review</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Explore the Limitless Potential of Imagination: Using Free DALL-E 3 on Bing"
-date: 2024-09-11T19:30:56.085Z
-updated: 2024-09-12T19:30:56.085Z
+date: 2024-11-07T16:46:15.471Z
+updated: 2024-11-12T02:23:03.977Z
 tags:
   - chatgpt
   - open-ai
@@ -27,10 +27,10 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,19 +44,6 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
  Starting with macOS, OpenAI is officially bringing ChatGPT to desktops, with Windows support coming later.
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is the Open-Source ChatGPT Desktop Application?
 
@@ -72,22 +59,15 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -99,17 +79,17 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
@@ -133,5 +113,23 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-digital-hubs-seamless-ringtones-acquisition/"><u>[Updated] Premier Digital Hubs Seamless Ringtones Acquisition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-youcam-webcam-recorder-review/"><u>[Updated] YouCam Webcam Recorder Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-uncover-the-leading-free-online-subtitle-makers-srt/"><u>2024 Approved Uncover the Leading Free Online Subtitle Makers (Srt)</u></a></li>
+<li><a href="https://win-best.techidaily.com/behebe-das-xcopy-verzeichnisnicht-erstellen-problem-mit-diesen-drei-strategien/"><u>Behebe Das 'XCopy-Verzeichnisnicht Erstellen'-Problem Mit Diesen Drei Strategien</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/campus-harmony-how-to-access-exclusive-savings-on-spotify-with-your-student-id/"><u>Campus Harmony: How to Access Exclusive Savings on Spotify with Your Student ID</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/come-trasformare-i-file-avchd-m2ts-in-mp4-ottimizzando-la-qualita-5-strategie-essenziali-per-una-conversione-perfetta/"><u>Come Trasformare I File AVCHD M2TS in MP4 Ottimizzando La Qualità: 5 Strategie Essenziali per Una Conversione Perfetta</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminar-restricciones-de-disney-guia-paso-a-paso-para-copiar-y-compartir-peliculas-disneynet/"><u>Eliminar Restricciones De Disney: Guía Paso a Paso Para Copiar Y Compartir Películas Disneynet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ethical-guidelines-for-recording-work-discussions-securing-permissions-and-understanding-risks/"><u>Ethical Guidelines for Recording Work Discussions: Securing Permissions & Understanding Risks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guida-facile-come-masterare-il-mastering-dei-dvd-su-pc-con-windows-o-macos/"><u>Guida Facile: Come Masterare Il Mastering Dei DVD Su PC Con Windows O macOS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-youtube-video-editing-101-and-alternative-sources/"><u>In 2024, YouTube Video Editing 101 & Alternative Sources</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maintaining-quality-a-step-by-step-guide-to-rotating-mp4-videos-90-180-and-270-degrees/"><u>Maintaining Quality: A Step-by-Step Guide to Rotating MP4 Videos 90, 180, and 270 Degrees</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolving-mid-play-interruptions-comprehensive-solutions-for-dvd-player-malfunctions/"><u>Resolving Mid-Play Interruptions: Comprehensive Solutions for DVD Player Malfunctions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-the-puzzle-a-step-by-step-guide-on-overcoming-error-0x80030309-the-copy-protection-hurdle/"><u>Solving the Puzzle: A Step-by-Step Guide on Overcoming Error 0X80030309 - The Copy Protection Hurdle</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tackling-service-interruptions-in-chatgpt-plugin-relationships/"><u>Tackling Service Interruptions in ChatGPT-Plugin Relationships</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-youtube-spots-for-video-marketing-success-for-2024/"><u>Top YouTube Spots for Video Marketing Success for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Sony Xperia 10 V | Dr.fone</u></a></li>
+</ul></div>
 

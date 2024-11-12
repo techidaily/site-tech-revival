@@ -1,7 +1,7 @@
 ---
 title: Is AI, Specifically ChatGPT, Set to Reshape Our Approach to Medical Care?
-date: 2024-11-01T00:32:13.124Z
-updated: 2024-11-02T17:56:39.121Z
+date: 2024-11-07T22:23:30.365Z
+updated: 2024-11-11T21:01:27.424Z
 tags:
   - chatgpt
   - open-ai
@@ -39,15 +39,28 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  On top of this, Decktopus also generates multiple layouts for its slides, so you can adjust it that way. If you really don’t like what Decktopus has created, you can also regenerate the presentation in its entirety to get a new AI response.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2.[SlidesAI.io](https://www.slidesai.io/)
 
 ![A Screenshot of the SlidesAI io Google Slides Add-on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/slides-ai-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re looking for an AI presentation generator that works directly within Google Slides, then you can’t go wrong with SlidesAI.io. That's because SlidesAI.io is a Google Workspace add-on.
 
@@ -56,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  With SlidesAI.io, all you have to do is enter some text for the add-on to work with. There's a character limit here for free users, though you can upgrade for a higher limit. The more words you use, the more consistent the results will be.
 
  Alternatively, you can ask SlidesAI.io to create a presentation using just a simple title. The process here is much the same. There are also options to customize the look of SlidesAI.io within the add-on, though you can always adjust the look using Google Slides' in-built tools as well if you so wish.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3.[Tome](https://tome.app/)
 
@@ -74,16 +80,22 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  This includes creating AI images to match your content, creating a new slide with your content, converting a document into a presentation, or simply making one from scratch. Tome works quickly and efficiently with these AI tools, and you can easily make impressive presentations in mere moments.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4.[GPT_PPT](https://gpt-ppt.neftup.app/)
 
 ![A Screenshot of GPT PPT s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/gpt_ppt-presentation-generator-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re looking for something that can quickly generate a functioning presentation or slide show, then GPT\_PPT is a great little tool for doing just that. To use GPT\_PPT, all you have to do is sign up and type out what you want your presentation to be. From there, GPT\_PPT will automatically create a brief PowerPoint covering the points that you laid out.
 
@@ -93,11 +105,25 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 ![A Screenshot of Presentations AI s Generative Presentation Tool](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/presentations-ai-presentation-generator-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Presentations.AI is an online presentation generation service that uses AI to create presentations for business. To get started, all you have to do is select an AI template, and Presentations.AI will handle the rest.
 
  There are plenty of templates to choose from, and each can be customized. You can tell the AI what your business offers and what company you work for to get better results. From there, Presentations.AI handles the rest. From the template, the content of the slides, and everything in between, Presentations.AI will create your presentation for you.
 
  If there’s anything you don’t like about the slides, there are options to change the type or style of the slides, and you can add points and edit what Presentations.AI has created as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6.[ChatBA](https://www.chatba.com)
 
@@ -109,19 +135,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
  ChatBA supports exporting in both PPTX and PDF file types, which is great if you already work in PowerPoint or are looking to present directly and want a PDF that you can easily share or present from.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7.[MagicSlides](https://www.magicslides.app)
 
 ![A Screenshot of MagicSlides AI Presentation Generation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/magicslides-ai-presentation-generator-screenshot.jpg)
@@ -131,19 +144,6 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
  You can also choose to include images, which the AI will choose from Pexels. These images are entirely free-to-use, and match the content of the slide decently enough. The presentations produced with MagicSlides are pretty good. The content is organized by dot points and feels natural.
 
  The looks, however, leave a little to be desired. There are options to adjust the theme when the presentation is generated, but they're not super easy to use. You can always use the theme features that are already present in Google Slides to fix this, however.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Make a Presentation Like Never Before
 
@@ -164,22 +164,24 @@ thumbnail: https://thmb.techidaily.com/68fcf33334e321a1b8b2e73f81615f671f7efb0fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-5-steps-to-crafting-engaging-cost-effective-youtube-ads-for-2024/"><u>[New] 5 Steps to Crafting Engaging, Cost-Effective YouTube Ads for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-free-studio-hd-screen-grab-audit/"><u>[New] In 2024, Free Studio HD Screen Grab Audit</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-obs-streaming-windows-and-mac-guide-for-2024/"><u>[New] OBS Streaming [Windows and Mac Guide] for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-capture-the-moment-smartphone-snapchat-recording-101/"><u>[Updated] Capture the Moment Smartphone Snapchat Recording 101</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-windows-10-kepernyok-vegrehajtasban-a-4-mod-palyara-szelesebeli-megoldas/"><u>A Windows 10 Képernyők Végrehajtásban: A 4-Mód Pályára Szélesebeli Megoldás</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/breakdown-of-artificial-intelligence-making-sense-of-ai-concepts/"><u>Breakdown of Artificial Intelligence: Making Sense of AI Concepts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-7-outstanding-chrome-plugins-to-elevate-your-chatgpt-experience-online/"><u>Discover 7 Outstanding Chrome Plugins to Elevate Your ChatGPT Experience Online!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ideal-ai-note-capturing-tools-the-ultimate-6-picks-for-improved-organization/"><u>Discover the Ideal AI Note-Capturing Tools: The Ultimate 6 Picks for Improved Organization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/doubting-zerogpts-trustworthiness-yet/"><u>Doubting ZeroGPT's Trustworthiness, Yet?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-ensure-your-lenovo-t420-is-running-smoothly-with-new-driver-updates-windows/"><u>How to Ensure Your Lenovo T420 Is Running Smoothly with New Driver Updates [Windows]</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-keep-your-feed-pure-stop-suggested-posts/"><u>How to Keep Your Feed Pure Stop Suggested Posts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-character-creation-integrating-gpt-dall-e-in-dandd/"><u>Mastering Character Creation: Integrating GPT, DALL-E in D&D</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-the-entertainment-world-the-significant-effect-of-ai-generated-content-on-gaming/"><u>Revolutionizing the Entertainment World: The Significant Effect of AI Generated Content on Gaming</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-motorola-edge-40-neo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-high-cpu-consumption-in-god-of-war-a-step-by-step-guide/"><u>Solving High CPU Consumption in God of War: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unraveling-the-mystery-an-introduction-to-generative-artific/"><u>Unraveling the Mystery: An Introduction to Generative Artific</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-does-the-turing-test-entail-and-potential-triumphs/"><u>What Does the Turing Test Entail & Potential Triumphs?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-easy-and-speed-share-youtube-playlists-now/"><u>[New] Easy & Speed Share YouTube Playlists Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1-descargar-archivo-de-audio-mp3-de-la-pelicula-en-hd-desde-mkv-sin-coste-conservacion-de-calidad-premium/"><u>1. Descargar Archivo De Audio MP3 De La Película en HD Desde .mkv Sin Coste - Conservación De Calidad Premium</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-master-control-over-your-youtube-viewing-rhythm/"><u>2024 Approved Master Control Over Your YouTube Viewing Rhythm</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-you-still-use-chatgpt-discover-five-reliable-ways-to-confirm-its-status/"><u>Can You Still Use ChatGPT? Discover Five Reliable Ways to Confirm Its Status</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-artificision-exploring-the-depths-of-transfer-learning-in-ai/"><u>Dissecting Artificision: Exploring the Depths of Transfer Learning in AI</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-of-dall-e-3s-editing-tools-potential-vs-reality/"><u>Exploring the Evolution of DALL-E 3’S Editing Tools: Potential vs Reality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-linear-to-intuitive-ai-in-website-exploration/"><u>From Linear to Intuitive: AI in Website Exploration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastery-in-masking-and-retaining-digital-discussions/"><u>Mastery in Masking & Retaining Digital Discussions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211446206-9781998014293-my-life-reclaimed/"><u>MY LIFE RECLAIMED | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-high-tech-products-with-toms-digital-equipment-overview/"><u>Navigating High-Tech Products with Tom's Digital Equipment Overview</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-glitch-video-editors-top-picks-for-windows-mac-and-web/"><u>New 2024 Approved The Ultimate Guide to Glitch Video Editors Top Picks for Windows, Mac, and Web</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/protect-your-microsoft-edge-experience-with-the-ultimate-list-of-malwarefoxs-premier-ad-blockers/"><u>Protect Your Microsoft Edge Experience with the Ultimate List of MalwareFox's Premier Ad Blockers!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/safely-install-sades-headset-drivers-on-windows-ensured-100-safe/"><u>Safely Install Sades Headset Drivers on Windows [Ensured 100% Safe]</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-14-pro-max-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-synergy-of-vector-databases-and-ai-development/"><u>The Synergy of Vector Databases and AI Development</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-absent-physxloaderdll-effective-solutions-and-tips/"><u>Troubleshooting the Absent PhysXLoader.dll: Effective Solutions and Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-you-can-achieve-with-claude-3/"><u>What You Can Achieve With Claude 3</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-chatgpt-exploded-in-popularity-a-top-5-analysis/"><u>Why ChatGPT Exploded in Popularity: A Top 5 Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-you-should-think-twice-before-asking-chatgpt-for-medical-insights/"><u>Why You Should Think Twice Before Asking ChatGPT for Medical Insights</u></a></li>
 </ul></div>
 

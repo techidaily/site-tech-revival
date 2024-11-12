@@ -1,7 +1,7 @@
 ---
 title: "From Idea to Interaction: Creating Specialized AI with GPT"
-date: 2024-10-30T21:54:34.855Z
-updated: 2024-11-03T02:07:20.481Z
+date: 2024-11-05T21:59:59.637Z
+updated: 2024-11-11T20:07:50.786Z
 tags:
   - chatgpt
   - open-ai
@@ -36,6 +36,19 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Copy Text From the PDF
 
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
@@ -43,31 +56,17 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -82,21 +81,28 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
@@ -125,18 +131,24 @@ thumbnail: https://thmb.techidaily.com/33a2fc3d19b1294697014cd8a346990d81bbe0b37
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-video-upload-techniques-for-youtube-via-premiere-for-2024/"><u>[New] Expert Video Upload Techniques for YouTube via Premiere for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-your-media-with-vlcs-secret-features/"><u>[New] In 2024, Mastering Your Media with VLC's Secret Features</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transformative-talk-20-words-to-bolster-marketing-success/"><u>[New] Transformative Talk 20 Words to Bolster Marketing Success</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-starting-stronger-must-have-tech-for-creators/"><u>[Updated] Starting Stronger Must-Have Tech for Creators</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discovering-the-invisible-step-by-step-instructions-for-finding-and-displaying-hidden-files-in-macos/"><u>Discovering the Invisible: Step-by-Step Instructions for Finding and Displaying Hidden Files in macOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-windows-11-at-no-cost-a-comprehensive-guide/"><u>Download Windows 11 at No Cost: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/embracing-the-appeal-my-journey-through-apples-seamless-ecosystem/"><u>Embracing the Appeal: My Journey Through Apple's Seamless Ecosystem</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhanced-integration-how-chromebook-compatibility-with-microsoft-office-and-onedrive-has-improved/"><u>Enhanced Integration: How Chromebook Compatibility with Microsoft Office & OneDrive Has Improved</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhanced-soundmastery-microsofts-clipchamp-boasts-improved-audio-editing-features/"><u>Enhanced Soundmastery: Microsoft's Clipchamp Boasts Improved Audio Editing Features</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-oppo-reno-10-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Oppo Reno 10 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quintessential-5-for-elevated-slow-videos-for-2024/"><u>Quintessential 5 for Elevated Slow Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-distinctions-ipad-vs-standard-tablets/"><u>Unraveling the Distinctions: IPad Vs. Standard Tablets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hannel-labeling-101-how-to-make-yourself-hard-to-ignore/"><u>[New] Channel Labeling 101 How to Make Yourself Hard to Ignore</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-optimal-steadicam-devices-for-professional-drone-cinematography/"><u>[New] In 2024, Optimal Steadicam Devices for Professional Drone Cinematography</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-protecting-and-preserving-your-musical-legacy-three-ways/"><u>[New] In 2024, Protecting and Preserving Your Musical Legacy Three Ways</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-streamlining-google-meet-recording-with-simple-methods/"><u>[Updated] 2024 Approved Streamlining Google Meet Recording with Simple Methods</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-ultimate-video-recording-devices-best-camcorders-reviewed/"><u>[Updated] In 2024, The Ultimate Video Recording Devices – Best Camcorders Reviewed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/clearer-captures-await-with-next-gen-tracker-tech-for-2024/"><u>Clearer Captures Await with Next-Gen Tracker Tech for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/halloween-deals-blast-of-wonderfox-enjoy-discounts-up-to-70-in-october-spooktacular/"><u>Halloween Deals Blast of WonderFox: Enjoy Discounts up to 70% in October Spooktacular!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/high-quality-conversion-and-upload-sharing-iphone-footage-on-youtube-easily/"><u>High-Quality Conversion and Upload: Sharing iPhone Footage on YouTube Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/holiday-savings-alert-apple-watch-ultras-unprecedented-drop-in-cost-featured/"><u>Holiday Savings Alert: Apple Watch Ultra's Unprecedented Drop in Cost Featured</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-choose-the-right-website-for-your-mixtapes-and-boosting-your-download-numbers/"><u>How to Choose the Right Website for Your Mixtapes & Boosting Your Download Numbers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/itunes-conversion-tutorial-how-to-change-mkv-files-into-compatible-itunes-format/"><u>ITunes Conversion Tutorial: How to Change MKV Files Into Compatible iTunes Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/line-t17260306955285/"><u>LINE経由で画質のロスなし、高解像度ビデオ送信</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-facebook-video-editing-step-by-step-strategies-for-viral-success/"><u>Master the Art of Facebook Video Editing: Step-by-Step Strategies for Viral Success</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-your-kodi-experience-with-pin-system-and-obtaining-access-codes-for-secure-addons/"><u>Mastering Your Kodi Experience with Pin System & Obtaining Access Codes for Secure Addons</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4ps4/"><u>MP4ビデオがPS4で再生しない時の対策とエラー解決法</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pciosandroid/"><u>PC/iOS/Androidで特定音声抽出不可能化：ビデオから取り除く方法</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-the-ultimate-guide-to-cropping-images-in-final-cut-pro-x-for-2024/"><u>Updated The Ultimate Guide to Cropping Images in Final Cut Pro X for 2024</u></a></li>
 </ul></div>
 

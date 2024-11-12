@@ -1,7 +1,7 @@
 ---
 title: Five Reasons to Question the Effectiveness of Tools Like ZeroGPT for Spotting AI Texts
-date: 2024-09-11T19:33:03.358Z
-updated: 2024-09-12T19:33:03.358Z
+date: 2024-11-09T02:22:37.245Z
+updated: 2024-11-12T06:42:14.451Z
 tags:
   - chatgpt
   - open-ai
@@ -52,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
 ![ChatGPT displaying text adventure game output in code blocks](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-displaying-text-adventure-game-output-in-code-blocks.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  As you can see, this is more compact and easier to look at than the default look.
 
 > 6\. The ‘Description’ must stay between 3 to 10 sentences.
@@ -73,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  This part of the prompt will tell the AI how to build the environment; otherwise, it will become very messy. You can change things here to whatever you like. For example, if you prefer one-sentence descriptions, this is where you can do that.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Implement Fundamental Game Mechanics
 
  Game mechanics comprise the core engine of how your game will run. It is here you will have to add how you want your actions and abilities to affect the world. Here’s how we structured the game mechanics in our prompt:
@@ -86,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
 >
@@ -116,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 > 15\. The player can not spend more than the total value of ‘Gold’.
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Craft the Story, Setting, and NPCs
 
@@ -173,10 +173,16 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
  Combat rules can be especially tricky for the AI, so you might need to experiment with this a bit till you find something that sticks.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclude Your Prompt
@@ -193,22 +199,15 @@ And finally, don’t forget to actually start the game:
 
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have ChatGPT Plus, it grants you access to GPT-4, a more intelligent version of GPT-3.5\. You should try running a few RPG sessions with GPT-4 instead of GPT3.5\. It's way more creative, better at crafting stories, remembering rules, and all-around better at improv. It costs $20/month, and it's a good tool for doing other things apart from text-based gaming.
@@ -313,13 +312,6 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
@@ -339,5 +331,21 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-cold-climate-chronicles-highlights-from-the-icy-stage/"><u>[New] In 2024, Cold Climate Chronicles Highlights From the Icy Stage</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-guide-to-avoid-instagram-auto-suggest-feature/"><u>[New] In 2024, Guide to Avoid Instagram Auto-Suggest Feature</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-360-degree-gearing/"><u>[Updated] Ultimate 360 Degree Gearing</u></a></li>
+<li><a href="https://win-tips.techidaily.com/1-quick-and-easy-methods-for-converting-cda-audio-files-into-mp3-format/"><u>1. Quick & Easy Methods for Converting CDA Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-6s-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/effiziente-methoden-zur-wiederherstellung-fehlender-ordnern-auf-dem-windows-10-system/"><u>Effiziente Methoden Zur Wiederherstellung Fehlender Ordnern Auf Dem Windows 10-System</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freely-convert-ibooks-on-android-a-straightforward-guide-with-no-cost-involved/"><u>Freely Convert iBooks on Android: A Straightforward Guide with No Cost Involved</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-oppo-a2-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Oppo A2 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/how-to-install-and-use-instagram-app-on-your-kindle-fire-tablet/"><u>How to Install and Use Instagram App on Your Kindle Fire Tablet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-stream-htc-videos-using-the-no-cost-htc-media-player-for-pcs-and-laptops/"><u>How to Stream HTC Videos Using the No-Cost HTC Media Player for PCs and Laptops</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-apples-latest-airpods-pro-gen-3-spotlight-on-key-enhancements-a-detailed-review-by-zdnet/"><u>In-Depth Analysis of Apple's Latest AirPods Pro (Gen 3): Spotlight on Key Enhancements - A Detailed Review by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/les-meilleurs-logiciels-de-gravure-video-gratuit-pour-windows-top-3-compared/"><u>Les Meilleurs Logiciels De Gravure Vidéo Gratuit Pour Windows - Top 3 Compared</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/resolved-fixes-for-intermittent-stoppage-in-samsung-dvd-player-during-movie-viewing/"><u>Resolved: Fixes for Intermittent Stoppage in Samsung DVD Player During Movie Viewing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-freeware-dvd-ripper-programme-fur-windows-10-und-11-der-vergleich-202n-beste-optionen-ermitteln/"><u>Top-Freeware DVD-Ripper Programme Für Windows 10 Und 11: Der Vergleich 202N - Beste Optionen Ermitteln!</u></a></li>
+</ul></div>
 

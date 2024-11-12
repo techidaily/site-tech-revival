@@ -1,7 +1,7 @@
 ---
 title: "Unveiling CodeGPT: The AI Revolutionizing Coding – Does It Truly Compose Programs?"
-date: 2024-10-26T22:29:30.436Z
-updated: 2024-11-02T23:15:31.628Z
+date: 2024-11-08T07:54:54.279Z
+updated: 2024-11-12T07:26:12.049Z
 tags:
   - chatgpt
   - open-ai
@@ -39,22 +39,21 @@ thumbnail: https://thmb.techidaily.com/39b1aa90cbe15af25eeef086af2b40b5abbe4ea0e
 Here's a video of Altman's discussion below:
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## When Is GPT-5 Coming?
 
 ![When is GPT-5 coming. Question mark illustration](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/pexels-pixabay-356079-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  While Altman's comments about GPT-5's development make it seem like a 2024 release of GPT-5 is off the cards, it's important to pay extra attention to the details of his comment.
 
@@ -70,15 +69,34 @@ So, a 2024 release date for GPT-5? Is that possible?
 
  Remember, GPT-4 is both a language model and a vision model. However, consumers have barely used the "vision model" capabilities of GPT-4\. There is still huge potential in GPT-4 we've not explored, and OpenAI might dedicate the next several months to helping consumers make the best of it rather than push for the much hype GPT-5.
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Changes Could GPT-5 Bring?
 
 ![chatgpt conversation open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/smartphone-chatgpt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  While it might be too early to say with certainty, we fully expect GPT-5 to be a considerable leap from GPT-4\. GPT-3 was mainly a language model. GPT-4 improved on that by being both a language model and a vision model. We expect GPT-5 might possess the abilities of a sound recognition model in addition to the abilities of GPT-4.
@@ -88,10 +106,10 @@ So, a 2024 release date for GPT-5? Is that possible?
  However, considering the current abilities of GPT-4, we expect the law of diminishing marginal returns to set in. Simply increasing the model size, throwing in more computational power, or diversifying training data might not necessarily bring the significant improvements we expect from GPT-5.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## GPT-5: An Exciting Future Awaits
@@ -115,22 +133,17 @@ So, a 2024 release date for GPT-5? Is that possible?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-editcanvas-solutions/"><u>[New] 2024 Approved EditCanvas Solutions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instasnap-optimize-images-and-videos-on-ig/"><u>[New] 2024 Approved InstaSnap Optimize Images & Videos on IG</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-googles-new-gemini-ai-outshine-microsofts-chatgpt-in-conversation-capabilities/"><u>Can Google's New Gemini AI Outshine Microsoft's ChatGPT in Conversation Capabilities?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/constructing-a-daily-sanctuary-through-ai-guided-reflection/"><u>Constructing a Daily Sanctuary Through AI-Guided Reflection</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-honor-x9a-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Honor X9a Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723208697780-fix-a-network-change-was-detected-error/"><u>Fix “A Network Change Was Detected” Error</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/health-insights-with-chatgpt-the-top-7-justifications-for-relying-on-ai-expertise/"><u>Health Insights with ChatGPT: The Top 7 Justifications for Relying on AI Expertise</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/kompletter-hardware-neustart-ihres-iphone-modelle-14-13-12-11-und-x-schritt-fur-schritt-anleitung/"><u>Kompletter Hardware-Neustart Ihres iPhone Modelle 14, 13, 12, 11 Und X: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/master-video-conversion-with-exclusive-tool-switch-mvp-files-to-popular-codecs-including-mp4-and-hevc-instantly/"><u>Master Video Conversion with Exclusive Tool - Switch .mvp Files to Popular Codecs Including MP4 and HEVC Instantly</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/mastering-your-content-choose-these-top-10-reel-apps/"><u>Mastering Your Content Choose These Top 10 Reel Apps</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/pixelpioneer-screensaver-logging-for-2024/"><u>PixelPioneer Screensaver Logging for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-writing-with-these-must-try-ai-driven-story-genesis-tools/"><u>Revolutionize Your Writing With These Must-Try AI-Driven Story Genesis Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-ais-appeal-to-digital-criminals/"><u>Understanding AI's Appeal to Digital Criminals</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/understanding-generative-ai-the-essential-handbook-for-modern-day-guardians/"><u>Understanding Generative AI: The Essential Handbook for Modern-Day Guardians</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updated-epson-l3150-printer-drivers-seamless-support-on-windows-11-8-and-7/"><u>Updated Epson L3150 Printer Drivers: Seamless Support on Windows 11, 8 & 7</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-you-should-rethink-incorporating-ai-driven-conversations-unveiling-7-key-issues-in-messaging-services/"><u>Why You Should Rethink Incorporating AI-Driven Conversations: Unveiling 7 Key Issues in Messaging Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/your-first-steps-with-langchain-demystifying-advanced-llm-techniques-for-newcomers/"><u>Your First Steps with LangChain: Demystifying Advanced LLM Techniques for Newcomers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-top-5-best-screens-for-playstation-5-gamers/"><u>[New] In 2024, TOP 5 Best Screens for PlayStation 5 Gamers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-craft-your-podcasts-identity-with-ai-name-generators/"><u>[Updated] 2024 Approved Craft Your Podcast's Identity with AI Name Generators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-craft-your-own-film-finale-templates-no-cost/"><u>[Updated] Craft Your Own Film Finale Templates, No Cost</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pinnacle-of-1980s-movie-magic-in-editing/"><u>[Updated] Pinnacle of 1980S Movie Magic in Editing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-top-voice-modification-tools-for-youtube-creators-for-2024/"><u>[Updated] Top Voice Modification Tools for YouTube Creators for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/odysee/"><u>「Odysee動画のダウンロードと保存手順ガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp4/"><u>無損失でMP4ファイルの画像比率変更テクニック</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-successfully-transfer-videos-from-facebook-to-your-youtube-channel/"><u>How To Successfully Transfer Videos From Facebook To Your YouTube Channel</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-on-your-iphone-x-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID on Your iPhone X?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-tweeting-youtube-content-a-comprehensive-tutorial/"><u>Mastering the Art of Tweeting YouTube Content - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/new-release-wonderfox-image-transformer-v11-from-videos-to-still-images/"><u>New Release: WonderFox Image Transformer v1.1 - From Videos to Still Images</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-vivo-y28-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Vivo Y28 5G Phones</u></a></li>
 </ul></div>
 

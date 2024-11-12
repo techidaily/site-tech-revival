@@ -1,7 +1,7 @@
 ---
 title: How Does ChatGPT's Custom Commands Work & Their Applications
-date: 2024-10-28T01:49:56.926Z
-updated: 2024-11-03T04:35:17.018Z
+date: 2024-11-07T20:19:45.604Z
+updated: 2024-11-12T03:25:48.945Z
 tags:
   - chatgpt
   - open-ai
@@ -64,6 +64,19 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -73,15 +86,22 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Ascannio/[Shutterstock](https://www.shutterstock.com/image-photo/chatgpt-chat-bot-screen-seen-on-2237655785)
 
@@ -92,16 +112,10 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
@@ -112,14 +126,14 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
- Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 ## 6 Upload Images or Files (if Available)
 
@@ -129,13 +143,6 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -143,13 +150,6 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
@@ -168,19 +168,18 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-channel-upgrade-marking-chapters-in-youtube-video-files/"><u>[New] Channel Upgrade Marking Chapters in YouTube Video Files</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlock-content-potential-with-the-right-vimeo-membership-choice-for-2024/"><u>[New] Unlock Content Potential with the Right Vimeo Membership Choice for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-navigating-powerpoints-voice-recognition-lands-market/"><u>[Updated] 2024 Approved Navigating PowerPoint's Voice Recognition Lands Market</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-achieving-auditory-perfection-zooming-up-your-sound-quality-for-2024/"><u>[Updated] Achieving Auditory Perfection Zooming Up Your Sound Quality for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-expert-strategies-for-perfectly-shared-screens-on-mobiledesktop-for-2024/"><u>[Updated] Expert Strategies for Perfectly Shared Screens on Mobile/Desktop for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-instagram-essential-hashtag-tips/"><u>[Updated] Mastering Instagram Essential Hashtag Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cha-tting-with-ai-androids-voice-controlled-gpt-explained/"><u>Cha [T]ting with AI? Android's Voice Controlled GPT Explained</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/decoding-auto-gpt-vs-chatgpt-key-features-and-differences-unveiled/"><u>Decoding Auto-GPT vs ChatGPT: Key Features & Differences Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhancing-chatbot-interactions-a-guide-to-crafting-effective-user-personas/"><u>Enhancing Chatbot Interactions: A Guide to Crafting Effective User Personas</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-mycams-evolution-a-new-era-of-home-video-capture/"><u>In 2024, MyCam's Evolution A New Era of Home Video Capture</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-pokemon-go-a-comprehensive-guide/"><u>Mastering Pokémon Go: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/silverman-artists-unite-lawsuit-against-ai-giants/"><u>Silverman, Artists Unite: Lawsuit Against AI Giants</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-unleashing-of-chatgpt/"><u>The Unleashing of ChatGPT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-quick-and-secure-lecture-capture-methods-for-mac-users-for-2024/"><u>[New] Quick and Secure Lecture Capture Methods for Mac Users for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-deep-dive-into-fraps-recording-capabilities-for-2024/"><u>A Deep Dive Into Fraps Recording Capabilities for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-barriers-chatgpts-remarkable-new-capabilities/"><u>Breaking Barriers: ChatGPT's Remarkable New Capabilities</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bypass-pitfalls-with-expert-advice-on-avoiding-6-key-chatgpt-mistakes/"><u>Bypass Pitfalls with Expert Advice on Avoiding 6 Key ChatGPT Mistakes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/child-friendly-gpt-interactions-the-essential-5-tips/"><u>Child-Friendly GPT Interactions: The Essential 5 Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/customize-and-explore-openais-new-gpt-shopping-experience/"><u>Customize and Explore: OpenAI's New GPT Shopping Experience</u></a></li>
+<li><a href="https://fox-place.techidaily.com/effortless-steps-transferring-images-from-your-oneplus-7-smartphone-to-your-personal-computer/"><u>Effortless Steps: Transferring Images From Your OnePlus 7 Smartphone to Your Personal Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-significance-of-chatgpts-real-time-information-use-for-people-worldwide/"><u>Exploring the Significance of ChatGPT's Real-Time Information Use for People Worldwide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-extracting-audio-from-vimeo-content-easily/"><u>In 2024, Extracting Audio From Vimeo Content Easily</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-11-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 11 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-generative-ais-textual-landscape-for-business-use/"><u>Navigating Generative AI's Textual Landscape for Business Use</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-installation-nvidia-1080-drivers-compatible-with-windows-11/"><u>Seamless Installation: NVIDIA 1080 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mac-tutorial-downloading-and-setting-up-kinemaster-made-easy-for-2024/"><u>Updated Mac Tutorial Downloading and Setting Up KineMaster Made Easy for 2024</u></a></li>
 </ul></div>
 

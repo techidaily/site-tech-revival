@@ -1,7 +1,7 @@
 ---
 title: "Melting Glaciers Misunderstood: A Scientific Perspective"
-date: 2024-09-11T19:30:44.263Z
-updated: 2024-09-12T19:30:44.263Z
+date: 2024-11-06T02:57:17.695Z
+updated: 2024-11-12T05:37:09.919Z
 tags:
   - chatgpt
   - open-ai
@@ -22,23 +22,9 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Is Sam Altman Calling for More AI Regulation?
 
 ![sam altman sitting on stage talking](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/sam-altman-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit: TechCrunch/[Flickr](https://www.flickr.com/photos/techcrunch/48838377432/in/)
 
@@ -57,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
  So, it's evident that industry professionals and lawmakers are concerned about AI and its future impact. But what effect will further regulation have on the AI industry? Will it be a good or bad thing?
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Will More Regulation Benefit the AI Industry?
@@ -76,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
  Some also feel that it's far too soon to be talking about AI regulation, though the presence of AI in so many industries today would seem to contradict that view.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Is AI Regulation Good News for OpenAI?
@@ -87,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
 ![openai logo on smartphone place on laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/open-ai-phone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Sam Altman's call for more AI regulation has raised questions about whether such constraints will actually benefit OpenAI.
@@ -102,16 +88,10 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
  It isn't surprising that Altman has something of a bias here, as ChatGPT is the brainchild of the company he runs. But further regulation could lead to larger, pre-established AI companies having an advantage over smaller organizations, especially if licenses, permits, and long testing periods are made a legal requirement (as this could incur more costs and require more personnel).
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## AI Regulation Is a Point of Contention
@@ -131,5 +111,24 @@ thumbnail: https://thmb.techidaily.com/60fe1a74657905b47d054d52197782d9df31df837
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-fonepaw-screen-recorder-downloadreview/"><u>[New] 2024 Approved Fonepaw Screen Recorder Download|Review</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-ten-strategies-for-controlling-a-twitch-broadcast/"><u>[New] In 2024, Ten Strategies for Controlling a Twitch Broadcast</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bringing-facial-movement-to-life-with-picsarts-effects/"><u>Bringing Facial Movement to Life with Picsart's Effects</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-media-formats-dvd-blu-ray-and-digital-files-a-comprehensive-guide-on-which-offers-the-best-value/"><u>Comparing Media Formats: DVD, Blu-Ray, and Digital Files – A Comprehensive Guide on Which Offers the Best Value</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descubre-la-solucion-gratuita-ideal-para-grabar-videos-mp4mkvmov-en-dvd-con-el-mejor-programa-compatible-con-windows-nx-guia-actualizada-de-2020/"><u>Descubre La Solución Gratuita Ideal Para Grabar Vídeos (MP4/MKV/MOV) en DVD Con El Mejor Programa Compatible Con Windows nX: Guía Actualizada De 2020</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289878357-digiarty-software-dvd/"><u>Digiarty Softwareの公式ブログ - DVDコピーガイド：詳細解説・最新情報</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-video-editing-how-to-change-avchd-footage-to-mp4-without-costs-for-windows-10-users/"><u>Effortless Video Editing: How to Change AVCHD Footage to MP4 Without Costs for Windows 10 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725286458952-exploring-standard-dvd-resolution-is-it-sd-480p-hd-720p-or-uhd-108/"><u>Exploring Standard DVD Resolution - Is It SD (480P), HD (720P), or UHD (108 )?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-google-pixel-7a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Google Pixel 7a to iPod | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-how-much-wealth-can-you-generate-on-youtube-using-cpm/"><u>In 2024, How Much Wealth Can You Generate on YouTube Using CPM?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-infinix-smart-8-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Infinix Smart 8 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/los-mas-recomendados-tipos-de-adquirir-la-extension-del-codec-av1-para-sistemas-con-windows-11/"><u>Los Más Recomendados Tipos De Adquirir La Extensión Del Códec AV1 Para Sistemas Con Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/most-effective-complimentary-mobile-phone-data-retrieval-programs-for-pc-and-mac-latest-picks/"><u>Most Effective Complimentary Mobile Phone Data Retrieval Programs for PC and Mac - Latest Picks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-of-a-non-working-car-stereo-a-comprehensive-guide/"><u>Solving the Mystery of a Non-Working Car Stereo: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/telecharger-gratuitement-le-codec-h264-pack-de-lecture-video-haute-definition-ultime/"><u>Télécharger Gratuitement Le Codec H.264 : Pack De Lecture Vidéo Haute Définition Ultime</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-how-to-stop-no-rest-for-the-wicked-from-freezing/"><u>Troubleshooting PC Issues: How to Stop 'No Rest for the Wicked' From Freezing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-download-videoleap-on-macbook-proair-easy-installation-steps-for-2024/"><u>Updated Download Videoleap on MacBook Pro/Air Easy Installation Steps for 2024</u></a></li>
+</ul></div>
 

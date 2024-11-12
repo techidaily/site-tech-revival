@@ -1,7 +1,7 @@
 ---
 title: Boosting Excel Productivity with Effective ChatGPT Techniques
-date: 2024-09-11T19:28:51.447Z
-updated: 2024-09-12T19:28:51.447Z
+date: 2024-11-08T22:30:46.258Z
+updated: 2024-11-11T19:54:16.769Z
 tags:
   - chatgpt
   - open-ai
@@ -24,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Get Advice on How to Prioritize Your Tasks
 
  ChatGPT can advise you on common task prioritization methods, such as the Eisenhower Matrix, ABCD Method, and the MoSCoW Method. It can also help you choose the most suitable method based on your specific needs and goals.
@@ -49,23 +42,9 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 
 ![ChatGPT ABCD Method part one](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-one.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have a list of pending tasks and don't know where to start, ChatGPT can take a guess at which ones are likely the most important using the ABCD Method. Even if you disagree with the app's initial sorting, it's a quick way to gauge your priorities.
 
 ![ChatGPT ABCD Method part two](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-abcd-method-part-two.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As this example shows, the chatbot sorts your activities into assignments that require immediate attention (such as working your shift for the day), as well as those that can go on the back burner for a little while (such as returning a call to your doctor's office).
 
@@ -75,18 +54,18 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 
  For the most part, the chatbot can help you determine which of your many tasks deserves your attention the most. For anyone who gets overwhelmed by too many pending responsibilities, this is a simple way to let technology take on a little of the decision-making for you.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Streamline Your Workflow With ChatGPT
 
  Depending on your profession, ChatGPT can also offer specific advice for speeding up your workflow. In this example, we prompted the chatbot to address a common time suck: reading and responding to emails.
 
 ![ChatGPT email prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-email-prompt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For this prompt, the chatbot provided some general advice about using templates and unsubscribing from as much as possible. However, you can also drill down to get more specific advice for these issues as well.
 
@@ -99,13 +78,20 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 ![ChatGPT automation ideas for a realtor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-automation-ideas-for-a-realtor.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT provided several tips in regard to email marketing, virtual tours, and property listing syndication services that can help realtors excel in their line of work while saving some time. Prompt the chatbot for some advice about time management in your own career for more specific tips.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Break Down a Large Project Into Manageable Sections
 
@@ -115,16 +101,16 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 
 ![ChatGPT decluttering prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-decluttering-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The chatbot provided a series of tips for decluttering more efficiently. Many of them focused on speeding up the process, such as the advice to make rapid decisions about whether to keep or donate a particular item.
 
  The next time you have a large project to tackle, see whether ChatGPT can help you sort through the steps to make it more manageable and efficient. The chatbot just might offer the right piece of advice to help speed up the whole job.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Get Personalized Time-Saving Tips
 
@@ -153,5 +139,20 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-secure-mp3-conversion-of-live-skype-talks-for-2024/"><u>[Updated] Secure MP3 Conversion of Live Skype Talks for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/m4amp3-windows-11-10-macos/"><u>無料オンラインツール: M4AからMP3への素晴らしい変換 - Windows 11, 10, MacOS対応</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/expert-in-dvd-and-video-transformation-introducing-digiartys-advanced-conversion-tools/"><u>Expert in DVD & Video Transformation: Introducing Digiarty's Advanced Conversion Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fehlerbeheben-bei-fehlender-filmwiedergabe-auf-ihrem-macbook-pro-schritt-fur-schritt-protokoll/"><u>Fehlerbeheben Bei Fehlender Filmwiedergabe Auf Ihrem MacBook Pro: Schritt-Für-Schritt-Protokoll</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1726028542644-premiere-promov/"><u>Premiere ProにてMOVファイルを読み込む際のトラブルシューティング</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/stardews-guide-ginger-isle-essentials/"><u>Stardew's Guide Ginger Isle Essentials</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-tutorial-mastering-subtitle-addition-and-removal-with-handbrake/"><u>The Ultimate Tutorial: Mastering Subtitle Addition and Removal with Handbrake</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-3d-video-makers-for-all-budgets/"><u>Unleash Your Creativity Top 3D Video Makers for All Budgets</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-reduce-video-size-with-these-5-free-iphone-and-ipad-apps/"><u>Updated 2024 Approved Reduce Video Size with These 5 Free iPhone and iPad Apps</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/winxdvd-official-site-ultimate-dvd-ripping-and-conversion-tool/"><u>WinXDVD Official Site - Ultimate DVD Ripping & Conversion Tool</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289208653-winxdvd/"><u>ポピュラーなビデオ＆オーディオプレイバックエラーに対する解決策 - WinXDVD</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Worst Plugins: Avoid These 6 Time-Wasters"
-date: 2024-10-28T17:19:30.271Z
-updated: 2024-11-03T01:47:09.163Z
+date: 2024-11-10T02:43:19.336Z
+updated: 2024-11-12T04:45:32.938Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -58,10 +51,16 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
  The more context you provide your AI tool, the better of a response you'll receive.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2 Ask for More Information After Getting an Initial Answer
@@ -76,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
@@ -85,13 +91,6 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
  This tip is especially important if you want to use AI tools like DALL-E 3 to generate images. I've often noticed that first drafts sometimes don't yield what I'm looking for, and there could also be problems like defects for items like flags.
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4 Don't Make Your AI Multitask
 
@@ -115,6 +114,13 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -124,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7 Mention Where You Want to Use Your Prompt Answers
@@ -139,10 +145,16 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
@@ -162,18 +174,17 @@ thumbnail: https://thmb.techidaily.com/add496faff3567ece40d0c0a25d683b37093fb191
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-youtube-seo-compendium-for-enhanced-visibility/"><u>[New] In 2024, The Ultimate YouTube SEO Compendium for Enhanced Visibility</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-nubia-z50s-pro-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Nubia Z50S Pro.</u></a></li>
-<li><a href="https://video-capture.techidaily.com/budget-friendly-pc-screen-capture-software/"><u>Budget-Friendly PC Screen Capture Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fast-start-bespoke-solutions-explore-these-8-gpt-innovations-today/"><u>Fast Start, Bespoke Solutions: Explore These 8 GPT Innovations Today</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/font-fusion-merging-style-and-content-in-after-effects-for-2024/"><u>Font Fusion Merging Style & Content in After Effects for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-next-gen-interaction-configuring-the-revolutionary-nvidia-rtx-ai-chatbot-for-home-use/"><u>Harnessing Next-Gen Interaction: Configuring the Revolutionary Nvidia RTX AI Chatbot for Home Use</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prime-video-upload-solutions-for-twitter/"><u>In 2024, Prime Video Upload Solutions for Twitter</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-honor-magic-5-lite-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Honor Magic 5 Lite Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-ai-driven-learning-pathways-with-gpt-plus/"><u>Innovative AI-Driven Learning Pathways with GPT Plus</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-tools-that-outshine-chatgpt-for-self-coding-success/"><u>Innovative Tools That Outshine ChatGPT for Self-Coding Success</u></a></li>
-<li><a href="https://extra-support.techidaily.com/seamlessly-assemble-digital-memories-with-picshot-apps-for-2024/"><u>Seamlessly Assemble Digital Memories with Picshot Apps for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/tailoring-audience-for-your-youtube-videos/"><u>Tailoring Audience for Your Youtube Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-5-limitations-of-ai-for-professional-writing-careers/"><u>The 5 Limitations of AI for Professional Writing Careers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensively-understanding-wm6-setup/"><u>[New] Comprehensively Understanding WM6 Setup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-harmonizing-sounds-first-lessons-on-fades-with-audition/"><u>[Updated] Harmonizing Sounds First Lessons on Fades with Audition</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oppo-a2-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oneplus-12-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From OnePlus 12 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enabling-safe-communication-with-chatgpt-should-you-use-a-vpn/"><u>Enabling Safe Communication With ChatGPT – Should You Use a VPN?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-coding-experience-6-surpreruses-of-chatgpts-language-processor/"><u>Enhance Your Coding Experience: 6 Surpreruses of ChatGPT's Language Processor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-drone-titans-for-industrial-lifting-challenges/"><u>In 2024, Drone Titans for Industrial Lifting Challenges</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mobile-savvy-tailoring-youtube-video-thumbnails-with-phones/"><u>Mobile-Savvy Tailoring YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-chatgpt-hurdles-refining-google-news-content-delivery-and-securing-top-tier-mobile-internet-access-on-holidays/"><u>Overcoming ChatGPT Hurdles, Refining Google News Content Delivery & Securing Top-Tier Mobile Internet Access on Holidays</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premium-mac-programming-solutions-excluded-from-bandicam-for-2024/"><u>Premium Mac Programming Solutions Excluded From Bandicam for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ten-tips-to-perfect-your-gpt-dialogue-experience/"><u>Ten Tips to Perfect Your GPT Dialogue Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-definitive-selection-best-artificial-intelligence-apps-for-phones/"><u>The Definitive Selection: Best Artificial Intelligence Apps for Phones</u></a></li>
 </ul></div>
 

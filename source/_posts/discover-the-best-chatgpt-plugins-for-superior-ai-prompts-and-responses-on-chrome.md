@@ -1,7 +1,7 @@
 ---
 title: Discover the Best ChatGPT Plugins for Superior AI Prompts and Responses on Chrome
-date: 2024-10-27T19:35:54.231Z
-updated: 2024-11-03T05:01:15.021Z
+date: 2024-11-11T00:46:57.647Z
+updated: 2024-11-12T03:26:59.907Z
 tags:
   - chatgpt
   - open-ai
@@ -41,10 +41,10 @@ It was also stated in the same report that:
  It seems the continued adoption and development of AI will pose a threat to our cybersecurity, though the degree to which it affects us is yet to be seen.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Increased Digital Supply Chain Attacks
@@ -52,10 +52,10 @@ It was also stated in the same report that:
 ![digital graphic of globe and transport vehicles behind alert symbol](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/alert-supply-chain.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Supply chain forms the backbone of the commercial world. Without this crucial industry, the efficient production and shipping of products around the globe would be close to impossible.
@@ -64,9 +64,23 @@ It was also stated in the same report that:
 
  According to[Cybersecurity Hub](https://www.cshub.com/events-supply-chain-threats) , the number of supply chain attacks has risen by 74 percent over the past three years. The site also reported that it takes an average of 287 days to detect a supply chain attack, giving malicious actors plenty of time to steal data or disrupt services. In 2024, we may see this increase in supply chain attacks continue, or even evolve in sophistication.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Further Adoption of Zero-Trust Systems
 
 ![person in suit using tablet with zero-trust spider diagram in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/zero-trust-image.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Zero-trust systems do not rely on any user or group of users to authenticate, monitor, or store data. Additionally, every user present in a zero-trust system must authorize access to a new user, otherwise the system remains off-limits to that individual. In short, a zero-trust system is designed not to trust any one individual. All users are assumed untrustworthy unless authentication is provided by other users.
 
@@ -78,13 +92,6 @@ It was also stated in the same report that:
 
 ![close up shot of electric car charging](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/ev-charging-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Gone are the days when a car was just a mechanical vehicle with a radio. Now, we can use Bluetooth, Wi-Fi, and even NFC in our cars. These wireless connections, along with a reliance on software, have opened the door for cybercriminals.
 
  This is especially the case with electric vehicles. A lot of EVs are designed with high-tech features, such as NFC-based door locks, AI hazard detection, Wi-Fi capabilities, apps for charging, and so much more. Both remote and short-range hacks can be carried out by exploiting such features, putting EV owners and other drivers at risk.
@@ -93,23 +100,9 @@ It was also stated in the same report that:
 
  This is just one of the numerous[types of EV hacks](https://www.makeuseof.com/can-electric-vehicles-be-hacked/) that are possible. In order to avoid this, EV manufacturers need to thoroughly vet their software to ensure vulnerabilities aren't being left behind in the code.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Improved Smart Home and IoT Security
 
 ![picture of living room with smart tech connection grid in front](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/10/smart-home-grid.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  IoT devices make our day-to-day lives possible. Whether you're using your smartphone, smart speaker, smartwatch, or anything similar, IoT is facilitating your actions. In short IoT is a blanket term covering all interconnected devices. This network of connected "things" forms its own[Internet of Things (IoT)](https://www.makeuseof.com/tag/what-is-internet-of-things/) . It's this increased connectivity forming the Internet of Things that has attracted cybercriminals.
 
@@ -128,6 +121,13 @@ It was also stated in the same report that:
  While cloud platforms are undeniably a convenient storage option, one's ability to access data anywhere with the correct credentials creates a problem. If a hacker manages to access someone's account, they can then look at any data stored on said account—work documents, ID photos, photos and videos, financial information, or anything else.
 
  With this pot of data gold waiting for cybercriminals, it's no surprise that they're doing all they can to get inside. While cloud platforms often come with various security features, they're not impenetrable, and the sheer amount of data stored on these platforms nowadays makes them increasingly attractive to hackers.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Continued Topical Email Scams
 
@@ -158,24 +158,16 @@ It was also stated in the same report that:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-easy-routine-reverse-playback-on-vlc-platform/"><u>[New] 2024 Approved Easy Routine Reverse Playback on VLC Platform</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-immerse-in-hd-celestial-wonders-online/"><u>2024 Approved Immerse in HD Celestial Wonders Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-key-to-wealth-in-web-videos-view-count-imperative/"><u>2024 Approved The Key to Wealth in Web Videos View Count Imperative</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-acer-chromebook-perfect-blend-of-features-and-value/"><u>Affordable Acer Chromebook: Perfect Blend of Features and Value</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/complete-tutorial-capturing-high-quality-audio-on-your-windows-11-pc/"><u>Complete Tutorial: Capturing High-Quality Audio on Your Windows 11 PC</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/daily-bing-photography-for-windows-1er-theme-backdrop-tutorial/"><u>Daily Bing Photography for Windows 1Er Theme Backdrop Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/developing-better-empathy-and-self-awareness-through-chatgpt-tools/"><u>Developing Better Empathy and Self-Awareness Through ChatGPT Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-multitasking-organizing-your-workspace-with-cascaded-windows-on-windows-10/"><u>Effortless Multitasking: Organizing Your Workspace with Cascaded Windows on Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-timeless-tunes-anew-through-siriusxms-infinite-music-service/"><u>Experience Timeless Tunes Anew Through SiriusXM's Infinite Music Service</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-facetime-problems-discover-these-15-quick-fixes-for-a-smooth-video-call-experience/"><u>Experiencing FaceTime Problems? Discover These 15 Quick Fixes for a Smooth Video Call Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-evaluation-of-the-plugable-usb-c-dual-hdmi-docking-hub-essential-perks-for-pc-enthusiasts/"><u>Expert Evaluation of the Plugable USB-C Dual HDMI Docking Hub: Essential Perks for PC Enthusiasts</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-windows-11-a-comprehensive-walkthrough-of-application-updates/"><u>Mastering Windows 11: A Comprehensive Walkthrough of Application Updates</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210942366-9780719840845-reiki/"><u>Reiki | Free Book</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-tecno-camon-20-pro-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/save-big-get-20-off-acronis-true-image-promo-codes-inside/"><u>Save Big: Get 20% Off Acronis True Image - Promo Codes Inside</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/security-breach-how-windows-updates-can-get-compromised-and-negate-protection-measures/"><u>Security Breach: How Windows Updates Can Get Compromised and Negate Protection Measures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-mastering-audio-recording-with-windows-11/"><u>Step-by-Step Guide: Mastering Audio Recording with Windows 11</u></a></li>
-<li><a href="https://win-tips.techidaily.com/top-no-cost-alternatives-to-resilio-sync-discover-the-best-with-aomei-backupper/"><u>Top No-Cost Alternatives to Resilio Sync: Discover the Best with AOMEI Backupper</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unveiling-the-champion-of-open-source-media-playback-vlc-vs-mpc-for-2024/"><u>Unveiling the Champion of Open-Source Media Playback (VLC Vs. MPC) for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>[Updated] In 2024, Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/55sf5psplus6ycb44gu5yuv55s76kiy6yyy77yg57at5oyb44gu5luv5pa56kmz44gx44gp6kej6kqs44gz44kl/"><u>生放送の動画記録＆維持の仕方詳しく解説する</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-free-video-merging-apps-and-websites-top-10-picks/"><u>Best Free Video Merging Apps & Websites: Top 10 Picks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-amr-audio-files-to-mp3-top-4-methods-for-all-devices/"><u>Convert AMR Audio Files to MP3: Top 4 Methods for All Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convert-avi-to-mp4-a-simple-guide-for-windows-and-macos-users-unveiling-5-methods/"><u>Convert AVI to MP4: A Simple Guide for Windows & macOS Users - Unveiling 5 Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-tecno-phantom-v-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Tecno Phantom V Flip to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-mastering-video-creation-our-picks-for-the-top-12-flip-screen-cams/"><u>In 2024, Mastering Video Creation Our Picks for the Top 12 Flip-Screen Cams</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/iphone-expertise-crafting-time-lapse-photos-for-2024/"><u>IPhone Expertise Crafting Time-Lapse Photos for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-edge-2023-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Edge 2023 password or pattern lock</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-best-movie-trailer-makers-for-mac-and-windows-for-2024/"><u>Updated Best Movie Trailer Makers for Mac and Windows for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44k544ou44o844kr44o844gu6zplusz44ks5q2j56k644gr6kiy6yyy44gz44kl5bcc6zaa55qe44gq5oqa6kgt/"><u>スピーカーの音を正確に記録する専門的な技術</u></a></li>
 </ul></div>
 

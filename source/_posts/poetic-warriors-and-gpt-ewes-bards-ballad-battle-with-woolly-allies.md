@@ -1,7 +1,7 @@
 ---
 title: Poetic Warriors & GPT Ewes - Bard's Ballad Battle with Woolly Allies
-date: 2024-10-28T18:27:37.134Z
-updated: 2024-11-02T17:07:53.520Z
+date: 2024-11-08T19:55:15.015Z
+updated: 2024-11-12T06:01:32.223Z
 tags:
   - chatgpt
   - open-ai
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -72,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
@@ -94,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
@@ -111,10 +111,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. ChatGPT for Search Engines
@@ -130,16 +130,10 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
@@ -171,24 +165,18 @@ thumbnail: https://thmb.techidaily.com/6d8730f2a77f7bacc79151a55ebc1a6b3c6364485
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insta-a-lister-secrets-unveiling-the-fastest-way-to-fame-with-our-expert-guide/"><u>[New] In 2024, Insta A-Lister Secrets Unveiling the Fastest Way to Fame with Our Expert Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-boosting-your-instagram-aesthetics-implementing-borders-on-photos-for-2024/"><u>[Updated] Boosting Your Instagram Aesthetics Implementing Borders on Photos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boosting-romance-leveraging-chatgpt-for-enhanced-dating-success/"><u>Boosting Romance: Leveraging ChatGPT for Enhanced Dating Success</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/combating-loneliness-leveraging-chatgpts-power/"><u>Combating Loneliness: Leveraging ChatGPT's Power</u></a></li>
-<li><a href="https://extra-information.techidaily.com/countdown-magic-discover-10-must-have-androidios-clocks/"><u>Countdown Magic Discover 10 Must-Have Android/iOS Clocks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/download-the-latest-ai-experience-free-gpt-4-all-version-of-chatbot-on-your-windows-machine/"><u>Download the Latest AI: Experience Free GPT-4 All Version of Chatbot on Your Windows Machine</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhancing-user-experience-and-compliance-through-cookiebot-solutions/"><u>Enhancing User Experience & Compliance Through Cookiebot Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/experience-ai-like-never-before-dive-into-openais-freshly-launched-gpt-custom-store-today/"><u>Experience AI Like Never Before - Dive Into OpenAI's Freshly Launched GPT Custom Store Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-n-vs-llama-version-3-an-in-depth-showdown-of-ai-giants/"><u>GPT-N Vs. Llama Version 3: An In-Depth Showdown of AI Giants</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-itel-a60-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Itel A60</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-bridging-connectivity-gaps-watching-facebook-live-on-your-roku/"><u>In 2024, Bridging Connectivity Gaps Watching Facebook Live on Your Roku</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigating-through-synthetic-prose-gptzero-as-a-guide/"><u>Navigating Through Synthetic Prose: GPTZero as a Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/rapid-rise-to-fame-chatgpts-five-pivotal-elements/"><u>Rapid Rise to Fame: ChatGPT's Five Pivotal Elements</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-vehicle-upgrades-via-ai-collaboration/"><u>Seamless Vehicle Upgrades via AI Collaboration</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-evolution-from-physical-to-streaming-an-insight-into-netflixs-dvd-offering/"><u>The Evolution From Physical to Streaming: An Insight Into Netflix's DVD Offering</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solutions-resolving-fifa-21-pc-crashes-a-comprehensive-tutorial/"><u>Ultimate Solutions: Resolving FIFA 21 PC Crashes – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-potential-of-chatgpt-enterprise-offers-innovations-and-unique-selling-points/"><u>Unlocking the Potential of ChatGPT Enterprise: Offers, Innovations, and Unique Selling Points</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/video-posting-made-simple-with-correct-aspect-ratio-for-2024/"><u>Video Posting Made Simple with Correct Aspect Ratio for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/1724312721327-abbyy/"><u>ヘルスケア業界での効果的なプロセスマイニング技術 - ABBYYブログ</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>[New] Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-role-of-gaming-in-e-commerce/"><u>[Updated] In 2024, The Role of Gaming in E-Commerce</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-virtual-reality-development-tools-gamers/"><u>[Updated] In 2024, Top Virtual Reality Development Tools Gamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-maximizing-channel-potential-across-diverse-digital-venues/"><u>[Updated] Maximizing Channel Potential Across Diverse Digital Venues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-video-converter-for-playstation-portable-ensure-compatibility-with-psp-friendly-formats/"><u>Best Video Converter for PlayStation Portable: Ensure Compatibility with PSP-Friendly Formats</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clipchamp-on-windows-11-how-to-free-trim-videos-without-compression/"><u>ClipChamp on Windows 11: How to Free Trim Videos Without Compression</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-guide-to-the-highest-quality-kodi-fpps-and-plug-ins-for-xbmc-19-and-18/"><u>Comprehensive Guide to the Highest Quality Kodi FPPs and Plug-Ins for XBMC 19 and 18</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-unique-iphone-alerts-a-comprehensive-tutorial-on-converting-m4a-to-m4r-formats/"><u>Creating Unique iPhone Alerts: A Comprehensive Tutorial on Converting M4A to M4R Formats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-from-long-winded-to-concise-the-art-of-youtube-trimming/"><u>In 2024, From Long-Winded to Concise The Art of YouTube Trimming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-guide-to-mastering-zoom-on-modern-windows-11/"><u>In 2024, Stepwise Guide to Mastering Zoom on Modern Windows 11</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-views-with-optimal-thumbnail-design/"><u>In 2024, Unlocking Views with Optimal Thumbnail Design</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-solving-the-fcpx-crash-problem-top-solutions/"><u>New In 2024, Solving the FCPX Crash Problem Top Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/dvd-cprmwindows-10/"><u>お勧めのDVD CPRMブロックを無効にするフリーWindows 10ソフトウェア</u></a></li>
 </ul></div>
 

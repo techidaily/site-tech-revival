@@ -1,7 +1,7 @@
 ---
 title: Why Stopping Siri-ChatGPT Comparisons Helps Recognize Distinctive Qualities
-date: 2024-10-27T20:11:38.740Z
-updated: 2024-11-02T21:17:51.113Z
+date: 2024-11-08T07:43:23.533Z
+updated: 2024-11-12T05:44:03.216Z
 tags:
   - chatgpt
   - open-ai
@@ -30,16 +30,16 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
  But what is Perplexity AI really about, and can you use it instead of Google?
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is Perplexity AI, and What Can You Do With It?
 
 ![screenshot showing perplexity ai on desktop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-16-123353-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perplexity AI is a conversational search engine that uses natural language text to answer questions. It was founded in 2022 by a quartet of former AI researchers from OpenAI and Meta: Aravind Srinivas, Andy Konwiski, Denis Yarats, and Johnny Ho.
 
@@ -48,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
  The Perplexity app is a mix of the[best features from ChatGPT](https://www.makeuseof.com/chatgpt-features-you-arent-using-but-should/) and Google. It features a chat interface similar to ChatGPT’s and a Related section similar to Google’s People also ask.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Use Perplexity AI Instead of Google Search
@@ -60,26 +60,13 @@ thumbnail: https://thmb.techidaily.com/ff0b61be790a55820d60db4c7ad60b6e5b6b95574
 
 ![perplexity app discover page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-discover-page-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![perplexity app library page screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/perplexity-app-library-page-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Close
@@ -97,6 +84,13 @@ Close
  For example, a search for "bakery near me" returned a "summary" of a list of bakeries. The interesting part? Not one from its list was within a 100-mile radius. The same query on Google returned options within a five-mile radius, which is absolutely what I wanted.
 
 ![screenshot showing search result on perplexity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-search-result-on-perplexity.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It's worth noting that[Google has been testing Search Generative Experience (SGE)](https://www.makeuseof.com/how-to-access-google-ai-powered-search/) , an AI-assisted search feature. SGE provides AI overviews of search queries similar to Perplexity AI. Perplexity AI currently does a better job of answering queries thoroughly and also provides in-text citations for cross-referencing. However, this is something Google can replicate, if it becomes where the battle line is drawn.
 
@@ -119,22 +113,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-ultimate-framework-for-finding-the-right-podcast-title-plus-idea-compendium-for-2024/"><u>[New] Ultimate Framework for Finding the Right Podcast Title + Idea Compendium for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-eye-on-video-the-premier-cameras-excellence/"><u>[Updated] Eye on Video The Premier Cameras Excellence</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-iphone-explores-high-dynamic-range-photography/"><u>[Updated] In 2024, IPhone Explores High Dynamic Range Photography</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artificial-intelligences-potential-to-change-how-we-approach-medical-services-with-ai-assistants/"><u>Artificial Intelligence's Potential to Change How We Approach Medical Services with AI Assistants</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cant-sync-your-iphone-to-icloud-here-are-9-remedies-that-could-help/"><u>Can't Sync Your iPhone to iCloud? Here Are 9 Remedies That Could Help!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-to-the-rescue-enhancing-job-interview-readiness-and-confidence/"><u>ChatGPT to the Rescue: Enhancing Job Interview Readiness and Confidence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comparing-conversationalists-which-is-superior-bing-or-googles-latest-innovation/"><u>Comparing Conversationalists: Which Is Superior, Bing or Google's Latest Innovation?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/constructing-actionable-goals-for-optimal-health-via-gpt/"><u>Constructing Actionable Goals for Optimal Health via GPT</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/elite-selection-of-iphone-13-sleeves-expert-picks-protection-and-style/"><u>Elite Selection of iPhone 13 Sleeves: Expert Picks Protection and Style</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/exploring-picture-in-picture-features-on-sierras-operating-systems/"><u>Exploring Picture in Picture Features on Sierra's Operating Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-the-pioneering-world-of-openai/"><u>Inside the Pioneering World of OpenAI</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/integrating-gpt-into-the-fabric-of-health-services/"><u>Integrating GPT Into the Fabric of Health Services</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/master-online-engagement-with-proficient-use-of-snap-in-teams-for-2024/"><u>Master Online Engagement with Proficient Use of Snap in Teams for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionizing-computing-navigating-the-top-5-game-changing-ai-innovations/"><u>Revolutionizing Computing: Navigating the Top 5 Game-Changing AI Innovations</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/scrutinizing-how-content-makers-get-paid-from-youtube-shorts-videos/"><u>Scrutinizing How Content Makers Get Paid From YouTube Shorts Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-top-tips-solving-the-most-frequent-chatgpt-mistakes/"><u>Troubleshooting Top Tips: Solving the Most Frequent ChatGPT Mistakes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-discovering-the-secret-to-engaging-content-with-aspect-ratios-in-youtube-for-2024/"><u>[Updated] Discovering the Secret to Engaging Content with ASPECT RATIOS in YOUTUBE for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-overcoming-inconsistency-stop-obs-frame-loss-for-2024/"><u>[Updated] Overcoming Inconsistency Stop OBS Frame Loss for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-what-is-vimeo-a-peek-at-innovative-content-sharing-for-2024/"><u>[Updated] What Is Vimeo? A Peek at Innovative Content Sharing for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creative-prompts-different-approaches-ranking-3-leading-chatbot-responses/"><u>Creative Prompts, Different Approaches: Ranking 3 Leading Chatbot Responses</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evolving-tech-talk-6-ways-to-leverage-chatgpts-conductor/"><u>Evolving Tech Talk - 6 Ways to Leverage ChatGPT's Conductor</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-insiders-guide-overcome-iphone-video-dullness-using-4-adobe-solutions/"><u>In 2024, [Insider's Guide] Overcome iPhone Video Dullness Using 4 Adobe Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-reference-for-efficient-screenshotting-with-zd-softwares-tools/"><u>In 2024, Comprehensive Reference for Efficient Screenshotting with ZD Software's Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-steps-to-acquire-free-picture-frame-videos/"><u>In 2024, Steps to Acquire Free Picture Frame Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/installation-guide-for-androids-chatgpt-widget/"><u>Installation Guide for Android's ChatGPT Widget</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-a-viable-tool-for-error-checking-written-material/"><u>Is ChatGPT a Viable Tool for Error-Checking Written Material?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/spoofing-chatbots-how-some-apps-mislead-and-compromise-users/"><u>Spoofing ChatBots: How Some Apps Mislead & Compromise Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/into-success-with-instant-youtube-thumbnail-skills/"><u>Step Into Success with Instant YouTube Thumbnail Skills</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-truth-about-using-ai-for-generating-legitimate-windows-11-keys/"><u>The Truth About Using AI for Generating Legitimate Windows 11 Keys</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-5-free-ai-utilities-for-creating-advanced-email-drafts-and-inbox-summaries-using-chatgpt-technology/"><u>Unlock the Power of 5 FREE AI Utilities for Creating Advanced Email Drafts and Inbox Summaries Using ChatGPT Technology</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-windows-1011-8-innovative-personalization-techniques/"><u>Unlock Windows 10/11: 8 Innovative Personalization Techniques</u></a></li>
 </ul></div>
 

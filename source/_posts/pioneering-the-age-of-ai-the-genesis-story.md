@@ -1,7 +1,7 @@
 ---
 title: "Pioneering the Age of AI: The Genesis Story"
-date: 2024-10-29T18:44:27.029Z
-updated: 2024-11-03T03:51:40.851Z
+date: 2024-11-11T09:51:32.325Z
+updated: 2024-11-11T21:23:57.870Z
 tags:
   - chatgpt
   - open-ai
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do People Use ChatGPT?
 
  ChatGPT launched in November 2022, and it didn’t take long for people to experiment with how they might use it. For example, you can[use ChatGPT to do everything](http://www.makeuseof.com/things-you-can-do-with-chatgpt/) from telling pumpkin jokes to advising how to improve team collaboration or even writing marketing emails!
@@ -41,10 +48,10 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will ChatGPT Replace Programmers?
@@ -52,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
@@ -73,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Will ChatGPT Replace Other Jobs?
@@ -88,19 +95,6 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
  There’s also an interesting Twitter thread where ChatGPT impressed by helping to diagnose a type of heart disease. However, others replied that the chatbot is good at faking expertise and provided several possible diagnoses. Someone with genuine medical expertise must review the responses and use their knowledge to gauge the chatbot’s accuracy.
 
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## ChatGPT Deserves Caution
 
@@ -121,24 +115,18 @@ thumbnail: https://thmb.techidaily.com/b64b57a468478a5f630c27f8b893087308dc98f7c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-15-online-audio-haven-sites-for-video-content-makers/"><u>[New] 2024 Approved 15 Online Audio Haven Sites for Video Content Makers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-navigating-self-representation-on-facebook-live-calls/"><u>[New] 2024 Approved Navigating Self-Representation on Facebook Live Calls</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-boosting-twitch-viewership-5-key-tactics-for-2024/"><u>[Updated] Boosting Twitch Viewership 5 Key Tactics for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-turn-your-videos-into-a-revenue-stream-with-these-tips/"><u>[Updated] Turn Your Videos Into a Revenue Stream with These Tips</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1724766526574-macx-video-converter-pro-100/"><u>安心して使えるMacX Video Converter Pro － 100%ウイルスフリーで信頼性抜群・口コミ集結!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/editing-existing-projects/"><u>Editing Existing Projects</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-conversion-tutorial-changing-mpeg-files-to-quicktime-mov-for-both-pcs-and-macs/"><u>Effortless Conversion Tutorial: Changing MPEG Files to QuickTime MOV for Both PCs and Macs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-download-mp3-reactor-replacement-apps-for-your-mac/"><u>Free Download: MP3 Reactor Replacement Apps for Your Mac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-htc-u23-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from HTC U23 Pro</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Poco X5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iphones-vs-androids-choosing-the-right-smartphone/"><u>IPhones Vs. Androids - Choosing the Right Smartphone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/itunes-update-allows-iphone-users-to-easily-import-and-enjoy-non-apple-tracks/"><u>ITunes Update Allows iPhone Users to Easily Import and Enjoy Non-Apple Tracks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/limited-time-promo-secure-your-copy-of-macx-dvd-ripper-pro-at-no-cost-for-tradepub-subscribers/"><u>Limited-Time Promo! Secure Your Copy of MacX DVD Ripper Pro at No Cost for Tradepub Subscribers!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/mastering-mp4-enhancement-the-ultimate-srt-integration/"><u>Mastering MP4 Enhancement The Ultimate SRT Integration</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/seamless-steps-preserving-quality-when-uploading-360-videos-on-youtube/"><u>Seamless Steps: Preserving Quality When Uploading 360° Videos on YouTube</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-escort-max-360-next-level-radar-detectors-with-gps-capabilities/"><u>The Ultimate Guide to Escort Max 360 - Next-Level Radar Detectors with GPS Capabilities</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-ios-17-pick-the-ultimate-guide-to-the-best-file-handlers-for-iphones-and-ipads/"><u>Top iOS 17 Pick: The Ultimate Guide to the Best File Handlers for iPhones & iPads</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-benefits-in-depth-analysis-and-insights-on-the-ihome-zenergy-restorative-night-aid/"><u>Unveiling the Benefits: In-Depth Analysis and Insights on the IHome Zenergy Restorative Night Aid</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-protect-your-live-streams-the-periscope-video-howto/"><u>[New] Protect Your Live Streams The Periscope Video HowTo</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-essential-steps-for-forming-a-facebook-profile/"><u>[New] The Essential Steps for Forming a Facebook Profile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44kk44oz44k544k44kw44op44og44oq44o844or5yuv55s744gu44oa44km44oz44ot44o844oj5pa55rov77ya44oi44od44ox77ys44og44kv44ol44od44kv44cn/"><u>「インスタグラムリール動画のダウンロード方法：トップ２テクニック」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44ot44oh44kq44o744of44ol44o844k444od44kv55so6kqe44ks44kk44oj44cn/"><u>「ビデオ・ミュージック用語ガイド」</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yuv55s75yaf44gu44kq44o844oh44kj44kq44ks5yplusw44kk5ye644gb44kl44km44kn44ow44oe44o844or57s55lul/"><u>動画内のオーディオを取り出せるウェブツール紹介</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-vs-manual-techniques-upgrading-your-videos-from-hd-720p-to-ultra-hd-quality-4k/"><u>AI Vs. Manual Techniques: Upgrading Your Videos From HD (720P) to Ultra HD Quality (4K)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-obs-editing-software-how-to-remove-watermarks-from-your-recordings/"><u>Best OBS Editing Software - How to Remove Watermarks From Your Recordings</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-places-to-enjoy-anime-on-ps4-discover-the-ultimate-list-of-9-options/"><u>Best Places to Enjoy Anime on PS4: Discover the Ultimate List of 9 Options!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-side-gigs-pc-building-tips-and-retro-handhelds/"><u>ChatGPT Side Gigs, PC Building Tips, and Retro Handhelds</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/easy-movie-conversion-tools-for-macwindows-users-to-save-movies-in-various-formats-like-mp4-mov-avi/"><u>Easy Movie Conversion Tools for Mac/Windows Users to Save Movies in Various Formats Like MP4, MOV, AVI</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-your-pdf-documents-with-ease-explore-3-user-friendly-approaches/"><u>Transforming Your PDF Documents with Ease: Explore 3 User-Friendly Approaches</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-choice-of-leading-mac-system-cleaners-for-2amd-efficient-performance-enhancement-best-picks/"><u>ZDNet's Choice of Leading Mac System Cleaners for 2Amd Efficient Performance Enhancement | Best Picks</u></a></li>
 </ul></div>
 

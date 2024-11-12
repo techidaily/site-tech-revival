@@ -1,7 +1,7 @@
 ---
 title: "Understanding Generative AI: The Future Technology Unveiled"
-date: 2024-10-28T03:10:58.732Z
-updated: 2024-11-02T23:01:28.630Z
+date: 2024-11-04T16:55:18.086Z
+updated: 2024-11-12T05:55:09.776Z
 tags:
   - chatgpt
   - open-ai
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
  Vector databases are services that can easily be integrated with a pre-trained model, many of which will need an[API key to access the service](https://www.makeuseof.com/chatgpt-api-complete-guide/) .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Are Vector Embeddings
 
  In simple terms, vector embeddings, or simply embeddings, are numerical representations of a subject or a word. For example, a two-dimensional embedding might look like "2, -3", where 2 represents two units in the positive direction along the x-axis, while -3 represents a negative three units along the y-axis. While a three-dimensional embedding would look like "2, -3, 5", where five places the data point 5 units in the positive direction of the z-axis.
@@ -52,10 +45,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Generation of vector embeddings requires the use of vector embedding models and tools such as BERT, CNNs, and RNNs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why Are Vector Embeddings Important?
@@ -63,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
  Having the ability to plot the location of data in mathematical space allows computers to understand the relationship between data points and how strongly correlated they are to each other. By knowing the degree of correlation between each data point, an AI model will have the capability to understand queries in a contextual manner like a human would.
 
  Without understanding semantics or context, an AI may provide logically correct but contextually wrong answers. For example, the AI may misinterpret the phrase "He had a heavy heart as he walked away" as a guy with a heart condition instead of a guy feeling sad or burdened.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How Vector Databases Help Boost AI
 
@@ -80,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ![How vector database works](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/step-by-step.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  From generating vector embeddings to querying data from a vector database, your data undergoes a three-step process:
@@ -91,6 +91,13 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 1. **Creation of vector embeddings:** Based on the type of data, a vector embedding model is used to generate vector embeddings to be indexed. These embedding models are what turn words, images, videos, and audio into numbers/embeddings.
 2. **Indexing:** Once vector embeddings have been generated, they can now be stored on a vector database such as Pinecone, Milvus, and Chroma. These vector databases use various algorithms, such as product quantization (PQ) and locality-sensitive hashing (LSH), to index each embedding for quick and efficient storing and retrieval of data.
 3. **Querying:** When an application issues a query, the query must first go through the same vector embedding model used to generate the stored data on the vector database. The generated vector query is then placed on the vector database, where the nearest vector is then retrieved as the most fitting answer to the query.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Popular Vector Databases
 
@@ -100,13 +107,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * **Milvus** : An open-source vector platform built with similarity search and AI applications in mind. It provides quick and efficient indexing and search capabilities for high-dimensional vectors. In addition, Milvus supports multiple indexing algorithms and offers SDKs for various programming languages.
 * **Redis:** A high-performance vector database capable of supporting real-time applications, session management, and high-traffic websites. Redis is often used for real-time analytics, similarity search, and recommendation systems.
 * **Weaviate:** Offers schema discovery, real-time updates, semantic search, and contextualizing data. With these features, Weaviate is often used to create personalized experience systems for applications.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Future of Vector Databases
 
@@ -129,17 +129,14 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-attract-more-viewers-boosting-your-youtube-following/"><u>[New] 2024 Approved Attract More Viewers Boosting Your YouTube Following</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-free-backdrops-for-sustainable-cinema/"><u>[New] Free Backdrops for Sustainable Cinema</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-untold-chronicles-adventures-in-antique-literature/"><u>[New] In 2024, The Untold Chronicles Adventures in Antique Literature</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/boost-web-analytics-with-cookiebot-integration-optimize-user-experience-effectively/"><u>Boost Web Analytics with Cookiebot Integration – Optimize User Experience Effectively</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-recording-of-the-2020-fifa-world-cup-matches-for-on-demand-viewing-on-mobile-devices/"><u>Effortless Recording of the 2020 FIFA World Cup Matches for On-Demand Viewing on Mobile Devices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-vivo-y27s-frp-by-drfone-android/"><u>Full Guide to Bypass Vivo Y27s FRP</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mac-friendly-guide-safe-methods-for-extracting-content-from-encrypted-dvds/"><u>Mac-Friendly Guide: Safe Methods for Extracting Content From Encrypted DVDs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/summer-movie-preview-2024-exciting-titles-releasing-this-season/"><u>Summer Movie Preview 2024: Exciting Titles Releasing This Season</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-10-methods-seamless-iphone-to-mac-photo-transfer-guide/"><u>Top 10 Methods: Seamless iPhone to Mac Photo Transfer Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-selection-the-11-greatest-inspiring-movie-masterpieces/"><u>Ultimate Selection: The 11 Greatest Inspiring Movie Masterpieces</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstuck-and-ready-to-play-overcoming-the-black-load-hurdle-in-nba-2k21-202n4/"><u>Unstuck and Ready to Play: Overcoming the Black Load Hurdle in NBA 2K21 (202N4)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/what-are-the-best-websites-to-download-amusing-and-funny-ringtones-in-2024/"><u>What Are the Best Websites to Download Amusing and Funny Ringtones, In 2024</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/abbyy-upgrades-to-abbyy-finereader-server-with-significant-enhancements-and-rebranding/"><u>ABBYY Upgrades to ABBYY FineReader Server with Significant Enhancements and Rebranding</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-script-to-screen-animating-stories-using-wmm/"><u>From Script to Screen Animating Stories Using WMM</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopros-latest-camera-face-off-for-2024/"><u>GoPro's Latest Camera Face-Off for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-itel-p40plus-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Itel P40+ Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pandorasoundcloud/"><u>PandoraやSoundCloudのサブスクリプトされた音楽を保存する方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pixel-buds-pro-2-unveiled-anticipated-features-launch-timeline-and-pricing-insights/"><u>Pixel Buds Pro 2 Unveiled: Anticipated Features, Launch Timeline & Pricing Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-step-by-step-tutorial-creating-animated-gifs-from-images-using-your-computer/"><u>Simple Step-by-Step Tutorial: Creating Animated GIFs From Images Using Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-how-to-download-your-own-youtube-videos-with-privacy/"><u>Simple Steps: How to Download Your Own YouTube Videos with Privacy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-steps-transforming-flac-files-into-aac-format-across-pc-mac-and-online-services/"><u>Simple Steps: Transforming FLAC Files Into AAC Format Across PC, Mac & Online Services</u></a></li>
 </ul></div>
 

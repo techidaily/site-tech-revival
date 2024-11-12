@@ -1,7 +1,7 @@
 ---
 title: Steering AI Towards Human-Friendly Outcomes
-date: 2024-10-27T23:09:53.354Z
-updated: 2024-11-02T21:03:34.769Z
+date: 2024-11-10T09:30:03.909Z
+updated: 2024-11-11T21:40:59.031Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,19 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -64,25 +77,11 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
 
  The first time you use ChatpGPT Writer, you'll need to log in to your OpenAI account with it. The extension works with any Chromium browser such as Chrome, Brave, or Edge. While it's currently best for replying to professional emails, you can also give it non-work prompts to write casual and personal email messages.
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. YouTube Summary With ChatGPT
 
@@ -94,6 +93,13 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
  You can also add further prompts for more details regarding specific parts of the video without having to watch the full thing.
@@ -101,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Talk-to-ChatGPT
@@ -117,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -135,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -165,14 +171,16 @@ thumbnail: https://thmb.techidaily.com/b11cfa6cab7ceb94681fcab83e62d05efa3e76c07
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/budget-friendly-earfun-air-2-tinnitus-relief-headphones-in-depth-review-and-analysis/"><u>Budget-Friendly EarFun Air 2 Tinnitus Relief Headphones – In-Depth Review and Analysis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/budget-friendly-soundpeats-air4-pro-assessment-a-robust-substitute-for-the-original-airpods-pro/"><u>Budget-Friendly Soundpeats Air4 Pro Assessment: A Robust Substitute for the Original AirPods Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-bose-smart-ultra-soundbar-evaluation-rich-audio-experience-with-a-wealth-of-functionalities-simplified/"><u>Comprehensive Bose Smart Ultra Soundbar Evaluation: Rich Audio Experience with a Wealth of Functionalities Simplified</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comprehensive-evaluation-of-the-ecovacs-deebot-x2-omni-robotic-vacuum-mastery-in-home-cleaning/"><u>Comprehensive Evaluation of the Ecovacs Deebot X2 Omni Robotic Vacuum: Mastery in Home Cleaning</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-graphics-to-emojis-turning-gifs-into-stickers-on-telegram-and-more/"><u>In 2024, From Graphics to Emojis Turning GIFs Into Stickers on Telegram & More</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-13-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 13? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-mac-slideshows-a-beginners-guide-to-ezvid/"><u>New In 2024, Create Stunning Mac Slideshows A Beginners Guide to Ezvid</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-windows-odbc-management-toolkit/"><u>The Essential Windows ODBC Management Toolkit</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turning-twitter-videos-into-audible-mp3s/"><u>[New] Turning Twitter Videos Into Audible MP3s</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simultaneous-gaming-and-listening-to-youtube-melodies-on-your-xbox-console/"><u>Simultaneous Gaming & Listening to YouTube Melodies on Your Xbox Console</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speedy-mkv-to-mp4-file-conversion-the-ultimate-guide-with-the-speedy-mkv-to-mp4-converter-app/"><u>Speedy MKV to MP4 File Conversion: The Ultimate Guide with the Speedy MKV to MP4 Converter App</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-with-stars-the-finest-historical-channels-for-students-and-enthusiasts/"><u>Study with Stars The Finest Historical Channels for Students & Enthusiasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-walkthrough-converting-dvd-content-to-mp4-format-ensuring-seamless-playback-across-all-gadgets/"><u>The Ultimate Walkthrough: Converting DVD Content to MP4 Format Ensuring Seamless Playback Across All Gadgets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-online-services-for-seamless-conversion-of-aac-audio-files-into-mp3-playback-quality/"><u>Top Online Services for Seamless Conversion of AAC Audio Files Into MP3 Playback Quality</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-no-cost-mp4-to-avi-converter-for-windows-computers/"><u>Top-Rated No Cost MP4 to AVI Converter for Windows Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-top-17-digital-canvas-programs-to-boost-your-creativity/"><u>Unveiling the Top 17 Digital Canvas Programs to Boost Your Creativity</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-civi-3-disney-100th-anniversary-edition-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Civi 3 Disney 100th Anniversary Edition Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
 </ul></div>
 

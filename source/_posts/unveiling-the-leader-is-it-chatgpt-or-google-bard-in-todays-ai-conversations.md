@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Leader: Is It ChatGPT or Google Bard in Today’s AI Conversations?"
-date: 2024-11-01T21:07:46.066Z
-updated: 2024-11-02T20:33:08.660Z
+date: 2024-11-09T07:01:03.162Z
+updated: 2024-11-12T06:19:43.967Z
 tags:
   - chatgpt
   - open-ai
@@ -28,18 +28,18 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
 
  Dark mode is the new cool, and Google has finally listened to the request of Bard AI users by adding the dark mode feature to the Bard website. To toggle on dark mode, toggle**Use dark theme** in the bottom left corner of the Bard web interface. If you are accessing Bard from your mobile browser, you'll need to tap the menu icon in the top right corner of the Bard website to reveal the**Use dark theme** button in the bottom left corner.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Integration With Google Products and Third-Party Plugins
 
@@ -47,23 +47,9 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
@@ -71,9 +57,23 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
@@ -85,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
@@ -99,6 +92,13 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
@@ -125,20 +125,14 @@ thumbnail: https://thmb.techidaily.com/83458290de7bcf4c0b9a0fca6b5cfb5f98a876fbd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unboxing-viva-a-user-guide-to-its-videos/"><u>[Updated] 2024 Approved Unboxing Viva A User Guide to Its Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-pip-views-on-chrome-across-devices/"><u>2024 Approved Mastering PIP Views on Chrome Across Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/hering-youtube-shorts-a-comprehensive-overview-for-2024/"><u>Deciphering YouTube Shorts A Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-finest-music-playlist-generators-for-unique-tailored-soundtracks/"><u>Discover the Finest Music Playlist Generators for Unique, Tailored Soundtracks.</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-c300-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on C300</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Poco X5 Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-realme-c53-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Realme C53 to iPod | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-use-of-movie-maker-for-digital-storytelling/"><u>In 2024, Innovative Use of Movie Maker for Digital Storytelling</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/maximizing-efficiency-optimizing-4k-video-compression-for-smaller-file-sizes/"><u>Maximizing Efficiency: Optimizing 4K Video Compression for Smaller File Sizes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-video-size-in-imovie-through-effective-export-compression-techniques/"><u>Optimizing Video Size in iMovie Through Effective Export Compression Techniques</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/professional-disaster-preparedness-with-windows-data-protection-aomei-technician-plus-for-corporate-resilience/"><u>Professional Disaster Preparedness with Windows Data Protection: AOMEI Technician Plus for Corporate Resilience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/resolving-cannot-open-errors-in-itunes-on-your-macbook-or-imac-comprehensive-guide/"><u>Resolving 'Cannot Open' Errors in iTunes on Your MacBook or iMac - Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ultimate-selection-top-7-premium-4k-media-players-for-stunning-uhd-experience/"><u>Ultimate Selection: Top 7 Premium 4K Media Players for Stunning UHD Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/verwandle-deine-avi-dateien-auf-mac-problemlos-in-mp4-mithilfe-des-spezialisierten-mp4-to-avi-converters-fur-macos-benutzer/"><u>Verwandle Deine AVI Dateien Auf Mac Problemlos in MP4 Mithilfe Des Spezialisierten MP4 to AVI Converters Für macOS Benutzer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhance-pc-speed-for-swift-steam-content-delivery/"><u>Enhance PC Speed for Swift Steam Content Delivery</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guide-pas-a-pas-pour-extraire-des-donnees-du-disque-dur-inaccessible-de-votre-portable-dell/"><u>Guide Pas À Pas Pour Extraire Des Données Du Disque Dur Inaccessible De Votre Portable Dell.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-adding-images-to-your-youtube-videos-as-an-engaging-picture-slideshow/"><u>Step-by-Step Guide: Adding Images to Your YouTube Videos as an Engaging Picture Slideshow</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-mpeg-videos-to-mp4-format-across-different-systems-latest-techniques/"><u>Step-by-Step Guide: Converting MPEG Videos to MP4 Format Across Different Systems – Latest Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-integrating-sound-into-your-adobe-after-effects-project/"><u>Step-by-Step Guide: Integrating Sound Into Your Adobe After Effects Project</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-setting-up-the-cyanfluence-addon-for-kodi-version-19-matrix/"><u>Step-by-Step Guide: Setting Up the Cyanfluence Addon for Kodi Version 19 Matrix</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>The Best iSpoofer Alternative to Try On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-voice-text-to-speech-in-2024/"><u>Updated What Is AI Voice Text to Speech, In 2024</u></a></li>
 </ul></div>
 

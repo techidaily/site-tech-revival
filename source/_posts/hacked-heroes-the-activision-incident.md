@@ -1,7 +1,7 @@
 ---
 title: "Hacked Heroes: The Activision Incident"
-date: 2024-09-11T19:32:06.893Z
-updated: 2024-09-12T19:32:06.893Z
+date: 2024-11-07T06:24:58.870Z
+updated: 2024-11-12T05:08:38.457Z
 tags:
   - chatgpt
   - open-ai
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## What Is OpenAI's GPT-5?
@@ -51,22 +51,15 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  These all point to one exciting reality: GPT-5 is coming! That said, quite a lot of things are speculations at this point. But there are a few things we hope to see and are fairly confident of seeing in the model. Here are some of them:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. More Multimodality
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
@@ -75,15 +68,22 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
@@ -98,13 +98,6 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
  Perhaps one of the most exciting possibilities of a GPT-5 release is the debut of GPT Agents. While the term "game-changer" has probably been overused in AI, GPT agents would truly be game-changers in every practical sense. But just how game-changing would this be?
@@ -118,13 +111,6 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
  GPT Agents promises specialized expert bots coordinated by, hopefully, GPT-5 capable of self-prompting and tackling all subsets of a complex task autonomously. Emphasis on "self-prompting" and "autonomous."
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Less Hallucination
 
@@ -151,5 +137,23 @@ thumbnail: https://thmb.techidaily.com/412d065764cb0ba50733f600b7a0dabb6c2d4fd11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-pocketcapture-app-testimonials-and-insights/"><u>[New] PocketCapture App Testimonials & Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-to-stop-your-gtfo-application-from-crashing/"><u>Comprehensive Solutions to Stop Your GTFO Application From Crashing</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/die-5-besten-kostenlosen-mp4-konverter-professionelle-tools-um-videos-effizient-inaus-mp4-zu-konvertieren/"><u>Die 5 Besten Kostenlosen MP4-Konverter: Professionelle Tools, Um Videos Effizient In/Aus MP4 Zu Konvertieren</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/die-top-5-gratis-videoeditingtools-fur-2024-ihre-perfekte-wahl/"><u>Die Top-5-Gratis-Videoeditingtools Für 2024: Ihre Perfekte Wahl</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dvd-a-hdmp4-tramite-codifica-hevch265-senza-costi-alta-fedelta-visiva-garantita/"><u>DVD a HDMP4 Tramite Codifica HEVC/H.265 Senza Costi, Alta Fedeltà Visiva Garantita</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-examining-the-efficiency-of-m1-for-editing-software/"><u>In 2024, Examining the Efficiency of M1 for Editing Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-c12-plus-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C12 Plus Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/reduzierung-der-grosse-von-hd-4k-und-8k-videos-um-bis-zu-90-schritt-fur-schritt-anleitung/"><u>Reduzierung Der Größe Von HD, 4K Und 8K Videos Um Bis Zu 90 %: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/swf-flv-movavi-online/"><u>SWF 플레이어링 파일을 무료로 FLV로 쉽게 변환 - Movavi Online</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-tongue-of-truth-learning-hangul-for-ks/"><u>The Tongue of Truth: Learning Hangul for KS</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-trending-images-tales-behind-the-graphics/"><u>Top Trending Images Tales Behind the Graphics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranked-video-games-fps-enhancer-the-ultimate-guide-to-improve-your-pc-gaming-experience/"><u>Top-Ranked Video Games FPS Enhancer: The Ultimate Guide to Improve Your PC Gaming Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-effortlessly-transform-iso-images-into-high-quality-mp4-videos-2024-update-with-gratis-applications/"><u>Ultimate Guide: Effortlessly Transform ISO Images Into High-Quality MP4 Videos (2024 Update with Gratis Applications)</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-vivo-y56-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Vivo Y56 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/win11-mastery-bypassing-secure-boot-via-rufus/"><u>Win11 Mastery: Bypassing Secure Boot via Rufus</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725284639254-winx-dvd/"><u>WinX DVD 사용자가 원하는 모든 기능을 활용하기 위한 강렬한 마스터 가이드</u></a></li>
+</ul></div>
 
